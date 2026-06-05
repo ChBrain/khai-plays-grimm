@@ -12,9 +12,7 @@ const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 describe("Grimm house: plays conform to the canon", () => {
   it("every play validates against the canon (zero findings)", () => {
     const results = validateProject({ root, contentDir: join(root, "plays") });
-    const errors = results.flatMap((r) =>
-      r.errors.map((e) => `${r.file}: ${e}`),
-    );
+    const errors = results.flatMap((r) => r.errors.map((e) => `${r.file}: ${e}`));
     expect(errors).toEqual([]);
   });
 });
