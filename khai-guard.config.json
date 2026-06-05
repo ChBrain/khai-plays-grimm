@@ -13,7 +13,12 @@
       {
         "pattern": "governance/*",
         "layer": "governance",
-        "allow": [".github/**", ".husky/**", "khai-guard.config.json", "tests/**"]
+        "allow": [
+          ".github/**",
+          ".husky/**",
+          "khai-guard.config.json",
+          "tests/**"
+        ]
       },
       { "pattern": "chore/*", "layer": "general", "allow": [] },
       { "pattern": "fix/*", "layer": "general", "allow": [] },
