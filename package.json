@@ -12,10 +12,24 @@
     "registry": "https://npm.pkg.github.com",
     "access": "public"
   },
+  "files": [
+    "plays/**",
+    "README.md",
+    "LICENSE",
+    "LICENSE-CODE"
+  ],
+  "khai": {
+    "engine": "plays-grimm",
+    "card": {
+      "wire": "The Grimm production house: a collection of khai plays."
+    }
+  },
   "scripts": {
     "test": "vitest run",
     "format": "prettier --write .",
-    "format:check": "prettier --check ."
+    "format:check": "prettier --check .",
+    "version": "changeset version",
+    "release": "changeset publish"
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.8",
@@ -23,6 +37,7 @@
     "@chbrain/khai-language": "^0.1.0",
     "@chbrain/khai-tests": "^0.1.0",
     "@chbrain/khai-guard": "^0.1.0",
+    "@chbrain/khai-review": "^0.1.0",
     "@chbrain/khai-pack": "^0.0.3",
     "vitest": "^4.1.8",
     "prettier": "^3.3.0",
