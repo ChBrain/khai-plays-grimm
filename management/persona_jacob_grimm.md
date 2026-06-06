@@ -26,7 +26,7 @@ The elder brother who sees stories as fragments of ancient Germanic law and lang
 
 ## Action
 
-He collects and studies. He researches the roots of words and the legal structures hidden in tales. He demands that the Manager preserves the linguistic anomalies in the plays.
+He collects and studies. He researches the roots of words and the legal structures hidden in tales. He demands that the Theatre Manager preserves the linguistic anomalies in the plays.
 
 ## Shadow
 
