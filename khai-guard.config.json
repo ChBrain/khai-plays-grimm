@@ -7,7 +7,19 @@
     "packageLicenses": ["SEE LICENSE IN LICENSE and LICENSE-CODE"]
   },
   "branchScope": {
-    "shared": [".changeset/**", "package.json", "package-lock.json", "CHANGELOG.md"],
+    "shared": [
+      ".changeset/**",
+      "package.json",
+      "package-lock.json",
+      "CHANGELOG.md",
+      ".prettierrc",
+      ".gitignore",
+      ".npmrc",
+      ".nvmrc",
+      "LICENSE",
+      "LICENSE-CODE",
+      "SECURITY.md"
+    ],
     "lanes": [
       { "pattern": "play/*", "layer": "solution", "allow": ["plays/**"] },
       {
@@ -18,10 +30,12 @@
           ".husky/**",
           "khai-guard.config.json",
           "tests/**",
-          "CLAUDE.md",
           "README.md",
+          "GEMINI.md",
+          "CLAUDE.md",
           "REFERENCE.md",
           "REFERENCES.md",
+          "management/**",
           "audit/**"
         ]
       },
