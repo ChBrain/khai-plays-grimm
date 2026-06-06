@@ -14,7 +14,7 @@ type: historical
 
 ## Taxonomy
 
-[The Manager](position_manager.md). Stamped for the Grimm house.
+[The Theatre Manager](position_theatre_manager.md). Stamped for the Grimm house.
 
 ## Owner
 
