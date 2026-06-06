@@ -18,8 +18,8 @@ The current status of the Grimm productions within this house:
 
 Grimm's writings, historical archives, and cultural context.
 
-| Source               | Key Work / Event | Scope                            |
-| -------------------- | ---------------- | -------------------------------- |
+| Source    | Key Work / Event | Scope                            |
+| --------- | ---------------- | -------------------------------- |
 | **Grimm** | Canonical works  | Description of the source canon. |
 
 ## Restrictions
