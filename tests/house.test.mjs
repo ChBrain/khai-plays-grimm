@@ -1,8 +1,9 @@
 import { describe, it, expect } from "vitest";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
-import { readFileSync, readdirSync } from "node:fs";
+import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { validateProject } from "@chbrain/khai-tests";
+import { referenceCard } from "@chbrain/khai-arch";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -11,6 +12,15 @@ describe("Grimm house: plays conform to the canon", () => {
     const results = validateProject({ root, contentDir: join(root, "plays") });
     const errors = results.flatMap((r) => r.errors.map((e) => `${r.file}: ${e}`));
     expect(errors).toEqual([]);
+  });
+
+  it("house reference warrant conforms to LORE", () => {
+    const refPath = existsSync(join(root, "REFERENCES.md"))
+      ? join(root, "REFERENCES.md")
+      : join(root, "REFERENCE.md");
+    expect(existsSync(refPath)).toBe(true);
+    const refText = readFileSync(refPath, "utf8");
+    expect(() => referenceCard(refText)).not.toThrow();
   });
 
   it("every play is isolated (no relative links pointing outside the play's directory)", () => {

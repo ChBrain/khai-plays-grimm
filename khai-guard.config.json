@@ -13,7 +13,17 @@
       {
         "pattern": "governance/*",
         "layer": "governance",
-        "allow": [".github/**", ".husky/**", "khai-guard.config.json", "tests/**", "CLAUDE.md"]
+        "allow": [
+          ".github/**",
+          ".husky/**",
+          "khai-guard.config.json",
+          "tests/**",
+          "CLAUDE.md",
+          "README.md",
+          "REFERENCE.md",
+          "REFERENCES.md",
+          "audit/**"
+        ]
       },
       { "pattern": "changeset-release/*", "layer": "general", "allow": [] },
       { "pattern": "chore/*", "layer": "general", "allow": [] },

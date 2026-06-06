@@ -16,7 +16,7 @@ The scope of this house covers the entire canonical collection:
   - _Die sechs Schwäne_ (KHM 049) — modeling the heavy toll of sworn silence and the slow, stitch-by-stitch labor of redemption.
 - **Experimental & Fragmentary Motifs**: Staging recurring motifs (such as the three tests, animal guides, magical instruments, and the inversion of fates) across the entire collection.
 
-## Staging Status
+### Staging Status
 
 The current status of the Grimm productions within this house:
 
