@@ -1,3 +1,7 @@
+---
+language: de
+---
+
 # khai plays: Grimm
 
 The Grimm production house: a collection of khai plays, each a
