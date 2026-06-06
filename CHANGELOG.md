@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-grimm
 
+## 0.5.0
+
+### Minor Changes
+
+- 1ebfb47: play: add The Youth Who Went Forth to Learn What Fear Was (KHM 004) in Grimm-Deutsch
+
 ## 0.4.0
 
 ### Minor Changes
