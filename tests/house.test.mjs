@@ -8,6 +8,10 @@ import { validateProjectLanguages } from "@chbrain/khai-language";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 
+// Every play in the Grimm house conforms to the canon. Green on an
+// empty house (no plays yet); as plays land, each is validated against its type
+// and the wiring the installed engines declare. The house holds; the plays are
+// written in khai-playwright mode.
 describe("Grimm house: plays conform to the canon", () => {
   it("every play validates against the canon (zero findings)", () => {
     const results = validateProject({ root, contentDir: join(root, "plays") });
