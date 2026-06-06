@@ -4,6 +4,7 @@ import { dirname, join } from "node:path";
 import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { validateProject } from "@chbrain/khai-tests";
 import { referenceCard } from "@chbrain/khai-arch";
+import { validateProjectLanguages } from "@chbrain/khai-language";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -11,6 +12,14 @@ describe("Grimm house: plays conform to the canon", () => {
   it("every play validates against the canon (zero findings)", () => {
     const results = validateProject({ root, contentDir: join(root, "plays") });
     const errors = results.flatMap((r) => r.errors.map((e) => `${r.file}: ${e}`));
+    expect(errors).toEqual([]);
+  });
+
+  it("every play satisfies the language policy", () => {
+    const results = validateProjectLanguages(root);
+    const errors = results.flatMap((r) =>
+      r.errors.map((e) => `${r.file}: ${e}`),
+    );
     expect(errors).toEqual([]);
   });
 
