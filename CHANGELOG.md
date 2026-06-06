@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-grimm
 
+## 0.2.0
+
+### Minor Changes
+
+- 5002356: play: add The Frog King (KHM 001) in Grimm-Deutsch
+
 ## 0.1.0
 
 ### Minor Changes
