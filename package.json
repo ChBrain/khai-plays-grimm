@@ -15,7 +15,8 @@
   "scripts": {
     "test": "vitest run",
     "format": "prettier --write .",
-    "format:check": "prettier --check ."
+    "format:check": "prettier --check .",
+    "scaffold": "node C:\\Users\\kai\\.gemini\\antigravity\\scratch\\scaffold.mjs"
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.8",
