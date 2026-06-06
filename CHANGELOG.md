@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-grimm
 
+## 0.4.0
+
+### Minor Changes
+
+- 18b3e11: play: add Our Lady's Child (KHM 003) in Grimm-Deutsch
+
 ## 0.3.0
 
 ### Minor Changes
