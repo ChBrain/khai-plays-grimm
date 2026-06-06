@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-grimm
 
+## 0.3.0
+
+### Minor Changes
+
+- b095dcf: play: add Cat and Mouse in Partnership (KHM 002) in Grimm-Deutsch
+
 ## 0.2.0
 
 ### Minor Changes
