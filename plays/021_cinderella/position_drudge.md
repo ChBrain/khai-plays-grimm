@@ -1,0 +1,35 @@
+---
+khai: position
+title: "drudge"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-07"
+---
+
+# Position: drudge
+
+## Taxonomy
+
+Parent group: positions
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Has
+
+Die gedemütigte und rechtlose Stellung der Küchenmagd, die im Staub arbeiten und schlafen muss.
+
+## Orders
+
+Das unermüdliche Verrichten der Küchenarbeit und das Dienen der Stiefschwestern.
+
+## Loses
+
+Ihre Identität als Tochter des Hauses und den Respekt der Stiefmutter.
+
+## Drives
+
+Der Gehorsam gegenüber dem Vater und der Wunsch nach Frieden in der zerrütteten Familie.
