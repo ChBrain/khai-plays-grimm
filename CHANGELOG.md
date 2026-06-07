@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-grimm
 
+## 0.7.0
+
+### Minor Changes
+
+- c2508cb: play: add The Faithful Johannes (KHM 006) in Grimm-Deutsch
+
 ## 0.6.0
 
 ### Minor Changes
