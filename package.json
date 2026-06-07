@@ -34,7 +34,7 @@
     "test": "vitest run",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "version": "changeset version",
+    "version": "changeset version && npm run registry",
     "release": "changeset publish",
     "scaffold": "node C:\\Users\\kai\\.gemini\\antigravity\\scratch\\scaffold.mjs",
     "registry": "node management/update_registry.js"
