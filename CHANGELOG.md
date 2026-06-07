@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-grimm
 
+## 0.9.0
+
+### Minor Changes
+
+- 6890dc1: play: add The Wonderful Musician (KHM 008) in Grimm-Deutsch
+
 ## 0.8.0
 
 ### Minor Changes
