@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-grimm
 
+## 0.11.0
+
+### Minor Changes
+
+- 3a9a6f5: play: add The Pack of Ragamuffins (KHM 010) in Grimm-Deutsch
+
 ## 0.10.0
 
 ### Minor Changes
