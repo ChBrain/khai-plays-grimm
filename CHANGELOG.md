@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-grimm
 
+## 0.8.0
+
+### Minor Changes
+
+- 4087ff7: play: add The Good Bargain (KHM 007) in Grimm-Deutsch
+
 ## 0.7.0
 
 ### Minor Changes
