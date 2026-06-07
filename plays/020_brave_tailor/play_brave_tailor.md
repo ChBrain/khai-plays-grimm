@@ -20,7 +20,7 @@ Das tapfere Schneiderlein.
 
 ## Arc
 
-Ein kleiner Schneider erschlägt sieben Fliegen auf seinem Pflaumenmusbrot und stickt stolz „Sieben auf einen Streich“ auf seinen Gürtel. Er zieht in die Welt hinaus, wo er durch List und kluge Einfälle zwei Riesen überlistet, die sich gegenseitig erschlagen. Der König stellt ihm daraufhin drei gefährliche Prüfungen: Er soll zwei weitere Riesen im Wald töten, ein wildes Einhorn fangen und einen wütenden Eber erlegen. Der Schneider bewältigt alle Aufgaben mit Witz statt roher Gewalt. Er fordert die versprochene Belohnung: die Königstochter zur Ehe und das halbe Königreich. Als seine Gemahlin des Nachts seine Herkunft belauscht und ihn durch Diener überwältigen lassen will, überlistet er auch diese Häscher durch lautes Prahlen im Schlaf, wodurch er seine Herrschaft endgültig sichert.
+Ein kleiner Schneider erschlägt sieben Fliegen auf seinem Pflaumenmusbrot und zieht in die Welt.
 
 ## Company
 

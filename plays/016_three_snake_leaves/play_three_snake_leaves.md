@@ -20,7 +20,7 @@ Die drei Schlangenblätter.
 
 ## Arc
 
-Ein armer Jüngling zieht in den Krieg, siegt durch tapferen Einsatz und gewinnt die Hand der Königstochter. Diese fordert jedoch den Schwur, dass der Überlebende mit dem Verstorbenen lebendig begraben wird. Als die Prinzessin stirbt, wird der Jüngling mit ihr im Grabgewölbe eingeschlossen. Dort beobachtet er, wie eine Schlange durch drei grüne Blätter wiederbelebt wird. Er nutzt diese Blätter, um seine Frau ins Leben zurückzurufen. Doch nach ihrer Auferstehung schwindet ihre Liebe; sie verschwört sich mit einem Schiffshauptmann und wirft ihren schlafenden Mann ins Meer. Ein treuer Diener rettet den Jüngling und erweckt ihn erneut mit den Schlangenblättern. Gemeinsam klagen sie die Verräter vor dem König an. Die Schuldigen werden überführt und in einem durchlöcherten Schiff auf dem Meer ausgesetzt, wo sie ertrinken.
+Ein armer Jüngling zieht in den Krieg, siegt durch tapferen Einsatz und gewinnt die Königstochter zur Frau.
 
 ## Company
 

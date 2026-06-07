@@ -20,7 +20,7 @@ Der treue Johannes.
 
 ## Arc
 
-Ein sterbender [alter König](persona_old-king.md) übergibt seinem treuen Diener [Johannes](persona_johannes.md) die Sorge für seinen Sohn, den [jungen König](persona_young-king.md). Nur eine Kammer im [Schloß](place_royal-castle.md) soll der junge König nie betreten: jene, in der das [Bildnis der Königstochter vom goldenen Schlosse](piece_portrait.md) hängt, denn wer es sieht, muß vor Liebe verschmachten. Johannes hält die Kammer so lange geschlossen wie er kann; doch der junge König erzwingt den Eintritt, erblickt das Bildnis und verfällt ihm auf der Stelle. Johannes rüstet eine Fahrt zum [Goldenen Schloß](place_golden-castle.md) aus, lockt die [Königstochter](persona_princess.md) durch goldenes Gerät aufs Schiff und gewinnt ihre Gunst. Auf der Heimfahrt belauscht Johannes drei [Raben](persona_ravens.md) und erfährt drei Prophezeiungen: ein [Kastanienpferd](piece_chestnut-horse.md) werde den König entführen, ein [Hochzeitshemd](piece_wedding-shirt.md) werde ihn verbrennen, die Braut werde beim Tanz ohnmächtig fallen und sterben. Jede Gefahr läßt sich nur durch eine Tat abwenden, die Johannes nicht erklären darf, denn täte er es, würde er zu Stein. Er rettet den König dreimal; dann erstarrt er zur Steinsäule. Der junge König läßt ihn im Palast aufstellen. Eines Nachts erscheint Johannes im Traum und nennt das einzige Mittel der [Erlösung](process_redemption.md): der König müsse seinen beiden Söhnen das Blut aus den Wangen streichen und damit die Statue benetzen. Der König tut es; Johannes erwacht, und die Kinder leben wieder.
+Ein sterbender König übergibt seinem treuen Diener Johannes die Sorge um den jungen König.
 
 ## Company
 

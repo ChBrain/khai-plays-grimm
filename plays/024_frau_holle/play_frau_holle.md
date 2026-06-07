@@ -20,7 +20,7 @@ Frau Holle.
 
 ## Arc
 
-Eine Witwe bevorzugt ihre faule, leibliche Tochter und zwingt ihre fleißige Stieftochter zur harten Arbeit am Brunnen. Als die Stieftochter ihre blutverschmierte Spule im Brunnen waschen will, fällt diese hinab. Unter Drohungen der Stiefmutter springt das Mädchen in den Brunnen, um die Spule zurückzuholen. Sie erwacht auf einer Wiese im Unterland, rettet das Brot im Backofen und schüttelt die Äpfel vom Apfelbaum. Danach tritt sie in den Dienst der alten Frau Holle. Durch fleißiges Arbeiten und das Aufschütteln des Federbetts, was auf der Erde schneit, verdient sie sich die Heimkehr. Sie wird durch ein großes Tor mit Gold überschüttet und kehrt reich zurück. Die faule Schwester eifert ihr nach, verweigert jedoch Ofen, Baum und den Dienst am Bett. Zum Lohn für ihre Trägheit wird sie am Tor mit Pech übergossen, das ihr Leben lang an ihr kleben bleibt.
+Eine Witwe bevorzugt ihre faule, leibliche Tochter und zwingt ihre fleißige Stieftochter zur Arbeit.
 
 ## Company
 

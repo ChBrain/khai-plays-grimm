@@ -20,7 +20,7 @@ Der gute Handel.
 
 ## Arc
 
-Ein armer [Bauer](persona_peasant.md) treibt seine Kuh zum Markt und verkauft sie für sieben Taler. Auf dem Heimweg hört er am Teich die [Frösche](persona_frogs.md) rufen, die ihm wie „acht, acht“ statt „sieben“ klingen. Zornig wirft er ihnen das Geld hin, damit sie es selbst zählen. Darauf schlachtet er eine zweite Kuh, trägt das Fleisch zur Stadt und überläßt es einer Schar [Hunde](persona_dogs.md) auf Borg, die ihm versprechen, in drei Tagen zu zahlen. Als der [Metzger](persona_butcher.md) als Herr der Hunde am dritten Tage nichts von der Schuld wissen will, klagt der Bauer seine Not vor dem [König](persona_king.md). Durch seine wunderliche Klage bringt er die stumme [Königstochter](persona_princess.md) zum Lachen. Der König verspricht ihm den Lohn, der sich jedoch als fünfhundert Prügel entpuppt. Vor dem Tor teilt der Bauer diesen Lohn auf: zweihundert bekommt der [Soldat](persona_soldier.md), dreihundert der [Jude](persona_merchant.md). Als diese ihren Teil der Schläge empfangen haben, erhält der Bauer zur Entschädigung Gold aus der Schatzkammer. Im Wirtshaus beklagt er sich über den König, was der Jude verrät. Vor dem König rettet sich der Bauer durch eine neue List, indem er sich den schönen Rock des Juden leiht und behauptet, der Jude werde gar lügenhaft sagen, der Rock gehöre ihm. Der Jude wird als Lügner verjagt, und der Bauer zieht reich und zufrieden heim.
+Ein armer Bauer treibt seine Kuh zum Markt und verkauft sie für ein scheinbar wertloses Versprechen.
 
 ## Company
 

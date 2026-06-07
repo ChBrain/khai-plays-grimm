@@ -20,7 +20,7 @@ Der wunderliche Spielmann.
 
 ## Arc
 
-Ein einsamer [Spielmann](persona_musician.md) zieht durch den [Wald](place_forest.md) und wünscht sich einen treuen Gefährten. Er lockt mit dem Spiel seiner [Geige](piece_fiddle.md) nacheinander einen [Wolf](persona_wolf.md), einen [Fuchs](persona_fox.md) und einen [Hasen](persona_hare.md) an. Da sie ihm jedoch als wilde Tiere nicht als Gefährten taugen, überlistet und fesselt er sie nacheinander: den Wolf klemmt er in einer [Eiche](place_oak-tree.md) mit einem [Keilstein](piece_stone.md) fest, den Fuchs bindet er an niedergebogene [Haselsträucher](place_hazel-bush.md) mit einem [Strick](piece_string.md), und den Hasen fesselt er mit dem Strick an einen Baum. Schließlich lockt seine Musik einen armen [Holzhauer](persona_woodcutter.md) an, der sich über das Spiel freut und sein Gefährte wird. Als die drei befreiten Tiere voller Zorn herbeieilen, um Rache zu nehmen, stellt sich der Holzhauer schützend mit seiner [Axt](piece_axe.md) vor den Spielmann. Die Tiere fliehen erschrocken, und der Spielmann zieht mit seinem gewonnenen Gefährten weiter.
+Ein einsamer Spielmann zieht durch den Wald und lockt Tiere mit seiner Geige an.
 
 ## Company
 

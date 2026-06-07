@@ -20,7 +20,7 @@ Rapunzel.
 
 ## Arc
 
-Ein Mann stiehlt für seine schwangere Frau Rapunzeln aus dem Garten einer gefürchteten Zauberin. Gothel ertappt ihn und verlangt das Kind bei der Geburt. Sie sperrt das heranwachsende Mädchen Rapunzel in einen hohen Turm im Walde, der weder Tür noch Treppe besitzt. Der Königssohn hört ihren Gesang, entdeckt den Weg über ihr langes, goldenes Haar in den Turm, und sie verlieben sich. Die Zauberin entdeckt den Verrat, schneidet Rapunzels Haare ab und verstößt sie in die Wüste. Den Königssohn stößt sie hinab, worauf er erblindet. Jahre später finden sich die Liebenden in der Wildnis wieder; Rapunzels Tränen heilen seine Augen, und sie kehren glücklich in sein Reich zurück.
+Ein Mann stiehlt für seine schwangere Frau Rapunzeln aus dem Garten einer gefürchteten Zauberin.
 
 ## Company
 

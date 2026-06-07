@@ -20,7 +20,7 @@ Von dem Fischer und seiner Frau.
 
 ## Arc
 
-Ein armer Fischer fängt einen sprechenden Butt, der sich als verwandelter Prinz offenbart, und lässt ihn mitleidig frei. Als er seiner unzufriedenen Frau Ilsebill davon erzählt, verlangt diese, dass er zum Butt zurückkehrt und sich eine Hütte wünscht. Kaum ist der Wunsch erfüllt, verlangt Ilsebill immer größere Reiche: erst ein steinernes Schloss, dann die Königswürde, die Kaiserwürde und schließlich das Papsttum. Das Meer spiegelt ihre maßlose Gier wider und wird mit jedem Wunsch unruhiger, wilder und düsterer. Als Ilsebill schließlich fordert, wie der liebe Gott zu werden, um Sonne und Mond auf- und untergehen zu lassen, verweigert der Butt den Wunsch und schickt sie zurück in ihren ursprünglichen schmutzigen Pisspott.
+Ein armer Fischer fängt einen sprechenden Butt, der sich als verwandelter Prinz offenbart.
 
 ## Company
 

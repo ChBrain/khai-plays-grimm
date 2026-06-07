@@ -20,7 +20,7 @@ Die sechs Schwäne.
 
 ## Arc
 
-In der Räuberhütte, in jener Nacht, da die Brüder den Preis nennen, begibt sich das Schwesterchen in das Schweigen. Sie trägt dieses Schweigen vom Grunde des Waldes über das Bett des Königs bis vor den Scheiterhaufen, ohne es auch nur ein einziges Mal abzulegen. Das Schweigen ist nicht Geduld: Es ist das Werkzeug, das der Zauber verlangt, und jeder Plot erhöht die Last, es zu bewahren. Der Handel im Wald macht den Zauber erst möglich. Der Zauber macht das Gebot notwendig. Das Gebot macht die stumme Ehe zur einzigen Gestalt, die ihr Leben annehmen kann. Die stumme Ehe macht die Verleumdung möglich, und die Verleumdung führt sie unweigerlich auf den Scheiterhaufen. Erst auf dem Scheiterhaufen, mit den sechs Hemden auf dem Arm und sechs Schwänen, die vom Himmel niederfahren, vollendet das Werkzeug seine Pflicht. Nimmt man einen Plot fort, so gerät das Gefüge ins Wanken: Fällt die Verleumdung weg, fehlt dem Scheiterhaufen der Grund; fällt die stumme Ehe weg, hat die Verleumdung kein Ziel; fällt das Gebot weg, bleibt das Schweigen bloße Seltsamkeit. Der Bogen ist eine Verdichtung: Jeder Plot lädt mehr Last auf dasselbe ununterbrochene Schweigen, bis im Augenblick des Feuers das Schweigen bricht und der Fluch im selben Atemzuge schwindet.
+In der Räuberhütte, in jener Nacht, da die Brüder den Preis nennen, begibt sich die Schwester auf die Suche.
 
 ## Company
 

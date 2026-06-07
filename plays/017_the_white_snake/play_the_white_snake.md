@@ -20,7 +20,7 @@ Die weiße Schlange.
 
 ## Arc
 
-Ein neugieriger Diener isst heimlich von der verdeckten Speise des Königs, einer weißen Schlange, und versteht fortan die Sprache der Tiere. Als die Königin ihren Ring verliert, klärt der Diener den Diebstahl mithilfe einer Ente auf und rettet sich vor der Hinrichtung. Er begibt sich auf Reisen und rettet im Mitleid Fische, Ameisen und junge Raben, die ihm dafür ihre Hilfe versprechen. Als er um die Hand der stolzen Prinzessin anhält, muss er drei unlösbare Aufgaben lösen: einen goldenen Ring aus dem Meer bergen, verstreute Hirse sammeln und einen goldenen Apfel vom Baum des Lebens bringen. Seine dankbaren Tierhelfer verrichten alle Arbeiten für ihn. Der Diener teilt den Lebensapfel mit der Prinzessin, was sie in Liebe vereint, und sie feiern glücklich Hochzeit.
+Ein neugieriger Diener isst heimlich von der verdeckten Speise des Königs, einer weißen Schlange.
 
 ## Company
 

@@ -20,7 +20,7 @@ Der Wolf und die sieben jungen Geißlein.
 
 ## Arc
 
-Eine [Mutter Geiß](persona_mother-goat.md) muß in den [Wald](place_forest.md) gehen und warnt ihre [sieben Geißlein](persona_seven-kids.md) eindringlich vor dem [Wolf](persona_wolf.md), der gerne Kinder frißt. Sie erkennen ihn, sagt sie, an seiner rauhen Stimme und den schwarzen Pfoten. Der Wolf kommt dreimal: zuerst mit grober Stimme, dann mit verschlückter Kreide und zuletzt mit [weißbemehlter Pfote](piece_whitened-paw.md). Beim dritten Mal öffnen die Kinder die Türe, der Wolf dringt ein und schluckt sechs der Geißlein; nur das [siebte Kind](persona_youngest-kid.md) verbirgt sich in der [Wanduhr](place_clock-case.md) und bleibt heil. Als die Mutter heimkehrt und das Unglück sieht, eilt sie mit dem einzigen Überlebenden auf die [Wiese](place_meadow.md), wo der Wolf [schlummernd im Grase](process_wolf-sleeping.md) liegt, den Bauch prall von den Kindern. Sie schneidet ihn auf, befreit die [sechs Geißlein](persona_seven-kids.md) lebendig, füllt den Bauch mit [Steinen](piece_stones.md) und [näht ihn zu](process_sewing.md). Der Wolf erwacht, spürt den ungeheuren Durst und trinkt am [Brunnen](place_well.md); da zieht ihn das Gewicht der Steine in die Tiefe, und er [ertrinkt](process_drowning.md). Die Geißlein tanzen mit der [Mutter Geiß](persona_mother-goat.md) um den Brunnen und freuen sich.
+Ein böser Wolf frisst sieben Geißlein, doch die Mutter rettet sie und ertränkt den Wolf im Brunnen.
 
 ## Company
 

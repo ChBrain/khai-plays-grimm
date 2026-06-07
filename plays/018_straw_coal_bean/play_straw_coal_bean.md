@@ -20,7 +20,7 @@ Strohhalm, Kohle und Bohne.
 
 ## Arc
 
-In einer Küche entkommen ein Strohhalm, eine glühende Kohle und eine Bohne dem Feuertod einer alten Frau. Sie beschließen, gemeinsam ins Ausland zu fliehen. Auf ihrer Wanderung stoßen sie an einen Bach, den sie mangels einer Brücke nicht überqueren können. Der clevere Strohhalm legt sich quer über das Wasser, um als Brücke zu dienen. Als die glühende Kohle den Überquerungsversuch wagt, bekommt sie in der Mitte Angst, bleibt stehen und entzündet den Strohhalm. Beide stürzen in den Bach und werden weggespült. Die Bohne, die am Ufer zurückgeblieben ist, lacht so schadenfroh über das Unglück ihrer Kameraden, dass ihr Bauch zerreißt. Ein vorbeireisender Schneider erbarmt sich ihrer und näht sie mit schwarzem Zwirn zusammen, weshalb alle Bohnen seither eine schwarze Naht tragen.
+In einer Küche entkommen ein Strohhalm, eine glühende Kohle und eine Bohne dem Feuertod.
 
 ## Company
 

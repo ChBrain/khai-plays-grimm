@@ -20,7 +20,7 @@ Die zwölf Brüder.
 
 ## Arc
 
-Ein grausamer [König](persona_king.md) will seine zwölf Söhne töten lassen, wenn das dreizehnte Kind ein Mädchen wird, damit dieses das Reich allein erbe. Auf Warnung der [Königin](persona_queen.md) hin fliehen die zwölf Brüder, angeführt vom jüngsten Bruder [Benjamin](persona_benjamin.md), in den [Wald](place_forest-cottage.md), als sie die rote [Todesflagge](piece_flags.md) erblicken. Sie schwören Rache an allen Mädchen. Jahre später entdeckt die heranwachsende [Schwester](persona_sister.md) ihre Herkunft, reist in den Wald und findet das [Waldhaus](place_forest-cottage.md). Benjamin verbirgt sie, und die [elf Brüder](persona_brothers.md) willigen ein, sie als Schwester aufzunehmen. Eines Tages pflückt die Schwester zwölf weiße [Lilien](piece_lilies.md) als Geschenk für die Brüder; im selben Augenblick werden die Brüder zu Raben und das Waldhaus verschwindet. Eine weise Frau verkündet der Schwester, sie könne die Brüder nur erlösen, wenn sie sieben Jahre lang schweigt und nicht lacht. Ein junger [König](persona_husband.md) findet sie im Wald, heiratet sie und führt sie an sein [Schloß](place_husband-palace.md). Die böse [Mutter](persona_stepmother.md) des Königs klagt die stumme Königin als Hexe an und verurteilt sie zum Tode. Als die Flammen am [Scheiterhaufen](piece_pyre.md) bereits nach ihr greifen, verstreichen die sieben Jahre. Die zwölf Raben kehren zurück, verwandeln sich in die Brüder und löschen das Feuer. Die Schwester spricht die Wahrheit aus, die böse Schwiegermutter wird bestraft, und alle leben fortan in Eintracht.
+Ein König will seine zwölf Söhne töten lassen, wenn eine Tochter zur Welt kommt.
 
 ## Company
 

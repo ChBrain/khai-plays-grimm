@@ -20,7 +20,7 @@ Das Rätsel.
 
 ## Arc
 
-Ein Königssohn zieht mit seinem treuen Diener in die Welt und verirrt sich in einem finsteren Wald. Sie finden Zuflucht im Haus einer Hexe, deren Tochter sie heimlich vor dem giftigen Trank der Mutter warnt. Am Morgen stirbt das Pferd des Prinzen an dem giftigen Getränk, das die Hexe ihm verabreichen wollte. Der Diener holt einen Raben, der am Pferdekadaver gefressen hat. Später geraten sie in eine Mörderherberge, wo die zwölf Mörder den zubereiteten Raben verzehren und an dem Gift sterben. In einem fernen Reich stellt der Prinz der stolzen Rätselprinzessin das Rätsel: „Einer schlug keinen und schlug doch zwölf.“ Die Prinzessin versucht nachts, den Prinzen im Schlaf auszuhorchen, doch der kluge Diener legt sich an Stelle seines Herrn ins Bett und entlarvt die spionierende Magd, indem er ihr den Mantel abnimmt. Vor Gericht wird der Betrug bewiesen, das Rätsel bleibt ungelöst, und der Prinz gewinnt die Prinzessin.
+Ein Königssohn zieht mit seinem treuen Diener in die Welt und verirrt sich in einem finsteren Wald.
 
 ## Company
 

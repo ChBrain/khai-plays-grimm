@@ -20,7 +20,7 @@ Brüderchen und Schwesterchen.
 
 ## Arc
 
-Ein [Brüderchen](persona_brother.md) und ein [Schwesterchen](persona_sister.md) fliehen vor der bösen [Stiefmutter](persona_stepmother.md), die eine Hexe ist, in den [Wald](place_forest.md). Die Hexe verzaubert alle [Quellen](place_springs.md). Das durstige Brüderchen trinkt trotz Warnung aus der dritten Quelle und verwandelt sich in ein [Rehchen](persona_brother.md). Sie finden ein leeres [Waldhaus](place_cottage.md) und leben dort zusammen. Bei einer königlichen Jagd lockt das Rehchen den [König](persona_king.md) durch ein geheimes Klopfzeichen zum Waldhaus. Der König nimmt das Schwesterchen als Gemahlin mit in sein [Schloß](place_castle.md). Die eifersüchtige Stiefmutter und ihre häßliche [Stieftochter](persona_daughter.md) ermorden die junge Königin heimlich im Bad und setzen die Tochter an ihre Stelle. Der Geist der ermordeten Königin kehrt nachts zurück, um ihr Kind zu nähren und das Rehchen zu streicheln. Der König entdeckt die Täuschung, die Königin erwacht zu neuem Leben, und durch den Tod der Hexe wird das Rehchen wieder in einen menschlichen Bruder erlöst.
+Ein Brüderchen und ein Schwesterchen fliehen vor ihrer bösen Stiefmutter.
 
 ## Company
 
