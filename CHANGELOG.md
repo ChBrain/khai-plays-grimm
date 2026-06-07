@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-grimm
 
+## 0.6.0
+
+### Minor Changes
+
+- de47e46: play: add The Wolf and the Seven Young Kids (KHM 005) in Grimm-Deutsch
+
 ## 0.5.0
 
 ### Minor Changes
