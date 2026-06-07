@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-grimm
 
+## 0.10.0
+
+### Minor Changes
+
+- 5d19530: play: add The Twelve Brothers (KHM 009) in Grimm-Deutsch
+
 ## 0.9.0
 
 ### Minor Changes
