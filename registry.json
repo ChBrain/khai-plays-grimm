@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.29.0",
+  "version": "0.30.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -142,6 +142,11 @@
       "id": "028_singing_bone",
       "title": "Der singende Knochen",
       "description": "Ein Mann tötet seinen Bruder, stiehlt den Wildschwein-Ruhm und wird Jahre später durch ein singendes Horn überführt."
+    },
+    {
+      "id": "029_devil_golden_hairs",
+      "title": "Der Teufel mit den drei goldenen Haaren",
+      "description": "Ein prophezeites Glückskind entgeht den Anschlägen eines Königs und holt drei goldene Haare direkt vom Teufel."
     },
     {
       "id": "049_the_six_swans",
