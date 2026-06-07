@@ -20,7 +20,7 @@ Hänsel und Gretel.
 
 ## Arc
 
-In einer Zeit großer Hungersnot überredet eine hartherzige Stiefmutter den armen Holzhacker, seine Kinder Hänsel und Gretel tief im Wald auszusetzen. Beim ersten Versuch finden die Kinder dank Hänsels glänzender Kieselsteine im Mondschein den Weg zurück. Beim zweiten Mal wirft Hänsel Brotkrümel, doch die Vögel fressen sie auf, und die Kinder verirren sich hoffnungslos im Wald. Ein weißes Vöglein führt sie zu einem Knusperhäuschen aus Brot, Kuchen und Zucker. Dort wohnt eine böse Hexe, die Hänsel in einen Käfig sperrt, um ihn zu mästen, und Gretel als Magd knechtet. Hänsel täuscht die Hexe mit einem dürren Knöchelchen über sein Gewicht. Als die ungeduldige Hexe den Ofen heizen läßt, Gretel überlistet sie, schiebt sie hinein und schließt die Eisentür. Die Kinder nehmen den Schatz der Hexe und kehren glücklich zum Vater heim, während die Stiefmutter inzwischen gestorben ist.
+Zwei im Wald ausgesetzte Geschwister überlisten eine böse Hexe und kehren reich zum Vater zurück.
 
 ## Company
 

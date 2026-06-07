@@ -20,7 +20,7 @@ Katze und Maus in Gesellschaft.
 
 ## Arc
 
-Eine [Katze](persona_cat.md) und eine [Maus](persona_mouse.md) treten in eine [Partnerschaft](process_partnership.md) und beziehen ein [gemeinsames Haus](place_joint-house.md). Für den Winter kaufen sie einen [Fetttopf](piece_fat-pot.md) und verbergen ihn unter dem [Altar](place_altar.md) in der [Kirche](place_church.md). Die [Katze](persona_cat.md), getrieben von heimlicher Gier, erschleicht sich unter dem Vorwand, als [Pate](position_godparent.md) geladen zu sein, dreimal den Ausgang; derweil die [Maus](persona_mouse.md) getreulich als [Hausfrau](position_housekeeper.md) das Heim hütet. Bei jedem Gang nascht die Katze im Verborgenen ([heimliches Naschen](process_stealth-consumption.md)), bis der Topf leer ist. Als der Winter naht und die Maus den Betrug vor dem Altar entdeckt, klagt sie die Katze an; da wird sie jäh durch die Katze gepackt ([Verschlingung](process_consumption.md)) und hinuntergeschlungen.
+Eine Katze und eine Maus treten in eine Partnerschaft ein.
 
 ## Company
 

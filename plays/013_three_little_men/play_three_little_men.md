@@ -20,7 +20,7 @@ Die drei Männlein im Walde.
 
 ## Arc
 
-Eine neidische Stiefmutter jagt ihre schöne Stieftochter im eisigen Winter in einem Papierkleid fort, um Erdbeeren zu sammeln. Die Tochter findet das kleine Haus der drei Männlein im Walde, verhält sich freundlich und hilfsbereit und fegt den Schnee vom Hintertürweg. Zur Belohnung schenken ihr die Männlein Schönheit, einen Mund, der beim Reden Goldstücke fallen läßt, und eine königliche Ehe. Sie findet auch Erdbeeren unter dem Schnee. Die faule leibliche Tochter der Stiefmutter versucht dasselbe, verhält sich jedoch hochmütig und wird verflucht, Häßlichkeit und Kröten beim Reden davonzutragen. Später heiratet die schöne Stieftochter den König. Nach der Geburt ihres Kindes wird sie von der neidischen Stiefmutter und deren Tochter ertränkt und heimlich im Bett ersetzt. Sie kehrt als Ente zurück, wird durch das Schwingen des königlichen Schwertes erlöst, und die Täterinnen werden streng im Nagelfaß bestraft.
+Eine neidische Stiefmutter jagt ihre schöne Stieftochter im eisigen Winter in einem Papierkleid in den Wald.
 
 ## Company
 

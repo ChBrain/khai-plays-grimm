@@ -20,7 +20,7 @@ Marienkind.
 
 ## Arc
 
-Ein armes Holzhackerkind leidet großen Hunger. Die [Jungfrau Maria](persona_mary.md) nimmt sich seiner an, führt es in den [Himmel](place_heaven.md) und zieht es als [Pflegekind](position_fosterchild.md) in reicher Obhut auf. Vor ihrer Reise übergibt Maria dem Mädchen einen Ring von dreizehn [Schlüsseln](piece_keys.md) für die dreizehn Pforten des Himmels, verbietet aber den Zutritt zum [dreizehnten Zimmer](place_forbidden-room.md). Die Neugier treibt das Mädchen zur [Übertretung](process_transgression.md); sie öffnet die Tür, schaut die Dreifaltigkeit im Glanze und befleckt ihren Finger mit Gold. Nach ihrer Rückkehr fordert Maria Rechenschaft, doch das Kind harrt in dreifacher [Verleugnung](process_denial.md) aus. Zur Strafe wird sie stumm und in die [Wildnis](place_wilderness.md) verbannt. Dort findet sie der [König](persona_king.md), führt sie als [Königin](position_queen.md) auf sein [Schloss](place_royal-castle.md) und zeugt drei Kinder, die Maria nacheinander entführt, weil die Stumme die Tat leugnet. Die bösen [Ratgeber](persona_counselors.md) klagen sie der Hexerei und des Kindsmords an. Auf dem [Scheiterhaufen](piece_pyre.md) stehend, bricht ihr Hochmut; ihr Herz tut im Schmerz [Reue](process_redemption.md), sie ruft ihre Schuld laut aus. Da brechen die Flammen, ihre Stimme kehrt zurück, und Maria bringt ihr die Kinder und die Freude wieder.
+Die Jungfrau Maria nimmt ein hungerndes Holzhackerkind auf und bestraft später dessen heimliche Unfolgsamkeit.
 
 ## Company
 

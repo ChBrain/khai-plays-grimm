@@ -20,7 +20,7 @@ Aschenputtel.
 
 ## Arc
 
-Ein frommes, fleißiges Mädchen verliert seine leibliche Mutter und wird von der bösen Stiefmutter und den arroganten Stiefschwestern gedemütigt. Es muss in der Asche an der Herdstelle schlafen und schwerste Auslesearbeiten verrichten. Doch ein Haselzweig, den es auf das Grab der Mutter pflanzt und mit seinen Tränen gießt, wächst zu einem prächtigen Baum heran, auf dem ein weißes Vöglein thront. Als der König ein dreitägiges Fest ausrichtet, damit sein Sohn eine Braut finde, verweigert die Stiefmutter Aschenputtel die Teilnahme und stellt unlösbare Linsensortierprüfungen. Mithilfe der Tauben gelingen die Prüfungen. Der Wunderbaum schenkt Aschenputtel prachtvolle Kleider. Es tanzt mit dem Prinzen, flieht jedoch jede Nacht. Am dritten Abend verliert es seinen goldenen Schuh auf der pechbestrichenen Treppe. Der Prinz sucht die passende Braut im Land. Die Stiefschwestern verstümmeln ihre Füße, um in den Schuh zu passen, doch die Tauben verraten den Verrat. Aschenputtel passt der Schuh und es wird als wahre Königin erhoben. Bei der Hochzeit strafen die Tauben die Stiefschwestern mit Blindheit.
+Ein frommes, fleißiges Mädchen verliert seine leibliche Mutter und wird von der Stiefmutter schikaniert.
 
 ## Company
 

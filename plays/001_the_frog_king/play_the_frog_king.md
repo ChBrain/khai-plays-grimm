@@ -20,7 +20,7 @@ Der Froschkönig oder der eiserne Heinrich.
 
 ## Arc
 
-Die jüngste Königstochter verliert ihr liebstes Spielwerk, die [goldene Kugel](piece_golden-ball.md), im tiefen Brunnen. Ein garstiger [Frosch](persona_frog.md) holt sie hervor, verlangt dafür aber ihre Gemeinschaft: Tisch und Bett. Sie gelobt es in der Not, flieht aber alsbald mit der Kugel. Doch der [Frosch](persona_frog.md) folgt ihr an des Vaters Tafel. Der [König](persona_king.md) gebietet, das Versprechen zu halten. Im Zorn wirft sie den Frosch an die Wand; da entpuppt er sich als erlöster Königssohn. Am Morgen führt der treue [Heinrich](persona_henrich.md) sie heim; seine eisernen Bande, geschmiedet vor Herzeleid, springen nacheinander ab. Jede Szene erhöht die Last des gegebenen Worts, bis der Fluch bricht und die eiserne Treue sich löst.
+Die jüngste Königstochter verliert ihr liebstes Spielwerk, die goldene Kugel, im tiefen Brunnen.
 
 ## Company
 

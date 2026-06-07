@@ -20,7 +20,7 @@ Die drei Spinnerinnen.
 
 ## Arc
 
-Ein schönes, aber faules Mädchen weigert sich beharrlich zu spinnen. Als ihre Mutter sie deshalb schlägt, kommt die Königin vorbei und fragt nach dem Grund. Die schambewusste Mutter schwindelt vor, die Tochter spinne ununterbrochen und sei nicht vom Spinnrad wegzubekommen. Die arbeitsliebende Königin nimmt das Mädchen mit aufs Schloß und zeigt ihr drei Kammern voller Flachs, den sie spinnen soll; bei Erfolg darf sie den Prinzen heiraten. Das Mädchen verzweifelt, bis drei seltsam deformierte Spinnerinnen erscheinen: eine mit einem breiten Plattfuß, eine mit einer großen Unterlippe, und eine mit einem breiten Daumen. Sie bieten an, die Arbeit zu verrichten, wenn sie zur Hochzeit eingeladen und als Tanten vorgestellt werden. Der Pakt wird geschlossen, die Arbeit eilig vollendet. Am Hochzeitsfest erschrickt der Prinz über die Häßlichkeit der Tanten. Als er erfährt, daß dies vom Spinnen kommt, gelobt er erschrocken, daß seine Gemahlin nie wieder ein Spinnrad anrühren soll.
+Drei seltsame Spinnerinnen helfen einem faulen Mädchen, die unlösbare Spinnaufgabe der Königin zu bewältigen.
 
 ## Company
 

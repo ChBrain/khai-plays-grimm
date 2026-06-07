@@ -20,7 +20,7 @@ Von dem Mäuschen, Vögelchen und der Bratwurst.
 
 ## Arc
 
-Ein Mäuschen, ein Vögelchen und eine Bratwurst leben in einer glücklichen Hausgemeinschaft zusammen. Der Vogel holt täglich Holz aus dem Wald, die Maus trägt Wasser und heizt den Ofen, und die Bratwurst kocht das Essen. Ein anderer Waldvogel verspottet das Vögelchen jedoch, weil es die schwerste Arbeit verrichte. Aufgestachelt fordert der Vogel einen Rollentausch, dem die anderen zögernd zustimmen. Am nächsten Tag wendet sich das Schicksal zum Schlechten: Die Bratwurst soll Holz holen, wird im Wald von einem Hund gefressen. Die Maus soll kochen und verbrennt im heißen Gemüsetopf. Der Vogel kommt heim, versucht das Feuer zu löschen und ertrinkt schließlich beim Wasserschöpfen im Brunneneimer. Alle drei Gefährten sterben aufgrund ihrer Unfähigkeit, die Rollen der anderen auszufüllen.
+Ein Mäuschen, ein Vögelchen und eine Bratwurst leben in einer glücklichen Hausgemeinschaft.
 
 ## Company
 

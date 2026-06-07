@@ -20,7 +20,7 @@ Märchen von einem, der auszog, das Fürchten zu lernen.
 
 ## Arc
 
-Ein Vater hat zwei Söhne; der ältere ist klug, der jüngere aber dumm und kann nichts lernen. Er will nur eins lernen: das Gruseln. Da schickt ihn der Vater auf [Wanderschaft](process_quest.md). Unterwegs versucht man vergeblich, ihn zu erschrecken. Er wärmt am [Galgen](place_gallows.md) die Gehenkten am [Feuer](piece_fire.md). Zuletzt bietet der [König](persona_king.md) ihm seine Tochter zur Frau und den [Schlossschatz](piece_castle-treasure.md), wenn er drei Nächte im [verwunschenen Schloss](place_haunted-castle.md) wacht. Der Jüngling besteht die [Dreinächte-Wache](process_vigil.md) vollkommen unerschrocken ([Unerschrockenheit](process_defiance.md)); er wehrt wilde Katzen ab, kegelt mit Totenköpfen und bezwingt den riesigen Geist. Als er die [Königstochter](persona_princess.md) heiratet, klagt er noch immer, das Gruseln nicht gelernt zu haben. Da gießt seine Gemahlin des Nachts einen [Eimer mit Gründlingen](piece_minnow-bucket.md) über ihn aus; da erwacht er, schaudert vor Kälte und Fischen und lernt endlich [das Gruseln](process_shuddering.md).
+Ein unerschrockener Junge zieht in die Welt hinaus, um zu lernen, was Gruseln und Fürchten bedeuten.
 
 ## Company
 
