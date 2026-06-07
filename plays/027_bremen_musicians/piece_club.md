@@ -1,0 +1,35 @@
+---
+khai: piece
+title: "club"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-07"
+---
+
+# Piece: club
+
+## Taxonomy
+
+Parent group: pieces
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Place
+
+Im Hof des Hauses, wo der Esel schläft.
+
+## Load Bearing
+
+Der kräftige Huftritt des Esels, der dem Räuber wie ein Schlag vorkommt.
+
+## Apparent
+
+Der starke Hinterhuf des Esels, der im Dunkeln ausschlägt.
+
+## Yearbook
+
+Der Tritt des Esels, der dem fliehenden Räuber den Rest gibt und als Knüppelschlag missverstanden wird.
