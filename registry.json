@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.27.0",
+  "version": "0.28.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -132,6 +132,11 @@
       "id": "026_little_red_cap",
       "title": "Rotkäppchen",
       "description": "Ein Wolf überlistet Rotkäppchen und verschlingt sie samt Großmutter, bis ein Jäger beide rettet."
+    },
+    {
+      "id": "027_bremen_musicians",
+      "title": "Die Bremer Stadtmusikanten",
+      "description": "Vier alte Tiere entfliehen dem Tod und verjagen mit einem lauten Schreckkonzert Räuber aus ihrem Waldhaus."
     },
     {
       "id": "049_the_six_swans",
