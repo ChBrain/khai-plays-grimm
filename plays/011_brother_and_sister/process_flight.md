@@ -1,0 +1,35 @@
+---
+khai: process
+title: "flight"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-07"
+---
+
+# Process: flight
+
+## Taxonomy
+
+Parent group: processes
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Initiated by
+
+Dem Brüderchen und dem Schwesterchen.
+
+## Direction
+
+Vom elterlichen Hause der Pein hinfort in die Einsamkeit des tiefen Waldes.
+
+## Lever
+
+Die Grausamkeit der Stiefmutter, die die Kinder schlägt und vertreibt.
+
+## Echo
+
+Der Zorn der nachschleichenden Hexe, die die Quellen des Waldes verzaubert.

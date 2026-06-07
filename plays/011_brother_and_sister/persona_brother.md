@@ -1,0 +1,36 @@
+---
+khai: persona
+title: "brother"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-07"
+type: fictional
+---
+
+# Persona: brother
+
+## Taxonomy
+
+Parent group: personas
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Projection
+
+Ein ungeduldiges und durstiges Brüderchen, das der Versuchung der verzauberten Quellen im Walde erliegt.
+
+## Action
+
+Er flieht mit seiner Schwester, wird trotz ihrer treuen Warnung beim Trinken aus der dritten Quelle in ein Rehchen verwandelt und folgt dem Lockruf der königlichen Jagd.
+
+## Shadow
+
+Seine Unbeherrschtheit stürzt ihn in die tierische Gestalt, doch seine treue Anhänglichkeit bindet ihn an das Schwesterchen.
+
+## Tell
+
+Er klagt über brennenden Durst und trägt als verwandeltes Rehchen das goldene Strumpfband der Schwester um den Hals.
