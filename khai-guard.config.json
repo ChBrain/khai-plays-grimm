@@ -18,7 +18,8 @@
       ".nvmrc",
       "LICENSE",
       "LICENSE-CODE",
-      "SECURITY.md"
+      "SECURITY.md",
+      "registry.json"
     ],
     "lanes": [
       { "pattern": "play/*", "layer": "solution", "allow": ["plays/**"] },
