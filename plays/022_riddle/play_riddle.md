@@ -1,0 +1,85 @@
+---
+khai: play
+title: "Das Rätsel"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-07"
+---
+
+# Play: Das Rätsel
+
+## Estate
+
+[khai-plays-grimm](https://github.com/ChBrain/khai-plays-grimm): the repository that holds this production and answers for it.
+
+## Name
+
+Das Rätsel.
+
+## Arc
+
+Ein Königssohn zieht mit seinem treuen Diener in die Welt und verirrt sich in einem finsteren Wald. Sie finden Zuflucht im Haus einer Hexe, deren Tochter sie heimlich vor dem giftigen Trank der Mutter warnt. Am Morgen stirbt das Pferd des Prinzen an dem giftigen Getränk, das die Hexe ihm verabreichen wollte. Der Diener holt einen Raben, der am Pferdekadaver gefressen hat. Später geraten sie in eine Mörderherberge, wo die zwölf Mörder den zubereiteten Raben verzehren und an dem Gift sterben. In einem fernen Reich stellt der Prinz der stolzen Rätselprinzessin das Rätsel: „Einer schlug keinen und schlug doch zwölf.“ Die Prinzessin versucht nachts, den Prinzen im Schlaf auszuhorchen, doch der kluge Diener legt sich an Stelle seines Herrn ins Bett und entlarvt die spionierende Magd, indem er ihr den Mantel abnimmt. Vor Gericht wird der Betrug bewiesen, das Rätsel bleibt ungelöst, und der Prinz gewinnt die Prinzessin.
+
+## Company
+
+**Personas**
+
+- [Königssohn](persona_prince.md)
+- [Diener](persona_servant.md)
+- [Hexe](persona_witch.md)
+- [Hexentochter](persona_daughter.md)
+- [Rätselprinzessin](persona_princess.md)
+
+**Places**
+
+- [Hexenhaus](place_witch-house.md)
+- [Mörderherberge](place_murder-inn.md)
+- [Königspalast](place_palace.md)
+
+**Processes**
+
+- [Vergiftung](process_poisoning.md)
+- [Rätselkampf](process_contest.md)
+- [Aushorchung](process_espionage.md)
+
+**Positions**
+
+- [Wanderer](position_wanderer.md)
+- [Rätselsteller](position_riddler.md)
+- [Wächter](position_guardian.md)
+
+**Pieces**
+
+- [Gifttrank](piece_poison.md)
+- [Gaul](piece_horse.md)
+- [Rabe](piece_raven.md)
+- [Mantel](piece_cloak.md)
+- [Rätselwort](piece_riddle-text.md)
+
+## Triggers
+
+**[Plot 1: Die Warnung im Wald](plot_01_witch-warning.md)**
+
+Die Reisenden gelangen in das Haus der Hexe, und die gute Tochter warnt sie vor dem Gifttrank der Mutter.
+
+**[Plot 2: Der vergiftete Rabe](plot_02_poisoned-raven.md)**
+
+Das Gift tötet das Pferd des Prinzen, und der Diener fängt den Raben, der von dem Kadaver frisst.
+
+**[Plot 3: Der Tod der Mörder](plot_03_murderers-death.md)**
+
+Die zwölf Waldmörder verzehren den vergifteten Raben in der Mörderherberge und sterben.
+
+**[Plot 4: Das Rätselgericht](plot_04_riddle-court.md)**
+
+Der Prinz trägt das Rätsel über den Tod der Zwölf vor dem Hofgericht der Prinzessin vor.
+
+**[Plot 5: Die nächtliche Entlarvung](plot_05_night-exposure.md)**
+
+Der Diener wendet den nächtlichen Spionageangriff ab, entwendet der Magd den Mantel und beweist den Betrug der Prinzessin.
+
+## Stakes
+
+Ob Klugheit, Achtsamkeit und die Treue des Dieners die heimtückischen Angriffe von Hexen und Mördern sowie die Stolz- und Täuschungsspiele des Hofstaats überwinden können.
