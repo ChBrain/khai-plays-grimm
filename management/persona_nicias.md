@@ -40,7 +40,7 @@ would be impious. He reads the room and acts before it turns against him.
 ## Shadow
 
 He cannot tell the difference between caution and wisdom. The pause that feels
-like careful judgment to him looks the same from the outside — until it goes
+like careful judgment to him looks the same from the outside - until it goes
 on too long. In Sicily, the omen of the lunar eclipse stops the fleet. The
 delay costs forty thousand lives. The man who always read the room correctly
 could not read the moment when reading the room was no longer enough.
