@@ -14,6 +14,10 @@ stamp:
 
 The creator of the plays. Not the theatre manager. Not the actor. The one responsible for the voice, the plots, and the season's artistic program.
 
+## Owner
+
+- Project: khai-plays-grimm
+
 ## Has
 
 The creative impulse, the authority of the voice, and the mandate to capture the source.

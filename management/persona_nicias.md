@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-06"
-type: historical
+type: real
 ---
 
 # Persona: Nicias
@@ -33,7 +33,7 @@ in speech, because the crowd trusts lavishness and suspects brilliance.
 
 He spends before the question is asked. Funds the chorus with an excess that
 forecloses criticism. When the crowd acclaims his slave as Dionysus during the
-procession at Delos, Nicias frees the man on the spot — not from sentiment,
+procession at Delos, Nicias frees the man on the spot, not from sentiment,
 but because the voice of the city has spoken and to hold a consecrated man
 would be impious. He reads the room and acts before it turns against him.
 
