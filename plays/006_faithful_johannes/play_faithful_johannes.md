@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Der treue Johannes"
+title: "Faithful John"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

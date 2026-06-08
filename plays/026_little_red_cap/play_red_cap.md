@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Rotkäppchen"
+title: "Little Red Cap"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

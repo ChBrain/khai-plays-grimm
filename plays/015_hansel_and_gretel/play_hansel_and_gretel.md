@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Hänsel und Gretel"
+title: "Hansel and Gretel"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

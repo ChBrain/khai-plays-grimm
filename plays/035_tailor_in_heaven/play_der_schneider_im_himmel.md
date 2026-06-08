@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Der Schneider im Himmel"
+title: "The Tailor in Heaven"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

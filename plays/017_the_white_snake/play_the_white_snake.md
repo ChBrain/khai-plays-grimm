@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Die weiße Schlange"
+title: "The White Snake"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Das Lumpengesindel"
+title: "The Pack of Ragamuffins"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

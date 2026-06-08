@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Die kluge Elsa"
+title: "Clever Elsie"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

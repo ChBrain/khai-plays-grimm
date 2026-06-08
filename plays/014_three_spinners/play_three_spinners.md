@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Die drei Spinnerinnen"
+title: "The Three Spinners"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

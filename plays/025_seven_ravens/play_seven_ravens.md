@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Die sieben Raben"
+title: "The Seven Ravens"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

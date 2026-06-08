@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Von dem Mäuschen, Vögelchen und der Bratwurst"
+title: "The Mouse, the Bird, and the Sausage"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

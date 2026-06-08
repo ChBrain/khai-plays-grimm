@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Von dem Fischer und seiner Frau"
+title: "The Fisherman and His Wife"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

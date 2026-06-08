@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Frau Holle"
+title: "Mother Holle"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

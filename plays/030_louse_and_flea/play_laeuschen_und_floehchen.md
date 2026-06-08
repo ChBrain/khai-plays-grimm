@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Läuschen und Flöhchen"
+title: "The Louse and the Flea"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

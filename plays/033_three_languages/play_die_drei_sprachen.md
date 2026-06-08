@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Die drei Sprachen"
+title: "The Three Languages"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

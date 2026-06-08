@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Das Mädchen ohne Hände"
+title: "The Girl Without Hands"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

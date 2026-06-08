@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Aschenputtel"
+title: "Cinderella"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

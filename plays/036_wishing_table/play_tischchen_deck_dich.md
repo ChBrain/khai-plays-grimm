@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Tischchen deck dich, Goldesel und Knüppel aus dem Sack"
+title: "The Wishing-Table"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

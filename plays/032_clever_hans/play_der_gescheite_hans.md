@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Der gescheite Hans"
+title: "Clever Hans"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

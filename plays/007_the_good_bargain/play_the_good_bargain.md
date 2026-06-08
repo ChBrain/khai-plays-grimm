@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Der gute Handel"
+title: "The Good Bargain"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

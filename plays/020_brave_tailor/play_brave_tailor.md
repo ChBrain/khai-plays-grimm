@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Das tapfere Schneiderlein"
+title: "The Brave Little Tailor"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

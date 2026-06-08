@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Die Hochzeit der Frau Füchsin"
+title: "The Wedding of Mrs. Fox"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

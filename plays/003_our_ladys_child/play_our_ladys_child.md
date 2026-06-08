@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Marienkind"
+title: "Our Lady's Child"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
