@@ -1,0 +1,35 @@
+---
+khai: plot
+title: "rich_physician"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-08"
+---
+
+# Plot: rich_physician
+
+## Taxonomy
+
+[play_der_herr_gevatter](play_der_herr_gevatter.md)
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Cue
+
+Der Vater erprobt die Heilkunst des Wunderwassers.
+
+## Action
+
+Er heilt Kranke, wird weltberühmt und reich, scheitert jedoch am Ende beim Kind des Königs, als der Tod an dessen Füßen steht.
+
+## Stage
+
+Verschiedene Krankenzimmer und der Palast des Königs.
+
+## Tension
+
+Der Aufstieg zu Reichtum und die schmerzhafte Grenze des menschlichen Handelns.
