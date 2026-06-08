@@ -20,7 +20,7 @@ Die Hochzeit der Frau Füchsin.
 
 ## Arc
 
-Herr Fuchs täuscht seinen Tod vor, um die Treue seiner Frau zu prüfen, die alle Freier bis auf einen neunschwänzigen abweist.
+Herr Fuchs täuscht seinen Tod vor, um seine Frau zu prüfen, die alle Freier bis auf einen neunschwänzigen abweist.
 
 ## Company
 

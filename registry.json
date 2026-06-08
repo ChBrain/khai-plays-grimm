@@ -6,202 +6,202 @@
     {
       "id": "001_the_frog_king",
       "title": "The Frog King",
-      "description": "The youngest princess loses her favorite plaything, a golden ball, in a deep well."
+      "description": "Die jüngste Königstochter verliert ihr liebstes Spielwerk, die goldene Kugel, im tiefen Brunnen."
     },
     {
       "id": "002_cat_and_mouse",
       "title": "Cat and Mouse in Partnership",
-      "description": "A cat and a mouse enter into a partnership."
+      "description": "Eine Katze und eine Maus treten in eine Partnerschaft ein."
     },
     {
       "id": "003_our_ladys_child",
-      "title": "Our Lady's Child",
-      "description": "The Virgin Mary takes in a starving woodcutter's child and later punishes her secret disobedience."
+      "title": "Our Lady",
+      "description": "Die Jungfrau Maria nimmt ein hungerndes Holzhackerkind auf und bestraft später dessen heimliche Unfolgsamkeit."
     },
     {
       "id": "004_youth_learning_fear",
       "title": "The Story of the Youth Who Went Forth to Learn What Fear Was",
-      "description": "An undaunted boy sets out into the world to learn what it means to shudder and fear."
+      "description": "Ein unerschrockener Junge zieht in die Welt hinaus, um zu lernen, was Gruseln und Fürchten bedeuten."
     },
     {
       "id": "005_wolf_and_seven_kids",
       "title": "The Wolf and the Seven Young Kids",
-      "description": "A wicked wolf eats seven young kids, but the mother rescues them and drowns the wolf in a well."
+      "description": "Ein böser Wolf frisst sieben Geißlein, doch die Mutter rettet sie und ertränkt den Wolf im Brunnen."
     },
     {
       "id": "006_faithful_johannes",
       "title": "Faithful John",
-      "description": "A dying king entrusts his faithful servant John with the care of the young king."
+      "description": "Ein sterbender König übergibt seinem treuen Diener Johannes die Sorge um den jungen König."
     },
     {
       "id": "007_the_good_bargain",
       "title": "The Good Bargain",
-      "description": "A poor peasant drives his cow to market and sells it for a seemingly worthless promise."
+      "description": "Ein armer Bauer treibt seine Kuh zum Markt und verkauft sie für ein scheinbar wertloses Versprechen."
     },
     {
       "id": "008_wonderful_musician",
       "title": "The Strange Musician",
-      "description": "A lonely musician travels through the forest and lures animals with his fiddle."
+      "description": "Ein einsamer Spielmann zieht durch den Wald und lockt Tiere mit seiner Geige an."
     },
     {
       "id": "009_the_twelve_brothers",
       "title": "The Twelve Brothers",
-      "description": "A king wishes to have his twelve sons killed if a daughter is born."
+      "description": "Ein König will seine zwölf Söhne töten lassen, wenn eine Tochter zur Welt kommt."
     },
     {
       "id": "010_pack_of_ragamuffins",
       "title": "The Pack of Ragamuffins",
-      "description": "A proud rooster and a hen go on a journey and cheat the innkeeper."
+      "description": "Ein stolzer Hahn und ein Hühnchen gehen auf Reisen und betrügen den Wirt."
     },
     {
       "id": "011_brother_and_sister",
       "title": "Brother and Sister",
-      "description": "A little brother and sister flee from their wicked stepmother."
+      "description": "Ein Brüderchen und ein Schwesterchen fliehen vor ihrer bösen Stiefmutter."
     },
     {
       "id": "012_rapunzel",
       "title": "Rapunzel",
-      "description": "A man steals rampion from the garden of a dreaded sorceress for his pregnant wife."
+      "description": "Ein Mann stiehlt für seine schwangere Frau Rapunzeln aus dem Garten einer gefürchteten Zauberin."
     },
     {
       "id": "013_three_little_men",
       "title": "The Three Little Men in the Wood",
-      "description": "A jealous stepmother drives her beautiful stepdaughter into the forest in the icy winter in a paper dress."
+      "description": "Eine neidische Stiefmutter jagt ihre schöne Stieftochter im eisigen Winter in einem Papierkleid in den Wald."
     },
     {
       "id": "014_three_spinners",
       "title": "The Three Spinners",
-      "description": "Three strange spinners help a lazy girl complete the queen's impossible spinning task."
+      "description": "Drei seltsame Spinnerinnen helfen einem faulen Mädchen, die unlösbare Spinnaufgabe der Königin zu bewältigen."
     },
     {
       "id": "015_hansel_and_gretel",
       "title": "Hansel and Gretel",
-      "description": "Two siblings abandoned in the forest outsmart a wicked witch and return rich to their father."
+      "description": "Zwei im Wald ausgesetzte Geschwister überlisten eine böse Hexe und kehren reich zum Vater zurück."
     },
     {
       "id": "016_three_snake_leaves",
       "title": "The Three Snake-Leaves",
-      "description": "A poor youth goes to war, triumphs through brave effort, and wins the princess as his wife."
+      "description": "Ein armer Jüngling zieht in den Krieg, siegt durch tapferen Einsatz und gewinnt die Königstochter zur Frau."
     },
     {
       "id": "017_the_white_snake",
       "title": "The White Snake",
-      "description": "A curious servant secretly eats of the king's covered dish, a white snake."
+      "description": "Ein neugieriger Diener isst heimlich von der verdeckten Speise des Königs, einer weißen Schlange."
     },
     {
       "id": "018_straw_coal_bean",
       "title": "Straw, Coal, and Bean",
-      "description": "In a kitchen, a straw, a glowing coal, and a bean escape death by fire."
+      "description": "In einer Küche entkommen ein Strohhalm, eine glühende Kohle und eine Bohne dem Feuertod."
     },
     {
       "id": "019_fisherman_wife",
       "title": "The Fisherman and His Wife",
-      "description": "A poor fisherman catches a speaking flounder, who reveals himself as a transformed prince."
+      "description": "Ein armer Fischer fängt einen sprechenden Butt, der sich als verwandelter Prinz offenbart."
     },
     {
       "id": "020_brave_tailor",
       "title": "The Brave Little Tailor",
-      "description": "A little tailor slays seven flies on his jam bread and sets out into the world."
+      "description": "Ein kleiner Schneider erschlägt sieben Fliegen auf seinem Pflaumenmusbrot und zieht in die Welt."
     },
     {
       "id": "021_cinderella",
       "title": "Cinderella",
-      "description": "A pious, hardworking girl loses her mother and is mistreated by her stepmother."
+      "description": "Ein frommes, fleißiges Mädchen verliert seine leibliche Mutter und wird von der Stiefmutter schikaniert."
     },
     {
       "id": "022_riddle",
       "title": "The Riddle",
-      "description": "A king's son travels into the world with his faithful servant and gets lost in a dark forest."
+      "description": "Ein Königssohn zieht mit seinem treuen Diener in die Welt und verirrt sich in einem finsteren Wald."
     },
     {
       "id": "023_mouse_bird_sausage",
       "title": "The Mouse, the Bird, and the Sausage",
-      "description": "A mouse, a bird, and a sausage live in a happy household partnership."
+      "description": "Ein Mäuschen, ein Vögelchen und eine Bratwurst leben in einer glücklichen Hausgemeinschaft."
     },
     {
       "id": "024_frau_holle",
       "title": "Mother Holle",
-      "description": "A widow favors her lazy daughter and forces her hardworking stepdaughter to work."
+      "description": "Eine Witwe bevorzugt ihre faule, leibliche Tochter und zwingt ihre fleißige Stieftochter zur Arbeit."
     },
     {
       "id": "025_seven_ravens",
       "title": "The Seven Ravens",
-      "description": "An angry father curses his seven sons into ravens, whereupon their sister sets out to find them."
+      "description": "Ein zorniger Vater verwünscht seine sieben Söhne zu Raben, woraufhin die Schwester sich auf die Suche begibt."
     },
     {
       "id": "026_little_red_cap",
       "title": "Little Red Cap",
-      "description": "A wolf outwits Little Red Cap and devours her and her grandmother, until a hunter saves them both."
+      "description": "Ein Wolf überlistet Rotkäppchen und verschlingt sie samt Großmutter, bis ein Jäger beide rettet."
     },
     {
       "id": "027_bremen_musicians",
       "title": "The Town Musicians of Bremen",
-      "description": "Four old animals flee death and drive robbers from their house with a loud concert."
+      "description": "Vier alte Tiere entfliehen dem Tod und verjagen mit einem lauten Schreckkonzert Räuber aus ihrem Waldhaus."
     },
     {
       "id": "028_singing_bone",
       "title": "The Singing Bone",
-      "description": "A man kills his brother, steals the credit for a wild boar, and is exposed years later by a singing horn."
+      "description": "Ein Mann tötet seinen Bruder, stiehlt den Wildschwein-Ruhm und wird Jahre später durch ein singendes Horn überführt."
     },
     {
       "id": "029_devil_golden_hairs",
       "title": "The Devil with the Three Golden Hairs",
-      "description": "A prophesied child of fortune escapes a king's plots and retrieves three golden hairs from the devil."
+      "description": "Ein prophezeites Glückskind entgeht den Anschlägen eines Königs und holt drei goldene Haare direkt vom Teufel."
     },
     {
       "id": "030_louse_and_flea",
       "title": "The Louse and the Flea",
-      "description": "A brewing accident plunges household goods and nature into deep mourning and leads to a flood."
+      "description": "Ein kleiner Unfall beim Bierbrauen stürzt Hausrat und Natur in tiefe Trauer und führt schließlich zur Sintflut."
     },
     {
       "id": "031_the_girl_without_hands",
       "title": "The Girl Without Hands",
-      "description": "A mutilated girl flees the devil, and is saved and healed by God's grace and a loyal king."
+      "description": "Ein verstümmeltes Mädchen flieht vor dem Teufel, wird durch Gottes Gnade und einen treuen König gerettet und geheilt."
     },
     {
       "id": "032_clever_hans",
       "title": "Clever Hans",
-      "description": "Hans takes all his mother's advice literally and destroys his courtship of Gretel."
+      "description": "Hans missversteht alle Ratschläge seiner Mutter wortwörtlich und zerstört damit die Werbung um seine Braut Gretel."
     },
     {
       "id": "033_three_languages",
       "title": "The Three Languages",
-      "description": "An outcast son learns the languages of animals, finds a treasure, and rises to pope by divine grace."
+      "description": "Ein verstoßener Sohn lernt die Sprachen der Tiere, birgt einen Schatz und steigt durch göttliche Fügung zum Papst auf."
     },
     {
       "id": "034_clever_elsie",
       "title": "Clever Elsie",
-      "description": "An allegedly clever bride loses herself in fears of catastrophe and forgets her own identity."
+      "description": "Eine angeblich kluge Braut verliert sich in Katastrophenängsten und vergisst schließlich ihre eigene Identität."
     },
     {
       "id": "035_tailor_in_heaven",
       "title": "The Tailor in Heaven",
-      "description": "A sinful tailor sneaks into heaven, sits on God's throne, and is banished for self-righteousness."
+      "description": "Ein Schneider schleicht in den Himmel, setzt sich auf Gottes Thron und wird wegen seiner Selbstgerechtigkeit verbannt."
     },
     {
       "id": "036_wishing_table",
       "title": "The Wishing-Table",
-      "description": "Three brothers obtain magic gifts, are robbed by an innkeeper, and reclaim their rights with a cudgel."
+      "description": "Drei Brüder erlangen magische Gaben, werden von einem Wirt beraubt und holen ihr Recht mit einem Knüppel zurück."
     },
     {
       "id": "037_thumbling",
       "title": "Thumbling",
-      "description": "A tiny but clever boy helps his father, escapes kidnappers and thieves, and is freed from a wolf's belly."
+      "description": "Ein winziger Junge hilft seinem Vater, entkommt Entführern und Dieben und wird aus dem Bauch eines Wolfes befreit."
     },
     {
       "id": "038_wedding_mrs_fox",
       "title": "The Wedding of Mrs. Fox",
-      "description": "A fake death, the courtship of many suitors, and a grand wedding in the house of widow Mrs Fox."
+      "description": "Herr Fuchs täuscht seinen Tod vor, um seine Frau zu prüfen, die alle Freier bis auf einen neunschwänzigen abweist."
     },
     {
       "id": "049_the_six_swans",
       "title": "The Six Swans",
-      "description": "In the robbers' cabin, on the night when the brothers name the price, the sister sets out to find them."
+      "description": "In der Räuberhütte, in jener Nacht, da die Brüder den Preis nennen, begibt sich die Schwester auf die Suche."
     },
     {
       "id": "130_one_eye_two_eyes_three_eyes",
       "title": "One-Eye, Two-Eyes, and Three-Eyes",
-      "description": "A despised girl saves herself with a magic goat and a golden apple tree, and finds her happiness."
+      "description": "Ein verachtetes Mädchen erlöst sich mit einer Zauberziege und einem goldenen Apfelbaum und findet ihr Glück."
     }
   ]
 }

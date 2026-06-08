@@ -20,7 +20,7 @@ Daumesdick.
 
 ## Arc
 
-Ein winziger, aber kluger Junge hilft seinem Vater, entkommt Entführern und Dieben und wird aus dem Bauch eines Wolfes befreit.
+Ein winziger Junge hilft seinem Vater, entkommt Entführern und Dieben und wird aus dem Bauch eines Wolfes befreit.
 
 ## Company
 

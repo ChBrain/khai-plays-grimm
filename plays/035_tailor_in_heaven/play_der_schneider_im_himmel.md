@@ -20,7 +20,7 @@ Der Schneider im Himmel.
 
 ## Arc
 
-Ein sündiger Schneider gelangt heimlich in den Himmel, setzt sich auf Gottes Thron und wird wegen Selbstgerechtigkeit verbannt.
+Ein Schneider schleicht in den Himmel, setzt sich auf Gottes Thron und wird wegen seiner Selbstgerechtigkeit verbannt.
 
 ## Company
 
