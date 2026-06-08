@@ -1,0 +1,35 @@
+---
+khai: plot
+title: "door_security"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-08"
+---
+
+# Plot: door_security
+
+## Taxonomy
+
+[play_frederick_catherine](play_frederick_catherine.md)
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Cue
+
+Frieder verlangt, dass Catherlieschen umkehrt, um das unverschlossene Haus zu sichern.
+
+## Action
+
+Catherlieschen geht heim, hängt jedoch die schwere Haustür aus und trägt sie auf ihrem Rücken zu Frieder, beladen mit einer Flasche Essig und einigen Dörrbirnen.
+
+## Stage
+
+Der Weg zwischen dem verlassenen Haus und dem Waldrand.
+
+## Tension
+
+Der Kontrast zwischen dem logischen Auftrag ("sichere das Haus") und der absurden physischen Ausführung ("nimm die Tür mit").\n
