@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Die Bremer Stadtmusikanten
+# Play: The Town Musicians of Bremen
 
 ## Estate
 

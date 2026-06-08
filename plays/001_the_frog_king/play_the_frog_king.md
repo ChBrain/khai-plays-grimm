@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-06"
 ---
 
-# Play: Der Froschkönig oder der eiserne Heinrich
+# Play: The Frog King
 
 ## Estate
 

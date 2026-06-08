@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Von dem Fischer und seiner Frau
+# Play: The Fisherman and His Wife
 
 ## Estate
 

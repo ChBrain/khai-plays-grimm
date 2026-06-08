@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Hänsel und Gretel
+# Play: Hansel and Gretel
 
 ## Estate
 

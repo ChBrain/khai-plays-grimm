@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Die sieben Raben
+# Play: The Seven Ravens
 
 ## Estate
 

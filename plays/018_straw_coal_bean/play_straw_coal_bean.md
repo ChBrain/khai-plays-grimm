@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Strohhalm, Kohle und Bohne
+# Play: Straw, Coal, and Bean
 
 ## Estate
 

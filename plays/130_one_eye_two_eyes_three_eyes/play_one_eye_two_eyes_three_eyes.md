@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Einäuglein, Zweiäuglein und Dreiäuglein
+# Play: One-Eye, Two-Eyes, and Three-Eyes
 
 ## Estate
 

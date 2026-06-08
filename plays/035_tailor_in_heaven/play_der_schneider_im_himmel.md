@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Play: Der Schneider im Himmel
+# Play: The Tailor in Heaven
 
 ## Estate
 

@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Play: Tischchen deck dich, Goldesel und Knüppel aus dem Sack
+# Play: The Wishing-Table
 
 ## Estate
 

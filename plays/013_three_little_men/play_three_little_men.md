@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Die drei Männlein im Walde
+# Play: The Three Little Men in the Wood
 
 ## Estate
 

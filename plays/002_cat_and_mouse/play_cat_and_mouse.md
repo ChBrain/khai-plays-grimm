@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-06"
 ---
 
-# Play: Katze und Maus in Gesellschaft
+# Play: Cat and Mouse in Partnership
 
 ## Estate
 

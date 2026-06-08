@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Play: Die Hochzeit der Frau Füchsin
+# Play: The Wedding of Mrs. Fox
 
 ## Estate
 

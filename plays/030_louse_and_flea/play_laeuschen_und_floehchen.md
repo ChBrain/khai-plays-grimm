@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Play: Läuschen und Flöhchen
+# Play: The Louse and the Flea
 
 ## Estate
 

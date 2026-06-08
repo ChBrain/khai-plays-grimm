@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Der Wolf und die sieben jungen Geißlein
+# Play: The Wolf and the Seven Young Kids
 
 ## Estate
 

@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Der gute Handel
+# Play: The Good Bargain
 
 ## Estate
 

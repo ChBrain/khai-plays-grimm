@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Die drei Spinnerinnen
+# Play: The Three Spinners
 
 ## Estate
 

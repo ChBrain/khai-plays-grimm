@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Brüderchen und Schwesterchen
+# Play: Brother and Sister
 
 ## Estate
 

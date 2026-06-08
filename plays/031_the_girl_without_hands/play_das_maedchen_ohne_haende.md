@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Play: Das Mädchen ohne Hände
+# Play: The Girl Without Hands
 
 ## Estate
 

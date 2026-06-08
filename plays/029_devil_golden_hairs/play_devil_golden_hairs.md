@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Der Teufel mit den drei goldenen Haaren
+# Play: The Devil with the Three Golden Hairs
 
 ## Estate
 

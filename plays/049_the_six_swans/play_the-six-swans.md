@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Play: Die sechs Schwäne
+# Play: The Six Swans
 
 ## Estate
 

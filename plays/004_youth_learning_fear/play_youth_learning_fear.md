@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Märchen von einem, der auszog, das Fürchten zu lernen
+# Play: The Story of the Youth Who Went Forth to Learn What Fear Was
 
 ## Estate
 

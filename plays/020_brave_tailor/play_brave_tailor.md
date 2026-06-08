@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Das tapfere Schneiderlein
+# Play: The Brave Little Tailor
 
 ## Estate
 

@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Play: Die kluge Elsa
+# Play: Clever Elsie
 
 ## Estate
 

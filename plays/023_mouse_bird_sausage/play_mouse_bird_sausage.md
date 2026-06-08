@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Von dem Mäuschen, Vögelchen und der Bratwurst
+# Play: The Mouse, the Bird, and the Sausage
 
 ## Estate
 

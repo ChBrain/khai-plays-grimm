@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Der treue Johannes
+# Play: Faithful John
 
 ## Estate
 

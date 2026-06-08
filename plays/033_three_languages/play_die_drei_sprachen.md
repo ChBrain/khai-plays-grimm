@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Play: Die drei Sprachen
+# Play: The Three Languages
 
 ## Estate
 

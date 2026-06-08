@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Die zwölf Brüder
+# Play: The Twelve Brothers
 
 ## Estate
 
