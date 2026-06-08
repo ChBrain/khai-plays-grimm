@@ -1,0 +1,35 @@
+---
+khai: piece
+title: "piece_cow"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-08"
+---
+
+# Piece: piece_cow
+
+## Taxonomy
+
+Parent group: pieces
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Place
+
+Im Stall des Pfarrhauses.
+
+## Load Bearing
+
+Das Nutztier, das Daumesdick verschluckt, durch dessen Schreie der Pfarrer an Teufelswerk glaubt und das Tier schlachten lässt.
+
+## Apparent
+
+Eine große, gefleckte Kuh des Pfarrers.
+
+## Yearbook
+
+Das Symbol der unbewussten Gefahr der Natur, die das Winzige bedroht.
