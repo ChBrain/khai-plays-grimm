@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.57.0",
+  "version": "0.58.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -282,6 +282,11 @@
       "id": "056_sweetheart_roland",
       "title": "Sweetheart Roland",
       "description": "Ein Mädchen flieht mit Roland vor der Hexe, übersteht sein Vergessen und findet durch ihren Gesang zu ihm zurück."
+    },
+    {
+      "id": "057_golden_bird",
+      "title": "The Golden Bird",
+      "description": "Ein Prinz sucht den goldenen Vogel, gewinnt mithilfe eines Fuchses Pferd und Braut und erlöst seinen Helfer."
     },
     {
       "id": "130_one_eye_two_eyes_three_eyes",
