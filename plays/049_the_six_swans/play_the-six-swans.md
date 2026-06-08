@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Die sechs Schwäne"
+title: "The Six Swans"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Play: Die sechs Schwäne
+# Play: The Six Swans
 
 ## Estate
 

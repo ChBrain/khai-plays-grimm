@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Daumesdick"
+title: "Thumbling"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Play: Daumesdick
+# Play: Thumbling
 
 ## Estate
 
@@ -20,7 +20,7 @@ Daumesdick.
 
 ## Arc
 
-Ein winziger, aber kluger Junge hilft seinem Vater, entkommt Entführern und Dieben und wird aus dem Bauch eines Wolfes befreit.
+Ein winziger Junge hilft seinem Vater, entkommt Entführern und Dieben und wird aus dem Bauch eines Wolfes befreit.
 
 ## Company
 

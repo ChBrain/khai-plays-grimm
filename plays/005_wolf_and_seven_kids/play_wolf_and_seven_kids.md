@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Der Wolf und die sieben jungen Geißlein"
+title: "The Wolf and the Seven Young Kids"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Der Wolf und die sieben jungen Geißlein
+# Play: The Wolf and the Seven Young Kids
 
 ## Estate
 

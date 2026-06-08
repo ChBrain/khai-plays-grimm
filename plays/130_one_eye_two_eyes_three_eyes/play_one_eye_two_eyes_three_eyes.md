@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Einäuglein, Zweiäuglein und Dreiäuglein"
+title: "One-Eye, Two-Eyes, and Three-Eyes"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Einäuglein, Zweiäuglein und Dreiäuglein
+# Play: One-Eye, Two-Eyes, and Three-Eyes
 
 ## Estate
 

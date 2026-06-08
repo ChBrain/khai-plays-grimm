@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Die drei Spinnerinnen"
+title: "The Three Spinners"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Die drei Spinnerinnen
+# Play: The Three Spinners
 
 ## Estate
 

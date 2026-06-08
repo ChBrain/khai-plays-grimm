@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Das Mädchen ohne Hände"
+title: "The Girl Without Hands"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Play: Das Mädchen ohne Hände
+# Play: The Girl Without Hands
 
 ## Estate
 

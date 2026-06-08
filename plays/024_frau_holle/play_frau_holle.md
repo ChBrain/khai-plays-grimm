@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Frau Holle"
+title: "Mother Holle"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Frau Holle
+# Play: Mother Holle
 
 ## Estate
 

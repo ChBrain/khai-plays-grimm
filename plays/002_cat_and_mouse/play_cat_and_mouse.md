@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Katze und Maus in Gesellschaft"
+title: "Cat and Mouse in Partnership"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-06"
 ---
 
-# Play: Katze und Maus in Gesellschaft
+# Play: Cat and Mouse in Partnership
 
 ## Estate
 

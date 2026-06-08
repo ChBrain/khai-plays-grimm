@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Der Schneider im Himmel"
+title: "The Tailor in Heaven"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Play: Der Schneider im Himmel
+# Play: The Tailor in Heaven
 
 ## Estate
 
@@ -20,7 +20,7 @@ Der Schneider im Himmel.
 
 ## Arc
 
-Ein sündiger Schneider gelangt heimlich in den Himmel, setzt sich auf Gottes Thron und wird wegen Selbstgerechtigkeit verbannt.
+Ein Schneider schleicht in den Himmel, setzt sich auf Gottes Thron und wird wegen seiner Selbstgerechtigkeit verbannt.
 
 ## Company
 

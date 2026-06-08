@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Die sieben Raben"
+title: "The Seven Ravens"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Die sieben Raben
+# Play: The Seven Ravens
 
 ## Estate
 

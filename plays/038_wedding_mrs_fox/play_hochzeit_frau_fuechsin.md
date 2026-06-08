@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Die Hochzeit der Frau Füchsin"
+title: "The Wedding of Mrs. Fox"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Play: Die Hochzeit der Frau Füchsin
+# Play: The Wedding of Mrs. Fox
 
 ## Estate
 
@@ -20,7 +20,7 @@ Die Hochzeit der Frau Füchsin.
 
 ## Arc
 
-Herr Fuchs täuscht seinen Tod vor, um die Treue seiner Frau zu prüfen, die alle Freier bis auf einen neunschwänzigen abweist.
+Herr Fuchs täuscht seinen Tod vor, um seine Frau zu prüfen, die alle Freier bis auf einen neunschwänzigen abweist.
 
 ## Company
 

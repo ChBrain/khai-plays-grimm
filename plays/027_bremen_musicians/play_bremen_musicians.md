@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Die Bremer Stadtmusikanten"
+title: "The Town Musicians of Bremen"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Die Bremer Stadtmusikanten
+# Play: The Town Musicians of Bremen
 
 ## Estate
 

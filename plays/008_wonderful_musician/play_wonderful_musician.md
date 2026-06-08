@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Der wunderliche Spielmann"
+title: "The Strange Musician"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +8,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Der wunderliche Spielmann
+# Play: The Strange Musician
 
 ## Estate
 
