@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.55.0",
+  "version": "0.56.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -272,6 +272,11 @@
       "id": "054_knapsack_hat_horn",
       "title": "The Knapsack, the Hat, and the Horn",
       "description": "Ein armer Bruder tauscht ein Wunschtuch gegen magische Waffen, besiegt den König und zerschmettert den Verrat."
+    },
+    {
+      "id": "055_rumpelstiltskin",
+      "title": "Rumpelstiltskin",
+      "description": "Eine Müllerstochter muss Stroh zu Gold spinnen, verspricht ihr Kind und rettet es, indem sie seinen Namen errät."
     },
     {
       "id": "130_one_eye_two_eyes_three_eyes",
