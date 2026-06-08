@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.54.0",
+  "version": "0.55.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -267,6 +267,11 @@
       "id": "053_snow_white",
       "title": "Little Snow-White",
       "description": "Eine schöne Königstochter flieht vor der bösen Stiefmutter zu sieben Zwergen und wird gerettet."
+    },
+    {
+      "id": "054_knapsack_hat_horn",
+      "title": "The Knapsack, the Hat, and the Horn",
+      "description": "Ein armer Bruder tauscht ein Wunschtuch gegen magische Waffen, besiegt den König und zerschmettert den Verrat."
     },
     {
       "id": "130_one_eye_two_eyes_three_eyes",
