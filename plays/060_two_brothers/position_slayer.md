@@ -1,0 +1,35 @@
+---
+khai: position
+title: "slayer"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-08"
+---
+
+# Position: slayer
+
+## Taxonomy
+
+Parent group: positions
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Has
+
+Den Mut, sich dem siebenköpfigen Drachen entgegenzustellen, und die Zungen als Beweis.
+
+## Orders
+
+Das Retten der Prinzessin und das Aufbrechen in neue Länder vor der Hochzeit.
+
+## Loses
+
+Sein Leben durch Eifersucht, gewinnt es aber durch treue Tiermagie zurück.
+
+## Drives
+
+Der heroische Abenteuergeist und der Wunsch nach Befreiung der Schwachen.\n
