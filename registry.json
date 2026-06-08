@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.47.0",
+  "version": "0.48.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -227,6 +227,11 @@
       "id": "045_daumerlings_wanderschaft",
       "title": "Thumbling's Travels",
       "description": "Der daumengroße Schneidersohn zieht in die Welt, hilft Räubern, überlistet Wachen und entkommt aus einem Wolfsbauch."
+    },
+    {
+      "id": "046_fitchers_vogel",
+      "title": "Fitcher's Bird",
+      "description": "Ein Zauberer raubt Schwestern, wird von der klugen Jüngsten überlistet, die als Federvogel getarnt entkommt."
     },
     {
       "id": "049_the_six_swans",
