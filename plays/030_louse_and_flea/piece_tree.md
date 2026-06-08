@@ -1,0 +1,35 @@
+---
+khai: piece
+title: "tree"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-08"
+---
+
+# Piece: tree
+
+## Taxonomy
+
+Parent group: pieces
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Place
+
+Am Rand des Hofes wurzelnd.
+
+## Load Bearing
+
+Die Pflanze, die all ihr Laub als Zeichen der Trauer abwirft.
+
+## Apparent
+
+Ein kleines Bäumchen mit grünen Blättern.
+
+## Yearbook
+
+Der kahle Baum, der dem schöpfenden Mädchen das Unglück offenbart.
