@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.45.0",
+  "version": "0.46.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -217,6 +217,11 @@
       "id": "043_frau_trude",
       "title": "Mother Trudy",
       "description": "Ein Mädchen ignoriert die Warnung der Eltern, besucht die unheimliche Frau Trude und wird von ihr verbrannt."
+    },
+    {
+      "id": "044_gevatter_tod",
+      "title": "Godfather Death",
+      "description": "Der Tod wird Pate eines armen Jungen, macht ihn zum berühmten Arzt, straft jedoch dessen Verrat mit dem Lebenslicht."
     },
     {
       "id": "049_the_six_swans",
