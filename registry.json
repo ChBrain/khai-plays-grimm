@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.40.0",
+  "version": "0.41.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -192,6 +192,11 @@
       "id": "038_wedding_mrs_fox",
       "title": "The Wedding of Mrs. Fox",
       "description": "Herr Fuchs täuscht seinen Tod vor, um seine Frau zu prüfen, die alle Freier bis auf einen neunschwänzigen abweist."
+    },
+    {
+      "id": "039_the_elves",
+      "title": "Die Wichtelmänner",
+      "description": "Zwei nackte Wichtelmänner fertigen nachts heimlich Schuhe für einen armen Schuster, bis dieser sie mit Kleidern beschenkt."
     },
     {
       "id": "049_the_six_swans",
