@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.49.0",
+  "version": "0.50.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -237,6 +237,11 @@
       "id": "047_the_juniper_tree",
       "title": "The Juniper Tree",
       "description": "Die böse Stiefmutter tötet den kleinen Sohn, doch er ersteht als schöner Vogel und übt gerechte Vergeltung."
+    },
+    {
+      "id": "048_old_sultan",
+      "title": "Old Sultan",
+      "description": "Ein alter Hund soll wegen Untauglichkeit getötet werden, schließt einen Pakt mit dem Wolf und beweist seine Treue."
     },
     {
       "id": "049_the_six_swans",
