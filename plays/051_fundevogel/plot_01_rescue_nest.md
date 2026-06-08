@@ -1,0 +1,35 @@
+---
+khai: plot
+title: "rescue_nest"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-08"
+---
+
+# Plot: rescue_nest
+
+## Taxonomy
+
+[play_fundevogel](play_fundevogel.md)
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Cue
+
+Ein Förster geht im Wald auf die Jagd und hört das Weinen eines kleinen Kindes.
+
+## Action
+
+Er steigt auf eine hohe Tanne, rettet das von einem Raubvogel dorthin getragene Baby und nimmt es als Spielkamerad für Lenchen auf.
+
+## Stage
+
+Die hohe Tanne im tiefen Nadelwald.
+
+## Tension
+
+Die Gefahr in der Höhe und die Erleichterung über die wundersame Rettung des Säuglings.
