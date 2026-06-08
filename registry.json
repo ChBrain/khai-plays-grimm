@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.41.0",
+  "version": "0.42.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -197,6 +197,11 @@
       "id": "039_the_elves",
       "title": "The Elves",
       "description": "Zwei nackte Wichtelmänner fertigen heimlich Schuhe für einen armen Schuster, bis er sie mit Kleidern beschenkt."
+    },
+    {
+      "id": "040_the_robber_bridegroom",
+      "title": "The Robber Bridegroom",
+      "description": "Eine Müllerstochter besucht das Waldhaus ihres unheimlichen Bräutigams und entlarvt ihn beim Hochzeitsmahl als Mörder."
     },
     {
       "id": "049_the_six_swans",
