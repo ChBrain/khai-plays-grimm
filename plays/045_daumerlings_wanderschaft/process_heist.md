@@ -1,0 +1,35 @@
+---
+khai: process
+title: "heist"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-08"
+---
+
+# Process: heist
+
+## Taxonomy
+
+Parent group: processes
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Initiated by
+
+Däumling und den Räubern am Schloss des Königs.
+
+## Direction
+
+Das heimliche Eindringen und Ausrauben der königlichen Schatzkammer unter Umgehung aller Wachen.
+
+## Lever
+
+Däumlings winzige Gestalt, die mühelos durch die Spalten der Tür passt.
+
+## Echo
+
+Die Verwirrung am königlichen Hofe und das Erlangen von großem Reichtum für die Räuber.
