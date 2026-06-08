@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Die Wichtelmänner"
+title: "The Elves"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -20,7 +20,7 @@ Die Wichtelmänner.
 
 ## Arc
 
-Zwei nackte Wichtelmänner fertigen nachts heimlich Schuhe für einen armen Schuster, bis dieser sie mit Kleidern beschenkt.
+Zwei nackte Wichtelmänner fertigen heimlich Schuhe für einen armen Schuster, bis er sie mit Kleidern beschenkt.
 
 ## Company
 
