@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.38.0",
+  "version": "0.39.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -182,6 +182,11 @@
       "id": "036_wishing_table",
       "title": "Tischchen deck dich, Goldesel und Knüppel aus dem Sack",
       "description": "Drei Brüder erlangen magische Gaben, werden von einem Wirt beraubt und holen ihr Recht mit einem Knüppel zurück."
+    },
+    {
+      "id": "037_thumbling",
+      "title": "Daumesdick",
+      "description": "Ein winziger, aber kluger Junge hilft seinem Vater, entkommt Entführern und Dieben und wird aus dem Bauch eines Wolfes befreit."
     },
     {
       "id": "049_the_six_swans",
