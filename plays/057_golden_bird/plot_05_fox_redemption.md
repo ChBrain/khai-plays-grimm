@@ -1,0 +1,35 @@
+---
+khai: plot
+title: "fox_redemption"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-08"
+---
+
+# Plot: fox_redemption
+
+## Taxonomy
+
+[play_golden_bird](play_golden_bird.md)
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Cue
+
+Die Prinzessin trauert am Hof und weigert sich zu sprechen.
+
+## Action
+
+Der Fuchs rettet den Prinzen aus dem Brunnen. Am Hof offenbart die Prinzessin die Wahrheit. Der Prinz erlöst den Fuchs auf dessen Bitte, indem er ihn köpft. Dieser wird ein Prinz.
+
+## Stage
+
+Der königliche Thronsaal und die Lichtung am Waldrand.
+
+## Tension
+
+Die Enthüllung des Betrugs und das schockierende, erlösende Ritual der Enthauptung.
