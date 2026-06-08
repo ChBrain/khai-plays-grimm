@@ -1,0 +1,35 @@
+---
+khai: process
+title: "patronage"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-08"
+---
+
+# Process: patronage
+
+## Taxonomy
+
+Parent group: processes
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Initiated by
+
+Dem Vater und dem Tod auf der Landstraße.
+
+## Direction
+
+Das Eingehen eines heiligen Bündnisses der Patenschaft im Namen der absoluten Gleichheit.
+
+## Lever
+
+Die unbestechliche Natur des Todes, die den armen Vater überzeugt.
+
+## Echo
+
+Der Aufstieg des Patenkindes und die lebenslange Verbindung zum Tod.
