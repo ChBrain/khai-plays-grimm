@@ -1,0 +1,35 @@
+---
+khai: plot
+title: "fatal_end"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-08"
+---
+
+# Plot: fatal_end
+
+## Taxonomy
+
+[play_frau_trude](play_frau_trude.md)
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Cue
+
+Frau Trude gibt zu, dass das Mädchen den Teufel in seiner wahren Gestalt gesehen hat.
+
+## Action
+
+Sie verwandelt das Kind in einen Holzklotz, wirft ihn ins Feuer und freut sich über das helle Brennen.
+
+## Stage
+
+Am Kaminfeuer der Hexe.
+
+## Tension
+
+Die endgültige, unumkehrbare Vernichtung und das grausame Triumphieren der Hexe.
