@@ -32,4 +32,4 @@ Die soziale Arena, in der sich Neid, Rechtsprechung und die listige Umkehr der V
 
 ## Withheld
 
-Jegliche Solidarität für den armen Mitbewohner, bevor dieser reich wird.\n
+Jegliche Solidarität für den armen Mitbewohner, bevor dieser reich wird.

@@ -32,4 +32,4 @@ Sein mühsam verdientes Geld an das Bürle und seine Würde an den Pfaffen.
 
 ## Drives
 
-Die Furcht vor dem Teufel und die Gastfreundschaft für Wanderer.\n
+Die Furcht vor dem Teufel und die Gastfreundschaft für Wanderer.

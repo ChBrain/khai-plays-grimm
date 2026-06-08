@@ -32,4 +32,4 @@ Ein schwerer Beutel voller glänzender Silbermünzen.
 
 ## Yearbook
 
-Das Symbol des Erfolgs, das den folgenschweren Hochmut und Neid der Nachbarn provoziert.\n
+Das Symbol des Erfolgs, das den folgenschweren Hochmut und Neid der Nachbarn provoziert.

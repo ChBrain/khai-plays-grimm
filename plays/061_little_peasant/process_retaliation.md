@@ -32,4 +32,4 @@ Das Einsperren des Bürles in ein Fass, um ihn im Fluss zu ertränken.
 
 ## Echo
 
-Das Entkommen des Bürles und der unfreiwillige Tod des Schäfers.\n
+Das Entkommen des Bürles und der unfreiwillige Tod des Schäfers.

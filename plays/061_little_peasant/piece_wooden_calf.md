@@ -32,4 +32,4 @@ Ein grob aus Holz geschnitztes Kalb mit gesenktem Kopf.
 
 ## Yearbook
 
-Das Symbol für den unkonventionellen, fast absurden Beginn des Aufstiegs des Bürles.\n
+Das Symbol für den unkonventionellen, fast absurden Beginn des Aufstiegs des Bürles.

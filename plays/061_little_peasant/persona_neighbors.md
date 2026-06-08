@@ -33,4 +33,4 @@ Ihr Neid und ihre unersättliche Gier machen sie völlig blind für die offensic
 
 ## Tell
 
-Ihr protziges Auftreten, ihr kollektiver Zorn im Gericht und ihr gieriges Drängen am Flussufer.\n
+Ihr protziges Auftreten, ihr kollektiver Zorn im Gericht und ihr gieriges Drängen am Flussufer.

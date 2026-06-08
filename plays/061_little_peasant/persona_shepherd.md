@@ -33,4 +33,4 @@ Sein Streben nach schnellem, unverdientem Ansehen und Reichtum bezahlt er mit de
 
 ## Tell
 
-Sein Hirtenstab, seine große Schafherde und sein dummer Stolz beim Hineinklettern in das Drowning-Fass.\n
+Sein Hirtenstab, seine große Schafherde und sein dummer Stolz beim Hineinklettern in das Drowning-Fass.

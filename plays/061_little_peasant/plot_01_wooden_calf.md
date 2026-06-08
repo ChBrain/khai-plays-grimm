@@ -32,4 +32,4 @@ Die saftige Dorfweide und die Amtsstube des Richters.
 
 ## Tension
 
-Die Unverschämtheit des Betrugs und der glückliche Ausgang vor Gericht.\n
+Die Unverschämtheit des Betrugs und der glückliche Ausgang vor Gericht.

@@ -32,4 +32,4 @@ Das Rauschen des Wassers, das sie für das Blöken von Schafen halten, und der R
 
 ## Echo
 
-Das Ertrinken aller Bauern und der Alleinbesitz des Dorfes durch das Bürle.\n
+Das Ertrinken aller Bauern und der Alleinbesitz des Dorfes durch das Bürle.

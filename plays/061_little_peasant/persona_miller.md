@@ -33,4 +33,4 @@ Seine Gutgläubigkeit und Furcht vor Magie machen ihn zur leichten Beute für da
 
 ## Tell
 
-Seine mehlbestäubten Kleider, seine naive Freude über das "wahrsagende" Leder und sein Zittern vor dem Schrankteufel.\n
+Seine mehlbestäubten Kleider, seine naive Freude über das "wahrsagende" Leder und sein Zittern vor dem Schrankteufel.

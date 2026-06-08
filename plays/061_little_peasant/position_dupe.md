@@ -32,4 +32,4 @@ Erst ihre kostbaren Kühe, dann ihre Schafherden und am Ende ihr Leben im tiefen
 
 ## Drives
 
-Der blinde Neid und das Verlangen nach mühelosem Reichtum.\n
+Der blinde Neid und das Verlangen nach mühelosem Reichtum.

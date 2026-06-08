@@ -32,4 +32,4 @@ Die Möglichkeit für den Sperling, durch List und Schnelligkeit Nahrung für de
 
 ## Withheld
 
-Jegliche Bewachung vor den flinken Schnäbeln und Krallen des kleinen Sperlings.\n
+Jegliche Bewachung vor den flinken Schnäbeln und Krallen des kleinen Sperlings.

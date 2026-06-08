@@ -32,4 +32,4 @@ Seine angebliche Armut und gewinnt die uneingeschränkte Herrschaft über das La
 
 ## Drives
 
-Der pure Überlebenskampf und der Spott über die arroganten Reichen.\n
+Der pure Überlebenskampf und der Spott über die arroganten Reichen.

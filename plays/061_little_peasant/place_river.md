@@ -32,4 +32,4 @@ Den Ort der vermeintlichen Hinrichtung, der sich in die tödliche Falle für die
 
 ## Withheld
 
-Jedes Entkommen für die gierigen Bauern, die sich schwer beladen in die Fluten stürzen.\n
+Jedes Entkommen für die gierigen Bauern, die sich schwer beladen in die Fluten stürzen.

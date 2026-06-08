@@ -32,4 +32,4 @@ Eine einfache, getrocknete und gesalzen Rindshaut.
 
 ## Yearbook
 
-Das Werkzeug des genialen Betrugs in der Mühle, das dem Bürle den ersten großen Geldsegen bringt.\n
+Das Werkzeug des genialen Betrugs in der Mühle, das dem Bürle den ersten großen Geldsegen bringt.

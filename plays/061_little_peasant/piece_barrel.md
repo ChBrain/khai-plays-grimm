@@ -32,4 +32,4 @@ Ein stabiles, hölzerner Heringstonne oder Weinfass mit Spundloch.
 
 ## Yearbook
 
-Das Symbol der Todesgefahr und der genialen Rettung durch die Dummheit des Opfers.\n
+Das Symbol der Todesgefahr und der genialen Rettung durch die Dummheit des Opfers.

@@ -32,4 +32,4 @@ Die gemütliche Stube mit dem Esstisch in der Mühle.
 
 ## Tension
 
-Die Gefahr der Entdeckung durch den Müller und die geschickte Ausnutzung der Situation durch das Bürle.\n
+Die Gefahr der Entdeckung durch den Müller und die geschickte Ausnutzung der Situation durch das Bürle.

@@ -32,4 +32,4 @@ Das Nutzen des Rabenrufs als Vorhersage und das Erfinden blauer Schafe im Fluss.
 
 ## Echo
 
-Der wachsende Reichtum des Bürles und die Selbstzerstörung seiner Feinde.\n
+Der wachsende Reichtum des Bürles und die Selbstzerstörung seiner Feinde.

@@ -32,4 +32,4 @@ Das sonnige Flussufer nahe der Dorfschenke.
 
 ## Tension
 
-Die knappe Zeit vor der Rückkehr der Bauern und die Leichtgläubigkeit des Schäfers.\n
+Die knappe Zeit vor der Rückkehr der Bauern und die Leichtgläubigkeit des Schäfers.

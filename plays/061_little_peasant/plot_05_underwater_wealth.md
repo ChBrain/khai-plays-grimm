@@ -32,4 +32,4 @@ Die Uferböschung des tiefen, blauen Flusses.
 
 ## Tension
 
-Die groteske Massen-Slapstick-Szene am Ufer und der triumphale Erfolg des listigen Bürles.\n
+Die groteske Massen-Slapstick-Szene am Ufer und der triumphale Erfolg des listigen Bürles.

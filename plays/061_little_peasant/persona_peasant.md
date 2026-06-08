@@ -33,4 +33,4 @@ Seine Rache an den Nachbarn ist tödlich; er nutzt deren eigene grenzenlose Gier
 
 ## Tell
 
-Sein einfaches Gewand, sein verschmitztes Lächeln und die Fähigkeit, aus jeder Notlage einen Vorteil zu schlagen.\n
+Sein einfaches Gewand, sein verschmitztes Lächeln und die Fähigkeit, aus jeder Notlage einen Vorteil zu schlagen.

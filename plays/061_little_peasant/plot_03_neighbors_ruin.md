@@ -32,4 +32,4 @@ Der Dorfplatz und die Straßen zwischen den Höfen.
 
 ## Tension
 
-Der bittere Reinfall der gierigen Bauern und ihre grausame Racheabsicht.\n
+Der bittere Reinfall der gierigen Bauern und ihre grausame Racheabsicht.
