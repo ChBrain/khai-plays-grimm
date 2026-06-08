@@ -1,0 +1,36 @@
+---
+khai: persona
+title: "goldsmith"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-08"
+type: fictional
+---
+
+# Persona: goldsmith
+
+## Taxonomy
+
+Parent group: personas
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Projection
+
+Der wohlhabende, geizige und hartherzige Goldschmied, der seinen armen Besenbinderbruder und dessen Söhne ausbeutet.
+
+## Action
+
+Er will den magischen Goldvogel besitzen, betrügt seinen Bruder und verjagt die Zwillinge aus Neid und Aberglauben.
+
+## Shadow
+
+Seine grenzenlose Habgier entzweit die Familie und zwingt die Kinder zur Flucht in die Wildnis.
+
+## Tell
+
+Sein reiches Gewand, sein neidischer Blick auf die täglichen Goldstücke der Kinder und das gierige Zubereiten des Vogels.\n

@@ -1,0 +1,35 @@
+---
+khai: plot
+title: "golden_bird"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-08"
+---
+
+# Plot: golden_bird
+
+## Taxonomy
+
+[play_two_brothers](play_two_brothers.md)
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Cue
+
+Ein armer Besenbinder fängt unwissend einen goldenen Vogel.
+
+## Action
+
+Die Zwillingssöhne essen Herz und Leber des Vogels. Fortan liegt jeden Morgen ein Goldstück unter ihrem Kissen. Der neidische Goldschmied-Onkel redet dem Vater ein, es sei Teufelswerk, woraufhin die Knaben im Wald ausgesetzt werden.
+
+## Stage
+
+Die bescheidene Hütte und der angrenzende, finstere Waldrand.
+
+## Tension
+
+Die elterliche Not, die unschuldige Goldgabe und die Vertreibung der Zwillinge.\n
