@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.34.0",
+  "version": "0.35.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -162,6 +162,11 @@
       "id": "032_clever_hans",
       "title": "Der gescheite Hans",
       "description": "Hans missversteht alle Ratschläge seiner Mutter wortwörtlich und zerstört damit die Werbung um seine Braut Gretel."
+    },
+    {
+      "id": "033_three_languages",
+      "title": "Die drei Sprachen",
+      "description": "Ein verstoßener Sohn lernt die Sprachen der Tiere, birgt einen Schatz und steigt durch göttliche Fügung zum Papst auf."
     },
     {
       "id": "049_the_six_swans",
