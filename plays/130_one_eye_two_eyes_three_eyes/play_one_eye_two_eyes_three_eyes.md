@@ -20,7 +20,7 @@ Einäuglein, Zweiäuglein und Dreiäuglein.
 
 ## Arc
 
-Ein wegen ihrer Normalität verachtetes Mädchen erlöst sich mithilfe einer weisen Frau, einer Zauberziege und eines goldenen Apfelbaums und findet ihr Glück.
+Ein verachtetes Mädchen erlöst sich mit einer Zauberziege und einem goldenen Apfelbaum und findet ihr Glück.
 
 ## Company
 
