@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.39.0",
+  "version": "0.40.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -187,6 +187,11 @@
       "id": "037_thumbling",
       "title": "Daumesdick",
       "description": "Ein winziger, aber kluger Junge hilft seinem Vater, entkommt Entführern und Dieben und wird aus dem Bauch eines Wolfes befreit."
+    },
+    {
+      "id": "038_wedding_mrs_fox",
+      "title": "Die Hochzeit der Frau Füchsin",
+      "description": "Herr Fuchs täuscht seinen Tod vor, um die Treue seiner Frau zu prüfen, die alle Freier bis auf einen neunschwänzigen abweist."
     },
     {
       "id": "049_the_six_swans",
