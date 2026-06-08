@@ -1,0 +1,35 @@
+---
+khai: plot
+title: "kitchen_maid"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-08"
+---
+
+# Plot: kitchen_maid
+
+## Taxonomy
+
+[play_king_thrushbeard](play_king_thrushbeard.md)
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Cue
+
+Der Spielmann findet Arbeit für seine Frau im Schloss des Königs Drosselbart.
+
+## Action
+
+Sie muss als Küchenmagd den Abwasch machen, die schmutzigste Arbeit verrichten und Essensreste in kleinen Taschen sammeln.
+
+## Stage
+
+Die dampfende, laute Schlossküche im Schloss von König Drosselbart.
+
+## Tension
+
+Die bittere Ironie, als Magd im Schloss jenes Mannes zu arbeiten, den sie einst verspottete.
