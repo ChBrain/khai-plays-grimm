@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.42.0",
+  "version": "0.43.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -202,6 +202,11 @@
       "id": "040_the_robber_bridegroom",
       "title": "The Robber Bridegroom",
       "description": "Eine Müllerstochter besucht das Waldhaus ihres unheimlichen Bräutigams und entlarvt ihn beim Hochzeitsmahl als Mörder."
+    },
+    {
+      "id": "041_herr_korbes",
+      "title": "Herr Korbes",
+      "description": "Ein Hähnchen und ein Hühnchen reisen mit einer bunten Gesellschaft zum Haus des bösen Herr Korbes und bestrafen ihn."
     },
     {
       "id": "049_the_six_swans",
