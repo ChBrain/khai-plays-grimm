@@ -1,0 +1,35 @@
+---
+khai: plot
+title: "bell_trap"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-08"
+---
+
+# Plot: bell_trap
+
+## Taxonomy
+
+[play_die_kluge_elsa](play_die_kluge_elsa.md)
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Cue
+
+Hans beschließt, Else für ihre Faulheit auf ungewöhnliche Weise zu strafen.
+
+## Action
+
+Er stülpt der schlafenden Else das Vogelstellernetz mit Schellen über, geht heim und verschließt die Haustür.
+
+## Stage
+
+Das Kornfeld im Dämmerlicht.
+
+## Tension
+
+Die Vorbereitung der Falle, die Else ihres Namens und ihres Heims berauben wird.
