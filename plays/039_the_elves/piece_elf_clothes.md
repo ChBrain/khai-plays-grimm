@@ -1,0 +1,35 @@
+---
+khai: piece
+title: "elf_clothes"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-08"
+---
+
+# Piece: elf_clothes
+
+## Taxonomy
+
+Parent group: pieces
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Place
+
+Auf dem Werktisch anstelle des Leders drapiert.
+
+## Load Bearing
+
+Die winzigen Hemdchen, Hosen und Strümpfe, die den nackten Wichteln geschenkt werden.
+
+## Apparent
+
+Winzige, fein genähte Kleidungsstücke aus bestem Tuch.
+
+## Yearbook
+
+Das Zeichen für die Dankbarkeit und den Respekt vor der Würde der kleinen Helfer.
