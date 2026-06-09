@@ -58,6 +58,11 @@ Ein frommes, fleißiges Mädchen verliert seine leibliche Mutter und wird von de
 - [Goldener Schuh](piece_slipper.md)
 - [Taubenhaus](piece_coop.md)
 
+**Plans** (die einander begegnen)
+
+- [der Gnadenbund am Grab](plan_grave-covenant.md): Aschenputtels Vorhaben, das Recht durch Treue zur toten Mutter und die ausgleichende Natur zu erstreiten.
+- [der Aschen-Zwang](plan_ash-usurpation.md): das Vorhaben der Stiefmutter, das eigene Blut durch Stand, Betrug und Verstümmelung auf den Thron zu heben.
+
 ## Triggers
 
 **[Plot 1: Das Grab und der Haselreis](plot_01_grave-and-hazel.md)**
