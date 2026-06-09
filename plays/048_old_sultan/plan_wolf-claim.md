@@ -40,4 +40,4 @@ Der Wolf hat im [Pakt](process_alliance.md) den Schurken gespielt, damit der alt
 ## Targets
 
 - [F] Der Raub des Schafs wird vereitelt und der Wolf vertrieben
-- [?] Das Duell endet in scheuer Versöhnung statt im Sieg
+- [W] Das Duell endet in scheuer Versöhnung statt im Sieg

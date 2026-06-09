@@ -42,4 +42,4 @@ Johannes ist der [treue Diener](position_faithful-servant.md), an das [Sterbever
 - [x] Die Königstochter ist mit dem goldenen Gerät gewonnen und heimgeführt
 - [x] Die drei geweissagten Gefahren sind allesamt stumm abgewendet
 - [F] Das gebrochene Schweigen verwandelt Johannes auf dem Schafott zu Stein
-- [?] Das Blut der Königssöhne erlöst ihn zuletzt, doch erst durch fremdes Opfer
+- [W] Das Blut der Königssöhne erlöst ihn zuletzt, doch erst durch fremdes Opfer
