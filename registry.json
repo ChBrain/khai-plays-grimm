@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.62.0",
+  "version": "0.63.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -307,6 +307,11 @@
       "id": "061_little_peasant",
       "title": "The Little Peasant",
       "description": "Ein armer Bauer überlistet reiche Nachbarn, erlangt Wohlstand durch Lügen und lockt sie ins Verderben."
+    },
+    {
+      "id": "062_queen_bee",
+      "title": "The Queen Bee",
+      "description": "Dummling schützt schwache Tiere vor seinen grausamen Brüdern und erlöst durch ihre Hilfe ein versteinertes Schloss."
     },
     {
       "id": "130_one_eye_two_eyes_three_eyes",
