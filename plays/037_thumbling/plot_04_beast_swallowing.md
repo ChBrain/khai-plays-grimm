@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "beast_swallowing"
+declared: "Im Bauch der Tiere"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: beast_swallowing
+# Plot: Im Bauch der Tiere
 
 ## Taxonomy
 

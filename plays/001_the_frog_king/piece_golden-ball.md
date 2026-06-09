@@ -1,6 +1,7 @@
 ---
 khai: piece
 title: "golden-ball"
+declared: "goldene Kugel"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-06"
 ---
 
-# Piece: golden-ball
+# Piece: goldene Kugel
 
 ## Taxonomy
 

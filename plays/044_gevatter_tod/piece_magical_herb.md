@@ -1,6 +1,7 @@
 ---
 khai: piece
 title: "magical_herb"
+declared: "Zauberkraut"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Piece: magical_herb
+# Piece: Zauberkraut
 
 ## Taxonomy
 

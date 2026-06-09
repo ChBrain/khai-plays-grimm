@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "calf_in_flight"
+declared: "Das flüchtige Kalb"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: calf_in_flight
+# Plot: Das flüchtige Kalb
 
 ## Taxonomy
 

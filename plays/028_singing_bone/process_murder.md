@@ -1,6 +1,7 @@
 ---
 khai: process
 title: "process_murder"
+declared: "Brudermord"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Process: process_murder
+# Process: Brudermord
 
 ## Taxonomy
 

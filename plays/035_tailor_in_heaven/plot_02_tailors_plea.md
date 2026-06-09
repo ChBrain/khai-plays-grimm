@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "tailors_plea"
+declared: "Die Bitte des Schneiders"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: tailors_plea
+# Plot: Die Bitte des Schneiders
 
 ## Taxonomy
 

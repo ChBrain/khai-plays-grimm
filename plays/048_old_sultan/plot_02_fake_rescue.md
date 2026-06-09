@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "fake_rescue"
+declared: "Die Scheinrettung"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: fake_rescue
+# Plot: Die Scheinrettung
 
 ## Taxonomy
 

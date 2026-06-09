@@ -1,6 +1,7 @@
 ---
 khai: place
 title: "joint-house"
+declared: "gemeinsames Haus"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-06"
 ---
 
-# Place: joint-house
+# Place: gemeinsames Haus
 
 ## Taxonomy
 

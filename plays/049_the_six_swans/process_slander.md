@@ -1,6 +1,7 @@
 ---
 khai: process
 title: "slander"
+declared: "Verleumdung"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Process: slander
+# Process: Verleumdung
 
 ## Taxonomy
 

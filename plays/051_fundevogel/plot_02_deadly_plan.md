@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "deadly_plan"
+declared: "Der Mordplan"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: deadly_plan
+# Plot: Der Mordplan
 
 ## Taxonomy
 

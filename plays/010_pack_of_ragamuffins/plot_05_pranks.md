@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "05_pranks"
+declared: "Das böse Erwachen"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 05_pranks
+# Plot: Das böse Erwachen
 
 ## Taxonomy
 

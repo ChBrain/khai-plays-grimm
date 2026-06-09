@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "woodcutter"
+declared: "Holzhauer"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +10,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: woodcutter
+# Persona: Holzhauer
 
 ## Taxonomy
 

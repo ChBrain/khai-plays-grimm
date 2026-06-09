@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "three_days_deadline"
+declared: "Die dreitägige Frist"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: three_days_deadline
+# Plot: Die dreitägige Frist
 
 ## Taxonomy
 

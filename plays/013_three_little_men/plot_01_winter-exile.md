@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "01_winter-exile"
+declared: "Die Vertreibung im Papierkleid"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 01_winter-exile
+# Plot: Die Vertreibung im Papierkleid
 
 ## Taxonomy
 

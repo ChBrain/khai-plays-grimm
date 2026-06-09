@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "clash_with_king"
+declared: "Der Kampf ums Recht"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: clash_with_king
+# Plot: Der Kampf ums Recht
 
 ## Taxonomy
 

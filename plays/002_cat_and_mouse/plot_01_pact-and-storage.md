@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "01_pact-and-storage"
+declared: "Der Pakt und die Verwahrung"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-06"
 ---
 
-# Plot: 01_pact-and-storage
+# Plot: Der Pakt und die Verwahrung
 
 ## Taxonomy
 

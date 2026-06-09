@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "brothers_departure"
+declared: "Die Gold- und Silberberge"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: brothers_departure
+# Plot: Die Gold- und Silberberge
 
 ## Taxonomy
 

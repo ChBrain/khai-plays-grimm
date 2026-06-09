@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Dog and the Sparrow"
+declared: "The Dog and the Sparrow"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

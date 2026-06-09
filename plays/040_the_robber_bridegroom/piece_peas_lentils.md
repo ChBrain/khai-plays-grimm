@@ -1,6 +1,7 @@
 ---
 khai: piece
 title: "peas_lentils"
+declared: "Erbsen und Linsen"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Piece: peas_lentils
+# Piece: Erbsen und Linsen
 
 ## Taxonomy
 

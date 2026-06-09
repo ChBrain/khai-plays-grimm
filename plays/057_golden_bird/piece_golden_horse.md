@@ -1,6 +1,7 @@
 ---
 khai: piece
 title: "golden_horse"
+declared: "Goldenes Pferd"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Piece: golden_horse
+# Piece: Goldenes Pferd
 
 ## Taxonomy
 

@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "03_devil-mission"
+declared: "Die Höllenfahrt"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 03_devil-mission
+# Plot: Die Höllenfahrt
 
 ## Taxonomy
 

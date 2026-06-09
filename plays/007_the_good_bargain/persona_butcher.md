@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "butcher"
+declared: "Metzger"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +10,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: butcher
+# Persona: Metzger
 
 ## Taxonomy
 

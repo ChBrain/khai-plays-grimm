@@ -1,6 +1,7 @@
 ---
 khai: place
 title: "gold_castle"
+declared: "Goldenes Schloss"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Place: gold_castle
+# Place: Goldenes Schloss
 
 ## Taxonomy
 

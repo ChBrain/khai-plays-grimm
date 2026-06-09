@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Three Little Men in the Wood"
+declared: "Die drei Männlein im Walde"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: The Three Little Men in the Wood
+# Play: Die drei Männlein im Walde
 
 ## Estate
 

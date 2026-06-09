@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Foundling-Bird"
+declared: "Foundling-Bird"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

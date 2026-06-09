@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "gift_of_healing"
+declared: "Die Gabe des Heilens"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: gift_of_healing
+# Plot: Die Gabe des Heilens
 
 ## Taxonomy
 

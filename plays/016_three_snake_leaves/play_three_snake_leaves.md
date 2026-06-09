@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Three Snake-Leaves"
+declared: "Die drei Schlangenblätter"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: The Three Snake-Leaves
+# Play: Die drei Schlangenblätter
 
 ## Estate
 

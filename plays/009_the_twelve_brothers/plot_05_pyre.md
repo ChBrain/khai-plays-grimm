@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "05_pyre"
+declared: "Die Rettung am Scheiterhaufen"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 05_pyre
+# Plot: Die Rettung am Scheiterhaufen
 
 ## Taxonomy
 

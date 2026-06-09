@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "spindle_prick"
+declared: "Der Spindelstich"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: spindle_prick
+# Plot: Der Spindelstich
 
 ## Taxonomy
 

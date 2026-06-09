@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Knapsack, the Hat, and the Horn"
+declared: "The Knapsack, the Hat, and the Horn"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

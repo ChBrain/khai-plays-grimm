@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Queen Bee"
+declared: "The Queen Bee"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

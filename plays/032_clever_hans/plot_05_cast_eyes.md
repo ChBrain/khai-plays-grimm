@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "cast_eyes"
+declared: "Die zugeworfenen Augen"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: cast_eyes
+# Plot: Die zugeworfenen Augen
 
 ## Taxonomy
 

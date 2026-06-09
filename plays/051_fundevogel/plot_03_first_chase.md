@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "first_chase"
+declared: "Die Rosenhecke"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: first_chase
+# Plot: Die Rosenhecke
 
 ## Taxonomy
 

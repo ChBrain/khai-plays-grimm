@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "gnomes"
+declared: "Männlein"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +10,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: gnomes
+# Persona: Männlein
 
 ## Taxonomy
 

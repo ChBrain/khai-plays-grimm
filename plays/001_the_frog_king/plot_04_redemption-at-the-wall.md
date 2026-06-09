@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "04_redemption-at-the-wall"
+declared: "Die Erlösung an der Wand"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-06"
 ---
 
-# Plot: 04_redemption-at-the-wall
+# Plot: Die Erlösung an der Wand
 
 ## Taxonomy
 

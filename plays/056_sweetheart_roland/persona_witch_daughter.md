@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "witch_daughter"
+declared: "Hexentochter"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +10,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: witch_daughter
+# Persona: Hexentochter
 
 ## Taxonomy
 

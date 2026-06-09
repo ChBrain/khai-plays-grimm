@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "05_wolf-drowns"
+declared: "Der Wolf ertrinkt"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 05_wolf-drowns
+# Plot: Der Wolf ertrinkt
 
 ## Taxonomy
 

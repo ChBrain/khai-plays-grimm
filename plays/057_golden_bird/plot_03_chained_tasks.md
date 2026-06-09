@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "chained_tasks"
+declared: "Die verketteten Aufgaben"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: chained_tasks
+# Plot: Die verketteten Aufgaben
 
 ## Taxonomy
 

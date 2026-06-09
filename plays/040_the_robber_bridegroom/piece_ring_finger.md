@@ -1,6 +1,7 @@
 ---
 khai: piece
 title: "ring_finger"
+declared: "Finger mit Ring"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Piece: ring_finger
+# Piece: Finger mit Ring
 
 ## Taxonomy
 

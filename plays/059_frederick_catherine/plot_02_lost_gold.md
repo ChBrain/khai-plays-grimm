@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "lost_gold"
+declared: "Das verlorene Gold"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: lost_gold
+# Plot: Das verlorene Gold
 
 ## Taxonomy
 

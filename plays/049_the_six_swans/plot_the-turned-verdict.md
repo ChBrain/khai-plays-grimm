@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "The Turned Verdict"
+declared: "Das gewendete Urteil"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Plot: The Turned Verdict
+# Plot: Das gewendete Urteil
 
 ## Taxonomy
 

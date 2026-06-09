@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "wise_woman"
+declared: "weise Frau"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +10,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: wise_woman
+# Persona: weise Frau
 
 ## Taxonomy
 

@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "01_loss-in-the-forest"
+declared: "Der Verlust im Wald"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-06"
 ---
 
-# Plot: 01_loss-in-the-forest
+# Plot: Der Verlust im Wald
 
 ## Taxonomy
 

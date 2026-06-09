@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "kitchen_maid"
+declared: "Die Küchenmagd"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: kitchen_maid
+# Plot: Die Küchenmagd
 
 ## Taxonomy
 

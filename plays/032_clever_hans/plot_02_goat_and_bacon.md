@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "goat_and_bacon"
+declared: "Ziege und Speck"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: goat_and_bacon
+# Plot: Ziege und Speck
 
 ## Taxonomy
 

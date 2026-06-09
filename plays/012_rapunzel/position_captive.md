@@ -1,6 +1,7 @@
 ---
 khai: position
 title: "captive"
+declared: "Gefangene"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Position: captive
+# Position: Gefangene
 
 ## Taxonomy
 

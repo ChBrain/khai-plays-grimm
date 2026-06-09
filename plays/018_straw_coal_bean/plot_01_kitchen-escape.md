@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "01_kitchen-escape"
+declared: "Das Entkommen aus der Küche"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 01_kitchen-escape
+# Plot: Das Entkommen aus der Küche
 
 ## Taxonomy
 

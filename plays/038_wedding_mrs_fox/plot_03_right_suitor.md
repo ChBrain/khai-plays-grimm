@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "right_suitor"
+declared: "Der neunschwänzige Freier"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: right_suitor
+# Plot: Der neunschwänzige Freier
 
 ## Taxonomy
 

@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "young-king"
+declared: "junger König"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +10,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: young-king
+# Persona: junger König
 
 ## Taxonomy
 

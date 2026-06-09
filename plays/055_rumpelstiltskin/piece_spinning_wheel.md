@@ -1,6 +1,7 @@
 ---
 khai: piece
 title: "spinning_wheel"
+declared: "Spinnrad"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Piece: spinning_wheel
+# Piece: Spinnrad
 
 ## Taxonomy
 

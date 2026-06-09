@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "02_the-three-christenings"
+declared: "Die drei Taufen"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-06"
 ---
 
-# Plot: 02_the-three-christenings
+# Plot: Die drei Taufen
 
 ## Taxonomy
 

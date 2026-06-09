@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "02_household_grief"
+declared: "Hausrat in Trauer"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: 02_household_grief
+# Plot: Hausrat in Trauer
 
 ## Taxonomy
 

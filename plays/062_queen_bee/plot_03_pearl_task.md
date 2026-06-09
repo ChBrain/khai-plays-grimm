@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "pearl_task"
+declared: "Die Perlensuche"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-09"
 ---
 
-# Plot: pearl_task
+# Plot: Die Perlensuche
 
 ## Taxonomy
 

@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "forest_sanctuary"
+declared: "Die Zuflucht im Wald"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: forest_sanctuary
+# Plot: Die Zuflucht im Wald
 
 ## Taxonomy
 

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Little Snow-White"
+declared: "Little Snow-White"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

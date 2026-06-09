@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "05_faithful-henry"
+declared: "Die eisernen Bande"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-06"
 ---
 
-# Plot: 05_faithful-henry
+# Plot: Die eisernen Bande
 
 ## Taxonomy
 

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Sweetheart Roland"
+declared: "Sweetheart Roland"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

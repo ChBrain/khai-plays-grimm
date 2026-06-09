@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "godson"
+declared: "Patenkind"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +10,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: godson
+# Persona: Patenkind
 
 ## Taxonomy
 
