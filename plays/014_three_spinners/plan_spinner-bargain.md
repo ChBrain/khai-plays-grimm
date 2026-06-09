@@ -28,8 +28,8 @@ Das [Mädchen](persona_girl.md) ist faul und kann kein [Garn](piece_yarn.md) erz
 
 1. Das [Mädchen](persona_girl.md), als [Fleißgezwungene](position_captive.md) vor den [Flachs](piece_flax.md) gestellt, wirbt die drei verwachsenen [Spinnerinnen](persona_spinners.md) als heimliche [Gehilfinnen](position_helpers.md) an.
 2. Es schließt den Pakt: die [Spinnerinnen](persona_spinners.md) vollbringen die [Spinnarbeit](process_spinning.md) im Verborgenen, das [Mädchen](persona_girl.md) verspricht ihnen dafür einen Platz an der Hochzeit als seine Tanten.
-3. Der gesponnene Flachs wird der [Königin](persona_queen.md) als eigenes Werk vorgewiesen, sodass das [Mädchen](persona_girl.md) den [Prinzen](persona_prince.md) heiraten darf.
-4. Bei der Hochzeit treten die drei ungestalten Tanten an den Festtisch; der [Prinz](persona_prince.md) erfährt, daß das Spinnen sie so entstellt hat, und verbietet seiner Braut für immer, das [Spinnrad](piece_spinning-wheel.md) anzurühren: die [Befreiung](process_liberation.md) ist vollkommen.
+3. Es weist der [Königin](persona_queen.md) den gesponnenen Flachs als eigenes Werk vor, um die Hand des [Prinzen](persona_prince.md) zu erlangen.
+4. Es lädt die drei ungestalten Tanten an den Festtisch der Hochzeit, damit ihr Anblick den [Prinzen](persona_prince.md) zum ewigen Verbot des [Spinnrads](piece_spinning-wheel.md) und so zur [Befreiung](process_liberation.md) bewege.
 
 ## Implementation
 

@@ -27,8 +27,8 @@ Die [Stiefmutter](persona_stepmother.md) erträgt die Schönheit der [Stieftocht
 ## Orders
 
 1. Die [Stiefmutter](persona_stepmother.md) schickt die [Stieftochter](persona_stepdaughter.md) im dünnen [Papierkleid](piece_paper-dress.md) mitten im Winter in den [Wald](place_forest.md), um [Erdbeeren](piece_strawberries.md) unter dem Schnee zu suchen, ein [Mordversuch](process_murder.md) durch Frost.
-2. Als die Gesegnete heil zurückkehrt, schickt sie die eigene [Stiefschwester](persona_stepsister.md) dem Glück nach, die sich den [Männlein](persona_gnomes.md) gegenüber hochmütig zeigt und die [Verfluchung](process_curse.md) erntet.
-3. Als die [Stieftochter](persona_stepdaughter.md) den [König](persona_king.md) heiratet und ein Kind gebiert, stürzt die Stiefmutter die junge Königin aus dem Fenster in den [Fluß](place_river.md).
+2. Sie schickt die eigene [Stiefschwester](persona_stepsister.md) dem Glück nach, damit auch ihr die Gunst der [Männlein](persona_gnomes.md) zufalle.
+3. Sie stürzt die junge Königin aus dem Fenster in den [Fluß](place_river.md), um die [Stieftochter](persona_stepdaughter.md) zu beseitigen.
 4. Sie legt die häßliche [Stiefschwester](persona_stepsister.md) ins königliche Bett, damit der [König](persona_king.md) die Ertränkte für die Lebende halte.
 
 ## Implementation

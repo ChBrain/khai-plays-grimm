@@ -27,9 +27,9 @@ Die Prinzessin hat geschworen, nur den zu nehmen, der ihr ein unlösbares Rätse
 ## Orders
 
 1. Die [Rätselprinzessin](persona_princess.md) lässt den [Königssohn](persona_prince.md) nach dem [Rätselkampf](process_contest.md) im [Königspalast](place_palace.md) beherbergen und schickt in der ersten Nacht eine Magd, ihn im Schlaf zu beschwatzen.
-2. Sie sendet in der zweiten Nacht eine weitere Magd zur [Aushorchung](process_espionage.md), doch der wachende [Diener](persona_servant.md) treibt sie wie die erste fort.
+2. Sie sendet in der zweiten Nacht eine weitere Magd zur [Aushorchung](process_espionage.md), das [Rätselwort](piece_riddle-text.md) zu erlauschen.
 3. In der dritten Nacht kommt sie selbst verhüllt im [Mantel](piece_cloak.md), um das [Rätselwort](piece_riddle-text.md) aus dem schlafenden Munde zu greifen.
-4. Der [Diener](persona_servant.md) als [Wächter](position_guardian.md) packt sie bei der Tat und reißt ihr den [Mantel](piece_cloak.md) ab, sodass am Morgen ihr Betrug bewiesen ist und sie selbst dem [Rätselsteller](position_riddler.md) zur Braut fällt.
+4. Sie bringt das erhorchte [Rätselwort](piece_riddle-text.md) am Morgen vor dem Hofe als ihre eigene Lösung vor, um Stolz und Kopf zu bewahren.
 
 ## Implementation
 

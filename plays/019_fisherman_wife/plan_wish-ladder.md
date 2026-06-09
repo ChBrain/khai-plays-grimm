@@ -28,8 +28,8 @@ Ein Gierplan ohne Maß: das Vorhaben [Ilsebills](persona_wife.md), den zauberkr�
 
 1. [Ilsebill](persona_wife.md) drängt den [Fischer](persona_fisherman.md) als [Zögerlichen Boten](position_messenger.md) zum [Butt](persona_flounder.md) und verlangt statt des [Pisspott](place_piss_pot.md) zuerst ein sauberes Häuschen.
 2. Sie steigert die Bitte durch die [Giersteigerung](process_escalation.md) zu Schloss, König und Kaiser und nimmt im [Herrschaftssitz](place_residence.md) die [Herrschersymbole](piece_crown.md) und den [Prunkthron](piece_throne.md) an sich.
-3. Sie erzwingt als [Herrscherin](position_ruler.md) die Würde der Päpstin und setzt die [Papstkrone](piece_tiara.md) auf, während das [Meer](persona_sea.md) sich schwarz und drohend hebt.
-4. Sie verlangt zuletzt, wie Gott zu sein und Sonne und Mond aufgehen zu heißen, und treibt den [Fischer](persona_fisherman.md) an das im Orkan tobende [Meer](persona_sea.md).
+3. Sie erzwingt als [Herrscherin](position_ruler.md) die Würde der Päpstin und setzt die [Papstkrone](piece_tiara.md) auf.
+4. Sie verlangt zuletzt, wie Gott zu sein und Sonne und Mond aufgehen zu heißen, und treibt den [Fischer](persona_fisherman.md) an das [Meer](persona_sea.md), den Wunsch dem [Butt](persona_flounder.md) vorzutragen.
 
 ## Implementation
 

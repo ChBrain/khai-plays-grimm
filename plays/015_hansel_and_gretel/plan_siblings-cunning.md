@@ -27,7 +27,7 @@ Die Kinder haben weder Brot noch Macht, nur Ohren an der Tür und Witz in der No
 ## Orders
 
 1. [Hänsel](persona_hansel.md) streut bei der ersten [Aussetzung](process_abandonment.md) die weißen [Kieselsteine](piece_pebbles.md), an denen die Kinder im Mondschein heimfinden.
-2. Beim zweiten Mal streut er die [Brotkrümel](piece_breadcrumbs.md), da ihm das Haus verschlossen blieb, doch die Waldvögel fressen die Spur.
+2. Beim zweiten Mal streut er die [Brotkrümel](piece_breadcrumbs.md), die den Heimweg aus dem [Wald](place_forest.md) zeichnen sollen.
 3. Im Stall reicht [Hänsel](persona_hansel.md) der blinden Hexe das dürre [Knöchelchen](piece_bone.md) statt des Fingers, um seine Magerkeit vorzutäuschen und die [Mastung](process_imprisonment.md) hinzuhalten.
 4. [Gretel](persona_gretel.md) stellt sich am [Backofen](piece_oven.md) ungeschickt, lockt die Hexe vor die Glut, stößt sie hinein und vollzieht den [Hexentod](process_destruction.md); dann befreit sie [Hänsel](persona_hansel.md) und nimmt den [Schatz](piece_treasure.md).
 
