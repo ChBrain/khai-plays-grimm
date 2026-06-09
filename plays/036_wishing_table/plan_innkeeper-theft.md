@@ -29,12 +29,12 @@ Der [Wirt](persona_innkeeper.md) sieht im [Wirtshaus](place_inn.md), was die Sö
 1. Der älteste der [Söhne](persona_sons.md) kehrt mit dem [Tischchen](piece_table.md) im [Wirtshaus](place_inn.md) ein und prahlt mit seiner Gabe vor der Heimkehr.
 2. Der [Wirt](persona_innkeeper.md) vertauscht es im Schlaf gegen ein gleiches, gewöhnliches Tischchen und vollzieht so den ersten [Diebstahl](process_theft.md) als [Dieb](position_thief.md).
 3. Der zweite der [Söhne](persona_sons.md) kehrt mit dem [Goldesel](piece_donkey.md) ein, und der [Wirt](persona_innkeeper.md) tauscht auch ihn nachts gegen einen gemeinen Esel.
-4. Als der jüngste [Sohn](persona_sons.md) mit einem Sack einkehrt, will der [Wirt](persona_innkeeper.md) nach dem [Knüppel](piece_cudgel.md) greifen, doch dieser Tausch schlägt ihm fehl.
+4. Als der jüngste [Sohn](persona_sons.md) mit einem Sack einkehrt, greift der [Wirt](persona_innkeeper.md) im Schlaf nach dem [Knüppel](piece_cudgel.md), um auch ihm die Gabe zu vertauschen.
 
 ## Implementation
 
 - Der Plan rechnet mit der Prahlerei der Brüder, die ihre Gaben im [Wirtshaus](place_inn.md) vorführen, sodass der Wirt weiß, was er stehlen und wie er es ersetzen muss.
-- Er rechnet mit dem festen Schlaf der müden Wanderer und damit, dass ein Abbild den Tausch verbirgt, bis der Bruder daheim das tote Stück vor dem [Vater](persona_father.md) blamiert.
+- Er rechnet mit dem festen Schlaf der müden Wanderer und damit, dass ein gleich aussehendes Abbild den Tausch verbirgt, sodass der Bruder ahnungslos mit dem toten Stück weiterzieht.
 - Er rechnet darauf, auch dem jüngsten [Sohn](persona_sons.md) die Gabe im Sack durch ein wertloses Abbild zu vertauschen, wie schon den beiden Brüdern.
 
 ## Targets

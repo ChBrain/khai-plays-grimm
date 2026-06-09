@@ -22,13 +22,13 @@ Ein Fangplan der Bosheit: das Vorhaben des [Teufels](persona_devil.md), die from
 
 ## Direction
 
-Der [Teufel](persona_devil.md) handelt als [Versucher](position_tempter.md): er kauft sich durch den [Teufelspakt](process_bargain.md) den Anspruch auf das [Mädchen](persona_girl.md), das ihm in der [Mühle](place_mill.md) als Lohn verschrieben wird. Doch ihre Frömmigkeit ist ein Wall, den er nicht übersteigt, und so weicht er von der nackten Gewalt auf die List aus: lässt ihr die Hände abhacken, und als der [König](persona_king.md) sie dennoch nimmt, fängt er die Boten ab. Mit gefälschten [Briefen](piece_letters.md) hin und her dichtet er Lügen, bis der Befehl ergeht, das [Opfer](position_victim.md) samt [Kind](piece_child.md) aus dem Schloss zu treiben.
+Der [Teufel](persona_devil.md) handelt als [Versucher](position_tempter.md): er kauft sich durch den [Teufelspakt](process_bargain.md) den Anspruch auf das [Mädchen](persona_girl.md), das ihm in der [Mühle](place_mill.md) als Lohn verschrieben wird. Gegen ihre Frömmigkeit setzt er nicht auf nackte Gewalt, sondern auf die List: er will ihr die Hände abhacken lassen und die Boten des [Königs](persona_king.md) abfangen. Mit gefälschten [Briefen](piece_letters.md) hin und her gedenkt er Lügen zu dichten, bis der Befehl ergeht, das [Opfer](position_victim.md) samt [Kind](piece_child.md) aus dem Schloss zu treiben.
 
 ## Orders
 
 1. Der [Teufel](persona_devil.md) schließt mit dem [Müller](persona_miller.md) den [Teufelspakt](process_bargain.md) und erkauft sich den Anspruch auf das fromme [Mädchen](persona_girl.md).
-2. Als ihre Reinheit ihn abhält, erzwingt er, dass ihr die Hände abgehackt werden, und treibt sie als verstümmeltes [Opfer](position_victim.md) aus der [Mühle](place_mill.md).
-3. Da der [König](persona_king.md) sie dennoch zur Frau nimmt und ihr silberne Hände schenkt, fängt er die Boten ab und ersetzt sie durch verfälschte [Briefe](piece_letters.md).
+2. Er erzwingt, dass ihr die Hände abgehackt werden, und treibt sie als verstümmeltes [Opfer](position_victim.md) aus der [Mühle](place_mill.md), um ihre Frömmigkeit zu brechen.
+3. Er fängt die Boten des [Königs](persona_king.md) ab und ersetzt sie durch verfälschte [Briefe](piece_letters.md), um den Hof gegen sie zu wenden.
 4. Durch die gefälschte Lüge erwirkt er den Befehl, das [Mädchen](persona_girl.md) samt [Kind](piece_child.md) in die [Vertreibung](process_exile.md) zu schicken, fort aus dem Schloss in den Wald.
 
 ## Implementation

@@ -29,7 +29,7 @@ Der ältere Bruder hat den [Spieß](piece_spear.md) nicht vom [Zwerg](persona_dw
 1. Der [Ältere Bruder](persona_older_brother.md) folgt dem [Jüngeren Bruder](persona_younger_brother.md), der mit dem [Spieß](piece_spear.md) des [Zwergs](persona_dwarf.md) das [Wildschwein](piece_boar.md) erlegt hat, auf den Heimweg.
 2. Er macht den Sieger trunken und froh, erschlägt ihn am Fuß der [Brücke](place_bridge.md) durch den [Brudermord](process_murder.md) und verscharrt die Leiche im Sand darunter.
 3. Er reißt den Kadaver des [Wildschweins](piece_boar.md) an sich und trägt ihn allein vor den [König](persona_king.md) ins [Schloss](place_palace.md).
-4. Er erlangt auf dem gestohlenen Ruhm die Königstochter zur Frau und lebt Jahre als gefeierter Held.
+4. Er nimmt auf dem gestohlenen Ruhm die Königstochter zur Frau, um als gefeierter Held zu leben.
 
 ## Implementation
 

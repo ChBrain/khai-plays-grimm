@@ -29,7 +29,7 @@ Der Wolf trifft die kleine [Botin](persona_red_cap.md) im [Wald](place_forest.md
 1. Der [Wolf](persona_wolf.md) trifft [Rotkäppchen](persona_red_cap.md) im [Wald](place_forest.md) und hält sie durch die [Verführung](process_temptation.md) zum Blumenpflücken auf, während er den kürzeren Weg nimmt.
 2. Er eilt voraus zum [Großmutterhaus](place_cottage.md), gibt sich für das Kind aus und verschlingt die [Großmutter](persona_grandmother.md).
 3. Er zieht ihre [Kappe](piece_cap.md) und ihr Gewand an, legt sich in das [Bett](piece_bed.md) und erwartet die ahnungslose [Botin](position_messenger.md).
-4. Als [Rotkäppchen](persona_red_cap.md) eintritt und sich über die fremde Gestalt wundert, fährt er als [Verführer](position_predator.md) auf und vollzieht an ihr die [Verschlingung](process_consumption.md).
+4. Sobald [Rotkäppchen](persona_red_cap.md) ans Lager tritt, fährt er als [Verführer](position_predator.md) auf, um an ihr die [Verschlingung](process_consumption.md) zu vollziehen.
 
 ## Implementation
 

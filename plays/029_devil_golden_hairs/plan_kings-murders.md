@@ -26,15 +26,15 @@ Der König hört die [Weissagung](process_prophecy.md), dass das in der Glücksh
 
 ## Orders
 
-1. Der [König](persona_king.md) kauft das in der Glückshaut geborene Kind und wirft es in der [Kiste](piece_box.md) in den Fluss, doch es treibt heil zur [Mühle](place_mill.md) und wird aufgezogen.
-2. Er entdeckt das gerettete [Glückskind](persona_luck_child.md) wieder und schickt es mit einem [Brief](piece_letter.md) zur Königin, der dessen Tod befiehlt, doch Räuber schreiben ihn in einen Hochzeitsbefehl um.
-3. Er fordert, um die Heirat noch zu hindern, vom Schwiegersohn die drei [Haare](piece_hairs.md) des Teufels aus der [Hölle](place_underworld.md) als unmögliche Aufgabe.
-4. Er erhält die [Haare](piece_hairs.md) und die [Antworten](piece_key.md) dazu, eilt der Goldverheißung am Fluss nach und bleibt nach dem [Schicksalsweg](process_prophecy.md) selbst als ewiger [Fährmann](persona_ferryman.md) gefangen.
+1. Der [König](persona_king.md) kauft das in der Glückshaut geborene Kind und wirft es in der [Kiste](piece_box.md) in den Fluss, um es zu ertränken, ehe die [Weissagung](process_prophecy.md) sich erfülle.
+2. Er schickt das wiedergefundene [Glückskind](persona_luck_child.md) mit einem [Brief](piece_letter.md) zur Königin, der dessen Tod befiehlt, um es im Verborgenen beseitigen zu lassen.
+3. Er fordert, um die Heirat noch zu hindern, vom Schwiegersohn die drei [Haare](piece_hairs.md) des Teufels aus der [Hölle](place_underworld.md) als unmögliche Aufgabe, an der er umkomme.
+4. Er folgt der Goldverheißung am Fluss zum [Fährmann](persona_ferryman.md), um auf dem [Schicksalsweg](process_prophecy.md) selbst nach dem versprochenen Reichtum zu greifen.
 
 ## Implementation
 
 - Der Plan rechnet damit, dass Wasser, Brief oder Hölle das wehrlose Kind verschlingen, ehe es zum Mann und zum Eidam wird.
-- Er setzt darauf, dass die [Kiste](piece_box.md) im Fluss das Kind ertränkt und der [Brief](piece_letter.md) an die Königin dessen Tod befiehlt, ehe es zur [Mühle](place_mill.md) entkommt.
+- Er setzt darauf, dass die [Kiste](piece_box.md) im Fluss das Kind ertränkt und der [Brief](piece_letter.md) an die Königin dessen Tod befiehlt.
 - Er setzt darauf, dass die [Hölle](place_underworld.md) den Schwiegersohn verschlingt, wenn er die drei [Haare](piece_hairs.md) des Teufels holen soll, eine Aufgabe, die kein Sterblicher überlebt.
 
 ## Targets
