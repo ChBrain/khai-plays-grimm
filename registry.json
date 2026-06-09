@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.66.0",
+  "version": "0.67.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -327,6 +327,11 @@
       "id": "065_allerleirauh",
       "title": "Allerleirauh",
       "description": "Eine Königstochter flieht verkleidet in einem Pelzmantel und wird durch drei goldene Kleinode vom König erkannt."
+    },
+    {
+      "id": "066_hares_bride",
+      "title": "The Hare's Bride",
+      "description": "Ein Mädchen folgt einem Hasen in seine Hütte und entflieht der erzwungenen Hochzeit durch den Trug einer Strohpuppe."
     },
     {
       "id": "130_one_eye_two_eyes_three_eyes",
