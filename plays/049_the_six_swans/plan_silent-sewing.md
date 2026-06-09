@@ -28,8 +28,8 @@ Das Schwesterchen hat keine Macht und keine Stimme, die sie erheben dürfte, nur
 
 1. Das [Schwesterchen](persona_sister.md) gelobt in der [Räuberhütte](place_robbers-hut.md) das [Schweigen](process_silence.md), steigt auf den [Baum](place_tree.md) und beginnt das [Nessel-Nähen](process_nettle-sewing.md) der Hemden aus Sternblumen.
 2. Sie hält ihr Schweigen, als des zweiten Königs Jäger sie als [Stumme](position_mute.md) zum [Königshof](place_court.md) bringen und sie zur Königin machen, und näht unbeirrt weiter.
-3. Sie schweigt durch jede [Verleumdung](process_slander.md) und durch das [Gericht](process_judging.md), das sie zum [Scheiterhaufen](place_pyre.md) verurteilt, und vollendet fünf Hemden und fast das sechste.
-4. Am Tag des Feuers wirft sie die [verzauberten Hemden](piece_enchanted-shirts.md) über die niedersinkenden Schwäne und vollzieht die [Flucherlösung](process_curse-breaking.md), doch am jüngsten fehlt der linke Ärmel.
+3. Sie schweigt durch jede [Verleumdung](process_slander.md) und durch das [Gericht](process_judging.md), das sie zum [Scheiterhaufen](place_pyre.md) verurteilt, und näht die sechs Hemden weiter zu Ende.
+4. Am Tag des Feuers wirft sie die [verzauberten Hemden](piece_enchanted-shirts.md) über die niedersinkenden Schwäne, um die [Flucherlösung](process_curse-breaking.md) zu vollziehen.
 
 ## Implementation
 

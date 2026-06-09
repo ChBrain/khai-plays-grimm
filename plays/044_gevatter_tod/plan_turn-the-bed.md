@@ -29,7 +29,6 @@ Der Pate [Gevatter Tod](persona_death.md) hat seinem Patensohn das [Zauberkraut]
 1. Das [Patenkind](persona_godson.md) nimmt das [Zauberkraut](piece_magical_herb.md) und die Regel des [Gevatter Tod](persona_death.md) an und wird im Land als [Heiler](position_physician.md) berühmt.
 2. Beim sterbenden König sieht es den [Tod](persona_death.md) am Kopfende stehen und dreht im [Krankenzimmer](place_sickroom.md) das Bett, sodass der [Schicksalsrichter](position_arbiter.md) ans Fußende kommt und das Kraut den König rettet.
 3. Bei der todgeweihten Königstochter wiederholt es aus Liebe denselben Betrug, dreht das Bett abermals und heilt auch sie.
-4. Der erzürnte Pate stellt den [Sterblichen](position_mortal.md) zur Rede, führt ihn in die [Lebenslicht-Höhle](place_cave.md) und löscht zur Strafe das [Lebenslicht](piece_life_candle.md) seines Patensohns: die [Überlistung](process_trickery.md) endet im [Erlöschen](process_extinction.md).
 
 ## Implementation
 

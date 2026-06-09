@@ -28,8 +28,8 @@ Sultan ist alt und zahnlos geworden, und die [Dienstherren](persona_mastery.md) 
 
 1. Der [Sultan](persona_sultan.md) verabredet mit dem [Wolf](persona_wolf.md) im [Pakt](process_alliance.md), dass dieser das [Kind](piece_child.md) der [Dienstherren](persona_mastery.md) auf dem [Feld](place_field.md) wegtrage.
 2. Der [Wolf](persona_wolf.md) raubt als [Verschwörer](position_conspirator.md) das Kind, indes die Eltern bei der Arbeit nicht achthaben.
-3. Der [Sultan](persona_sultan.md) setzt dem Wolf nach, entreißt ihm das Kind und trägt es als rettender [Wächter](position_guardian.md) heim zum [Bauernhof](place_farm.md).
-4. Die [Dienstherren](persona_mastery.md) glauben die Rettung, widerrufen das Todesurteil und gewähren ihm fortan Lager und [Specksuppe](piece_bacon.md), solange er lebt.
+3. Der [Sultan](persona_sultan.md) setzt dem Wolf nach, entreißt ihm das Kind und trägt es als rettender [Wächter](position_guardian.md) heim zum [Bauernhof](place_farm.md), um vor den [Dienstherren](persona_mastery.md) die Heldentat zu stellen.
+4. Mit der gestellten Rettung will er die [Dienstherren](persona_mastery.md) das Todesurteil widerrufen lassen und sich Lager und [Specksuppe](piece_bacon.md) auf Lebenszeit zurückgewinnen.
 
 ## Implementation
 

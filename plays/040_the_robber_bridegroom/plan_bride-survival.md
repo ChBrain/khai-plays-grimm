@@ -22,14 +22,14 @@ Ein Überlebensplan im Mörderhaus: das Vorhaben der [Müllertochter](persona_da
 
 ## Direction
 
-Das Mädchen traut dem reichen Fremden nicht, dem der [Müller](persona_miller.md) sie versprochen hat: ein heimliches Grauen warnt sie, ehe ein Wort gefallen ist. Sie weigert sich nicht offen, denn das wäre der Tod, sondern wappnet sich mit Vorsicht. Den Weg zum [Mörderhaus](place_robber_house.md) merkt sie sich doppelt, durch die ausgestreute [Asche](piece_ashes.md) und durch die heimlich verstreuten [Erbsen und Linsen](piece_peas_lentils.md), die als grüne Spur aufgehen. Im Haus selbst macht sie sich klein: sie hört auf die Warnung des Vogels und der [Alte Frau](persona_old_woman.md), verbirgt sich hinter dem [Fass](piece_cask.md) und sieht zu, statt zu schreien. Was sie als Zeuge erbeutet, der [Finger mit Ring](piece_ring_finger.md), wird ihr am Ende zur Waffe: nicht Gewalt, sondern Beweis stürzt den Bräutigam.
+Das Mädchen traut dem reichen Fremden nicht, dem der [Müller](persona_miller.md) sie versprochen hat: ein heimliches Grauen warnt sie, ehe ein Wort gefallen ist. Sie weigert sich nicht offen, denn das wäre der Tod, sondern wappnet sich mit Vorsicht. Den Weg zum [Mörderhaus](place_robber_house.md) merkt sie sich doppelt, durch die ausgestreute [Asche](piece_ashes.md) und durch die heimlich verstreuten [Erbsen und Linsen](piece_peas_lentils.md) als zweite, lebende Spur. Im Haus selbst macht sie sich klein: sie hört auf die Warnung des Vogels und der [Alte Frau](persona_old_woman.md), verbirgt sich hinter dem [Fass](piece_cask.md) und sieht zu, statt zu schreien. Was sie als Zeuge erbeutet, der [Finger mit Ring](piece_ring_finger.md), wird ihr am Ende zur Waffe: nicht Gewalt, sondern Beweis stürzt den Bräutigam.
 
 ## Orders
 
 1. Die [Müllertochter](persona_daughter.md) folgt der [Asche](piece_ashes.md) ins [Mörderhaus](place_robber_house.md) und streut heimlich [Erbsen und Linsen](piece_peas_lentils.md) als zweite, lebende Spur für die [Nächtliche Flucht](process_rescue.md).
 2. Sie achtet auf das warnende Vöglein und auf die [Alte Frau](persona_old_woman.md), die [Retterin](position_helper.md), und lässt sich von ihr hinter dem [Fass](piece_cask.md) im [Keller](place_cellar.md) verbergen.
-3. Aus dem Versteck sieht sie die Greueltat der Räuberbande mit an und sichert den abgehackten [Finger mit Ring](piece_ring_finger.md), der ihr in den Schoß fällt, als Beweis.
-4. Mit der schlafenden Bande entflieht sie der [Aschespur](piece_ashes.md) folgend und entlarvt den [Räuberbräutigam](persona_bridegroom.md) beim Hochzeitsmahl: sie erzählt alles als „Traum" und zieht zuletzt den [Finger mit Ring](piece_ring_finger.md) hervor, sodass die [Enthüllung](process_exposure.md) vollzogen ist.
+3. Aus dem Versteck sieht sie die Greueltat der Räuberbande mit an und sichert den abgehackten [Finger mit Ring](piece_ring_finger.md) als Beweis.
+4. Mit der schlafenden Bande entflieht sie der [Aschespur](piece_ashes.md) folgend, um beim Hochzeitsmahl den [Räuberbräutigam](persona_bridegroom.md) zu entlarven: sie erzählt alles als „Traum" und zieht zuletzt den [Finger mit Ring](piece_ring_finger.md) hervor, um die [Enthüllung](process_exposure.md) zu vollziehen.
 
 ## Implementation
 

@@ -29,7 +29,7 @@ Das [Hähnchen und Hühnchen](persona_birds.md) baut sich eine [Rote Kutsche](pi
 1. [Hähnchen und Hühnchen](persona_birds.md) bauen die [Rote Kutsche](piece_carriage.md), spannen die [Mäuse](persona_mice.md) ein und treten als [Reisende](position_traveler.md) die [Reise](process_travel.md) zum [Korbes-Haus](place_korbes_house.md) an.
 2. Auf der [Landstraße](place_road.md) sammeln sie die Truppe ein: [Katze und Ente](persona_animals.md), das [Ei](piece_egg.md), die [Nadeln](piece_needles.md) und den [Mühlstein](piece_millstone.md).
 3. Sie dringen ins leere Haus ein und stellen jeden auf seinen Posten als [Vollstrecker](position_executor.md): die Katze in den [Herd](place_fireplace.md), die Ente an den Wassereimer-Brunnen, das Ei ins Handtuch, die Nadeln ins Bett und auf den Stuhl, der Mühlstein über die Tür.
-4. Als [Herr Korbes](persona_korbes.md) heimkehrt, schnappt der [Hinterhalt](process_ambush.md) zu: Schlag um Schlag treibt ihn aus dem Haus, bis der herabstürzende [Mühlstein](piece_millstone.md) ihn vor der Tür erschlägt und die [Heimsuchung](process_retribution.md) vollendet ist.
+4. Bei der Heimkehr des [Herr Korbes](persona_korbes.md) lassen sie den [Hinterhalt](process_ambush.md) zuschnappen, um ihn Schlag um Schlag aus dem Haus zu treiben und unter dem herabstürzenden [Mühlstein](piece_millstone.md) vor der Tür die [Heimsuchung](process_retribution.md) zu vollstrecken.
 
 ## Implementation
 

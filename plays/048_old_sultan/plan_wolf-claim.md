@@ -27,9 +27,8 @@ Der Wolf hat im [Pakt](process_alliance.md) den Schurken gespielt, damit der alt
 ## Orders
 
 1. Der [Wolf](persona_wolf.md) kommt aus dem [Wald](place_forest.md) und fordert vom [Sultan](persona_sultan.md) ein Schaf der [Dienstherren](persona_mastery.md) als Lohn für den geleisteten Dienst.
-2. Als der [Sultan](persona_sultan.md) in [Pflichttreue](process_defense.md) sich weigert und Alarm schlägt, wird der Raub vereitelt und der Wolf vertrieben.
-3. Erzürnt fordert der [Wolf](persona_wolf.md) als [Herausforderer](position_challenger.md) den Hund zum Zweikampf im [Feld](place_field.md) und bringt das Wildschwein als Beistand mit.
-4. Durch das Hinken der [Beistände](persona_seconds.md) und die hochgereckte Katze missdeuten Wolf und Eber die Lage, fürchten sich und schließen die [Versöhnung](process_reconciliation.md).
+2. Weicht der [Sultan](persona_sultan.md) in [Pflichttreue](process_defense.md) aus, so will er sich das Schaf mit Gewalt nehmen und den treulosen Hund zur Schuld zwingen.
+3. Erzürnt fordert der [Wolf](persona_wolf.md) als [Herausforderer](position_challenger.md) den Hund zum Zweikampf im [Feld](place_field.md) und bringt das Wildschwein als Beistand mit, um ihn niederzuringen.
 
 ## Implementation
 
