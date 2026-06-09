@@ -1,6 +1,7 @@
 ---
 khai: place
 title: "kitchen"
+declared: "Küche"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Place: kitchen
+# Place: Küche
 
 ## Taxonomy
 

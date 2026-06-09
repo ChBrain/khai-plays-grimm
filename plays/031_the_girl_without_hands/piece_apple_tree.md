@@ -1,6 +1,7 @@
 ---
 khai: piece
 title: "apple_tree"
+declared: "Apfelbaum"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Piece: apple_tree
+# Piece: Apfelbaum
 
 ## Taxonomy
 

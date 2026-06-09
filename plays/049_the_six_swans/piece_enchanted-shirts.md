@@ -1,6 +1,7 @@
 ---
 khai: piece
 title: "enchanted-shirts"
+declared: "verzauberte Hemden"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Piece: enchanted-shirts
+# Piece: verzauberte Hemden
 
 ## Taxonomy
 

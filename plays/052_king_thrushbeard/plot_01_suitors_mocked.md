@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "suitors_mocked"
+declared: "Die Spottrede"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: suitors_mocked
+# Plot: Die Spottrede
 
 ## Taxonomy
 

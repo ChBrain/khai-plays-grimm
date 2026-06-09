@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "01_witch-warning"
+declared: "Die Warnung im Wald"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 01_witch-warning
+# Plot: Die Warnung im Wald
 
 ## Taxonomy
 

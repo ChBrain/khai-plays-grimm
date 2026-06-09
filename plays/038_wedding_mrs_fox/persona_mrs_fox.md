@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "mrs_fox"
+declared: "Frau Füchsin"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +10,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: mrs_fox
+# Persona: Frau Füchsin
 
 ## Taxonomy
 

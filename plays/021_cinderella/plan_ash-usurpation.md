@@ -1,6 +1,7 @@
 ---
 khai: plan
 title: "ash-usurpation"
+declared: "der Aschen-Zwang"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +10,7 @@ stamp:
 status: closed
 ---
 
-# Plan: ash-usurpation
+# Plan: der Aschen-Zwang
 
 ## Taxonomy
 
@@ -42,4 +43,4 @@ Der einzige Preis des Reiches ist der [Königssohn](persona_prince.md), und der 
 - [x] Die unlösbaren Linsenprüfungen sind der Magd auferlegt
 - [x] Die Töchter sind zur Verstümmelung getrieben, Zeh und Ferse fallen
 - [x] Die verstümmelte Tochter ist dem Königssohn als Braut vorgeführt
-- [-] Die Königswürde dem eigenen Blut gesichert (im Hochzeitsgericht durch die Tauben gestürzt)
+- [F] Die Königswürde dem eigenen Blut gesichert (im Hochzeitsgericht durch die Tauben gestürzt)

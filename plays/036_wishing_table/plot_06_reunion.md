@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "reunion"
+declared: "Die Heimkehr und Feier"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: reunion
+# Plot: Die Heimkehr und Feier
 
 ## Taxonomy
 

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Frog King"
+declared: "Der Froschkönig oder der eiserne Heinrich"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-06"
 ---
 
-# Play: The Frog King
+# Play: Der Froschkönig oder der eiserne Heinrich
 
 ## Estate
 

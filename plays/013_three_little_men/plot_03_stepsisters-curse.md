@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "03_stepsisters-curse"
+declared: "Der Fluch der Stiefschwester"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 03_stepsisters-curse
+# Plot: Der Fluch der Stiefschwester
 
 ## Taxonomy
 

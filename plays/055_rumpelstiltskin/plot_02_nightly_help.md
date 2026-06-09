@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "nightly_help"
+declared: "Die nächtliche Hilfe"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: nightly_help
+# Plot: Die nächtliche Hilfe
 
 ## Taxonomy
 

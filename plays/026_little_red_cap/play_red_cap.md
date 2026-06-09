@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Little Red Cap"
+declared: "Rotkäppchen"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Little Red Cap
+# Play: Rotkäppchen
 
 ## Estate
 

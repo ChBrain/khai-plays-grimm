@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "04_brook_overflow"
+declared: "Das Brünnchen"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: 04_brook_overflow
+# Plot: Das Brünnchen
 
 ## Taxonomy
 

@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "first_trick"
+declared: "Die erste List"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: first_trick
+# Plot: Die erste List
 
 ## Taxonomy
 

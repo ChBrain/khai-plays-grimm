@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Devil with the Three Golden Hairs"
+declared: "Der Teufel mit den drei goldenen Haaren"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: The Devil with the Three Golden Hairs
+# Play: Der Teufel mit den drei goldenen Haaren
 
 ## Estate
 

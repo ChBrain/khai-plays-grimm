@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Jacob Grimm"
+declared: "Jacob Grimm"
 license: CC-BY-NC-SA-4.0
 voice: "academic, linguistic, focused on law, grammar, and philological preservation; dry and rigorous"
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "three_eyes"
+declared: "Dreiäuglein"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +10,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: three_eyes
+# Persona: Dreiäuglein
 
 ## Taxonomy
 

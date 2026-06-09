@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "journey_to_rome"
+declared: "Die Reise nach Rom"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: journey_to_rome
+# Plot: Die Reise nach Rom
 
 ## Taxonomy
 

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Robber Bridegroom"
+declared: "Der Räuberbräutigam"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Play: The Robber Bridegroom
+# Play: Der Räuberbräutigam
 
 ## Estate
 

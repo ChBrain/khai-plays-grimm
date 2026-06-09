@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "01_brewing_accident"
+declared: "Der Unfall"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: 01_brewing_accident
+# Plot: Der Unfall
 
 ## Taxonomy
 

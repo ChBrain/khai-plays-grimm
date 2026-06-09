@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "04_witch-fattening"
+declared: "Käfig und Knöchelchen"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 04_witch-fattening
+# Plot: Käfig und Knöchelchen
 
 ## Taxonomy
 

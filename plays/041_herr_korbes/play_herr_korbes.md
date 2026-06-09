@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Herr Korbes"
+declared: "Herr Korbes"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

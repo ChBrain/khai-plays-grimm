@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "juniper_wish"
+declared: "Wunsch unter dem Baum"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: juniper_wish
+# Plot: Wunsch unter dem Baum
 
 ## Taxonomy
 

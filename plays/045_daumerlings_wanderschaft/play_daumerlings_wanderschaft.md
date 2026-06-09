@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Thumbling's Travels"
+declared: "Thumbling's Travels"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

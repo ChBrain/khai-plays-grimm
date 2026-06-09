@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "02_reunion"
+declared: "Die Suche und das Waldhaus"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 02_reunion
+# Plot: Die Suche und das Waldhaus
 
 ## Taxonomy
 

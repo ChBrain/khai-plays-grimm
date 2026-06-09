@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "trap_triggered"
+declared: "Die Falle schnappt zu"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: trap_triggered
+# Plot: Die Falle schnappt zu
 
 ## Taxonomy
 

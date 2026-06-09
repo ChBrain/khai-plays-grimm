@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "04_mouse-tragedy"
+declared: "Der Tod der Maus"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 04_mouse-tragedy
+# Plot: Der Tod der Maus
 
 ## Taxonomy
 

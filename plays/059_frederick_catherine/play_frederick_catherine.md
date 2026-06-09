@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Frederick and Catherine"
+declared: "Frederick and Catherine"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "05_tailors-stitch"
+declared: "Die Naht des Schneiders"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 05_tailors-stitch
+# Plot: Die Naht des Schneiders
 
 ## Taxonomy
 

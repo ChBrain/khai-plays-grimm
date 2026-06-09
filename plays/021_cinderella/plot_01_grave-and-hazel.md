@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "01_grave-and-hazel"
+declared: "Das Grab und der Haselreis"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 01_grave-and-hazel
+# Plot: Das Grab und der Haselreis
 
 ## Taxonomy
 

@@ -1,6 +1,7 @@
 ---
 khai: plan
 title: "grave-covenant"
+declared: "der Gnadenbund am Grab"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +10,7 @@ stamp:
 status: closed
 ---
 
-# Plan: grave-covenant
+# Plan: der Gnadenbund am Grab
 
 ## Taxonomy
 

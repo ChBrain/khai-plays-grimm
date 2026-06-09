@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "The Silent Marriage"
+declared: "Die stumme Ehe"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Plot: The Silent Marriage
+# Plot: Die stumme Ehe
 
 ## Taxonomy
 

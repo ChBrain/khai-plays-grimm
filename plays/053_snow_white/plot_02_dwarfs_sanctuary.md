@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "dwarfs_sanctuary"
+declared: "Die Zuflucht"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: dwarfs_sanctuary
+# Plot: Die Zuflucht
 
 ## Taxonomy
 

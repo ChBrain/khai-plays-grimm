@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "gretel_bound"
+declared: "Gretel im Stall"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: gretel_bound
+# Plot: Gretel im Stall
 
 ## Taxonomy
 

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "King Thrushbeard"
+declared: "King Thrushbeard"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

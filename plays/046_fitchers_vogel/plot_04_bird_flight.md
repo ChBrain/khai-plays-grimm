@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "bird_flight"
+declared: "Die Flucht des Vogels"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: bird_flight
+# Plot: Die Flucht des Vogels
 
 ## Taxonomy
 

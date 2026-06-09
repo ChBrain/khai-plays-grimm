@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Nicias"
+declared: "Nicias"
 license: CC-BY-NC-SA-4.0
 voice: "measured, weighted; the generosity of a man who knows the crowd; piety as grammar"
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "identity_loss"
+declared: "Die verlorene Else"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: identity_loss
+# Plot: Die verlorene Else
 
 ## Taxonomy
 

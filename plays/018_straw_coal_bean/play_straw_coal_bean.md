@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Straw, Coal, and Bean"
+declared: "Strohhalm, Kohle und Bohne"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Straw, Coal, and Bean
+# Play: Strohhalm, Kohle und Bohne
 
 ## Estate
 

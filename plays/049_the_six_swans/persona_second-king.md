@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "persona_second-king"
+declared: "zweiter König"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +10,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: persona_second-king
+# Persona: zweiter König
 
 ## Taxonomy
 

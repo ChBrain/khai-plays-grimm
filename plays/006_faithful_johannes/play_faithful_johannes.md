@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Faithful John"
+declared: "Der treue Johannes"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Faithful John
+# Play: Der treue Johannes
 
 ## Estate
 

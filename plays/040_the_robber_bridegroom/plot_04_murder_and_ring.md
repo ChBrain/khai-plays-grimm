@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "murder_and_ring"
+declared: "Die Greueltat"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: murder_and_ring
+# Plot: Die Greueltat
 
 ## Taxonomy
 

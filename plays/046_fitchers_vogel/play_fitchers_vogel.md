@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Fitcher's Bird"
+declared: "Fitcher's Bird"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

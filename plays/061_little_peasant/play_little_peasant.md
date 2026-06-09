@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Little Peasant"
+declared: "The Little Peasant"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

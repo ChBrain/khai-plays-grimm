@@ -1,6 +1,7 @@
 ---
 khai: process
 title: "judgment"
+declared: "Selbstgerechtes Richten"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Process: judgment
+# Process: Selbstgerechtes Richten
 
 ## Taxonomy
 

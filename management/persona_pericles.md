@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Pericles"
+declared: "Pericles"
 license: CC-BY-NC-SA-4.0
 voice: "precise, unhurried; the long view; economy of word"
 stamp:
