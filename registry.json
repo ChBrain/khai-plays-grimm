@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.63.0",
+  "version": "0.64.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -312,6 +312,11 @@
       "id": "062_queen_bee",
       "title": "The Queen Bee",
       "description": "Dummling schützt schwache Tiere vor seinen grausamen Brüdern und erlöst durch ihre Hilfe ein versteinertes Schloss."
+    },
+    {
+      "id": "063_the_three_feathers",
+      "title": "The Three Feathers",
+      "description": "Ein König bläst drei Federn in den Wind; Dummling erlangt das Thronerbe durch die Gaben einer unterirdischen Kröte."
     },
     {
       "id": "130_one_eye_two_eyes_three_eyes",
