@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "cudgel_trap"
+declared: "Der Knüppel im Sack"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: cudgel_trap
+# Plot: Der Knüppel im Sack
 
 ## Taxonomy
 

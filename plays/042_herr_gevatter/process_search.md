@@ -1,6 +1,7 @@
 ---
 khai: process
 title: "search"
+declared: "Die Suche"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Process: search
+# Process: Die Suche
 
 ## Taxonomy
 

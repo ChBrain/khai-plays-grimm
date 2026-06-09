@@ -1,6 +1,7 @@
 ---
 khai: process
 title: "justice"
+declared: "Königliche Gerechtigkeit"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Process: justice
+# Process: Königliche Gerechtigkeit
 
 ## Taxonomy
 

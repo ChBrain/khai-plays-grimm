@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Fisherman and His Wife"
+declared: "Von dem Fischer und seiner Frau"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: The Fisherman and His Wife
+# Play: Von dem Fischer und seiner Frau
 
 ## Estate
 
@@ -57,6 +58,10 @@ Ein armer Fischer fängt einen sprechenden Butt, der sich als verwandelter Prinz
 - [Papstkrone](piece_tiara.md)
 - [Buttfisch](piece_fish.md)
 - [Prunkthron](piece_throne.md)
+
+**Plans**
+
+- [die Leiter der maßlosen Wünsche](plan_wish-ladder.md): das Vorhaben Ilsebills, den Butt durch ihren willfährigen Mann Stufe um Stufe zu immer höheren Wünschen zu treiben, vom Häuschen bis zur Göttlichkeit.
 
 ## Triggers
 

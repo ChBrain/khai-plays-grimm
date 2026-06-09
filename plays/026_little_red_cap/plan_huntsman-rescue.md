@@ -1,0 +1,45 @@
+---
+khai: plan
+title: "huntsman-rescue"
+declared: "die Rettung des Jägers"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-09"
+status: closed
+---
+
+# Plan: die Rettung des Jägers
+
+## Taxonomy
+
+Ein Rettungsplan der Wachsamkeit: das Vorhaben des [Jägers](persona_huntsman.md), den schlafenden [Wolf](persona_wolf.md) aufzuschneiden, die beiden Verschlungenen lebend zu befreien und den Bauch mit Steinen zu füllen, sodass der Räuber tot zusammenbricht. Es ist der Gegenplan zum [Hinterhalt des Wolfes](plan_wolf-ambush.md), der den vollendeten Raub noch im Schlaf des Räubers zurücknimmt.
+
+## Owner
+
+- Owner: [Jäger](persona_huntsman.md)
+
+## Direction
+
+Der Jäger geht am [Großmutterhaus](place_cottage.md) vorüber und stutzt: die alte Frau schnarcht so laut und so seltsam, dass er hineintritt und im [Bett](piece_bed.md) den [Wolf](persona_wolf.md) findet, satt und tief im Schlaf. Er kennt das Untier und ahnt, dass es die Greisin verschlungen hat. So greift er nicht zur Flinte, die das Kind im Bauch träfe, sondern zur [Schere](piece_scissors.md): er schneidet den Schläfer auf, holt heraus, was lebt, und macht aus dem Räuber seinen eigenen Sarg, den die [Steine](piece_stones.md) beschweren.
+
+## Orders
+
+1. Der [Jäger](persona_huntsman.md) hört das laute Schnarchen am [Großmutterhaus](place_cottage.md), tritt ein und findet den [Wolf](persona_wolf.md) schlafend im [Bett](piece_bed.md).
+2. Mit der [Schere](piece_scissors.md) vollzieht er als [Retter](position_saviour.md) die [Rettung](process_rescue.md) und schneidet den Bauch behutsam auf, sodass [Rotkäppchen](persona_red_cap.md) und die [Großmutter](persona_grandmother.md) heil herausspringen.
+3. Sie sammeln schwere [Steine](piece_stones.md) und füllen den leeren Bauch des Schläfers damit, ehe der [Wolf](persona_wolf.md) erwacht.
+4. Der [Wolf](persona_wolf.md) will aufspringen, doch die Last der [Steine](piece_stones.md) zieht ihn nieder, und er fällt tot um, der [Verführer](position_predator.md) durch sein eigenes Maul gerichtet.
+
+## Implementation
+
+- Der Plan rechnet mit dem festen Schlaf des satten [Wolfes](persona_wolf.md), der ihn die [Schere](piece_scissors.md) am Bauch nicht spüren lässt.
+- Er rechnet damit, dass der gierige Schlinger seine Beute ganz und lebendig hinabwürgte, sodass die [Rettung](process_rescue.md) [Rotkäppchen](persona_red_cap.md) und die [Großmutter](persona_grandmother.md) unversehrt freigibt.
+- Er rechnet auf die [Steine](piece_stones.md) als stummes Gewicht: nicht ein Schuss, sondern die eigene Schwere des Räubers vollzieht den Spruch, und jeder Schritt greift.
+
+## Targets
+
+- [x] Der schlafende Wolf ist am Schnarchen erkannt und gefunden
+- [x] Rotkäppchen und die Großmutter sind lebend aus dem Bauch geschnitten
+- [x] Der Bauch ist mit schweren Steinen gefüllt
+- [x] Der Wolf fällt von der Last tot um

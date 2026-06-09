@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "rooster"
+declared: "Hähnchen"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +10,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: rooster
+# Persona: Hähnchen
 
 ## Taxonomy
 

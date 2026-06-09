@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "death"
+declared: "Gevatter Tod"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +10,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: death
+# Persona: Gevatter Tod
 
 ## Taxonomy
 

@@ -1,6 +1,7 @@
 ---
 khai: piece
 title: "silver_hands"
+declared: "Silberne Hände"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Piece: silver_hands
+# Piece: Silberne Hände
 
 ## Taxonomy
 

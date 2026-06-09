@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "blood_drops_deception"
+declared: "Die drei Blutstropfen"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: blood_drops_deception
+# Plot: Die drei Blutstropfen
 
 ## Taxonomy
 

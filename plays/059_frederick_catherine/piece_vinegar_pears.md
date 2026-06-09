@@ -1,6 +1,7 @@
 ---
 khai: piece
 title: "vinegar_pears"
+declared: "Essig und Birnen"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Piece: vinegar_pears
+# Piece: Essig und Birnen
 
 ## Taxonomy
 

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Hansel and Gretel"
+declared: "Hänsel und Gretel"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Hansel and Gretel
+# Play: Hänsel und Gretel
 
 ## Estate
 
@@ -57,6 +58,11 @@ Zwei im Wald ausgesetzte Geschwister überlisten eine böse Hexe und kehren reic
 - [Knöchelchen](piece_bone.md)
 - [Backofen](piece_oven.md)
 - [Schatz](piece_treasure.md)
+
+**Plans** (die einander begegnen)
+
+- [der Fraß im Zuckerhaus](plan_witch-feast.md): das Vorhaben der Hexe, die Kinder mit Brot und Zucker zu ködern, zu mästen und zu fressen.
+- [die List der Geschwister](plan_siblings-cunning.md): das Vorhaben der Kinder, der Aussetzung und dem Backofen mit kindlicher List zu entkommen und reich heimzukehren.
 
 ## Triggers
 

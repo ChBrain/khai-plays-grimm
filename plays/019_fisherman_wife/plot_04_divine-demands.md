@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "04_divine-demands"
+declared: "Der Götterwunsch"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 04_divine-demands
+# Plot: Der Götterwunsch
 
 ## Taxonomy
 

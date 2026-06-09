@@ -1,6 +1,7 @@
 ---
 khai: place
 title: "forest_path"
+declared: "Waldweg"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Place: forest_path
+# Place: Waldweg
 
 ## Taxonomy
 

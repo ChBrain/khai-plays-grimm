@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "table_gift"
+declared: "Das Tischlein deck dich"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: table_gift
+# Plot: Das Tischlein deck dich
 
 ## Taxonomy
 

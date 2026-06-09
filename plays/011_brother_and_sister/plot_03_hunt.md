@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "03_hunt"
+declared: "Die königliche Jagd"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 03_hunt
+# Plot: Die königliche Jagd
 
 ## Taxonomy
 

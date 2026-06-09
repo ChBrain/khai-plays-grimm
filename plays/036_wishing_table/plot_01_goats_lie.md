@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "goats_lie"
+declared: "Die Lüge der Ziege"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: goats_lie
+# Plot: Die Lüge der Ziege
 
 ## Taxonomy
 

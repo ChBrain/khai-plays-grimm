@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Town Musicians of Bremen"
+declared: "Die Bremer Stadtmusikanten"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: The Town Musicians of Bremen
+# Play: Die Bremer Stadtmusikanten
 
 ## Estate
 
@@ -57,6 +58,10 @@ Vier alte Tiere entfliehen dem Tod und verjagen mit einem lauten Schreckkonzert 
 - [Herd](piece_fireplace.md)
 - [Krallen](piece_claws.md)
 - [Knüppel](piece_club.md)
+
+**Plans**
+
+- [das Schreckkonzert](plan_fright-concert.md): das Vorhaben der vier Tiere, sich am Räuberhaus übereinanderzutürmen und mit einem Ausbruch von Gebrüll, Gebell, Miauen und Krähen die Räuber zu verjagen und das Haus als Heim zu nehmen.
 
 ## Triggers
 

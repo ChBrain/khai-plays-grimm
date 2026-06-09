@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "safe_return"
+declared: "Die glückliche Heimkehr"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: safe_return
+# Plot: Die glückliche Heimkehr
 
 ## Taxonomy
 

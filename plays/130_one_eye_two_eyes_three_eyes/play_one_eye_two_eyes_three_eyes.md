@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "One-Eye, Two-Eyes, and Three-Eyes"
+declared: "Einäuglein, Zweiäuglein und Dreiäuglein"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: One-Eye, Two-Eyes, and Three-Eyes
+# Play: Einäuglein, Zweiäuglein und Dreiäuglein
 
 ## Estate
 
@@ -57,6 +58,11 @@ Ein verachtetes Mädchen erlöst sich mit einer Zauberziege und einem goldenen A
 - [Apfelbaum](piece_enchanted_tree.md)
 - [goldener Apfel](piece_golden_apple.md)
 - [Fass](piece_cask.md)
+
+**Plans** (die einander begegnen)
+
+- [das Aushungern des Zweiäugleins](plan_starve-the-favored.md): das Vorhaben der Schwestern, die heimliche Speisequelle auszuspionieren und die nährende Ziege zu schlachten.
+- [die Erlösung durch die weise Frau](plan_silver-tree.md): das Vorhaben des Zweiäugleins, dem Rat der weisen Frau zu folgen, den goldenen Apfelbaum zu erwecken und den Ritter zu gewinnen.
 
 ## Triggers
 

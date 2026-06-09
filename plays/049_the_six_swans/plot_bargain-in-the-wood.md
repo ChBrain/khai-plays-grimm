@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "The Bargain in the Wood"
+declared: "Der Handel im Wald"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Plot: The Bargain in the Wood
+# Plot: Der Handel im Wald
 
 ## Taxonomy
 

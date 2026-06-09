@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Two Brothers"
+declared: "The Two Brothers"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -55,6 +56,10 @@ Zwillinge erlangen Reichtum durch einen Goldvogel, bestehen Abenteuer mit Drache
 - [Messer](piece_knife.md)
 - [Drachenzungen](piece_dragon_tongues.md)
 - [Lebenswasser](piece_life_water.md)
+
+**Plans**
+
+- [der erschlichene Drachenruhm](plan_false-claim.md): das Vorhaben des Marschalls, den schlafenden Drachentöter zu erschlagen, die zungenlosen Häupter als Beweis zu nehmen und die Königstochter zum Schweigen zu erpressen.
 
 ## Triggers
 

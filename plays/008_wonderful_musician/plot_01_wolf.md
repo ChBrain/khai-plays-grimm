@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "01_wolf"
+declared: "Der Wolf in der Eiche"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 01_wolf
+# Plot: Der Wolf in der Eiche
 
 ## Taxonomy
 

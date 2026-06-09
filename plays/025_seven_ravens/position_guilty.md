@@ -1,6 +1,7 @@
 ---
 khai: position
 title: "guilty"
+declared: "Schuldige"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Position: guilty
+# Position: Schuldige
 
 ## Taxonomy
 

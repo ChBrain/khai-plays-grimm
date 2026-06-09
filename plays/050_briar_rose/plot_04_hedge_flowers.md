@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "hedge_flowers"
+declared: "Die Hecke blüht"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: hedge_flowers
+# Plot: Die Hecke blüht
 
 ## Taxonomy
 

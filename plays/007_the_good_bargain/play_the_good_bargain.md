@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Good Bargain"
+declared: "Der gute Handel"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: The Good Bargain
+# Play: Der gute Handel
 
 ## Estate
 
@@ -57,6 +58,10 @@ Ein armer Bauer treibt seine Kuh zum Markt und verkauft sie für ein scheinbar w
 - [Kuh](piece_cow.md)
 - [Taler](piece_thalers.md)
 - [Rock](piece_coat.md)
+
+**Plans**
+
+- [die Schläge zu Gold gewendet](plan_lashes-to-gold.md): das Vorhaben des Bauern, die fünfhundert Schläge seines Urteils zu verkaufen und dem König den geliehenen Rock abzulisten.
 
 ## Triggers
 

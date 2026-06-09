@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "study_years"
+declared: "Die Lehrjahre"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: study_years
+# Plot: Die Lehrjahre
 
 ## Taxonomy
 

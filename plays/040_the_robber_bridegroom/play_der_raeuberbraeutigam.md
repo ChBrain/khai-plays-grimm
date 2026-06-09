@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Robber Bridegroom"
+declared: "Der Räuberbräutigam"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Play: The Robber Bridegroom
+# Play: Der Räuberbräutigam
 
 ## Estate
 
@@ -56,6 +57,10 @@ Eine Müllerstochter besucht das Waldhaus ihres unheimlichen Bräutigams und ent
 - [Finger mit Ring](piece_ring_finger.md)
 - [Fass](piece_cask.md)
 - [Wein](piece_wine.md)
+
+**Plans**
+
+- [die List der Braut](plan_bride-survival.md): das Vorhaben der Müllertochter, den Mörderbräutigam im Waldhaus zu durchschauen, lebend zu entkommen und ihn beim Hochzeitsmahl mit dem Finger zu überführen.
 
 ## Triggers
 

@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "04_royal-marriage"
+declared: "Die Heirat und der Mord"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 04_royal-marriage
+# Plot: Die Heirat und der Mord
 
 ## Taxonomy
 

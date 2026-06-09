@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "05_final_deluge"
+declared: "Die Flut"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: 05_final_deluge
+# Plot: Die Flut
 
 ## Taxonomy
 

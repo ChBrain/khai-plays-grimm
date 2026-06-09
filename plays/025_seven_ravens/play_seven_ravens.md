@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Seven Ravens"
+declared: "Die sieben Raben"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: The Seven Ravens
+# Play: Die sieben Raben
 
 ## Estate
 
@@ -57,6 +58,10 @@ Ein zorniger Vater verwünscht seine sieben Söhne zu Raben, woraufhin die Schwe
 - [Elfenbeinchen](piece_bone.md)
 - [Finger](piece_finger.md)
 - [Becher](piece_cups.md)
+
+**Plans**
+
+- [die Erlösung der sieben Brüder](plan_brothers-rescue.md): das Vorhaben der Schwester, die zu Raben verwünschten Brüder durch eine Reise bis ans Ende der Welt und das Opfer des eigenen Fingers zu befreien.
 
 ## Triggers
 

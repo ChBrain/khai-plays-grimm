@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Wolf and the Seven Young Kids"
+declared: "Der Wolf und die sieben jungen Geißlein"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: The Wolf and the Seven Young Kids
+# Play: Der Wolf und die sieben jungen Geißlein
 
 ## Estate
 
@@ -58,6 +59,11 @@ Ein böser Wolf frisst sieben Geißlein, doch die Mutter rettet sie und ertränk
 - [weißbemehlte Pfote](piece_whitened-paw.md)
 - [Steine](piece_stones.md)
 - [Schere und Nadel](piece_scissors-needle.md)
+
+**Plans** (die einander begegnen)
+
+- [der Trug des Wolfes](plan_wolf-disguise.md): das Vorhaben des Wolfes, Stimme und Pfote zu fälschen, sich Einlass zu erschleichen und die Geißlein zu verschlingen.
+- [die Rettung der Mutter](plan_mother-rescue.md): das Vorhaben der Mutter Geiß, die Kinder aus dem schlafenden Wolf zu schneiden, ihn mit Steinen zu füllen und am Brunnen zu ertränken.
 
 ## Triggers
 

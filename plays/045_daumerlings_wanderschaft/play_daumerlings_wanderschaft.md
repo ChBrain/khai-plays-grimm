@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Thumbling's Travels"
+declared: "Thumbling's Travels"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -54,6 +55,10 @@ Der daumengroße Schneidersohn zieht in die Welt, hilft Räubern, überlistet Wa
 
 - [Nadelschwert](piece_needle_sword.md)
 - [Goldmünzen](piece_gold_coins.md)
+
+**Plans**
+
+- [die List des Däumlings](plan_thumbling-cunning.md): das Vorhaben des Däumlings, seine Kleinheit zur Waffe zu machen, den Räubern beim Schatzraub zu helfen, die Verfolger zu narren und aus dem Wolfsbauch heimzukehren.
 
 ## Triggers
 

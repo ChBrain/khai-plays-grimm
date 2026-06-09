@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Pack of Ragamuffins"
+declared: "Das Lumpengesindel"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: The Pack of Ragamuffins
+# Play: Das Lumpengesindel
 
 ## Estate
 
@@ -54,6 +55,10 @@ Ein stolzer Hahn und ein Hühnchen gehen auf Reisen und betrügen den Wirt.
 
 - [Nußschalenwagen](piece_carriage.md)
 - [Ei](piece_egg.md)
+
+**Plans**
+
+- [der Betrug am Wirtshaus](plan_inn-swindle.md): das Vorhaben des Hähnchens und Hühnchens, sich mit Ei und Schalen beim Wirt einzukaufen, auf seine Kosten zu schmausen und nach gesteckten Nadeln vor Tagesanbruch zu entwischen.
 
 ## Triggers
 

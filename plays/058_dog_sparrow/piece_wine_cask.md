@@ -1,6 +1,7 @@
 ---
 khai: piece
 title: "wine_cask"
+declared: "Weinfass"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Piece: wine_cask
+# Piece: Weinfass
 
 ## Taxonomy
 

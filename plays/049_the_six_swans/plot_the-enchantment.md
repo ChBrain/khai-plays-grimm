@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "The Enchantment"
+declared: "Die Verzauberung"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Plot: The Enchantment
+# Plot: Die Verzauberung
 
 ## Taxonomy
 

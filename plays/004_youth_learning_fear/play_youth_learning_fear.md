@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Story of the Youth Who Went Forth to Learn What Fear Was"
+declared: "Märchen von einem, der auszog, das Fürchten zu lernen"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: The Story of the Youth Who Went Forth to Learn What Fear Was
+# Play: Märchen von einem, der auszog, das Fürchten zu lernen
 
 ## Estate
 
@@ -55,6 +56,10 @@ Ein unerschrockener Junge zieht in die Welt hinaus, um zu lernen, was Gruseln un
 - [Schlossschatz](piece_castle-treasure.md)
 - [Eimer mit Gründlingen](piece_minnow-bucket.md)
 - [Feuer](piece_fire.md)
+
+**Plans**
+
+- [die Gründlingskur im Schlaf](plan_minnow-cure.md): das Vorhaben der Königstochter, dem furchtlosen Gatten das Gruseln durch kaltes Wasser und zappelnde Gründlinge im Schlaf beizubringen.
 
 ## Triggers
 

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Wedding of Mrs. Fox"
+declared: "Die Hochzeit der Frau Füchsin"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Play: The Wedding of Mrs. Fox
+# Play: Die Hochzeit der Frau Füchsin
 
 ## Estate
 
@@ -56,6 +57,10 @@ Herr Fuchs täuscht seinen Tod vor, um seine Frau zu prüfen, die alle Freier bi
 - [rote Strümpfe](piece_red_stockings.md)
 - [Fensterladen](piece_shutter.md)
 - [Hochzeitsmahl](piece_wedding_feast.md)
+
+**Plans**
+
+- [der Scheintod des Fuchses](plan_feigned-death.md): das Vorhaben des Herrn Fuchs, den eigenen Tod vorzutäuschen, um die Treue seiner Frau zu prüfen, die eitlen Freier hervorzulocken und sie dann zurückzufordern.
 
 ## Triggers
 

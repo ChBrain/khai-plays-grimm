@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "02_roebuck"
+declared: "Die Verwandlung zum Rehchen"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 02_roebuck
+# Plot: Die Verwandlung zum Rehchen
 
 ## Taxonomy
 

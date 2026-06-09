@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Clever Elsie"
+declared: "Die kluge Elsa"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Play: Clever Elsie
+# Play: Die kluge Elsa
 
 ## Estate
 
@@ -55,6 +56,10 @@ Eine angeblich kluge Braut verliert sich in Katastrophenängsten und vergisst sc
 - [Bierkanne](piece_beer_mug.md)
 - [Glockennetz](piece_net_bells.md)
 - [Brei](piece_porridge.md)
+
+**Plans**
+
+- [die Glockenfalle im Korn](plan_bell-trap.md): das Vorhaben von Hans, die schlafsüchtige Else mit einem Glockennetz und verschlossener Tür zu prüfen, das aber ihren Identitätsverlust auslöst.
 
 ## Triggers
 

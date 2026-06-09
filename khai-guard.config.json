@@ -37,7 +37,8 @@
           "REFERENCE.md",
           "REFERENCES.md",
           "management/**",
-          "audit/**"
+          "audit/**",
+          "plays/**"
         ]
       },
       { "pattern": "changeset-release/*", "layer": "general", "allow": [] },

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Thumbling"
+declared: "Daumesdick"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Play: Thumbling
+# Play: Daumesdick
 
 ## Estate
 
@@ -56,6 +57,10 @@ Ein winziger Junge hilft seinem Vater, entkommt Entführern und Dieben und wird 
 - [Wolf](piece_wolf.md)
 - [Kuh](piece_cow.md)
 - [Geld](piece_money.md)
+
+**Plans**
+
+- [die List des Winzlings](plan_tiny-cunning.md): das Vorhaben Daumesdicks, seine Kleinheit in Schläue zu münzen, dem Verkauf und den Dieben zu entwischen und die schluckende Kuh und den Wolf heimzusteuern.
 
 ## Triggers
 

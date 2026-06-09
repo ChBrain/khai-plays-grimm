@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "03_golden-castle-ruse"
+declared: "Die List am Goldenen Schloß"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 03_golden-castle-ruse
+# Plot: Die List am Goldenen Schloß
 
 ## Taxonomy
 

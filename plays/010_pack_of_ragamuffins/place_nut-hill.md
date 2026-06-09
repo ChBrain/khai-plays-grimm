@@ -1,6 +1,7 @@
 ---
 khai: place
 title: "nut-hill"
+declared: "Nußberg"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Place: nut-hill
+# Place: Nußberg
 
 ## Taxonomy
 

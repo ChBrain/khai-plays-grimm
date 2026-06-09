@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Twelve Brothers"
+declared: "Die zwölf Brüder"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: The Twelve Brothers
+# Play: Die zwölf Brüder
 
 ## Estate
 
@@ -58,6 +59,11 @@ Ein König will seine zwölf Söhne töten lassen, wenn eine Tochter zur Welt ko
 - [zwölf Särge](piece_coffins.md)
 - [Lilien](piece_lilies.md)
 - [Scheiterhaufen](piece_pyre.md)
+
+**Plans** (die einander begegnen)
+
+- [die Särge und das rote Zeichen](plan_coffins-and-flag.md): das Vorhaben des König-Vaters, die zwölf Söhne bei der Geburt einer Tochter zu töten und das rote Flaggenzeichen zu hissen.
+- [die Hexenklage am Scheiterhaufen](plan_witch-pyre.md): das Vorhaben der bösen Mutter, die stumme junge Königin als Hexe anzuklagen und auf dem Scheiterhaufen verbrennen zu lassen.
 
 ## Triggers
 

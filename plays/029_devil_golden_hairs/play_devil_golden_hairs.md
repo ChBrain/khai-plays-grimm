@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Devil with the Three Golden Hairs"
+declared: "Der Teufel mit den drei goldenen Haaren"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: The Devil with the Three Golden Hairs
+# Play: Der Teufel mit den drei goldenen Haaren
 
 ## Estate
 
@@ -57,6 +58,11 @@ Ein prophezeites Glückskind entgeht den Anschlägen eines Königs und holt drei
 - [Haare](piece_hairs.md)
 - [Rätsel](piece_riddles.md)
 - [Antworten](piece_key.md)
+
+**Plans** (die einander begegnen)
+
+- [die Anschläge des Königs](plan_kings-murders.md): das Vorhaben des Königs, das prophezeite Glückskind durch Fluss, Todesbrief und Höllenfahrt zu beseitigen.
+- [die Höllenfahrt des Glückskinds](plan_child-quest.md): das Vorhaben des Glückskinds, mit Teufels Großmutter die drei Haare und Antworten aus der Hölle zu holen.
 
 ## Triggers
 

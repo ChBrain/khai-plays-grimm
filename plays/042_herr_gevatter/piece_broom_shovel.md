@@ -1,6 +1,7 @@
 ---
 khai: piece
 title: "broom_shovel"
+declared: "Besen und Schaufel"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Piece: broom_shovel
+# Piece: Besen und Schaufel
 
 ## Taxonomy
 

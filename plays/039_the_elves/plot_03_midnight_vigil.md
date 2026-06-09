@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "midnight_vigil"
+declared: "Die Mitternachtswache"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: midnight_vigil
+# Plot: Die Mitternachtswache
 
 ## Taxonomy
 

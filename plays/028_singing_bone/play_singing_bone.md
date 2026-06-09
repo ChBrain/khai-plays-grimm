@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Singing Bone"
+declared: "Der singende Knochen"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: The Singing Bone
+# Play: Der singende Knochen
 
 ## Estate
 
@@ -57,6 +58,10 @@ Ein Mann tötet seinen Bruder, stiehlt den Wildschwein-Ruhm und wird Jahre spät
 - [Mundstück](piece_mouthpiece.md)
 - [Wildschwein](piece_boar.md)
 - [Horn](piece_horn.md)
+
+**Plans**
+
+- [der gestohlene Ruhm](plan_stolen-glory.md): das Vorhaben des älteren Bruders, den Erleger des Wildschweins zu ermorden, unter der Brücke zu verscharren und auf dem gestohlenen Ruhm die Königstochter zu heiraten.
 
 ## Triggers
 

@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "03_dinner-at-the-palace"
+declared: "Das Mahl im Schloss"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-06"
 ---
 
-# Plot: 03_dinner-at-the-palace
+# Plot: Das Mahl im Schloss
 
 ## Taxonomy
 

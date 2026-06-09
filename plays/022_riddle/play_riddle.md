@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Riddle"
+declared: "Das Rätsel"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: The Riddle
+# Play: Das Rätsel
 
 ## Estate
 
@@ -57,6 +58,11 @@ Ein Königssohn zieht mit seinem treuen Diener in die Welt und verirrt sich in e
 - [Rabe](piece_raven.md)
 - [Mantel](piece_cloak.md)
 - [Rätselwort](piece_riddle-text.md)
+
+**Plans** (die einander begegnen)
+
+- [die Rätselfalle des Prinzen](plan_riddle-snare.md): das Vorhaben des Königssohns, ein unlösbares Rätsel zu stellen und die Späherinnen der Prinzessin bei der Tat zu fangen.
+- [die Aushorchung der Prinzessin](plan_princess-espionage.md): das Vorhaben der Rätselprinzessin, dem schlafenden Freier das Rätselwort durch nächtliche Mägde zu stehlen.
 
 ## Triggers
 

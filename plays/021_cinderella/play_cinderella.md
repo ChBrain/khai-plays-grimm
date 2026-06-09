@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Cinderella"
+declared: "Aschenputtel"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Cinderella
+# Play: Aschenputtel
 
 ## Estate
 
@@ -57,6 +58,11 @@ Ein frommes, fleißiges Mädchen verliert seine leibliche Mutter und wird von de
 - [Festkleider](piece_dresses.md)
 - [Goldener Schuh](piece_slipper.md)
 - [Taubenhaus](piece_coop.md)
+
+**Plans** (die einander begegnen)
+
+- [der Gnadenbund am Grab](plan_grave-covenant.md): Aschenputtels Vorhaben, das Recht durch Treue zur toten Mutter und die ausgleichende Natur zu erstreiten.
+- [der Aschen-Zwang](plan_ash-usurpation.md): das Vorhaben der Stiefmutter, das eigene Blut durch Stand, Betrug und Verstümmelung auf den Thron zu heben.
 
 ## Triggers
 

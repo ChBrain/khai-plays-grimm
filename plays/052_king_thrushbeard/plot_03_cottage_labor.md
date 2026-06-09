@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "cottage_labor"
+declared: "Das Hüttenleben"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: cottage_labor
+# Plot: Das Hüttenleben
 
 ## Taxonomy
 

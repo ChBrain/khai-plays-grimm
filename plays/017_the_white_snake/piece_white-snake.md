@@ -1,6 +1,7 @@
 ---
 khai: piece
 title: "white-snake"
+declared: "Weiße Schlange"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Piece: white-snake
+# Piece: Weiße Schlange
 
 ## Taxonomy
 

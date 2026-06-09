@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Juniper Tree"
+declared: "The Juniper Tree"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -54,6 +55,11 @@ Die böse Stiefmutter tötet den kleinen Sohn, doch er ersteht als schöner Voge
 - [Äpfel](piece_apples.md)
 - [Sauerfleisch](piece_stew.md)
 - [Gaben](piece_gifts.md)
+
+**Plans** (die einander begegnen)
+
+- [der Mord an der Apfeltruhe](plan_stepmother-murder.md): das Vorhaben der Stiefmutter, den Knaben zu enthaupten, zu Sauerfleisch zu kochen und das Verbrechen zu verbergen.
+- [das Lied des Vogels](plan_bird-vengeance.md): das Vorhaben des wiedergeborenen Knaben, als Vogel die Gaben zu sammeln und den Mühlstein auf die Mörderin zu stürzen.
 
 ## Triggers
 

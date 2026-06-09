@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Golden Bird"
+declared: "The Golden Bird"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -55,6 +56,11 @@ Ein Prinz sucht den goldenen Vogel, gewinnt mithilfe eines Fuchses Pferd und Bra
 - [Goldener Vogel](piece_golden_bird.md)
 - [Goldenes Pferd](piece_golden_horse.md)
 - [Käfige](piece_cages.md)
+
+**Plans** (die einander begegnen)
+
+- [die Fuchsfahrt des Jüngsten](plan_fox-quest.md): das Vorhaben des Prinzen, nach dem Rat des Fuchses Vogel, Pferd und Braut in verketteten Aufgaben zu gewinnen.
+- [der Raub der Brüder](plan_brothers-robbery.md): das Vorhaben der älteren Brüder, dem Jüngsten die Beute zu rauben, ihn in den Brunnen zu stürzen und die Schätze als eigene auszugeben.
 
 ## Triggers
 

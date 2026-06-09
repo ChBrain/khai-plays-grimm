@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Queen Bee"
+declared: "The Queen Bee"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -55,6 +56,10 @@ Dummling schützt schwache Tiere vor seinen grausamen Brüdern und erlöst durch
 - [Schlüssel](piece_key.md)
 - [Honig](piece_honey.md)
 - [Steintafel](piece_stone_table.md)
+
+**Plans**
+
+- [die Lösung durch die dankbaren Tiere](plan_grateful-beasts.md): das Vorhaben des Dummlings, den Steinbann mit den drei Proben zu brechen, jede gelöst durch die Ameisen, Enten und Bienen, die er geschont hat.
 
 ## Triggers
 
