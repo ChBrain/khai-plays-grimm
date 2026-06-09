@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.68.0",
+  "version": "0.69.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -337,6 +337,11 @@
       "id": "067_twelve_huntsmen",
       "title": "The Twelve Huntsmen",
       "description": "Eine verlassene Braut verkleidet sich mit elf Gefährtinnen als Jäger und gewinnt den König durch List zurück."
+    },
+    {
+      "id": "068_thief_and_master",
+      "title": "The Thief and His Master",
+      "description": "Ein Vater erlernt die Kunst des Stehlens für seinen Sohn, der durch Zauberei den Meister im Verwandlungsduell besiegt."
     },
     {
       "id": "130_one_eye_two_eyes_three_eyes",
