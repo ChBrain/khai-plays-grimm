@@ -7,14 +7,14 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: die Eierprobe des Zauberers
 
 ## Taxonomy
 
-Ein Raubplan der Hexenkunst: das Vorhaben des [Zauberers](persona_sorcerer.md), ein Mädchen nach dem andern in sein Haus zu tragen, es mit Ei und Schlüssel auf den Gehorsam zu prüfen und jede, die der verbotenen Kammer erliegt, zu zerstückeln. Es ist der Gegenplan zur [List der jüngsten Schwester](plan_bird-disguise.md), der die Neugier zur Falle macht und nicht mit der Klugheit rechnet.
+Ein Raubplan der Hexenkunst: das Vorhaben des [Zauberers](persona_sorcerer.md), ein Mädchen nach dem andern in sein Haus zu tragen, es mit Ei und Schlüssel auf den Gehorsam zu prüfen und jede, die der verbotenen Kammer erliegt, zu zerstückeln. Es ist der Gegenplan zur [List der jüngsten Schwester](plan_bird-disguise.md), der die Neugier des Opfers zur Falle macht.
 
 ## Owner
 
@@ -34,12 +34,12 @@ Der Zauberer stellt sich als armer Mann mit dem [Korb](piece_basket.md) an die T
 ## Implementation
 
 - Der Plan rechnet mit der Neugier, die den Schlüssel ins Schloss zwingt, und mit dem [Ei](piece_egg.md), das den Ungehorsam nicht verbergen kann.
-- Er rechnet nicht damit, dass eine das [Ei](piece_egg.md) abseits legt, ehe sie die [Blutkammer](place_chamber.md) öffnet, und so rein und unbefleckt vor ihn tritt.
-- Er rechnet nicht mit der [Wiederbelebung](process_resuscitation.md) der Zerstückelten noch mit dem [Brand](place_sorcerer_house.md), den die [Verwandten](persona_kin.md) über ihm entzünden: seine eigene Probe wird zur Schlinge an seinem Hals.
+- Er rechnet darauf, dass jede das [Ei](piece_egg.md) bei sich trägt und es in der [Blutkammer](place_chamber.md) befleckt, sodass keine die Probe besteht.
+- Er rechnet darauf, dass die Zerstückelten in der Kammer bleiben und das [Mörderhaus](place_sorcerer_house.md) sein sicheres Reich bleibt: die eigene Probe sei ihm ein untrügliches Henkersurteil.
 
 ## Targets
 
-- [x] Die beiden älteren Schwestern sind geprüft, befleckt und getötet
-- [x] Das blutige Ei verrät jede, die der Kammer erliegt
-- [F] Die jüngste Schwester besteht die Probe (das Ei bleibt rein, sie durchschaut die Falle)
-- [F] Der Zauberer bleibt Herr im Haus (er wird selbst im Brand vertilgt)
+- [ ] Eine Schwester nach der andern im Korb ins Mörderhaus tragen und zur Braut machen
+- [ ] Jeder das Ei zur Hut und den Schlüssel zur verbotenen Blutkammer geben
+- [ ] Am befleckten Ei den Ungehorsam überführen und das Opfer am Hackblock strafen
+- [ ] Die Probe an jeder Schwester wiederholen und Herr im eigenen Haus bleiben

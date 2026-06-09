@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: die Erlösung der sieben Brüder
@@ -26,10 +26,10 @@ Die [Schwester](persona_sister.md) trägt eine Schuld, die nicht die ihre ist: u
 
 ## Orders
 
-1. Die [Schwester](persona_sister.md) erfährt von der [Verwünschung](process_curse.md) der [Brüder](persona_brothers.md) und bricht allein mit dem elterlichen [Ring](piece_ring.md), Brot und Wasser zur [Wandschaft](process_pilgrimage.md) auf.
-2. Sie wandert durch den [Himmel](place_sky.md), entgeht der Glut der Sonne und der Kälte des Mondes und gewinnt von den [Sternen](persona_stars.md) das [Elfenbeinchen](piece_bone.md), das den [Glasberg](place_mountain.md) öffnet.
-3. Sie verliert das Knöchelchen und hackt sich, ohne zu zögern, den eigenen [Finger](piece_finger.md) ab, um damit das Tor zu sprengen, und tritt in den Berg ein.
-4. Sie legt den [Ring](piece_ring.md) in den [Becher](piece_cups.md) der Raben, wird von den heimkehrenden Brüdern erkannt und löst durch ihr Erscheinen als [Erlöserin](position_saviour.md) die [Erlösung](process_redemption.md) aus.
+1. Die [Schwester](persona_sister.md) bricht wegen der [Verwünschung](process_curse.md) der [Brüder](persona_brothers.md) allein mit dem elterlichen [Ring](piece_ring.md), Brot und Wasser zur [Wandschaft](process_pilgrimage.md) auf, um die Verwandelten zu suchen.
+2. Sie wandert durch den [Himmel](place_sky.md) zur Sonne, zum Mond und zu den [Sternen](persona_stars.md), um von ihnen das [Elfenbeinchen](piece_bone.md) zu gewinnen, das den [Glasberg](place_mountain.md) öffnet.
+3. Sie hackt sich, ohne zu zögern, den eigenen [Finger](piece_finger.md) ab, um damit das Tor des Berges zu sprengen und einzutreten.
+4. Sie legt den [Ring](piece_ring.md) in den [Becher](piece_cups.md) der Raben, um sich als [Erlöserin](position_saviour.md) den Brüdern zu erkennen zu geben und die [Erlösung](process_redemption.md) auszulösen.
 
 ## Implementation
 
@@ -39,7 +39,7 @@ Die [Schwester](persona_sister.md) trägt eine Schuld, die nicht die ihre ist: u
 
 ## Targets
 
-- [x] Die Schwester ist allein mit dem Ring zur Wandschaft aufgebrochen
-- [x] Das Elfenbeinchen der Sterne ist gewonnen
-- [x] Der eigene Finger ist geopfert und der Glasberg geöffnet
-- [x] Die Brüder erkennen den Ring und sind aus dem Rabenbann erlöst
+- [ ] Allein mit dem Ring zur Wandschaft aufbrechen
+- [ ] Von den Sternen das Elfenbeinchen gewinnen, das den Glasberg öffnet
+- [ ] Den eigenen Finger opfern, um das Tor zu sprengen
+- [ ] Den Ring in den Becher legen und die Brüder aus dem Rabenbann erlösen

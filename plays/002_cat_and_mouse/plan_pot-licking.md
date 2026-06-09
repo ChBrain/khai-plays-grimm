@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: der heimliche Fraß am Fetttopf
@@ -29,7 +29,7 @@ Die Katze ist Gesellin nur dem Worte nach; ihrem Wesen nach ist sie Räuberin, u
 1. Die [Katze](persona_cat.md) bindet die [Maus](persona_mouse.md) durch die [Partnerschaft](process_partnership.md) und überredet sie, den [Fetttopf](piece_fat-pot.md) sicher unter dem [Altar](place_altar.md) zu verwahren, bis die Not einbricht.
 2. Sie gibt dreimal vor, als [Pate](position_godparent.md) zu einer Taufe geladen zu sein, schleicht zur [Kirche](place_church.md) und leckt den Topf im [heimlichen Naschen](process_stealth-consumption.md) Schicht um Schicht aus.
 3. Sie tarnt den Diebstahl mit erfundenen Patennamen (Hautab, Halbaus, Alleaus), die ihr eigenes Werk benennen, und lässt die [Maus](persona_mouse.md) als treue [Hausfrau](position_housekeeper.md) ahnungslos spinnen.
-4. Als der leere Topf den Verrat verrät und die [Maus](persona_mouse.md) die Namen begreift, packt die Katze sie und vollzieht die [Verschlingung](process_consumption.md): so bleibt kein Zeuge und kein Kläger.
+4. Zuletzt packt sie die [Maus](persona_mouse.md) und vollzieht die [Verschlingung](process_consumption.md), damit kein Zeuge und kein Kläger bleibe.
 
 ## Implementation
 
@@ -39,7 +39,7 @@ Die Katze ist Gesellin nur dem Worte nach; ihrem Wesen nach ist sie Räuberin, u
 
 ## Targets
 
-- [x] Der Fetttopf ist gemeinsam verwahrt und die Maus an das Bündnis gebunden
-- [x] Die drei vorgetäuschten Taufen haben den Topf heimlich geleert
-- [x] Der Verrat ist durch die Patennamen verschleiert geblieben
-- [x] Die Maus ist beim Auffliegen des Diebstahls verschlungen, der Plan vollendet
+- [ ] Die Maus an das Bündnis binden und den Fetttopf gemeinsam unter dem Altar verwahren
+- [ ] Unter dem Vorwand dreier Taufen den Topf heimlich Schicht um Schicht auslecken
+- [ ] Den Diebstahl mit erfundenen Patennamen verschleiern
+- [ ] Beim Auffliegen des Diebstahls die Maus verschlingen, dass kein Kläger bleibt

@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: die Falle der Gier
@@ -40,8 +40,8 @@ Das [Bürle](persona_peasant.md) ist der ärmste Mann im [Dorf](place_village.md
 
 ## Targets
 
-- [x] Das Bürle erstreitet durch das vorgetäuschte Holzkalb eine echte Kuh
-- [x] Die Kuhhaut ist als Wahrsagerhaut für hundert Taler verkauft
-- [x] Die neidischen Nachbarn ruinieren sich durch das Töten der eigenen Kühe
-- [x] Das Bürle entkommt dem Tod im Fass und gewinnt die Schafherde des Schäfers
-- [x] Die gierigen Nachbarn ertrinken im Fluss bei der Jagd nach Unterwasserschafen
+- [ ] Mit dem vorgetäuschten Holzkalb vor Gericht eine echte Kuh erstreiten
+- [ ] Die Kuhhaut als Wahrsagerhaut dem Müller für hundert Taler aufschwatzen
+- [ ] Die neidischen Nachbarn dazu verlocken, ihre eigenen Kühe zu töten
+- [ ] Dem Tod im Fass durch den Tausch mit dem Schäfer entkommen und dessen Herde gewinnen
+- [ ] Die gierigen Nachbarn mit den gespiegelten Wolken in den Fluss locken

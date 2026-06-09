@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: der Scheintod des Fuchses
@@ -27,8 +27,8 @@ Herr Fuchs kann die Treue seiner Frau nicht erfragen, denn eine Frage warnt den 
 ## Orders
 
 1. [Herr Fuchs](persona_mr_fox.md) legt sich tot auf die [Ofenbank](piece_stove_bench.md), lässt die [Fensterläden](piece_shutter.md) schließen und die Trauer der [Frau Füchsin](persona_mrs_fox.md) als scheinbare [Witwe](position_widow.md) beginnen.
-2. Er lässt durch die [Katze](persona_cat.md) als [Dienstmagd](position_maid.md) jeden Freier melden und prüft als [Prüfer](position_testifier.md) jede [Brautwerbung](process_courtship.md): Die Füchse mit einem bis acht [Schwänzen](piece_tails.md) werden abgewiesen.
-3. Er lässt den neunschwänzigen Freier in den [roten Strümpfen](piece_red_stockings.md) zu, bis die [Frau Füchsin](persona_mrs_fox.md) ihn freudig annimmt und das [Hochzeitsmahl](piece_wedding_feast.md) in der [Küche](place_kitchen.md) bereitet wird.
+2. Er lässt durch die [Katze](persona_cat.md) als [Dienstmagd](position_maid.md) jeden Freier melden und prüft als [Prüfer](position_testifier.md) jede [Brautwerbung](process_courtship.md), um die Füchse mit einem bis acht [Schwänzen](piece_tails.md) abzuweisen.
+3. Er lässt den neunschwänzigen Freier in den [roten Strümpfen](piece_red_stockings.md) zu, um die Treue der [Frau Füchsin](persona_mrs_fox.md) bis zum [Hochzeitsmahl](piece_wedding_feast.md) in der [Küche](place_kitchen.md) zu erproben.
 4. Er erwacht jäh aus dem [Scheintod](process_testing.md), verprügelt die [Freier](persona_suitors.md) und jagt die ganze Hochzeitsgesellschaft durch die [Vertreibung](process_banishment.md) zum [Fuchshaus](place_fox_house.md) hinaus, um die Gattin zurückzufordern.
 
 ## Implementation
@@ -39,7 +39,7 @@ Herr Fuchs kann die Treue seiner Frau nicht erfragen, denn eine Frage warnt den 
 
 ## Targets
 
-- [x] Der Scheintod ist auf der Ofenbank gelegt und die Witwentrauer begonnen
-- [x] Die Freier mit einem bis acht Schwänzen sind durch die Magd geprüft und abgewiesen
-- [x] Der neunschwänzige Freier ist bis zum bereiteten Hochzeitsmahl vorgedrungen
-- [x] Der Fuchs ist erwacht, hat die Freier verjagt und die Gattin zurückgefordert
+- [ ] Den Scheintod auf der Ofenbank legen und die Witwentrauer beginnen lassen
+- [ ] Jeden Freier durch die Magd melden und die Brautwerbung prüfen lassen
+- [ ] Die Treue der Frau Füchsin am hervorgelockten Werber erproben
+- [ ] Aus dem Scheintod auffahren, die Freier verjagen und die Gattin zurückfordern

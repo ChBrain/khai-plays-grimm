@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: der erschlichene Drachenruhm
@@ -27,19 +27,19 @@ Der Marschall ist feig und hat sich beim [Drachenkampf](process_combustion.md) v
 ## Orders
 
 1. Der [Marschall](position_usurper.md) findet den [Drachentöter](position_slayer.md) nach dem [Drachenkampf](process_combustion.md) erschöpft schlafend und schlägt ihm mit dem [Messer](piece_knife.md) das Haupt ab, sodass kein Zeuge bleibt.
-2. Er nimmt die sieben Häupter des Drachen als Beweis an sich, ohne zu merken, dass dem Untier die [Drachenzungen](piece_dragon_tongues.md) bereits aus dem Rachen geschnitten sind.
+2. Er nimmt die sieben Häupter des Drachen mitsamt den [Drachenzungen](piece_dragon_tongues.md) als Beweis an sich, um den Sieg für sich zu beanspruchen.
 3. Er zwingt die gerettete [Königstochter](persona_princess.md) bei Todesstrafe, vor dem König zu schweigen und ihn als ihren [Retter](position_rescuer.md) zu nennen.
 4. Er fordert im [Königsschloss](place_palace.md) den Lohn ein, die Hand der Prinzessin und das Reich, und setzt den Hochzeitstag fest, ehe ein anderer Anspruch laut werden kann.
 
 ## Implementation
 
 - Der Plan rechnet damit, dass der schlafende [Drachentöter](position_slayer.md) tot und stumm im Wald liege und kein Mund den Betrug aufdecke.
-- Er rechnet nicht mit dem [Lebenswasser](piece_life_water.md) und der Treue des zweiten Zwillings, die den Erschlagenen wieder auf die Beine bringen.
-- Er rechnet nicht mit den [Drachenzungen](piece_dragon_tongues.md): wer die Häupter zeigt, aber keine Zunge weist, hält leeren Beweis in der Hand, und der wahre Sieger entlarvt ihn beim Hochzeitsmahl.
+- Er setzt darauf, dass die sieben Häupter als Beweis genügen und niemand nach einem anderen Zeichen des Sieges fragt.
+- Er baut auf das Schweigen der erpressten [Königstochter](persona_princess.md), die bei Todesstrafe keinen anderen Retter nennen darf.
 
 ## Targets
 
-- [x] Der schlafende Drachentöter ist mit dem Messer niedergeschlagen
-- [x] Die zungenlosen Drachenhäupter sind als Beweis genommen
-- [x] Die Königstochter ist zum Schweigen erpresst und der Lohn gefordert
-- [F] Der erschlichene Ruhm hält stand (die sieben Zungen entlarven den Marschall, er wird hingerichtet)
+- [ ] Den schlafenden Drachentöter mit dem Messer niederschlagen, sodass kein Zeuge bleibt
+- [ ] Die sieben Drachenhäupter als Beweis an sich nehmen
+- [ ] Die Königstochter zum Schweigen erpressen und sich als Retter nennen lassen
+- [ ] Im Schloss den Lohn fordern und den Hochzeitstag festsetzen, ehe ein Anspruch laut wird

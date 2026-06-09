@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: das Aushungern des Zweiäugleins
@@ -26,19 +26,20 @@ Die Mutter und die beiden missgestalteten Schwestern hassen die [Zweiäuglein](p
 
 ## Orders
 
-1. Die Schwestern schicken [Einäuglein](persona_one_eye.md) als [Kundschafterin](position_spy.md) mit der [Zweiäuglein](persona_two_eyes.md) auf die [Wiese](place_meadow.md), doch das eine Auge fällt unter dem Schlaflied zu, und das [Ausspionieren](process_spying.md) misslingt.
-2. Sie schicken [Dreiäuglein](persona_three_eyes.md) nach, deren zwei Augen das Schlaflied schließt, deren drittes aber wach bleibt und den Spruch belauscht, mit dem die [Ziege](piece_goat.md) den gedeckten [Tischlein](piece_table.md) herbeizaubert.
+1. Die Schwestern schicken [Einäuglein](persona_one_eye.md) als [Kundschafterin](position_spy.md) mit der [Zweiäuglein](persona_two_eyes.md) auf die [Wiese](place_meadow.md), um durch [Ausspionieren](process_spying.md) das Geheimnis der heimlichen Speise zu erspähen.
+2. Sie schicken [Dreiäuglein](persona_three_eyes.md) nach, deren drittes Auge auch unter dem Schlaflied wach bleiben soll, um den Spruch zu belauschen, mit dem die [Ziege](piece_goat.md) den gedeckten [Tischlein](piece_table.md) herbeizaubert.
 3. Auf Dreiäugleins Bericht hin schlachtet die Mutter die [Ziege](piece_goat.md), um der [Zweiäuglein](persona_two_eyes.md) die heimliche Speise für immer zu nehmen.
 4. Sie hält das Mädchen weiter als [Ausgestoßene](position_outcast.md) in Hunger und Verachtung und meint, mit der toten Ziege die Quelle versiegt zu haben.
 
 ## Implementation
 
-- Der Plan rechnet mit dem dritten, nie ganz schlafenden Auge der [Dreiäuglein](persona_three_eyes.md), das den Zauber aufdeckt, den ein Schlaflied nicht verbergen kann.
-- Er rechnet mit der Schlachtung der [Ziege](piece_goat.md) als endgültigem Schlag, der die verhasste Schwester zurück in die Not zwinge.
-- Er rechnet nicht mit dem Rat der weisen Frau: aus den vergrabenen Eingeweiden der Ziege wächst durch [Wunderwachstum](process_growth.md) der silbern-goldene [Apfelbaum](piece_enchanted_tree.md), und die Totgeglaubte steigt durch ihn höher, als der Neid es je gedacht hat.
+- Der Plan rechnet mit dem dritten, nie ganz schlafenden Auge der [Dreiäuglein](persona_three_eyes.md), das den Zauber aufdecken soll, den ein Schlaflied nicht verbergen kann.
+- Er rechnet mit der Schlachtung der [Ziege](piece_goat.md) als endgültigem Schlag, der die verhasste Schwester zurück in die Not zwingen soll.
+- Er setzt darauf, dass mit der toten Ziege die heimliche Quelle versiegt und die Verachtete für immer in Hunger gehalten bleibt.
 
 ## Targets
 
-- [x] Das Ausspähen durch Dreiäugleins drittes Auge deckt die Ziege auf
-- [x] Die Ziege ist geschlachtet, die heimliche Speise genommen
-- [F] Zweiäuglein bleibt in Hunger und Verachtung gehalten (sie steigt durch den Apfelbaum dennoch empor)
+- [ ] Einäuglein als Kundschafterin auf die Wiese senden, das Geheimnis zu erspähen
+- [ ] Dreiäuglein nachschicken, dass ihr drittes Auge den Speisespruch der Ziege belauscht
+- [ ] Auf den Bericht hin die Ziege schlachten und die heimliche Speise nehmen
+- [ ] Das Mädchen weiter als Ausgestoßene in Hunger und Verachtung halten

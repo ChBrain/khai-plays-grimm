@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: der Aschen-Zwang
@@ -22,7 +22,7 @@ Ein dynastischer Aneignungsplan: das Vorhaben der [Stiefmutter](persona_stepmoth
 
 ## Direction
 
-Der einzige Preis des Reiches ist der [Königssohn](persona_prince.md), und der Stand duldet keine Magd an seiner Seite. Der Sitz der Macht sinnt darauf, [Aschenputtel](persona_cinderella.md) in der [Herdstelle](place_hearth.md) niederzuhalten und das eigene Blut mit allen Mitteln zur [Königin](position_bride.md) zu erheben: nicht das Recht zählt, nur der Aufstieg. Wo der Fuß nicht passt, soll das Messer ihn passend schneiden. Was als kalte Berechnung beginnt, vollendet sich als blutiger Betrug, der mit der Wahrheit der Vögel nicht rechnet.
+Der einzige Preis des Reiches ist der [Königssohn](persona_prince.md), und der Stand duldet keine Magd an seiner Seite. Der Sitz der Macht sinnt darauf, [Aschenputtel](persona_cinderella.md) in der [Herdstelle](place_hearth.md) niederzuhalten und das eigene Blut mit allen Mitteln zur [Königin](position_bride.md) zu erheben: nicht das Recht zählt, nur der Aufstieg. Wo der Fuß nicht passt, soll das Messer ihn passend schneiden. Was als kalte Berechnung beginnt, soll sich im verhüllten Betrug am [Goldenen Schuh](piece_slipper.md) vollenden.
 
 ## Orders
 
@@ -34,13 +34,12 @@ Der einzige Preis des Reiches ist der [Königssohn](persona_prince.md), und der 
 ## Implementation
 
 - Der Plan rechnet mit Stand und Zwang, nicht mit der [Gerechtigkeit](process_judgment.md): wo der Fuß nicht passt, macht das Messer ihn passend.
-- Er rechnet nicht mit den [Täubchen](persona_birds.md), die das Blut im Schuh verraten und den Betrug an das Licht bringen.
-- Die [Verwandlung](process_transformation.md) der wahren Braut stürzt den erzwungenen Aufstieg: was geraubt und geschnitten ward, hält dem [Goldenen Schuh](piece_slipper.md) nicht stand.
+- Er setzt darauf, dass die geschnittene Ferse den [Goldenen Schuh](piece_slipper.md) füllt und der [Brautsuchende](position_seeker.md) den Betrug nicht durchschaue.
+- Er baut auf den Aufstieg durch Blut und Gewalt, nicht auf das Recht der Demütigen.
 
 ## Targets
 
-- [x] Aschenputtel ist in die Asche gedrückt, der Kleider beraubt
-- [x] Die unlösbaren Linsenprüfungen sind der Magd auferlegt
-- [x] Die Töchter sind zur Verstümmelung getrieben, Zeh und Ferse fallen
-- [x] Die verstümmelte Tochter ist dem Königssohn als Braut vorgeführt
-- [F] Die Königswürde dem eigenen Blut gesichert (im Hochzeitsgericht durch die Tauben gestürzt)
+- [ ] Aschenputtel in die Asche der Herdstelle drücken und ihr die Kleider nehmen
+- [ ] Der Magd die unlösbare Linsen-Auslese auferlegen, um sie vom Fest fernzuhalten
+- [ ] Die Stiefschwestern Zeh und Ferse abschneiden lassen, damit der Schuh am falschen Fuß passe
+- [ ] Die verstümmelte Tochter dem Brautsuchenden als Braut vorführen und die Königswürde dem eigenen Blut sichern

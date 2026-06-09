@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: die Rache des Sperlings
@@ -40,8 +40,8 @@ Der [Sperling](persona_sparrow.md) hatte den hungernden [Hund](persona_dog.md) a
 
 ## Targets
 
-- [x] Der ganze Wein des Fuhrmanns ist aus dem Fass auf die Straße ausgelaufen
-- [x] Die Pferde sind geblendet und müssen vom Fuhrmann selbst getötet werden
-- [x] Das Korn und die Vorräte im Haus sind von den Vögeln aufgefressen
-- [x] Der Fuhrmann ist in blinde Zerstörungswut gegen sein eigenes Gut getrieben
-- [x] Der Fuhrmann erschlägt sich beim Schlag nach dem Sperling durch eigene Hand
+- [ ] Den Wein des Fuhrmanns aus dem Fass auf die Straße rinnen lassen
+- [ ] Die Pferde blenden, sodass der Fuhrmann sein eigenes Gespann erschlagen muss
+- [ ] Mit allen Vögeln das Korn und die Vorräte im Haus auffressen
+- [ ] Den Fuhrmann in blinde Zerstörungswut gegen sein eigenes Gut treiben
+- [ ] Den Fuhrmann durch den Schlag nach dem Sperling zur eigenen Hand verleiten

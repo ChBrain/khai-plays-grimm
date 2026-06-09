@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: die Rettung des Jägers
@@ -26,10 +26,9 @@ Der Jäger geht am [Großmutterhaus](place_cottage.md) vorüber und stutzt: die 
 
 ## Orders
 
-1. Der [Jäger](persona_huntsman.md) hört das laute Schnarchen am [Großmutterhaus](place_cottage.md), tritt ein und findet den [Wolf](persona_wolf.md) schlafend im [Bett](piece_bed.md).
-2. Mit der [Schere](piece_scissors.md) vollzieht er als [Retter](position_saviour.md) die [Rettung](process_rescue.md) und schneidet den Bauch behutsam auf, sodass [Rotkäppchen](persona_red_cap.md) und die [Großmutter](persona_grandmother.md) heil herausspringen.
-3. Sie sammeln schwere [Steine](piece_stones.md) und füllen den leeren Bauch des Schläfers damit, ehe der [Wolf](persona_wolf.md) erwacht.
-4. Der [Wolf](persona_wolf.md) will aufspringen, doch die Last der [Steine](piece_stones.md) zieht ihn nieder, und er fällt tot um, der [Verführer](position_predator.md) durch sein eigenes Maul gerichtet.
+1. Der [Jäger](persona_huntsman.md) tritt beim lauten Schnarchen ins [Großmutterhaus](place_cottage.md), um nach dem [Wolf](persona_wolf.md) zu sehen, den er schlafend im [Bett](piece_bed.md) vermutet.
+2. Mit der [Schere](piece_scissors.md) schneidet er als [Retter](position_saviour.md) den Bauch behutsam auf, um [Rotkäppchen](persona_red_cap.md) und die [Großmutter](persona_grandmother.md) lebend aus dem Schläfer zu befreien und die [Rettung](process_rescue.md) zu vollziehen.
+3. Er füllt den leeren Bauch des Schläfers mit schweren [Steinen](piece_stones.md), ehe der [Wolf](persona_wolf.md) erwacht, um den [Verführer](position_predator.md) durch seine eigene Last zu Fall zu bringen.
 
 ## Implementation
 
@@ -39,7 +38,7 @@ Der Jäger geht am [Großmutterhaus](place_cottage.md) vorüber und stutzt: die 
 
 ## Targets
 
-- [x] Der schlafende Wolf ist am Schnarchen erkannt und gefunden
-- [x] Rotkäppchen und die Großmutter sind lebend aus dem Bauch geschnitten
-- [x] Der Bauch ist mit schweren Steinen gefüllt
-- [x] Der Wolf fällt von der Last tot um
+- [ ] Den schlafenden Wolf am Schnarchen erkennen und im Bett finden
+- [ ] Mit der Schere den Bauch öffnen und die Verschlungenen lebend befreien
+- [ ] Den leeren Bauch mit schweren Steinen füllen, ehe der Wolf erwacht
+- [ ] Den Räuber durch sein eigenes Gewicht zu Fall bringen

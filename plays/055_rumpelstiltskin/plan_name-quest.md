@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: die Namensjagd der Königin
@@ -35,10 +35,10 @@ Die [Müllerstochter](persona_millers_daughter.md), durch die [Mühle](place_mil
 
 - Der Plan rechnet mit der einen Lücke, die der Erpresser selbst ließ: dem Namen als lösbarem Pfand, das kein [Gold](piece_gold.md) verlangt, nur Wissen.
 - Er rechnet mit dem Übermut des Männleins, das sich so sicher wähnt, dass es sein Geheimnis am [Waldfeuer](place_forest_fire.md) hinaussingt.
-- Er geht restlos auf: der Bote bringt den Namen heim, die [Namenssuche](process_name_quest.md) ist vollbracht, und die Mutter behält ihr Kind.
+- Er setzt auf den treuen Boten, der dem Männlein bis an sein Feuer nachspürt und das rechte Wort vor Ablauf der Frist heimträgt.
 
 ## Targets
 
-- [x] Die drei Tage Frist sind angenommen und die Suche ausgesandt
-- [x] Der Bote belauscht das Männlein am Waldfeuer und erfährt den Namen
-- [x] Der wahre Name ist genannt, der Pakt zerreißt, das Kind ist gerettet
+- [ ] Die drei Tage Frist annehmen und alle Namen des Landes zusammenrufen
+- [ ] Einen Boten aussenden, der dem Männlein bis ans Waldfeuer nachspürt
+- [ ] Am dritten Tag das wahre Wort nennen und so den Pakt zerreißen

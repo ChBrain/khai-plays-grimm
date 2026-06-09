@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: der Sud der Köchin
@@ -27,18 +27,18 @@ Die Köchin hasst den Findling, den der [Förster](persona_forester.md) aus dem 
 ## Orders
 
 1. Die [Köchin](persona_cook.md) trägt am Morgen viele [Wassereimer](piece_bucket.md) zusammen und setzt den Kessel auf, um Fundevogel zu sieden, sobald das [Haus](place_home.md) leer und still ist.
-2. Da Lenchen den Anschlag erlauscht und mit Fundevogel in den [Wald](place_forest.md) flieht, sendet sie als [Verfolgerin](position_persecutor.md) die [Knechte](persona_servants.md) den Kindern nach.
-3. Die [Knechte](persona_servants.md) holen über die [Ebene](place_plain.md) auf, doch die Kinder täuschen sie durch ihre [Metamorphose](process_metamorphosis.md), und sie kehren leer zurück.
-4. Erzürnt jagt die [Köchin](persona_cook.md) zuletzt selbst hinter den [Flüchtlingen](position_refugees.md) her, um sie eigenhändig in den Kessel zu werfen.
+2. Entkommen ihr die Kinder in den [Wald](place_forest.md), sendet sie als [Verfolgerin](position_persecutor.md) die [Knechte](persona_servants.md) ihnen nach, um sie einzuholen.
+3. Sie heißt die [Knechte](persona_servants.md) über die [Ebene](place_plain.md) aufholen und die [Flüchtlinge](position_refugees.md) ergreifen, ehe diese in den tiefen Wald entkommen.
+4. Sie jagt zuletzt selbst hinter den [Flüchtlingen](position_refugees.md) her, um sie eigenhändig in den Kessel zu werfen.
 
 ## Implementation
 
-- Der Plan rechnet mit dem Schlaf des [Hauses](place_home.md) und der Ahnungslosigkeit der Kinder, nicht mit Lenchens wachem Ohr.
-- Er rechnet nicht mit der [Metamorphose](process_metamorphosis.md), die jede Welle der [Verfolger](position_pursuers.md) ins Leere greifen lässt: Rosenstrauch und Rose, Kirche und Krone bleiben den [Knechten](persona_servants.md) verborgen.
-- Er rechnet nicht mit dem letzten Bild von Teich und Ente: die [Köchin](persona_cook.md) beugt sich zum Trinken über das Wasser, und das [Ertrinken](process_drowning.md) verschlingt die Jägerin selbst.
+- Der Plan rechnet mit dem Schlaf des [Hauses](place_home.md) und der Ahnungslosigkeit der Kinder: er setzt darauf, dass kein waches Ohr den Sud verrät.
+- Er rechnet darauf, dass die [Knechte](persona_servants.md) die [Flüchtlinge](position_refugees.md) über die [Ebene](place_plain.md) einholen, ehe diese in den tiefen [Wald](place_forest.md) entkommen.
+- Er setzt zuletzt auf die eigene Jagd der [Köchin](persona_cook.md), die das vermag, woran die [Knechte](persona_servants.md) gescheitert sein könnten, und greift die Kinder eigenhändig.
 
 ## Targets
 
-- [F] Fundevogel wird im Kessel gesotten (Lenchen erlauscht den Plan und flieht mit ihm)
-- [F] Die Knechte fangen die Kinder (die Metamorphose täuscht sie zweimal)
-- [F] Die Köchin ergreift die Flüchtlinge selbst (sie ertrinkt am Teich im Schnabel der Ente)
+- [ ] Den Kessel im stillen Haus richten und Fundevogel sieden
+- [ ] Die Knechte hinter die entflohenen Kinder senden
+- [ ] Zuletzt selbst die Flüchtlinge jagen und in den Kessel werfen

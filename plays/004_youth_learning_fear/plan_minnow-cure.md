@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: die Gründlingskur im Schlaf
@@ -29,7 +29,7 @@ Der Gatte hat den [Galgen](place_gallows.md) und das [verwunschene Schloss](plac
 1. Die [Königstochter](persona_princess.md) erkennt, dass weder die [Dreinächte-Wache](process_vigil.md) noch die Gespenster dem [Jüngling](persona_youth.md) das [Gruseln](process_shuddering.md) gebracht haben, und entschließt sich zur leiblichen Kur.
 2. Sie heißt ihre Kammerjungfer den [Eimer mit Gründlingen](piece_minnow-bucket.md) mit kaltem Wasser und lebenden Fischen aus dem Bach holen.
 3. Sie wartet, bis der [Jüngling](persona_youth.md) in der [Schlafkammer](place_royal-chamber.md) fest schläft, zieht ihm die Decke weg und gießt den kalten Eimer über ihn.
-4. Die zappelnden Gründlinge auf der bloßen Haut wecken ihn, und er zittert und ruft endlich aus, dass er nun wisse, was Gruseln sei.
+4. Sie lässt die zappelnden Gründlinge auf der bloßen Haut ihn wecken, damit ihm das [Gruseln](process_shuddering.md) endlich beigebracht werde.
 
 ## Implementation
 
@@ -39,7 +39,7 @@ Der Gatte hat den [Galgen](place_gallows.md) und das [verwunschene Schloss](plac
 
 ## Targets
 
-- [x] Die leibliche Kur ist anstelle der übernatürlichen Schrecken erkannt und gewählt
-- [x] Der Eimer mit Gründlingen ist kalt aus dem Bach geschöpft
-- [x] Das kalte Wasser ist über den schlafenden Jüngling gegossen
-- [x] Der Jüngling zittert und hat endlich das Gruseln gelernt
+- [ ] Die leibliche Kur anstelle der übernatürlichen Schrecken erkennen und wählen
+- [ ] Den Eimer mit Gründlingen kalt aus dem Bach schöpfen lassen
+- [ ] Das kalte Wasser über den schlafenden Jüngling gießen
+- [ ] Dem Jüngling durch Kälte und zappelnde Fische das Gruseln beibringen

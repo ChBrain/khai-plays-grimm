@@ -7,14 +7,14 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: die Hexenklage am Scheiterhaufen
 
 ## Taxonomy
 
-Ein Verleumdungsplan des Argwohns: das Vorhaben der [bösen Mutter](persona_stepmother.md), die stumme junge Königin als Hexe anzuklagen und auf dem [Scheiterhaufen](piece_pyre.md) verbrennen zu lassen, ehe deren [Schweigen](process_silence.md) sich löst. Es ist der Gegenplan zu den [Särgen und dem roten Zeichen](plan_coffins-and-flag.md): wo jener Anschlag die Brüder treffen wollte, zielt dieser auf die Schwester, doch wie der erste zerschellt auch dieser an der Treue, die er nicht bedacht hat.
+Ein Verleumdungsplan des Argwohns: das Vorhaben der [bösen Mutter](persona_stepmother.md), die stumme junge Königin als Hexe anzuklagen und auf dem [Scheiterhaufen](piece_pyre.md) verbrennen zu lassen, ehe deren [Schweigen](process_silence.md) sich löst. Es ist der Gegenplan zu den [Särgen und dem roten Zeichen](plan_coffins-and-flag.md): wo jener Anschlag die Brüder treffen wollte, zielt dieser auf die Schwester.
 
 ## Owner
 
@@ -35,11 +35,11 @@ Die [böse Mutter](persona_stepmother.md) des [jungen Königs](persona_husband.m
 
 - Der Plan rechnet damit, dass die erzwungene Stummheit als Schuld erscheint und die Wehrlose kein Wort zu ihrer Rettung sprechen kann.
 - Er rechnet damit, dass der Sohn dem Argwohn der Mutter folgt und das Urteil fällt, ehe er die Wahrheit erfährt.
-- Er rechnet nicht damit, dass die sieben Jahre im letzten Augenblick verstreichen: die zwölf Raben stürzen herab, werden als [Brüder](persona_brothers.md) und [Benjamin](persona_benjamin.md) wieder Menschen, löschen die Glut, und die [Erlösung](process_redemption.md) endet das Schweigen, das die Stumme freispricht und die Klägerin selbst zur Strafe verurteilt.
+- Er rechnet auf die Eile, das Feuer zu entzünden, ehe die sieben Jahre verstreichen und das [Schweigen](process_silence.md) der Stummen sich von selber löst.
 
 ## Targets
 
-- [x] Das Schweigen der Schwester ist als Hexerei ausgelegt und der Verdacht gesät
-- [x] Die stumme Königin ist als Angeklagte vor den jungen König gebracht
-- [F] Der Scheiterhaufen hat die Vermeintliche verbrannt (die Frist verstreicht, die Brüder löschen die Glut)
-- [F] Die Anklage hat die Schwester vernichtet (sie ist vindiziert, die böse Mutter bestraft)
+- [ ] Das Schweigen der Schwester als Hexerei auslegen und beim jungen König den Verdacht säen
+- [ ] Die stumme Königin öffentlich anklagen und zur Angeklagten machen, die sich nicht verteidigen darf
+- [ ] Den jungen König zum Urteil drängen und zur Eile treiben, ehe die sieben Jahre verstreichen
+- [ ] Die Schwester an den Scheiterhaufen binden und das Feuer entzünden

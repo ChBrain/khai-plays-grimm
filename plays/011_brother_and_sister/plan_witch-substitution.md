@@ -7,14 +7,14 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: der Hexenanschlag auf das Königsbett
 
 ## Taxonomy
 
-Ein Vernichtungsplan des Neides: das langgespannte Vorhaben der [Stiefmutter](persona_stepmother.md), die geflohenen Geschwister zu verderben, erst den Bruder durch verzauberte Quellen zu verwandeln, dann die Schwester im Schloß zu ermorden und die eigene einäugige [Stieftochter](persona_daughter.md) ins Bett des Königs zu schieben. Es gibt keinen Gegenplan; die Kinder fliehen nur und wehren sich nicht mit eigener List, doch was als gelungener Mord scheint, kehrt sich am Ende von selbst gegen die Hexe.
+Ein Vernichtungsplan des Neides: das langgespannte Vorhaben der [Stiefmutter](persona_stepmother.md), die geflohenen Geschwister zu verderben, erst den Bruder durch verzauberte Quellen zu verwandeln, dann die Schwester im Schloß zu ermorden und die eigene einäugige [Stieftochter](persona_daughter.md) ins Bett des Königs zu schieben. Es gibt keinen Gegenplan; die Kinder fliehen nur und wehren sich nicht mit eigener List.
 
 ## Owner
 
@@ -33,13 +33,13 @@ Die [Stiefmutter](persona_stepmother.md) ist eine Hexe, und ihr Neid duldet kein
 
 ## Implementation
 
-- Der Plan rechnet mit dem Durst des Bruders und der [Verwandlung](process_curse.md), die das [Strumpfband](piece_garter.md) am Hals des Rehchens nur noch als stummes Zeichen zurücklässt.
+- Der Plan rechnet mit dem Durst des Bruders und der [Verwandlung](process_curse.md), die das [Strumpfband](piece_garter.md) am Hals des Rehchens als einziges Band an das menschliche Leben zurücklässt.
 - Er rechnet mit der Heimlichkeit des Mordes im Bad und damit, dass die Vertauschung im Wochenbett unentdeckt bleibe.
-- Er rechnet nicht damit, dass die Ermordete nachts als Geist wiederkehrt, ihr Kind und das Rehchen zu pflegen: der wachende [König](persona_king.md) erkennt seine [Schützer](position_protector.md)-Gemahlin, ruft sie ins Leben zurück, und die [Erlösung](process_redemption.md) verbrennt die Hexe samt ihrer Tochter.
+- Er rechnet darauf, dass der König die falsche Gemahlin für die echte halte und niemand die erstickte Königin vermisse.
 
 ## Targets
 
-- [x] Die verzauberte Quelle hat den Bruder zum Rehchen verwandelt
-- [x] Die junge Königin ist im Bad erstickt, die Stieftochter ins Königsbett gelegt
-- [F] Die Vertauschung bleibt unentdeckt (die Königin kehrt als Geist wieder und wird erkannt)
-- [F] Die Geschwister sind verdorben (sie sind erlöst, die Hexe wird verbrannt)
+- [ ] Die Quellen im Wald verzaubern, dass das Quellwasser den durstigen Bruder zum Rehchen verwandle
+- [ ] Nach der Geburt mit der Stieftochter ins Schloß eindringen
+- [ ] Die junge Königin im heißen Bad ersticken
+- [ ] Die einäugige Stieftochter durch Vertauschung ins Bett des Königs legen, dass er die falsche für die echte halte

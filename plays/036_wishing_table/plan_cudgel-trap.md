@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: die Knüppelfalle des Jüngsten
@@ -39,7 +39,7 @@ Der jüngste der [Söhne](persona_sons.md) ist von seinem [Meister](persona_mast
 
 ## Targets
 
-- [x] Der Wirt ist mit der angeblich kostbaren Gabe gereizt
-- [x] Der Wirt tritt nachts zum Diebstahl an den Sack
-- [x] Der Knüppel fährt heraus und prügelt den Dieb
-- [x] Tischchen und Goldesel sind herausgegeben, die Heimkehr vollzogen
+- [ ] Den Wirt mit der angeblich kostbaren Gabe im Sack reizen
+- [ ] Sich schlafend stellen, damit der Wirt nachts an den Sack tritt
+- [ ] Auf das Wort den Knüppel aus dem Sack fahren und den Dieb prügeln lassen
+- [ ] Tischchen und Goldesel zurückerzwingen und reich heimkehren

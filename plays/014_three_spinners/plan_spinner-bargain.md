@@ -7,14 +7,14 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: der Pakt mit den Spinnerinnen
 
 ## Taxonomy
 
-Ein Befreiungsplan der Trägheit: das Vorhaben des [Mädchens](persona_girl.md), der unlösbaren [Spinnarbeit](process_spinning.md) zu entkommen, indem es drei verwachsene [Spinnerinnen](persona_spinners.md) anwirbt, den Flachs heimlich zu spinnen, und ihnen zum Lohn einen Platz an der Hochzeitstafel als ihre Tanten verspricht, sodass ihre Mißgestalt den Prinzen für immer vom Spinnrad abschreckt. Es gibt keinen Gegenplan; weder die [Königin](persona_queen.md) noch der [Prinz](persona_prince.md) durchschauen die Täuschung, und der Pakt gibt jeder Seite, was sie begehrt.
+Ein Befreiungsplan der Trägheit: das Vorhaben des [Mädchens](persona_girl.md), der unlösbaren [Spinnarbeit](process_spinning.md) zu entkommen, indem es drei verwachsene [Spinnerinnen](persona_spinners.md) anwirbt, den Flachs heimlich zu spinnen, und ihnen zum Lohn einen Platz an der Hochzeitstafel als ihre Tanten verspricht, sodass ihre Mißgestalt den Prinzen für immer vom Spinnrad abschrecken soll. Das Mädchen setzt darauf, daß weder die [Königin](persona_queen.md) noch der [Prinz](persona_prince.md) die Täuschung durchschauen und der Pakt jeder Seite gebe, was sie begehrt.
 
 ## Owner
 
@@ -28,8 +28,8 @@ Das [Mädchen](persona_girl.md) ist faul und kann kein [Garn](piece_yarn.md) erz
 
 1. Das [Mädchen](persona_girl.md), als [Fleißgezwungene](position_captive.md) vor den [Flachs](piece_flax.md) gestellt, wirbt die drei verwachsenen [Spinnerinnen](persona_spinners.md) als heimliche [Gehilfinnen](position_helpers.md) an.
 2. Es schließt den Pakt: die [Spinnerinnen](persona_spinners.md) vollbringen die [Spinnarbeit](process_spinning.md) im Verborgenen, das [Mädchen](persona_girl.md) verspricht ihnen dafür einen Platz an der Hochzeit als seine Tanten.
-3. Der gesponnene Flachs wird der [Königin](persona_queen.md) als eigenes Werk vorgewiesen, sodass das [Mädchen](persona_girl.md) den [Prinzen](persona_prince.md) heiraten darf.
-4. Bei der Hochzeit treten die drei ungestalten Tanten an den Festtisch; der [Prinz](persona_prince.md) erfährt, daß das Spinnen sie so entstellt hat, und verbietet seiner Braut für immer, das [Spinnrad](piece_spinning-wheel.md) anzurühren: die [Befreiung](process_liberation.md) ist vollkommen.
+3. Es weist der [Königin](persona_queen.md) den gesponnenen Flachs als eigenes Werk vor, um die Hand des [Prinzen](persona_prince.md) zu erlangen.
+4. Es lädt die drei ungestalten Tanten an den Festtisch der Hochzeit, damit ihr Anblick den [Prinzen](persona_prince.md) zum ewigen Verbot des [Spinnrads](piece_spinning-wheel.md) und so zur [Befreiung](process_liberation.md) bewege.
 
 ## Implementation
 
@@ -39,7 +39,7 @@ Das [Mädchen](persona_girl.md) ist faul und kann kein [Garn](piece_yarn.md) erz
 
 ## Targets
 
-- [x] Die drei Spinnerinnen sind als heimliche Gehilfinnen angeworben
-- [x] Der Pakt um den Platz an der Hochzeitstafel als Tanten ist geschlossen
-- [x] Der gesponnene Flachs hat dem Mädchen die Heirat mit dem Prinzen gewonnen
-- [x] Der Prinz verbietet das Spinnrad für immer, die Befreiung ist vollkommen
+- [ ] Die drei verwachsenen Spinnerinnen als heimliche Gehilfinnen anwerben
+- [ ] Den Pakt um den Platz an der Hochzeitstafel als Tanten schließen
+- [ ] Den gesponnenen Flachs der Königin als eigenes Werk vorweisen und den Prinzen heiraten
+- [ ] Durch den Anblick der Verwachsenen den Prinzen zum ewigen Verbot des Spinnrads bewegen

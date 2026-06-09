@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: das Lied des Vogels
@@ -39,7 +39,7 @@ Der Knabe hat keine Hand mehr, die ein Beil führte, nur eine Stimme, die der Hi
 
 ## Targets
 
-- [x] Die Knochen sind unter dem Machandelbaum geborgen, der Vogel steigt auf
-- [x] Das Lied erwirbt die Kette, die Schuhe und den Mühlstein
-- [x] Der Mühlstein zerschmettert die Stiefmutter vor der Tür
-- [x] Der Knabe ersteht lebendig und kehrt zu Vater und Schwester zurück
+- [ ] Aus dem Machandelbaum als Vogel mit der wiedergeschenkten Stimme aufsteigen
+- [ ] Mit dem Lied beim Goldschmied, Schuster und Müller die Gaben erwerben
+- [ ] Kette und Schuhe auf Vater und Trauernde niederfallen lassen, die Stiefmutter vor die Tür locken
+- [ ] Den Mühlstein auf die Peinigerin stürzen und als lebendiges Kind an den Tisch treten

@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: die gestellte Rettung
@@ -28,8 +28,8 @@ Sultan ist alt und zahnlos geworden, und die [Dienstherren](persona_mastery.md) 
 
 1. Der [Sultan](persona_sultan.md) verabredet mit dem [Wolf](persona_wolf.md) im [Pakt](process_alliance.md), dass dieser das [Kind](piece_child.md) der [Dienstherren](persona_mastery.md) auf dem [Feld](place_field.md) wegtrage.
 2. Der [Wolf](persona_wolf.md) raubt als [Verschwörer](position_conspirator.md) das Kind, indes die Eltern bei der Arbeit nicht achthaben.
-3. Der [Sultan](persona_sultan.md) setzt dem Wolf nach, entreißt ihm das Kind und trägt es als rettender [Wächter](position_guardian.md) heim zum [Bauernhof](place_farm.md).
-4. Die [Dienstherren](persona_mastery.md) glauben die Rettung, widerrufen das Todesurteil und gewähren ihm fortan Lager und [Specksuppe](piece_bacon.md), solange er lebt.
+3. Der [Sultan](persona_sultan.md) setzt dem Wolf nach, entreißt ihm das Kind und trägt es als rettender [Wächter](position_guardian.md) heim zum [Bauernhof](place_farm.md), um vor den [Dienstherren](persona_mastery.md) die Heldentat zu stellen.
+4. Mit der gestellten Rettung will er die [Dienstherren](persona_mastery.md) das Todesurteil widerrufen lassen und sich Lager und [Specksuppe](piece_bacon.md) auf Lebenszeit zurückgewinnen.
 
 ## Implementation
 
@@ -39,7 +39,7 @@ Sultan ist alt und zahnlos geworden, und die [Dienstherren](persona_mastery.md) 
 
 ## Targets
 
-- [x] Der Pakt mit dem Wolf ist geschlossen
-- [x] Der Wolf raubt das Kind, Sultan rettet es scheinbar
-- [x] Die Dienstherren glauben die Rettung und widerrufen das Todesurteil
-- [x] Sultan gewinnt Platz und Specksuppe zurück
+- [ ] Mit dem Wolf den Pakt zum Raub des Kindes schließen
+- [ ] Den Wolf das Kind auf dem Feld wegtragen lassen, indes die Eltern bei der Arbeit nicht achthaben
+- [ ] Dem Wolf nachsetzen, das Kind entreißen und es als rettender Wächter heimtragen
+- [ ] Die Dienstherren das Todesurteil widerrufen lassen und Lager und Specksuppe zurückgewinnen

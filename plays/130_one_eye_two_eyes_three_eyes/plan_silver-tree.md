@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: die Erlösung durch die weise Frau
@@ -22,24 +22,24 @@ Ein Erlösungsplan der Verachteten: das Vorhaben der [Zweiäuglein](persona_two_
 
 ## Direction
 
-Die [Zweiäuglein](persona_two_eyes.md) ist daheim die [Ausgestoßene](position_outcast.md), in Lumpen gehalten und mit Schlägen genährt, und nun ist auch die [Ziege](piece_goat.md), ihre einzige heimliche Hilfe, geschlachtet. Doch dieselbe [weise Frau](persona_wise_woman.md), die ihr einst den Speisespruch gab, weist ihr nun den Weg aus dem Elend: nicht durch Klage und nicht durch Rache, sondern durch ein stilles [Wunderwachstum](process_growth.md). Was als Verlust der Ziege beginnt, wird durch den vergrabenen Rest der Ziege zum Zeichen, das nur ihr gehorcht, und führt zur [Befreiung](process_liberation.md) durch den vorüberreitenden [Ritter](persona_knight.md).
+Die [Zweiäuglein](persona_two_eyes.md) ist daheim die [Ausgestoßene](position_outcast.md), in Lumpen gehalten und mit Schlägen genährt, und nun ist auch die [Ziege](piece_goat.md), ihre einzige heimliche Hilfe, geschlachtet. Doch dieselbe [weise Frau](persona_wise_woman.md), die ihr einst den Speisespruch gab, weist ihr nun den Weg aus dem Elend: nicht durch Klage und nicht durch Rache, sondern durch ein stilles [Wunderwachstum](process_growth.md). Was als Verlust der Ziege beginnt, soll durch den vergrabenen Rest der Ziege zum Zeichen werden, das nur ihr gehorcht, und ihr den Weg zur [Befreiung](process_liberation.md) bahnen.
 
 ## Orders
 
 1. Die [Zweiäuglein](persona_two_eyes.md) folgt dem Rat der [weisen Frau](persona_wise_woman.md) und vergräbt die Eingeweide der geschlachteten [Ziege](piece_goat.md) vor der Tür des [Zuhauses](place_home.md).
-2. Über Nacht wächst durch [Wunderwachstum](process_growth.md) ein [Apfelbaum](piece_enchanted_tree.md) mit silbernen Blättern und goldenen Früchten empor, dessen Äste sich nur der [Zweiäuglein](persona_two_eyes.md) neigen, während Einäuglein und Dreiäuglein leer greifen.
-3. Als der [Ritter](persona_knight.md) vorüberkommt, verbergen die Schwestern die [Zweiäuglein](persona_two_eyes.md) unter einem [Fass](piece_cask.md), doch nur sie kann ihm einen [goldenen Apfel](piece_golden_apple.md) vom Baum brechen.
-4. Der [Ritter](persona_knight.md) erkennt und begehrt sie, hebt sie zur Braut und führt sie aus dem [Zuhause](place_home.md) fort: die [Befreiung](process_liberation.md) der Ausgestoßenen ist vollbracht.
+2. Sie weckt über Nacht durch [Wunderwachstum](process_growth.md) einen [Apfelbaum](piece_enchanted_tree.md) mit silbernen Blättern und goldenen Früchten, dessen Äste sich nur ihr neigen sollen, um sich ein Zeichen zu schaffen, das allein ihr gehorcht.
+3. Als der [Ritter](persona_knight.md) vorüberkommt, will sie ihm trotz des [Fasses](piece_cask.md), unter dem die Schwestern sie verbergen, einen [goldenen Apfel](piece_golden_apple.md) vom Baum brechen, den nur sie pflücken kann.
+4. Sie bietet dem [Ritter](persona_knight.md) den goldenen Apfel, um seine Gunst zu gewinnen und als seine Braut die [Befreiung](process_liberation.md) aus dem [Zuhause](place_home.md) zu erlangen.
 
 ## Implementation
 
-- Der Plan rechnet mit der [weisen Frau](persona_wise_woman.md), deren Rat die tote [Ziege](piece_goat.md) in den wundersamen [Apfelbaum](piece_enchanted_tree.md) wandelt.
-- Er rechnet damit, dass der Baum allein der [Zweiäuglein](persona_two_eyes.md) gehorcht: das Zeichen scheidet die Verachtete sichtbar von den Neidischen und zieht den [Ritter](persona_knight.md) auf sie.
-- Er rechnet nicht mit Vergeltung an den Schwestern; die erhöhte [Zweiäuglein](persona_two_eyes.md) nimmt die bettelnden Einäuglein und Dreiäuglein später sogar gütig wieder auf.
+- Der Plan rechnet mit der [weisen Frau](persona_wise_woman.md), deren Rat die tote [Ziege](piece_goat.md) in den wundersamen [Apfelbaum](piece_enchanted_tree.md) wandeln soll.
+- Er rechnet damit, dass der Baum allein der [Zweiäuglein](persona_two_eyes.md) gehorcht: das Zeichen soll die Verachtete sichtbar von den Neidischen scheiden und den [Ritter](persona_knight.md) auf sie ziehen.
+- Er setzt nicht auf Klage noch Rache, sondern allein auf das stille Wunder, das die Ausgestoßene aus der Not erheben soll.
 
 ## Targets
 
-- [x] Die Eingeweide der Ziege sind nach dem Rat der weisen Frau vergraben
-- [x] Der silbern-goldene Apfelbaum ist erwachsen und gehorcht nur Zweiäuglein
-- [x] Zweiäuglein bricht dem Ritter den goldenen Apfel trotz des Fasses
-- [x] Der Ritter nimmt sie zur Braut und führt sie in die Befreiung
+- [ ] Nach dem Rat der weisen Frau die Eingeweide der Ziege vor der Tür vergraben
+- [ ] Aus dem vergrabenen Rest den silbern-goldenen Apfelbaum erwecken, der nur ihr gehorcht
+- [ ] Dem vorüberreitenden Ritter trotz des Fasses einen goldenen Apfel brechen
+- [ ] Durch das Zeichen des Baumes die Befreiung aus dem Zuhause erlangen

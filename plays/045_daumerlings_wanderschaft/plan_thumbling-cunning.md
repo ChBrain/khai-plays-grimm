@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: die List des Däumlings
@@ -29,8 +29,7 @@ Der daumengroße Schneidersohn zieht als [Reisender](position_traveler.md) in di
 1. Der [Däumling](persona_thumbling.md) erhält sein [Nadelschwert](piece_needle_sword.md) und zieht aus dem [Elternhaus](place_home.md) auf die [Wanderschaft](process_travels.md).
 2. In der [Werkstatt](place_workshop.md) verkriecht er sich in ein Mauseloch, verspottet die Meisterfrau und entgeht ihrem jagenden Wischtuch.
 3. Den [Räubern](persona_robbers.md) hilft er als [Komplize](position_accomplice.md) beim [Schatzdiebstahl](process_heist.md), indem er durchs Gitter der [Schatzkammer](place_treasury.md) kriecht und die [Goldmünzen](piece_gold_coins.md) ungesehen hinauswirft.
-4. Von Kuh und Wolf als [Beute](position_prey.md) verschlungen, lärmt er aus dem [Magen](place_stomach.md) heraus, lenkt die [Gegner](persona_antagonists.md) und führt den gierigen Wolf zum [Elternhaus](place_home.md).
-5. Dort schlachten die [Eltern](persona_parents.md) das Tier, und die [Befreiung](process_deliverance.md) gelingt: der Däumling kehrt heim und wird glücklich wieder aufgenommen.
+4. Von Kuh und Wolf als [Beute](position_prey.md) verschlungen, lärmt er aus dem [Magen](place_stomach.md) heraus, lenkt die [Gegner](persona_antagonists.md) und führt den gierigen Wolf zum [Elternhaus](place_home.md), damit die [Eltern](persona_parents.md) das Tier schlachten und die [Befreiung](process_deliverance.md) ihn heimbringt.
 
 ## Implementation
 
@@ -40,7 +39,7 @@ Der daumengroße Schneidersohn zieht als [Reisender](position_traveler.md) in di
 
 ## Targets
 
-- [x] Aus dem Mauseloch ist der Meister verspottet und das Wischtuch entgangen
-- [x] Die Goldmünzen sind durchs Gitter geworfen und der Schatzdiebstahl geglückt
-- [x] Aus dem Magen von Kuh und Wolf sind die Gegner gelenkt und genarrt
-- [x] Der Wolf ist heimgeführt und die Befreiung im Elternhaus gelungen
+- [ ] Sich ins Mauseloch verkriechen, den Meister verspotten und dem Wischtuch entgehen
+- [ ] Durchs Gitter der Schatzkammer kriechen und die Goldmünzen ungesehen hinauswerfen
+- [ ] Aus dem Magen von Kuh und Wolf heraus die Gegner lenken und narren
+- [ ] Den gierigen Wolf zum Elternhaus führen und heil heimkehren

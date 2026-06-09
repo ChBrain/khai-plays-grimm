@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: das schweigende Nähen
@@ -28,18 +28,18 @@ Das Schwesterchen hat keine Macht und keine Stimme, die sie erheben dürfte, nur
 
 1. Das [Schwesterchen](persona_sister.md) gelobt in der [Räuberhütte](place_robbers-hut.md) das [Schweigen](process_silence.md), steigt auf den [Baum](place_tree.md) und beginnt das [Nessel-Nähen](process_nettle-sewing.md) der Hemden aus Sternblumen.
 2. Sie hält ihr Schweigen, als des zweiten Königs Jäger sie als [Stumme](position_mute.md) zum [Königshof](place_court.md) bringen und sie zur Königin machen, und näht unbeirrt weiter.
-3. Sie schweigt durch jede [Verleumdung](process_slander.md) und durch das [Gericht](process_judging.md), das sie zum [Scheiterhaufen](place_pyre.md) verurteilt, und vollendet fünf Hemden und fast das sechste.
-4. Am Tag des Feuers wirft sie die [verzauberten Hemden](piece_enchanted-shirts.md) über die niedersinkenden Schwäne und vollzieht die [Flucherlösung](process_curse-breaking.md), doch am jüngsten fehlt der linke Ärmel.
+3. Sie schweigt durch jede [Verleumdung](process_slander.md) und durch das [Gericht](process_judging.md), das sie zum [Scheiterhaufen](place_pyre.md) verurteilt, und näht die sechs Hemden weiter zu Ende.
+4. Am Tag des Feuers wirft sie die [verzauberten Hemden](piece_enchanted-shirts.md) über die niedersinkenden Schwäne, um die [Flucherlösung](process_curse-breaking.md) zu vollziehen.
 
 ## Implementation
 
-- Der Plan rechnet damit, dass das [Schweigen](process_silence.md) sechs Jahre ungebrochen halte, und sie hält es bis zum letzten Augenblick auf dem Holz.
+- Der Plan rechnet damit, dass das [Schweigen](process_silence.md) sechs Jahre ungebrochen halte, durch Hof, Anklage und [Scheiterhaufen](place_pyre.md), ohne ein einziges Wort.
 - Er rechnet mit der Kraft der [verzauberten Hemden](piece_enchanted-shirts.md), die im Niederfallen die [Schwanenhäute](piece_swan-skins.md) von den [Brüdern](persona_brothers.md) lösen.
-- Er rechnet nicht mit der knappen Frist: weil der [unfertige Ärmel](piece_unfinished-sleeve.md) am letzten Hemd fehlt, behält der jüngste Bruder einen Schwanenflügel statt des Arms.
+- Er rechnet darauf, dass die Nadel die knappe Frist gewinne: sechs Hemden aus Sternblumen, ehe das Gelübde endet, sind der einzige Schlüssel, der die [Brüder](persona_brothers.md) erlösen kann.
 
 ## Targets
 
-- [x] Das Schweigen ist sechs Jahre lang ungebrochen gehalten
-- [x] Fünf Hemden und fast das sechste sind genäht
-- [x] Die Hemden lösen den Schwanenzauber von den Brüdern
-- [F] Ein Ärmel bleibt unfertig, der jüngste behält einen Schwanenflügel
+- [ ] In der Räuberhütte das Gelübde ablegen und das Nessel-Nähen der sechs Hemden beginnen
+- [ ] Das Schweigen sechs Jahre lang ungebrochen halten, durch Hof, Verleumdung und Gericht
+- [ ] Die sechs Hemden aus Sternblumen vor dem Ende der Frist vollenden
+- [ ] Am Tag des Feuers die Hemden über die Schwäne werfen und die Flucherlösung vollziehen

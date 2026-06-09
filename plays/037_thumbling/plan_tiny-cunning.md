@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: die List des Winzlings
@@ -29,7 +29,7 @@ Daumesdick ist so klein wie ein Daumen und hat keine Hand, die einen Zaum hält,
 1. [Daumesdick](persona_thumbling.md) setzt sich ins [Pferdeohr](piece_horse_ear.md) und lenkt den Wagen seines Vaters in den [Wald](place_forest.md), während die [Fremden](persona_strangers.md) staunen.
 2. Er lässt sich für gutes [Geld](piece_money.md) als [Ware](position_merchandise.md) an die [Fremden](persona_strangers.md) verkaufen und entwischt ihnen bei der Rast in ein Mauseloch.
 3. Er schließt sich als scheinbarer [Komplize](position_accomplice.md) den [Dieben](persona_thieves.md) an und vereitelt den [Pfarrhaus-Einbruch](process_robbery.md) mutwillig, indem er die Magd durch lautes Schreien weckt.
-4. Er verbirgt sich im [Heu](piece_hay.md), wird erst von der [Kuh](piece_cow.md) und nach deren Schlachtung vom [Wolf](piece_wolf.md) verschluckt.
+4. Er verbirgt sich im [Heu](piece_hay.md) und lässt sich von der [Kuh](piece_cow.md) und vom [Wolf](piece_wolf.md) verschlucken, um deren Bauch zum Fahrzeug zu machen.
 5. Er lockt den [Wolf](piece_wolf.md) in die Vorratskammer des [Bauernhauses](place_parents_house.md), macht lautstark Lärm und steuert die [Verschluckung und Rettung](process_swallowing.md) so, dass er aus dem erlegten Tier befreit wird.
 
 ## Implementation
@@ -40,8 +40,8 @@ Daumesdick ist so klein wie ein Daumen und hat keine Hand, die einen Zaum hält,
 
 ## Targets
 
-- [x] Der Wagen ist aus dem Pferdeohr in den Wald gelenkt
-- [x] Daumesdick ist als Ware verkauft und den Fremden entwischt
-- [x] Der Pfarrhaus-Einbruch ist durch lautes Schreien vereitelt
-- [x] Kuh und Wolf haben den im Heu Schlafenden verschluckt
-- [x] Der Wolf ist heimgesteuert und Daumesdick aus dem Tier befreit
+- [ ] Den Wagen aus dem Pferdeohr in den Wald lenken
+- [ ] Sich als Ware verkaufen lassen und den Fremden entwischen
+- [ ] Den Pfarrhaus-Einbruch durch lautes Schreien vereiteln
+- [ ] Sich im Heu verbergen und von Kuh und Wolf verschlucken lassen
+- [ ] Den Wolf ins Bauernhaus heimsteuern und sich aus dem Tier befreien lassen

@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: Sieben auf einen Streich
@@ -30,7 +30,7 @@ Der Schneider hat keinen Arm, der einen Riesen wirft, und keine Klinge, die ein 
 2. Es überlistet die [Riesen](persona_giants.md): es drückt einen [Käse](piece_cheese.md) statt eines Steins zu Wasser, lässt einen [Vogel](piece_bird.md) weiter fliegen als ihren geschleuderten Stein, trägt scheinbar den schweren Stamm und entgeht dem nächtlichen Mordschlag im Bett.
 3. Es bannt die [Fabeltiere](persona_beasts.md): das Einhorn rammt sein [Horn](piece_horn.md) in die Eiche, der Eber tappt in den [Käfig](piece_boar-trap.md) der Waldkapelle.
 4. Es besteht am [Königshof](place_castle.md) die [Heldenprüfung](process_trial.md) des [Königs](persona_king.md), erlangt die [Königstochter](persona_princess.md) und das halbe Reich.
-5. Es durchkreuzt den nächtlichen Anschlag der [Königstochter](persona_princess.md), entlarvt die Häscher durch lautes Prahlen im Schlaf und sichert sich als [Königsschwager](position_ruler.md) die [Erhebung](process_triumph.md).
+5. Es will den nächtlichen Anschlag der [Königstochter](persona_princess.md) durchkreuzen, die Häscher durch lautes Prahlen im Schlaf verschrecken und sich als [Königsschwager](position_ruler.md) die [Erhebung](process_triumph.md) sichern.
 
 ## Implementation
 
@@ -40,8 +40,8 @@ Der Schneider hat keinen Arm, der einen Riesen wirft, und keine Klinge, die ein 
 
 ## Targets
 
-- [x] Die Tat ist auf den Gürtel gestickt und der Ruf in die Welt getragen
-- [x] Die Riesen sind mit Käse, Vogel und Bett-List überwunden
-- [x] Einhorn und Eber sind durch List gebannt
-- [x] Die Königstochter und das halbe Reich sind durch die bestandene Prüfung gewonnen
-- [x] Der nächtliche Anschlag ist durch lautes Prahlen vereitelt und die Herrschaft gesichert
+- [ ] Die Tat auf den Gürtel sticken und den Ruf als Held in die Welt tragen
+- [ ] Die Riesen mit Käse, Vogel und Bett-List überlisten
+- [ ] Einhorn und Eber durch List bannen
+- [ ] Am Königshof die Heldenprüfung bestehen und die Königstochter samt halbem Reich gewinnen
+- [ ] Den nächtlichen Anschlag durch lautes Prahlen durchkreuzen und die Herrschaft sichern

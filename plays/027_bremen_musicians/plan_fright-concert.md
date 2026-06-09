@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: das Schreckkonzert
@@ -36,12 +36,12 @@ Kein einzelnes Tier kann das Haus nehmen: der [Esel](persona_donkey.md) ist alt,
 
 - Der Plan rechnet mit dem gemeinsamen Lärm und der Furcht, die ein falsch geratenes Ungetüm sät, nicht mit Zahn und Kralle.
 - Er rechnet damit, dass die [Räuber](persona_robbers.md) im Dunkeln das Getöse für ein Grauen halten und vor dem bloßen Schein die Beute räumen.
-- Er rechnet damit, dass der zurückgeschickte Späher die Schläge am [Herd](piece_fireplace.md), die Krallen und den Knüppel zu einem Heer von Schrecken zusammenfügt und die Seinen für immer verscheucht.
+- Er rechnet darauf, dass ein zurückgeschickter Späher die Schläge am [Herd](piece_fireplace.md), die Krallen und den Knüppel zu einem Heer von Schrecken zusammenfügen soll, das die Seinen vom Haus fernhält.
 
 ## Targets
 
-- [x] Die vier Tiere haben sich zusammengetan und ziehen als Musikanten
-- [x] Das Licht des Räuberhauses ist erspäht und das Haus zur Beute bestimmt
-- [x] Die Räuber sind durch das Schreckkonzert in die Flucht geschlagen
-- [x] Der heimkehrende Späher ist vertrieben und glaubt das Haus besessen
-- [x] Das Haus ist als neues Heim besetzt
+- [ ] Sich als Musikanten zusammentun und gen Bremen ziehen
+- [ ] Das Licht des Räuberhauses erspähen und das Haus zur Beute bestimmen
+- [ ] Sich am Fenster übereinandertürmen und das Schreckkonzert losbrechen
+- [ ] Die Räuber durch das geratene Ungetüm in die Nacht treiben
+- [ ] Den heimkehrenden Späher schlagen und das Haus als neues Heim besetzen

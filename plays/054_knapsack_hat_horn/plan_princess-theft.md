@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: der Raub der Prinzessin
@@ -34,11 +34,11 @@ Die [Prinzessin](persona_princess.md) ward dem Unscheinbaren wider Willen zur Fr
 ## Implementation
 
 - Der Plan rechnet mit der Verliebtheit des [Bruders](persona_brother.md), der sein Geheimnis aus Schwäche preisgibt, und mit der Macht des gestohlenen [Ranzens](piece_knapsack.md).
-- Er rechnet nicht mit dem [Hörnlein](piece_horn.md), das dem Vertriebenen verblieb und auf das es bei aller Beute nicht ansah.
-- Der Verrat kehrt sich um: Mit dem einen verbliebenen Horn bläst der Vertriebene die [Zerstörung](process_destruction.md) über Schloss und Raub, und die Diebin verliert mit dem Reich auch den Raub.
+- Er setzt darauf, dass mit [Ranzen](piece_knapsack.md) und [Hütlein](piece_hat.md) die ganze Soldatenmacht in ihre Hand fällt und der Entwaffnete wie ein Bettler dasteht.
+- Die [Diebin](position_thief.md) baut darauf, dass der Vertriebene ohne seine Waffen keinen [Verrat](process_betrayal.md) mehr vergelten kann.
 
 ## Targets
 
-- [x] Das Geheimnis des Ranzens ist dem Bruder entlockt
-- [x] Ranzen und Hütlein sind gestohlen, der Bruder ist aus dem Schloss vertrieben
-- [F] Der Entwaffnete bleibt machtlos (das Hörnlein blieb ihm und reißt das Reich nieder)
+- [ ] Dem Bruder das Geheimnis des Ranzens entlocken
+- [ ] Ranzen und Hütlein im Schlaf stehlen und den Bruder aus dem Schloss treiben lassen
+- [ ] Dem Vater das Reich sichern und sich des entwaffneten Gemahls entledigen

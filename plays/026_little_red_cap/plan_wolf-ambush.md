@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: der Hinterhalt des Wolfes
@@ -29,17 +29,17 @@ Der Wolf trifft die kleine [Botin](persona_red_cap.md) im [Wald](place_forest.md
 1. Der [Wolf](persona_wolf.md) trifft [Rotkäppchen](persona_red_cap.md) im [Wald](place_forest.md) und hält sie durch die [Verführung](process_temptation.md) zum Blumenpflücken auf, während er den kürzeren Weg nimmt.
 2. Er eilt voraus zum [Großmutterhaus](place_cottage.md), gibt sich für das Kind aus und verschlingt die [Großmutter](persona_grandmother.md).
 3. Er zieht ihre [Kappe](piece_cap.md) und ihr Gewand an, legt sich in das [Bett](piece_bed.md) und erwartet die ahnungslose [Botin](position_messenger.md).
-4. Als [Rotkäppchen](persona_red_cap.md) eintritt und sich über die fremde Gestalt wundert, fährt er als [Verführer](position_predator.md) auf und vollzieht an ihr die [Verschlingung](process_consumption.md).
+4. Sobald [Rotkäppchen](persona_red_cap.md) ans Lager tritt, fährt er als [Verführer](position_predator.md) auf, um an ihr die [Verschlingung](process_consumption.md) zu vollziehen.
 
 ## Implementation
 
 - Der Plan rechnet mit der Sorglosigkeit des Kindes, das sich durch die [Verführung](process_temptation.md) gern vom Pfade locken lässt, sodass dem Wolf die Zeit zum Voraussprung bleibt.
 - Er rechnet mit der [Kappe](piece_cap.md) und dem [Bett](piece_bed.md) der [Großmutter](persona_grandmother.md), deren Verkleidung den Argwohn des Mädchens nur zögernd weckt.
-- Er rechnet nicht mit dem [Jäger](persona_huntsman.md), der das Schnarchen des satten Schläfers hört: was im Bauche lebt, holt die [Rettung](process_rescue.md) wieder heraus, und der Raub wird zum eigenen Tod.
+- Er rechnet darauf, dass die Verstellung als Greisin das Kind ans Lager lockt, ehe es die fremde Gestalt durchschaut.
 
 ## Targets
 
-- [x] Das Mädchen ist durch die Blumen vom Wege aufgehalten
-- [x] Die Großmutter ist vorausgeeilt verschlungen
-- [x] Rotkäppchen ist im verkleideten Lager ebenfalls verschlungen
-- [F] Der Wolf behält seinen Raub (vom Jäger aufgeschnitten, mit Steinen gefüllt)
+- [ ] Das Mädchen durch die Blumen vom Wege aufhalten und ihm vorauseilen
+- [ ] Der Großmutter vorauskommen und sie verschlingen
+- [ ] In Kappe und Bett der Greisin auf die ahnungslose Botin warten
+- [ ] Rotkäppchen am verkleideten Lager ebenfalls verschlingen

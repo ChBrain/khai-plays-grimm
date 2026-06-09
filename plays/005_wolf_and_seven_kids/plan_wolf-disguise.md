@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: der Trug des Wolfes
@@ -22,24 +22,24 @@ Ein Raubplan der Gier: das Vorhaben des [Wolfes](persona_wolf.md), Stimme und Pf
 
 ## Direction
 
-Der Wolf weiß, dass die Kinder ihn an der rauhen Stimme und der schwarzen Pfote erkennen, denn die [Verwarnung](process_warning.md) der Mutter hat ihn beschrieben, ehe er klopfte. So sinnt er nicht auf Gewalt an verriegelter Tür, sondern auf [Täuschung](process_deception.md): er macht sich zur Mutter, die er nicht ist. Was zweimal an der Wahrheit seines Leibes scheitert, soll beim dritten Mal durch falschen Schein gelingen, bis die arme Schar das Schloss aus eigener Hand zurückzieht.
+Der Wolf weiß, dass die Kinder ihn an der rauhen Stimme und der schwarzen Pfote erkennen, denn die [Verwarnung](process_warning.md) der Mutter hat ihn beschrieben, ehe er klopfte. So sinnt er nicht auf Gewalt an verriegelter Tür, sondern auf [Täuschung](process_deception.md): er macht sich zur Mutter, die er nicht ist. Er will durch falschen Schein, süße Stimme und helle Tatze, jeden Verdacht zerstreuen, bis die arme Schar das Schloss aus eigener Hand zurückzieht.
 
 ## Orders
 
-1. Der [Wolf](persona_wolf.md) klopft am [Geißenhaus](place_goat-house.md) und gibt sich für die Mutter aus, doch seine rauhe Stimme verrät ihn, und die Kinder weisen ihn ab.
-2. Er verschluckt Kreide, um die Stimme süß und fein zu machen, kehrt zurück, doch die schwarze Pfote auf der Fensterbank entlarvt ihn abermals.
-3. Er taucht beim Bäcker die Pfote in Mehl, sodass sie weiß wird als die [weißbemehlte Pfote](piece_whitened-paw.md), und mit weicher Stimme und heller Tatze überwindet er die [Täuschung](process_deception.md) und wird eingelassen.
-4. Er stürzt herein und verschlingt sechs der [Geißlein](persona_seven-kids.md) als [Freßfeind](position_predator.md); nur das [jüngste Geißlein](persona_youngest-kid.md) in der [Wanduhr](place_clock-case.md) entgeht ihm.
+1. Der [Wolf](persona_wolf.md) klopft am [Geißenhaus](place_goat-house.md) und gibt sich für die Mutter aus, um Einlass zu erlangen.
+2. Er verschluckt Kreide, um die Stimme süß und fein zu machen, und kehrt zurück, um abermals Einlass zu begehren.
+3. Er taucht beim Bäcker die Pfote in Mehl, sodass sie weiß wird als die [weißbemehlte Pfote](piece_whitened-paw.md), und tritt mit weicher Stimme und heller Tatze als die [Täuschung](process_deception.md) auf, um sich Einlass zu erschleichen.
+4. Er stürzt herein, um die [Geißlein](persona_seven-kids.md) als [Freßfeind](position_predator.md) zu verschlingen.
 
 ## Implementation
 
 - Der Plan rechnet mit der süßen Stimme und der [weißbemehlten Pfote](piece_whitened-paw.md), die die Zeichen der Mutter so genau nachahmen, dass die Kinder die Warnung vergessen.
-- Er rechnet nicht mit dem [jüngsten Geißlein](persona_youngest-kid.md), das sich in die [Wanduhr](place_clock-case.md) duckt und der heimkehrenden [Mutter Geiß](persona_mother-goat.md) den Hergang verrät.
-- Er rechnet nicht damit, dass die ganz hinuntergeschluckte Beute im Bauch noch lebt: die [Aufschneidung](process_cutting-open.md) holt sie heraus, und das [Ertrinken](process_drowning.md) am [Brunnen](place_well.md) macht den Trug zunichte.
+- Er rechnet mit der Gier, die Beute ganz hinunterzuschlingen, ehe die Mutter heimkehrt.
+- Er rechnet darauf, dass die verriegelte Tür allein durch List fällt und kein Geißlein das Zeichen durchschaut.
 
 ## Targets
 
-- [x] Mit süßer Stimme und weißer Pfote ist die Tür geöffnet
-- [x] Sechs der sieben Geißlein sind verschlungen
-- [F] Die Beute bleibt im Bauch (lebendig herausgeschnitten, Steine an ihrer Statt)
-- [F] Der Wolf entkommt mit seinem Raub (am Brunnen ertränkt)
+- [ ] Durch die rauhe Stimme nicht verraten werden: die Stimme süß und fein machen
+- [ ] Die schwarze Pfote weiß bemehlen, dass sie der Mutter Tatze gleicht
+- [ ] Mit süßer Stimme und weißer Pfote die Tür des Geißenhauses öffnen lassen
+- [ ] In das Haus stürzen und die Geißlein verschlingen

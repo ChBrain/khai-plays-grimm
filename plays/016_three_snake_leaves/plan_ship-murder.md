@@ -7,14 +7,14 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: der Mord auf hoher See
 
 ## Taxonomy
 
-Ein Verratsplan der erloschenen Liebe: das Vorhaben der [Prinzessin](persona_princess.md), den Gatten, der sie aus dem [Grabgewölbe](place_vault.md) ins Leben zurückholte, mit dem [König](persona_king.md) heimlich zu beseitigen. Es gibt keinen Gegenplan; der treulose Anschlag rechnet nicht mit der Wachsamkeit des [Dieners](persona_servant.md), der dieselbe Macht der [Wiederbelebung](process_resurrection.md) bewahrt, die ihn rettete.
+Ein Verratsplan der erloschenen Liebe: das Vorhaben der [Prinzessin](persona_princess.md), den Gatten, der sie aus dem [Grabgewölbe](place_vault.md) ins Leben zurückholte, mit dem [König](persona_king.md) heimlich zu beseitigen. Der treulose Anschlag setzt darauf, dass ein Schlafender auf hoher See keinen Zeugen hat und der Verratene spurlos im Meer verschwindet.
 
 ## Owner
 
@@ -35,11 +35,11 @@ Die wieder Erweckte fühlt keine Dankbarkeit, sondern Überdruss: kaum dem Tode 
 
 - Der Plan rechnet mit dem Wein, der den Wachen einschläfert, und mit dem tiefen Meer, das den Leib verschlingt und keine Spur lässt.
 - Er rechnet mit der Macht des Vaters, der jede Klage niederhält und die Schuld der Tochter deckt.
-- Er rechnet nicht mit dem [Diener](persona_servant.md), der die [Schlangenblätter](piece_snake-leaves.md) verwahrt, den Ertrunkenen birgt und durch die [Wiederbelebung](process_resurrection.md) wieder erweckt, so dass der Verrat vor den [König](persona_king.md) tritt.
+- Er setzt darauf, dass kein Zeuge und kein Leichnam bleibe, sodass der Gatte ohne Frage für verschollen gelte.
 
 ## Targets
 
-- [x] Der Gatte ist unter dem Schein der Eintracht auf das Schiff gelockt
-- [x] Der Schlafende ist über Bord ins Meer geworfen
-- [F] Die Tat ist als Verschollenheit verborgen geblieben (der Diener birgt und erweckt ihn)
-- [F] Die Prinzessin ist den treuen Gatten ledig (die Schlangenblätter wenden den Mord)
+- [ ] Den Gatten unter dem Schein der Eintracht auf das Schiff locken
+- [ ] Ihn mit Wein trunken machen und den Schlaf abwarten
+- [ ] Den Schlafenden über Bord ins tiefe Meer werfen
+- [ ] Den Gatten als verschollen ausgeben und die Tat als Unglück verbergen

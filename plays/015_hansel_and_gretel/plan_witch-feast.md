@@ -7,7 +7,7 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-06-09"
-status: closed
+status: active
 ---
 
 # Plan: der Fraß im Zuckerhaus
@@ -33,13 +33,13 @@ Die Alte ist blind und schwach von Auge, doch fein von Witterung wie ein Tier, u
 
 ## Implementation
 
-- Der Plan rechnet mit dem Hunger der Kinder und der süßen Lockung des [Zuckerhäuschens](place_gingerbread-house.md), nicht mit ihrer List.
-- Er rechnet nicht mit dem [Knöchelchen](piece_bone.md), das der blinden Hexe den fetten Finger vortäuscht und die Mast endlos in die Länge zieht.
-- Er rechnet nicht damit, dass die Beute am [Backofen](piece_oven.md) klüger fragt als die Jägerin: der [Hexentod](process_destruction.md) verschlingt die Fresserin in ihrer eigenen Glut.
+- Der Plan rechnet mit dem Hunger der Kinder und der süßen Lockung des [Zuckerhäuschens](place_gingerbread-house.md), die jedes Hungerkind sorglos herbeiziehen soll.
+- Er rechnet darauf, daß der getastete Finger des Knaben die Mast zuverlässig anzeigt und die Schlachtstunde bestimmt.
+- Er rechnet darauf, daß die hungrige Beute am [Backofen](piece_oven.md) gehorsam in die Glut kriecht, wenn die Jägerin es heißt.
 
 ## Targets
 
-- [x] Die Kinder sind mit dem Zuckerhaus geködert und eingelassen
-- [x] Hänsel ist im Stall gefangen, Gretel an den Herd gezwungen
-- [F] Der Knabe ist zum Schlachten gemästet (durch das Knöchelchen getäuscht)
-- [F] Die Kinder sind im Backofen gebacken (die Hexe selbst verbrennt darin)
+- [ ] Die Kinder mit dem Zuckerhaus ködern und einlassen
+- [ ] Hänsel in den Stall sperren und Gretel an den Herd zwingen
+- [ ] Den Knaben zum Schlachten mästen
+- [ ] Die Kinder im Backofen backen und verzehren
