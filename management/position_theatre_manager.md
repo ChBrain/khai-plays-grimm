@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "The Theatre Manager"
-declared: "The Theatre Manager"
+language: english
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

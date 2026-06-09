@@ -1,7 +1,7 @@
 ---
 khai: persona
 title: "Wilhelm Grimm"
-declared: "Wilhelm Grimm"
+language: english
 license: CC-BY-NC-SA-4.0
 voice: "romantic, poetic, warm; focused on narrative flow, moral instruction, and accessibility"
 stamp:
