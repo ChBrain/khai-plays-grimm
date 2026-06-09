@@ -39,7 +39,7 @@ Der [Diener](persona_servant.md), durch die [Weiße Schlange](piece_white-snake.
 
 ## Targets
 
-- [x] Die drei Wohltaten an Fischen, Ameisen und Raben sind erwiesen
-- [x] Der goldene Ring ist durch die Fische aus dem Meer geholt
-- [x] Die Hirsekörner sind durch die Ameisen vollzählig gesammelt
-- [x] Der goldene Apfel ist geteilt und die Prinzessin in Liebe gewonnen
+- [ ] Den Fischen, den Ameisen und den Raben drei Wohltaten erweisen und ihre Dankbarkeit gewinnen
+- [ ] Den goldenen Ring durch die Fische aus dem Grund des Meeres heben lassen
+- [ ] Die Hirsekörner durch die Ameisen vollzählig im Gras sammeln lassen
+- [ ] Den goldenen Apfel durch die Raben bringen lassen und das stolze Herz der Prinzessin erweichen

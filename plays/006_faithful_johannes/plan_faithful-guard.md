@@ -35,11 +35,11 @@ Johannes ist der [treue Diener](position_faithful-servant.md), an das [Sterbever
 
 - Der Plan rechnet mit der goldenen Lockung, die die [Königstochter](persona_princess.md) ohne Zwang auf das [Schiff](place_ship.md) führt, und mit der Liebe, die das [Bildnis](piece_portrait.md) entzündet hat.
 - Er rechnet mit dem stummen Handeln gegen die drei Zeichen und nimmt in Kauf, dass der unwissende König den Retter für einen Frevler hält.
-- Er rechnet nicht damit, sich rechtfertigen zu können, ohne das Schweigegebot zu brechen: das Geständnis rettet die Ehre, doch es kostet das Leben und nur das Opfer des Königs in der [Erlösung](process_redemption.md) gibt es zurück.
+- Er weiß, dass er sich nicht rechtfertigen kann, ohne das Schweigegebot zu brechen, und ist bereit, den Preis der [Versteinerung](process_petrification.md) zu tragen, ehe er die Treue verrät.
 
 ## Targets
 
-- [x] Die Königstochter ist mit dem goldenen Gerät gewonnen und heimgeführt
-- [x] Die drei geweissagten Gefahren sind allesamt stumm abgewendet
-- [F] Das gebrochene Schweigen verwandelt Johannes auf dem Schafott zu Stein
-- [W] Das Blut der Königssöhne erlöst ihn zuletzt, doch erst durch fremdes Opfer
+- [ ] Die Königstochter mit dem goldenen Gerät an Bord locken und dem König heimführen
+- [ ] Die drei Weissagungen der Raben durch Lauschen erfahren
+- [ ] Jede der drei Gefahren stumm abwenden, ohne das Schweigegebot zu brechen
+- [ ] Den Schein des Verräters auf sich nehmen, damit der König lebe

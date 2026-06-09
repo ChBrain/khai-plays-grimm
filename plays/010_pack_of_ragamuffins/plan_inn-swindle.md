@@ -39,7 +39,7 @@ Das [Hähnchen](persona_rooster.md) und das [Hühnchen](persona_hen.md) sind kei
 
 ## Targets
 
-- [x] Der Wirt ist durch das Ei und die Eierschalen zur Aufnahme bestochen
-- [x] Die Gesellschaft hat in der Nacht auf des Wirts Kosten geschmaust
-- [x] Stecknadel und Nähnadel sind als Falle in Handtuch und Sessel gesteckt
-- [x] Die Diebe sind vor Tagesanbruch ungestraft entwischt, der Wirt zerstochen
+- [ ] Den Wirt mit dem Ei und den Eierschalen zur Aufnahme bestechen
+- [ ] In der Nacht heimlich auf des Wirts Kosten zechen und schmausen
+- [ ] Stecknadel und Nähnadel als Falle in Handtuch und Lehnsessel stecken
+- [ ] Vor Tagesanbruch ungestraft entwischen und dem Wirt die Stiche überlassen

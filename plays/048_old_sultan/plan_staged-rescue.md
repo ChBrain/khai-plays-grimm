@@ -39,7 +39,7 @@ Sultan ist alt und zahnlos geworden, und die [Dienstherren](persona_mastery.md) 
 
 ## Targets
 
-- [x] Der Pakt mit dem Wolf ist geschlossen
-- [x] Der Wolf raubt das Kind, Sultan rettet es scheinbar
-- [x] Die Dienstherren glauben die Rettung und widerrufen das Todesurteil
-- [x] Sultan gewinnt Platz und Specksuppe zurück
+- [ ] Mit dem Wolf den Pakt zum Raub des Kindes schließen
+- [ ] Den Wolf das Kind auf dem Feld wegtragen lassen, indes die Eltern bei der Arbeit nicht achthaben
+- [ ] Dem Wolf nachsetzen, das Kind entreißen und es als rettender Wächter heimtragen
+- [ ] Die Dienstherren das Todesurteil widerrufen lassen und Lager und Specksuppe zurückgewinnen

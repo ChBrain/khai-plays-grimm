@@ -39,7 +39,7 @@ Die [Schwester](persona_sister.md) trägt eine Schuld, die nicht die ihre ist: u
 
 ## Targets
 
-- [x] Die Schwester ist allein mit dem Ring zur Wandschaft aufgebrochen
-- [x] Das Elfenbeinchen der Sterne ist gewonnen
-- [x] Der eigene Finger ist geopfert und der Glasberg geöffnet
-- [x] Die Brüder erkennen den Ring und sind aus dem Rabenbann erlöst
+- [ ] Allein mit dem Ring zur Wandschaft aufbrechen
+- [ ] Von den Sternen das Elfenbeinchen gewinnen, das den Glasberg öffnet
+- [ ] Den eigenen Finger opfern, um das Tor zu sprengen
+- [ ] Den Ring in den Becher legen und die Brüder aus dem Rabenbann erlösen

@@ -22,7 +22,7 @@ Ein Überlebensplan der Schwachen: das stille Vorhaben von [Hänsel](persona_han
 
 ## Direction
 
-Die Kinder haben weder Brot noch Macht, nur Ohren an der Tür und Witz in der Not. [Hänsel](persona_hansel.md) hört den Anschlag der [Stiefmutter](persona_stepmother.md) und sinnt jedes Mal auf ein Zeichen, das sie aus dem [Wald](place_forest.md) zurückführe; und wo seine List am [Backofen](piece_oven.md) versagt, nimmt [Gretel](persona_gretel.md) den Faden auf und wendet die Falle gegen die Stellerin. Was als kindliche Angst beginnt, reift zur kühlen Klugheit, die den [Hexentod](process_destruction.md) herbeiführt und den [Schatz](piece_treasure.md) heimträgt.
+Die Kinder haben weder Brot noch Macht, nur Ohren an der Tür und Witz in der Not. [Hänsel](persona_hansel.md) hört den Anschlag der [Stiefmutter](persona_stepmother.md) und sinnt jedes Mal auf ein Zeichen, das sie aus dem [Wald](place_forest.md) zurückführe; und wo seine List am [Backofen](piece_oven.md) nicht mehr trägt, soll [Gretel](persona_gretel.md) den Faden aufnehmen und die Falle gegen die Stellerin wenden. Was als kindliche Angst beginnt, soll zur kühlen Klugheit reifen, die den [Hexentod](process_destruction.md) sucht und den [Schatz](piece_treasure.md) heimtragen will.
 
 ## Orders
 
@@ -33,13 +33,13 @@ Die Kinder haben weder Brot noch Macht, nur Ohren an der Tür und Witz in der No
 
 ## Implementation
 
-- Der Plan rechnet mit dem Mondschein auf den [Kieselsteinen](piece_pebbles.md) und der Blindheit der Hexe, die ein [Knöchelchen](piece_bone.md) nicht vom Finger scheidet.
-- Er rechnet nicht mit den Vögeln, die die [Brotkrümel](piece_breadcrumbs.md) fressen: dieser Schritt versagt und treibt die Kinder erst in die Falle.
-- Die wahre Schärfe liegt bei [Gretel](persona_gretel.md), die das [Holzhackerhaus](place_cottage.md) als [Gefangene](position_captive.md) verlässt und als reiche Retterin wiederkehrt.
+- Der Plan rechnet mit dem Mondschein auf den [Kieselsteinen](piece_pebbles.md) und der Blindheit der Hexe, die ein [Knöchelchen](piece_bone.md) nicht vom Finger scheiden soll.
+- Er setzt darauf, daß auch die [Brotkrümel](piece_breadcrumbs.md) eine Spur legen, die aus dem [Wald](place_forest.md) zurückführt.
+- Die wahre Schärfe soll bei [Gretel](persona_gretel.md) liegen, die als [Gefangene](position_captive.md) ins [Holzhackerhaus](place_cottage.md) kommt und auf die Stunde sinnt, als Retterin daraus hervorzugehen.
 
 ## Targets
 
-- [x] Die Kieselspur führt aus dem ersten Wald sicher heim
-- [F] Die Krümelspur ist von den Vögeln gefressen, der Heimweg verloren
-- [x] Das Knöchelchen täuscht die Hexe, die Mast wird hingehalten
-- [x] Die Hexe ist in den Backofen gestoßen, Hänsel befreit, der Schatz heimgetragen
+- [ ] Mit der Kieselspur aus dem ersten Wald heimfinden
+- [ ] Mit der Krümelspur aus dem zweiten Wald den Heimweg zeichnen
+- [ ] Mit dem Knöchelchen die blinde Hexe täuschen und die Mast hinhalten
+- [ ] Die Hexe in den Backofen stoßen, Hänsel befreien und den Schatz heimtragen

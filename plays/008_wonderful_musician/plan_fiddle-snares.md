@@ -35,11 +35,11 @@ Der [Spielmann](persona_musician.md) zieht einsam und sehnt sich nach einem Mens
 
 - Der Plan rechnet mit der Eitelkeit der Tiere, die sein Spiel bewundern und Unterricht begehren, und mit ihrem Vertrauen in den vorgeblichen [Meister](position_master.md).
 - Er rechnet damit, dass jede Falle (die [Eiche](place_oak-tree.md), der [Haselstrauch](place_hazel-bush.md), der [Strick](piece_string.md)) das Tier festhält, ehe es den Betrug durchschaut.
-- Er rechnet nicht mit der Rache der wieder befreiten Tiere, doch der [Schutz](process_protection.md) des [Holzhauers](persona_woodcutter.md) mit erhobener [Axt](piece_axe.md) schlägt sie in die Flucht.
+- Er rechnet darauf, dass die einmal gefesselten Tiere ihm nicht mehr gefährlich werden und er ungehindert seinen wahren [Gefährten](position_companion.md) sucht.
 
 ## Targets
 
-- [x] Der Wolf ist mit dem Keilstein in der gespaltenen Eiche gefangen
-- [x] Der Fuchs ist an den zurückschnellenden Haselzweigen gefesselt
-- [x] Der Hase ist mit dem Strick an der Esche festgebunden
-- [x] Der Spielmann zieht allein weiter und findet im Holzhauer den Gefährten
+- [ ] Den Wolf mit dem Keilstein in der gespaltenen Eiche festsetzen
+- [ ] Den Fuchs an den zurückschnellenden Haselzweigen fesseln
+- [ ] Den Hasen mit dem Strick an der Esche festbinden
+- [ ] Von allem wilden Getier befreit weiterziehen und einen wahren Gefährten finden

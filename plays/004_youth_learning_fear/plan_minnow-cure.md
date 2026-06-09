@@ -39,7 +39,7 @@ Der Gatte hat den [Galgen](place_gallows.md) und das [verwunschene Schloss](plac
 
 ## Targets
 
-- [x] Die leibliche Kur ist anstelle der übernatürlichen Schrecken erkannt und gewählt
-- [x] Der Eimer mit Gründlingen ist kalt aus dem Bach geschöpft
-- [x] Das kalte Wasser ist über den schlafenden Jüngling gegossen
-- [x] Der Jüngling zittert und hat endlich das Gruseln gelernt
+- [ ] Die leibliche Kur anstelle der übernatürlichen Schrecken erkennen und wählen
+- [ ] Den Eimer mit Gründlingen kalt aus dem Bach schöpfen lassen
+- [ ] Das kalte Wasser über den schlafenden Jüngling gießen
+- [ ] Dem Jüngling durch Kälte und zappelnde Fische das Gruseln beibringen

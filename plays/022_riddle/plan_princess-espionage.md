@@ -14,7 +14,7 @@ status: active
 
 ## Taxonomy
 
-Ein Diebesplan des Hochmuts: das Vorhaben der [Rätselprinzessin](persona_princess.md), in drei Nächten ihre Mägde an das Lager des schlafenden Freiers zu schicken, auf dass sie ihm das [Rätselwort](piece_riddle-text.md) entlocken und sie das Rätsel löse, ohne ihren Stolz und ihren Kopf zu verlieren. Es ist der Gegenplan zur [Rätselfalle des Prinzen](plan_riddle-snare.md), der nicht ehrlich rät, sondern die Antwort stiehlt.
+Ein Diebesplan des Hochmuts: das Vorhaben der [Rätselprinzessin](persona_princess.md), in drei Nächten ihre Mägde an das Lager des schlafenden Freiers zu schicken, auf dass sie ihm das [Rätselwort](piece_riddle-text.md) entlocken und sie das Rätsel löse, ohne ihren Stolz und ihren Kopf zu verlieren. Es ist der Gegenplan zur [Rätselfalle des Prinzen](plan_riddle-snare.md): er rät nicht ehrlich, sondern setzt darauf, die Antwort aus dem Schlaf zu stehlen.
 
 ## Owner
 
@@ -22,7 +22,7 @@ Ein Diebesplan des Hochmuts: das Vorhaben der [Rätselprinzessin](persona_prince
 
 ## Direction
 
-Die Prinzessin hat geschworen, nur den zu nehmen, der ihr ein unlösbares Rätsel stelle, und jeden zu köpfen, der scheitere; doch sie hat sich auch vorbehalten, jedes Rätsel mit List zu lösen, ehe der dritte Tag verstreicht. So fürchtet sie den [Königssohn](persona_prince.md) nicht offen, sondern sinnt im Stillen auf [Aushorchung](process_espionage.md): wenn der Mann schläft, soll er im Traume das Wort verraten. Sie schickt ihre Mägde Nacht um Nacht in die Kammer, bis sie glaubt, die Lösung in der Hand zu haben, und merkt nicht, dass der wache [Diener](persona_servant.md) jede Lauscherin zählt.
+Die Prinzessin hat geschworen, nur den zu nehmen, der ihr ein unlösbares Rätsel stelle, und jeden zu köpfen, der scheitere; doch sie hat sich auch vorbehalten, jedes Rätsel mit List zu lösen, ehe der dritte Tag verstreicht. So fürchtet sie den [Königssohn](persona_prince.md) nicht offen, sondern sinnt im Stillen auf [Aushorchung](process_espionage.md): wenn der Mann schläft, soll er im Traume das Wort verraten. Sie schickt ihre Mägde Nacht um Nacht in die Kammer, bis sie die Lösung in der Hand zu haben hofft.
 
 ## Orders
 
@@ -34,12 +34,12 @@ Die Prinzessin hat geschworen, nur den zu nehmen, der ihr ein unlösbares Rätse
 ## Implementation
 
 - Der Plan rechnet damit, dass der Freier wie alle Männer im Schlaf schwatzt und das [Rätselwort](piece_riddle-text.md) preisgibt, ehe der dritte Tag verstreicht.
-- Er rechnet nicht mit dem treuen [Diener](persona_servant.md), der statt seines Herrn wacht und die ersten Mägde wortlos vertreibt, ohne dass ein Wort fällt.
-- Er bricht in der dritten Nacht: der erbeutete [Mantel](piece_cloak.md) macht die Diebin zur Überführten, und der gestohlene Sieg wird zur Niederlage, die sie an den Prinzen bindet.
+- Er rechnet damit, dass eine verhüllte Lauscherin am Lager des Schläfers das Wort ungesehen aus dem Munde greife.
+- Er setzt darauf, dass die gestohlene Lösung am Morgen vor dem Hofe als ihre eigene gelte und sie so Stolz und Kopf bewahre.
 
 ## Targets
 
-- [x] Die ersten beiden Mägde sind in den ersten Nächten ausgeschickt
-- [F] Das Rätselwort ist dem Schläfer entlockt (der Diener vertreibt die Mägde)
-- [F] Die Prinzessin selbst wird in der dritten Nacht beim Lauschen gefangen
-- [F] Der abgerissene Mantel überführt den Betrug, das Rätsel ist verloren
+- [ ] In den ersten beiden Nächten je eine Magd zum Schläfer schicken, das Rätselwort zu beschwatzen
+- [ ] In der dritten Nacht selbst verhüllt im Mantel kommen und das Wort aus dem schlafenden Munde greifen
+- [ ] Das erhorchte Rätselwort vor dem Hofe als eigene Lösung vorbringen
+- [ ] Das Rätsel lösen, ohne den eigenen Stolz und Kopf zu verlieren

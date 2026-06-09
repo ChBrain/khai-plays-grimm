@@ -34,12 +34,11 @@ Der jüngste der drei zog nicht nach Gold und Silber wie die Brüder, sondern na
 ## Implementation
 
 - Der Plan rechnet mit der unerschöpflichen Kraft des [Ranzens](piece_knapsack.md) und der Wucht von [Hütlein](piece_hat.md) und [Hörnlein](piece_horn.md), gegen die kein königliches Heer besteht.
-- Er rechnet nicht mit der Falschheit der [Prinzessin](persona_princess.md), die ihm Ranzen und Hütlein als [Diebin](position_thief.md) entwendet und ihn vertreiben lässt.
-- Die letzte Schärfe liegt im [Hörnlein](piece_horn.md), das ihm verblieb: damit reißt er das ganze Reich nieder und steigt aus dem Verrat als König empor.
+- Er setzt darauf, dass der [König](persona_king.md) sich dem Pulver und dem Kanonendonner beugt und ihm die [Prinzessin](persona_princess.md) zur Frau gibt.
+- Die letzte Schärfe liegt im [Hörnlein](piece_horn.md), das Mauern und Türme zu Schutt bläst: damit will er jeden Widerstand niederreißen und sich selbst die Krone aufsetzen.
 
 ## Targets
 
-- [x] Die drei Wunderwaffen sind den Köhlern abgetauscht und gewonnen
-- [x] Der König ist mit Soldaten und Kanonendonner besiegt, die Prinzessin erzwungen
-- [F] Die Braut bleibt ihm treu (sie stiehlt Ranzen und Hütlein und lässt ihn vertreiben)
-- [x] Das Hörnlein zerschmettert das Reich, und er wird selbst König
+- [ ] Den Köhlern die drei Wunderwaffen abtauschen und das Wunschtuch listig zurückholen
+- [ ] Mit Soldaten und Kanonendonner den König niederringen und die Prinzessin erzwingen
+- [ ] Mit dem Hörnlein das Reich niederreißen und sich selbst die Krone aufsetzen

@@ -39,7 +39,7 @@ Das [Hähnchen und Hühnchen](persona_birds.md) baut sich eine [Rote Kutsche](pi
 
 ## Targets
 
-- [x] Die Truppe ist auf der Reise vollständig gesammelt
-- [x] Jeder Posten ist im leeren Haus heimlich bezogen
-- [x] Herr Korbes ist von Falle zu Falle aus dem Haus getrieben
-- [x] Der Mühlstein hat den Bösewicht vor der Tür erschlagen
+- [ ] Die Truppe auf der Reise zum Korbes-Haus vollständig sammeln
+- [ ] Jeden Posten im leeren Haus heimlich beziehen
+- [ ] Herrn Korbes bei seiner Heimkehr von Falle zu Falle aus dem Haus treiben
+- [ ] Den Bösewicht unter dem herabstürzenden Mühlstein vor der Tür niederstrecken

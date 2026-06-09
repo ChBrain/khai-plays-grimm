@@ -39,7 +39,7 @@ Das Mädchen traut dem reichen Fremden nicht, dem der [Müller](persona_miller.m
 
 ## Targets
 
-- [x] Der Weg ist durch Asche und durch Erbsen und Linsen doppelt gesichert
-- [x] Das Mädchen ist hinter dem Fass verborgen und Zeuge der Tat
-- [x] Der Finger mit Ring ist als Beweis erbeutet und die Flucht gelungen
-- [x] Der Bräutigam ist beim Mahl als Mörder entlarvt und gerichtet
+- [ ] Den Weg ins Mörderhaus durch Asche und durch Erbsen und Linsen doppelt sichern
+- [ ] Sich hinter dem Fass verbergen und unbemerkt Zeuge bleiben
+- [ ] Den Finger mit Ring als Beweis sichern und der schlafenden Bande entfliehen
+- [ ] Den Bräutigam beim Hochzeitsmahl als Mörder entlarven

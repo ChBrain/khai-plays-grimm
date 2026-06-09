@@ -14,7 +14,7 @@ status: active
 
 ## Taxonomy
 
-Ein Prüfplan des getäuschten Bräutigams: das Vorhaben von [Hans](persona_hans.md), die faule, schlafsüchtige [Else](persona_elsie.md) zu kurieren oder doch zu entlarven, indem er ihr im Schlaf ein Vogelstellernetz voller Glocken überwirft und sie vor dem [Wohnhaus](place_home.md) aussperrt. Es gibt keinen Gegenplan; die schlummernde Braut ahnt nichts, und was als heilsame Lehre gemeint ist, wird zur Falle, die mehr zerschlägt als die [Faulheit](process_laziness.md).
+Ein Prüfplan des getäuschten Bräutigams: das Vorhaben von [Hans](persona_hans.md), die faule, schlafsüchtige [Else](persona_elsie.md) zu kurieren oder doch zu entlarven, indem er ihr im Schlaf ein Vogelstellernetz voller Glocken überwirft und sie vor dem [Wohnhaus](place_home.md) aussperrt. Es gibt keinen Gegenplan; die schlummernde Braut ahnt nichts, und Hans setzt darauf, dass die handfeste Probe ihre [Faulheit](process_laziness.md) heilt.
 
 ## Owner
 
@@ -22,7 +22,7 @@ Ein Prüfplan des getäuschten Bräutigams: das Vorhaben von [Hans](persona_hans
 
 ## Direction
 
-Hans hat die [Seherin](position_visionary.md) zur Frau genommen, die im [Keller](place_cellar.md) über ein ungeborenes Unglück weinte; nun aber liegt sie satt vom [Brei](piece_porridge.md) statt zu schneiden im [Kornfeld](place_field.md) und schläft. Der Mann will nicht strafen, sondern eine handfeste Probe stellen: er sinnt darauf, der Schlafenden ein Zeichen anzulegen, das sie bei ihrem Erwachen zur Vernunft rufe, und das Haus zu verschließen, damit sie sich selbst befrage, ob sie noch Else sei. Was als nüchterne Heilkur der [Faulheit](process_laziness.md) beginnt, rührt unversehens an die [Katastrophenphantasie](process_catastrophizing.md), die in ihr nie geschlafen hat.
+Hans hat die [Seherin](position_visionary.md) zur Frau genommen, die im [Keller](place_cellar.md) über ein ungeborenes Unglück weinte; nun aber liegt sie satt vom [Brei](piece_porridge.md) statt zu schneiden im [Kornfeld](place_field.md) und schläft. Der Mann will nicht strafen, sondern eine handfeste Probe stellen: er sinnt darauf, der Schlafenden ein Zeichen anzulegen, das sie bei ihrem Erwachen zur Vernunft rufe, und das Haus zu verschließen, damit sie sich selbst befrage, ob sie noch Else sei. Er meint eine nüchterne Heilkur der [Faulheit](process_laziness.md) zu stellen und setzt darauf, dass der Schreck die Schläferin zur Vernunft ruft.
 
 ## Orders
 
@@ -34,11 +34,12 @@ Hans hat die [Seherin](position_visionary.md) zur Frau genommen, die im [Keller]
 ## Implementation
 
 - Der Plan rechnet mit dem Schreck des Erwachens und dem Klingeln des [Glockennetzes](piece_net_bells.md), das die Schläferin auf der Stelle ernüchtern solle.
-- Er rechnet nicht mit der [Katastrophenphantasie](process_catastrophizing.md) der [Else](persona_elsie.md), die jedes Zeichen ins Ungeheure deutet, statt es zu lesen.
-- Er rechnet nicht damit, dass die Probe nicht heilt, sondern zerbricht: der [Identitätsverlust](process_forgetting.md) löst die [Else](persona_elsie.md) ganz von sich selbst, und sie geht als [Fremde](position_stranger.md) für immer fort.
+- Er rechnet mit der verriegelten Tür des [Wohnhauses](place_home.md), die die ausgesperrte [Fremde](position_stranger.md) zwingt, sich bei sich selbst zu befragen.
+- Er setzt darauf, dass die [Else](persona_elsie.md) aus eigener Verwirrung zur Vernunft findet und als gebesserte Frau wiederkehrt.
 
 ## Targets
 
-- [x] Das Glockennetz ist der Schlafenden im Korn übergeworfen
-- [x] Das Wohnhaus ist verriegelt, die Frau ausgesperrt
-- [F] Die erwachende Else fasst sich zur Vernunft (sie verliert sich selbst und wandert für immer fort)
+- [ ] Der im Korn schlafenden Else das Glockennetz überwerfen
+- [ ] Das Wohnhaus verriegeln und die Frau aussperren
+- [ ] Die erwachende Else durch Schreck und Klingeln zur Vernunft rufen
+- [ ] Die gebesserte Frau aus eigener Einsicht heimkehren sehen

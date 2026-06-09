@@ -35,10 +35,11 @@ Die Königin-Mutter ist voller Zorn, dass ihr Sohn eine namenlose [Stumme](posit
 
 - Der Plan rechnet damit, dass das [Schweigen](process_silence.md) der Königin sie wehrlos mache: wer nicht spricht, kann die [Verleumdung](process_slander.md) nicht abwehren.
 - Er rechnet mit dem Druck des Gesetzes, das den [zweiten König](persona_second-king.md) zwingt, die geliebte Frau dem [Gericht](process_judging.md) zu überantworten.
-- Er rechnet nicht damit, dass das Schweigen am [Scheiterhaufen](place_pyre.md) endet: kaum hat das [Schwesterchen](persona_sister.md) ihre [Brüder](persona_brothers.md) erlöst, spricht sie, bringt die lebenden Kinder herbei und stürzt die Verleumderin selbst ins Feuer.
+- Er rechnet darauf, dass der wiederholte Raub die Schuld so dicht auflädt, dass selbst der zögernde König dem Urteil nicht länger ausweichen kann.
 
 ## Targets
 
-- [x] Die drei Kinder sind geraubt und der Mund der Königin blutig bestrichen
-- [x] Die stumme Königin ist verleumdet und zum Scheiterhaufen verurteilt
-- [F] Das Schweigen endet am Scheiterhaufen, die Königin wird gerechtfertigt und die Mutter selbst verbrannt
+- [ ] Der schlafenden Königin jedes neugeborene Kind rauben und ihr den Mund mit Blut bestreichen
+- [ ] Sie vor dem zweiten König als Kinderfresserin anklagen, da die Stumme nichts erwidern kann
+- [ ] Raub und Anklage am zweiten und dritten Kind wiederholen, bis der König nicht länger widersteht
+- [ ] Das Gericht dahin treiben, die Schweigende zum Tod im Feuer auf dem Scheiterhaufen zu verurteilen

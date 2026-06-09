@@ -22,7 +22,7 @@ Ein Mordplan der Furcht: das Vorhaben des [Königs](persona_king.md), das prophe
 
 ## Direction
 
-Der König hört die [Weissagung](process_prophecy.md), dass das in der Glückshaut geborene Kind dereinst seine Tochter zur Frau bekomme, und sein Stolz erträgt es nicht, dass ein Müllersjunge sein Eidam werde. So sinnt er nicht auf Gnade, sondern auf den Tod, immer wieder neu: was der Fluss nicht nimmt, soll der [Brief](piece_letter.md) nehmen, und was der Brief verfehlt, soll die [Hölle](place_underworld.md) holen. Doch jeder Anschlag des [Verfolgers](position_predator.md) wendet sich, bis der Schicksalsweg ihn selbst an den Fluss bindet, den er dem Kinde zugedacht.
+Der König hört die [Weissagung](process_prophecy.md), dass das in der Glückshaut geborene Kind dereinst seine Tochter zur Frau bekomme, und sein Stolz erträgt es nicht, dass ein Müllersjunge sein Eidam werde. So sinnt er nicht auf Gnade, sondern auf den Tod, immer wieder neu: was der Fluss nicht nimmt, soll der [Brief](piece_letter.md) nehmen, und was der Brief verfehlt, soll die [Hölle](place_underworld.md) holen. Der [Verfolger](position_predator.md) setzt darauf, dass eine der drei Fallen das Kind verschlinge, ehe die [Weissagung](process_prophecy.md) sich erfüllt.
 
 ## Orders
 
@@ -34,12 +34,12 @@ Der König hört die [Weissagung](process_prophecy.md), dass das in der Glücksh
 ## Implementation
 
 - Der Plan rechnet damit, dass Wasser, Brief oder Hölle das wehrlose Kind verschlingen, ehe es zum Mann und zum Eidam wird.
-- Er rechnet nicht mit der Glückshaut: was in den Fluss geworfen wird, treibt zur [Mühle](place_mill.md), und was den Todesbrief trägt, wird von Räubern zur Hochzeit umgeschrieben.
-- Er rechnet nicht damit, dass die [Hölle](place_underworld.md) keine Falle, sondern eine Schatzkammer ist: das Kind bringt [Haare](piece_hairs.md) und [Antworten](piece_key.md) heim, und die letzte Antwort lockt den König selbst in die Ruder, aus denen ihn keiner mehr löst.
+- Er setzt darauf, dass die [Kiste](piece_box.md) im Fluss das Kind ertränkt und der [Brief](piece_letter.md) an die Königin dessen Tod befiehlt, ehe es zur [Mühle](place_mill.md) entkommt.
+- Er setzt darauf, dass die [Hölle](place_underworld.md) den Schwiegersohn verschlingt, wenn er die drei [Haare](piece_hairs.md) des Teufels holen soll, eine Aufgabe, die kein Sterblicher überlebt.
 
 ## Targets
 
-- [F] Das Kind ertrinkt in der Kiste im Fluss (treibt heil zur Mühle)
-- [F] Der Todesbrief tötet das Glückskind (von Räubern zur Hochzeit umgeschrieben)
-- [F] Die Höllenfahrt vernichtet den Schwiegersohn (er kehrt reich zurück)
-- [F] Der König wird die Heirat los (er endet selbst als ewiger Fährmann)
+- [ ] Das wehrlose Kind in der Kiste im Fluss ertränken
+- [ ] Mit dem Todesbrief an die Königin das Glückskind beseitigen lassen
+- [ ] Vom Schwiegersohn die drei Haare des Teufels als tödliche Aufgabe fordern
+- [ ] Die prophezeite Heirat mit der Königstochter verhindern

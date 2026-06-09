@@ -39,7 +39,7 @@ Der Prinz weiß, dass die [Rätselprinzessin](persona_princess.md) jeden Freier 
 
 ## Targets
 
-- [x] Das unlösbare Rätselwort ist aus dem Tod der Zwölf geschmiedet
-- [x] Die Prinzessin kann das Rätsel im Hofgericht nicht lösen
-- [x] Der Diener wacht und fängt die dritte Späherin bei der Tat
-- [x] Der erbeutete Mantel beweist den Betrug, die Prinzessin ist gewonnen
+- [ ] Aus dem Tod von Gaul, Rabe und den zwölf Mördern ein unlösbares Rätselwort schmieden
+- [ ] Der Prinzessin das Rätsel im Hofgericht stellen, das sie nicht zu lösen vermag
+- [ ] Den Diener als Wächter statt seiner wachen lassen, wenn die Späherinnen kommen
+- [ ] Der dritten Lauscherin den Mantel als Beweis abreißen und damit den Betrug vor dem Hofe entlarven

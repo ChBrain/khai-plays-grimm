@@ -39,7 +39,7 @@ Die jüngste hat weder Macht noch Zauber, nur einen kühlen Kopf und ein treues 
 
 ## Targets
 
-- [x] Das Ei bleibt rein, die Probe ist bestanden
-- [x] Die beiden toten Schwestern sind wiederbelebt und heimgeschmuggelt
-- [x] Die jüngste entkommt unerkannt im Federkleid als Fitchers Vogel
-- [x] Die Verwandten verbrennen den Zauberer samt seiner Sippe im Haus
+- [ ] Das Ei abseits verwahren, ehe die Blutkammer geöffnet wird, damit die Probe besteht
+- [ ] Die ermordeten Schwestern wiederbeleben und im Korb heimschmuggeln lassen
+- [ ] Sich in Honig und Federn zum Federvogel wälzen und unerkannt entkommen
+- [ ] Die Verwandten rufen, damit sie das Haus absperren und den Brand entzünden

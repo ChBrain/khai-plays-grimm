@@ -33,13 +33,13 @@ Das Schwesterchen hat keine Macht und keine Stimme, die sie erheben dürfte, nur
 
 ## Implementation
 
-- Der Plan rechnet damit, dass das [Schweigen](process_silence.md) sechs Jahre ungebrochen halte, und sie hält es bis zum letzten Augenblick auf dem Holz.
+- Der Plan rechnet damit, dass das [Schweigen](process_silence.md) sechs Jahre ungebrochen halte, durch Hof, Anklage und [Scheiterhaufen](place_pyre.md), ohne ein einziges Wort.
 - Er rechnet mit der Kraft der [verzauberten Hemden](piece_enchanted-shirts.md), die im Niederfallen die [Schwanenhäute](piece_swan-skins.md) von den [Brüdern](persona_brothers.md) lösen.
-- Er rechnet nicht mit der knappen Frist: weil der [unfertige Ärmel](piece_unfinished-sleeve.md) am letzten Hemd fehlt, behält der jüngste Bruder einen Schwanenflügel statt des Arms.
+- Er rechnet darauf, dass die Nadel die knappe Frist gewinne: sechs Hemden aus Sternblumen, ehe das Gelübde endet, sind der einzige Schlüssel, der die [Brüder](persona_brothers.md) erlösen kann.
 
 ## Targets
 
-- [x] Das Schweigen ist sechs Jahre lang ungebrochen gehalten
-- [x] Fünf Hemden und fast das sechste sind genäht
-- [x] Die Hemden lösen den Schwanenzauber von den Brüdern
-- [F] Ein Ärmel bleibt unfertig, der jüngste behält einen Schwanenflügel
+- [ ] In der Räuberhütte das Gelübde ablegen und das Nessel-Nähen der sechs Hemden beginnen
+- [ ] Das Schweigen sechs Jahre lang ungebrochen halten, durch Hof, Verleumdung und Gericht
+- [ ] Die sechs Hemden aus Sternblumen vor dem Ende der Frist vollenden
+- [ ] Am Tag des Feuers die Hemden über die Schwäne werfen und die Flucherlösung vollziehen

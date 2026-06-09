@@ -14,7 +14,7 @@ status: active
 
 ## Taxonomy
 
-Ein Erlösungsplan der Sanftmut: das Vorhaben des [Dummlings](persona_simpleton.md), den Steinbann des [Steinschlosses](place_stone_castle.md) zu brechen, indem er die drei aufgegebenen Proben besteht, jede gelöst durch die [Tiere](persona_animals.md), die er zuvor vor seinen [Brüdern](persona_brothers.md) geschont hat. Es gibt keinen Gegenplan; wo die starken Brüder an den Aufgaben scheitern und selbst zu Stein erstarren, gewinnt der Schwächste durch die [Rettung](process_rescue.md), die er den Kleinen einst gewährte.
+Ein Erlösungsplan der Sanftmut: das Vorhaben des [Dummlings](persona_simpleton.md), den Steinbann des [Steinschlosses](place_stone_castle.md) zu brechen, indem er die drei aufgegebenen Proben besteht und sich dabei auf die [Tiere](persona_animals.md) verlässt, die er zuvor vor seinen [Brüdern](persona_brothers.md) geschont hat. Es gibt keinen Gegenplan; der Schwächste will gewinnen, wo die starken Brüder verzagen, allein durch die [Rettung](process_rescue.md), die er den Kleinen einst gewährte.
 
 ## Owner
 
@@ -22,7 +22,7 @@ Ein Erlösungsplan der Sanftmut: das Vorhaben des [Dummlings](persona_simpleton.
 
 ## Direction
 
-Der Dummling gilt daheim als der geringste, ein [Dummling](position_simpleton.md) ohne Witz und Stärke, doch er allein hat die Ameisen, die Enten und die Bienen vor der Zerstörungslust seiner [Brüder](persona_brothers.md) bewahrt, statt sie zu verhöhnen wie die [Spötter](position_mockers.md). Am [Steinschloss](place_stone_castle.md), wo das ganze Hofvolk versteinert liegt, weist die [Steintafel](piece_stone_table.md) drei Proben aus, an denen die älteren Brüder verzweifeln und erstarren. Was als aussichtslose Aufgabe für den Geringsten beginnt, wird durch die Dankbarkeit der geschonten [Tiere](persona_animals.md) zur sicheren [Erlösung](process_breaking_spell.md): die Schwachen, denen er Gnade gab, sind nun die [Helfer](position_helpers.md), die für ihn vollbringen, was keine Menschenhand vermag.
+Der Dummling gilt daheim als der geringste, ein [Dummling](position_simpleton.md) ohne Witz und Stärke, doch er allein hat die Ameisen, die Enten und die Bienen vor der Zerstörungslust seiner [Brüder](persona_brothers.md) bewahrt, statt sie zu verhöhnen wie die [Spötter](position_mockers.md). Am [Steinschloss](place_stone_castle.md), wo das ganze Hofvolk versteinert liegt, weist die [Steintafel](piece_stone_table.md) drei Proben aus, an denen die älteren Brüder verzweifeln. Was als aussichtslose Aufgabe für den Geringsten erscheint, will er durch die Dankbarkeit der geschonten [Tiere](persona_animals.md) zur [Erlösung](process_breaking_spell.md) wenden: die Schwachen, denen er Gnade gab, sollen nun als [Helfer](position_helpers.md) vollbringen, was keine Menschenhand vermag.
 
 ## Orders
 
@@ -33,13 +33,13 @@ Der Dummling gilt daheim als der geringste, ein [Dummling](position_simpleton.md
 
 ## Implementation
 
-- Der Plan rechnet mit der [Rettung](process_rescue.md), die der Dummling den Ameisen, Enten und Bienen gewährte: jede geschonte Art zahlt die Gnade mit der Lösung einer Probe heim.
-- Er rechnet damit, dass keine Menschenkraft die Proben besteht: die starken [Brüder](persona_brothers.md) sind an eben diesen Aufgaben gescheitert und zu Stein geworden.
-- Er rechnet nicht mit List oder Gewalt, sondern allein mit der Ehrfurcht vor dem unscheinbaren Leben, die sich am Ende als die einzige Macht über den Bann erweist.
+- Der Plan rechnet mit der [Rettung](process_rescue.md), die der Dummling den Ameisen, Enten und Bienen gewährte: jede geschonte Art soll die Gnade mit der Lösung einer Probe heimzahlen.
+- Er rechnet damit, dass keine Menschenkraft die Proben besteht und der Geringste nur durch die Hilfe der Kleinen ans Ziel kommt.
+- Er setzt nicht auf List oder Gewalt, sondern allein auf die Ehrfurcht vor dem unscheinbaren Leben als einzige Macht über den Bann.
 
 ## Targets
 
-- [x] Die tausend Perlen sind durch die Ameisen aus dem Moos gelesen
-- [x] Der Kammerschlüssel ist durch die Enten aus dem See geborgen
-- [x] Die jüngste Königstochter ist durch die Bienenkönigin am Honig erkannt
-- [x] Der Steinbann ist gebrochen, das Hofvolk und die Brüder erlöst
+- [ ] Mit Hilfe der dankbaren Ameisen die tausend Perlen aus dem Moos lesen
+- [ ] Mit Hilfe der dankbaren Enten den Kammerschlüssel aus dem See bergen
+- [ ] Mit Hilfe der Bienenkönigin die jüngste Königstochter am Honig erkennen
+- [ ] Mit den drei bestandenen Proben den Steinbann brechen und das Hofvolk erlösen

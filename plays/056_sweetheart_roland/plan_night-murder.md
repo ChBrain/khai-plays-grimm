@@ -22,7 +22,7 @@ Ein Mordplan des Neides: das Vorhaben der [Hexe](persona_witch.md), die verhasst
 
 ## Direction
 
-Die Alte im [Hexenhaus](place_witch_house.md) hasst die schöne Stieftochter und duldet sie nur, bis die Gier nach ihrem Tod überfließt. Sie wählt die Nacht, denn als [Verfolgerin](position_pursuer.md) traut sie sich der Tat nur im Dunkeln, wo kein Auge sie scheidet. Ihr ganzer Plan ruht auf einem einzigen Wissen: welches der beiden Betten das rechte sei. Sie will hineingreifen, das Mädchen am Schlafplatz ertasten und die Axt schwingen, ehe der Morgen graut, und merkt nicht, dass eben dieses Wissen ihr in der Finsternis vertauscht wird.
+Die Alte im [Hexenhaus](place_witch_house.md) hasst die schöne Stieftochter und duldet sie nur, bis die Gier nach ihrem Tod überfließt. Sie wählt die Nacht, denn als [Verfolgerin](position_pursuer.md) traut sie sich der Tat nur im Dunkeln, wo kein Auge sie scheidet. Ihr ganzer Plan ruht auf einem einzigen Wissen: welches der beiden Betten das rechte sei. Sie will hineingreifen, das Mädchen am Schlafplatz ertasten und die Axt schwingen, ehe der Morgen graut, und baut darauf, dass die Finsternis ihr die Tat verbirgt und kein Auge sie scheidet.
 
 ## Orders
 
@@ -34,9 +34,9 @@ Die Alte im [Hexenhaus](place_witch_house.md) hasst die schöne Stieftochter und
 ## Implementation
 
 - Der Plan rechnet mit der Dunkelheit, in der die Tat ungesehen bleibt, und mit dem festen Wissen um das rechte Bett.
-- Er rechnet nicht damit, dass das [Mädchen](persona_girl.md) den Anschlag belauscht und die Schlafplätze vertauscht.
-- Der Mord kehrt sich um: die Axt fällt auf die [Hexentochter](persona_witch_daughter.md), und die rasende Verfolgung der Hexe endet später am [Feld](place_field.md), wo der [Zauberstab](piece_magic_wand.md) die Entkommenen längst gewandelt hat.
+- Er rechnet darauf, dass die schlafende Stieftochter den Anschlag nicht ahnt und am gemerkten Schlafplatz liegen bleibt.
+- Er setzt darauf, dass der Schlag fällt, ehe der Morgen graut, sodass keine Tat ans Licht kommt.
 
 ## Targets
 
-- [F] Die Stieftochter ist im Bett erschlagen (die Betten sind vertauscht, die eigene Tochter fällt)
+- [ ] Den Schlafplatz der Stieftochter merken und im Dunkeln mit der Axt zuschlagen, ehe der Morgen graut

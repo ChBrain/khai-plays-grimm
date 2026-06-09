@@ -34,11 +34,11 @@ Die beiden älteren [Brüder](persona_brothers.md) zogen vor dem Jüngsten aus, 
 ## Implementation
 
 - Der Plan rechnet mit dem Brunnen, der den Jüngsten verschlingen soll, und mit dem Schein der Beute, der die Brüder als Helden ausgibt.
-- Er rechnet nicht mit dem [Fuchs](persona_fox.md), der den Gestürzten aus dem Brunnen zieht und heimgeleitet.
-- Der Raub kehrt sich um: bei der [Prüfung](process_trial.md) regen sich Vogel, Pferd und Braut erst beim wahren Herrn, der Betrug fliegt auf, und die Brüder werden gerichtet, indes den Jüngsten die [Erlösung](process_redemption.md) krönt.
+- Er setzt darauf, dass der Gestürzte im Brunnen verstummt und kein Zeuge des Raubes bleibt.
+- Er baut darauf, dass Vogel, Pferd und Braut den Schein wahren, sodass niemand am [Königshof](place_garden.md) den Betrug ahnt.
 
 ## Targets
 
-- [x] Der jüngste Prinz ist beraubt und in den Brunnen gestürzt
-- [x] Die Beute ist heimgeführt, die Brüder gelten eine Weile als die Gewinner
-- [F] Der Betrug bleibt verborgen (der Prinz kehrt lebend wieder, die Brüder werden entlarvt und gerichtet)
+- [ ] Dem jüngsten Prinzen Vogel, Pferd und Prinzessin auf dem Heimweg rauben
+- [ ] Ihn in den Brunnen stürzen und für tot zurücklassen
+- [ ] Die Beute heimführen und sich als die wahren Gewinner ausgeben

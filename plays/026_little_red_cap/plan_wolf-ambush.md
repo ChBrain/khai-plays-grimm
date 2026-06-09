@@ -35,11 +35,11 @@ Der Wolf trifft die kleine [Botin](persona_red_cap.md) im [Wald](place_forest.md
 
 - Der Plan rechnet mit der Sorglosigkeit des Kindes, das sich durch die [Verführung](process_temptation.md) gern vom Pfade locken lässt, sodass dem Wolf die Zeit zum Voraussprung bleibt.
 - Er rechnet mit der [Kappe](piece_cap.md) und dem [Bett](piece_bed.md) der [Großmutter](persona_grandmother.md), deren Verkleidung den Argwohn des Mädchens nur zögernd weckt.
-- Er rechnet nicht mit dem [Jäger](persona_huntsman.md), der das Schnarchen des satten Schläfers hört: was im Bauche lebt, holt die [Rettung](process_rescue.md) wieder heraus, und der Raub wird zum eigenen Tod.
+- Er rechnet darauf, dass die Verstellung als Greisin das Kind ans Lager lockt, ehe es die fremde Gestalt durchschaut.
 
 ## Targets
 
-- [x] Das Mädchen ist durch die Blumen vom Wege aufgehalten
-- [x] Die Großmutter ist vorausgeeilt verschlungen
-- [x] Rotkäppchen ist im verkleideten Lager ebenfalls verschlungen
-- [F] Der Wolf behält seinen Raub (vom Jäger aufgeschnitten, mit Steinen gefüllt)
+- [ ] Das Mädchen durch die Blumen vom Wege aufhalten und ihm vorauseilen
+- [ ] Der Großmutter vorauskommen und sie verschlingen
+- [ ] In Kappe und Bett der Greisin auf die ahnungslose Botin warten
+- [ ] Rotkäppchen am verkleideten Lager ebenfalls verschlingen

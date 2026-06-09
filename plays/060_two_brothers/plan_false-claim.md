@@ -34,12 +34,12 @@ Der Marschall ist feig und hat sich beim [Drachenkampf](process_combustion.md) v
 ## Implementation
 
 - Der Plan rechnet damit, dass der schlafende [Drachentöter](position_slayer.md) tot und stumm im Wald liege und kein Mund den Betrug aufdecke.
-- Er rechnet nicht mit dem [Lebenswasser](piece_life_water.md) und der Treue des zweiten Zwillings, die den Erschlagenen wieder auf die Beine bringen.
-- Er rechnet nicht mit den [Drachenzungen](piece_dragon_tongues.md): wer die Häupter zeigt, aber keine Zunge weist, hält leeren Beweis in der Hand, und der wahre Sieger entlarvt ihn beim Hochzeitsmahl.
+- Er setzt darauf, dass die sieben Häupter als Beweis genügen und niemand nach einem anderen Zeichen des Sieges fragt.
+- Er baut auf das Schweigen der erpressten [Königstochter](persona_princess.md), die bei Todesstrafe keinen anderen Retter nennen darf.
 
 ## Targets
 
-- [x] Der schlafende Drachentöter ist mit dem Messer niedergeschlagen
-- [x] Die zungenlosen Drachenhäupter sind als Beweis genommen
-- [x] Die Königstochter ist zum Schweigen erpresst und der Lohn gefordert
-- [F] Der erschlichene Ruhm hält stand (die sieben Zungen entlarven den Marschall, er wird hingerichtet)
+- [ ] Den schlafenden Drachentöter mit dem Messer niederschlagen, sodass kein Zeuge bleibt
+- [ ] Die sieben Drachenhäupter als Beweis an sich nehmen
+- [ ] Die Königstochter zum Schweigen erpressen und sich als Retter nennen lassen
+- [ ] Im Schloss den Lohn fordern und den Hochzeitstag festsetzen, ehe ein Anspruch laut wird

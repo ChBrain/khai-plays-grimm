@@ -40,8 +40,8 @@ Der Schneider hat keinen Arm, der einen Riesen wirft, und keine Klinge, die ein 
 
 ## Targets
 
-- [x] Die Tat ist auf den Gürtel gestickt und der Ruf in die Welt getragen
-- [x] Die Riesen sind mit Käse, Vogel und Bett-List überwunden
-- [x] Einhorn und Eber sind durch List gebannt
-- [x] Die Königstochter und das halbe Reich sind durch die bestandene Prüfung gewonnen
-- [x] Der nächtliche Anschlag ist durch lautes Prahlen vereitelt und die Herrschaft gesichert
+- [ ] Die Tat auf den Gürtel sticken und den Ruf als Held in die Welt tragen
+- [ ] Die Riesen mit Käse, Vogel und Bett-List überlisten
+- [ ] Einhorn und Eber durch List bannen
+- [ ] Am Königshof die Heldenprüfung bestehen und die Königstochter samt halbem Reich gewinnen
+- [ ] Den nächtlichen Anschlag durch lautes Prahlen durchkreuzen und die Herrschaft sichern

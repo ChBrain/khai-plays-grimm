@@ -33,12 +33,12 @@ Die Köchin hasst den Findling, den der [Förster](persona_forester.md) aus dem 
 
 ## Implementation
 
-- Der Plan rechnet mit dem Schlaf des [Hauses](place_home.md) und der Ahnungslosigkeit der Kinder, nicht mit Lenchens wachem Ohr.
-- Er rechnet nicht mit der [Metamorphose](process_metamorphosis.md), die jede Welle der [Verfolger](position_pursuers.md) ins Leere greifen lässt: Rosenstrauch und Rose, Kirche und Krone bleiben den [Knechten](persona_servants.md) verborgen.
-- Er rechnet nicht mit dem letzten Bild von Teich und Ente: die [Köchin](persona_cook.md) beugt sich zum Trinken über das Wasser, und das [Ertrinken](process_drowning.md) verschlingt die Jägerin selbst.
+- Der Plan rechnet mit dem Schlaf des [Hauses](place_home.md) und der Ahnungslosigkeit der Kinder: er setzt darauf, dass kein waches Ohr den Sud verrät.
+- Er rechnet darauf, dass die [Knechte](persona_servants.md) die [Flüchtlinge](position_refugees.md) über die [Ebene](place_plain.md) einholen, ehe diese in den tiefen [Wald](place_forest.md) entkommen.
+- Er setzt zuletzt auf die eigene Jagd der [Köchin](persona_cook.md), die das vermag, woran die [Knechte](persona_servants.md) gescheitert sein könnten, und greift die Kinder eigenhändig.
 
 ## Targets
 
-- [F] Fundevogel wird im Kessel gesotten (Lenchen erlauscht den Plan und flieht mit ihm)
-- [F] Die Knechte fangen die Kinder (die Metamorphose täuscht sie zweimal)
-- [F] Die Köchin ergreift die Flüchtlinge selbst (sie ertrinkt am Teich im Schnabel der Ente)
+- [ ] Den Kessel im stillen Haus richten und Fundevogel sieden
+- [ ] Die Knechte hinter die entflohenen Kinder senden
+- [ ] Zuletzt selbst die Flüchtlinge jagen und in den Kessel werfen

@@ -22,7 +22,7 @@ Ein Eifersuchtsplan des verletzten Hochmuts: das Vorhaben der [Bösen Königin](
 
 ## Direction
 
-Der [Spiegel](piece_mirror.md) hat das Urteil gesprochen: ein anderes Antlitz ist tausendmal schöner geworden, und damit ist die Königin in ihrem einzigen Stolz tödlich getroffen. Sie sinnt nicht auf Herrschaft noch Gold, nur auf den Vorrang der Schönheit, und der ist nicht zu teilen. Also wird die Königin zur [Mörderin](position_murderer.md), und das Kind zur gejagten Beute: erst soll der Jäger es im [Wilden Wald](place_forest.md) schlachten, dann, als es bei den [Zwergen](persona_dwarfs.md) lebt, sucht die Königin es selbst auf, verkleidet als Krämerin, und versucht es mit Schnürriemen, mit vergiftetem Kamm und zuletzt mit dem [Giftapfel](piece_poisoned_apple.md) zu ermorden. Die [Verfolgung](process_persecution.md) endet erst, wenn der Spiegel sie wieder als Erste grüßt, doch sie misst nicht, dass ein Toter erwachen kann.
+Der [Spiegel](piece_mirror.md) hat das Urteil gesprochen: ein anderes Antlitz ist tausendmal schöner geworden, und damit ist die Königin in ihrem einzigen Stolz tödlich getroffen. Sie sinnt nicht auf Herrschaft noch Gold, nur auf den Vorrang der Schönheit, und der ist nicht zu teilen. Also wird die Königin zur [Mörderin](position_murderer.md), und das Kind zur gejagten Beute: erst soll der Jäger es im [Wilden Wald](place_forest.md) schlachten, dann, als es bei den [Zwergen](persona_dwarfs.md) lebt, sucht die Königin es selbst auf, verkleidet als Krämerin, und versucht es mit Schnürriemen, mit vergiftetem Kamm und zuletzt mit dem [Giftapfel](piece_poisoned_apple.md) zu ermorden. Die [Verfolgung](process_persecution.md) soll erst enden, wenn der Spiegel sie wieder als Erste grüßt, und die Königin baut darauf, dass ein Toter nicht mehr erwacht.
 
 ## Orders
 
@@ -35,13 +35,13 @@ Der [Spiegel](piece_mirror.md) hat das Urteil gesprochen: ein anderes Antlitz is
 ## Implementation
 
 - Der Plan rechnet mit der [Verfolgung](process_persecution.md) durch Verkleidung: dass das arglose Kind die alte Krämerin nicht als die Königin erkennt und ihr dreimal die Tür öffnet.
-- Er rechnet nicht mit den [Zwergen](persona_dwarfs.md) als [Schützern](position_protector.md), die den Schnürriemen lösen und den Kamm ziehen und so jeden der ersten Anschläge rückgängig machen.
-- Er rechnet nicht mit dem [Scheintod](process_dormancy.md): der Apfel tötet nicht wirklich, sondern legt nur schlafend nieder, sodass das Stolpern der Diener das Gift löst und das Erwachen die Mörderin überführt.
+- Er rechnet darauf, dass kein [Schützer](position_protector.md) im [Zwergenhaus](place_cottage.md) zugegen ist, der den Schnürriemen löste oder den Kamm zöge, ehe das Gift sein Werk vollendet.
+- Er setzt darauf, dass der [Giftapfel](piece_poisoned_apple.md) endgültig tötet und kein Erwachen die [Schönste](position_fairest.md) je wieder aus dem [Glassarg](piece_coffin.md) hebt.
 
 ## Targets
 
-- [F] Schneewittchen ist durch den Jäger im Wald ermordet (er verschont das Kind)
-- [F] Schneewittchen ist mit dem Schnürriemen getötet (die Zwerge schneiden ihn auf)
-- [F] Schneewittchen ist mit dem vergifteten Kamm getötet (die Zwerge ziehen ihn heraus)
-- [x] Schneewittchen sinkt durch den Giftapfel scheintot in den Glassarg
-- [F] Die Königin bleibt die Schönste (Schneewittchen erwacht, die Königin wird vernichtet)
+- [ ] Schneewittchen durch den Jäger im Wilden Wald töten lassen
+- [ ] Sie verkleidet mit dem Schnürriemen niederwerfen
+- [ ] Sie mit dem vergifteten Kamm niederwerfen
+- [ ] Sie mit dem Giftapfel zu Fall bringen
+- [ ] Wieder als die Schönste vom Spiegel gegrüßt werden

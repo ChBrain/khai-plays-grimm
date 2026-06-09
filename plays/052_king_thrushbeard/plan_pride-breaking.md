@@ -40,8 +40,8 @@ Der Spott am Hof hat den verschmähten Freier nicht erbittert, sondern belehrt: 
 
 ## Targets
 
-- [x] Die Prinzessin ist als Strafe mit dem verkleideten Spielmann vermählt und fortgeschickt
-- [x] Sie ist in der bloßen Hütte zu Spinnen und Weben gezwungen
-- [x] Ihr Topfhandel auf dem Markt ist zerstört und ihr Stolz weiter gebeugt
-- [x] Sie ist als Küchenmagd erniedrigt und sammelt heimlich Essensreste
-- [x] Ihr Hochmut ist gebrochen, und Drosselbart gibt sich versöhnt zu erkennen
+- [ ] Als verkleideter Spielmann die hochmütige Prinzessin zur Frau gewinnen
+- [ ] Sie in der bloßen Hütte zu Spinnen und Weben zwingen
+- [ ] Ihren Stolz durch das Scheitern des Topfhandels auf dem Markt weiter beugen
+- [ ] Sie als Küchenmagd im eigenen Schloss erniedrigen
+- [ ] Ihren gebrochenen Hochmut zur Reue wandeln und sich versöhnt zu erkennen geben

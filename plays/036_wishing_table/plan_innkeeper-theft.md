@@ -22,7 +22,7 @@ Ein Raubplan der Habgier: das Vorhaben des [Wirtes](persona_innkeeper.md), jedem
 
 ## Direction
 
-Der [Wirt](persona_innkeeper.md) sieht im [Wirtshaus](place_inn.md), was die Söhne von ihren [Meistern](persona_masters.md) heimtragen, und weiß die Worte, die das [Tischchen](piece_table.md) decken und den [Goldesel](piece_donkey.md) Gold speien lassen. So sinnt er nicht auf Gewalt, sondern auf den heimlichen Tausch: er bewirtet, lobt, schenkt Wein ein, und wenn der Gast schläft, stellt er an die Stelle der Wundergabe ein Stück, das genau so aussieht und nichts kann. Der [Diebstahl](process_theft.md) glückt zweimal, weil keiner der Brüder die [Lehrstätte](place_workshop.md) verlässt mit Argwohn im Herzen.
+Der [Wirt](persona_innkeeper.md) sieht im [Wirtshaus](place_inn.md), was die Söhne von ihren [Meistern](persona_masters.md) heimtragen, und weiß die Worte, die das [Tischchen](piece_table.md) decken und den [Goldesel](piece_donkey.md) Gold speien lassen. So sinnt er nicht auf Gewalt, sondern auf den heimlichen Tausch: er bewirtet, lobt, schenkt Wein ein, und wenn der Gast schläft, stellt er an die Stelle der Wundergabe ein Stück, das genau so aussieht und nichts kann. Der [Diebstahl](process_theft.md) setzt darauf, dass keiner der Brüder die [Lehrstätte](place_workshop.md) mit Argwohn im Herzen verlässt.
 
 ## Orders
 
@@ -35,10 +35,10 @@ Der [Wirt](persona_innkeeper.md) sieht im [Wirtshaus](place_inn.md), was die Sö
 
 - Der Plan rechnet mit der Prahlerei der Brüder, die ihre Gaben im [Wirtshaus](place_inn.md) vorführen, sodass der Wirt weiß, was er stehlen und wie er es ersetzen muss.
 - Er rechnet mit dem festen Schlaf der müden Wanderer und damit, dass ein Abbild den Tausch verbirgt, bis der Bruder daheim das tote Stück vor dem [Vater](persona_father.md) blamiert.
-- Er rechnet nicht mit dem [Knüppel](piece_cudgel.md) im Sack des Jüngsten, dessen Griff nach der dritten Gabe die [Züchtigung und Heimkehr](process_retribution.md) über den Dieb bringt.
+- Er rechnet darauf, auch dem jüngsten [Sohn](persona_sons.md) die Gabe im Sack durch ein wertloses Abbild zu vertauschen, wie schon den beiden Brüdern.
 
 ## Targets
 
-- [x] Das Wunschtischchen ist im Schlaf des Ältesten vertauscht
-- [x] Der Goldesel ist im Schlaf des Zweiten vertauscht
-- [F] Der Knüppel des Jüngsten ist ebenso vertauscht (die Falle schnappt zu)
+- [ ] Das Wunschtischchen im Schlaf des Ältesten gegen ein gleiches vertauschen
+- [ ] Den Goldesel im Schlaf des Zweiten gegen einen gemeinen Esel vertauschen
+- [ ] Auch dem jüngsten Sohn die Gabe im Sack heimlich vertauschen

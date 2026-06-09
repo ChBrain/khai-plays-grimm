@@ -39,7 +39,7 @@ Der Jäger geht am [Großmutterhaus](place_cottage.md) vorüber und stutzt: die 
 
 ## Targets
 
-- [x] Der schlafende Wolf ist am Schnarchen erkannt und gefunden
-- [x] Rotkäppchen und die Großmutter sind lebend aus dem Bauch geschnitten
-- [x] Der Bauch ist mit schweren Steinen gefüllt
-- [x] Der Wolf fällt von der Last tot um
+- [ ] Den schlafenden Wolf am Schnarchen erkennen und im Bett finden
+- [ ] Mit der Schere den Bauch öffnen und die Verschlungenen lebend befreien
+- [ ] Den leeren Bauch mit schweren Steinen füllen, ehe der Wolf erwacht
+- [ ] Den Räuber durch sein eigenes Gewicht zu Fall bringen

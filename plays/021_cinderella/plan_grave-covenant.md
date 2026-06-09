@@ -33,13 +33,13 @@ Das Mädchen besitzt weder Stand noch Macht, nur die Treue zur toten Mutter und 
 
 ## Implementation
 
-- Die [Verwandlung](process_transformation.md) trägt das Mädchen aus der Asche in das Gewand der [Königin](position_bride.md), ohne dass es je die Treue zum Grab verrät.
-- Der [Goldene Schuh](piece_slipper.md) ist das untrügliche Zeugnis: kein Messer fälscht ihn, denn die [Täubchen](persona_birds.md) decken jedes Blut im Schuh auf.
-- Der Plan setzt nicht auf Zwang, sondern auf Frömmigkeit und die ausgleichende Natur, die den Hochmut stürzt und dem Treuen die Krone reicht.
+- Der Plan setzt darauf, dass die [Verwandlung](process_transformation.md) das Mädchen aus der Asche in das Gewand der [Königin](position_bride.md) trage, ohne dass es je die Treue zum Grab verrät.
+- Er vertraut darauf, dass der [Goldene Schuh](piece_slipper.md) als untrügliches Zeugnis allein der wahren Braut passe.
+- Er setzt nicht auf Zwang, sondern auf Frömmigkeit und die ausgleichende Natur, von der das Mädchen erhofft, dass sie dem Demütigen sein Recht gebe.
 
 ## Targets
 
-- [x] Der Haselbaum ist auf dem Grab erwachsen, das Vöglein gewährt jeden Wunsch
-- [x] Die Linsenprüfungen sind durch die Tauben bestanden
-- [x] Die drei Festnächte sind getanzt, der Königssohn ist gewonnen
-- [x] Der goldene Schuh hat die wahre Braut offenbart, das Recht ist gesprochen
+- [ ] Den Haselreis auf dem Muttergrab zum Wunderbaum erwachsen lassen, der jeden Wunsch gewährt
+- [ ] Die Täubchen rufen, dass sie die Linsen aus der Asche lesen und die Auslese bestehen
+- [ ] Vom Baum die Festkleider erbitten, dreimal mit dem Königssohn tanzen und sich ihm entziehen
+- [ ] Den goldenen Schuh anlegen, der allein ihr passt, und die Gerechtigkeit walten lassen

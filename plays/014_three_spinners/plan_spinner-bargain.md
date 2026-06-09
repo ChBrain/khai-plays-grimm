@@ -14,7 +14,7 @@ status: active
 
 ## Taxonomy
 
-Ein Befreiungsplan der Trägheit: das Vorhaben des [Mädchens](persona_girl.md), der unlösbaren [Spinnarbeit](process_spinning.md) zu entkommen, indem es drei verwachsene [Spinnerinnen](persona_spinners.md) anwirbt, den Flachs heimlich zu spinnen, und ihnen zum Lohn einen Platz an der Hochzeitstafel als ihre Tanten verspricht, sodass ihre Mißgestalt den Prinzen für immer vom Spinnrad abschreckt. Es gibt keinen Gegenplan; weder die [Königin](persona_queen.md) noch der [Prinz](persona_prince.md) durchschauen die Täuschung, und der Pakt gibt jeder Seite, was sie begehrt.
+Ein Befreiungsplan der Trägheit: das Vorhaben des [Mädchens](persona_girl.md), der unlösbaren [Spinnarbeit](process_spinning.md) zu entkommen, indem es drei verwachsene [Spinnerinnen](persona_spinners.md) anwirbt, den Flachs heimlich zu spinnen, und ihnen zum Lohn einen Platz an der Hochzeitstafel als ihre Tanten verspricht, sodass ihre Mißgestalt den Prinzen für immer vom Spinnrad abschrecken soll. Das Mädchen setzt darauf, daß weder die [Königin](persona_queen.md) noch der [Prinz](persona_prince.md) die Täuschung durchschauen und der Pakt jeder Seite gebe, was sie begehrt.
 
 ## Owner
 
@@ -39,7 +39,7 @@ Das [Mädchen](persona_girl.md) ist faul und kann kein [Garn](piece_yarn.md) erz
 
 ## Targets
 
-- [x] Die drei Spinnerinnen sind als heimliche Gehilfinnen angeworben
-- [x] Der Pakt um den Platz an der Hochzeitstafel als Tanten ist geschlossen
-- [x] Der gesponnene Flachs hat dem Mädchen die Heirat mit dem Prinzen gewonnen
-- [x] Der Prinz verbietet das Spinnrad für immer, die Befreiung ist vollkommen
+- [ ] Die drei verwachsenen Spinnerinnen als heimliche Gehilfinnen anwerben
+- [ ] Den Pakt um den Platz an der Hochzeitstafel als Tanten schließen
+- [ ] Den gesponnenen Flachs der Königin als eigenes Werk vorweisen und den Prinzen heiraten
+- [ ] Durch den Anblick der Verwachsenen den Prinzen zum ewigen Verbot des Spinnrads bewegen

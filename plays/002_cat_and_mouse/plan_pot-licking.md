@@ -39,7 +39,7 @@ Die Katze ist Gesellin nur dem Worte nach; ihrem Wesen nach ist sie Räuberin, u
 
 ## Targets
 
-- [x] Der Fetttopf ist gemeinsam verwahrt und die Maus an das Bündnis gebunden
-- [x] Die drei vorgetäuschten Taufen haben den Topf heimlich geleert
-- [x] Der Verrat ist durch die Patennamen verschleiert geblieben
-- [x] Die Maus ist beim Auffliegen des Diebstahls verschlungen, der Plan vollendet
+- [ ] Die Maus an das Bündnis binden und den Fetttopf gemeinsam unter dem Altar verwahren
+- [ ] Unter dem Vorwand dreier Taufen den Topf heimlich Schicht um Schicht auslecken
+- [ ] Den Diebstahl mit erfundenen Patennamen verschleiern
+- [ ] Beim Auffliegen des Diebstahls die Maus verschlingen, dass kein Kläger bleibt

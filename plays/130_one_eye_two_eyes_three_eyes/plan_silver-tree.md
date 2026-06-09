@@ -22,7 +22,7 @@ Ein Erlösungsplan der Verachteten: das Vorhaben der [Zweiäuglein](persona_two_
 
 ## Direction
 
-Die [Zweiäuglein](persona_two_eyes.md) ist daheim die [Ausgestoßene](position_outcast.md), in Lumpen gehalten und mit Schlägen genährt, und nun ist auch die [Ziege](piece_goat.md), ihre einzige heimliche Hilfe, geschlachtet. Doch dieselbe [weise Frau](persona_wise_woman.md), die ihr einst den Speisespruch gab, weist ihr nun den Weg aus dem Elend: nicht durch Klage und nicht durch Rache, sondern durch ein stilles [Wunderwachstum](process_growth.md). Was als Verlust der Ziege beginnt, wird durch den vergrabenen Rest der Ziege zum Zeichen, das nur ihr gehorcht, und führt zur [Befreiung](process_liberation.md) durch den vorüberreitenden [Ritter](persona_knight.md).
+Die [Zweiäuglein](persona_two_eyes.md) ist daheim die [Ausgestoßene](position_outcast.md), in Lumpen gehalten und mit Schlägen genährt, und nun ist auch die [Ziege](piece_goat.md), ihre einzige heimliche Hilfe, geschlachtet. Doch dieselbe [weise Frau](persona_wise_woman.md), die ihr einst den Speisespruch gab, weist ihr nun den Weg aus dem Elend: nicht durch Klage und nicht durch Rache, sondern durch ein stilles [Wunderwachstum](process_growth.md). Was als Verlust der Ziege beginnt, soll durch den vergrabenen Rest der Ziege zum Zeichen werden, das nur ihr gehorcht, und ihr den Weg zur [Befreiung](process_liberation.md) bahnen.
 
 ## Orders
 
@@ -33,13 +33,13 @@ Die [Zweiäuglein](persona_two_eyes.md) ist daheim die [Ausgestoßene](position_
 
 ## Implementation
 
-- Der Plan rechnet mit der [weisen Frau](persona_wise_woman.md), deren Rat die tote [Ziege](piece_goat.md) in den wundersamen [Apfelbaum](piece_enchanted_tree.md) wandelt.
-- Er rechnet damit, dass der Baum allein der [Zweiäuglein](persona_two_eyes.md) gehorcht: das Zeichen scheidet die Verachtete sichtbar von den Neidischen und zieht den [Ritter](persona_knight.md) auf sie.
-- Er rechnet nicht mit Vergeltung an den Schwestern; die erhöhte [Zweiäuglein](persona_two_eyes.md) nimmt die bettelnden Einäuglein und Dreiäuglein später sogar gütig wieder auf.
+- Der Plan rechnet mit der [weisen Frau](persona_wise_woman.md), deren Rat die tote [Ziege](piece_goat.md) in den wundersamen [Apfelbaum](piece_enchanted_tree.md) wandeln soll.
+- Er rechnet damit, dass der Baum allein der [Zweiäuglein](persona_two_eyes.md) gehorcht: das Zeichen soll die Verachtete sichtbar von den Neidischen scheiden und den [Ritter](persona_knight.md) auf sie ziehen.
+- Er setzt nicht auf Klage noch Rache, sondern allein auf das stille Wunder, das die Ausgestoßene aus der Not erheben soll.
 
 ## Targets
 
-- [x] Die Eingeweide der Ziege sind nach dem Rat der weisen Frau vergraben
-- [x] Der silbern-goldene Apfelbaum ist erwachsen und gehorcht nur Zweiäuglein
-- [x] Zweiäuglein bricht dem Ritter den goldenen Apfel trotz des Fasses
-- [x] Der Ritter nimmt sie zur Braut und führt sie in die Befreiung
+- [ ] Nach dem Rat der weisen Frau die Eingeweide der Ziege vor der Tür vergraben
+- [ ] Aus dem vergrabenen Rest den silbern-goldenen Apfelbaum erwecken, der nur ihr gehorcht
+- [ ] Dem vorüberreitenden Ritter trotz des Fasses einen goldenen Apfel brechen
+- [ ] Durch das Zeichen des Baumes die Befreiung aus dem Zuhause erlangen

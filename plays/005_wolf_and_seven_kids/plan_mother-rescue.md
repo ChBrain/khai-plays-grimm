@@ -35,11 +35,11 @@ Die Mutter kommt heim und findet das [Geißenhaus](place_goat-house.md) verwüst
 
 - Der Plan rechnet mit dem [Wolfschlummer](process_wolf-sleeping.md) und damit, dass der gierige Schlinger die Beute ganz und lebendig hinabwürgte, sodass die [Aufschneidung](process_cutting-open.md) sie unversehrt freigibt.
 - Er rechnet mit den [Steinen](piece_stones.md), die das [Zunähen](process_sewing.md) im Bauch verbirgt, und mit dem brennenden Durst, der den Schläfer von selbst zum [Brunnen](place_well.md) treibt.
-- Er rechnet nicht auf Glück, sondern auf die Hand der [Mutter](position_mother.md): jeder Schritt greift, und am Ende tanzen die sieben mit ihr um den Brunnen.
+- Er rechnet nicht auf Glück, sondern auf die ruhige Hand der [Mutter](position_mother.md), die jeden Schritt sicher führt.
 
 ## Targets
 
-- [x] Der schlafende Wolf ist auf der Wiese gefunden
-- [x] Die sechs Geißlein sind lebend aus dem Bauch geschnitten
-- [x] Der Bauch ist mit Steinen gefüllt und wieder zugenäht
-- [x] Der Wolf ist am Brunnen in die Tiefe gezogen und ertrunken
+- [ ] Den schlafenden Wolf satt und faul auf der Wiese aufspüren
+- [ ] Die sechs Geißlein lebend aus dem Bauch schneiden
+- [ ] Den Bauch mit schweren Steinen füllen und wieder zunähen
+- [ ] Den durstigen Wolf am Brunnen durch die Last der Steine ertränken

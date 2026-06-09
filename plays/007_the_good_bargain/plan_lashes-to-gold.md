@@ -35,11 +35,11 @@ Der Bauer hat mit Fröschen und Hunden gerechte [Handel](process_bargain.md) ges
 
 - Der Plan rechnet damit, dass ein zugesprochenes Urteil dem Verurteilten gehört und also verkauft werden kann wie eine Kuh.
 - Er rechnet mit der Habsucht des Soldaten und des Juden, die für Geld die Schläge kaufen, ehe sie wissen, was sie da erstehen.
-- Er rechnet damit, dass der König dem belauschten Verräter nicht glaubt: so wird der geliehene Rock zum Geschenk, und der Verrat fällt auf den Verräter zurück.
+- Er rechnet darauf, dass der König dem belauschten Verräter nicht glaubt, sondern dem treuherzigen Bauern, sodass sich der geliehene Rock als Geschenk erbitten lässt.
 
 ## Targets
 
-- [x] Das Urteil der fünfhundert Schläge ist als veräußerlicher Lohn angenommen
-- [x] Die Schläge sind an Soldat und Jude verkauft, der Bauer mit Gold beschenkt
-- [x] Soldat und Jude haben die Prügelstrafe als Sündenböcke empfangen
-- [x] Der geliehene Rock ist dem Bauern vom König geschenkt, der Jude vertrieben
+- [ ] Das Urteil der fünfhundert Schläge als veräußerlichen Lohn annehmen
+- [ ] Die Schläge an Soldat und Jude verkaufen und sich mit Gold beschenken lassen
+- [ ] Soldat und Jude die Prügelstrafe als Sündenböcke empfangen lassen
+- [ ] Den Juden vor dem König der Lüge zeihen und den geliehenen Rock zum Geschenk machen

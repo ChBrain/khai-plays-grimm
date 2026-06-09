@@ -39,7 +39,7 @@ Herr Fuchs kann die Treue seiner Frau nicht erfragen, denn eine Frage warnt den 
 
 ## Targets
 
-- [x] Der Scheintod ist auf der Ofenbank gelegt und die Witwentrauer begonnen
-- [x] Die Freier mit einem bis acht Schwänzen sind durch die Magd geprüft und abgewiesen
-- [x] Der neunschwänzige Freier ist bis zum bereiteten Hochzeitsmahl vorgedrungen
-- [x] Der Fuchs ist erwacht, hat die Freier verjagt und die Gattin zurückgefordert
+- [ ] Den Scheintod auf der Ofenbank legen und die Witwentrauer beginnen lassen
+- [ ] Jeden Freier durch die Magd melden und die Brautwerbung prüfen lassen
+- [ ] Die Treue der Frau Füchsin am hervorgelockten Werber erproben
+- [ ] Aus dem Scheintod auffahren, die Freier verjagen und die Gattin zurückfordern

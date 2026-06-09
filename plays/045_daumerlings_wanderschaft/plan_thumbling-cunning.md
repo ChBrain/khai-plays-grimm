@@ -40,7 +40,7 @@ Der daumengroße Schneidersohn zieht als [Reisender](position_traveler.md) in di
 
 ## Targets
 
-- [x] Aus dem Mauseloch ist der Meister verspottet und das Wischtuch entgangen
-- [x] Die Goldmünzen sind durchs Gitter geworfen und der Schatzdiebstahl geglückt
-- [x] Aus dem Magen von Kuh und Wolf sind die Gegner gelenkt und genarrt
-- [x] Der Wolf ist heimgeführt und die Befreiung im Elternhaus gelungen
+- [ ] Sich ins Mauseloch verkriechen, den Meister verspotten und dem Wischtuch entgehen
+- [ ] Durchs Gitter der Schatzkammer kriechen und die Goldmünzen ungesehen hinauswerfen
+- [ ] Aus dem Magen von Kuh und Wolf heraus die Gegner lenken und narren
+- [ ] Den gierigen Wolf zum Elternhaus führen und heil heimkehren

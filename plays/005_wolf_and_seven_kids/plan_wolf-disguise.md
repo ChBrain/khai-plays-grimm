@@ -22,7 +22,7 @@ Ein Raubplan der Gier: das Vorhaben des [Wolfes](persona_wolf.md), Stimme und Pf
 
 ## Direction
 
-Der Wolf weiß, dass die Kinder ihn an der rauhen Stimme und der schwarzen Pfote erkennen, denn die [Verwarnung](process_warning.md) der Mutter hat ihn beschrieben, ehe er klopfte. So sinnt er nicht auf Gewalt an verriegelter Tür, sondern auf [Täuschung](process_deception.md): er macht sich zur Mutter, die er nicht ist. Was zweimal an der Wahrheit seines Leibes scheitert, soll beim dritten Mal durch falschen Schein gelingen, bis die arme Schar das Schloss aus eigener Hand zurückzieht.
+Der Wolf weiß, dass die Kinder ihn an der rauhen Stimme und der schwarzen Pfote erkennen, denn die [Verwarnung](process_warning.md) der Mutter hat ihn beschrieben, ehe er klopfte. So sinnt er nicht auf Gewalt an verriegelter Tür, sondern auf [Täuschung](process_deception.md): er macht sich zur Mutter, die er nicht ist. Er will durch falschen Schein, süße Stimme und helle Tatze, jeden Verdacht zerstreuen, bis die arme Schar das Schloss aus eigener Hand zurückzieht.
 
 ## Orders
 
@@ -34,12 +34,12 @@ Der Wolf weiß, dass die Kinder ihn an der rauhen Stimme und der schwarzen Pfote
 ## Implementation
 
 - Der Plan rechnet mit der süßen Stimme und der [weißbemehlten Pfote](piece_whitened-paw.md), die die Zeichen der Mutter so genau nachahmen, dass die Kinder die Warnung vergessen.
-- Er rechnet nicht mit dem [jüngsten Geißlein](persona_youngest-kid.md), das sich in die [Wanduhr](place_clock-case.md) duckt und der heimkehrenden [Mutter Geiß](persona_mother-goat.md) den Hergang verrät.
-- Er rechnet nicht damit, dass die ganz hinuntergeschluckte Beute im Bauch noch lebt: die [Aufschneidung](process_cutting-open.md) holt sie heraus, und das [Ertrinken](process_drowning.md) am [Brunnen](place_well.md) macht den Trug zunichte.
+- Er rechnet mit der Gier, die Beute ganz hinunterzuschlingen, ehe die Mutter heimkehrt.
+- Er rechnet darauf, dass die verriegelte Tür allein durch List fällt und kein Geißlein das Zeichen durchschaut.
 
 ## Targets
 
-- [x] Mit süßer Stimme und weißer Pfote ist die Tür geöffnet
-- [x] Sechs der sieben Geißlein sind verschlungen
-- [F] Die Beute bleibt im Bauch (lebendig herausgeschnitten, Steine an ihrer Statt)
-- [F] Der Wolf entkommt mit seinem Raub (am Brunnen ertränkt)
+- [ ] Durch die rauhe Stimme nicht verraten werden: die Stimme süß und fein machen
+- [ ] Die schwarze Pfote weiß bemehlen, dass sie der Mutter Tatze gleicht
+- [ ] Mit süßer Stimme und weißer Pfote die Tür des Geißenhauses öffnen lassen
+- [ ] In das Haus stürzen und die Geißlein verschlingen

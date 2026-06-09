@@ -33,13 +33,13 @@ Die Stiefmutter liebt ihr eigenes Töchterlein, doch den Knaben kann sie nicht a
 
 ## Implementation
 
-- Der Plan rechnet mit der Gier nach den [Äpfeln](piece_apples.md) und der Furcht des Mägdleins, das die Schuld blind auf sich nimmt.
-- Er rechnet nicht damit, dass die [Trauernde](position_mourner.md) die Knochen sammelt und unter den [Machandelbaum](place_juniper_tree.md) legt, wo die [Wiedergeburt](process_resurrection.md) den Knaben als Vogel auferweckt.
-- Er rechnet nicht mit dem [Mühlstein](piece_gifts.md), den der singende Vogel über ihr Haupt herabstürzt: die [Vergeltung](process_retribution.md) trifft die Mörderin in ihrer eigenen Tür.
+- Der Plan rechnet mit der Gier nach den [Äpfeln](piece_apples.md), die den Knaben über die Truhe lockt, sodass der Deckel sein Beil wird.
+- Er rechnet mit der Furcht des Mägdleins, das die Schuld blind auf sich nimmt und die Spur der Tat verwischt.
+- Er rechnet darauf, dass das [Sauerfleisch](piece_stew.md) den Leib spurlos verzehrt und der [Vater](persona_father.md) ahnungslos mitisst, sodass kein Zeuge bleibt und der [Mord](process_murder.md) für immer begraben sei.
 
 ## Targets
 
-- [x] Der Knabe ist an der Apfeltruhe enthauptet und getötet
-- [x] Der Mord ist verdeckt, das Sauerfleisch verzehrt, die Schuld auf das Mägdlein gewälzt
-- [F] Das Verbrechen bleibt für immer begraben (der Vogel steigt aus dem Baum und klagt es laut)
-- [F] Die Stiefmutter bleibt unversehrt (der Mühlstein zerschmettert sie an der Tür)
+- [ ] Den Knaben mit den Äpfeln an die Truhe locken und ihm den Deckel auf den Hals fallen lassen
+- [ ] Das eigene Töchterlein zur Ohrfeige reizen, damit es sich anklage und die Schuld trage
+- [ ] Den Leib als Sauerfleisch kochen und den ahnungslosen Vater davon essen lassen
+- [ ] Den Mord verdecken und das Verbrechen für immer begraben halten

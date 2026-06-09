@@ -33,12 +33,13 @@ Die Mutter und die beiden missgestalteten Schwestern hassen die [Zweiäuglein](p
 
 ## Implementation
 
-- Der Plan rechnet mit dem dritten, nie ganz schlafenden Auge der [Dreiäuglein](persona_three_eyes.md), das den Zauber aufdeckt, den ein Schlaflied nicht verbergen kann.
-- Er rechnet mit der Schlachtung der [Ziege](piece_goat.md) als endgültigem Schlag, der die verhasste Schwester zurück in die Not zwinge.
-- Er rechnet nicht mit dem Rat der weisen Frau: aus den vergrabenen Eingeweiden der Ziege wächst durch [Wunderwachstum](process_growth.md) der silbern-goldene [Apfelbaum](piece_enchanted_tree.md), und die Totgeglaubte steigt durch ihn höher, als der Neid es je gedacht hat.
+- Der Plan rechnet mit dem dritten, nie ganz schlafenden Auge der [Dreiäuglein](persona_three_eyes.md), das den Zauber aufdecken soll, den ein Schlaflied nicht verbergen kann.
+- Er rechnet mit der Schlachtung der [Ziege](piece_goat.md) als endgültigem Schlag, der die verhasste Schwester zurück in die Not zwingen soll.
+- Er setzt darauf, dass mit der toten Ziege die heimliche Quelle versiegt und die Verachtete für immer in Hunger gehalten bleibt.
 
 ## Targets
 
-- [x] Das Ausspähen durch Dreiäugleins drittes Auge deckt die Ziege auf
-- [x] Die Ziege ist geschlachtet, die heimliche Speise genommen
-- [F] Zweiäuglein bleibt in Hunger und Verachtung gehalten (sie steigt durch den Apfelbaum dennoch empor)
+- [ ] Einäuglein als Kundschafterin auf die Wiese senden, das Geheimnis zu erspähen
+- [ ] Dreiäuglein nachschicken, dass ihr drittes Auge den Speisespruch der Ziege belauscht
+- [ ] Auf den Bericht hin die Ziege schlachten und die heimliche Speise nehmen
+- [ ] Das Mädchen weiter als Ausgestoßene in Hunger und Verachtung halten

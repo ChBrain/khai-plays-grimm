@@ -35,11 +35,11 @@ Das [Glückskind](persona_luck_child.md), in der Glückshaut geboren und vom Sch
 
 - Der Plan rechnet auf die Glückshaut und das verbürgte Schicksal, das das Kind durch Fluss, Brief und Hölle unversehrt trägt.
 - Er rechnet auf die [Helferin](position_helper.md): nicht das Kind, sondern die alte [Großmutter](persona_grandmother.md) vollzieht den [Haardiebstahl](process_theft.md) und entlockt im Halbschlaf die [Antworten](piece_key.md).
-- Er rechnet damit, dass die heimgebrachten [Antworten](piece_key.md) mehr lösen als das eine [Rätsel](piece_riddles.md): die letzte deutet das Gold am Fluss, das den gierigen [König](persona_king.md) an die Ruder des [Fährmanns](persona_ferryman.md) bindet.
+- Er rechnet darauf, dass die heimgebrachten [Antworten](piece_key.md) mehr lösen als das eine [Rätsel](piece_riddles.md) und auch die Not der Welt am Fluss und beim [Fährmann](persona_ferryman.md) deuten.
 
 ## Targets
 
-- [x] Die drei Rätsel der Welt sind unterwegs gesammelt
-- [x] Die Großmutter verbirgt das Glückskind in der Hölle
-- [x] Die drei Haare sind ausgerupft, die drei Antworten entlockt
-- [x] Das Glückskind kehrt reich heim und ist als Auserwählter erlöst
+- [ ] Unterwegs die drei Rätsel der Welt sammeln und beim Fährmann übersetzen
+- [ ] Teufels Großmutter um Schutz bitten, die das Kind verwandelt und verbirgt
+- [ ] Durch die Großmutter dem schlafenden Teufel die drei Haare ausrupfen und die drei Antworten entlocken
+- [ ] Mit Haaren und Antworten reich zum Schloss heimkehren und die Erlösung vollziehen

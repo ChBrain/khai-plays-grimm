@@ -14,7 +14,7 @@ status: active
 
 ## Taxonomy
 
-Ein Fangplan der Bosheit: das Vorhaben des [Teufels](persona_devil.md), die fromme Tochter des [Müllers](persona_miller.md) durch einen heimlichen Pakt für sich zu gewinnen und, als ihre Reinheit ihn abwehrt, durch verfälschte [Briefe](piece_letters.md) den [König](persona_king.md) zum Verstoß von Frau und Kind zu treiben. Es gibt keinen Gegenplan; nicht ein menschlicher Widersacher, sondern Gottes Gnade und der [Engel](persona_angel.md) wenden zuletzt den Anschlag.
+Ein Fangplan der Bosheit: das Vorhaben des [Teufels](persona_devil.md), die fromme Tochter des [Müllers](persona_miller.md) durch einen heimlichen Pakt für sich zu gewinnen und, als ihre Reinheit ihn abwehrt, durch verfälschte [Briefe](piece_letters.md) den [König](persona_king.md) zum Verstoß von Frau und Kind zu treiben. Es gibt keinen Gegenplan; nicht ein menschlicher Widersacher steht ihm entgegen, nur die Frömmigkeit des [Mädchens](persona_girl.md), die er mit List zu umgehen sucht.
 
 ## Owner
 
@@ -35,11 +35,11 @@ Der [Teufel](persona_devil.md) handelt als [Versucher](position_tempter.md): er 
 
 - Der Plan rechnet mit der Habgier des [Müllers](persona_miller.md), der im [Teufelspakt](process_bargain.md) blind die Tochter verschreibt.
 - Er rechnet mit der Abwesenheit des [Königs](persona_king.md), die den Botenweg ungesichert lässt und die [Briefe](piece_letters.md) dem Zugriff preisgibt.
-- Er rechnet nicht mit der göttlichen Gnade und dem [Engel](persona_angel.md): im [Waldhaus](place_forest_house.md) wachsen dem [Mädchen](persona_girl.md) die Hände nach, der [König](persona_king.md) findet sie wieder, und der Anschlag zerfällt.
+- Er setzt darauf, dass die verfälschten [Briefe](piece_letters.md) das [Mädchen](persona_girl.md) samt [Kind](piece_child.md) ins [Waldhaus](place_forest_house.md) treiben, fort aus der Reichweite des [Königs](persona_king.md).
 
 ## Targets
 
-- [x] Der Pakt mit dem Müller ist geschlossen und das Mädchen verschrieben
-- [x] Dem Opfer sind die Hände abgehackt und es ist aus der Mühle getrieben
-- [x] Die verfälschten Briefe haben die Vertreibung von Frau und Kind erwirkt
-- [F] Das Mädchen ist dem Teufel verfallen (Gottes Gnade heilt sie, der König findet sie wieder)
+- [ ] Mit dem Müller den Pakt schließen und sich das fromme Mädchen verschreiben
+- [ ] Dem Opfer die Hände abhacken lassen und es aus der Mühle treiben
+- [ ] Die Boten abfangen und durch verfälschte Briefe die Vertreibung erwirken
+- [ ] Das Mädchen samt Kind aus dem Schloss in den Wald treiben

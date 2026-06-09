@@ -22,7 +22,7 @@ Ein Trugplan gegen das Schicksal: das Vorhaben des [Patenkindes](persona_godson.
 
 ## Direction
 
-Der Pate [Gevatter Tod](persona_death.md) hat seinem Patensohn das [Zauberkraut](piece_magical_herb.md) geschenkt und ihm die eherne Regel erklärt: steht der Tod am Kopf des Kranken, ist er sein; steht er am Fuß, darf das Kraut ihn heilen. Der Arzt nimmt die Regel an, doch sein Witz sinnt auf einen Ausweg, wo keiner vorgesehen ist. Zweimal, beim sterbenden König und bei der todgeweihten Königstochter, sieht er den [Tod](persona_death.md) am Kopfende stehen, und zweimal lässt er das ganze Bett rasch umdrehen, sodass die Gestalt ans Fußende kommt. Dann wirkt das [Zauberkraut](piece_magical_herb.md), und der schon Verlorene erwacht. Es ist ein Betrug aus Eitelkeit und aus Liebe zugleich, und er greift dem Paten in sein eigenes Recht: jeder Sieg am [Krankenzimmer](place_sickroom.md) ist ein Diebstahl an der [Patenschaft](process_patronage.md), den der [Tod](persona_death.md) nicht zweimal duldet.
+Der Pate [Gevatter Tod](persona_death.md) hat seinem Patensohn das [Zauberkraut](piece_magical_herb.md) geschenkt und ihm die eherne Regel erklärt: steht der Tod am Kopf des Kranken, ist er sein; steht er am Fuß, darf das Kraut ihn heilen. Der Arzt nimmt die Regel an, doch sein Witz sinnt auf einen Ausweg, wo keiner vorgesehen ist. Zweimal, beim sterbenden König und bei der todgeweihten Königstochter, sieht er den [Tod](persona_death.md) am Kopfende stehen, und zweimal lässt er das ganze Bett rasch umdrehen, sodass die Gestalt ans Fußende kommt. Dann wirkt das [Zauberkraut](piece_magical_herb.md), und der schon Verlorene erwacht. Es ist ein Betrug aus Eitelkeit und aus Liebe zugleich, und er greift dem Paten in sein eigenes Recht: jeder Sieg am [Krankenzimmer](place_sickroom.md) ist ein Diebstahl an der [Patenschaft](process_patronage.md), auf den der Arzt im Vertrauen auf seinen Witz setzt.
 
 ## Orders
 
@@ -34,11 +34,11 @@ Der Pate [Gevatter Tod](persona_death.md) hat seinem Patensohn das [Zauberkraut]
 ## Implementation
 
 - Der Plan rechnet damit, dass ein gedrehtes Bett die untrügliche Regel täuscht: der [Tod](persona_death.md) hält sich an seinen Stand, nicht an den Menschen.
-- Er rechnet nicht damit, dass der Pate den Betrug durchschaut und jeden gestohlenen Sieg auf das [Lebenslicht](piece_life_candle.md) des Arztes anrechnet.
-- Er rechnet nicht damit, dass die unbestechliche [Patenschaft](process_patronage.md) keinen zweiten Trug verzeiht: was zweimal gelang, wird beim Paten selbst mit dem Leben bezahlt.
+- Er rechnet damit, dass das [Zauberkraut](piece_magical_herb.md) am Fußende stets wirkt, gleich ob der Kranke leben sollte oder nicht.
+- Er rechnet darauf, dass der Witz des Arztes dem Paten dort einen Ausweg abringt, wo die eherne Regel keinen vorsieht.
 
 ## Targets
 
-- [x] Der König ist durch das gedrehte Bett gerettet
-- [x] Die Königstochter ist durch denselben Betrug gerettet
-- [F] Der eigene Betrug ist gestraft (der Tod löscht das Lebenslicht des Patenkindes)
+- [ ] Das Zauberkraut und die Regel des Paten annehmen und als Heiler berühmt werden
+- [ ] Den sterbenden König durch das heimlich gedrehte Bett dem Tod entreißen
+- [ ] Die todgeweihte Königstochter durch denselben Betrug aus Liebe retten

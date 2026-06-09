@@ -14,7 +14,7 @@ status: active
 
 ## Taxonomy
 
-Ein Mordplan der Herrschsucht: das Vorhaben des [König-Vaters](persona_king.md), seine zwölf Söhne hinwegzuräumen, falls eine Tochter geboren wird, damit das Reich und alles Erbe ihr allein zufalle. Es ist der Gegenplan zur [Hexenklage am Scheiterhaufen](plan_witch-pyre.md): wo jener das stumme Mädchen vernichten will, will dieser die Knaben opfern, doch beide Anschläge der Mächtigen zerschellen an der Treue, die sie nicht bedacht haben.
+Ein Mordplan der Herrschsucht: das Vorhaben des [König-Vaters](persona_king.md), seine zwölf Söhne hinwegzuräumen, falls eine Tochter geboren wird, damit das Reich und alles Erbe ihr allein zufalle. Es ist der Gegenplan zur [Hexenklage am Scheiterhaufen](plan_witch-pyre.md): wo jener das stumme Mädchen vernichten will, will dieser die Knaben opfern.
 
 ## Owner
 
@@ -34,12 +34,12 @@ Der König will eine Tochter über alles, und sein Wille duldet keinen Miterben:
 ## Implementation
 
 - Der Plan rechnet damit, dass das rote Zeichen die Knaben überrascht und ihnen keine Zeit zur [Flucht](process_exile.md) lässt.
-- Er rechnet nicht mit dem Mitleid der [Königin](persona_queen.md), die [Benjamin](persona_benjamin.md) den Mordplan und das Zeichen verrät, ehe das Tuch gehisst wird.
-- Er rechnet nicht damit, dass die gewarnten Söhne unter [Benjamins](persona_benjamin.md) Führung in den Wald entweichen: das rote Tuch findet leere Betten, und die [Schwester](persona_sister.md), um deretwillen gemordet werden sollte, zieht ihnen später als Retterin nach.
+- Er rechnet auf die Verschwiegenheit der [Königin](persona_queen.md), die das Geheimnis um des väterlichen Willens willen wahre und [Benjamin](persona_benjamin.md) und die Brüder nichts ahnen lasse.
+- Er rechnet darauf, dass die Söhne den Anschlag nicht vorher entdecken, sondern das rote Tuch sie in den bereiten Särgen treffe.
 
 ## Targets
 
-- [x] Die zwölf Särge sind gezimmert und in der Kammer verborgen
-- [x] Das Flaggenzeichen ist bestimmt, Weiß für Leben, Rot für Tod
-- [F] Das Geheimnis ist gewahrt (die Königin warnt Benjamin und die Brüder)
-- [F] Die zwölf Söhne sind beim roten Zeichen getötet (sie sind in den Wald geflohen)
+- [ ] Zwölf Särge zimmern und heimlich in der verschlossenen Kammer verbergen
+- [ ] Das Flaggenzeichen bestimmen: Weiß für das Leben eines Sohnes, Rot für den Tod der zwölf
+- [ ] Die Königin ins Geheimnis binden, dass der Anschlag verborgen bleibe
+- [ ] Beim roten Zeichen die Söhne in die bereiten Särge schicken

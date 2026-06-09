@@ -40,8 +40,8 @@ Daumesdick ist so klein wie ein Daumen und hat keine Hand, die einen Zaum hält,
 
 ## Targets
 
-- [x] Der Wagen ist aus dem Pferdeohr in den Wald gelenkt
-- [x] Daumesdick ist als Ware verkauft und den Fremden entwischt
-- [x] Der Pfarrhaus-Einbruch ist durch lautes Schreien vereitelt
-- [x] Kuh und Wolf haben den im Heu Schlafenden verschluckt
-- [x] Der Wolf ist heimgesteuert und Daumesdick aus dem Tier befreit
+- [ ] Den Wagen aus dem Pferdeohr in den Wald lenken
+- [ ] Sich als Ware verkaufen lassen und den Fremden entwischen
+- [ ] Den Pfarrhaus-Einbruch durch lautes Schreien vereiteln
+- [ ] Sich im Heu verbergen und von Kuh und Wolf verschlucken lassen
+- [ ] Den Wolf ins Bauernhaus heimsteuern und sich aus dem Tier befreien lassen
