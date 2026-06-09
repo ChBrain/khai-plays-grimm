@@ -1,0 +1,36 @@
+---
+khai: plot
+title: "theft"
+declared: "Der Kohldiebstahl"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-09"
+---
+
+# Plot: Der Kohldiebstahl
+
+## Taxonomy
+
+[play_hares_bride](play_hares_bride.md)
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Cue
+
+Das Häsichen frisst im Winter den Kohl aus dem Familiengarten.
+
+## Action
+
+Die Mutter sendet das Mädchen wiederholt hinaus, um das Tier zu verjagen, was zu einer ersten Kontaktaufnahme führt.
+
+## Stage
+
+Der kleine, winterliche Kohlgarten der Mutter.
+
+## Tension
+
+Die Notwendigkeit des Besitzschutzes der Mutter gegen den unbefangenen Diebstahl des Tieres.
