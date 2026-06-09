@@ -8,8 +8,8 @@ multi-step scheme worth staging as a `plan` element?
 
 A plan is a deliberate scheme a character pursues in-world: an Owner (who it is
 for), Orders (who acts), and Targets (the steps), where each target resolves to
-a canon verdict, `[x]` done, `[F]` failed, or `[?]` flagged (outcome open to
-question). A plan is warranted where the scheme's success or failure, step by
+a canon verdict, `[x]` done, `[F]` failed, `[W]` waived (dropped or overtaken), or `[-]`
+struck (cut as moot). A plan is warranted where the scheme's success or failure, step by
 step, is where the drama sits: a villain's plot, a trickster's con, a quest run
 to a strategy, or a pair of schemes that collide. It is not warranted where the
 tale is a passive transformation, an accident, a cascade, or a moral fable with
@@ -40,7 +40,7 @@ plans and is the template for the rest.
 | 003 | our lady's child            | THIN           | Maedchen                               | repeatedly deny opening the forbidden door                                                                                    | backfires ([F]), undone by confession                   |
 | 004 | youth learning fear         | POSSIBLE       | Koenigstochter, Kammerjungfer          | cure his fearlessness with cold water and live minnows in his sleep                                                           | succeeds ([x])                                          |
 | 005 | wolf and seven kids         | STRONG, pair   | Wolf vs Mutter Geiss                   | soften voice with chalk, whiten paw with flour, be let in and eat them; mother cuts them free and fills the belly with stones | wolf [x] then [F]; mother [x]                           |
-| 006 | faithful johannes           | STRONG         | Johannes                               | a gold-ship ruse to win the princess, then secretly avert three prophesied dangers under a vow of silence                     | [x] courtship and dangers, then [F]/[?] turned to stone |
+| 006 | faithful johannes           | STRONG         | Johannes                               | a gold-ship ruse to win the princess, then secretly avert three prophesied dangers under a vow of silence                     | [x] courtship and dangers, then [F]/[W] turned to stone |
 | 007 | the good bargain            | POSSIBLE       | Bauer                                  | turn a sentence of lashes into profit, then trick the king out of the coat                                                    | succeeds ([x])                                          |
 | 008 | wonderful musician          | STRONG         | Spielmann                              | lure each beast with the fiddle on the pretext of lessons, then trap them one by one                                          | succeeds ([x] each trap)                                |
 | 009 | the twelve brothers         | POSSIBLE, pair | Koenig-Vater; boese Mutter             | a flag-signal plan to kill twelve sons if a girl is born; the stepmother's later witch-burning plot                           | both backfire ([F]); the silent vow defeats them        |
@@ -82,7 +82,7 @@ plans and is the template for the rest.
 | 045 | daumerling's travels        | STRONG         | Daeumling                              | aid the heist by tossing coins out unseen, evade captors, steer the wolf home                                                 | succeeds ([x] throughout)                               |
 | 046 | fitcher's bird              | STRONG, pair   | the youngest sister vs the Zauberer    | keep the test-egg clean, revive the sisters, disguise in honey and feathers to escape, then burn him                          | succeeds ([x] throughout)                               |
 | 047 | the juniper tree            | STRONG, pair   | Stiefmutter; the bird-son              | murder the boy and cook him into stew; the bird's planned vengeance and the killing millstone                                 | murder [x] then [F]; the bird [x]                       |
-| 048 | old sultan                  | STRONG, pair   | Sultan and Wolf                        | a staged fake-kidnapping so Sultan can "rescue" the child; then the pact breaks                                               | rescue [x], [F] on repayment, [?] reconciled            |
+| 048 | old sultan                  | STRONG, pair   | Sultan and Wolf                        | a staged fake-kidnapping so Sultan can "rescue" the child; then the pact breaks                                               | rescue [x], [F] on repayment, [W] reconciled            |
 | 049 | the six swans               | STRONG, pair   | Schwesterchen vs the queen-mother      | six years' silence sewing six shirts; the queen-mother steals the newborns and frames her                                     | rescue [x]/[F] (a sleeve short); slander [F]            |
 | 050 | briar rose                  | NONE           | (the 13th fairy, faint)                | a single spiteful curse, then passive enchantment                                                                             | n/a                                                     |
 | 051 | fundevogel                  | STRONG, pair   | Koechin vs the siblings                | the cook plots to boil Fundevogel; the siblings' night-flight and serial transformations                                      | cook [F]; siblings [x]                                  |
