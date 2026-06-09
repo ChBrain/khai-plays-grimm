@@ -67,6 +67,11 @@ In der Räuberhütte, in jener Nacht, da die Brüder den Preis nennen, begibt si
 - [unfertiger Ärmel](piece_unfinished-sleeve.md)
 - [Schwanenhäute](piece_swan-skins.md)
 
+**Plans** (die einander begegnen)
+
+- [das schweigende Nähen](plan_silent-sewing.md): das Vorhaben des Schwesterchens, durch sechs Jahre Schweigen und sechs Hemden den Schwanenzauber über die Brüder zu brechen.
+- [die Verleumdung der Königin-Mutter](plan_mother-slander.md): das Vorhaben der Königin-Mutter, die stumme Königin durch geraubte Kinder und blutigen Mund als Kinderfresserin zu verderben.
+
 ## Triggers
 
 **[Plot 1: Der Handel im Wald](plot_bargain-in-the-wood.md)**

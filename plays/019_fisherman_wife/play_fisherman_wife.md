@@ -59,6 +59,10 @@ Ein armer Fischer fängt einen sprechenden Butt, der sich als verwandelter Prinz
 - [Buttfisch](piece_fish.md)
 - [Prunkthron](piece_throne.md)
 
+**Plans**
+
+- [die Leiter der maßlosen Wünsche](plan_wish-ladder.md): das Vorhaben Ilsebills, den Butt durch ihren willfährigen Mann Stufe um Stufe zu immer höheren Wünschen zu treiben, vom Häuschen bis zur Göttlichkeit.
+
 ## Triggers
 
 **[Plot 1: Die Freilassung des Butts](plot_01_flounder-release.md)**

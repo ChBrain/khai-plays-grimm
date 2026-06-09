@@ -59,6 +59,10 @@ Ein verstümmeltes Mädchen flieht vor dem Teufel, wird durch Gottes Gnade und e
 - [Birne](piece_pear.md)
 - [Kind](piece_child.md)
 
+**Plans**
+
+- [der Anspruch des Teufels](plan_devils-claim.md): das Vorhaben des Teufels, die fromme Müllerstochter durch Pakt und gefälschte Briefe für sich zu fangen und samt Kind ins Elend zu treiben.
+
 ## Triggers
 
 **[Plot 1: Der Teufelspakt](plot_01_bargain_and_sacrifice.md)**

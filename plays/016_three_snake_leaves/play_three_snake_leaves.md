@@ -59,6 +59,10 @@ Ein armer Jüngling zieht in den Krieg, siegt durch tapferen Einsatz und gewinnt
 - [Schlange](piece_snake.md)
 - [Todesboot](piece_holey-ship.md)
 
+**Plans**
+
+- [der Mord auf hoher See](plan_ship-murder.md): das Vorhaben der wieder erweckten Prinzessin, den treuen Gatten mit dem König auf dem Schiff trunken zu machen und ins Meer zu werfen.
+
 ## Triggers
 
 **[Plot 1: Der Kriegsheld](plot_01_war-hero.md)**

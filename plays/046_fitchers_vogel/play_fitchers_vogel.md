@@ -55,6 +55,11 @@ Ein Zauberer raubt Schwestern, wird von der klugen Jüngsten überlistet, die al
 - [Ei](piece_egg.md)
 - [Federvogel](piece_feather_disguise.md)
 
+**Plans** (die einander begegnen)
+
+- [die Eierprobe des Zauberers](plan_test-trap.md): das Vorhaben des Zauberers, jede Braut mit Ei und Schlüssel zu prüfen und die Ungehorsamen zu zerstückeln.
+- [die List der jüngsten Schwester](plan_bird-disguise.md): das Vorhaben der Jüngsten, das Ei rein zu halten, die Schwestern zu beleben und als Vogel die Sippe zum Brand zu rufen.
+
 ## Triggers
 
 **[Plot 1: Die Entführung](plot_01_abduction.md)**
