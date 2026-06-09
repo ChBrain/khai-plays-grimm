@@ -29,7 +29,7 @@ Der jüngste der drei zog nicht nach Gold und Silber wie die Brüder, sondern na
 1. Der [Bruder](persona_brother.md) erwirbt im [Tauschgeschäft](process_exchange.md) bei den [Köhlern](persona_charcoal_burners.md) den [Ranzen](piece_knapsack.md), das [Hütlein](piece_hat.md) und das [Hörnlein](piece_horn.md), indem er das [Wunschtuch](piece_tablecloth.md) hingibt und es mit dem Ranzen schlau zurückholt.
 2. Er klopft den [Ranzen](piece_knapsack.md), lässt Soldaten hervor und stellt sie dem [König](persona_king.md) entgegen, der über den Spott der Brüder Krieg führt.
 3. Er setzt das [Hütlein](piece_hat.md) zum Kanonendonner ein und zwingt den [Herrscher](position_sovereign.md), ihm die [Prinzessin](persona_princess.md) zur Frau zu geben.
-4. Nach dem [Verrat](process_betrayal.md) bläst er das [Hörnlein](piece_horn.md), vollzieht die [Zerstörung](process_destruction.md) des [Königsschlosses](place_palace.md) und setzt sich selbst die Krone auf.
+4. Er bläst das [Hörnlein](piece_horn.md), vollzieht die [Zerstörung](process_destruction.md) des [Königsschlosses](place_palace.md) und setzt sich selbst die Krone auf, um jeden Widerstand niederzureißen.
 
 ## Implementation
 

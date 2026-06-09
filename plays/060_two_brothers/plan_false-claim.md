@@ -27,7 +27,7 @@ Der Marschall ist feig und hat sich beim [Drachenkampf](process_combustion.md) v
 ## Orders
 
 1. Der [Marschall](position_usurper.md) findet den [Drachentöter](position_slayer.md) nach dem [Drachenkampf](process_combustion.md) erschöpft schlafend und schlägt ihm mit dem [Messer](piece_knife.md) das Haupt ab, sodass kein Zeuge bleibt.
-2. Er nimmt die sieben Häupter des Drachen als Beweis an sich, ohne zu merken, dass dem Untier die [Drachenzungen](piece_dragon_tongues.md) bereits aus dem Rachen geschnitten sind.
+2. Er nimmt die sieben Häupter des Drachen mitsamt den [Drachenzungen](piece_dragon_tongues.md) als Beweis an sich, um den Sieg für sich zu beanspruchen.
 3. Er zwingt die gerettete [Königstochter](persona_princess.md) bei Todesstrafe, vor dem König zu schweigen und ihn als ihren [Retter](position_rescuer.md) zu nennen.
 4. Er fordert im [Königsschloss](place_palace.md) den Lohn ein, die Hand der Prinzessin und das Reich, und setzt den Hochzeitstag fest, ehe ein anderer Anspruch laut werden kann.
 

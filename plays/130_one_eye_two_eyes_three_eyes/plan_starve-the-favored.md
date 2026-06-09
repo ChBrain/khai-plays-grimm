@@ -26,8 +26,8 @@ Die Mutter und die beiden missgestalteten Schwestern hassen die [Zweiäuglein](p
 
 ## Orders
 
-1. Die Schwestern schicken [Einäuglein](persona_one_eye.md) als [Kundschafterin](position_spy.md) mit der [Zweiäuglein](persona_two_eyes.md) auf die [Wiese](place_meadow.md), doch das eine Auge fällt unter dem Schlaflied zu, und das [Ausspionieren](process_spying.md) misslingt.
-2. Sie schicken [Dreiäuglein](persona_three_eyes.md) nach, deren zwei Augen das Schlaflied schließt, deren drittes aber wach bleibt und den Spruch belauscht, mit dem die [Ziege](piece_goat.md) den gedeckten [Tischlein](piece_table.md) herbeizaubert.
+1. Die Schwestern schicken [Einäuglein](persona_one_eye.md) als [Kundschafterin](position_spy.md) mit der [Zweiäuglein](persona_two_eyes.md) auf die [Wiese](place_meadow.md), um durch [Ausspionieren](process_spying.md) das Geheimnis der heimlichen Speise zu erspähen.
+2. Sie schicken [Dreiäuglein](persona_three_eyes.md) nach, deren drittes Auge auch unter dem Schlaflied wach bleiben soll, um den Spruch zu belauschen, mit dem die [Ziege](piece_goat.md) den gedeckten [Tischlein](piece_table.md) herbeizaubert.
 3. Auf Dreiäugleins Bericht hin schlachtet die Mutter die [Ziege](piece_goat.md), um der [Zweiäuglein](persona_two_eyes.md) die heimliche Speise für immer zu nehmen.
 4. Sie hält das Mädchen weiter als [Ausgestoßene](position_outcast.md) in Hunger und Verachtung und meint, mit der toten Ziege die Quelle versiegt zu haben.
 

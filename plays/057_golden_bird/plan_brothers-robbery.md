@@ -28,8 +28,8 @@ Die beiden älteren [Brüder](persona_brothers.md) zogen vor dem Jüngsten aus, 
 
 1. Die [Brüder](persona_brothers.md) lauern dem jüngsten [Prinzen](persona_prince.md) auf dem Heimweg auf und nehmen ihm den [Goldenen Vogel](piece_golden_bird.md), das [Goldene Pferd](piece_golden_horse.md) und die [Prinzessin](persona_princess.md) ab.
 2. Sie vollziehen den [Verrat](process_betrayal.md), stürzen ihn in den Brunnen und lassen ihn für tot zurück.
-3. Sie führen die geraubte Beute heim und geben sich als die wahren Gewinner aus, doch Vogel, Pferd und Braut bleiben stumm und trauern.
-4. Sie wähnen sich sicher, bis der totgeglaubte [Prinz](persona_prince.md), vom [Fuchs](persona_fox.md) gerettet, als [Sucher](position_seeker.md) lebend wiederkehrt und sie als [Verräter](position_traitors.md) entlarvt.
+3. Sie führen die geraubte Beute heim und geben sich als die wahren Gewinner aus, um die Ehre für sich zu nehmen.
+4. Sie führen Vogel, Pferd und [Prinzessin](persona_princess.md) im Triumph zum [Königsgarten](place_garden.md), als hätten sie selbst das [Goldene Schloss](place_gold_castle.md) bezwungen, um den Lohn des Jüngsten einzustreichen.
 
 ## Implementation
 

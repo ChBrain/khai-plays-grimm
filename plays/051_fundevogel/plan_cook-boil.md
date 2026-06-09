@@ -27,9 +27,9 @@ Die Köchin hasst den Findling, den der [Förster](persona_forester.md) aus dem 
 ## Orders
 
 1. Die [Köchin](persona_cook.md) trägt am Morgen viele [Wassereimer](piece_bucket.md) zusammen und setzt den Kessel auf, um Fundevogel zu sieden, sobald das [Haus](place_home.md) leer und still ist.
-2. Da Lenchen den Anschlag erlauscht und mit Fundevogel in den [Wald](place_forest.md) flieht, sendet sie als [Verfolgerin](position_persecutor.md) die [Knechte](persona_servants.md) den Kindern nach.
-3. Die [Knechte](persona_servants.md) holen über die [Ebene](place_plain.md) auf, doch die Kinder täuschen sie durch ihre [Metamorphose](process_metamorphosis.md), und sie kehren leer zurück.
-4. Erzürnt jagt die [Köchin](persona_cook.md) zuletzt selbst hinter den [Flüchtlingen](position_refugees.md) her, um sie eigenhändig in den Kessel zu werfen.
+2. Entkommen ihr die Kinder in den [Wald](place_forest.md), sendet sie als [Verfolgerin](position_persecutor.md) die [Knechte](persona_servants.md) ihnen nach, um sie einzuholen.
+3. Sie heißt die [Knechte](persona_servants.md) über die [Ebene](place_plain.md) aufholen und die [Flüchtlinge](position_refugees.md) ergreifen, ehe diese in den tiefen Wald entkommen.
+4. Sie jagt zuletzt selbst hinter den [Flüchtlingen](position_refugees.md) her, um sie eigenhändig in den Kessel zu werfen.
 
 ## Implementation
 

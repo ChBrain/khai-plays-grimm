@@ -29,7 +29,7 @@ Das Männlein kommt bei Nacht in die [Schlosskammer](place_chamber.md), wo das a
 1. Das [Rumpelstilzchen](persona_rumpelstiltskin.md) erscheint in der [Schlosskammer](place_chamber.md) und spinnt am [Spinnrad](piece_spinning_wheel.md) das [Stroh](piece_straw.md) zu [Gold](piece_gold.md), erst gegen den [Schmuck](piece_jewelry.md) der [Müllerstochter](persona_millers_daughter.md).
 2. Es treibt im [Paktieren](process_bargain.md) den Preis empor, bis das Mädchen, nun ohne Habe, das erstgeborene Kind verspricht und so Königin wird.
 3. Es kehrt nach der Geburt wieder und fordert als [Ausbeuter](position_exploiter.md) das versprochene Kind, gewährt aber drei Tage Frist, seinen Namen zu raten.
-4. Es hält den Namen geheim und verlässt sich darauf, dass keine Seele ihn kennt, und tanzt ihn doch unbedacht am [Waldfeuer](place_forest_fire.md) in die Nacht.
+4. Es hält den Namen geheim und verlässt sich darauf, dass keine Seele ihn kennt und die [Müllerstochter](persona_millers_daughter.md) das rechte Wort niemals findet.
 
 ## Implementation
 

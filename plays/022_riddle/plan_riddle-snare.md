@@ -29,7 +29,7 @@ Der Prinz weiß, dass die [Rätselprinzessin](persona_princess.md) jeden Freier 
 1. Der [Königssohn](persona_prince.md) merkt sich genau, wie die [Vergiftung](process_poisoning.md) den [Gaul](piece_horse.md), den [Raben](piece_raven.md) und die zwölf Mörder in der [Mörderherberge](place_murder-inn.md) nacheinander tötete, und schmiedet daraus ein unlösbares [Rätselwort](piece_riddle-text.md).
 2. Er tritt vor das Rätselgericht im [Königspalast](place_palace.md) und stellt der [Rätselprinzessin](persona_princess.md) das Rätsel im [Rätselkampf](process_contest.md), das sie nicht zu lösen vermag.
 3. Er weist seinen [Diener](persona_servant.md) an, in der Kammer als [Wächter](position_guardian.md) statt seiner zu wachen, wenn die nächtlichen Späherinnen kommen, um ihm im Schlaf das Wort zu entlocken.
-4. Der [Diener](persona_servant.md) fängt die dritte Lauscherin, reißt ihr den [Mantel](piece_cloak.md) ab und hält ihn als Beweis der [Aushorchung](process_espionage.md), mit dem der Prinz den Betrug vor dem Hofe entlarvt und die Prinzessin gewinnt.
+4. Der [Diener](persona_servant.md) soll die dritte Lauscherin fangen und ihr den [Mantel](piece_cloak.md) als Beweis der [Aushorchung](process_espionage.md) abreißen, mit dem der Prinz den Betrug vor dem Hofe aufdecken und die Prinzessin gewinnen will.
 
 ## Implementation
 

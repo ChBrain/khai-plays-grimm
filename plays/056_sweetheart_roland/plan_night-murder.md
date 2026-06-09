@@ -14,7 +14,7 @@ status: active
 
 ## Taxonomy
 
-Ein Mordplan des Neides: das Vorhaben der [Hexe](persona_witch.md), die verhasste Stieftochter bei Nacht im Schlaf mit der Axt zu erschlagen, auf dass die eigene [Hexentochter](persona_witch_daughter.md) allein bleibe. Es ist der Gegenplan zur [Flucht des Mädchens](plan_girls-flight.md), der die Schwache im Dunkeln treffen will und sich im Dunkeln am eigenen Kind vergreift.
+Ein Mordplan des Neides: das Vorhaben der [Hexe](persona_witch.md), die verhasste Stieftochter bei Nacht im Schlaf mit der Axt zu erschlagen, auf dass die eigene [Hexentochter](persona_witch_daughter.md) allein bleibe. Es ist der Gegenplan zur [Flucht des Mädchens](plan_girls-flight.md), der die Schwache im Dunkeln treffen will, ehe ein Auge die Tat scheidet.
 
 ## Owner
 
@@ -28,8 +28,8 @@ Die Alte im [Hexenhaus](place_witch_house.md) hasst die schöne Stieftochter und
 
 1. Die [Hexe](persona_witch.md) duldet das [Mädchen](persona_girl.md) im [Hexenhaus](place_witch_house.md) und sinnt darauf, es heimlich zu beseitigen.
 2. Sie merkt sich den Schlafplatz der Stieftochter und greift in tiefer Nacht mit der Axt nach dem Bett, das sie für das rechte hält.
-3. Sie führt den Schlag im Dunkeln und wähnt die verhasste Stieftochter getroffen.
-4. Sie sieht erst beim Licht, dass sie ihre eigene [Hexentochter](persona_witch_daughter.md) erschlagen hat, und nimmt als [Verfolgerin](position_pursuer.md) die [Magische Flucht](process_magic_flight.md) der Entkommenen auf.
+3. Sie führt den Schlag im Dunkeln, um die verhasste Stieftochter zu erschlagen, ehe der Morgen graut.
+4. Sie nimmt als [Verfolgerin](position_pursuer.md) die [Magische Flucht](process_magic_flight.md) auf, sollte ihr die Stieftochter dennoch entkommen.
 
 ## Implementation
 

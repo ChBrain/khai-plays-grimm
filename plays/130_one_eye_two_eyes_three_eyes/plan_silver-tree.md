@@ -27,9 +27,9 @@ Die [Zweiäuglein](persona_two_eyes.md) ist daheim die [Ausgestoßene](position_
 ## Orders
 
 1. Die [Zweiäuglein](persona_two_eyes.md) folgt dem Rat der [weisen Frau](persona_wise_woman.md) und vergräbt die Eingeweide der geschlachteten [Ziege](piece_goat.md) vor der Tür des [Zuhauses](place_home.md).
-2. Über Nacht wächst durch [Wunderwachstum](process_growth.md) ein [Apfelbaum](piece_enchanted_tree.md) mit silbernen Blättern und goldenen Früchten empor, dessen Äste sich nur der [Zweiäuglein](persona_two_eyes.md) neigen, während Einäuglein und Dreiäuglein leer greifen.
-3. Als der [Ritter](persona_knight.md) vorüberkommt, verbergen die Schwestern die [Zweiäuglein](persona_two_eyes.md) unter einem [Fass](piece_cask.md), doch nur sie kann ihm einen [goldenen Apfel](piece_golden_apple.md) vom Baum brechen.
-4. Der [Ritter](persona_knight.md) erkennt und begehrt sie, hebt sie zur Braut und führt sie aus dem [Zuhause](place_home.md) fort: die [Befreiung](process_liberation.md) der Ausgestoßenen ist vollbracht.
+2. Sie weckt über Nacht durch [Wunderwachstum](process_growth.md) einen [Apfelbaum](piece_enchanted_tree.md) mit silbernen Blättern und goldenen Früchten, dessen Äste sich nur ihr neigen sollen, um sich ein Zeichen zu schaffen, das allein ihr gehorcht.
+3. Als der [Ritter](persona_knight.md) vorüberkommt, will sie ihm trotz des [Fasses](piece_cask.md), unter dem die Schwestern sie verbergen, einen [goldenen Apfel](piece_golden_apple.md) vom Baum brechen, den nur sie pflücken kann.
+4. Sie bietet dem [Ritter](persona_knight.md) den goldenen Apfel, um seine Gunst zu gewinnen und als seine Braut die [Befreiung](process_liberation.md) aus dem [Zuhause](place_home.md) zu erlangen.
 
 ## Implementation
 

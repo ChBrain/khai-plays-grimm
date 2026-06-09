@@ -22,14 +22,14 @@ Ein Rettungsplan der Treue: das Vorhaben von Lenchen und Fundevogel, den [Geschw
 
 ## Direction
 
-Die beiden Kinder haben weder Waffe noch Macht, nur ihr Gelübde, einander nimmermehr zu verlassen, und die Gabe der [Metamorphose](process_metamorphosis.md). Lenchen erlauscht den Anschlag am [Wassereimer](piece_bucket.md) und führt die [Flucht](process_flight.md) aus dem [Haus](place_home.md) in den [Wald](place_forest.md). Als [Flüchtlinge](position_refugees.md) wollen sie jede Welle der [Verfolger](position_pursuers.md) heranziehen sehen und sich verwandeln, ehe der Griff sie fasst; die wahre Schärfe soll darin liegen, dass jede Tarnung die Frage der Häscher gerade so beantwortet, dass diese vorbeireiten, bis am [Teich](place_plain.md) das letzte Bild die [Verfolgerin](position_persecutor.md) selbst zum Wasser locken soll.
+Die beiden Kinder haben weder Waffe noch Macht, nur ihr Gelübde, einander nimmermehr zu verlassen, und die Gabe der [Metamorphose](process_metamorphosis.md). Lenchen erlauscht den Anschlag am [Wassereimer](piece_bucket.md) und führt die [Flucht](process_flight.md) aus dem [Haus](place_home.md) in den [Wald](place_forest.md). Als [Flüchtlinge](position_refugees.md) wollen sie jede Welle der [Verfolger](position_pursuers.md) heranziehen sehen und sich verwandeln, ehe der Griff sie fasst; die wahre Schärfe soll darin liegen, dass jede Tarnung die Frage der Häscher gerade so beantwortet, dass sie unerkannt bleiben, bis am [Teich](place_plain.md) das letzte Bild die [Verfolgerin](position_persecutor.md) selbst zum Wasser locken soll.
 
 ## Orders
 
 1. Lenchen erlauscht den Anschlag der [Köchin](persona_cook.md) und flieht mit Fundevogel als [Geschwister](persona_siblings.md) bei Nacht aus dem [Haus](place_home.md) in den [Wald](place_forest.md).
-2. Als die [Knechte](persona_servants.md) über die [Ebene](place_plain.md) aufholen, vollziehen die Kinder die erste [Metamorphose](process_metamorphosis.md): einer wird Rosenstrauch, der andere die Rose darauf, und die [Verfolger](position_pursuers.md) reiten vorbei.
-3. Als die [Knechte](persona_servants.md) ein zweites Mal nachsetzen, werden sie zu Kirche und Kronleuchter, sodass die Häscher abermals leer heimkehren.
-4. Als die [Köchin](persona_cook.md) zuletzt selbst jagt, werden die Kinder zu Teich und Ente; die Ente lockt die [Verfolgerin](position_persecutor.md) zum Trinken und zieht sie ins Wasser, bis das [Ertrinken](process_drowning.md) sie verschlingt.
+2. Als die [Knechte](persona_servants.md) über die [Ebene](place_plain.md) aufholen, vollziehen die Kinder die erste [Metamorphose](process_metamorphosis.md): einer wird Rosenstrauch, der andere die Rose darauf, um die [Verfolger](position_pursuers.md) unerkannt vorbeiziehen zu lassen.
+3. Als die [Knechte](persona_servants.md) ein zweites Mal nachsetzen, werden sie zu Kirche und Kronleuchter, um den Häschern abermals zu entgehen.
+4. Als die [Köchin](persona_cook.md) zuletzt selbst jagt, werden die Kinder zu Teich und Ente, dass die Ente die [Verfolgerin](position_persecutor.md) zum Trinken locke und ins [Ertrinken](process_drowning.md) ziehe.
 
 ## Implementation
 

@@ -30,7 +30,7 @@ Der Schneider hat keinen Arm, der einen Riesen wirft, und keine Klinge, die ein 
 2. Es überlistet die [Riesen](persona_giants.md): es drückt einen [Käse](piece_cheese.md) statt eines Steins zu Wasser, lässt einen [Vogel](piece_bird.md) weiter fliegen als ihren geschleuderten Stein, trägt scheinbar den schweren Stamm und entgeht dem nächtlichen Mordschlag im Bett.
 3. Es bannt die [Fabeltiere](persona_beasts.md): das Einhorn rammt sein [Horn](piece_horn.md) in die Eiche, der Eber tappt in den [Käfig](piece_boar-trap.md) der Waldkapelle.
 4. Es besteht am [Königshof](place_castle.md) die [Heldenprüfung](process_trial.md) des [Königs](persona_king.md), erlangt die [Königstochter](persona_princess.md) und das halbe Reich.
-5. Es durchkreuzt den nächtlichen Anschlag der [Königstochter](persona_princess.md), entlarvt die Häscher durch lautes Prahlen im Schlaf und sichert sich als [Königsschwager](position_ruler.md) die [Erhebung](process_triumph.md).
+5. Es will den nächtlichen Anschlag der [Königstochter](persona_princess.md) durchkreuzen, die Häscher durch lautes Prahlen im Schlaf verschrecken und sich als [Königsschwager](position_ruler.md) die [Erhebung](process_triumph.md) sichern.
 
 ## Implementation
 

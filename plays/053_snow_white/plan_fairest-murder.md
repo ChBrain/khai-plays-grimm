@@ -27,10 +27,10 @@ Der [Spiegel](piece_mirror.md) hat das Urteil gesprochen: ein anderes Antlitz is
 ## Orders
 
 1. Die [Böse Königin](persona_evil_queen.md) befiehlt dem Jäger, [Schneewittchen](persona_snow_white.md) im [Wilden Wald](place_forest.md) zu töten und ihr Lunge und Leber als Beweis zu bringen.
-2. Als der [Spiegel](piece_mirror.md) das Kind hinter den sieben Bergen lebend verrät, sucht sie es verkleidet im [Zwergenhaus](place_cottage.md) auf und schnürt es mit einem Schnürriemen, bis es wie tot fällt.
+2. Als der [Spiegel](piece_mirror.md) das Kind hinter den sieben Bergen lebend verrät, sucht sie es verkleidet im [Zwergenhaus](place_cottage.md) auf und schnürt es mit einem Schnürriemen, um es zu töten.
 3. Sie kehrt als andere Krämerin zurück und kämmt ihm mit einem vergifteten Kamm das Haar, sodass das Gift es niederwirft.
-4. Sie reicht ihm zuletzt den halb vergifteten [Giftapfel](piece_poisoned_apple.md), von dem es beißt und scheintot in den [Glassarg](piece_coffin.md) sinkt.
-5. Sie wähnt sich als wieder gekürte [Schönste](position_fairest.md), doch der Königssohn lässt den Sarg forttragen, das Apfelstück löst sich, und die [Bestrafung](process_retribution.md) zwingt die Königin in glühenden Schuhen zu Tode zu tanzen.
+4. Sie reicht ihm zuletzt den halb vergifteten [Giftapfel](piece_poisoned_apple.md), auf dass es davon beiße und tot niedersinke.
+5. Sie kehrt zum [Spiegel](piece_mirror.md) zurück, um sich als wieder gekürte [Schönste](position_fairest.md) grüßen zu lassen, da das Kind nun beseitigt sei.
 
 ## Implementation
 

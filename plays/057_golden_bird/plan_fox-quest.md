@@ -27,9 +27,9 @@ Der [Prinz](persona_prince.md) zieht aus, nachdem der Dieb im [Königsgarten](pl
 ## Orders
 
 1. Der [Prinz](persona_prince.md) verschont am [Waldweg](place_forest_path.md) den [Fuchs](persona_fox.md) und nimmt ihn als [Berater](position_advisor.md) und Träger an.
-2. Er greift nach dem [Goldenen Vogel](piece_golden_bird.md), missachtet die Warnung und nimmt den goldenen [Käfig](piece_cages.md) statt des schlechten, wird ertappt und auf die nächste [Prüfung](process_trial.md) geschickt.
-3. Er greift nach dem [Goldenen Pferd](piece_golden_horse.md), missachtet wieder den Rat des [Fuchses](persona_fox.md) und legt den goldenen Sattel auf, wird ertappt und auf die letzte Aufgabe geschickt.
-4. Er holt die [Prinzessin](persona_princess.md), und als er zuletzt dem Fuchs in allem gehorcht, gewinnt er Vogel, Pferd und Braut zugleich.
+2. Er greift nach dem [Goldenen Vogel](piece_golden_bird.md) und will nach dem Gebot des [Fuchses](persona_fox.md) den schlechten [Käfig](piece_cages.md) statt des goldenen nehmen, um die erste [Prüfung](process_trial.md) zu bestehen.
+3. Er greift nach dem [Goldenen Pferd](piece_golden_horse.md) und will dem Rat des [Fuchses](persona_fox.md) folgen, den ledernen Sattel statt des goldenen aufzulegen, um auch die zweite Aufgabe zu meistern.
+4. Er holt die [Prinzessin](persona_princess.md) und will dem Fuchs in allem gehorchen, um Vogel, Pferd und Braut zugleich zu gewinnen.
 
 ## Implementation
 

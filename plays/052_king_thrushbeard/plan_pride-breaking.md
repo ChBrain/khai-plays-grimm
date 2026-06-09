@@ -28,7 +28,7 @@ Der Spott am Hof hat den verschmähten Freier nicht erbittert, sondern belehrt: 
 
 1. [König Drosselbart](persona_thrushbeard.md) verkleidet sich als armer Spielmann, singt am Tor und lässt sich von dem erzürnten [Königsvater](persona_father_king.md) die hochmütige [Prinzessin](persona_princess.md) zur Frau geben.
 2. Er führt sie in die bloße [Hütte](place_cottage.md), wo kein Diener wartet, und zwingt sie zu Spinnen und Weben, das ihre weichen Hände nicht beherrschen.
-3. Er schickt sie als [Verkäuferin](position_peddler.md) mit [Tontöpfen](piece_pots.md) auf den [Marktplatz](place_market.md) und stellt ihr (durch den betrunkenen Husaren) das Scheitern, das ihren Stolz weiter beugt.
+3. Er schickt sie als [Verkäuferin](position_peddler.md) mit [Tontöpfen](piece_pots.md) auf den [Marktplatz](place_market.md) und stellt ihr (durch den betrunkenen Husaren) eine Prüfung, die ihren Stolz weiter beugen soll.
 4. Er stellt sie zuletzt als Küchenmagd in seinem eigenen [Königsschloss](place_palace.md) an, wo sie [Essensreste](piece_scraps.md) in die Taschen sammelt, und vollendet so die [Demütigung](process_humiliation.md).
 5. Er gibt sich beim Hochzeitstanz als der Spielmann und der Husar zu erkennen, tröstet die gebrochene Frau und schließt die [Enthüllung](process_reveal.md) mit der wahren Hochzeit.
 
