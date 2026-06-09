@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Briar Rose"
+declared: "Briar Rose"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI

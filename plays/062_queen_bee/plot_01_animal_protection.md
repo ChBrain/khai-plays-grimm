@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "animal_protection"
+declared: "Die Schonung der Tiere"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-09"
 ---
 
-# Plot: animal_protection
+# Plot: Die Schonung der Tiere
 
 ## Taxonomy
 

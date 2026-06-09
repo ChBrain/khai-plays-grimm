@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "needle_and_knife"
+declared: "Nadel und Messer"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: needle_and_knife
+# Plot: Nadel und Messer
 
 ## Taxonomy
 

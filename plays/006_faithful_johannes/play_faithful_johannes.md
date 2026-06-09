@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Faithful John"
+declared: "Der treue Johannes"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Faithful John
+# Play: Der treue Johannes
 
 ## Estate
 
@@ -57,6 +58,10 @@ Ein sterbender König übergibt seinem treuen Diener Johannes die Sorge um den j
 - [goldenes Gerät](piece_golden-wares.md)
 - [Kastanienpferd](piece_chestnut-horse.md)
 - [Hochzeitshemd](piece_wedding-shirt.md)
+
+**Plans**
+
+- [die stumme Treue des Johannes](plan_faithful-guard.md): das Vorhaben des Johannes, dem jungen König die Braut zu gewinnen und die drei geweissagten Gefahren stumm abzuwenden, koste es ihn das Leben.
 
 ## Triggers
 

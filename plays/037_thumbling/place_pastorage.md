@@ -1,6 +1,7 @@
 ---
 khai: place
 title: "pastorage"
+declared: "Pfarrhaus"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Place: pastorage
+# Place: Pfarrhaus
 
 ## Taxonomy
 

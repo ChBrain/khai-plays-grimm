@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "fox_redemption"
+declared: "Die Erlösung des Helfers"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: fox_redemption
+# Plot: Die Erlösung des Helfers
 
 ## Taxonomy
 

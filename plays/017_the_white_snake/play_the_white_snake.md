@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The White Snake"
+declared: "Die weiße Schlange"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: The White Snake
+# Play: Die weiße Schlange
 
 ## Estate
 
@@ -57,6 +58,10 @@ Ein neugieriger Diener isst heimlich von der verdeckten Speise des Königs, eine
 - [Hirsekörner](piece_millet.md)
 - [Goldener Apfel](piece_golden-apple.md)
 - [Ente](piece_duck.md)
+
+**Plans**
+
+- [der Gewinn der Königstochter](plan_bridal-trials.md): das Vorhaben des Dieners, die stolze Prinzessin durch das Bestehen ihrer tödlichen Brautproben mit der Dankbarkeit der verschonten Tiere zu gewinnen.
 
 ## Triggers
 

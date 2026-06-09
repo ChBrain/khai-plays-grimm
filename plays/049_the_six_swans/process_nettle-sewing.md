@@ -1,6 +1,7 @@
 ---
 khai: process
 title: "nettle-sewing"
+declared: "Nessel-Nähen"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Process: nettle-sewing
+# Process: Nessel-Nähen
 
 ## Taxonomy
 

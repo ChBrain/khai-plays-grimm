@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "05_the-return"
+declared: "Die Rückkehr in den Pisspott"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 05_the-return
+# Plot: Die Rückkehr in den Pisspott
 
 ## Taxonomy
 

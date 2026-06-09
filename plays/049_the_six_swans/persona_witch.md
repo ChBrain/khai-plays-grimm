@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "persona_witch"
+declared: "Hexe"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +10,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: persona_witch
+# Persona: Hexe
 
 ## Taxonomy
 

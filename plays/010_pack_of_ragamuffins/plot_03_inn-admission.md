@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "03_inn-admission"
+declared: "Die Einlistung beim Wirt"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 03_inn-admission
+# Plot: Die Einlistung beim Wirt
 
 ## Taxonomy
 

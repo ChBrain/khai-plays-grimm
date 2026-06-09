@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Herr Korbes"
+declared: "Herr Korbes"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -56,6 +57,10 @@ Ein Hähnchen und ein Hühnchen reisen mit einer bunten Gesellschaft zum Haus de
 - [Nadeln](piece_needles.md)
 - [Wassereimer](piece_water_bucket.md)
 - [Mühlstein](piece_millstone.md)
+
+**Plans**
+
+- [der Hinterhalt im Korbes-Haus](plan_ambush-korbes.md): das Vorhaben von Hähnchen und Hühnchen, eine Truppe zu sammeln, sich im leeren Haus einzunisten und den bösen Herr Korbes aus dem Hinterhalt niederzustrecken.
 
 ## Triggers
 

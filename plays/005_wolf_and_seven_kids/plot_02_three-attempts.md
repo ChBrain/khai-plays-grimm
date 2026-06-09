@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "02_three-attempts"
+declared: "Die drei Versuche des Wolfes"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 02_three-attempts
+# Plot: Die drei Versuche des Wolfes
 
 ## Taxonomy
 

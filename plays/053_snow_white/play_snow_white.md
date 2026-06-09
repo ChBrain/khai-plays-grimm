@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Little Snow-White"
+declared: "Little Snow-White"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -54,6 +55,10 @@ Eine schöne Königstochter flieht vor der bösen Stiefmutter zu sieben Zwergen 
 - [Spiegel](piece_mirror.md)
 - [Giftapfel](piece_poisoned_apple.md)
 - [Glassarg](piece_coffin.md)
+
+**Plans**
+
+- [der Mord an der Schönsten](plan_fairest-murder.md): das Vorhaben der bösen Königin, die Schönste im Lande zu bleiben, indem sie Schneewittchen durch verkleidete Anschläge mit Schnürriemen, Kamm und Giftapfel zu töten sucht.
 
 ## Triggers
 

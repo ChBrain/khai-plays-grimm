@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "stone_castle"
+declared: "Die Steintafel"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-09"
 ---
 
-# Plot: stone_castle
+# Plot: Die Steintafel
 
 ## Taxonomy
 

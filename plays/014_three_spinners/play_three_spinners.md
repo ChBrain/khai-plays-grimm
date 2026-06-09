@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Three Spinners"
+declared: "Die drei Spinnerinnen"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: The Three Spinners
+# Play: Die drei Spinnerinnen
 
 ## Estate
 
@@ -55,6 +56,10 @@ Drei seltsame Spinnerinnen helfen einem faulen Mädchen, die unlösbare Spinnauf
 - [Flachs](piece_flax.md)
 - [Spinnrad](piece_spinning-wheel.md)
 - [Garn](piece_yarn.md)
+
+**Plans**
+
+- [der Pakt mit den Spinnerinnen](plan_spinner-bargain.md): das Vorhaben des Mädchens, die unlösbare Spinnarbeit durch drei verwachsene Spinnerinnen heimlich tun zu lassen, deren Mißgestalt es dann für immer vom Spinnrad befreit.
 
 ## Triggers
 

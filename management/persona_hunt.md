@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Margaret Hunt"
+language: english
 license: CC-BY-NC-SA-4.0
 voice: "systematic, dryly academic, precise; valuing completeness over sentimentality"
 stamp:

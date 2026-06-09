@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Foundling-Bird"
+declared: "Foundling-Bird"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -53,6 +54,11 @@ Zwei Pflegekinder entkommen einer bösen Köchin, indem sie sich auf der Flucht 
 
 - [Wassereimer](piece_bucket.md)
 - [Vogelnest](piece_nest.md)
+
+**Plans** (die einander begegnen)
+
+- [der Sud der Köchin](plan_cook-boil.md): das Vorhaben der Köchin, Fundevogel im schlafenden Haus zu ergreifen und im Kessel zu sieden.
+- [die Flucht der Kinder](plan_children-flight.md): das Vorhaben der Geschwister, gemeinsam zu fliehen und jede Welle der Verfolger durch Verwandlung abzuschütteln.
 
 ## Triggers
 

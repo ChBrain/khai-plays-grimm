@@ -1,6 +1,7 @@
 ---
 khai: process
 title: "curse-breaking"
+declared: "Flucherlösung"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-06"
 ---
 
-# Process: curse-breaking
+# Process: Flucherlösung
 
 ## Taxonomy
 

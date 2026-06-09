@@ -1,6 +1,7 @@
 ---
 khai: process
 title: "magic_flight"
+declared: "Magische Flucht"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Process: magic_flight
+# Process: Magische Flucht
 
 ## Taxonomy
 

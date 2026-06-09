@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Rumpelstiltskin"
+declared: "Rumpelstiltskin"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -55,6 +56,11 @@ Eine Müllerstochter muss Stroh zu Gold spinnen, verspricht ihr Kind und rettet 
 - [Schmuck](piece_jewelry.md)
 - [Stroh](piece_straw.md)
 - [Gold](piece_gold.md)
+
+**Plans** (die einander begegnen)
+
+- [der Handel ums Kind](plan_name-bargain.md): das Vorhaben des Männleins, sein Strohspinnen gegen das erstgeborene Kind zu verhandeln und es am verborgenen Namen festzuhalten.
+- [die Namensjagd der Königin](plan_name-quest.md): das Vorhaben der Mutter, durch einen ausgesandten Boten den geheimen Namen binnen drei Tagen zu erkunden und das Kind zu behalten.
 
 ## Triggers
 

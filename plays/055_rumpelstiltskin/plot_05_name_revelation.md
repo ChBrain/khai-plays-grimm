@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "name_revelation"
+declared: "Die Namensoffenbarung"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: name_revelation
+# Plot: Die Namensoffenbarung
 
 ## Taxonomy
 

@@ -1,6 +1,7 @@
 ---
 khai: process
 title: "abduction"
+declared: "Verkauf und Entweichung"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Process: abduction
+# Process: Verkauf und Entweichung
 
 ## Taxonomy
 

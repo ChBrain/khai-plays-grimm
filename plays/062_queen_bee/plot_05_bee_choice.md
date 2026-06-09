@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "bee_choice"
+declared: "Die Wahl der Prinzessin"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-09"
 ---
 
-# Plot: bee_choice
+# Plot: Die Wahl der Prinzessin
 
 ## Taxonomy
 

@@ -1,6 +1,7 @@
 ---
 khai: piece
 title: "piece_money"
+declared: "Geld"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Piece: piece_money
+# Piece: Geld
 
 ## Taxonomy
 

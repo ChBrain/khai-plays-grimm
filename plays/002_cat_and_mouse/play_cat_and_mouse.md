@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Cat and Mouse in Partnership"
+declared: "Katze und Maus in Gesellschaft"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-06"
 ---
 
-# Play: Cat and Mouse in Partnership
+# Play: Katze und Maus in Gesellschaft
 
 ## Estate
 
@@ -49,6 +50,10 @@ Eine Katze und eine Maus treten in eine Partnerschaft ein.
 **Pieces**
 
 - [Fetttopf](piece_fat-pot.md)
+
+**Plans**
+
+- [der heimliche Fraß am Fetttopf](plan_pot-licking.md): das Vorhaben der Katze, sich dreimal als Pate zur Taufe rufen zu lassen, den gemeinsamen Fetttopf heimlich auszulecken und die Maus zuletzt zu verschlingen.
 
 ## Triggers
 

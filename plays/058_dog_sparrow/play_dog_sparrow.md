@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Dog and the Sparrow"
+declared: "The Dog and the Sparrow"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -55,6 +56,10 @@ Ein Hund flieht und verbündet sich mit einem treuen Sperling, der seinen Tod an
 - [Wagen](piece_wagon.md)
 - [Fleisch](piece_meat.md)
 - [Axt](piece_axe.md)
+
+**Plans**
+
+- [die Rache des Sperlings](plan_sparrows-revenge.md): das Vorhaben des Sperlings, den Mord am Hund zu strafen, indem er Wein, Pferde und Korn des Fuhrmanns vernichtet und ihn in den selbst geführten Todesstreich treibt.
 
 ## Triggers
 

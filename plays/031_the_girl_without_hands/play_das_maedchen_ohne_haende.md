@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Girl Without Hands"
+declared: "Das Mädchen ohne Hände"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Play: The Girl Without Hands
+# Play: Das Mädchen ohne Hände
 
 ## Estate
 
@@ -57,6 +58,10 @@ Ein verstümmeltes Mädchen flieht vor dem Teufel, wird durch Gottes Gnade und e
 - [Briefe](piece_letters.md)
 - [Birne](piece_pear.md)
 - [Kind](piece_child.md)
+
+**Plans**
+
+- [der Anspruch des Teufels](plan_devils-claim.md): das Vorhaben des Teufels, die fromme Müllerstochter durch Pakt und gefälschte Briefe für sich zu fangen und samt Kind ins Elend zu treiben.
 
 ## Triggers
 

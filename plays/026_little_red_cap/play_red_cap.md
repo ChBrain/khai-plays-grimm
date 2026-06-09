@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Little Red Cap"
+declared: "Rotkäppchen"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Little Red Cap
+# Play: Rotkäppchen
 
 ## Estate
 
@@ -57,6 +58,11 @@ Ein Wolf überlistet Rotkäppchen und verschlingt sie samt Großmutter, bis ein 
 - [Schere](piece_scissors.md)
 - [Steine](piece_stones.md)
 - [Bett](piece_bed.md)
+
+**Plans** (die einander begegnen)
+
+- [der Hinterhalt des Wolfes](plan_wolf-ambush.md): das Vorhaben des Wolfes, das Mädchen mit Blumen aufzuhalten, die Großmutter zu fressen, sich zu verkleiden und auch Rotkäppchen zu verschlingen.
+- [die Rettung des Jägers](plan_huntsman-rescue.md): das Vorhaben des Jägers, den schlafenden Wolf aufzuschneiden, beide lebend zu befreien und ihn mit Steinen zu töten.
 
 ## Triggers
 

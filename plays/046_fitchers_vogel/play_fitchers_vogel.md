@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Fitcher's Bird"
+declared: "Fitcher's Bird"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -53,6 +54,11 @@ Ein Zauberer raubt Schwestern, wird von der klugen Jüngsten überlistet, die al
 - [Korb](piece_basket.md)
 - [Ei](piece_egg.md)
 - [Federvogel](piece_feather_disguise.md)
+
+**Plans** (die einander begegnen)
+
+- [die Eierprobe des Zauberers](plan_test-trap.md): das Vorhaben des Zauberers, jede Braut mit Ei und Schlüssel zu prüfen und die Ungehorsamen zu zerstückeln.
+- [die List der jüngsten Schwester](plan_bird-disguise.md): das Vorhaben der Jüngsten, das Ei rein zu halten, die Schwestern zu beleben und als Vogel die Sippe zum Brand zu rufen.
 
 ## Triggers
 

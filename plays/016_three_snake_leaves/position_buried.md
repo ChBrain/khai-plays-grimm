@@ -1,6 +1,7 @@
 ---
 khai: position
 title: "buried"
+declared: "Grabgefangener"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Position: buried
+# Position: Grabgefangener
 
 ## Taxonomy
 

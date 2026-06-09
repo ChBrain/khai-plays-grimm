@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "03_the-empty-pot"
+declared: "Der leere Topf"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-06"
 ---
 
-# Plot: 03_the-empty-pot
+# Plot: Der leere Topf
 
 ## Taxonomy
 

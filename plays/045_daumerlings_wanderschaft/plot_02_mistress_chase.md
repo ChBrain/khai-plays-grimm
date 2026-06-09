@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "mistress_chase"
+declared: "Die Flucht aus der Küche"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: mistress_chase
+# Plot: Die Flucht aus der Küche
 
 ## Taxonomy
 

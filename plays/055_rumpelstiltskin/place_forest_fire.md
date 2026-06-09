@@ -1,6 +1,7 @@
 ---
 khai: place
 title: "forest_fire"
+declared: "Waldfeuer"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Place: forest_fire
+# Place: Waldfeuer
 
 ## Taxonomy
 

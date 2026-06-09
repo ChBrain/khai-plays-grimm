@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Sweetheart Roland"
+declared: "Sweetheart Roland"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -55,6 +56,11 @@ Ein Mädchen flieht mit Roland vor der Hexe, übersteht sein Vergessen und finde
 - [Blutstropfen](piece_blood_drops.md)
 - [Rote Blume](piece_red_flower.md)
 - [Siebenmeilenstiefel](piece_boots.md)
+
+**Plans** (die einander begegnen)
+
+- [der Mord im Bett](plan_night-murder.md): das Vorhaben der Hexe, die verhasste Stieftochter bei Nacht mit der Axt zu erschlagen.
+- [die Flucht des Mädchens](plan_girls-flight.md): das Vorhaben des Mädchens, die Betten zu vertauschen, mit dem Zauberstab zu fliehen, sich zu wandeln und Roland wachzusingen.
 
 ## Triggers
 

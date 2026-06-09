@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "evil_fairy"
+declared: "Dreizehnte Fee"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +10,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: evil_fairy
+# Persona: Dreizehnte Fee
 
 ## Taxonomy
 

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "King Thrushbeard"
+declared: "King Thrushbeard"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -53,6 +54,10 @@ Eine hochmütige Königstochter verspottet alle Freier, wird zur Strafe mit eine
 
 - [Tontöpfe](piece_pots.md)
 - [Essensreste](piece_scraps.md)
+
+**Plans**
+
+- [die Brechung des Hochmuts](plan_pride-breaking.md): das Vorhaben Drosselbarts, den Spott der Prinzessin durch eine Kette demütigender Arbeiten zu brechen, bis ihr Stolz weicht und er sich versöhnt zu erkennen gibt.
 
 ## Triggers
 

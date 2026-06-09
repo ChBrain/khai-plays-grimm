@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "sister_rescue"
+declared: "Die Rettung"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: sister_rescue
+# Plot: Die Rettung
 
 ## Taxonomy
 

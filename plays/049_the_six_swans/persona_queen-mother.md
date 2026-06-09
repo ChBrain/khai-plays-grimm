@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "persona_queen-mother"
+declared: "Königin-Mutter"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +10,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: persona_queen-mother
+# Persona: Königin-Mutter
 
 ## Taxonomy
 

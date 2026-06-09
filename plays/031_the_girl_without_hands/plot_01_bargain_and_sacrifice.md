@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "bargain_and_sacrifice"
+declared: "Der Teufelspakt"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: bargain_and_sacrifice
+# Plot: Der Teufelspakt
 
 ## Taxonomy
 

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Our Lady's Child"
+declared: "Marienkind"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: Our Lady's Child
+# Play: Marienkind
 
 ## Estate
 

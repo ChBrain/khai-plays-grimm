@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "02_portrait-breaks-in"
+declared: "Das Bildnis bricht die Kammer"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 02_portrait-breaks-in
+# Plot: Das Bildnis bricht die Kammer
 
 ## Taxonomy
 

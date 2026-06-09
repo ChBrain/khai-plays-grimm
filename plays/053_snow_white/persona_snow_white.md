@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "snow_white"
+declared: "Schneewittchen"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +10,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: snow_white
+# Persona: Schneewittchen
 
 ## Taxonomy
 

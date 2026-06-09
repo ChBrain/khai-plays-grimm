@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "carriage_ride"
+declared: "Die Fahrt im Pferdeohr"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: carriage_ride
+# Plot: Die Fahrt im Pferdeohr
 
 ## Taxonomy
 

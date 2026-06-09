@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Godfather Death"
+declared: "Godfather Death"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -53,6 +54,10 @@ Der Tod wird Pate eines armen Jungen, macht ihn zum berühmten Arzt, straft jedo
 
 - [Zauberkraut](piece_magical_herb.md)
 - [Lebenslicht](piece_life_candle.md)
+
+**Plans**
+
+- [der Betrug am Sterbebett](plan_turn-the-bed.md): das Vorhaben des Patenkindes, durch das heimliche Drehen des Bettes die Regel des Todes zu überlisten und König wie Königstochter gegen den Willen des Paten zu retten.
 
 ## Triggers
 

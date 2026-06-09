@@ -1,6 +1,7 @@
 ---
 khai: position
 title: "proud"
+declared: "Hochmütige"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Position: proud
+# Position: Hochmütige
 
 ## Taxonomy
 

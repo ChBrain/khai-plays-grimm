@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "05_domestic-cure"
+declared: "Das Bad im Bett"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Plot: 05_domestic-cure
+# Plot: Das Bad im Bett
 
 ## Taxonomy
 

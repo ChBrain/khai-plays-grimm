@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Strange Musician"
+declared: "Der wunderliche Spielmann"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Play: The Strange Musician
+# Play: Der wunderliche Spielmann
 
 ## Estate
 
@@ -55,6 +56,10 @@ Ein einsamer Spielmann zieht durch den Wald und lockt Tiere mit seiner Geige an.
 - [Axt](piece_axe.md)
 - [Keilstein](piece_stone.md)
 - [Strick](piece_string.md)
+
+**Plans**
+
+- [die Fallen des Spielmanns](plan_fiddle-snares.md): das Vorhaben des Spielmanns, jedes Tier mit der Geige unter dem Vorwand des Unterrichts heranzulocken und es zu fesseln, um allein weiterzuziehen.
 
 ## Triggers
 

@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "03_nature_grief"
+declared: "Natur in Trauer"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: 03_nature_grief
+# Plot: Natur in Trauer
 
 ## Taxonomy
 

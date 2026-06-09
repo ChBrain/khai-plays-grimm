@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Little Peasant"
+declared: "The Little Peasant"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -55,6 +56,10 @@ Ein armer Bauer überlistet reiche Nachbarn, erlangt Wohlstand durch Lügen und 
 - [Kuhhaut](piece_cowhide.md)
 - [Taler](piece_thalers.md)
 - [Fass](piece_barrel.md)
+
+**Plans**
+
+- [die Falle der Gier](plan_greed-snare.md): das Vorhaben des Bürle, die Habgier der reichen Nachbarn durch eine Kette von Lügen gegen sie selbst zu kehren, sodass jeder Betrug ihm Reichtum bringt und die Gierigen ertrinken.
 
 ## Triggers
 

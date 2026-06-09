@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "treasury_robbery"
+declared: "Der Schatzkammerraub"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-08"
 ---
 
-# Plot: treasury_robbery
+# Plot: Der Schatzkammerraub
 
 ## Taxonomy
 

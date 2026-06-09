@@ -1,6 +1,7 @@
 ---
 khai: place
 title: "spin-chamber"
+declared: "Spinnstube"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-07"
 ---
 
-# Place: spin-chamber
+# Place: Spinnstube
 
 ## Taxonomy
 

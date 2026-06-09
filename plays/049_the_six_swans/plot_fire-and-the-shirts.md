@@ -1,6 +1,7 @@
 ---
 khai: plot
 title: "The Fire and the Shirts"
+declared: "Das Feuer und die Hemden"
 license: CC-BY-NC-4.0
 stamp:
   owner: KAI HACKS AI
@@ -8,7 +9,7 @@ stamp:
   date: "2026-06-05"
 ---
 
-# Plot: The Fire and the Shirts
+# Plot: Das Feuer und die Hemden
 
 ## Taxonomy
 
