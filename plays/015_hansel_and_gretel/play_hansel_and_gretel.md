@@ -59,6 +59,11 @@ Zwei im Wald ausgesetzte Geschwister überlisten eine böse Hexe und kehren reic
 - [Backofen](piece_oven.md)
 - [Schatz](piece_treasure.md)
 
+**Plans** (die einander begegnen)
+
+- [der Fraß im Zuckerhaus](plan_witch-feast.md): das Vorhaben der Hexe, die Kinder mit Brot und Zucker zu ködern, zu mästen und zu fressen.
+- [die List der Geschwister](plan_siblings-cunning.md): das Vorhaben der Kinder, der Aussetzung und dem Backofen mit kindlicher List zu entkommen und reich heimzukehren.
+
 ## Triggers
 
 **[Plot 1: Die erste Aussetzung](plot_01_first-abandonment.md)**
