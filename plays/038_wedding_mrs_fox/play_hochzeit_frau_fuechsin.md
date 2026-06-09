@@ -58,6 +58,10 @@ Herr Fuchs täuscht seinen Tod vor, um seine Frau zu prüfen, die alle Freier bi
 - [Fensterladen](piece_shutter.md)
 - [Hochzeitsmahl](piece_wedding_feast.md)
 
+**Plans**
+
+- [der Scheintod des Fuchses](plan_feigned-death.md): das Vorhaben des Herrn Fuchs, den eigenen Tod vorzutäuschen, um die Treue seiner Frau zu prüfen, die eitlen Freier hervorzulocken und sie dann zurückzufordern.
+
 ## Triggers
 
 **[Plot 1: Der Scheintod](plot_01_fake_death.md)**

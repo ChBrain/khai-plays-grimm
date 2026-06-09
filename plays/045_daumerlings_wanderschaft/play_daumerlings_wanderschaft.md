@@ -56,6 +56,10 @@ Der daumengroße Schneidersohn zieht in die Welt, hilft Räubern, überlistet Wa
 - [Nadelschwert](piece_needle_sword.md)
 - [Goldmünzen](piece_gold_coins.md)
 
+**Plans**
+
+- [die List des Däumlings](plan_thumbling-cunning.md): das Vorhaben des Däumlings, seine Kleinheit zur Waffe zu machen, den Räubern beim Schatzraub zu helfen, die Verfolger zu narren und aus dem Wolfsbauch heimzukehren.
+
 ## Triggers
 
 **[Plot 1: Der Schornsteinabzug](plot_01_chimney_departure.md)**

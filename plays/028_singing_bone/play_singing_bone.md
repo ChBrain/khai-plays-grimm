@@ -59,6 +59,10 @@ Ein Mann tötet seinen Bruder, stiehlt den Wildschwein-Ruhm und wird Jahre spät
 - [Wildschwein](piece_boar.md)
 - [Horn](piece_horn.md)
 
+**Plans**
+
+- [der gestohlene Ruhm](plan_stolen-glory.md): das Vorhaben des älteren Bruders, den Erleger des Wildschweins zu ermorden, unter der Brücke zu verscharren und auf dem gestohlenen Ruhm die Königstochter zu heiraten.
+
 ## Triggers
 
 **[Plot 1: Wildschwein-Plage](plot_01_boar-threat.md)**
