@@ -28,8 +28,8 @@ Der Bauer hat mit Fröschen und Hunden gerechte [Handel](process_bargain.md) ges
 
 1. Der [Bauer](persona_peasant.md) nimmt das Urteil des [Königs](persona_king.md), fünfhundert Schläge, als seinen rechtmäßigen Lohn an und behandelt es als veräußerliches Gut.
 2. Vor dem [Königsschloß](place_palace.md) verkauft er die [Prügelstrafe](process_beating.md): zweihundert Schläge an den [Soldaten](persona_soldier.md), dreihundert an den [Juden](persona_merchant.md), und lässt sie als seine [Gläubiger](position_creditor.md) die Schläge einstreichen.
-3. Da sie statt Geld die Schläge empfangen und der Bauer mit Gold beschenkt wird, gehen die Käufer als [Sündenbock](position_scapegoat.md) leer und wund davon.
-4. Als der [Jude](persona_merchant.md) ihn im [Wirtshaus](place_tavern.md) belauscht und verrät, leiht der Bauer dessen [Rock](piece_coat.md), bezichtigt vor dem König den Juden der Lüge und der Anmaßung, und der König schenkt ihm den Rock und vertreibt den Krämer.
+3. Er lässt die Käufer als [Sündenbock](position_scapegoat.md) die Schläge an seiner Statt einstreichen, auf dass er selber mit Gold beschenkt davonkomme.
+4. Wo der [Jude](persona_merchant.md) ihn im [Wirtshaus](place_tavern.md) belauscht, leiht der Bauer dessen [Rock](piece_coat.md) und bezichtigt vor dem König den Juden der Lüge und der Anmaßung, um sich den geliehenen Rock als Geschenk der Krone zu erbitten.
 
 ## Implementation
 

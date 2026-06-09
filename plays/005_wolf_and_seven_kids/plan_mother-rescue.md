@@ -27,9 +27,9 @@ Die Mutter kommt heim und findet das [Geißenhaus](place_goat-house.md) verwüst
 ## Orders
 
 1. Die [Mutter Geiß](persona_mother-goat.md) und das [jüngste Geißlein](persona_youngest-kid.md) suchen den [Wolf](persona_wolf.md) und finden ihn satt und tief im [Wolfschlummer](process_wolf-sleeping.md) auf der [Wiese](place_meadow.md).
-2. Mit [Schere und Nadel](piece_scissors-needle.md) vollzieht die Mutter als [Mutter](position_mother.md) die [Aufschneidung](process_cutting-open.md) des Bauches, und die sechs [Geißlein](persona_seven-kids.md) springen heil heraus.
+2. Mit [Schere und Nadel](piece_scissors-needle.md) vollzieht die Mutter als [Mutter](position_mother.md) die [Aufschneidung](process_cutting-open.md) des Bauches, um die sechs [Geißlein](persona_seven-kids.md) heil aus dem Leib zu befreien.
 3. Sie sammeln schwere [Steine](piece_stones.md), füllen den leeren Bauch damit und vollziehen das [Zunähen](process_sewing.md), sodass der Schläfer von nichts erwacht.
-4. Der [Wolf](persona_wolf.md) wankt durstig zum [Brunnen](place_well.md), die Last der Steine zieht ihn über den Rand, und das [Ertrinken](process_drowning.md) löscht den [Freßfeind](position_predator.md) aus.
+4. Sie lässt den durstigen [Wolf](persona_wolf.md) zum [Brunnen](place_well.md) wanken, damit die Last der Steine ihn über den Rand ziehe und das [Ertrinken](process_drowning.md) den [Freßfeind](position_predator.md) auslösche.
 
 ## Implementation
 

@@ -29,7 +29,7 @@ Der Gatte hat den [Galgen](place_gallows.md) und das [verwunschene Schloss](plac
 1. Die [Königstochter](persona_princess.md) erkennt, dass weder die [Dreinächte-Wache](process_vigil.md) noch die Gespenster dem [Jüngling](persona_youth.md) das [Gruseln](process_shuddering.md) gebracht haben, und entschließt sich zur leiblichen Kur.
 2. Sie heißt ihre Kammerjungfer den [Eimer mit Gründlingen](piece_minnow-bucket.md) mit kaltem Wasser und lebenden Fischen aus dem Bach holen.
 3. Sie wartet, bis der [Jüngling](persona_youth.md) in der [Schlafkammer](place_royal-chamber.md) fest schläft, zieht ihm die Decke weg und gießt den kalten Eimer über ihn.
-4. Die zappelnden Gründlinge auf der bloßen Haut wecken ihn, und er zittert und ruft endlich aus, dass er nun wisse, was Gruseln sei.
+4. Sie lässt die zappelnden Gründlinge auf der bloßen Haut ihn wecken, damit ihm das [Gruseln](process_shuddering.md) endlich beigebracht werde.
 
 ## Implementation
 

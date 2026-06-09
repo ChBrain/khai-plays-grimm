@@ -26,10 +26,10 @@ Der Wolf weiß, dass die Kinder ihn an der rauhen Stimme und der schwarzen Pfote
 
 ## Orders
 
-1. Der [Wolf](persona_wolf.md) klopft am [Geißenhaus](place_goat-house.md) und gibt sich für die Mutter aus, doch seine rauhe Stimme verrät ihn, und die Kinder weisen ihn ab.
-2. Er verschluckt Kreide, um die Stimme süß und fein zu machen, kehrt zurück, doch die schwarze Pfote auf der Fensterbank entlarvt ihn abermals.
-3. Er taucht beim Bäcker die Pfote in Mehl, sodass sie weiß wird als die [weißbemehlte Pfote](piece_whitened-paw.md), und mit weicher Stimme und heller Tatze überwindet er die [Täuschung](process_deception.md) und wird eingelassen.
-4. Er stürzt herein und verschlingt sechs der [Geißlein](persona_seven-kids.md) als [Freßfeind](position_predator.md); nur das [jüngste Geißlein](persona_youngest-kid.md) in der [Wanduhr](place_clock-case.md) entgeht ihm.
+1. Der [Wolf](persona_wolf.md) klopft am [Geißenhaus](place_goat-house.md) und gibt sich für die Mutter aus, um Einlass zu erlangen.
+2. Er verschluckt Kreide, um die Stimme süß und fein zu machen, und kehrt zurück, um abermals Einlass zu begehren.
+3. Er taucht beim Bäcker die Pfote in Mehl, sodass sie weiß wird als die [weißbemehlte Pfote](piece_whitened-paw.md), und tritt mit weicher Stimme und heller Tatze als die [Täuschung](process_deception.md) auf, um sich Einlass zu erschleichen.
+4. Er stürzt herein, um die [Geißlein](persona_seven-kids.md) als [Freßfeind](position_predator.md) zu verschlingen.
 
 ## Implementation
 
