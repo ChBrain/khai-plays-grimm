@@ -51,6 +51,10 @@ Eine Katze und eine Maus treten in eine Partnerschaft ein.
 
 - [Fetttopf](piece_fat-pot.md)
 
+**Plans**
+
+- [der heimliche Fraß am Fetttopf](plan_pot-licking.md): das Vorhaben der Katze, sich dreimal als Pate zur Taufe rufen zu lassen, den gemeinsamen Fetttopf heimlich auszulecken und die Maus zuletzt zu verschlingen.
+
 ## Triggers
 
 **[Plot 1: Der Pakt und die Verwahrung](plot_01_pact-and-storage.md)**

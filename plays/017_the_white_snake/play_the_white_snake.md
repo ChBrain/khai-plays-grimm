@@ -59,6 +59,10 @@ Ein neugieriger Diener isst heimlich von der verdeckten Speise des Königs, eine
 - [Goldener Apfel](piece_golden-apple.md)
 - [Ente](piece_duck.md)
 
+**Plans**
+
+- [der Gewinn der Königstochter](plan_bridal-trials.md): das Vorhaben des Dieners, die stolze Prinzessin durch das Bestehen ihrer tödlichen Brautproben mit der Dankbarkeit der verschonten Tiere zu gewinnen.
+
 ## Triggers
 
 **[Plot 1: Das Schlangengeheimnis](plot_01_white-snake-secret.md)**

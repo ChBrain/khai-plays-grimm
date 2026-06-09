@@ -59,6 +59,10 @@ Ein sterbender König übergibt seinem treuen Diener Johannes die Sorge um den j
 - [Kastanienpferd](piece_chestnut-horse.md)
 - [Hochzeitshemd](piece_wedding-shirt.md)
 
+**Plans**
+
+- [die stumme Treue des Johannes](plan_faithful-guard.md): das Vorhaben des Johannes, dem jungen König die Braut zu gewinnen und die drei geweissagten Gefahren stumm abzuwenden, koste es ihn das Leben.
+
 ## Triggers
 
 **[Plot 1: Das Sterbevermächtnis](plot_01_dying-charge.md)**

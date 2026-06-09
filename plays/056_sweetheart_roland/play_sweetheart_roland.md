@@ -57,6 +57,11 @@ Ein Mädchen flieht mit Roland vor der Hexe, übersteht sein Vergessen und finde
 - [Rote Blume](piece_red_flower.md)
 - [Siebenmeilenstiefel](piece_boots.md)
 
+**Plans** (die einander begegnen)
+
+- [der Mord im Bett](plan_night-murder.md): das Vorhaben der Hexe, die verhasste Stieftochter bei Nacht mit der Axt zu erschlagen.
+- [die Flucht des Mädchens](plan_girls-flight.md): das Vorhaben des Mädchens, die Betten zu vertauschen, mit dem Zauberstab zu fliehen, sich zu wandeln und Roland wachzusingen.
+
 ## Triggers
 
 **[Plot 1: Die verwechselte Tat](plot_01_mistaken_murder.md)**

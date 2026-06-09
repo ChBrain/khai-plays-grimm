@@ -57,6 +57,10 @@ Drei seltsame Spinnerinnen helfen einem faulen Mädchen, die unlösbare Spinnauf
 - [Spinnrad](piece_spinning-wheel.md)
 - [Garn](piece_yarn.md)
 
+**Plans**
+
+- [der Pakt mit den Spinnerinnen](plan_spinner-bargain.md): das Vorhaben des Mädchens, die unlösbare Spinnarbeit durch drei verwachsene Spinnerinnen heimlich tun zu lassen, deren Mißgestalt es dann für immer vom Spinnrad befreit.
+
 ## Triggers
 
 **[Plot 1: Die Lüge an der Tür](plot_01_lie.md)**

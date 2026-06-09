@@ -59,6 +59,11 @@ Drei Brüder erlangen magische Gaben, werden von einem Wirt beraubt und holen ih
 - [Ziegenrasur](piece_goat_shaving.md)
 - [Gras](piece_grass.md)
 
+**Plans** (die einander begegnen)
+
+- [der Diebstahl des Wirtes](plan_innkeeper-theft.md): das Vorhaben des Wirtes, jedem Bruder seine Zaubergabe im Schlaf gegen ein wertloses Abbild zu vertauschen.
+- [die Knüppelfalle des Jüngsten](plan_cudgel-trap.md): das Vorhaben des jüngsten Sohnes, den Dieb mit dem Knüppel im Sack prügeln zu lassen, bis er das Gestohlene zurückgibt.
+
 ## Triggers
 
 **[Plot 1: Die Lüge der Ziege](plot_01_goats_lie.md)**

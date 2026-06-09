@@ -59,6 +59,10 @@ Ein kleiner Schneider erschlägt sieben Fliegen auf seinem Pflaumenmusbrot und z
 - [Horn](piece_horn.md)
 - [Käfig](piece_boar-trap.md)
 
+**Plans**
+
+- [Sieben auf einen Streich](plan_seven-at-one-blow.md): das Vorhaben des Schneiderleins, eine geringe Tat in ungeheuren Ruhm zu münzen und so Riesen, Hof und tödliche Prüfungen bis zum halben Reich zu überlisten.
+
 ## Triggers
 
 **[Plot 1: Sieben auf einen Streich](plot_01_flies-and-belt.md)**

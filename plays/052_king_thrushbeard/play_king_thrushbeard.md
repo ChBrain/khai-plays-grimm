@@ -55,6 +55,10 @@ Eine hochmütige Königstochter verspottet alle Freier, wird zur Strafe mit eine
 - [Tontöpfe](piece_pots.md)
 - [Essensreste](piece_scraps.md)
 
+**Plans**
+
+- [die Brechung des Hochmuts](plan_pride-breaking.md): das Vorhaben Drosselbarts, den Spott der Prinzessin durch eine Kette demütigender Arbeiten zu brechen, bis ihr Stolz weicht und er sich versöhnt zu erkennen gibt.
+
 ## Triggers
 
 **[Plot 1: Die Spottrede](plot_01_suitors_mocked.md)**

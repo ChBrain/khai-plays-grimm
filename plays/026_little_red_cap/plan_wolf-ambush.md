@@ -1,0 +1,45 @@
+---
+khai: plan
+title: "wolf-ambush"
+declared: "der Hinterhalt des Wolfes"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-09"
+status: closed
+---
+
+# Plan: der Hinterhalt des Wolfes
+
+## Taxonomy
+
+Ein Raubplan der Tücke: das Vorhaben des [Wolfes](persona_wolf.md), das Mädchen mit Blumen aufzuhalten, dem [Großmutterhaus](place_cottage.md) vorauszueilen, die [Großmutter](persona_grandmother.md) zu fressen, sich in ihre [Kappe](piece_cap.md) und ihr Bett zu legen und [Rotkäppchen](persona_red_cap.md) ebenfalls zu verschlingen. Es ist der Gegenplan zur [Rettung des Jägers](plan_huntsman-rescue.md), der nicht mit Kraft, sondern mit Verführung und Verstellung gewinnt.
+
+## Owner
+
+- Owner: [Wolf](persona_wolf.md)
+
+## Direction
+
+Der Wolf trifft die kleine [Botin](persona_red_cap.md) im [Wald](place_forest.md) und weiß, dass er sie nicht mitten auf dem Wege fressen darf, wo Holzfäller hören könnten. So sinnt er nicht auf rohen Anfall, sondern auf [Verführung](process_temptation.md): er lobt die Blumen und das Vogelsingen, lockt sie vom Pfad und gewinnt damit Zeit, dem Ziel vorauszueilen. Am [Bett](piece_bed.md) der [Großmutter](persona_grandmother.md) macht er sich zur Greisin, die er gefressen hat, bis das Kind selbst an sein Lager tritt und die [Verschlingung](process_consumption.md) sich an ihr vollendet.
+
+## Orders
+
+1. Der [Wolf](persona_wolf.md) trifft [Rotkäppchen](persona_red_cap.md) im [Wald](place_forest.md) und hält sie durch die [Verführung](process_temptation.md) zum Blumenpflücken auf, während er den kürzeren Weg nimmt.
+2. Er eilt voraus zum [Großmutterhaus](place_cottage.md), gibt sich für das Kind aus und verschlingt die [Großmutter](persona_grandmother.md).
+3. Er zieht ihre [Kappe](piece_cap.md) und ihr Gewand an, legt sich in das [Bett](piece_bed.md) und erwartet die ahnungslose [Botin](position_messenger.md).
+4. Als [Rotkäppchen](persona_red_cap.md) eintritt und sich über die fremde Gestalt wundert, fährt er als [Verführer](position_predator.md) auf und vollzieht an ihr die [Verschlingung](process_consumption.md).
+
+## Implementation
+
+- Der Plan rechnet mit der Sorglosigkeit des Kindes, das sich durch die [Verführung](process_temptation.md) gern vom Pfade locken lässt, sodass dem Wolf die Zeit zum Voraussprung bleibt.
+- Er rechnet mit der [Kappe](piece_cap.md) und dem [Bett](piece_bed.md) der [Großmutter](persona_grandmother.md), deren Verkleidung den Argwohn des Mädchens nur zögernd weckt.
+- Er rechnet nicht mit dem [Jäger](persona_huntsman.md), der das Schnarchen des satten Schläfers hört: was im Bauche lebt, holt die [Rettung](process_rescue.md) wieder heraus, und der Raub wird zum eigenen Tod.
+
+## Targets
+
+- [x] Das Mädchen ist durch die Blumen vom Wege aufgehalten
+- [x] Die Großmutter ist vorausgeeilt verschlungen
+- [x] Rotkäppchen ist im verkleideten Lager ebenfalls verschlungen
+- [F] Der Wolf behält seinen Raub (vom Jäger aufgeschnitten, mit Steinen gefüllt)

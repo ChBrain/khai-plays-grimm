@@ -57,6 +57,10 @@ Dummling schützt schwache Tiere vor seinen grausamen Brüdern und erlöst durch
 - [Honig](piece_honey.md)
 - [Steintafel](piece_stone_table.md)
 
+**Plans**
+
+- [die Lösung durch die dankbaren Tiere](plan_grateful-beasts.md): das Vorhaben des Dummlings, den Steinbann mit den drei Proben zu brechen, jede gelöst durch die Ameisen, Enten und Bienen, die er geschont hat.
+
 ## Triggers
 
 **[Plot 1: Die Schonung der Tiere](plot_01_animal_protection.md)**
