@@ -1,0 +1,35 @@
+---
+khai: plot
+title: "pearl_task"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-09"
+---
+
+# Plot: pearl_task
+
+## Taxonomy
+
+[play_queen_bee](play_queen_bee.md)
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Cue
+
+Die erste Aufgabe verlangt das Sammeln der tausend verstreuten Perlen im Moos.
+
+## Action
+
+Nach dem Scheitern der Brüder rufen die Ameisen ihr Volk zusammen und sammeln alle Perlen für Dummling.
+
+## Stage
+
+Der schattige, moosbewachsene Waldboden nahe dem Steinschloss.
+
+## Tension
+
+Die verrinnende Zeit bis zum Sonnenuntergang und das mühsame Suchen der kleinen Perlen.
