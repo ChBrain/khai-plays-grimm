@@ -57,6 +57,10 @@ Zwillinge erlangen Reichtum durch einen Goldvogel, bestehen Abenteuer mit Drache
 - [Drachenzungen](piece_dragon_tongues.md)
 - [Lebenswasser](piece_life_water.md)
 
+**Plans**
+
+- [der erschlichene Drachenruhm](plan_false-claim.md): das Vorhaben des Marschalls, den schlafenden Drachentöter zu erschlagen, die zungenlosen Häupter als Beweis zu nehmen und die Königstochter zum Schweigen zu erpressen.
+
 ## Triggers
 
 **[Plot 1: Der Goldvogel](plot_01_golden_bird.md)**

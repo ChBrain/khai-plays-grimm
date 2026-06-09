@@ -1,0 +1,45 @@
+---
+khai: plan
+title: "grateful-beasts"
+declared: "die Lösung durch die dankbaren Tiere"
+license: CC-BY-NC-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-09"
+status: closed
+---
+
+# Plan: die Lösung durch die dankbaren Tiere
+
+## Taxonomy
+
+Ein Erlösungsplan der Sanftmut: das Vorhaben des [Dummlings](persona_simpleton.md), den Steinbann des [Steinschlosses](place_stone_castle.md) zu brechen, indem er die drei aufgegebenen Proben besteht, jede gelöst durch die [Tiere](persona_animals.md), die er zuvor vor seinen [Brüdern](persona_brothers.md) geschont hat. Es gibt keinen Gegenplan; wo die starken Brüder an den Aufgaben scheitern und selbst zu Stein erstarren, gewinnt der Schwächste durch die [Rettung](process_rescue.md), die er den Kleinen einst gewährte.
+
+## Owner
+
+- Owner: [Dummling](persona_simpleton.md)
+
+## Direction
+
+Der Dummling gilt daheim als der geringste, ein [Dummling](position_simpleton.md) ohne Witz und Stärke, doch er allein hat die Ameisen, die Enten und die Bienen vor der Zerstörungslust seiner [Brüder](persona_brothers.md) bewahrt, statt sie zu verhöhnen wie die [Spötter](position_mockers.md). Am [Steinschloss](place_stone_castle.md), wo das ganze Hofvolk versteinert liegt, weist die [Steintafel](piece_stone_table.md) drei Proben aus, an denen die älteren Brüder verzweifeln und erstarren. Was als aussichtslose Aufgabe für den Geringsten beginnt, wird durch die Dankbarkeit der geschonten [Tiere](persona_animals.md) zur sicheren [Erlösung](process_breaking_spell.md): die Schwachen, denen er Gnade gab, sind nun die [Helfer](position_helpers.md), die für ihn vollbringen, was keine Menschenhand vermag.
+
+## Orders
+
+1. Der [Dummling](persona_simpleton.md) liest auf der [Steintafel](piece_stone_table.md) die erste Probe und muss tausend [Perlen](piece_pearls.md) der Königstöchter, im Moos des [Waldes](place_forest.md) verstreut, vor Sonnenuntergang sammeln; die dankbaren Ameisen vollziehen die [Perlensuche](process_pearl_gathering.md) und lesen jede Perle auf.
+2. Er muss den [Schlüssel](piece_key.md) zur Schlafkammer der [Königstöchter](persona_princesses.md) aus dem tiefen [See](place_lake.md) bergen; die dankbaren Enten tauchen hinab und bringen ihn herauf.
+3. Er muss unter den drei gleich gestalteten [Königstöchtern](persona_princesses.md) die jüngste und süßeste erkennen; die Bienenkönigin prüft den [Honig](piece_honey.md), den jede zuletzt gekostet hat, und weist ihm die Richtige.
+4. Mit den drei bestandenen Proben löst der [Dummling](persona_simpleton.md) den Steinbann: die [Erlösung](process_breaking_spell.md) erweckt das versteinerte Hofvolk und seine erstarrten Brüder, und ihm fällt die jüngste Königstochter zu.
+
+## Implementation
+
+- Der Plan rechnet mit der [Rettung](process_rescue.md), die der Dummling den Ameisen, Enten und Bienen gewährte: jede geschonte Art zahlt die Gnade mit der Lösung einer Probe heim.
+- Er rechnet damit, dass keine Menschenkraft die Proben besteht: die starken [Brüder](persona_brothers.md) sind an eben diesen Aufgaben gescheitert und zu Stein geworden.
+- Er rechnet nicht mit List oder Gewalt, sondern allein mit der Ehrfurcht vor dem unscheinbaren Leben, die sich am Ende als die einzige Macht über den Bann erweist.
+
+## Targets
+
+- [x] Die tausend Perlen sind durch die Ameisen aus dem Moos gelesen
+- [x] Der Kammerschlüssel ist durch die Enten aus dem See geborgen
+- [x] Die jüngste Königstochter ist durch die Bienenkönigin am Honig erkannt
+- [x] Der Steinbann ist gebrochen, das Hofvolk und die Brüder erlöst

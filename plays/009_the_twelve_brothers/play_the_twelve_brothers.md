@@ -60,6 +60,11 @@ Ein König will seine zwölf Söhne töten lassen, wenn eine Tochter zur Welt ko
 - [Lilien](piece_lilies.md)
 - [Scheiterhaufen](piece_pyre.md)
 
+**Plans** (die einander begegnen)
+
+- [die Särge und das rote Zeichen](plan_coffins-and-flag.md): das Vorhaben des König-Vaters, die zwölf Söhne bei der Geburt einer Tochter zu töten und das rote Flaggenzeichen zu hissen.
+- [die Hexenklage am Scheiterhaufen](plan_witch-pyre.md): das Vorhaben der bösen Mutter, die stumme junge Königin als Hexe anzuklagen und auf dem Scheiterhaufen verbrennen zu lassen.
+
 ## Triggers
 
 **[Plot 1: Die rote Flagge](plot_01_red-flag.md)**
