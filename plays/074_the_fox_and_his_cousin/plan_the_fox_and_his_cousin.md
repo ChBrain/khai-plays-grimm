@@ -45,4 +45,3 @@ Der Fuchs nimmt die Gevatterschaft für den Wolfswelpen an. Unter dem Vorwand de
 - [ ] Den Waldrand als sicheren Ruheplatz nutzen
 - [ ] Mitleid erregen und den Ritt auf dem Rücken der verletzten Wölfin erzwingen
 - [ ] Am Bau abspringen und die Wölfin mit Spott über den fehlenden Braten zurücklassen
-
