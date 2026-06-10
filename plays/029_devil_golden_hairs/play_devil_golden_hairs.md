@@ -2,7 +2,7 @@
 khai: play
 title: "The Devil with the Three Golden Hairs"
 declared: "Der Teufel mit den drei goldenen Haaren"
-license: CC-BY-NC-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -2,7 +2,7 @@
 khai: plot
 title: "02_reunion"
 declared: "Die Suche und das Waldhaus"
-license: CC-BY-NC-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

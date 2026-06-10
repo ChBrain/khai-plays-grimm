@@ -2,7 +2,7 @@
 khai: plot
 title: "05_return-and-retribution"
 declared: "Die Vergeltung"
-license: CC-BY-NC-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

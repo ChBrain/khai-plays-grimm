@@ -2,7 +2,7 @@
 khai: play
 title: "The Story of the Youth Who Went Forth to Learn What Fear Was"
 declared: "Märchen von einem, der auszog, das Fürchten zu lernen"
-license: CC-BY-NC-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
