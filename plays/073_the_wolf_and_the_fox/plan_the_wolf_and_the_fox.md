@@ -2,7 +2,7 @@
 khai: plan
 title: "the_wolf_and_the_fox"
 declared: "die Befreiung"
-license: CC-BY-NC-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
