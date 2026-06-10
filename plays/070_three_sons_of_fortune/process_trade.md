@@ -33,4 +33,4 @@ Die praktische Demonstration des Nutzens (das Wecken des Hahns, das Mähen der S
 
 ## Echo
 
-## Der Erwerb von Reichtum für die Söhne und die vorübergehende Systemverbesserung für die Käufer.
+Der Erwerb von Reichtum für die Söhne und die vorübergehende Systemverbesserung für die Käufer.
