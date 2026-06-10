@@ -2,7 +2,7 @@
 khai: plot
 title: "02_lost-in-forest"
 declared: "Die Krümel und die Vögel"
-license: CC-BY-NC-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

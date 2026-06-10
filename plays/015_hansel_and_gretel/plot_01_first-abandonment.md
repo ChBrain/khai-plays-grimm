@@ -2,7 +2,7 @@
 khai: plot
 title: "01_first-abandonment"
 declared: "Die erste Aussetzung"
-license: CC-BY-NC-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

@@ -2,7 +2,7 @@
 khai: plot
 title: "The Bargain in the Wood"
 declared: "Der Handel im Wald"
-license: CC-BY-NC-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

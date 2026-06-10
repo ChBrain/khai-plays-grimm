@@ -2,7 +2,7 @@
 khai: plot
 title: "forest_sanctuary"
 declared: "Die Zuflucht im Wald"
-license: CC-BY-NC-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
