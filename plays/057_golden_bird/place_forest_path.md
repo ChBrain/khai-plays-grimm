@@ -2,7 +2,7 @@
 khai: place
 title: "forest_path"
 declared: "Waldweg"
-license: CC-BY-NC-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

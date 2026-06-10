@@ -2,7 +2,7 @@
 khai: plot
 title: "bell_trap"
 declared: "Die Glockenfalle"
-license: CC-BY-NC-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

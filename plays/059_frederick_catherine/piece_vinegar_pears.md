@@ -2,7 +2,7 @@
 khai: piece
 title: "vinegar_pears"
 declared: "Essig und Birnen"
-license: CC-BY-NC-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

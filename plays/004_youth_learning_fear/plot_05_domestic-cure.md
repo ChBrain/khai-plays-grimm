@@ -2,7 +2,7 @@
 khai: plot
 title: "05_domestic-cure"
 declared: "Das Bad im Bett"
-license: CC-BY-NC-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
