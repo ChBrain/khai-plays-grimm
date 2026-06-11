@@ -2,7 +2,7 @@
 khai: persona
 title: "second_son"
 declared: "der zweite Sohn"
-license: CC-BY-NC-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[die Erben](position_heir.md)
 
 ## Owner
 

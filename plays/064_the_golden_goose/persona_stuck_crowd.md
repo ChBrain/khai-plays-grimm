@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[geizige Brüder](position_rivals.md)
 
 ## Owner
 

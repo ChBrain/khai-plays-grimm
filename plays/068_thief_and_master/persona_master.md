@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Lehrmeister](position_magician.md)
 
 ## Owner
 

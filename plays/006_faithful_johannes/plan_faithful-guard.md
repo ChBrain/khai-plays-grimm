@@ -22,7 +22,7 @@ Ein Treueplan aus dem [Sterbevermächtnis](process_dying-charge.md): das Vorhabe
 
 ## Direction
 
-Johannes ist der [treue Diener](position_faithful-servant.md), an das [Sterbevermächtnis](process_dying-charge.md) des [alten Königs](persona_old-king.md) gebunden, den [jungen König](persona_young-king.md) als [Erbe](position_heir.md) zu schützen. Er sinnt nicht auf Lohn, nur auf das Heil seines Herrn: erst soll der König die [Königstochter](persona_princess.md) bekommen, deren [Bildnis](piece_portrait.md) ihn entflammt hat, dann soll er die drei Gefahren überleben, die [Johannes](persona_johannes.md) durch das [Lauschen](process_eavesdropping.md) an den [Raben](persona_ravens.md) erfährt. Die Treue verlangt das Schweigen: deutet er die Zeichen, verfällt er der [Versteinerung](process_petrification.md). So handelt er ohne ein Wort der Erklärung und nimmt den Schein des Verräters auf sich, damit der König lebe.
+Johannes ist der [treue Diener](position_faithful_servant.md), an das [Sterbevermächtnis](process_dying-charge.md) des [alten Königs](persona_old-king.md) gebunden, den [jungen König](persona_young-king.md) als [Erbe](position_heir.md) zu schützen. Er sinnt nicht auf Lohn, nur auf das Heil seines Herrn: erst soll der König die [Königstochter](persona_princess.md) bekommen, deren [Bildnis](piece_portrait.md) ihn entflammt hat, dann soll er die drei Gefahren überleben, die [Johannes](persona_johannes.md) durch das [Lauschen](process_eavesdropping.md) an den [Raben](persona_ravens.md) erfährt. Die Treue verlangt das Schweigen: deutet er die Zeichen, verfällt er der [Versteinerung](process_petrification.md). So handelt er ohne ein Wort der Erklärung und nimmt den Schein des Verräters auf sich, damit der König lebe.
 
 ## Orders
 

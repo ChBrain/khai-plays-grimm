@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Kundschafterin](position_spy.md)
 
 ## Owner
 

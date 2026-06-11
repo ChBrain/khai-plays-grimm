@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Grabgefangener](position_buried.md)
 
 ## Owner
 

@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-position_housekeeper
+[Hausfrau](position_housekeeper.md)
 
 ## Owner
 

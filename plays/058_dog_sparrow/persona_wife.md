@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Despot](position_tyrant.md)
 
 ## Owner
 

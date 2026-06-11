@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Schicksalsrichter](position_arbiter.md)
 
 ## Owner
 

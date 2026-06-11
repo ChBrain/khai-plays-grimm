@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-position_companion
+[Gefährte](position_companion.md)
 
 ## Owner
 

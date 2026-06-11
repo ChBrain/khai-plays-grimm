@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Wohltäter](position_benefactor.md)
 
 ## Owner
 

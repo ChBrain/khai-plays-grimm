@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[der Knecht](position_servant.md)
 
 ## Owner
 

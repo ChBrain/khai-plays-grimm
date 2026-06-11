@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Flüchtlinge](position_refugees.md)
 
 ## Owner
 

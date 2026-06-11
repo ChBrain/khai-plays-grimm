@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Sündenbock](position_scapegoat.md)
 
 ## Owner
 

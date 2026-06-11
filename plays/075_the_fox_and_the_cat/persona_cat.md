@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[die Bescheidene](position_pragmatist.md)
 
 ## Owner
 

@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Retterin](position_helper.md)
 
 ## Owner
 

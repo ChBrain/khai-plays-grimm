@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-position_suitor, position_companion
+[Bittsteller](position_suitor.md)
 
 ## Owner
 

@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Erbe](position_heir.md)
 
 ## Owner
 

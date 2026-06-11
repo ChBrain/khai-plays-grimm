@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Dienstmagd](position_maid.md)
 
 ## Owner
 

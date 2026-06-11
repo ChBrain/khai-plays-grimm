@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Geprellte](position_dupe.md)
 
 ## Owner
 

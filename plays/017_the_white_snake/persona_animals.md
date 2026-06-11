@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Wanderer](position_wanderer.md)
 
 ## Owner
 

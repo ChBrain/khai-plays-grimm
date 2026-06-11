@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Erpresser](position_blackmailer.md)
 
 ## Owner
 

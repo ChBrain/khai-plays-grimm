@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Lebensretter](position_saviour.md)
 
 ## Owner
 

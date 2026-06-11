@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Fleißgezwungene](position_captive.md)
 
 ## Owner
 

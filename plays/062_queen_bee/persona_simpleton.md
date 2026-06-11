@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Dummling](position_simpleton.md)
 
 ## Owner
 

@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-position_judge
+[Richter](position_judge.md)
 
 ## Owner
 

@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Einfältige](position_simpleton.md)
 
 ## Owner
 

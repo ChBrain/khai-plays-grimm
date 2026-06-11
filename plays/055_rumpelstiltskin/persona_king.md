@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Ausbeuter](position_exploiter.md)
 
 ## Owner
 

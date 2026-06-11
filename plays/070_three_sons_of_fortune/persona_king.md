@@ -2,7 +2,7 @@
 khai: persona
 title: "king"
 declared: "der König"
-license: CC-BY-NC-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -14,7 +14,8 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[die Käufer](position_buyer.md)
+[die Belagerten](position_besieged.md)
 
 ## Owner
 

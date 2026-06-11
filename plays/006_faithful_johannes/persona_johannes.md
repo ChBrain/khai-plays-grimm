@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[treuer Diener](position_faithful_servant.md)
 
 ## Owner
 

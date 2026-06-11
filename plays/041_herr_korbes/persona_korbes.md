@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Bösewicht](position_antagonist.md)
 
 ## Owner
 

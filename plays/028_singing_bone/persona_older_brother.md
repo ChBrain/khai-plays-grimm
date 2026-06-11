@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Verräter](position_traitor.md)
 
 ## Owner
 

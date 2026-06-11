@@ -14,7 +14,9 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Sohn](position_son.md)
+[Ware](position_merchandise.md)
+[Komplize](position_accomplice.md)
 
 ## Owner
 

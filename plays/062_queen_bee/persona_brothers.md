@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Spötter](position_mockers.md)
 
 ## Owner
 

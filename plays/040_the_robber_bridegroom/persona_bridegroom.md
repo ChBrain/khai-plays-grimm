@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Mörder](position_monster.md)
 
 ## Owner
 

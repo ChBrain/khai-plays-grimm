@@ -14,7 +14,8 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Rätselsteller](position_riddler.md)
+[Wanderer](position_wanderer.md)
 
 ## Owner
 

@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Verlassene](position_forsaken.md)
 
 ## Owner
 

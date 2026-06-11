@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Reisende](position_traveler.md)
 
 ## Owner
 

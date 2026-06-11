@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Schützer](position_guardian.md)
 
 ## Owner
 

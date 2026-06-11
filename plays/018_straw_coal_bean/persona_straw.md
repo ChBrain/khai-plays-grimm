@@ -14,7 +14,8 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Brückenbauer](position_bridge.md)
+[Flüchtlinge](position_fugitives.md)
 
 ## Owner
 

@@ -29,7 +29,7 @@ What the production refuses to model, and to whom it delegates.
 Source to constraint, per file.
 
 - **the production ([play_faithful_johannes.md](play_faithful_johannes.md))**: the root that chains the five plots and casts the company.
-- **the loyal servant ([Johannes](persona_johannes.md), [treuer Diener](position_faithful-servant.md))**: the owner of [die stumme Treue des Johannes](plan_faithful-guard.md), the scheme to win the bride and avert the three dangers in silence.
+- **the loyal servant ([Johannes](persona_johannes.md), [treuer Diener](position_faithful_servant.md))**: the owner of [die stumme Treue des Johannes](plan_faithful-guard.md), the scheme to win the bride and avert the three dangers in silence.
 - **the charged household ([alter König](persona_old-king.md), [junger König](persona_young-king.md), [Erbe](position_heir.md))**: the dying lord who binds the servant and the young king the plan protects.
 - **the prize and the omen ([Königstochter](persona_princess.md), [Raben](persona_ravens.md))**: the bride won by ruse and the ravens whose law of silence sets the cost.
 - **the instruments ([Bildnis](piece_portrait.md), [goldenes Gerät](piece_golden-wares.md), [Kastanienpferd](piece_chestnut-horse.md), [Hochzeitshemd](piece_wedding-shirt.md))**: the load-bearing objects the plan turns on, from the kindling portrait to the three foretold dangers.

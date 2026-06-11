@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Verfolger](position_pursuers.md)
 
 ## Owner
 

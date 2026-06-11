@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[der Eigentümer](position_defender.md)
 
 ## Owner
 

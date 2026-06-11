@@ -14,7 +14,8 @@ type: fictional
 
 ## Taxonomy
 
-position_mute, position_witness
+[Stumme](position_mute.md)
+[Zeugin](position_witness.md)
 
 ## Owner
 

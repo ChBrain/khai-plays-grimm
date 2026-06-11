@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Rollenbrecher](position_innovator.md)
 
 ## Owner
 

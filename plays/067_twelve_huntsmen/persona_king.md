@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Wortbrüchiger](position_bound.md)
 
 ## Owner
 

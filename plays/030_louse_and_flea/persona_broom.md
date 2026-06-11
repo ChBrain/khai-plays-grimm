@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Überträger](position_carrier.md)
 
 ## Owner
 

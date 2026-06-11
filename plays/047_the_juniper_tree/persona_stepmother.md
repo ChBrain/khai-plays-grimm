@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Peinigerin](position_oppressor.md)
 
 ## Owner
 

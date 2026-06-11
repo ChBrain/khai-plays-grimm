@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-position_godparent
+[Pate](position_godparent.md)
 
 ## Owner
 

@@ -14,7 +14,8 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Schuldige](position_guilty.md)
+[Erlöserin](position_saviour.md)
 
 ## Owner
 

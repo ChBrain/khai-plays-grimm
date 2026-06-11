@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[der Herr](position_master.md)
 
 ## Owner
 

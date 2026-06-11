@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Komplize](position_accomplice.md)
 
 ## Owner
 

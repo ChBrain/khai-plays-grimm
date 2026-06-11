@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Menschenfresserin](position_cannibal.md)
 
 ## Owner
 

@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Urteiler](position_judge.md)
 
 ## Owner
 

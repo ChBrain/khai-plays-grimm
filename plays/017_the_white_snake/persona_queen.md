@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Verdächtigter](position_accused.md)
 
 ## Owner
 

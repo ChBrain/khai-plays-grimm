@@ -14,7 +14,8 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Flüchtende](position_fugitive.md)
+[Verlassene](position_abandoned.md)
 
 ## Owner
 

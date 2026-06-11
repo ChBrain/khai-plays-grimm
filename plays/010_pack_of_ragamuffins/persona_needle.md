@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Mitfahrer](position_passenger.md)
 
 ## Owner
 

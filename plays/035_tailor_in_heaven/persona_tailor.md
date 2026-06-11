@@ -14,7 +14,8 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Eindringling](position_intruder.md)
+[Richter](position_judge.md)
 
 ## Owner
 

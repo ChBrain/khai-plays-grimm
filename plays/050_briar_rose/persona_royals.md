@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Verfluchte](position_cursed.md)
 
 ## Owner
 

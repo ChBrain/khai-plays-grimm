@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Überlebende](position_survivor.md)
 
 ## Owner
 

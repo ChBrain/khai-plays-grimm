@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[der Prahler](position_boaster.md)
 
 ## Owner
 

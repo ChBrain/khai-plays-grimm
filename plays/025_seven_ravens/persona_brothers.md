@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Verwandelte](position_cursed.md)
 
 ## Owner
 

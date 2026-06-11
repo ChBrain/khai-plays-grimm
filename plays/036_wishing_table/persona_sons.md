@@ -14,7 +14,8 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Lehrling](position_apprentice.md)
+[Gewinner](position_victor.md)
 
 ## Owner
 
