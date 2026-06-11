@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[die Gevatterin](position_godmother.md)
 
 ## Owner
 

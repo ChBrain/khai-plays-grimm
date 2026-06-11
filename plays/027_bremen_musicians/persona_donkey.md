@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Musikanten](position_musicians.md)
 
 ## Owner
 

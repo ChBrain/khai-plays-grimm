@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Prüfer](position_testifier.md)
 
 ## Owner
 

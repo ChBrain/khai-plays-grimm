@@ -14,7 +14,8 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Hochmütige](position_proud.md)
+[Verkäuferin](position_peddler.md)
 
 ## Owner
 

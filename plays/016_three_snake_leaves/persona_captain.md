@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Verratener](position_betrayed.md)
 
 ## Owner
 

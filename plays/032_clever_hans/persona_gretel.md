@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Geberin](position_donors.md)
 
 ## Owner
 

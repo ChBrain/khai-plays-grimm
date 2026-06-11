@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Beschützer](position_guardian.md)
 
 ## Owner
 

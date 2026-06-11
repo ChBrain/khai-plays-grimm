@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[die Meute](position_predator.md)
 
 ## Owner
 

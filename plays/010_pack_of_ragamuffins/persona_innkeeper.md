@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Gastgeber](position_host.md)
 
 ## Owner
 

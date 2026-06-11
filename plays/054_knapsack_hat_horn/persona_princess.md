@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Diebin](position_thief.md)
 
 ## Owner
 

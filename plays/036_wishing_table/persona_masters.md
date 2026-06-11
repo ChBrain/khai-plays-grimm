@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Lehrling](position_apprentice.md)
 
 ## Owner
 

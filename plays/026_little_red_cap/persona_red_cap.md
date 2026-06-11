@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Botin](position_messenger.md)
 
 ## Owner
 

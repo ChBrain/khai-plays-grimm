@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Beschenkter](position_heir.md)
 
 ## Owner
 

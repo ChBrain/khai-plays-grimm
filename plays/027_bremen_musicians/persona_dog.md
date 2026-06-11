@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Ausgemusterte](position_outcasts.md)
 
 ## Owner
 

@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-position_protector (briefly, at the robbers' hut)
+[Beschützer](position_protector.md)
 
 ## Owner
 

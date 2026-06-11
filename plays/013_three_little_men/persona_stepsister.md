@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Suchende](position_seeker.md)
 
 ## Owner
 

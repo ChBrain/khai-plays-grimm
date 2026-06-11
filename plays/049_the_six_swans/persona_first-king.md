@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-position_protector
+[Beschützer](position_protector.md)
 
 ## Owner
 

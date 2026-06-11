@@ -14,7 +14,8 @@ type: fictional
 
 ## Taxonomy
 
-position_judge, position_protector
+[Richter](position_judge.md)
+[Beschützer](position_protector.md)
 
 ## Owner
 

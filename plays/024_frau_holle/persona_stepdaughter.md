@@ -14,7 +14,9 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Verstoßene](position_outcaster.md)
+[Dienstkraft](position_servant.md)
+[Belohnte](position_requited.md)
 
 ## Owner
 

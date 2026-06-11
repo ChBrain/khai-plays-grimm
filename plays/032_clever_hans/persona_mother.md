@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Ratgeberin](position_advisor.md)
 
 ## Owner
 

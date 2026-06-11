@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Wächter](position_vigilant.md)
 
 ## Owner
 

@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Gläubiger](position_creditor.md)
 
 ## Owner
 

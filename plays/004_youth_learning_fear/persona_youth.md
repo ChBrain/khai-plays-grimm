@@ -14,7 +14,8 @@ type: fictional
 
 ## Taxonomy
 
-position_vigilant, position_husband
+[Wächter](position_vigilant.md)
+[Ehemann](position_husband.md)
 
 ## Owner
 

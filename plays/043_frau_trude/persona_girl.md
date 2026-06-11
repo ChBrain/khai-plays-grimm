@@ -14,7 +14,8 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Rebellin](position_rebel.md)
+[Opfer](position_victim.md)
 
 ## Owner
 

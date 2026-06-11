@@ -14,7 +14,8 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Zögerlicher Bote](position_messenger.md)
+[Bittsteller](position_supplicant.md)
 
 ## Owner
 

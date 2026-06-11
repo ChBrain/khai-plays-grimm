@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Hochmütige](position_proud.md)
 
 ## Owner
 

@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Brautwerber](position_pursuer.md)
 
 ## Owner
 

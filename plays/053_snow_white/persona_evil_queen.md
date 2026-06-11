@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Mörderin](position_murderer.md)
 
 ## Owner
 

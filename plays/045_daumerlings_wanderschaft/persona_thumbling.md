@@ -14,7 +14,8 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Reisender](position_traveler.md)
+[Beute](position_prey.md)
 
 ## Owner
 

@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Braut](position_bride.md)
 
 ## Owner
 

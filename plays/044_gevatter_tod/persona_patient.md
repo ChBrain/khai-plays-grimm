@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Sterblicher](position_mortal.md)
 
 ## Owner
 

@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Ware](position_merchandise.md)
 
 ## Owner
 

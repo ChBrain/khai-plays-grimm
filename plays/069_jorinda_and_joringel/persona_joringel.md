@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Befreier](position_rescuer.md)
 
 ## Owner
 

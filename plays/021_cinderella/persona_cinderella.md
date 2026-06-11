@@ -14,7 +14,8 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Aschenputtel-Magd](position_drudge.md)
+[Königin](position_bride.md)
 
 ## Owner
 

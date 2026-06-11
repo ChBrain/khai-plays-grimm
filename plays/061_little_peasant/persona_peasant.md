@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Schelm](position_trickster.md)
 
 ## Owner
 

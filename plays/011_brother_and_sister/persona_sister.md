@@ -14,7 +14,8 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Schützer](position_protector.md)
+[Opfer](position_victim.md)
 
 ## Owner
 

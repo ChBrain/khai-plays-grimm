@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Eroberer](position_conqueror.md)
 
 ## Owner
 

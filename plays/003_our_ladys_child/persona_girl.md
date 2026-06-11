@@ -14,7 +14,8 @@ type: fictional
 
 ## Taxonomy
 
-position_fosterchild, position_queen
+[Pflegekind](position_fosterchild.md)
+[Königin](position_queen.md)
 
 ## Owner
 

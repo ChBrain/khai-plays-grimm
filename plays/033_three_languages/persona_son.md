@@ -14,7 +14,9 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Verstoßener](position_outcast.md)
+[Dolmetscher](position_translator.md)
+[Pontifex](position_ruler.md)
 
 ## Owner
 

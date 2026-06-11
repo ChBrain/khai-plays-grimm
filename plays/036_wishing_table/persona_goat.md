@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Dieb](position_thief.md)
 
 ## Owner
 

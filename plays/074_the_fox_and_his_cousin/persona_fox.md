@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[der Gevatter](position_godfather.md)
 
 ## Owner
 

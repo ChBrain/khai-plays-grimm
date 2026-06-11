@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Verführer](position_predator.md)
 
 ## Owner
 

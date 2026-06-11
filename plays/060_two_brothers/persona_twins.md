@@ -14,7 +14,8 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Drachentöter](position_slayer.md)
+[Retter](position_rescuer.md)
 
 ## Owner
 

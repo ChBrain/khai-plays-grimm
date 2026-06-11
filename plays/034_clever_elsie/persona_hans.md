@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Freier](position_suitor.md)
 
 ## Owner
 

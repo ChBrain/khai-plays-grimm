@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Helfer](position_helpers.md)
 
 ## Owner
 

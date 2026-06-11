@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Schönste](position_fairest.md)
 
 ## Owner
 

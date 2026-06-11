@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Bestraferin](position_punisher.md)
 
 ## Owner
 

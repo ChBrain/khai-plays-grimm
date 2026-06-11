@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Bittsteller](position_seeker.md)
 
 ## Owner
 

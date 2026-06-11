@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Heiler](position_physician.md)
 
 ## Owner
 

@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Verstoßener](position_outcast.md)
 
 ## Owner
 

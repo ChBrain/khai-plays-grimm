@@ -14,7 +14,8 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Verschwörer](position_conspirator.md)
+[Herausforderer](position_challenger.md)
 
 ## Owner
 

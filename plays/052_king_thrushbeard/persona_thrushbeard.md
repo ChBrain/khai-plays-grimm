@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Erzieher](position_pedagogue.md)
 
 ## Owner
 

@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Rivalen](position_rivals.md)
 
 ## Owner
 

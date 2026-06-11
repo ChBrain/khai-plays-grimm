@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Torwächter](position_gatekeeper.md)
 
 ## Owner
 

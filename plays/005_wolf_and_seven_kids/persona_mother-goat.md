@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Mutter](position_mother.md)
 
 ## Owner
 

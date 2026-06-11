@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[der Gefährte](position_companion.md)
 
 ## Owner
 

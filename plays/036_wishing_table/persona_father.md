@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Gewinner](position_victor.md)
 
 ## Owner
 

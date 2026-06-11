@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Entflohene](position_refugee.md)
 
 ## Owner
 

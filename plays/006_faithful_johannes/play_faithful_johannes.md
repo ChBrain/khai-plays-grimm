@@ -49,7 +49,7 @@ Ein sterbender König übergibt seinem treuen Diener Johannes die Sorge um den j
 
 **Positions**
 
-- [treuer Diener](position_faithful-servant.md)
+- [treuer Diener](position_faithful_servant.md)
 - [Erbe](position_heir.md)
 
 **Pieces**

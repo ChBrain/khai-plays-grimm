@@ -14,7 +14,8 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Seherin](position_visionary.md)
+[Fremde](position_stranger.md)
 
 ## Owner
 

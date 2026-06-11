@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Versucher](position_tempter.md)
 
 ## Owner
 

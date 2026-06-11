@@ -14,7 +14,9 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Prahler](position_boaster.md)
+[Aussortierter](position_outcaster.md)
+[Königsschwager](position_ruler.md)
 
 ## Owner
 

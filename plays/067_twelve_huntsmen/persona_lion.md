@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Entlarver](position_detector.md)
 
 ## Owner
 

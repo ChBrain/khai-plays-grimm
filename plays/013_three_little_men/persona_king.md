@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Herrscher](position_ruler.md)
 
 ## Owner
 

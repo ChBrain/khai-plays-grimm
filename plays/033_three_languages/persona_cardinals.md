@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Pontifex](position_ruler.md)
 
 ## Owner
 

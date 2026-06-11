@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Trauernde](position_mourner.md)
 
 ## Owner
 
