@@ -29,7 +29,7 @@ Die schmerzhafte physische Bestrafung und Abwehr des Wolfes durch den Einsatz me
 
 ## Lever
 
-Der doppelte Schuss mit [das Schrot](piece_shot) aus [die Doppelflinte](piece_gun.md) sowie die anschließenden Hiebe mit [der Hirschfänger](piece_blade.md).
+Der doppelte Schuss mit [das Schrot](piece_shot.md) aus [die Doppelflinte](piece_gun.md) sowie die anschließenden Hiebe mit [der Hirschfänger](piece_blade.md).
 
 ## Echo
 
