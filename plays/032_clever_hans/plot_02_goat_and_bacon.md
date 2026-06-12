@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die Mutter erklärt, er hätte das Messer in die Tasche stecken sollen.
+Die [Mutter](persona_mother.md) erklärt, er hätte das [Messer](piece_knife.md) in die Tasche stecken sollen.
 
 ## Action
 
-Hans stopft eine geschenkte junge Ziege in seine Tasche, so dass sie erstickt. Den nächsten Speck zieht er an einer Schnur nach Hause, wo Hunde ihn fressen.
+[Hans](persona_hans.md) stopft eine geschenkte junge [Ziege](piece_goat.md) in seine Tasche, so dass sie erstickt. Den nächsten [Speck](piece_bacon.md) zieht er an einer Schnur nach Hause, wo [Hunde](persona_dogs.md) ihn fressen.
 
 ## Stage
 

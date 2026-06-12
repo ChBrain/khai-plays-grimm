@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Wirt schleicht sich nachts in die Kammer des jüngsten Sohnes, um den Sack zu stehlen.
+Der [Wirt](persona_innkeeper.md) schleicht sich nachts in die Kammer des jüngsten Sohnes, um den Sack zu stehlen.
 
 ## Action
 
-Der Sohn ertappt ihn, ruft den Knüppel aus dem Sack, welcher den Dieb unbarmherzig prügelt, bis dieser den Diebstahl gesteht und Tischchen sowie Esel herausgibt.
+Der Sohn ertappt ihn, ruft den [Knüppel](piece_cudgel.md) aus dem Sack, welcher den Dieb unbarmherzig prügelt, bis dieser den Diebstahl gesteht und [Tischchen](piece_table.md) sowie Esel herausgibt.
 
 ## Stage
 

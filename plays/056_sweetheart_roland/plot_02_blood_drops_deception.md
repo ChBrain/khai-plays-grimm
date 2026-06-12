@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Das Mädchen flieht aus dem Haus und eilt zu ihrem Geliebten Roland.
+Das [Mädchen](persona_girl.md) flieht aus dem Haus und eilt zu ihrem Geliebten [Roland](persona_roland.md).
 
 ## Action
 
-Sie holt Rolands Hilfe. Sie stiehlt den Zauberstab der Hexe und hinterlässt drei Tropfen Blut der Toten. Die Tropfen antworten der rufenden Hexe, bis diese den Betrug bemerkt.
+Sie holt Rolands Hilfe. Sie stiehlt den [Zauberstab](piece_magic_wand.md) der Hexe und hinterlässt drei Tropfen Blut der Toten. Die [Blutstropfen](piece_blood_drops.md) antworten der rufenden Hexe, bis diese den Betrug bemerkt.
 
 ## Stage
 

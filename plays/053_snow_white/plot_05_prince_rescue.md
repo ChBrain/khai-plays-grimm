@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Ein Königssohn erblickt den Glassarg auf dem Berg und bittet die Zwerge darum.
+Ein [Königssohn](persona_savior_prince.md) erblickt den [Glassarg](piece_coffin.md) auf dem Berg und bittet die [Zwerge](persona_dwarfs.md) darum.
 
 ## Action
 
-Beim Tragen stolpern die Diener, wodurch das giftige Apfelstück aus Schneewittchens Hals fährt. Sie erwacht. Bei der Hochzeit muss die böse Königin in glühenden Schuhen tanzen, bis sie stirbt.
+Beim Tragen stolpern die Diener, wodurch das giftige Apfelstück aus Schneewittchens Hals fährt. Sie erwacht. Bei der Hochzeit muss die [böse Königin](persona_evil_queen.md) in glühenden Schuhen tanzen, bis sie stirbt.
 
 ## Stage
 

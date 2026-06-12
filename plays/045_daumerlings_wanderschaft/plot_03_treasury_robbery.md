@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Räuber treffen Däumling im Wald und bitten ihn um Hilfe bei einem Einbruch.
+[Räuber](persona_robbers.md) treffen [Däumling](persona_thumbling.md) im Wald und bitten ihn um Hilfe bei einem Einbruch.
 
 ## Action
 
-Er dringt in die Schatzkammer des Königs ein, wirft den Räubern die Münzen zu und neckt die Wachen unbemerkt.
+Er dringt in die [Schatzkammer](place_treasury.md) des Königs ein, wirft den Räubern die Münzen zu und neckt die Wachen unbemerkt.
 
 ## Stage
 

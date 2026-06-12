@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Das Mädchen weigert sich, auf die Warnungen der Eltern zu hören.
+Das [Mädchen](persona_girl.md) weigert sich, auf die Warnungen der [Eltern](persona_parents.md) zu hören.
 
 ## Action
 
-Sie stiehlt sich heimlich davon und macht sich allein auf den Weg zu Frau Trude.
+Sie stiehlt sich heimlich davon und macht sich allein auf den [Weg](place_road.md) zu [Frau Trude](persona_witch.md).
 
 ## Stage
 

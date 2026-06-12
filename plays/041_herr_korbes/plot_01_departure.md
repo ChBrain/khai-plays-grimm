@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Das Hähnchen und Hühnchen beschließen, gemeinsam auf Reisen zu gehen.
+Das [Hähnchen und Hühnchen](persona_birds.md) beschließen, gemeinsam auf Reisen zu gehen.
 
 ## Action
 
-Sie bauen einen prächtigen Wagen mit roten Rädern und spannen vier Mäuse davor.
+Sie bauen einen prächtigen [Wagen mit roten Rädern](piece_carriage.md) und spannen vier [Mäuse](persona_mice.md) davor.
 
 ## Stage
 

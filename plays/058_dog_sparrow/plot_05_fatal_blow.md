@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Fuhrmann kehrt mittellos und zornig in sein Haus zurück.
+Der [Fuhrmann](persona_wagoner.md) kehrt mittellos und zornig in sein [Haus](place_wagoners_home.md) zurück.
 
 ## Action
 
-Der Sperling lockt Heerscharen von Vögeln an, die das Getreide fressen. Als der Fuhrmann versucht, den Vogel im Haus mit einer Axt zu töten, zertrümmert er sein eigenes Haus und wird schließlich von seiner Frau versehentlich erschlagen.
+Der [Sperling](persona_sparrow.md) lockt Heerscharen von Vögeln an, die das Getreide fressen. Als der Fuhrmann versucht, den Vogel im Haus mit einer [Axt](piece_axe.md) zu töten, zertrümmert er sein eigenes Haus und wird schließlich von seiner [Frau](persona_wife.md) versehentlich erschlagen.
 
 ## Stage
 

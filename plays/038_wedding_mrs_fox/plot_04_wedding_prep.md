@@ -25,7 +25,7 @@ Die Hochzeit wird beschlossen und die Vorbereitungen beginnen unverzüglich.
 
 ## Action
 
-Die Katze fegt die Stube und wirft die alte Suppe weg, während das Hochzeitsmahl für die Gäste gerüstet wird.
+Die [Katze](persona_cat.md) fegt die Stube und wirft die alte Suppe weg, während das [Hochzeitsmahl](piece_wedding_feast.md) für die Gäste gerüstet wird.
 
 ## Stage
 

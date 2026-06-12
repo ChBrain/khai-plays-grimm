@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Müller wünscht seine schöne Tochter wohlhabend verheiratet zu sehen.
+Der [Müller](persona_miller.md) wünscht seine schöne [Tochter](persona_daughter.md) wohlhabend verheiratet zu sehen.
 
 ## Action
 
-Ein reicher Fremder wirbt um sie; der Vater verspricht sie ihm, obwohl das Mädchen ein tiefes Grauen empfindet.
+Ein reicher [Fremder](persona_bridegroom.md) wirbt um sie; der Vater verspricht sie ihm, obwohl das Mädchen ein tiefes [Grauen](process_dread.md) empfindet.
 
 ## Stage
 

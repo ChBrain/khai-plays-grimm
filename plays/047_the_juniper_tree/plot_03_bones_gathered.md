@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Vater isst das Sauerfleisch und wirft die Knochen unter den Tisch.
+Der [Vater](persona_father.md) isst das [Sauerfleisch](piece_stew.md) und wirft die Knochen unter den Tisch.
 
 ## Action
 
-Marlinchen sammelt alle Knochen, bindet sie in ihr seidenes Tuch und legt sie unter den Machandelbaum, der daraufhin zu brennen und sich zu bewegen scheint.
+Marlinchen sammelt alle Knochen, bindet sie in ihr seidenes Tuch und legt sie unter den [Machandelbaum](place_juniper_tree.md), der daraufhin zu brennen und sich zu bewegen scheint.
 
 ## Stage
 

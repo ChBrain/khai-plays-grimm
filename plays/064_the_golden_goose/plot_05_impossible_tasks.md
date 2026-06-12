@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der König verweigert dem Dummling die Braut und fordert nacheinander Weintrinken, Brotessen und das Land-Wasser-Schiff.
+Der König verweigert dem [Dummling](persona_simpleton.md) die Braut und fordert nacheinander Weintrinken, Brotessen und das [Land-Wasser-Schiff](piece_ship.md).
 
 ## Action
 
-Dummling bittet das Graumännchen um Hilfe und löst alle drei scheinbar unmöglichen Proben mit den unersättlichen Waldgesellen und dem Zauberschiff.
+Dummling bittet das [Graumännchen](persona_man.md) um Hilfe und löst alle drei scheinbar unmöglichen Proben mit den unersättlichen Waldgesellen und dem Zauberschiff.
 
 ## Stage
 

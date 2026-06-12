@@ -25,7 +25,7 @@ Else wird Bier holen geschickt, sieht die Hacke und weint über das Schicksal ih
 
 ## Action
 
-Nacheinander kommen Magd, Knecht, Mutter und Vater in den Keller und weinen mit Else, während das Bier ausläuft.
+Nacheinander kommen Magd, Knecht, Mutter und Vater in den [Keller](place_cellar.md) und weinen mit [Else](persona_elsie.md), während das Bier ausläuft.
 
 ## Stage
 

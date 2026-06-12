@@ -25,7 +25,7 @@ Der doppelt betrogene Bursche steht mittellos und gedemütigt draußen vor den M
 
 ## Action
 
-Er nimmt sein letztes Gut, das Hörnlein, und bläst hinein. Das Schloss stürzt ein, der König und die Prinzessin sterben in den Trümmern. Er krönt sich selbst zum Herrscher.
+Er nimmt sein letztes Gut, das [Hörnlein](piece_horn.md), und bläst hinein. Das [Schloss](place_palace.md) stürzt ein, der [König](persona_king.md) und die [Prinzessin](persona_princess.md) sterben in den Trümmern. Er krönt sich selbst zum [Herrscher](position_sovereign.md).
 
 ## Stage
 

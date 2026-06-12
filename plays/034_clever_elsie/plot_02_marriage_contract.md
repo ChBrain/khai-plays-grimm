@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Hans geht in den Keller, um nach den Säumigen zu sehen.
+[Hans](persona_hans.md) geht in den [Keller](place_cellar.md), um nach den Säumigen zu sehen.
 
 ## Action
 
-Er hört die Prophezeiung der Kreuzhacke, hält diese Wehklage für echte Klugheit und willigt in die Hochzeit ein.
+Er hört die Prophezeiung der [Kreuzhacke](piece_pickaxe.md), hält diese Wehklage für echte Klugheit und willigt in die Hochzeit ein.
 
 ## Stage
 

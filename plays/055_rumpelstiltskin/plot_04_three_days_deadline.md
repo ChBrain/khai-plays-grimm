@@ -25,7 +25,7 @@ Ein Jahr vergeht, und die Königin bringt ein schönes Kind zur Welt.
 
 ## Action
 
-Das Männchen kehrt zurück und fordert das Kind. Die Königin weint bitterlich. Er hat Mitleid und gibt ihr drei Tage Zeit: Findet sie seinen Namen heraus, darf sie das Kind behalten.
+Das [Männchen](persona_rumpelstiltskin.md) kehrt zurück und fordert das Kind. Die [Königin](persona_millers_daughter.md) weint bitterlich. Er hat Mitleid und gibt ihr drei Tage Zeit: [Findet sie seinen Namen heraus](process_name_quest.md), darf sie das Kind behalten.
 
 ## Stage
 

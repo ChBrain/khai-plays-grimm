@@ -25,7 +25,7 @@ Die drei Söhne werden nacheinander in den Wald geschickt, um Holz zu hacken.
 
 ## Action
 
-Die geizigen Brüder verweigern dem Graumännchen ihre Nahrung und verletzen sich; Dummling teilt seine aschene Kost und wird reich belohnt.
+Die [geizigen Brüder](position_rivals.md) verweigern dem [Graumännchen](persona_man.md) ihre Nahrung und verletzen sich; [Dummling](persona_simpleton.md) teilt seine aschene Kost und wird reich belohnt.
 
 ## Stage
 

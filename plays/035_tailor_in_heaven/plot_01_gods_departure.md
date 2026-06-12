@@ -25,7 +25,7 @@ Gott beschließt, spazieren zu gehen oder auf Reisen zu gehen.
 
 ## Action
 
-Gott übergibt Petrus die Aufsicht über das Himmelstor und befiehlt ihm, während seiner Abwesenheit niemanden einzulassen.
+[Gott](persona_god.md) übergibt [Petrus](persona_peter.md) die Aufsicht über das [Himmelstor](place_heaven_gate.md) und befiehlt ihm, während seiner Abwesenheit niemanden einzulassen.
 
 ## Stage
 

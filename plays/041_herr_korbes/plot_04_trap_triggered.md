@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Herr Korbes kehrt müde nach Hause zurück und sucht Erholung.
+[Herr Korbes](persona_korbes.md) kehrt müde nach Hause zurück und sucht Erholung.
 
 ## Action
 
-Die Katze bläst Asche, die Ente spritzt Wasser, das Ei verklebt die Augen, und die Nadeln stechen ihn im Sessel und Bett.
+Die [Katze](persona_animals.md) bläst Asche, die Ente spritzt Wasser, das Ei verklebt die Augen, und die [Nadeln](piece_needles.md) stechen ihn im Sessel und Bett.
 
 ## Stage
 

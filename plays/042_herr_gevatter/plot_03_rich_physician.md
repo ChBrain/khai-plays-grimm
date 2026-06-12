@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Vater erprobt die Heilkunst des Wunderwassers.
+Der [Vater](persona_father.md) erprobt die Heilkunst des Wunderwassers.
 
 ## Action
 
-Er heilt Kranke, wird weltberühmt und reich, scheitert jedoch am Ende beim Kind des Königs, als der Tod an dessen Füßen steht.
+Er heilt [Kranke](persona_patient.md), wird weltberühmt und reich, scheitert jedoch am Ende beim Kind des Königs, als der Tod an dessen Füßen steht.
 
 ## Stage
 

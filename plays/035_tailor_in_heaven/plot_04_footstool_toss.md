@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Schneider erblickt vom Thron aus eine Wäscherin auf der Erde, die heimlich zwei Leinentücher entwendet.
+Der Schneider erblickt vom Thron aus eine Wäscherin auf der Erde, die heimlich zwei [Leinentücher](piece_linen.md) entwendet.
 
 ## Action
 
-In zorniger moralischer Entrüstung ergreift der Schneider den goldenen Fußschemel Gottes und schleudert ihn hinab zur Erde, um die Diebin zu bestrafen.
+In zorniger moralischer Entrüstung ergreift der [Schneider](persona_tailor.md) den goldenen [Fußschemel](piece_footstool.md) Gottes und schleudert ihn hinab zur [Erde](place_earth.md), um die [Diebin](persona_thief.md) zu bestrafen.
 
 ## Stage
 

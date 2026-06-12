@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Das Mädchen betritt die Stube der Frau Trude.
+Das [Mädchen](persona_girl.md) betritt die Stube der [Frau Trude](persona_witch.md).
 
 ## Action
 
-Sie berichtet zitternd von den unheimlichen Männern und gesteht, im Fenster den Teufel mit dem feurigen Kopf gesehen zu haben.
+Sie berichtet zitternd von den unheimlichen [Männern](persona_strangers.md) und gesteht, im Fenster den Teufel mit dem feurigen Kopf gesehen zu haben.
 
 ## Stage
 

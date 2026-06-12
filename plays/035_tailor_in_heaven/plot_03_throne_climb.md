@@ -25,7 +25,7 @@ Petrus verlässt kurzzeitig seinen Posten oder wird abgelenkt.
 
 ## Action
 
-Der Schneider verlässt seine Ecke, wandert neugierig durch die Hallen des Himmels, findet Gottes Thronsessel und setzt sich eigenmächtig darauf, wodurch er die ganze Erde erblickt.
+Der [Schneider](persona_tailor.md) verlässt seine Ecke, wandert neugierig durch die Hallen des Himmels, findet Gottes [Thronsessel](piece_throne_chair.md) und setzt sich eigenmächtig darauf, wodurch er die ganze [Erde](place_earth.md) erblickt.
 
 ## Stage
 

@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Sohn und Vater reisen nach Hause und wollen Geld verdienen.
+[Sohn](persona_apprentice.md) und [Vater](persona_father.md) reisen nach Hause und wollen Geld verdienen.
 
 ## Action
 
-Der Sohn verwandelt sich in einen Hund, den Jan verkauft; der Hund kehrt heimlich zurück; dann verwandelt er sich in ein Pferd, Jan vergißt jedoch die Warnung wegen des Zaumzeugs.
+Der Sohn verwandelt sich in einen Hund, den Jan verkauft; der Hund kehrt heimlich zurück; dann verwandelt er sich in ein Pferd, Jan vergißt jedoch die Warnung wegen des [Zaumzeugs](piece_bridle.md).
 
 ## Stage
 

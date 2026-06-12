@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Das Bürle kehrt reich ins Dorf zurück, was den Neid der Nachbarn entfacht.
+Das [Bürle](persona_peasant.md) kehrt reich ins [Dorf](place_village.md) zurück, was den Neid der [Nachbarn](persona_neighbors.md) entfacht.
 
 ## Action
 
-Er erzählt ihnen, er habe die Kuhhaut teuer verkauft. Die Bauern schlachten daraufhin all ihre Kühe, können die Häute jedoch nicht teuer verkaufen. Zornig über den Betrug verurteilen sie das Bürle zum Tode im Fass.
+Er erzählt ihnen, er habe die [Kuhhaut](piece_cowhide.md) teuer verkauft. Die Bauern schlachten daraufhin all ihre Kühe, können die Häute jedoch nicht teuer verkaufen. Zornig über den Betrug verurteilen sie das Bürle zum Tode im [Fass](piece_barrel.md).
 
 ## Stage
 

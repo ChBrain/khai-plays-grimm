@@ -25,7 +25,7 @@ Der alte König liegt im Sterben und ruft den Prinzen an sein Bett.
 
 ## Action
 
-Er fordert den Prinzen auf, eine standesgemäße Prinzessin zu ehelichen; der Prinz gibt dem Vater sein Wort und verlässt schweren Herzens seine Verlobte.
+Er fordert den Prinzen auf, eine standesgemäße Prinzessin zu ehelichen; der Prinz gibt dem Vater sein Wort und verlässt schweren Herzens seine [Verlobte](persona_fiancee.md).
 
 ## Stage
 

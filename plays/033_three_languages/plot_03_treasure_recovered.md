@@ -25,7 +25,7 @@ Am nächsten Morgen berichtet der Sohn dem staunenden Burgherrn, was die Hunde s
 
 ## Action
 
-Die Hunde erklären ihm den Grund ihrer Verzauberung und weisen auf einen Schatz hin. Der Sohn hebt das Gold, befreit den Turm von der Plage und wird zum reichen Mann.
+Die [Hunde](persona_dogs.md) erklären ihm den Grund ihrer Verzauberung und weisen auf einen [Schatz](piece_treasure.md) hin. Der [Sohn](persona_son.md) hebt das Gold, befreit den [Turm](place_tower.md) von der Plage und wird zum reichen Mann.
 
 ## Stage
 

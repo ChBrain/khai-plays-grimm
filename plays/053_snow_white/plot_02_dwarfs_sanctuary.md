@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Schneewittchen irrt hungrig und allein durch den wilden Wald.
+[Schneewittchen](persona_snow_white.md) irrt hungrig und allein durch den wilden [Wald](place_forest.md).
 
 ## Action
 
-Sie findet das kleine Haus der sieben Zwerge, isst ein wenig von ihren Tellern und schläft im siebten Bettchen ein. Die Zwerge finden sie und erlauben ihr zu bleiben.
+Sie findet das kleine [Haus der sieben Zwerge](place_cottage.md), isst ein wenig von ihren Tellern und schläft im siebten Bettchen ein. Die [Zwerge](persona_dwarfs.md) finden sie und erlauben ihr zu bleiben.
 
 ## Stage
 

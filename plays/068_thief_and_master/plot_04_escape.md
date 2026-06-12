@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Meister erwirbt das Pferd samt Zaumzeug und sperrt es im Stall ein.
+Der [Meister](persona_master.md) erwirbt das Pferd samt [Zaumzeug](piece_bridle.md) und sperrt es im Stall ein.
 
 ## Action
 
-Eine Magd nimmt dem Hengst das Zaumzeug zum Trinken ab; der Sohn entkommt ins Wasser, verwandelt sich in einen Fisch und weicht dem nachspringenden Meister aus.
+Eine Magd nimmt dem Hengst das Zaumzeug zum Trinken ab; der [Sohn](persona_apprentice.md) entkommt ins Wasser, verwandelt sich in einen Fisch und weicht dem nachspringenden Meister aus.
 
 ## Stage
 

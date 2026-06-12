@@ -25,7 +25,7 @@ Dornröschen bleibt an ihrem fünfzehnten Geburtstag allein im Schloss zurück u
 
 ## Action
 
-Sie steigt den Turm hinauf, findet eine alte Frau beim Spinnen, berührt neugierig die Spindel, sticht sich und fällt auf das Bett nieder.
+Sie steigt den [Turm](place_tower.md) hinauf, findet eine alte Frau beim Spinnen, berührt neugierig die [Spindel](piece_spindle.md), sticht sich und fällt auf das Bett nieder.
 
 ## Stage
 

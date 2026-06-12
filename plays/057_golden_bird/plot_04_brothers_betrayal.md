@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Prinz kehrt glücklich mit Vogel, Pferd und Prinzessin heim.
+Der [Prinz](persona_prince.md) kehrt glücklich mit Vogel, Pferd und [Prinzessin](persona_princess.md) heim.
 
 ## Action
 
-Seine Brüder lauern ihm auf, rauben ihn aus und werfen ihn in einen Brunnen. Sie bringen die Prinzessin zum Vater und lügen, sie hätten alles vollbracht.
+Seine [Brüder](persona_brothers.md) lauern ihm auf, rauben ihn aus und werfen ihn in einen Brunnen. Sie bringen die Prinzessin zum Vater und lügen, sie hätten alles vollbracht.
 
 ## Stage
 

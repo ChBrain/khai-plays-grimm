@@ -25,11 +25,11 @@ Der Vogel fliegt zum Elternhaus zurück und singt auf dem Dach sein Lied.
 
 ## Action
 
-Er gibt dem Vater die Kette, Marlinchen die Schuhe, lockt die Stiefmutter heraus und erschlägt sie mit dem Mühlstein, um wieder zum Jungen zu werden.
+Er gibt dem [Vater](persona_father.md) die Kette, Marlinchen die Schuhe, lockt die [Stiefmutter](persona_stepmother.md) heraus und erschlägt sie mit dem Mühlstein, um wieder zum Jungen zu werden.
 
 ## Stage
 
-Der Hof vor dem Wohnhaus mit dem Machandelbaum.
+Der Hof vor dem [Wohnhaus](place_home.md) mit dem [Machandelbaum](place_juniper_tree.md).
 
 ## Tension
 

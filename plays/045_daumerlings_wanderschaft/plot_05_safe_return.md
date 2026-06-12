@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Däumling befindet sich gefangen im Bauch des Wolfs.
+[Däumling](persona_thumbling.md) befindet sich gefangen im [Bauch](place_stomach.md) des Wolfs.
 
 ## Action
 
-Er verspricht dem Wolf fette Beute und leitet ihn zum Elternhaus, wo die Eltern den Wolf erlegen und Däumling unbeschadet befreien.
+Er verspricht dem [Wolf](persona_antagonists.md) fette Beute und leitet ihn zum Elternhaus, wo die [Eltern](persona_parents.md) den Wolf erlegen und Däumling unbeschadet befreien.
 
 ## Stage
 

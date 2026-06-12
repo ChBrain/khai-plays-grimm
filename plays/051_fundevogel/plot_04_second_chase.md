@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Die Köchin beschimpft die Knechte und schickt sie erneut los, um die Rose zu brechen.
+Die [Köchin](persona_cook.md) beschimpft die [Knechte](persona_servants.md) und schickt sie erneut los, um die Rose zu brechen.
 
 ## Action
 
@@ -29,7 +29,7 @@ Die Kinder sehen die Verfolger kommen. Fundevogel wird zu einer Kirche und Lench
 
 ## Stage
 
-Die Ebene mit der scheinbar verlassenen Kapelle.
+Die [Ebene](place_plain.md) mit der scheinbar verlassenen Kapelle.
 
 ## Tension
 

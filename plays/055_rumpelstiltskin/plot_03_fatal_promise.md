@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der König verlangt eine dritte, noch größere Kammer voller Gold und verspricht die Ehe.
+Der [König](persona_king.md) verlangt eine dritte, noch größere [Kammer](place_chamber.md) voller [Gold](piece_gold.md) und verspricht die Ehe.
 
 ## Action
 
-Das Mädchen hat keinen Schmuck mehr. Das Männchen verlangt ihr erstgeborenes Kind als Königin. Sie willigt in der Not ein. Das Stroh wird Gold, und sie heiratet den König.
+Das [Mädchen](persona_millers_daughter.md) hat keinen [Schmuck](piece_jewelry.md) mehr. Das [Männchen](persona_rumpelstiltskin.md) verlangt ihr erstgeborenes Kind als Königin. Sie willigt in der Not ein. Das Stroh wird Gold, und sie heiratet den König.
 
 ## Stage
 

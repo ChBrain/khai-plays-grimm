@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Hans geht zu Gretel und bittet um ein Geschenk.
+[Hans](persona_hans.md) geht zu [Gretel](persona_gretel.md) und bittet um ein Geschenk.
 
 ## Action
 
-Er erhält eine Nadel, steckt sie ins Heu und verliert sie. Seine Mutter rügt ihn; daraufhin steckt er das nächste Geschenk (ein Messer) in den Ärmel und verliert auch dieses.
+Er erhält eine [Nadel](piece_needle.md), steckt sie ins Heu und verliert sie. Seine [Mutter](persona_mother.md) rügt ihn; daraufhin steckt er das nächste Geschenk (ein [Messer](piece_knife.md)) in den Ärmel und verliert auch dieses.
 
 ## Stage
 

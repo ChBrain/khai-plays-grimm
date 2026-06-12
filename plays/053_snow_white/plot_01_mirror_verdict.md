@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die Königin befragt ihren Zauberspiegel nach der Schönsten im Land.
+Die [Königin](persona_evil_queen.md) befragt ihren [Zauberspiegel](piece_mirror.md) nach der Schönsten im Land.
 
 ## Action
 
-Der Spiegel verkündet, dass Schneewittchen tausendmal schöner ist. Wütend befiehlt die Königin einem Jäger, das Kind im Wald zu töten. Der Jäger hat Mitleid und lässt es laufen.
+Der Spiegel verkündet, dass [Schneewittchen](persona_snow_white.md) tausendmal schöner ist. Wütend befiehlt die Königin einem Jäger, das Kind im [Wald](place_forest.md) zu töten. Der Jäger hat Mitleid und lässt es laufen.
 
 ## Stage
 

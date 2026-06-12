@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Vater schickt seine Söhne nacheinander aus, um die geliebte Hausziege auf den besten Wiesen grasen zu lassen.
+Der [Vater](persona_father.md) schickt seine [Söhne](persona_sons.md) nacheinander aus, um die geliebte Hausziege auf den besten Wiesen grasen zu lassen.
 
 ## Action
 
-Die Ziege frisst sich satt, behauptet aber abends meckernd, hungrig zu sein, worauf der Schneider seine Söhne im Zorn vertreibt.
+Die [Ziege](persona_goat.md) frisst sich satt, behauptet aber abends meckernd, hungrig zu sein, worauf der Schneider seine Söhne im Zorn vertreibt.
 
 ## Stage
 

@@ -25,7 +25,7 @@ Das Jahr der Ausbildung ist um, und der Vater muss den Sohn identifizieren, um i
 
 ## Action
 
-Ein Zwerg rät Jan, Schwarzbrot zu werfen; Jan wirft die Brotkrumen vor den Vogelkorb, lockt den Sohn (als Vogel) an und gewinnt die Prüfung.
+Ein [Zwerg](persona_dwarf.md) rät Jan, [Schwarzbrot](piece_bread.md) zu werfen; [Jan](persona_father.md) wirft die Brotkrumen vor den [Vogelkorb](piece_basket.md), lockt den [Sohn](persona_apprentice.md) (als Vogel) an und gewinnt die Prüfung.
 
 ## Stage
 

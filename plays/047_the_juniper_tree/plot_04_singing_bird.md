@@ -21,15 +21,15 @@ stamp:
 
 ## Cue
 
-Ein wunderschöner Vogel erhebt sich aus dem Rauch des Machandelbaums und fliegt davon.
+Ein wunderschöner Vogel erhebt sich aus dem Rauch des [Machandelbaums](place_juniper_tree.md) und fliegt davon.
 
 ## Action
 
-Der Vogel singt sein Lied von der grausamen Stiefmutter bei Goldschmied, Schuster und Müller und erhält dafür Goldkette, Schuhe und einen Mühlstein.
+Der Vogel singt sein Lied von der grausamen [Stiefmutter](persona_stepmother.md) bei Goldschmied, Schuster und Müller und erhält dafür Goldkette, Schuhe und einen Mühlstein.
 
 ## Stage
 
-Die Stadt mit den Werkstätten und der Mühle.
+Die Stadt mit den [Werkstätten](place_workshop.md) und der Mühle.
 
 ## Tension
 

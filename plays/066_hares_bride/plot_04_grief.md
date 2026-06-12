@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Das Mädchen ist allein im Haus eingeschlossen und soll die Suppe rühren.
+Das [Mädchen](persona_girl.md) ist allein im [Haus](place_hut.md) eingeschlossen und soll die [Suppe](piece_soup.md) rühren.
 
 ## Action
 
-Sie weint bitterlich, verriegelt die Hütte von innen und antwortet dem Hasen, der dreimal Einlass fordert, mit Schweigen.
+Sie weint bitterlich, verriegelt die Hütte von innen und antwortet dem [Hasen](persona_hare.md), der dreimal Einlass fordert, mit Schweigen.
 
 ## Stage
 

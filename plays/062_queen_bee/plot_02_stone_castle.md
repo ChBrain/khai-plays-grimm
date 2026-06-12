@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die Prinzen erreichen das graue, lautlose Schloss, in dem alles Leben zu Stein erstarrt ist.
+Die Prinzen erreichen das graue, lautlose [Schloss](place_stone_castle.md), in dem alles Leben zu Stein erstarrt ist.
 
 ## Action
 
-Sie wecken das steinerne Männchen, das ihnen die Steintafel mit den drei tödlichen Aufgaben zeigt.
+Sie wecken das steinerne Männchen, das ihnen die [Steintafel](piece_stone_table.md) mit den drei tödlichen Aufgaben zeigt.
 
 ## Stage
 

@@ -25,7 +25,7 @@ Die Nacht bricht an, und eine Eule krächzt im Geäst.
 
 ## Action
 
-Jorinde singt ein Klagelied und wird in eine Nachtigall verwandelt; Joringel wird starr wie ein Stein festgebannt und muss hilflos zusehen.
+[Jorinde](persona_jorinde.md) singt ein Klagelied und wird in eine Nachtigall verwandelt; [Joringel](persona_joringel.md) wird starr wie ein Stein festgebannt und muss hilflos zusehen.
 
 ## Stage
 

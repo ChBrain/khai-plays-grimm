@@ -25,7 +25,7 @@ Ein großes Hochzeitsfest wird im prächtigen Saal des Schlosses gefeiert.
 
 ## Action
 
-Drosselbart zieht die Magd zum Tanz; die Essensreste fliegen aus den Taschen. Drosselbart gibt sich als Spielmann und Husar zu erkennen und verzeiht ihr.
+[Drosselbart](persona_thrushbeard.md) zieht die Magd zum Tanz; die [Essensreste](piece_scraps.md) fliegen aus den Taschen. Drosselbart gibt sich als Spielmann und Husar zu erkennen und verzeiht ihr.
 
 ## Stage
 

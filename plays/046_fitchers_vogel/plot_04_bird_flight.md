@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die jüngste Schwester bereitet ihre Flucht vor.
+Die [jüngste Schwester](persona_sisters.md) bereitet ihre Flucht vor.
 
 ## Action
 
-Sie schickt ihre Schwestern im Korb getarnt zurück, bestreicht sich mit Honig und Federn und entkommt als Fitchers Vogel.
+Sie schickt ihre Schwestern im [Korb](piece_basket.md) getarnt zurück, bestreicht sich mit Honig und [Federn](piece_feather_disguise.md) und entkommt als Fitchers Vogel.
 
 ## Stage
 

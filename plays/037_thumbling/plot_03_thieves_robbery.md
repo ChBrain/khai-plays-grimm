@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Daumesdick trifft in der Nacht auf zwei Diebe, die das Pfarrhaus berauben wollen.
+[Daumesdick](persona_thumbling.md) trifft in der Nacht auf zwei [Diebe](persona_thieves.md), die das [Pfarrhaus](place_pastorage.md) berauben wollen.
 
 ## Action
 
@@ -33,4 +33,4 @@ Das Pfarrhaus und die Schatzkammer.
 
 ## Tension
 
-Die Gefahr des Verrats zwingt die Diebe zur Flucht, während Daumesdick sich im Heu versteckt.
+Die Gefahr des Verrats zwingt die Diebe zur Flucht, während Daumesdick sich im [Heu](piece_hay.md) versteckt.

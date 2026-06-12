@@ -25,11 +25,11 @@ Der arme Mann sucht verzweifelt einen Paten für sein dreizehntes Kind.
 
 ## Action
 
-Er begegnet Gott und dem Teufel, weist beide ab und wählt den Tod, weil dieser alle Menschen gleichbehandelt.
+Er begegnet Gott und dem Teufel, weist beide ab und wählt den [Tod](persona_death.md), weil dieser alle Menschen gleichbehandelt.
 
 ## Stage
 
-Die einsame, staubige Landstraße.
+Die einsame, staubige [Landstraße](place_road.md).
 
 ## Tension
 

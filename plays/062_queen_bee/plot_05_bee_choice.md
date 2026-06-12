@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Die dritte Aufgabe verlangt, die jüngste Prinzessin anhand ihres Honiggeschmacks zu identifizieren.
+Die dritte Aufgabe verlangt, die jüngste [Prinzessin](persona_princesses.md) anhand ihres [Honiggeschmacks](piece_honey.md) zu identifizieren.
 
 ## Action
 

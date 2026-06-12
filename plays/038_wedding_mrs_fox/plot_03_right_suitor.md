@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Ein junger Fuchs mit neun Schwänzen und roten Strümpfen nähert sich dem Fuchshaus.
+Ein junger Fuchs mit neun [Schwänzen](piece_tails.md) und [roten Strümpfen](piece_red_stockings.md) nähert sich dem [Fuchshaus](place_fox_house.md).
 
 ## Action
 
-Die Katze meldet ihn, Frau Füchsin lässt die Haustür öffnen und willigt erfreut in die Vermählung mit dem ebenbürtigen Freier ein.
+Die [Katze](persona_cat.md) meldet ihn, [Frau Füchsin](persona_mrs_fox.md) lässt die Haustür öffnen und willigt erfreut in die Vermählung mit dem ebenbürtigen [Freier](persona_suitors.md) ein.
 
 ## Stage
 

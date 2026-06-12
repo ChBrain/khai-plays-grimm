@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Frieder verlangt, dass Catherlieschen umkehrt, um das unverschlossene Haus zu sichern.
+[Frieder](persona_frederick.md) verlangt, dass [Catherlieschen](persona_catherine.md) umkehrt, um das unverschlossene [Haus](place_cottage.md) zu sichern.
 
 ## Action
 
-Catherlieschen geht heim, hängt jedoch die schwere Haustür aus und trägt sie auf ihrem Rücken zu Frieder, beladen mit einer Flasche Essig und einigen Dörrbirnen.
+Catherlieschen geht heim, hängt jedoch die schwere [Haustür](piece_house_door.md) aus und trägt sie auf ihrem Rücken zu Frieder, beladen mit einer Flasche Essig und einigen Dörrbirnen.
 
 ## Stage
 

@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der verletzte und orientierungslose Herr Korbes will panisch aus dem Haus entfliehen.
+Der verletzte und orientierungslose [Herr Korbes](persona_korbes.md) will panisch aus dem Haus entfliehen.
 
 ## Action
 
-Als er durch die Vordertür rennt, stürzt der Mühlstein herab und erschlägt ihn auf der Schwelle.
+Als er durch die Vordertür rennt, stürzt der [Mühlstein](piece_millstone.md) herab und erschlägt ihn auf der Schwelle.
 
 ## Stage
 

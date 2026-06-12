@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Das Paar flüchtet nachts in den Wald und versteckt sich auf einem Baum vor Dieben.
+Das Paar flüchtet nachts in den Wald und versteckt sich auf einem [Baum](place_forest_tree.md) vor [Dieben](persona_thieves.md).
 
 ## Action
 
-Die Diebe lagern unter dem Baum und zählen ihr Gold. Catherlieschen verliert nacheinander den Halt für Birnen, Essig und schließlich die schwere Tür. Die Diebe glauben, der Teufel stürze herab, und fliehen panisch, das Gold zurücklassend.
+Die Diebe lagern unter dem Baum und zählen ihr Gold. [Catherlieschen](persona_catherine.md) verliert nacheinander den Halt für Birnen, Essig und schließlich die schwere [Tür](piece_house_door.md). Die Diebe glauben, der Teufel stürze herab, und fliehen panisch, das Gold zurücklassend.
 
 ## Stage
 

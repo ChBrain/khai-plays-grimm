@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Ein gutmütiger Förster nimmt die weinenden Zwillinge auf und bildet sie aus.
+Ein gutmütiger Förster nimmt die weinenden [Zwillinge](persona_twins.md) auf und bildet sie aus.
 
 ## Action
 
-Als erwachsene Jäger ziehen sie aus. Sie erwerben auf dem Weg treue Wildtiere. Schließlich trennen sie sich an einer Wegkreuzung, stoßen ein Messer in einen Baumstamm und vereinbaren, am Zustand der Klinge das Wohl des anderen zu erkennen.
+Als erwachsene Jäger ziehen sie aus. Sie erwerben auf dem Weg treue Wildtiere. Schließlich trennen sie sich an einer Wegkreuzung, stoßen ein [Messer](piece_knife.md) in einen Baumstamm und vereinbaren, am Zustand der Klinge das Wohl des anderen zu erkennen.
 
 ## Stage
 

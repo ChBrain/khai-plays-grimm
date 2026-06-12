@@ -25,11 +25,11 @@ Zwei Tage vergehen mit erfolglosem Raten im Schloss.
 
 ## Action
 
-Am dritten Tag berichtet ein Bote von einem Männchen im Wald, das singt: "Heute back ich, morgen brau ich... ach, wie gut, dass niemand weiß, dass ich Rumpelstilzchen heiß!" Die Königin nennt den Namen; das Männchen zerreißt sich vor Zorn.
+Am dritten Tag berichtet ein Bote von einem [Männchen](persona_rumpelstiltskin.md) im Wald, das singt: "Heute back ich, morgen brau ich... ach, wie gut, dass niemand weiß, dass ich Rumpelstilzchen heiß!" Die [Königin](persona_millers_daughter.md) nennt den Namen; das Männchen zerreißt sich vor Zorn.
 
 ## Stage
 
-Die Waldlichtung mit dem Feuer und das Prunkzimmer der Königin.
+Die [Waldlichtung mit dem Feuer](place_forest_fire.md) und das Prunkzimmer der Königin.
 
 ## Tension
 

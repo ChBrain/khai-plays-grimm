@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Das Bürle zieht mit der erbeuteten Schafherde stolz ins Dorf ein.
+Das [Bürle](persona_peasant.md) zieht mit der erbeuteten Schafherde stolz ins [Dorf](place_village.md) ein.
 
 ## Action
 
-Er behauptet, er habe die Schafe am Grunde des Flusses gefunden. Die gierigen Bauern stürzen sich daraufhin nacheinander in den Fluss, um ebenfalls Schafe zu bergen, und ertrinken jämmerlich. Das Bürle erbt das gesamte Dorf.
+Er behauptet, er habe die Schafe am Grunde des [Flusses](place_river.md) gefunden. Die gierigen Bauern stürzen sich daraufhin nacheinander in den Fluss, um ebenfalls Schafe zu bergen, und [ertrinken](process_drowning.md) jämmerlich. Das Bürle erbt das gesamte Dorf.
 
 ## Stage
 

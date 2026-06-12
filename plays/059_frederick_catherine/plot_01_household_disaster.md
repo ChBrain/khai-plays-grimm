@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Frieder verlässt das Haus, um auf dem Feld zu arbeiten, und bittet Catherlieschen, das Essen zu bereiten.
+[Frieder](persona_frederick.md) verlässt das [Haus](place_cottage.md), um auf dem Feld zu arbeiten, und bittet [Catherlieschen](persona_catherine.md), das Essen zu bereiten.
 
 ## Action
 

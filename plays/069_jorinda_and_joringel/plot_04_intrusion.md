@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Joringel erreicht den Bannkreis des Hexenschlosses mit der roten Blume.
+[Joringel](persona_joringel.md) erreicht den [Bannkreis](piece_boundary.md) des [Hexenschlosses](place_castle.md) mit der roten Blume.
 
 ## Action
 
-Er bleibt durch die Kraft der Blume beweglich, berührt das Schlosstor, das sofort aufspringt, und betritt den großen Saal.
+Er bleibt durch die Kraft der [Blume](piece_flower.md) beweglich, berührt das Schlosstor, das sofort aufspringt, und betritt den großen Saal.
 
 ## Stage
 

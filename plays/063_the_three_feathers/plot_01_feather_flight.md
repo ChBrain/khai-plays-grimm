@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der König ruft seine drei Söhne zusammen und gibt bekannt, dass derjenige das Reich erben soll, der ihm den feinsten Teppich bringt.
+Der [König](persona_king.md) ruft seine drei Söhne zusammen und gibt bekannt, dass derjenige das Reich erben soll, der ihm den feinsten [Teppich](piece_carpet.md) bringt.
 
 ## Action
 
-Er bläst drei Federn in die Luft. Die älteren Brüder folgen stürmisch den Federn nach Osten und Westen; Dummlings Feder fällt nahe nieder, und er bleibt traurig bei ihr sitzen.
+Er bläst drei [Federn](piece_feathers.md) in die Luft. Die älteren [Brüder](persona_brothers.md) folgen stürmisch den Federn nach Osten und Westen; [Dummlings](persona_simpleton.md) Feder fällt nahe nieder, und er bleibt traurig bei ihr sitzen.
 
 ## Stage
 

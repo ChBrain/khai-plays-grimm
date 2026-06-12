@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der König kehrt heim, erfährt vom Betrug und sucht seine Frau sieben Jahre lang.
+Der [König](persona_king.md) kehrt heim, erfährt vom Betrug und sucht seine Frau sieben Jahre lang.
 
 ## Action
 
-Er findet das Waldhaus, schläft ein und wird von der geheilten Königin und dem Sohn Schmerzenreich wiedererkannt.
+Er findet das [Waldhaus](place_forest_house.md), schläft ein und wird von der geheilten Königin und dem Sohn Schmerzenreich wiedererkannt.
 
 ## Stage
 

@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Wolf und Wildschwein sehen den Hund und die Katze von weitem herannahen.
+[Wolf](persona_wolf.md) und Wildschwein sehen den Hund und die Katze von weitem herannahen.
 
 ## Action
 
