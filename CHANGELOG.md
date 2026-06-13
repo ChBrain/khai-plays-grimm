@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-grimm
 
+## 0.138.0
+
+### Minor Changes
+
+- 88017a7: play: stage KHM 137 in Grimm-Deutsch - siege of East India - son captured - father becomes mayor and sets gallows - son enters mountain castle - silence trial - return home - saved by smock-frock - boiling water betrayal - princesses' curse - castle sinks - broken leg.
+
 ## 0.137.0
 
 ### Minor Changes
