@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.134.0",
+  "version": "0.135.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -672,6 +672,11 @@
       "id": "134_the_six_servants",
       "title": "The Six Servants",
       "description": "Ein Königssohn gewinnt mit Hilfe von sechs Dienern mit übernatürlichen Kräften eine stolze Königstochter."
+    },
+    {
+      "id": "135_the_white_bride_and_the_black_bride",
+      "title": "The White Bride and the Black Bride",
+      "description": "Eine böse Stiefmutter schiebt dem König ihre schwarze Tochter unter, bis die weiße Braut als Ente gerettet wird."
     }
   ]
 }
