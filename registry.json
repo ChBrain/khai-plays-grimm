@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.101.0",
+  "version": "0.111.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -502,6 +502,56 @@
       "id": "100_devils_sooty_brother",
       "title": "The Devil's Sooty Brother",
       "description": "Ein abgedankter Soldat dient dem Teufel sieben Jahre, gewinnt Gold und am Ende ein Königreich."
+    },
+    {
+      "id": "101_bearskin",
+      "title": "Bearskin",
+      "description": "Ein Soldat schließt einen Pakt mit dem Teufel, hält sieben Jahre durch und gewinnt Reichtum und eine treue Braut."
+    },
+    {
+      "id": "102_willow_wren_and_bear",
+      "title": "The Willow-Wren and the Bear",
+      "description": "Ein Bär beleidigt die jungen Zaunkönige, verliert den Tierkrieg und muss um Verzeihung betteln."
+    },
+    {
+      "id": "103_sweet_porridge",
+      "title": "Sweet Porridge",
+      "description": "Ein Zaubertöpfchen sättigt die Armut, doch das vergessene Haltewort lässt es die ganze Stadt mit Brei überfluten."
+    },
+    {
+      "id": "104_wise_folks",
+      "title": "Wise Folks",
+      "description": "Hans findet zwei noch größere Narren als seine Frau und erspart ihr die Prügel."
+    },
+    {
+      "id": "105_stories_about_snakes",
+      "title": "Stories About Snakes",
+      "description": "Drei kurze Bilder zeigen, wie das Vertrauen zwischen Mensch und Unke zerbricht."
+    },
+    {
+      "id": "106_poor_millers_boy_and_cat",
+      "title": "The Poor Miller's Boy and the Cat",
+      "description": "Der einfältige Hans dient sieben Jahre einer verzauberten Katze und wird dafür reich."
+    },
+    {
+      "id": "107_the_two_travellers",
+      "title": "The Two Travellers",
+      "description": "Ein gütiger Schneider wird vom grausamen Schuster geblendet, doch dankbare Tiere erheben ihn zum Königsschwiegersohn."
+    },
+    {
+      "id": "108_hans_the_hedgehog",
+      "title": "Hans the Hedgehog",
+      "description": "Ein halb verwunschener Sohn erzwingt durch ein gehaltenes Wort seine Erlösung und sein Königreich."
+    },
+    {
+      "id": "109_the_shroud",
+      "title": "The Shroud",
+      "description": "Eine Mutter weint um ihr totes Kind, bis dessen nächtliche Bitte sie in stille Ergebung führt."
+    },
+    {
+      "id": "110_miser_in_the_thorns",
+      "title": "The Miser in the Thorns",
+      "description": "Ein milder Knecht zwingt den habgierigen Geizhals zum Tanz und kehrt dessen falsche Anklage am Galgen gegen ihn selbst."
     },
     {
       "id": "130_one_eye_two_eyes_three_eyes",
