@@ -1,5 +1,87 @@
 # @chbrain/khai-plays-grimm
 
+## 0.137.0
+
+### Minor Changes
+
+- b474a54: play: stage KHM 076 (Die Nelke / The Pink) in Grimm-Deutsch — a wishing king's
+  son unmasks the false cook, frees his imprisoned mother, and wins the maiden.
+- 82d818a: play: stage KHM 077 (Das kluge Gretel / Clever Gretel) in Grimm-Deutsch — a cook
+  devours both roast fowls and tricks the fleeing guest into thinking he will lose his ears.
+- 82d818a: play: stage KHM 078 (Der alte Großvater und der Enkel / The Old Man and His
+  Grandson) in Grimm-Deutsch — a child's little wooden trough shames the parents
+  into bringing the banished grandfather back to the table.
+- 82d818a: play: stage KHM 079 (Die Wassernixe / The Water-Nixie) in Grimm-Deutsch — two
+  captured children flee the nixie, throwing brush, comb, and mirror to raise
+  hills that block her pursuit.
+- 82d818a: play: stage KHM 080 (Von dem Tode des Hühnchens / The Death of the Little Hen)
+  in Grimm-Deutsch — the hen chokes on a nut and the chain of mourners drowns one
+  after another until the cock alone is left to grieve.
+- 72cb79c: play: stage KHM 081 in Grimm-Deutsch — the merry discharged soldier travels with St. Peter, lies about the lamb's heart, and at last wishes himself into Heaven.
+- 72cb79c: play: stage KHM 082 in Grimm-Deutsch — an incurable gambler wins half the world, traps Death in a magic tree, and after death gambles his way through Hell and into Heaven.
+- 72cb79c: play: stage KHM 083 in Grimm-Deutsch — Hans trades his wages of gold down through horse, cow, pig, and goose to a stone, then loses it gladly and goes home unburdened.
+- 72cb79c: play: stage KHM 084 in Grimm-Deutsch — a wooer passes off patched trousers as land to marry simple Hans to a covetous peasant's daughter.
+- 72cb79c: play: stage KHM 085 in Grimm-Deutsch — a golden fish makes a poor couple two gold-children whose linked lilies track the brave son through bearskin, bride, witch, and rescue.
+- 72cb79c: play: stage KHM 086 in Grimm-Deutsch — a fox grants the geese a last prayer, which they never finish, so he never eats them.
+- 72cb79c: play: stage KHM 087 in Grimm-Deutsch — the Lord rewards a poor couple's hospitality with three blessings and turns the rich man's grudging wishes against himself.
+- 72cb79c: play: stage KHM 088 in Grimm-Deutsch — a daughter follows her lion-husband through dove-curse, Sun, Moon, and winds to win him back from the dragon-princess.
+- 72cb79c: play: stage KHM 089 in Grimm-Deutsch — a usurped princess tends geese with the speaking head of Falada until the old king draws out the truth and the false bride is judged.
+- 72cb79c: play: stage KHM 090 in Grimm-Deutsch — a thumb-sized boy raised by a giant grows monstrously strong and pays his greedy masters in world-flinging blows.
+- 9cbda34: play: stage KHM 091 in Grimm-Deutsch — the youngest huntsman slays the underground dragons to free the sunken princesses, is betrayed by his brothers, and is carried back by elves to claim his bride.
+- 9cbda34: play: stage KHM 092 in Grimm-Deutsch — a merchant's son, promised away to a black dwarf, endures the bewitched castle, loses and reclaims his queen, and wins back the Golden Mountain with sword, cloak, and boots.
+- 9cbda34: play: stage KHM 093 in Grimm-Deutsch — a man freed from sleep by never-ending fare wins the cursed raven-maiden of Stromberg with stick, mantle, and horse, and the ring she knows.
+- 9cbda34: play: stage KHM 094 in Grimm-Deutsch — a poor man's clever daughter solves the king's riddle to wed him, then wins him back after he banishes her by carrying off her dearest possession — himself.
+- 9cbda34: play: stage KHM 095 in Grimm-Deutsch — a parson sends gullible Hildebrand on a sham pilgrimage, but a gossip smuggles him home in an egg-basket to cudgel the priest out.
+- 9cbda34: play: stage KHM 096 in Grimm-Deutsch — a calumniated queen's three star-marked children, drowned and rescued, fetch the prophetic bird and healing water that free their mother and burn the wicked sisters.
+- 9cbda34: play: stage KHM 097 in Grimm-Deutsch — the humble youngest prince fetches the water of life and wins the enchanted princess, surviving his elder brothers' theft and slander by the golden road.
+- 9cbda34: play: stage KHM 098 in Grimm-Deutsch — a peasant turned sham doctor recovers a lord's stolen money by accident, terrifying the guilty servants into confession.
+- 9cbda34: play: stage KHM 099 in Grimm-Deutsch — a woodcutter's son traps the freed spirit Mercurius back in its bottle, wins a plaster that heals wounds and turns iron to silver, and becomes a famous doctor.
+- 9cbda34: play: stage KHM 100 in Grimm-Deutsch — a discharged soldier serves seven unwashed years stoking Hell's fires, carries off sweepings that turn to gold, and wins a king's daughter and kingdom.
+- 8124292: play: stage KHM 101 in Grimm-Deutsch — a discharged soldier endures the Devil's seven unwashed years as Bearskin to win endless gold and the faithful youngest daughter.
+- 8124292: play: stage KHM 102 in Grimm-Deutsch — the insulted willow-wren's birds rout the four-footed beasts when a hornet fells the fox's tail-signal, and the bear must beg the nestlings' pardon.
+- 8124292: play: stage KHM 103 in Grimm-Deutsch — a magic pot fills a town with porridge when the mother forgets the word to stop it, until the girl returns to halt it.
+- 8124292: play: stage KHM 104 in Grimm-Deutsch — a peasant set to find fools sillier than his wife dupes a credulous widow and her son out of money and a horse.
+- 8124292: play: stage KHM 105 in Grimm-Deutsch — three brief house-snake fragments: a slain snake and a fading child, a stolen crown and a grieving snake, and an unanswered call.
+- 8124292: play: stage KHM 106 in Grimm-Deutsch — a despised miller's boy serves an enchanted cat seven years and wins the finest horse, the mill, and a princess in a silver castle.
+- 8124292: play: stage KHM 107 in Grimm-Deutsch — a generous tailor, blinded and abandoned by a cruel shoemaker, is healed by gallows-dew and wins a kingdom with grateful animals' help.
+- 8124292: play: stage KHM 108 in Grimm-Deutsch — a half-hedgehog boy rides a cock with his herd, holds two kings to their bargains, sheds his skin, and wins a faithful princess and a kingdom.
+- 8124292: play: stage KHM 109 in Grimm-Deutsch — a dead child begs its grieving mother to stop weeping so its tear-soaked shroud can dry and it can rest.
+- 8124292: play: stage KHM 110 in Grimm-Deutsch — a rewarded servant's dancing-fiddle exposes a covetous false accuser, who is hanged as the thief he truly is.
+- 3edc647: play: stage KHM 111 in Grimm-Deutsch — a crack marksman slays three giants and wins the princess with the proofs he took, unmasking the false captain who claimed the deed.
+- 3edc647: play: stage KHM 112 in Grimm-Deutsch — a peasant climbs a sky-high turnip-tree, sees angels threshing, and climbs down a chaff-rope with a flail as proof of his tall tale.
+- 3edc647: play: stage KHM 113 in Grimm-Deutsch — an abducted prince, helped by a king's daughter and her earth-summoning handkerchief, flees by transformation and is won back through three walnut dresses.
+- 3edc647: play: stage KHM 114 in Grimm-Deutsch — a young tailor answers the proud princess's riddle and outwits the stable bear with pebbles and a vise to win her hand.
+- 3edc647: play: stage KHM 115 in Grimm-Deutsch — a poor apprentice murders a wayfarer for eight farthings, and years later a dancing sunbeam draws out the confession that hangs him.
+- 3edc647: play: stage KHM 116 in Grimm-Deutsch — a cast-off soldier wins a blue light whose summoned dwarf brings him gold, the princess, and at last the king's whole kingdom.
+- 3edc647: play: stage KHM 117 in Grimm-Deutsch — a disobedient child dies and her arm keeps rising from the grave until her mother strikes it with a rod and she rests.
+- 3edc647: play: stage KHM 118 in Grimm-Deutsch — three boastful surgeons' detached parts are eaten by a cat and replaced with a thief's hand, cat's eyes, and a pig's heart.
+- 3edc647: play: stage KHM 119 in Grimm-Deutsch — seven Swabians on one shared spear flee a hornet and a hare, then drown together misreading a frog's croak as a call to wade.
+- 3edc647: play: stage KHM 120 in Grimm-Deutsch — three apprentices bound by the Devil to three fixed phrases are framed for murder, then freed when the Devil claims the true killer's soul.
+- 3e27e62: play: stage KHM 121 in Grimm-Deutsch — a fearless prince, blinded and saved by a faithful lion, endures three silent nights of torment to disenchant a princess and her castle.
+- 3e27e62: play: stage KHM 122 in Grimm-Deutsch — a huntsman robbed of his wishing-cloak and gold-heart by a witch's daughter turns the thieves into asses with magic cabbage until they repent.
+- 3e27e62: play: stage KHM 123 in Grimm-Deutsch — an orphaned girl fed by a white dove fetches a plain ring from a witch's house and frees the tree-bound prince it conceals.
+- 3e27e62: play: stage KHM 124 in Grimm-Deutsch — three sons contest their father's house with feats of barber, smith, and fencer, then live and die together, buried in one grave.
+- 3e27e62: play: stage KHM 125 in Grimm-Deutsch — three deserters bound by the Devil's seven-year pact win free when one overhears the riddle's answer from the Devil's grandmother.
+- 3e27e62: play: stage KHM 126 in Grimm-Deutsch — Ferdinand the Faithful, helped by a speaking white horse and a fish's flute, fetches a king's bride who turns her magic against the king and weds him.
+- 3e27e62: play: stage KHM 127 in Grimm-Deutsch — a princess frees a prince trapped in an iron stove, loses him by breaking her word, and wins him back over glass, swords, and lake with three nut-dresses.
+- 3e27e62: play: stage KHM 128 in Grimm-Deutsch — an idle wife dodges all spinning by cursing the reel-wood and boiling tow for yarn until her husband gives up complaining.
+- 3e27e62: play: stage KHM 129 in Grimm-Deutsch — four brothers' crafts — star-gazing, thieving, shooting, sewing — rescue a princess from a dragon, and each is given half a kingdom.
+- e2e7f7e: play: stage KHM 131 in Grimm-Deutsch - fair Katrinelje and Pif-Paf-Poltrie - suitor seeks family consents - bride counts dowry and guesses broom-maker's trade.
+- 3fd2be7: play: stage KHM 132 in Grimm-Deutsch - old horse banishment - meeting with the fox - luring and binding the lion - dragged captive return.
+
+### Patch Changes
+
+- 68d93f6: conform plays 031–071 to the casting canon: every plot now casts at least one
+  element of its play's Company by linking it inline, rather than only naming it in
+  plain prose. Content-only — German wording, punctuation, and structure preserved.
+- 6ce5927: fix: add the missing `.md` extension to the `das Schrot` link in KHM 072
+  (`process_chastisement.md`), restoring intra-play link integrity.
+- 2073388: adopt derived numbering: bump `@chbrain/khai-tests` to `^0.1.19` so the registry
+  build derives the version's minor from the play count (the build is the single
+  writer of the minor) and the conformance guard fails any `minor ≠ play count`
+  drift. Heals the count/version mismatch (76 plays were shipped as `0.77.0`) back
+  to `0.76.0`. Closes #132.
+
 ## 0.77.0
 
 ### Minor Changes
