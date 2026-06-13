@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.111.0",
+  "version": "0.121.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -552,6 +552,56 @@
       "id": "110_miser_in_the_thorns",
       "title": "The Miser in the Thorns",
       "description": "Ein milder Knecht zwingt den habgierigen Geizhals zum Tanz und kehrt dessen falsche Anklage am Galgen gegen ihn selbst."
+    },
+    {
+      "id": "111_skilful_huntsman",
+      "title": "The Skilful Huntsman",
+      "description": "Ein Schlosserssohn wird zum nie fehlenden Jäger, erschlägt drei Riesen und entlarvt den falschen Hauptmann."
+    },
+    {
+      "id": "112_flail_from_heaven",
+      "title": "The Flail from Heaven",
+      "description": "Ein prahlerischer Bauer holt aus dem Himmel einen Dreschflegel als Beweis seiner Geschichte."
+    },
+    {
+      "id": "113_two_kings_children",
+      "title": "The Two Kings' Children",
+      "description": "Eine zaubermächtige Königstochter rettet den verfluchten Königssohn und gewinnt ihn nach dem Vergessen zurück."
+    },
+    {
+      "id": "114_cunning_little_tailor",
+      "title": "The Cunning Little Tailor",
+      "description": "Ein junges Schneiderlein löst das Rätsel der stolzen Prinzessin und besteht listig die Nacht beim Bären."
+    },
+    {
+      "id": "115_bright_sun",
+      "title": "The Bright Sun Brings It to Light",
+      "description": "Ein Geselle ermordet einen armen Wandersmann, doch die Sonne bringt die Tat ans Licht."
+    },
+    {
+      "id": "116_the_blue_light",
+      "title": "The Blue Light",
+      "description": "Ein verstoßener Soldat findet das blaue Licht und zwingt mit seinem Zwerg den König in die Knie."
+    },
+    {
+      "id": "117_the_wilful_child",
+      "title": "The Wilful Child",
+      "description": "Ein eigensinniges Kind findet erst Ruhe im Grab, als die Mutter sein Ärmchen mit der Rute zurückschlägt."
+    },
+    {
+      "id": "118_three_army_surgeons",
+      "title": "The Three Army-Surgeons",
+      "description": "Drei prahlende Feldscherer verlieren durch eine nächtliche Vertauschung ihre eigenen Glieder."
+    },
+    {
+      "id": "119_seven_swabians",
+      "title": "The Seven Swabians",
+      "description": "Sieben Schwaben an einem Spieß verwechseln jeden Schrecken mit Tod und ertrinken zuletzt an einem Froschruf."
+    },
+    {
+      "id": "120_three_apprentices",
+      "title": "The Three Apprentices",
+      "description": "Drei mittellose Handwerksburschen schließen einen Pakt mit dem Teufel und entgehen knapp dem Galgen."
     },
     {
       "id": "130_one_eye_two_eyes_three_eyes",
