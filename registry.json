@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.147.0",
+  "version": "0.157.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -737,6 +737,56 @@
       "id": "147_old_man_made_young",
       "title": "The Old Man Made Young Again",
       "description": "Ein Schmied ahmt das göttliche Verjüngungswunder plump nach und richtet nur Unheil an."
+    },
+    {
+      "id": "148_lords_animals_and_devils",
+      "title": "The Lord's Animals and the Devil's",
+      "description": "Der Teufel pfuscht die Ziegen, der Herrgott straft sie, und am Ende fordert der Betrug seinen ewigen Preis."
+    },
+    {
+      "id": "149_the_beam",
+      "title": "The Beam",
+      "description": "Ein Mädchen durchschaut den Trug des Zauberers, wird aber an ihrem Hochzeitstag selbst geblendet."
+    },
+    {
+      "id": "150_old_beggar_woman",
+      "title": "The Old Beggar-Woman",
+      "description": "Eine alte Bettelfrau gerät am Feuer in Brand, und ein Knabe sieht zu, ohne zu löschen."
+    },
+    {
+      "id": "151_three_sluggards",
+      "title": "The Three Sluggards",
+      "description": "Ein sterbender König vermacht das Reich dem faulsten seiner drei Söhne."
+    },
+    {
+      "id": "152_shepherd_boy",
+      "title": "The Shepherd Boy",
+      "description": "Ein Hirtenjunge beantwortet die drei unmöglichen Fragen des Königs mit kluger Weisheit."
+    },
+    {
+      "id": "153_star_money",
+      "title": "The Star-Money",
+      "description": "Ein frommes Waisenkind verschenkt all sein Hab und Gut und wird vom Himmel mit Sternentalern reich beschenkt."
+    },
+    {
+      "id": "154_stolen_farthings",
+      "title": "The Stolen Farthings",
+      "description": "Ein totes Kind kehrt heim, bis seine verborgene Schuld gesühnt und es zur Ruhe gebettet ist."
+    },
+    {
+      "id": "155_brides_on_trial",
+      "title": "Brides on Their Trial",
+      "description": "Ein Schäfer prüft drei gleich hübsche Schwestern am Käse und wählt die maßvolle zur Frau."
+    },
+    {
+      "id": "156_odds_and_ends",
+      "title": "Odds and Ends",
+      "description": "Eine faule Maid verwirft ihre Werg-Reste, doch die fleißige Magd verspinnt sie und gewinnt den Bräutigam."
+    },
+    {
+      "id": "157_sparrow_and_four_children",
+      "title": "The Sparrow and His Four Children",
+      "description": "Ein alter Sperling belehrt seine vier Söhne und lobt das Gottvertrauen des Jüngsten."
     }
   ]
 }
