@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.121.0",
+  "version": "0.130.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -602,6 +602,51 @@
       "id": "120_three_apprentices",
       "title": "The Three Apprentices",
       "description": "Drei mittellose Handwerksburschen schließen einen Pakt mit dem Teufel und entgehen knapp dem Galgen."
+    },
+    {
+      "id": "121_kings_son_feared_nothing",
+      "title": "The King's Son Who Feared Nothing",
+      "description": "Ein furchtloser Königssohn besteht Verrat und Folter und erlöst eine verzauberte Königstochter."
+    },
+    {
+      "id": "122_donkey_cabbages",
+      "title": "Donkey Cabbages",
+      "description": "Ein bestohlener Jäger verwandelt seine Betrügerinnen mit Zauberkraut in Esel und erzwingt so Buße und Versöhnung."
+    },
+    {
+      "id": "123_old_woman_in_wood",
+      "title": "The Old Woman in the Wood",
+      "description": "Ein verwaistes Mädchen vertraut sich Gott an und erlöst durch einen schlichten Ring den verzauberten Königssohn."
+    },
+    {
+      "id": "124_three_brothers",
+      "title": "The Three Brothers",
+      "description": "Drei Brüder erlernen je ein Handwerk, wetteifern um das Haus des Vaters und bleiben bis in den Tod vereint."
+    },
+    {
+      "id": "125_devil_and_grandmother",
+      "title": "The Devil and His Grandmother",
+      "description": "Drei Soldaten entkommen dem Teufel, weil der dritte das Rätsel und seine Lösung im Felsenhaus belauscht."
+    },
+    {
+      "id": "126_ferdinand_faithful",
+      "title": "Ferdinand the Faithful",
+      "description": "Ein armer Junge wird durch Treue und ein sprechendes Pferd vom Vorreiter zum König."
+    },
+    {
+      "id": "127_the_iron_stove",
+      "title": "The Iron Stove",
+      "description": "Eine Königstochter erlöst einen in einen Eisenofen verzauberten Prinzen und gewinnt ihn trotz gebrochenem Wort zurück."
+    },
+    {
+      "id": "128_the_lazy_spinner",
+      "title": "The Lazy Spinner",
+      "description": "Eine arbeitsscheue Frau bringt ihren gutmütigen Mann mit immer neuen Listen dazu, das Spinnen für immer aufzugeben."
+    },
+    {
+      "id": "129_four_skilful_brothers",
+      "title": "The Four Skilful Brothers",
+      "description": "Vier Brüder lernen je ein Handwerk und retten gemeinsam die geraubte Königstochter."
     },
     {
       "id": "130_one_eye_two_eyes_three_eyes",
