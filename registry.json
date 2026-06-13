@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.81.0",
+  "version": "0.91.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -402,6 +402,56 @@
       "id": "080_death_of_the_hen",
       "title": "The Death of the Little Hen",
       "description": "Das gierige Hühnchen erstickt am Nusskern, und die Trauer um es reißt am Ende alle in den Tod."
+    },
+    {
+      "id": "081_brother_lustig",
+      "title": "Brother Lustig",
+      "description": "Ein lustiger Soldat reist mit dem heiligen Petrus, verzehrt heimlich das Lammherz und wünscht sich in den Himmel."
+    },
+    {
+      "id": "082_gambling_hansel",
+      "title": "Gambling Hansel",
+      "description": "Ein unverbesserlicher Spieler verspielt selbst die Wünsche des Herrn und zersplittert am Ende vor dem Himmelstor."
+    },
+    {
+      "id": "083_hans_in_luck",
+      "title": "Hans in Luck",
+      "description": "Hans vertauscht heiter ein Gut nach dem anderen, bis er befreit und glücklich heimkehrt."
+    },
+    {
+      "id": "084_hans_married",
+      "title": "Hans Married",
+      "description": "Ein listiger Oheim erschwindelt dem armen Hans durch geflickte Hose und blanken Heller eine reiche Braut."
+    },
+    {
+      "id": "085_the_gold_children",
+      "title": "The Gold-Children",
+      "description": "Aus dem zerteilten Goldfisch wachsen zwei Goldkinder, deren Lilien über Leben und Tod entscheiden."
+    },
+    {
+      "id": "086_the_fox_and_the_geese",
+      "title": "The Fox and the Geese",
+      "description": "Ein Fuchs will eine Gänseschar fressen, doch ihr endloses Gebet rettet sie."
+    },
+    {
+      "id": "087_poor_man_rich_man",
+      "title": "The Poor Man and the Rich Man",
+      "description": "Der Herr lohnt die Gastfreundschaft des Armen und straft den Geiz des Reichen mit eigenen Wünschen."
+    },
+    {
+      "id": "088_singing_springing_lark",
+      "title": "The Singing, Springing Lark",
+      "description": "Eine treue Tochter folgt ihrem verzauberten Gemahl bis ans Ende der Welt."
+    },
+    {
+      "id": "089_the_goose_girl",
+      "title": "The Goose-Girl",
+      "description": "Eine wahre Braut wird von ihrer Zofe verdrängt, hütet als Gänsemagd die Gänse und wird zuletzt erkannt."
+    },
+    {
+      "id": "090_the_young_giant",
+      "title": "The Young Giant",
+      "description": "Ein daumengroßer Bauernsohn wird beim Riesen zum übermächtigen Mann und bezahlt jede Tücke mit der Faust."
     },
     {
       "id": "130_one_eye_two_eyes_three_eyes",
