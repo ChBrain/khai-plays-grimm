@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.77.0",
+  "version": "0.78.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -382,6 +382,11 @@
       "id": "076_the_pink",
       "title": "The Pink",
       "description": "Ein wünschender Königssohn entlarvt den falschen Koch, errettet seine Mutter und gewinnt die Jungfrau."
+    },
+    {
+      "id": "077_clever_gretel",
+      "title": "Clever Gretel",
+      "description": "Eine listige Köchin verschlingt das Festmahl und hetzt mit einer Notlüge den Gast und den Herrn auseinander."
     },
     {
       "id": "130_one_eye_two_eyes_three_eyes",
