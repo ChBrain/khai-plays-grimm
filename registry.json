@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.137.0",
+  "version": "0.147.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -687,6 +687,56 @@
       "id": "137_the_three_black_princesses",
       "title": "The Three Black Princesses",
       "description": "Drei schwarze Prinzessinnen werden fast erlöst, bis der Fischersohn aus Neugier kochendes Wasser über sie gießt."
+    },
+    {
+      "id": "138_knoist_and_his_sons",
+      "title": "Knoist and His Three Sons",
+      "description": "Drei gebrechliche Söhne ziehen aus und erleben lauter Unmöglichkeiten ohne Sinn."
+    },
+    {
+      "id": "139_maid_of_brakel",
+      "title": "The Maid of Brakel",
+      "description": "Ein Mädchen erfleht einen Mann, hält den höhnenden Küster für die Heilige und weist das Kind Maria zurecht."
+    },
+    {
+      "id": "140_domestic_servants",
+      "title": "Domestic Servants",
+      "description": "Zwei Sprecherinnen häufen im Wechselgesang ihren Hausstand auf und ziehen gemeinsam nach Walpe."
+    },
+    {
+      "id": "141_lambkin_and_little_fish",
+      "title": "The Lambkin and the Little Fish",
+      "description": "Eine neidische Hexenstiefmutter verwandelt zwei treue Geschwister in Tiere, bis eine weise Frau sie erlöst."
+    },
+    {
+      "id": "142_simeli_mountain",
+      "title": "Simeli Mountain",
+      "description": "Der arme Bruder begnügt sich mit Gold, doch der habgierige Bruder vergisst das Wort und verliert den Kopf."
+    },
+    {
+      "id": "143_going_a_travelling",
+      "title": "Going A-Travelling",
+      "description": "Ein einfältiger Sohn wandert aus und wird überall geprügelt, weil er gelernte Worte stets am falschen Ort wiederholt."
+    },
+    {
+      "id": "144_the_donkey",
+      "title": "The Donkey",
+      "description": "Ein als Esel geborener Prinz erspielt sich mit der Laute eine Braut und legt seine Haut ab."
+    },
+    {
+      "id": "145_the_ungrateful_son",
+      "title": "The Ungrateful Son",
+      "description": "Ein Mann versteckt das Brathuhn vor dem alten Vater und trägt zur Strafe ewig die Kröte im Gesicht."
+    },
+    {
+      "id": "146_the_turnip",
+      "title": "The Turnip",
+      "description": "Ein armer Bruder zieht eine Riesenrübe, wird reich beschenkt und entkommt dem Neid des Bruders durch List."
+    },
+    {
+      "id": "147_old_man_made_young",
+      "title": "The Old Man Made Young Again",
+      "description": "Ein Schmied ahmt das göttliche Verjüngungswunder plump nach und richtet nur Unheil an."
     }
   ]
 }
