@@ -1,6 +1,6 @@
 {
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.77.0",
+  "version": "0.76.0",
   "description": "khai plays: the Grimm production house. Plays staged with khai; the source is credited where it is in the public domain.",
   "type": "module",
   "exports": {
@@ -46,7 +46,7 @@
     "@chbrain/khai-language": "^0.1.3",
     "@chbrain/khai-pack": "^0.0.3",
     "@chbrain/khai-review": "^0.1.3",
-    "@chbrain/khai-tests": "^0.1.17",
+    "@chbrain/khai-tests": "^0.1.19",
     "husky": "^9.1.0",
     "prettier": "^3.3.0",
     "vitest": "^4.1.8"
