@@ -25,11 +25,11 @@ Dem König fehlt jeden Morgen ein Apfel von seinem goldenen Baum.
 
 ## Action
 
-Der jüngste Sohn wacht nachts und sieht, wie der goldene Vogel einen Apfel stiehlt. Er schießt ihm eine Feder ab. Der König verlangt daraufhin den ganzen Vogel.
+Der jüngste Sohn wacht nachts und sieht, wie der [goldene Vogel](piece_golden_bird.md) einen Apfel stiehlt. Er schießt ihm eine Feder ab. Der König verlangt daraufhin den ganzen Vogel.
 
 ## Stage
 
-Der nächtliche, mondbeschienene Königsgarten.
+Der nächtliche, mondbeschienene [Königsgarten](place_garden.md).
 
 ## Tension
 

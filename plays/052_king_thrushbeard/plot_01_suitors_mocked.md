@@ -25,7 +25,7 @@ Der König lädt alle heiratsfähigen Männer aus nah und fern zu einem prachtvo
 
 ## Action
 
-Die Prinzessin geht durch die Reihen und verspottet jeden einzelnen, vor allem König Drosselbart. Der Vater schwört daraufhin zornig, sie dem ersten Bettler zur Frau zu geben.
+Die [Prinzessin](persona_princess.md) geht durch die Reihen und verspottet jeden einzelnen, vor allem [König Drosselbart](persona_thrushbeard.md). Der [Vater](persona_father_king.md) schwört daraufhin zornig, sie dem ersten Bettler zur Frau zu geben.
 
 ## Stage
 

@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Das Mädchen äußert den Wunsch, die geheimnisvolle Frau Trude zu besuchen.
+Das [Mädchen](persona_girl.md) äußert den Wunsch, die geheimnisvolle [Frau Trude](persona_witch.md) zu besuchen.
 
 ## Action
 
-Die Eltern verbieten es ihr ausdrücklich und warnen sie vor der Bosheit der Hexe.
+Die [Eltern](persona_parents.md) verbieten es ihr ausdrücklich und warnen sie vor der Bosheit der Hexe.
 
 ## Stage
 

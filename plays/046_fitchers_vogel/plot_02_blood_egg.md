@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Der Zauberer reist ab und übergibt der ältesten Schwester die Schlüssel und das Ei.
+Der [Zauberer](persona_sorcerer.md) reist ab und übergibt der ältesten [Schwester](persona_sisters.md) die Schlüssel und das [Ei](piece_egg.md).
 
 ## Action
 

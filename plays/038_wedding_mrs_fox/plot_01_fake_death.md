@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Herr Fuchs verdächtigt seine Frau der Untreue und beschließt, Gewissheit zu erlangen.
+[Herr Fuchs](persona_mr_fox.md) verdächtigt seine Frau der Untreue und beschließt, Gewissheit zu erlangen.
 
 ## Action
 
-Er legt sich steif auf die Ofenbank und stellt sich tot; die Katze schließt trauernd die Fensterläden und Frau Füchsin klagt in ihrer Kammer.
+Er legt sich steif auf die [Ofenbank](piece_stove_bench.md) und stellt sich tot; die [Katze](persona_cat.md) schließt trauernd die [Fensterläden](piece_shutter.md) und [Frau Füchsin](persona_mrs_fox.md) klagt in ihrer Kammer.
 
 ## Stage
 

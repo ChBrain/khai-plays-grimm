@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der König sendet seine Kavallerie aus, um das Gold mit Gewalt zurückzuholen.
+Der [König](persona_king.md) sendet seine Kavallerie aus, um das [Gold](piece_gold.md) mit Gewalt zurückzuholen.
 
 ## Action
 
-Der Bläser wehrt die Verfolger ab, indem er durch ein Nasenloch bläst und den Sturm entfesselt, der die Soldaten in die Luft wirbelt, worauf die Gefährten in Sicherheit entkommen.
+Der [Bläser](persona_blower.md) wehrt die Verfolger ab, indem er durch ein Nasenloch bläst und den Sturm entfesselt, der die Soldaten in die Luft wirbelt, worauf die Gefährten in Sicherheit entkommen.
 
 ## Stage
 

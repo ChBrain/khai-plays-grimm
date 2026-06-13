@@ -25,7 +25,7 @@ Rolands neue Hochzeit mit der fremden Braut soll gefeiert werden.
 
 ## Action
 
-Das Mädchen geht als Gast zum Fest und singt ein wunderschönes, trauriges Lied. Sobald Roland ihre Stimme hört, bricht der Vergessenszauber. Er erkennt sie und heiratet seine wahre Braut.
+Das [Mädchen](persona_girl.md) geht als Gast zum Fest und singt ein wunderschönes, trauriges Lied. Sobald [Roland](persona_roland.md) ihre Stimme hört, bricht der Vergessenszauber. Er erkennt sie und heiratet seine wahre Braut.
 
 ## Stage
 

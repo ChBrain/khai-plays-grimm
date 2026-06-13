@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Das Häsichen frisst im Winter den Kohl aus dem Familiengarten.
+Das [Häsichen](persona_hare.md) frisst im Winter den [Kohl](piece_cabbage.md) aus dem Familiengarten.
 
 ## Action
 
-Die Mutter sendet das Mädchen wiederholt hinaus, um das Tier zu verjagen, was zu einer ersten Kontaktaufnahme führt.
+Die [Mutter](persona_mother.md) sendet das [Mädchen](persona_girl.md) wiederholt hinaus, um das Tier zu verjagen, was zu einer ersten Kontaktaufnahme führt.
 
 ## Stage
 

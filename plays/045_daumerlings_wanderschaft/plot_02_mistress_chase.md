@@ -21,15 +21,15 @@ stamp:
 
 ## Cue
 
-Däumling arbeitet als Lehrling bei einem Meister und beschwert sich über das Essen.
+[Däumling](persona_thumbling.md) arbeitet als Lehrling bei einem Meister und beschwert sich über das Essen.
 
 ## Action
 
-Er verspottet die Meisterfrau, woraufhin sie ihn wütend mit dem Wischtuch über den Tisch jagt und aus dem Haus treibt.
+Er verspottet die [Meisterfrau](persona_antagonists.md), woraufhin sie ihn wütend mit dem Wischtuch über den Tisch jagt und aus dem Haus treibt.
 
 ## Stage
 
-Die Stube und Küche in der Werkstatt des Meisters.
+Die Stube und Küche in der [Werkstatt](place_workshop.md) des Meisters.
 
 ## Tension
 

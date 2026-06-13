@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die Zwangshochzeit wird vollzogen, doch die Prinzessin hasst ihren armselig gekleideten Gatten.
+Die Zwangshochzeit wird vollzogen, doch die [Prinzessin](persona_princess.md) hasst ihren armselig gekleideten Gatten.
 
 ## Action
 
-Sie entlockt ihm das Geheimnis des Ranzens, stiehlt ihn und lässt ihn durch die Soldaten verjagen. Als er mit dem Hütlein zurückkehrt, stiehlt sie auch dieses und schießt ihn mit den Kanonen fort.
+Sie entlockt ihm das Geheimnis des [Ranzens](piece_knapsack.md), stiehlt ihn und lässt ihn durch die Soldaten verjagen. Als er mit dem [Hütlein](piece_hat.md) zurückkehrt, stiehlt sie auch dieses und schießt ihn mit den Kanonen fort.
 
 ## Stage
 

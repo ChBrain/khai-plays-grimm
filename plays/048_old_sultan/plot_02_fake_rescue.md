@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die Bauern lassen ihr Kind beim Heumachen am Feldrand im Schatten liegen.
+Die Bauern lassen ihr [Kind](piece_child.md) beim Heumachen am [Feldrand](place_field.md) im Schatten liegen.
 
 ## Action
 
-Der Wolf schnappt das Kind und rennt davon; Sultan eilt hinterher, rettet es scheinbar und gewinnt die lebenslange Liebe der Bauern zurück.
+Der [Wolf](persona_wolf.md) schnappt das Kind und rennt davon; [Sultan](persona_sultan.md) eilt hinterher, rettet es scheinbar und gewinnt die lebenslange Liebe der Bauern zurück.
 
 ## Stage
 

@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Der verarmte Schuster schneidet am Abend sein letztes Leder für ein Paar Schuhe zu und geht schlafen.
+Der verarmte [Schuster](persona_shoemaker.md) schneidet am Abend sein letztes [Leder](piece_leather.md) für ein Paar [Schuhe](piece_shoes.md) zu und geht schlafen.
 
 ## Action
 

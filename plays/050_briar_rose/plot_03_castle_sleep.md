@@ -25,7 +25,7 @@ Die Prinzessin verfällt in den tiefen Schlaf.
 
 ## Action
 
-Das gesamte Schloss schläft mit ihr ein (König, Hofstaat, Tiere, Wind und Feuer), und eine dichte Dornenhecke umschließt das Gebäude.
+Das gesamte [Schloss](place_palace.md) schläft mit ihr ein (König, Hofstaat, Tiere, Wind und Feuer), und eine dichte [Dornenhecke](place_hedge.md) umschließt das Gebäude.
 
 ## Stage
 

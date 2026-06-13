@@ -25,7 +25,7 @@ Das Paar beschließt, den nackten Helfern eine Freude und Dankbarkeit zu erweise
 
 ## Action
 
-Die Frau näht winzige Kleider, der Schuster winzige Lederschuhe, und sie legen diese Gaben am Abend auf den Tisch.
+Die [Frau](persona_wife.md) näht winzige [Kleider](piece_elf_clothes.md), der [Schuster](persona_shoemaker.md) winzige [Lederschuhe](piece_tiny_shoes.md), und sie legen diese Gaben am Abend auf den Tisch.
 
 ## Stage
 

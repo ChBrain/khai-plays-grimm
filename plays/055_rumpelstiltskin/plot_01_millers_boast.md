@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der König reist durch das Land und macht Halt an der Mühle.
+Der [König](persona_king.md) reist durch das Land und macht Halt an der [Mühle](place_mill.md).
 
 ## Action
 
-Der Müller prahlt, seine Tochter könne Stroh zu Gold spinnen. Der gierige König lässt das Mädchen ins Schloss bringen und sperrt es mit Stroh und Spinnrad in eine Kammer.
+Der [Müller](persona_miller.md) prahlt, seine Tochter könne [Stroh](piece_straw.md) zu [Gold](piece_gold.md) spinnen. Der gierige König lässt das Mädchen ins Schloss bringen und sperrt es mit Stroh und [Spinnrad](piece_spinning_wheel.md) in eine [Kammer](place_chamber.md).
 
 ## Stage
 

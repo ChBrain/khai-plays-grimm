@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Gott kehrt von Seinem Spaziergang zurück und bemerkt das Fehlen Seines goldenen Fußschemels.
+[Gott](persona_god.md) kehrt von Seinem Spaziergang zurück und bemerkt das Fehlen Seines goldenen [Fußschemels](piece_footstool.md).
 
 ## Action
 
-Gott befragt Petrus und den Schneider. Er rügt den Schneider wegen dessen Grausamkeit und Selbstgerechtigkeit und verweist ihn für immer des Himmels.
+Gott befragt [Petrus](persona_peter.md) und den [Schneider](persona_tailor.md). Er rügt den Schneider wegen dessen Grausamkeit und Selbstgerechtigkeit und verweist ihn für immer des Himmels.
 
 ## Stage
 

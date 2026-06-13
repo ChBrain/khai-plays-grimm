@@ -21,15 +21,15 @@ stamp:
 
 ## Cue
 
-Das Patenkind des Todes ist zu einem jungen Mann herangewachsen.
+Das [Patenkind](persona_godson.md) des Todes ist zu einem jungen Mann herangewachsen.
 
 ## Action
 
-Der Tod führt ihn in den Wald, schenkt ihm das Heilkraut und weiht ihn in die Regeln der Krankendiagnose ein.
+Der [Tod](persona_death.md) führt ihn in den Wald, schenkt ihm das Heilkraut und weiht ihn in die Regeln der Krankendiagnose ein.
 
 ## Stage
 
-Der dunkle Wald und der Beginn der Karriere des Arztes.
+Der dunkle Wald und der Beginn der Karriere des [Arztes](position_physician.md).
 
 ## Tension
 

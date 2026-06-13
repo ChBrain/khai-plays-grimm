@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Spiegel verrät der Königin, dass Schneewittchen noch lebt.
+Der [Spiegel](piece_mirror.md) verrät der [Königin](persona_evil_queen.md), dass [Schneewittchen](persona_snow_white.md) noch lebt.
 
 ## Action
 
-Die Königin verkleidet sich als alte Krämerin und schnürt Schneewittchen die Brust so eng, dass sie umfällt. Später versucht sie es mit einem giftigen Kamm. Beide Male retten die Zwerge sie.
+Die Königin verkleidet sich als alte Krämerin und schnürt Schneewittchen die Brust so eng, dass sie umfällt. Später versucht sie es mit einem giftigen Kamm. Beide Male retten die [Zwerge](persona_dwarfs.md) sie.
 
 ## Stage
 

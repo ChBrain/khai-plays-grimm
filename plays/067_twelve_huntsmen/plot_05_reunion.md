@@ -25,7 +25,7 @@ Die Nachricht vom Eintreffen der fremden Königstochter erreicht die Jägergesel
 
 ## Action
 
-Die Verlobte sinkt ohnmächtig zu Boden; beim Aufheben entzieht der König ihr den Handschuh, erblickt den Ring und führt sie glücklich der Heirat zu.
+Die [Verlobte](persona_fiancee.md) sinkt ohnmächtig zu Boden; beim Aufheben entzieht der [König](persona_king.md) ihr den Handschuh, erblickt den [Ring](piece_ring.md) und führt sie glücklich der Heirat zu.
 
 ## Stage
 

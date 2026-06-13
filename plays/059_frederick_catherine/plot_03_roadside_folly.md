@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Frieder gerät in Zorn und beschließt, den Händlern sofort nachzujagen.
+[Frieder](persona_frederick.md) gerät in Zorn und beschließt, den [Händlern](persona_peddlers.md) sofort nachzujagen.
 
 ## Action
 
-Catherlieschen folgt Frieder. Aus Mitleid mit den ausgetrockneten Wagenspuren schmiert sie Butter auf den Weg. Als ihr ein Käse wegrollt, schickt sie alle anderen Käse hinterher, um ihn zurückzuholen.
+[Catherlieschen](persona_catherine.md) folgt Frieder. Aus Mitleid mit den ausgetrockneten Wagenspuren schmiert sie Butter auf den Weg. Als ihr ein Käse wegrollt, schickt sie alle anderen Käse hinterher, um ihn zurückzuholen.
 
 ## Stage
 

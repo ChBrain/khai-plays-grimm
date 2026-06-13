@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Um Mitternacht schlüpfen die Wichtelmänner erneut in die Werkstatt.
+Um Mitternacht schlüpfen die [Wichtelmänner](persona_elves.md) erneut in die [Werkstatt](place_workshop.md).
 
 ## Action
 
-Sie finden die Kleider vor, ziehen sie hocherfreut an, singen und tanzen fröhlich aus dem Haus und kehren nie wieder, doch das Glück des Schusters bleibt bestehen.
+Sie finden die [Kleider](piece_elf_clothes.md) vor, ziehen sie hocherfreut an, singen und tanzen fröhlich aus dem Haus und kehren nie wieder, doch das Glück des Schusters bleibt bestehen.
 
 ## Stage
 

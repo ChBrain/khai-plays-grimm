@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Eine Frau sitzt im Winter unter dem Machandelbaum und schält einen Apfel, wobei sie sich in den Finger schneidet.
+Eine Frau sitzt im Winter unter dem [Machandelbaum](place_juniper_tree.md) und schält einen [Apfel](piece_apples.md), wobei sie sich in den Finger schneidet.
 
 ## Action
 

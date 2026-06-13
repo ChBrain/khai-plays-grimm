@@ -21,15 +21,15 @@ stamp:
 
 ## Cue
 
-Der jüngste Sohn bricht auf, während seine älteren Brüder im Wirtshaus feiern.
+Der jüngste Sohn bricht auf, während seine älteren [Brüder](persona_brothers.md) im Wirtshaus feiern.
 
 ## Action
 
-Er trifft einen hungrigen Fuchs. Er verschont ihn und füttert ihn. Dankbar gibt der Fuchs ihm Rat und lässt ihn auf seinem Schwanz durch den Wald reiten.
+Er trifft einen hungrigen [Fuchs](persona_fox.md). Er verschont ihn und füttert ihn. Dankbar gibt der Fuchs ihm Rat und lässt ihn auf seinem Schwanz durch den Wald reiten.
 
 ## Stage
 
-Der einsame, verschlungene Waldweg.
+Der einsame, verschlungene [Waldweg](place_forest_path.md).
 
 ## Tension
 

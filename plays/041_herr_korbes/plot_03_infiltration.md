@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Die Gefährten erreichen das einsame Haus des Herr Korbes.
+Die Gefährten erreichen das einsame [Haus des Herr Korbes](place_korbes_house.md).
 
 ## Action
 

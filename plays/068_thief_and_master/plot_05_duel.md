@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Meister nimmt die Verfolgung des entflohenen Fisches auf.
+Der [Meister](persona_master.md) nimmt die Verfolgung des entflohenen Fisches auf.
 
 ## Action
 
-Beide jagen sich in rascher Folge als Vögel und Hähne; der Sohn nimmt schließlich die Gestalt eines Fuchses an und beißt dem Meister den Kopf ab.
+Beide jagen sich in rascher Folge als Vögel und Hähne; der [Sohn](persona_apprentice.md) nimmt schließlich die Gestalt eines Fuchses an und beißt dem Meister den Kopf ab.
 
 ## Stage
 

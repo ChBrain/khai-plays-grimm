@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Tod ergreift den zitternden Arzt nach dem vollbrachten Betrug.
+Der [Tod](persona_death.md) ergreift den zitternden Arzt nach dem vollbrachten Betrug.
 
 ## Action
 
-Er führt ihn in die Höhle des Todes, zeigt ihm seine erlöschende Kerze und lässt sie kaltblütig zu Boden fallen.
+Er führt ihn in die [Höhle](place_cave.md) des Todes, zeigt ihm seine erlöschende Kerze und lässt sie kaltblütig zu Boden fallen.
 
 ## Stage
 
@@ -33,4 +33,4 @@ Die unterirdische, flackernde Lebenslicht-Höhle.
 
 ## Tension
 
-Das endgültige Urteil und die Auslöschung des Hochmütigen vor den Augen des Schicksalsrichters.
+Das endgültige Urteil und die Auslöschung des Hochmütigen vor den Augen des [Schicksalsrichters](position_arbiter.md).

@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Dummling bricht am Morgen auf und trägt die Gans unter dem Arm, ohne sich um die drei anhängenden Wirtstöchter zu kümmern.
+[Dummling](persona_simpleton.md) bricht am Morgen auf und trägt die [Gans](piece_goose.md) unter dem Arm, ohne sich um die drei anhängenden Wirtstöchter zu kümmern.
 
 ## Action
 
-Ein Pfarrer, ein Küster und zwei Bauern versuchen den Zug aufzuhalten oder zu trennen und bleiben ebenfalls hängen.
+Ein Pfarrer, ein Küster und zwei Bauern - [die Festgeklebten](persona_stuck_crowd.md) - versuchen den Zug aufzuhalten oder zu trennen und bleiben ebenfalls hängen.
 
 ## Stage
 

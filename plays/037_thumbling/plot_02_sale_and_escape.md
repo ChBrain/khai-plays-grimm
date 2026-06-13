@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die Fremden bieten dem Vater Geld für den winzigen Jungen.
+Die [Fremden](persona_strangers.md) bieten dem Vater [Geld](piece_money.md) für den winzigen Jungen.
 
 ## Action
 
-Auf Daumesdicks Bitten willigt der Vater ein; bei der Rast der Fremden hüpft Daumesdick jedoch vom Hut und flieht in ein Mauseloch.
+Auf [Daumesdicks](persona_thumbling.md) Bitten willigt der Vater ein; bei der Rast der Fremden hüpft Daumesdick jedoch vom Hut und flieht in ein Mauseloch.
 
 ## Stage
 

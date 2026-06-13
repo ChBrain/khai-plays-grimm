@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Die Mutter erklärt, er hätte den Speck auf dem Kopf tragen sollen.
+Die [Mutter](persona_mother.md) erklärt, er hätte den [Speck](piece_bacon.md) auf dem Kopf tragen sollen.
 
 ## Action
 

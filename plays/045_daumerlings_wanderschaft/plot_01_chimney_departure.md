@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Däumling beschließt, in die Welt hinauszuziehen, und erhält das Nadelschwert.
+[Däumling](persona_thumbling.md) beschließt, in die Welt hinauszuziehen, und erhält das [Nadelschwert](piece_needle_sword.md).
 
 ## Action
 
@@ -29,7 +29,7 @@ Als er am Herd steht, ergreift ihn der Dampf eines Topfes, trägt ihn durch den 
 
 ## Stage
 
-Die Küche des Elternhauses und der Schornstein auf dem Dach.
+Die [Küche](place_workshop.md) des [Elternhauses](place_home.md) und der Schornstein auf dem Dach.
 
 ## Tension
 

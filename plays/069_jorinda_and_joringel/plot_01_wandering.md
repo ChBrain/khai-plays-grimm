@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Jorinde und Joringel spazieren tief im schattigen Wald.
+[Jorinde](persona_jorinde.md) und [Joringel](persona_joringel.md) spazieren tief im schattigen [Wald](place_forest.md).
 
 ## Action
 
-Sie geraten in Schwermut, verlieren die Orientierung und kommen unwissentlich dem Hexenschloss nahe.
+Sie geraten in Schwermut, verlieren die Orientierung und kommen unwissentlich dem [Hexenschloss](place_castle.md) nahe.
 
 ## Stage
 

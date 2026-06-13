@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die Reise der drei Brüder durch den Wald führt sie an Ameisen, Enten und Bienen vorbei.
+Die Reise der drei [Brüder](persona_brothers.md) durch den [Wald](place_forest.md) führt sie an Ameisen, Enten und Bienen vorbei.
 
 ## Action
 
-Die älteren Brüder wollen die Tiere quälen oder töten, doch Dummling stellt sich ihnen mutig entgegen.
+Die älteren Brüder wollen die [Tiere](persona_animals.md) quälen oder töten, doch [Dummling](persona_simpleton.md) stellt sich ihnen mutig entgegen.
 
 ## Stage
 

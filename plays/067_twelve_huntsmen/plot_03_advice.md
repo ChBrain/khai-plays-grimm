@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der König stellt die zwölf Jäger ein, da sie ihm gut gefallen.
+Der [König](persona_king.md) stellt die zwölf Jäger ein, da sie ihm gut gefallen.
 
 ## Action
 
-Der weise, sprechende Löwe des Schlosses verrät dem König, dass die Jäger Frauen sind, und schlägt zur Prüfung Erbsen und Spinnräder vor.
+Der weise, sprechende [Löwe](persona_lion.md) des Schlosses verrät dem König, dass die Jäger Frauen sind, und schlägt zur Prüfung [Erbsen](piece_peas.md) und [Spinnräder](piece_wheels.md) vor.
 
 ## Stage
 

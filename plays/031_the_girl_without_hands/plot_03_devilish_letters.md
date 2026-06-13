@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der König zieht in den Krieg, und die Königin gebiert ein schönes Kind.
+Der [König](persona_king.md) zieht in den Krieg, und die Königin gebiert ein schönes [Kind](piece_child.md).
 
 ## Action
 
-Der Bote schläft ein; der Teufel vertauscht die Briefe, so dass die Mutter des Königs den Tötungs- und Vertreibungsbefehl erhält.
+Der Bote schläft ein; der [Teufel](persona_devil.md) vertauscht die [Briefe](piece_letters.md), so dass die Mutter des Königs den Tötungs- und Vertreibungsbefehl erhält.
 
 ## Stage
 

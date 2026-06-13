@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der König ruft die zweite Erbfolgeprobe aus: Wer ihm den schönsten Ring bringt, soll das Reich erhalten.
+Der [König](persona_king.md) ruft die zweite Erbfolgeprobe aus: Wer ihm den schönsten [Ring](piece_ring.md) bringt, soll das Reich erhalten.
 
 ## Action
 
-Die Brüder reiten aus und holen alte Wagenringe von Bauernkarren. Dummling steigt in die Unterwelt und erhält von der Kröte einen unübertrefflich schönen Goldring mit Edelsteinen.
+Die [Brüder](persona_brothers.md) reiten aus und holen alte Wagenringe von Bauernkarren. [Dummling](persona_simpleton.md) steigt in die [Unterwelt](place_underworld.md) und erhält von der [Kröte](persona_toad.md) einen unübertrefflich schönen Goldring mit Edelsteinen.
 
 ## Stage
 

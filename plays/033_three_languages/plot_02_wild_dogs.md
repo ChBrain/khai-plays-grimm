@@ -25,7 +25,7 @@ Der Sohn wandert umher und bittet auf einer Festung um Herberge.
 
 ## Action
 
-Der Burgherr verweist ihn auf einen verfallenen Turm voller toller Hunde. Der Sohn geht hinein, spricht die Hunde in ihrer Sprache an, füttert sie und verbringt eine friedliche Nacht.
+Der Burgherr verweist ihn auf einen verfallenen [Turm](place_tower.md) voller toller [Hunde](persona_dogs.md). Der [Sohn](persona_son.md) geht hinein, spricht die Hunde in ihrer Sprache an, füttert sie und verbringt eine friedliche Nacht.
 
 ## Stage
 

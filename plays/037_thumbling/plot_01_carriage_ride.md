@@ -25,7 +25,7 @@ Der Vater muss Holz aus dem Wald holen, kann aber den Karren nicht fahren.
 
 ## Action
 
-Daumesdick setzt sich in das Pferdeohr des Zugtieres, ruft Richtungsanweisungen und lenkt den Wagen sicher in den Wald, was zwei Fremde bestaunen.
+[Daumesdick](persona_thumbling.md) setzt sich in das [Pferdeohr](piece_horse_ear.md) des Zugtieres, ruft Richtungsanweisungen und lenkt den Wagen sicher in den [Wald](place_forest.md), was zwei [Fremde](persona_strangers.md) bestaunen.
 
 ## Stage
 

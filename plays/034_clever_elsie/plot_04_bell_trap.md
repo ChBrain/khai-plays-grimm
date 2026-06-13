@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Hans beschließt, Else für ihre Faulheit auf ungewöhnliche Weise zu strafen.
+[Hans](persona_hans.md) beschließt, [Else](persona_elsie.md) für ihre Faulheit auf ungewöhnliche Weise zu strafen.
 
 ## Action
 
-Er stülpt der schlafenden Else das Vogelstellernetz mit Schellen über, geht heim und verschließt die Haustür.
+Er stülpt der schlafenden Else das [Vogelstellernetz mit Schellen](piece_net_bells.md) über, geht heim und verschließt die Haustür.
 
 ## Stage
 

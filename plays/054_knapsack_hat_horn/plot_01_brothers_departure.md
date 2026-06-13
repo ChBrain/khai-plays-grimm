@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Drei Brüder ziehen aus der Armut in die weite Welt, um ihr Glück zu suchen.
+Drei [Brüder](persona_brother.md) ziehen aus der Armut in die weite Welt, um ihr Glück zu suchen.
 
 ## Action
 

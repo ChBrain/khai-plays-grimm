@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Das Gerücht über den Tod des alten Fuchses verbreitet sich auf der Heide.
+Das Gerücht über den Tod des alten Fuchses verbreitet sich auf der [Heide](place_heath.md).
 
 ## Action
 
-Freier mit einem bis acht Schwänzen klopfen an, doch Frau Füchsin weist sie durch die Katze ab, da sie ihrem alten Gatten nicht gleichen.
+[Freier](persona_suitors.md) mit einem bis acht [Schwänzen](piece_tails.md) klopfen an, doch [Frau Füchsin](persona_mrs_fox.md) weist sie durch die [Katze](persona_cat.md) ab, da sie ihrem alten Gatten nicht gleichen.
 
 ## Stage
 

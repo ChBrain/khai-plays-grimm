@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Sperling schwört dem Mörder seines Freundes bittere Vergeltung.
+Der [Sperling](persona_sparrow.md) schwört dem Mörder seines Freundes bittere Vergeltung.
 
 ## Action
 
-Der Sperling peckt die Spunde aus den Weinfässern des Wagens, sodass der Wein ausläuft. Als der Fuhrmann zornig zuschlägt, erschlägt er im blinden Eifer seine eigenen Pferde, die der Sperling zuvor geblendet hat.
+Der Sperling peckt die Spunde aus den [Weinfässern](piece_wine_cask.md) des [Wagens](piece_wagon.md), sodass der Wein ausläuft. Als der [Fuhrmann](persona_wagoner.md) zornig zuschlägt, erschlägt er im blinden Eifer seine eigenen Pferde, die der Sperling zuvor geblendet hat.
 
 ## Stage
 

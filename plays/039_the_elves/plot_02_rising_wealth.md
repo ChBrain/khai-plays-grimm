@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Schuster stellt die Wunderware zum Verkauf aus.
+Der [Schuster](persona_shoemaker.md) stellt die Wunderware zum Verkauf aus.
 
 ## Action
 
-Ein Käufer zahlt wegen der makellosen Qualität reichlich Geld, worauf der Schuster mehr Leder kauft und das Wunder sich jede Nacht wiederholt.
+Ein [Käufer](persona_buyers.md) zahlt wegen der makellosen Qualität reichlich Geld, worauf der Schuster mehr [Leder](piece_leather.md) kauft und das Wunder sich jede Nacht wiederholt.
 
 ## Stage
 

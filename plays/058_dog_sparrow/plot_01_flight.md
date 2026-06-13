@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Ein treuer Hund leidet großen hunger unter seinem geizigen und grausamen Herrn.
+Ein treuer [Hund](persona_dog.md) leidet großen hunger unter seinem geizigen und grausamen Herrn.
 
 ## Action
 
-Er verlässt heimlich den Hof und flieht auf die Straße. Unterwegs trifft er auf einen Sperling, der das traurige Schicksal des Hundes beklagt und ihm Freundschaft anbietet.
+Er verlässt heimlich den Hof und flieht auf die [Straße](place_highway.md). Unterwegs trifft er auf einen [Sperling](persona_sparrow.md), der das traurige Schicksal des Hundes beklagt und ihm Freundschaft anbietet.
 
 ## Stage
 

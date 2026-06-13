@@ -25,7 +25,7 @@ Die Tochter verlangt zur Verzögerung der Ehe scheinbar unmöglich anzufertigend
 
 ## Action
 
-Sie fordert drei Kleider, so sonnenklar, mondsilbern und sternenglänzend wie die Himmelskörper, sowie einen Mantel aus Pelzen aller Tiere; der König lässt alles anfertigen.
+Sie fordert drei Kleider, so [sonnenklar](piece_sun_dress.md), [mondsilbern](piece_moon_dress.md) und [sternenglänzend](piece_star_dress.md) wie die Himmelskörper, sowie einen [Mantel aus Pelzen aller Tiere](piece_fur_mantle.md); der [König](persona_father.md) lässt alles anfertigen.
 
 ## Stage
 

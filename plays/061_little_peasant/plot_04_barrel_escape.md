@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Das Bürle liegt gefangen im Fass am Flussufer, während die Bauern in der Schenke trinken.
+Das [Bürle](persona_peasant.md) liegt gefangen im [Fass](piece_barrel.md) am [Flussufer](place_river.md), während die Bauern in der Schenke trinken.
 
 ## Action
 
-Ein Schäfer kommt mit seiner Herde vorbei. Das Bürle ruft aus dem Fass, er wolle nicht Richter werden. Der Schäfer, der gerne Richter wäre, lässt sich zum Tausch überreden. Das Bürle entkommt und treibt die Herde fort.
+Ein [Schäfer](persona_shepherd.md) kommt mit seiner Herde vorbei. Das Bürle ruft aus dem Fass, er wolle nicht Richter werden. Der Schäfer, der gerne Richter wäre, lässt sich zum Tausch überreden. Das Bürle entkommt und treibt die Herde fort.
 
 ## Stage
 

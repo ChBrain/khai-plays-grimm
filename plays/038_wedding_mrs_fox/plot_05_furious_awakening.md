@@ -25,7 +25,7 @@ Die Hochzeitsgesellschaft versammelt sich und das Fest soll beginnen.
 
 ## Action
 
-Herr Fuchs erwacht jäh aus seinem Scheintod, ergreift einen Knüppel, verprügelt den jungen Freier und jagt Frau Füchsin samt Gästen aus dem Haus.
+[Herr Fuchs](persona_mr_fox.md) erwacht jäh aus seinem Scheintod, ergreift einen Knüppel, verprügelt den jungen [Freier](persona_suitors.md) und jagt [Frau Füchsin](persona_mrs_fox.md) samt Gästen aus dem Haus.
 
 ## Stage
 

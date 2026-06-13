@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Das Mädchen wandert handlos in die Welt hinaus und hungert.
+Das [Mädchen](persona_girl.md) wandert handlos in die Welt hinaus und hungert.
 
 ## Action
 
-Ein Engel führt sie in den Garten des Königs, wo sie eine Birne isst. Der König findet sie, vermählt sich mit ihr und schenkt ihr silberne Hände.
+Ein [Engel](persona_angel.md) führt sie in den [Garten des Königs](place_garden.md), wo sie eine [Birne](piece_pear.md) isst. Der [König](persona_king.md) findet sie, vermählt sich mit ihr und schenkt ihr [silberne Hände](piece_silver_hands.md).
 
 ## Stage
 

@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der König erkrankt schwer und ruft den berühmten Arzt zu Hilfe.
+Der [König](persona_patient.md) erkrankt schwer und ruft den berühmten [Arzt](position_physician.md) zu Hilfe.
 
 ## Action
 
-Der Arzt sieht den Tod am Fußende stehen, wendet das Bett schnell um und heilt den König entgegen der Warnung seines Paten.
+Der Arzt sieht den [Tod](persona_death.md) am Fußende stehen, wendet das Bett schnell um und heilt den König entgegen der Warnung seines Paten.
 
 ## Stage
 

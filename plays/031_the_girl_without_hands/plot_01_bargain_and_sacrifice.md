@@ -21,15 +21,15 @@ stamp:
 
 ## Cue
 
-Der Müller gerät in Armut und lässt sich auf den Teufel ein.
+Der [Müller](persona_miller.md) gerät in Armut und lässt sich auf den [Teufel](persona_devil.md) ein.
 
 ## Action
 
-Der Teufel fordert das reine Mädchen; da er sie nicht berühren kann, zwingt er den Vater, ihre Hände abzuhauen.
+Der Teufel fordert das reine [Mädchen](persona_girl.md); da er sie nicht berühren kann, zwingt er den Vater, ihre Hände abzuhauen.
 
 ## Stage
 
-Die Mühle im düsteren Waldwinkel.
+Die [Mühle](place_mill.md) im düsteren Waldwinkel.
 
 ## Tension
 

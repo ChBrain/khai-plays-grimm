@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Frau Trude gibt zu, dass das Mädchen den Teufel in seiner wahren Gestalt gesehen hat.
+[Frau Trude](persona_witch.md) gibt zu, dass das [Mädchen](persona_girl.md) den Teufel in seiner wahren Gestalt gesehen hat.
 
 ## Action
 
-Sie verwandelt das Kind in einen Holzklotz, wirft ihn ins Feuer und freut sich über das helle Brennen.
+Sie verwandelt das Kind in einen [Holzklotz](piece_block_wood.md), wirft ihn ins [Feuer](piece_fire.md) und freut sich über das helle Brennen.
 
 ## Stage
 

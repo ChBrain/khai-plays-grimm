@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die drei Knechte rennen den geflohenen Kindern hinterher.
+Die drei [Knechte](persona_servants.md) rennen den geflohenen Kindern hinterher.
 
 ## Action
 
-Lenchen sieht sie kommen. Sie verwandelt Fundevogel in einen Rosenstock und sich selbst in eine Rose. Die Knechte finden nichts und kehren um.
+Lenchen sieht sie kommen. Sie [verwandelt](process_metamorphosis.md) Fundevogel in einen Rosenstock und sich selbst in eine Rose. Die Knechte finden nichts und kehren um.
 
 ## Stage
 

@@ -25,7 +25,7 @@ Der Fremde willigt ein, Pate zu werden.
 
 ## Action
 
-Der Gevatter schenkt dem Vater ein Gläschen Wunderwasser und erklärt ihm, wie er damit Kranke heilen kann.
+Der [Gevatter](persona_godfather.md) schenkt dem Vater ein Gläschen [Wunderwasser](piece_magical_water.md) und erklärt ihm, wie er damit [Kranke](persona_patient.md) heilen kann.
 
 ## Stage
 

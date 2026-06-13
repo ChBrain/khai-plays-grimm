@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Nach der Hochzeit schickt Hans Else zur Ernte auf das Kornfeld.
+Nach der Hochzeit schickt [Hans](persona_hans.md) [Else](persona_elsie.md) zur Ernte auf das [Kornfeld](place_field.md).
 
 ## Action
 
-Else isst zuerst ihren süßen Brei, hackt ein paar Halme ab und schläft tief im hohen Korn ein. Hans findet sie schlafend vor.
+Else isst zuerst ihren süßen [Brei](piece_porridge.md), hackt ein paar Halme ab und schläft tief im hohen Korn ein. Hans findet sie schlafend vor.
 
 ## Stage
 

@@ -21,15 +21,15 @@ stamp:
 
 ## Cue
 
-Die Hexe plant, ihrer Stieftochter nachts den Kopf abzuschlagen.
+Die [Hexe](persona_witch.md) plant, ihrer Stieftochter nachts den Kopf abzuschlagen.
 
 ## Action
 
-Das Mädchen belauscht sie. Als die Hexe schläft, tauscht sie heimlich die Plätze mit der leiblichen Hexentochter. Die Hexe kommt im Dunkeln und tötet ihr eigenes Kind.
+Das [Mädchen](persona_girl.md) belauscht sie. Als die Hexe schläft, tauscht sie heimlich die Plätze mit der leiblichen [Hexentochter](persona_witch_daughter.md). Die Hexe kommt im Dunkeln und tötet ihr eigenes Kind.
 
 ## Stage
 
-Die finstere, kalte Kammer im Hexenhaus.
+Die finstere, kalte Kammer im [Hexenhaus](place_witch_house.md).
 
 ## Tension
 

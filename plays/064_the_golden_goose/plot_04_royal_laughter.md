@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Dummling zieht mit seiner Kette der sieben Festgeklebten in die Königsstadt ein.
+[Dummling](persona_simpleton.md) zieht mit seiner Kette der sieben [Festgeklebten](persona_stuck_crowd.md) in die Königsstadt ein.
 
 ## Action
 
-Die traurige Prinzessin erblickt den komischen Zug vom Fenster aus und bricht in unbändiges Lachen aus, was ihren Bann löst.
+Die traurige [Prinzessin](persona_princess.md) erblickt den komischen Zug vom Fenster aus und bricht in unbändiges Lachen aus, was ihren Bann löst.
 
 ## Stage
 

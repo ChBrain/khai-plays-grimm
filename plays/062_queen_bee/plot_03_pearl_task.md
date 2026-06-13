@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die erste Aufgabe verlangt das Sammeln der tausend verstreuten Perlen im Moos.
+Die erste Aufgabe verlangt das Sammeln der tausend verstreuten [Perlen](piece_pearls.md) im Moos.
 
 ## Action
 
-Nach dem Scheitern der Brüder rufen die Ameisen ihr Volk zusammen und sammeln alle Perlen für Dummling.
+Nach dem Scheitern der [Brüder](persona_brothers.md) rufen die Ameisen ihr Volk zusammen und sammeln alle Perlen für [Dummling](persona_simpleton.md).
 
 ## Stage
 

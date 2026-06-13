@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der jüngste Sohn beendet seine Drechslerlehre, bekommt den Knüppel im Sack und erfährt durch Briefe der Brüder vom Diebstahl.
+Der jüngste Sohn beendet seine Drechslerlehre, bekommt den [Knüppel](piece_cudgel.md) im Sack und erfährt durch Briefe der Brüder vom Diebstahl.
 
 ## Action
 
-Er reist zum Wirtshaus, deutet die Magie seines Sackes an, um den Wirt anzulocken, und bereitet sich darauf vor, ihn zu überführen.
+Er reist zum [Wirtshaus](place_inn.md), deutet die Magie seines Sackes an, um den [Wirt](persona_innkeeper.md) anzulocken, und bereitet sich darauf vor, ihn zu überführen.
 
 ## Stage
 

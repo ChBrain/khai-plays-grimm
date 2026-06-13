@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Zauberer kehrt mit seinen Kumpanen zum Feiern in sein Haus zurück.
+Der [Zauberer](persona_sorcerer.md) kehrt mit seinen Kumpanen zum Feiern in sein [Haus](place_sorcerer_house.md) zurück.
 
 ## Action
 
-Die Brüder und Verwandten der Schwestern stürmen das Haus, verriegeln alle Türen und brennen es vollständig nieder.
+Die Brüder und [Verwandten](persona_kin.md) der Schwestern stürmen das Haus, verriegeln alle Türen und brennen es vollständig nieder.
 
 ## Stage
 

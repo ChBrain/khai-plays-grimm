@@ -25,7 +25,7 @@ Die schöne Königin stirbt und lässt den König schwören, keine neue Frau zu 
 
 ## Action
 
-Nach langer Trauer fordert der König seine eigene heranwachsende Tochter zur Ehe, da sie als einzige das Gelübde erfüllt.
+Nach langer Trauer fordert der [König](persona_father.md) seine eigene heranwachsende Tochter zur Ehe, da sie als einzige das Gelübde erfüllt.
 
 ## Stage
 

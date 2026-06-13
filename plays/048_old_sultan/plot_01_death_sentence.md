@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Bauer sagt zu seiner Frau, dass er den zahnlosen Hund Sultan am nächsten Tag erschießen will.
+Der Bauer sagt zu seiner Frau, dass er den zahnlosen Hund [Sultan](persona_sultan.md) am nächsten Tag erschießen will.
 
 ## Action
 
-Sultan hört die Nachricht traurig, geht in den Wald und klagt dem befreundeten Wolf sein Leid, der ihm einen Plan vorschlägt.
+Sultan hört die Nachricht traurig, geht in den [Wald](place_forest.md) und klagt dem befreundeten [Wolf](persona_wolf.md) sein Leid, der ihm einen Plan vorschlägt.
 
 ## Stage
 

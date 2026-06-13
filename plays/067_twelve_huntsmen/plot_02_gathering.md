@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die verlassene Braut erfährt, dass der König eine andere heiraten will, und bittet ihren Vater um Beistand.
+Die verlassene Braut erfährt, dass der [König](persona_king.md) eine andere heiraten will, und bittet ihren Vater um Beistand.
 
 ## Action
 
-Der Vater sucht elf Jungfrauen, die seiner Tochter in Wuchs und Aussehen gleichen; alle kleiden sich in Jägeruniformen und reisen zum König.
+Der Vater sucht elf Jungfrauen, die seiner Tochter in Wuchs und Aussehen gleichen; alle kleiden sich in [Jägeruniformen](piece_uniform.md) und reisen zum König.
 
 ## Stage
 

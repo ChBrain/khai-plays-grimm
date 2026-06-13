@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die Stiefmutter sieht den Stiefsohn und wird von Neid ergriffen, als er sie um einen Apfel bittet.
+Die [Stiefmutter](persona_stepmother.md) sieht den Stiefsohn und wird von Neid ergriffen, als er sie um einen [Apfel](piece_apples.md) bittet.
 
 ## Action
 
-Sie lockt ihn zur Truhe, schlägt den schweren Deckel zu, bindet dem Toten den Kopf wieder um und kocht ihn später als Sauerfleisch.
+Sie lockt ihn zur Truhe, schlägt den schweren Deckel zu, bindet dem Toten den Kopf wieder um und kocht ihn später als [Sauerfleisch](piece_stew.md).
 
 ## Stage
 

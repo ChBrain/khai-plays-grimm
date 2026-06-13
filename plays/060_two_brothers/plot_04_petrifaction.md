@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der getötete Zwilling wird von seinen Tieren mit Lebenswasser geheilt.
+Der getötete [Zwilling](persona_twins.md) wird von seinen Tieren mit [Lebenswasser](piece_life_water.md) geheilt.
 
 ## Action
 
-Er reist weiter und jagt im Zauberwald. Dort begegnet er einer Hexe, die im Geäst sitzt. Sie verängstigt seine wilden Begleiter mit einer Zauberrute und verwandelt den Jäger samt Gefolge in kalten Stein.
+Er reist weiter und jagt im [Zauberwald](place_forest.md). Dort begegnet er einer [Hexe](persona_witch.md), die im Geäst sitzt. Sie verängstigt seine wilden Begleiter mit einer Zauberrute und verwandelt den Jäger samt Gefolge in kalten Stein.
 
 ## Stage
 

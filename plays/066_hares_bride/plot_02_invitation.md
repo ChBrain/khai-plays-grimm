@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Das Mädchen nähert sich dem Hasen, um ihn zu vertreiben.
+Das [Mädchen](persona_girl.md) nähert sich dem Hasen, um ihn zu vertreiben.
 
 ## Action
 
-Das Häsichen fordert sie an drei Tagen auf, sich auf sein Schwänzchen zu setzen; am dritten Tag willigt sie schließlich ein.
+Das [Häsichen](persona_hare.md) fordert sie an drei Tagen auf, sich auf sein [Schwänzchen](piece_tail.md) zu setzen; am dritten Tag willigt sie schließlich ein.
 
 ## Stage
 

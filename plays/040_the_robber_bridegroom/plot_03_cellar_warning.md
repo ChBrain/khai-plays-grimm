@@ -25,7 +25,7 @@ Das Mädchen erreicht das einsame Waldhaus und findet niemanden vor außer einem
 
 ## Action
 
-Sie steigt hinab in den Keller, trifft die alte Frau und erfährt die grausame Wahrheit über das Menschenfresserhaus.
+Sie steigt hinab in den [Keller](place_cellar.md), trifft die [alte Frau](persona_old_woman.md) und erfährt die grausame Wahrheit über das Menschenfresserhaus.
 
 ## Stage
 

@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die Brüder führen plumpe Bauernmägde herbei und verlangen, dass die Bräute zur Entscheidung durch einen im Saal hängenden Reifen springen.
+Die [Brüder](persona_brothers.md) führen plumpe Bauernmägde herbei und verlangen, dass die Bräute zur Entscheidung durch einen im Saal hängenden Reifen springen.
 
 ## Action
 
-Die derben Bauernmägde stürzen schwerfällig und brechen sich Arme und Beine. Die feine Prinzessin des Dummlings springt leicht wie ein Reh hindurch. Der Dummling erhält endgültig die Krone.
+Die derben Bauernmägde stürzen schwerfällig und brechen sich Arme und Beine. Die feine Prinzessin des [Dummlings](persona_simpleton.md) springt leicht wie ein Reh hindurch. Der Dummling erhält endgültig die Krone.
 
 ## Stage
 

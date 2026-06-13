@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die drei Brüder treffen sich wieder und kehren gemeinsam mit allen Wundergaben zum Vater zurück.
+Die drei Brüder treffen sich wieder und kehren gemeinsam mit allen Wundergaben zum [Vater](persona_father.md) zurück.
 
 ## Action
 
-Sie demonstrieren die Magie von Tisch und Esel, feiern Versöhnung, während der Vater die Wahrheit über die Ziege erkennt, ihr den Kopf schert und sie vertreibt.
+Sie demonstrieren die Magie von Tisch und Esel, feiern Versöhnung, während der Vater die Wahrheit über die [Ziege](persona_goat.md) erkennt, ihr den Kopf schert und sie vertreibt.
 
 ## Stage
 

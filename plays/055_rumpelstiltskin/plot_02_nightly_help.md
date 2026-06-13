@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Das eingesperrte Mädchen weint verzweifelt vor dem Strohhaufen.
+Das eingesperrte [Mädchen](persona_millers_daughter.md) weint verzweifelt vor dem Strohhaufen.
 
 ## Action
 
-Ein kleines Männchen schlüpft durch die Tür. Gegen die Übergabe ihres Halsbandes spinnt er das Stroh zu Gold. In der zweiten Nacht tut er dasselbe für ihren Ring.
+Ein kleines [Männchen](persona_rumpelstiltskin.md) schlüpft durch die Tür. Gegen die Übergabe ihres Halsbandes spinnt er das [Stroh](piece_straw.md) zu [Gold](piece_gold.md). In der zweiten Nacht tut er dasselbe für ihren Ring.
 
 ## Stage
 

@@ -25,7 +25,7 @@ Ein Bruder kommt in eine Stadt, die wegen eines siebenköpfigen Drachens in Trau
 
 ## Action
 
-Er steigt auf den Drachenberg, besiegt das Ungeheuer mit Hilfe seiner Tiere und schneidet die sieben Zungen heraus. Während er erschöpft schläft, schlägt der feige Marschall ihm den Kopf ab und zwingt die Prinzessin, ihn als Retter zu präsentieren.
+Er steigt auf den [Drachenberg](place_dragon_mountain.md), besiegt das Ungeheuer mit Hilfe seiner Tiere und schneidet die sieben [Zungen](piece_dragon_tongues.md) heraus. Während er erschöpft schläft, schlägt der feige [Marschall](position_usurper.md) ihm den Kopf ab und zwingt die [Prinzessin](persona_princess.md), ihn als [Retter](position_rescuer.md) zu präsentieren.
 
 ## Stage
 

@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Das Mädchen setzt sich auf das Schwänzchen des Hasen.
+Das [Mädchen](persona_girl.md) setzt sich auf das [Schwänzchen](piece_tail.md) des Hasen.
 
 ## Action
 
-Der Hase bringt sie weit weg in sein kleines Haus, befiehlt ihr Kohl und Hirse zu kochen und lädt die Hochzeitsgäste zur Feier ein.
+Der [Hase](persona_hare.md) bringt sie weit weg in sein [kleines Haus](place_hut.md), befiehlt ihr Kohl und Hirse zu kochen und lädt die [Hochzeitsgäste](persona_guests.md) zur Feier ein.
 
 ## Stage
 

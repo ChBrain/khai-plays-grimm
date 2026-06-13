@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Hase drängt ungeduldig auf das Erscheinen der Braut am Hochzeitstag.
+Der [Hase](persona_hare.md) drängt ungeduldig auf das Erscheinen der Braut am Hochzeitstag.
 
 ## Action
 
-Das Mädchen baut eine Strohpuppe mit Kochlöffel und ihren Kleidern am Herd auf und flieht; der Hase schlägt die stumme Puppe und erkennt den Betrug.
+Das [Mädchen](persona_girl.md) baut eine [Strohpuppe](piece_decoy.md) mit Kochlöffel und ihren Kleidern am Herd auf und flieht; der Hase schlägt die stumme Puppe und erkennt den Betrug.
 
 ## Stage
 

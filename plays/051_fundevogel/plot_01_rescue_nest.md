@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Ein Förster geht im Wald auf die Jagd und hört das Weinen eines kleinen Kindes.
+Ein [Förster](persona_forester.md) geht im [Wald](place_forest.md) auf die Jagd und hört das Weinen eines kleinen Kindes.
 
 ## Action
 

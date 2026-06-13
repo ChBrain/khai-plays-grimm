@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Jan sucht nach einem rentablen Handwerk für seinen heranwachsenden Sohn.
+[Jan](persona_father.md) sucht nach einem rentablen Handwerk für seinen heranwachsenden [Sohn](persona_apprentice.md).
 
 ## Action
 
-Er hört in der Kirche den Ruf des Küsters als Aufforderung zum Stehlen und bringt den Sohn daraufhin zum Meisterdieb im Wald.
+Er hört in der [Kirche](place_church.md) den Ruf des Küsters als Aufforderung zum Stehlen und bringt den Sohn daraufhin zum Meisterdieb im Wald.
 
 ## Stage
 

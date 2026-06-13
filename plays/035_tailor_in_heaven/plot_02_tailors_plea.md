@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Ein hinkender, armer Schneider bittet am Himmelstor um Einlass.
+Ein hinkender, armer [Schneider](persona_tailor.md) bittet am [Himmelstor](place_heaven_gate.md) um Einlass.
 
 ## Action
 
-Petrus lehnt ab, doch der Schneider fleht ihn an und verspricht, sich still in eine Ecke hinter das Tor zu setzen und niemanden zu stören, bis Petrus nachgibt.
+[Petrus](persona_peter.md) lehnt ab, doch der Schneider fleht ihn an und verspricht, sich still in eine Ecke hinter das Tor zu setzen und niemanden zu stören, bis Petrus nachgibt.
 
 ## Stage
 

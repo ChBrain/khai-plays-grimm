@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Das Weihnachtsfest naht und der Schuster hat durch die Wichtel Wohlstand erlangt.
+Das Weihnachtsfest naht und der [Schuster](persona_shoemaker.md) hat durch die Wichtel Wohlstand erlangt.
 
 ## Action
 
-Auf Vorschlag der Frau versteckt sich das Paar hinter Vorhängen und beobachtet um Mitternacht zwei nackte Wichtel bei der Arbeit.
+Auf Vorschlag der [Frau](persona_wife.md) versteckt sich das Paar hinter Vorhängen und beobachtet um Mitternacht zwei nackte [Wichtel](persona_elves.md) bei der Arbeit.
 
 ## Stage
 

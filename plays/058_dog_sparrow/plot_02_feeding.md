@@ -21,15 +21,15 @@ stamp:
 
 ## Cue
 
-Der Hund klagt über großen Hunger und Schwäche.
+Der [Hund](persona_dog.md) klagt über großen Hunger und Schwäche.
 
 ## Action
 
-Der Sperling fliegt in die Stadt und wirft nacheinander Brote vom Bäcker und Fleischstücke vom Metzger herab, bis der Hund satt ist und sich schlafen legt.
+Der [Sperling](persona_sparrow.md) fliegt in die Stadt und wirft nacheinander Brote vom Bäcker und Fleischstücke vom Metzger herab, bis der Hund satt ist und sich schlafen legt.
 
 ## Stage
 
-Der Vorplatz eines städtischen Gasthauses und Fleischerladens.
+Der Vorplatz eines städtischen [Gasthauses](place_inn.md) und Fleischerladens.
 
 ## Tension
 

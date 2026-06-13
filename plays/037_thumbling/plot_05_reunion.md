@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Daumesdick befindet sich im Bauch des Wolfes.
+[Daumesdick](persona_thumbling.md) befindet sich im Bauch des [Wolfes](piece_wolf.md).
 
 ## Action
 
-Er überredet den Wolf, in die Vorratskammer der Eltern einzudringen, macht dort großen Lärm und wird von den herbeieilenden Eltern aus dem getöteten Wolf befreit.
+Er überredet den Wolf, in die Vorratskammer der [Eltern](persona_parents.md) einzudringen, macht dort großen Lärm und wird von den herbeieilenden Eltern aus dem getöteten Wolf befreit.
 
 ## Stage
 

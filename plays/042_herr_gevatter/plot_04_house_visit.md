@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der reiche Arzt möchte seinen Gevatter besuchen, um ihm von seinen Erfahrungen zu berichten.
+Der reiche [Arzt](position_physician.md) möchte seinen Gevatter besuchen, um ihm von seinen Erfahrungen zu berichten.
 
 ## Action
 
-Er betritt das Gevatterhaus und sieht streitende Besen, tote Finger, Totenköpfe und bratende Fische auf den Treppen.
+Er betritt das [Gevatterhaus](place_godfather_house.md) und sieht streitende [Besen](piece_broom_shovel.md), tote Finger, Totenköpfe und bratende Fische auf den Treppen.
 
 ## Stage
 

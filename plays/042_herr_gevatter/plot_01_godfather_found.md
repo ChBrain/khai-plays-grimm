@@ -21,15 +21,15 @@ stamp:
 
 ## Cue
 
-Der arme Vater hat keine Paten mehr für sein jüngstes Kind und träumt von einem Ausweg.
+Der arme [Vater](persona_father.md) hat keine Paten mehr für sein jüngstes Kind und träumt von einem Ausweg.
 
 ## Action
 
-Er geht vor das Stadttor und bittet den allerersten Fremden, den er dort trifft, die Patenschaft zu übernehmen.
+Er geht vor das Stadttor und bittet den allerersten [Fremden](persona_godfather.md), den er dort trifft, die Patenschaft zu übernehmen.
 
 ## Stage
 
-Das Tor der Stadt und die angrenzende Landstraße.
+Das Tor der Stadt und die angrenzende [Landstraße](place_road.md).
 
 ## Tension
 
