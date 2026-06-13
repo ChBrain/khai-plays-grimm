@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Joringel erblickt die Zauberin, die die tausend Vögel füttert.
+[Joringel](persona_joringel.md) erblickt die [Zauberin](persona_witch.md), die die tausend Vögel füttert.
 
 ## Action
 
-Er berührt die Zauberin mit der Blume, wodurch sie wehrlos wird, findet Jorindes Käfig, berührt sie und erlöst alle gefangenen Jungfrauen.
+Er berührt die Zauberin mit der Blume, wodurch sie wehrlos wird, findet [Jorindes](persona_jorinde.md) [Käfig](piece_cage.md), berührt sie und erlöst alle gefangenen Jungfrauen.
 
 ## Stage
 

@@ -25,7 +25,7 @@ Frieder kehrt hungrig heim und erfährt von dem Mehl- und Bierdesaster.
 
 ## Action
 
-Frieder zeigt ihr die verborgenen Goldmünzen und nennt sie "Spielsteine", um sie vor ihr zu schützen. Catherlieschen findet das Gold trotzdem und schenkt es arglosen, vorbeiziehenden Händlern im Tausch gegen Plunder.
+[Frieder](persona_frederick.md) zeigt ihr die verborgenen [Goldmünzen](piece_gold_coins.md) und nennt sie "Spielsteine", um sie vor ihr zu schützen. [Catherlieschen](persona_catherine.md) findet das Gold trotzdem und schenkt es arglosen, vorbeiziehenden [Händlern](persona_peddlers.md) im Tausch gegen Plunder.
 
 ## Stage
 

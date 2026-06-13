@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die hundert Jahre sind verstrichen und ein neuer Prinz nähert sich dem Ort.
+Die hundert Jahre sind verstrichen und ein neuer [Prinz](persona_prince.md) nähert sich dem Ort.
 
 ## Action
 
-Die Dornenhecke verwandelt sich von selbst in große, schöne Blumen, die sich vor dem Prinzen teilen, um ihn einzulassen.
+Die [Dornenhecke](place_hedge.md) verwandelt sich von selbst in große, schöne Blumen, die sich vor dem Prinzen teilen, um ihn einzulassen.
 
 ## Stage
 

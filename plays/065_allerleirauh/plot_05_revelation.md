@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Der König feiert drei Hoffeste, zu denen Allerleirauh heimlich tanzen gehen darf, nachdem sie die Asche gereinigt hat.
+Der [König](persona_king.md) feiert drei Hoffeste, zu denen [Allerleirauh](persona_allerleirauh.md) heimlich tanzen gehen darf, nachdem sie die Asche gereinigt hat.
 
 ## Action
 

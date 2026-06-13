@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die jüngste Schwester wird entführt und erhält dieselben Anweisungen wie die anderen.
+Die [jüngste Schwester](persona_sisters.md) wird entführt und erhält dieselben Anweisungen wie die anderen.
 
 ## Action
 
-Sie legt das Ei sicher beiseite, betritt die Kammer, setzt ihre Schwestern zusammen und erweckt sie zum Leben.
+Sie legt das [Ei](piece_egg.md) sicher beiseite, betritt die [Kammer](place_chamber.md), setzt ihre Schwestern zusammen und erweckt sie zum Leben.
 
 ## Stage
 

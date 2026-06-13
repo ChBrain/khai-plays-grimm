@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Prinz findet Dornröschen schlafend im Turmzimmer.
+Der [Prinz](persona_prince.md) findet Dornröschen schlafend im Turmzimmer.
 
 ## Action
 
-Er gibt ihr einen Kuss. Sie schlägt die Augen auf, das Schloss erwacht synchron, und beide feiern eine prachtvolle Hochzeit.
+Er gibt ihr einen Kuss. Sie schlägt die Augen auf, das [Schloss](place_palace.md) erwacht synchron, und beide feiern eine prachtvolle Hochzeit.
 
 ## Stage
 

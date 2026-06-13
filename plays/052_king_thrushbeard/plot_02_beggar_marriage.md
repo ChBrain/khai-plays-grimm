@@ -25,7 +25,7 @@ Ein Spielmann singt unter dem Fenster um ein kleines Almosen.
 
 ## Action
 
-Der König lässt ihn herbeirufen, verheiratet seine Tochter auf der Stelle mit ihm und jagt sie gemeinsam aus dem Schloss.
+Der [König](persona_father_king.md) lässt ihn herbeirufen, verheiratet seine Tochter auf der Stelle mit ihm und jagt sie gemeinsam aus dem [Schloss](place_palace.md).
 
 ## Stage
 

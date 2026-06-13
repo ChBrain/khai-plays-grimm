@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Das Bürle besitzt keine Kuh und lässt sich ein Kalb aus Holz schnitzen.
+Das [Bürle](persona_peasant.md) besitzt keine Kuh und lässt sich ein Kalb aus Holz schnitzen.
 
 ## Action
 
-Er stellt das Holzkalb auf die Weide. Als der Kuhhirt es vergisst und es verschwindet, klagt das Bürle vor Gericht. Der Richter verurteilt den Hirten dazu, dem Bürle eine echte Kuh als Ersatz zu geben.
+Er stellt das [Holzkalb](piece_wooden_calf.md) auf die Weide. Als der [Kuhhirt](persona_shepherd.md) es vergisst und es verschwindet, klagt das Bürle vor Gericht. Der Richter verurteilt den Hirten dazu, dem Bürle eine echte Kuh als Ersatz zu geben.
 
 ## Stage
 

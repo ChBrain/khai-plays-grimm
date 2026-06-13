@@ -25,7 +25,7 @@ Nach dem Tod der Hexe reist Roland in seine Heimat, um die Hochzeit vorzubereite
 
 ## Action
 
-Das Mädchen wartet als rote Blume auf dem Feld auf ihn. Doch Roland vergisst sie unter den Einflüssen seiner Heimat und wendet sich einer anderen Braut zu.
+Das [Mädchen](persona_girl.md) wartet als rote Blume auf dem [Feld](place_field.md) auf ihn. Doch [Roland](persona_roland.md) vergisst sie unter den Einflüssen seiner Heimat und wendet sich einer anderen Braut zu.
 
 ## Stage
 

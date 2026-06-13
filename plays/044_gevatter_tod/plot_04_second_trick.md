@@ -21,15 +21,15 @@ stamp:
 
 ## Cue
 
-Die Tochter des Königs erkrankt todbringend, und dem Heiler wird ihre Hand versprochen.
+Die Tochter des Königs erkrankt todbringend, und dem [Heiler](position_physician.md) wird ihre Hand versprochen.
 
 ## Action
 
-Er wendet das Bett erneut, obwohl der Tod an ihren Füßen steht, um die Prinzessin aus Liebe zu retten.
+Er wendet das Bett erneut, obwohl der [Tod](persona_death.md) an ihren Füßen steht, um die Prinzessin aus Liebe zu retten.
 
 ## Stage
 
-Das abgedunkelte Krankenzimmer der Prinzessin.
+Das abgedunkelte [Krankenzimmer](place_sickroom.md) der Prinzessin.
 
 ## Tension
 

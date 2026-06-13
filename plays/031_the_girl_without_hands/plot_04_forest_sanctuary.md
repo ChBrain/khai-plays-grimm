@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die Königin wird verstoßen und flieht mit dem Kind in den tiefen Wald.
+Die Königin wird verstoßen und flieht mit dem [Kind](piece_child.md) in den tiefen Wald.
 
 ## Action
 
-Sie findet das freie Waldhaus, wird vom Engel versorgt und lebt dort in Demut, bis ihre Hände durch Gottes Gnade nachwachsen.
+Sie findet das freie [Waldhaus](place_forest_house.md), wird vom [Engel](persona_angel.md) versorgt und lebt dort in Demut, bis ihre Hände durch Gottes Gnade nachwachsen.
 
 ## Stage
 

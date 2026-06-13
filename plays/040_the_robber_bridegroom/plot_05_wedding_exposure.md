@@ -25,7 +25,7 @@ Die Hochzeitsgäste versammeln sich beim Hochzeitsmahl in der Mühle.
 
 ## Action
 
-Auf Aufforderung erzählt die Braut ihre Reise als Traum und präsentiert am Ende den Ringfinger des Opfers als Beweis.
+Auf Aufforderung erzählt die [Braut](position_bride.md) ihre Reise als Traum und präsentiert am Ende den Ringfinger des Opfers als Beweis.
 
 ## Stage
 
@@ -33,4 +33,4 @@ Die festliche Mühle des Vaters.
 
 ## Tension
 
-Die dramatische Zuspitzung der Erzählung bis zur Entlarvung und Festnahme des entsetzten Bräutigams.
+Die dramatische Zuspitzung der Erzählung bis zur Entlarvung und Festnahme des entsetzten [Bräutigams](persona_bridegroom.md).

@@ -25,7 +25,7 @@ Die Jäger des Nachbarkönigs spüren das im Eichenstamm schlafende Pelzwesen au
 
 ## Action
 
-Sie geben ihr den Namen Allerleirauh und teilen sie dem Koch für die schmutzigsten Arbeiten zu, wo sie stumm dient und Spott erträgt.
+Sie geben ihr den Namen [Allerleirauh](persona_allerleirauh.md) und teilen sie dem [Koch](persona_cook.md) für die schmutzigsten Arbeiten zu, wo sie stumm dient und Spott erträgt.
 
 ## Stage
 

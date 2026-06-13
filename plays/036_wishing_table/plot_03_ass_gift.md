@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der zweite Sohn beendet seine Müllerlehre und bekommt den Goldesel geschenkt.
+Der zweite Sohn beendet seine Müllerlehre und bekommt den [Goldesel](piece_donkey.md) geschenkt.
 
 ## Action
 
-Er reist heimwärts, bezahlt im Wirtshaus mit ausgespucktem Gold, woraufhin der Wirt auch dieses Tier im Stall heimlich austauscht.
+Er reist heimwärts, bezahlt im [Wirtshaus](place_inn.md) mit ausgespucktem Gold, woraufhin der [Wirt](persona_innkeeper.md) auch dieses Tier im Stall heimlich austauscht.
 
 ## Stage
 

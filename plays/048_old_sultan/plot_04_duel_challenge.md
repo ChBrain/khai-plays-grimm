@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der enttäuschte Wolf schickt das Wildschwein zu Sultan, um ihn zu einem Duell im Wald herauszufordern.
+Der enttäuschte [Wolf](persona_wolf.md) schickt das Wildschwein zu [Sultan](persona_sultan.md), um ihn zu einem Duell im [Wald](place_forest.md) herauszufordern.
 
 ## Action
 
-Sultan nimmt die Herausforderung an, kann aber nur die dreibeinige Katze als Sekundantin gewinnen, die mühsam hinter ihm herhumpelt.
+Sultan nimmt die Herausforderung an, kann aber nur die dreibeinige Katze als [Sekundantin](persona_seconds.md) gewinnen, die mühsam hinter ihm herhumpelt.
 
 ## Stage
 

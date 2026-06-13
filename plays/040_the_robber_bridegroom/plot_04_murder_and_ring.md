@@ -25,11 +25,11 @@ Die Räuber kehren mit einer gefangenen Jungfrau heim und trinken schwer.
 
 ## Action
 
-Sie töten das Opfer; beim Abhauen eines Fingers fliegt dieser mitsamt dem Goldring direkt in das Versteck der Braut.
+Sie töten das Opfer; beim Abhauen eines Fingers fliegt dieser mitsamt dem Goldring direkt in das Versteck der [Braut](position_bride.md).
 
 ## Stage
 
-Der Keller hinter dem großen Fass.
+Der [Keller](place_cellar.md) hinter dem großen [Fass](piece_cask.md).
 
 ## Tension
 

@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Das Mädchen nähert sich dem Haus der Hexe.
+Das [Mädchen](persona_girl.md) nähert sich dem [Haus](place_witch_house.md) der Hexe.
 
 ## Action
 
-Sie erblickt auf den Stufen nacheinander einen schwarzen, einen grünen und einen blutroten Mann.
+Sie erblickt auf den Stufen nacheinander einen [schwarzen, einen grünen und einen blutroten Mann](persona_strangers.md).
 
 ## Stage
 

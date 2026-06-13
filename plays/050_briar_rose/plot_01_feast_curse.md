@@ -25,7 +25,7 @@ Der König feiert ein großes Fest zur Geburt seiner lang ersehnten Tochter.
 
 ## Action
 
-Die dreizehnte Fee stürmt herein und verflucht Dornröschen, an einer Spindel zu sterben; die zwölfte mildert dies in einen hundertjährigen Schlaf.
+Die [dreizehnte Fee](persona_evil_fairy.md) stürmt herein und verflucht Dornröschen, an einer [Spindel](piece_spindle.md) zu sterben; die zwölfte mildert dies in einen hundertjährigen [Schlaf](process_dormancy.md).
 
 ## Stage
 

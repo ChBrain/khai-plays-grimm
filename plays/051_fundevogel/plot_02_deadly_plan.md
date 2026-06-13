@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die alte Köchin schleppt auffällig viele Eimer Wasser in die Küche.
+Die alte [Köchin](persona_cook.md) schleppt auffällig viele [Eimer Wasser](piece_bucket.md) in die Küche.
 
 ## Action
 
-Lenchen belauscht sie und erfährt, dass Fundevogel am nächsten Tag gekocht werden soll. Sie warnt ihn, und beide fliehen nachts gemeinsam.
+Lenchen belauscht sie und erfährt, dass Fundevogel am nächsten Tag gekocht werden soll. Sie warnt ihn, und beide [fliehen](process_flight.md) nachts gemeinsam.
 
 ## Stage
 

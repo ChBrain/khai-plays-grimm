@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die Prinzessin trauert am Hof und weigert sich zu sprechen.
+Die [Prinzessin](persona_princess.md) trauert am Hof und weigert sich zu sprechen.
 
 ## Action
 
-Der Fuchs rettet den Prinzen aus dem Brunnen. Am Hof offenbart die Prinzessin die Wahrheit. Der Prinz erlöst den Fuchs auf dessen Bitte, indem er ihn köpft. Dieser wird ein Prinz.
+Der [Fuchs](persona_fox.md) rettet den [Prinzen](persona_prince.md) aus dem Brunnen. Am Hof offenbart die Prinzessin die Wahrheit. Der Prinz erlöst den Fuchs auf dessen Bitte, indem er ihn köpft. Dieser wird ein Prinz.
 
 ## Stage
 

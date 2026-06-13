@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Bräutigam drängt auf den ersten Besuch und verstreut Asche als Wegweiser.
+Der [Bräutigam](persona_bridegroom.md) drängt auf den ersten Besuch und verstreut [Asche](piece_ashes.md) als Wegweiser.
 
 ## Action
 
-Das Mädchen folgt der Aschespur tief in den Forst und streut vorsichtshalber Erbsen und Linsen auf den Boden.
+Das Mädchen folgt der Aschespur tief in den Forst und streut vorsichtshalber [Erbsen und Linsen](piece_peas_lentils.md) auf den Boden.
 
 ## Stage
 

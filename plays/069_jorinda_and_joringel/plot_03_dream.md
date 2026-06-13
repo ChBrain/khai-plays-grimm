@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die Hexe löst Joringel aus der Erstarrung und befiehlt ihm fortzugehen.
+Die [Hexe](persona_witch.md) löst [Joringel](persona_joringel.md) aus der Erstarrung und befiehlt ihm fortzugehen.
 
 ## Action
 
-Joringel hütet Schafe in einem fremden Dorf, träumt von einer roten Wunderblume und sucht sie neun Tage lang, bis er sie findet.
+Joringel hütet Schafe in einem fremden Dorf, träumt von einer roten [Wunderblume](piece_flower.md) und sucht sie neun Tage lang, bis er sie findet.
 
 ## Stage
 

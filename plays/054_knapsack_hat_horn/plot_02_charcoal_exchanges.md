@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der jüngste Bruder verirrt sich hungrig in einem riesigen Wald.
+Der jüngste [Bruder](persona_brother.md) verirrt sich hungrig in einem riesigen [Wald](place_forest.md).
 
 ## Action
 
-Er findet ein magisches Tischtuch. Auf seinem Weg trifft er nacheinander drei Köhler und tauscht das Tuch gegen Ranzen, Hütlein und Hörnlein. Seine Soldaten holen ihm das Tischtuch jedoch jedes Mal zurück.
+Er findet ein magisches [Tischtuch](piece_tablecloth.md). Auf seinem Weg trifft er nacheinander drei [Köhler](persona_charcoal_burners.md) und tauscht das Tuch gegen [Ranzen](piece_knapsack.md), [Hütlein](piece_hat.md) und [Hörnlein](piece_horn.md). Seine Soldaten holen ihm das Tischtuch jedoch jedes Mal zurück.
 
 ## Stage
 

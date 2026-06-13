@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Prinz erreicht das Schloss, in dem der goldene Vogel wohnt.
+Der [Prinz](persona_prince.md) erreicht das Schloss, in dem der goldene Vogel wohnt.
 
 ## Action
 
-Er missachtet den Rat und berührt den goldenen Käfig. Um sich zu retten, muss er nacheinander das goldene Pferd stehlen und schließlich die Prinzessin befreien.
+Er missachtet den Rat und berührt den goldenen Käfig. Um sich zu retten, muss er nacheinander das [goldene Pferd](piece_golden_horse.md) stehlen und schließlich die [Prinzessin](persona_princess.md) befreien.
 
 ## Stage
 

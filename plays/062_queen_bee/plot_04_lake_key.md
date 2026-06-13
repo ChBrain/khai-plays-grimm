@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die zweite Aufgabe verlangt das Bergen des Kammerschlüssels aus dem tiefen See.
+Die zweite Aufgabe verlangt das Bergen des Kammerschlüssels aus dem tiefen [See](place_lake.md).
 
 ## Action
 
-Die geretteten Enten tauchen hinab und bringen den goldenen Schlüssel an die Oberfläche.
+Die geretteten Enten tauchen hinab und bringen den goldenen [Schlüssel](piece_key.md) an die Oberfläche.
 
 ## Stage
 

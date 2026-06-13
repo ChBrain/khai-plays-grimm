@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der König verkündet die letzte Bedingung: Wer die schönste Frau ins Schloss führt, erbt die Krone.
+Der [König](persona_king.md) verkündet die letzte Bedingung: Wer die schönste Frau ins [Schloss](place_castle.md) führt, erbt die Krone.
 
 ## Action
 
-Dummling steigt ein drittes Mal hinab. Die Kröte gibt ihm eine ausgehöhlte gelbe Rübe mit sechs Mäusen und lässt ihn eine ihrer kleinen Krötlein hineinsetzen. Sofort verwandelt sich die Kreatur in eine wunderschöne Prinzessin.
+[Dummling](persona_simpleton.md) steigt ein drittes Mal hinab. Die [Kröte](persona_toad.md) gibt ihm eine ausgehöhlte gelbe Rübe mit sechs Mäusen und lässt ihn eine ihrer kleinen Krötlein hineinsetzen. Sofort verwandelt sich die Kreatur in eine wunderschöne Prinzessin.
 
 ## Stage
 

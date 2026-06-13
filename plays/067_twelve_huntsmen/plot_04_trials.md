@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Ein getreuer Diener warnt die Jägerinnen vor den Prüfungen des Königs.
+Ein getreuer Diener warnt die [Jägerinnen](persona_maidens.md) vor den Prüfungen des Königs.
 
 ## Action
 
-Die Jägerinnen treten fest auf die Erbsen und ignorieren die Spinnräder; der König verliert den Glauben an die Vorwürfe des Löwen.
+Die Jägerinnen treten fest auf die [Erbsen](piece_peas.md) und ignorieren die [Spinnräder](piece_wheels.md); der [König](persona_king.md) verliert den Glauben an die Vorwürfe des Löwen.
 
 ## Stage
 

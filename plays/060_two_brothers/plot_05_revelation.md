@@ -25,7 +25,7 @@ Der zweite Bruder kehrt zur Kreuzung zurück und sieht die verrostete Klinge.
 
 ## Action
 
-Er eilt in den Wald, zwingt die Hexe zur Rückverwandlung seines Bruders und eilt zum Königshof. Dort legt er die Drachenzungen vor, entlarvt den betrügerischen Marschall und führt die glückliche Wiedervereinigung herbei.
+Er eilt in den [Wald](place_forest.md), zwingt die [Hexe](persona_witch.md) zur Rückverwandlung seines Bruders und eilt zum Königshof. Dort legt er die [Drachenzungen](piece_dragon_tongues.md) vor, entlarvt den betrügerischen [Marschall](position_usurper.md) und führt die glückliche Wiedervereinigung herbei.
 
 ## Stage
 

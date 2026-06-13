@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Der Wolf besucht Sultan heimlich auf dem Hof und fordert als Gegenleistung für die Hilfe ein fettes Schaf.
+Der [Wolf](persona_wolf.md) besucht [Sultan](persona_sultan.md) heimlich auf dem [Hof](place_farm.md) und fordert als Gegenleistung für die Hilfe ein fettes Schaf.
 
 ## Action
 

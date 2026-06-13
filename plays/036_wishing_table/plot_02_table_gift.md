@@ -25,7 +25,7 @@ Der älteste Sohn schließt seine Schreinerlehre erfolgreich ab und erhält als 
 
 ## Action
 
-Er kehrt heim, prahlt im Wirtshaus mit dem Tischchen, woraufhin der Wirt es nachts heimlich gegen ein gewöhnliches Tischchen austauscht.
+Er kehrt heim, prahlt im [Wirtshaus](place_inn.md) mit dem [Tischchen](piece_table.md), woraufhin der [Wirt](persona_innkeeper.md) es nachts heimlich gegen ein gewöhnliches Tischchen austauscht.
 
 ## Stage
 

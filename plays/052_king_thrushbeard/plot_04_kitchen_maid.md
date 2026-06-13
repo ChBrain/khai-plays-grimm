@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der Spielmann findet Arbeit für seine Frau im Schloss des Königs Drosselbart.
+Der Spielmann findet Arbeit für seine Frau im [Schloss](place_palace.md) des [Königs Drosselbart](persona_thrushbeard.md).
 
 ## Action
 
-Sie muss als Küchenmagd den Abwasch machen, die schmutzigste Arbeit verrichten und Essensreste in kleinen Taschen sammeln.
+Sie muss als Küchenmagd den Abwasch machen, die schmutzigste Arbeit verrichten und [Essensreste](piece_scraps.md) in kleinen Taschen sammeln.
 
 ## Stage
 

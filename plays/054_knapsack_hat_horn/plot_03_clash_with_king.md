@@ -25,7 +25,7 @@ Der Bursche kehrt im alten Rock heim und wird von seinen reichen Brüdern verspo
 
 ## Action
 
-Er lässt seine Soldaten erscheinen, um Respekt zu fordern. Als der König Truppen gegen ihn sendet, vernichtet er diese mit Soldaten und Kanonen und verlangt die Königstochter zur Braut.
+Er lässt seine Soldaten erscheinen, um Respekt zu fordern. Als der [König](persona_king.md) Truppen gegen ihn sendet, vernichtet er diese mit Soldaten und Kanonen und verlangt die [Königstochter](persona_princess.md) zur Braut.
 
 ## Stage
 

@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Daumesdick schläft auf dem Heuboden ein.
+[Daumesdick](persona_thumbling.md) schläft auf dem Heuboden ein.
 
 ## Action
 
-Die Magd verfüttert das Heu an die Kuh, die Daumesdick verschluckt; nach deren Schlachtung frisst ein hungriger Wolf den weggeworfenen Kuhmagen samt dem Knaben.
+Die Magd verfüttert das [Heu](piece_hay.md) an die [Kuh](piece_cow.md), die Daumesdick verschluckt; nach deren Schlachtung frisst ein hungriger [Wolf](piece_wolf.md) den weggeworfenen Kuhmagen samt dem Knaben.
 
 ## Stage
 

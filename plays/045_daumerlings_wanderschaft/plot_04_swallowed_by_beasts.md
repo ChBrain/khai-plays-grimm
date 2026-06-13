@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Däumling wandert weiter und sucht auf einer Wiese nach Nahrung.
+[Däumling](persona_thumbling.md) wandert weiter und sucht auf einer Wiese nach Nahrung.
 
 ## Action
 
-Er wird nacheinander beim Fressen von einer Kuh und später im Wald von einem hungrigen Wolf verschluckt.
+Er wird nacheinander beim Fressen von einer [Kuh](persona_antagonists.md) und später im Wald von einem hungrigen Wolf verschluckt.
 
 ## Stage
 
@@ -33,4 +33,4 @@ Die grüne Wiese und der finstere Wald.
 
 ## Tension
 
-Die akute Lebensgefahr im Magen der Tiere und das Rufen nach Rettung.
+Die akute Lebensgefahr im [Magen](place_stomach.md) der Tiere und das Rufen nach Rettung.

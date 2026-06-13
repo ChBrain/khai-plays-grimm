@@ -25,7 +25,7 @@ Die Mutter fordert, Hans solle Gretel „gute Blicke zuwerfen“.
 
 ## Action
 
-Hans geht in den Stall, schneidet allen Schafen und Kälbern die Augen aus und wirft sie Gretel ins Gesicht; diese flieht entsetzt.
+[Hans](persona_hans.md) geht in den [Stall](place_stable.md), schneidet allen Schafen und Kälbern die [Augen](piece_eyes.md) aus und wirft sie [Gretel](persona_gretel.md) ins Gesicht; diese flieht entsetzt.
 
 ## Stage
 

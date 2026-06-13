@@ -25,12 +25,12 @@ Der Vater erreicht das Zimmer des Gevatters auf der fünften Treppe.
 
 ## Action
 
-Er erblickt die Teufelshörner durch das Schlüsselloch, konfrontiert den Gevatter mit seinen Beobachtungen und flieht voller Panik.
+Er erblickt die [Teufelshörner](piece_horns.md) durch das Schlüsselloch, konfrontiert den Gevatter mit seinen Beobachtungen und flieht voller Panik.
 
 ## Stage
 
-Die Stube des Gevatters am oberen Ende der Treppen.
+Die [Stube](place_chamber.md) des Gevatters am oberen Ende der Treppen.
 
 ## Tension
 
-Die direkte Konfrontation mit der teuflischen Fratze und die rettende, panische Flucht vor dem Dämon.
+Die direkte Konfrontation mit der teuflischen Fratze und die rettende, panische Flucht vor dem [Dämon](position_demon.md).

@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Nach einiger Zeit beschließt der Sohn, nach Rom zu reisen.
+Nach einiger Zeit beschließt der [Sohn](persona_son.md), nach [Rom](place_rome.md) zu reisen.
 
 ## Action
 

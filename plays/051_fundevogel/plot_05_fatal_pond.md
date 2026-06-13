@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Die wütende Köchin zieht selbst mit den Knechten aus, um die Kinder zu fangen.
+Die wütende [Köchin](persona_cook.md) zieht selbst mit den [Knechten](persona_servants.md) aus, um die Kinder zu fangen.
 
 ## Action
 
-Die Kinder verwandeln sich in einen Teich und eine Ente. Die Köchin legt sich hin, um den Teich auszuzrinken, doch die Ente zieht sie hinein, sodass sie ertrinkt.
+Die Kinder verwandeln sich in einen Teich und eine Ente. Die Köchin legt sich hin, um den Teich auszuzrinken, doch die Ente zieht sie hinein, sodass sie [ertrinkt](process_drowning.md).
 
 ## Stage
 

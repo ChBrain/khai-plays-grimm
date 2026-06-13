@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Dummling fällt die Tanne, findet die goldene Gans in den Wurzeln und kehrt abends im Wirtshaus ein.
+[Dummling](persona_simpleton.md) fällt die Tanne, findet die [goldene Gans](piece_goose.md) in den Wurzeln und kehrt abends im [Wirtshaus](place_inn.md) ein.
 
 ## Action
 

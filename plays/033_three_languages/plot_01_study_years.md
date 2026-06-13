@@ -25,7 +25,7 @@ Der Graf schickt seinen untalentierten Sohn nacheinander zu drei Meistern.
 
 ## Action
 
-Der Sohn lernt nacheinander die Sprache der Hunde, Vögel und Frösche. Der Vater gerät in Zorn über diese nutzlosen Künste, verstößt den Jungen und befiehlt seinen Tod; die Diener lassen ihn laufen.
+Der [Sohn](persona_son.md) lernt nacheinander die [Sprache](piece_languages.md) der [Hunde](persona_dogs.md), Vögel und Frösche. Der [Vater](persona_father.md) gerät in Zorn über diese nutzlosen Künste, verstößt den Jungen und befiehlt seinen Tod; die Diener lassen ihn laufen.
 
 ## Stage
 

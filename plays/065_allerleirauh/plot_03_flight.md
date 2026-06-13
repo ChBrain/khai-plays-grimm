@@ -25,7 +25,7 @@ Die fertigen Gewänder werden geliefert, und der Hochzeitstermin steht unmittelb
 
 ## Action
 
-Die Prinzessin färbt sich Haut und Hände mit Ruß schwarz, wirft den Pelzmantel über, nimmt ihre drei Kleinode mit und flieht in den Wald.
+Die [Prinzessin](persona_allerleirauh.md) färbt sich Haut und Hände mit Ruß schwarz, wirft den [Pelzmantel](piece_fur_mantle.md) über, nimmt ihre [drei Kleinode](piece_treasures.md) mit und flieht in den [Wald](place_forest.md).
 
 ## Stage
 

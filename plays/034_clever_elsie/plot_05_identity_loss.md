@@ -25,7 +25,7 @@ Else wacht in der Dunkelheit auf und bewegt sich.
 
 ## Action
 
-Die Schellen klingeln; Else wird verwirrt und vergisst, ob sie Else ist. Sie geht zum Haus, hört, dass Else drinnen sei, und flieht schreiend für immer.
+Die Schellen klingeln; [Else](persona_elsie.md) wird verwirrt und vergisst, ob sie Else ist. Sie geht zum [Haus](place_home.md), hört, dass Else drinnen sei, und flieht schreiend für immer.
 
 ## Stage
 

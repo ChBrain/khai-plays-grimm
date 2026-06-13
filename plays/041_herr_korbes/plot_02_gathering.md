@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der rote Wagen rollt die Landstraße entlang.
+Der rote Wagen rollt die [Landstraße](place_road.md) entlang.
 
 ## Action
 
-Unterwegs treffen sie eine Katze, eine Ente, eine Stecknadel, eine Nähnadel, ein Ei und einen Mühlstein, die alle einsteigen.
+Unterwegs treffen sie eine [Katze](persona_animals.md), eine Ente, eine Stecknadel, eine Nähnadel, ein [Ei](piece_egg.md) und einen Mühlstein, die alle einsteigen.
 
 ## Stage
 

@@ -21,15 +21,15 @@ stamp:
 
 ## Cue
 
-Der Zauberer geht als Bettler getarnt umher und bittet an der Tür um Almosen.
+Der [Zauberer](persona_sorcerer.md) geht als Bettler getarnt umher und bittet an der Tür um Almosen.
 
 ## Action
 
-Er berührt das älteste Mädchen, das daraufhin in seinen Korb springen muss, und entführt sie.
+Er berührt das älteste Mädchen, das daraufhin in seinen [Korb](piece_basket.md) springen muss, und entführt sie.
 
 ## Stage
 
-Vor dem Tor des Elternhauses.
+Vor dem Tor des [Elternhauses](place_home.md).
 
 ## Tension
 

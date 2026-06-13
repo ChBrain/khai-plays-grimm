@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Der gesättigte Hund legt sich mitten auf der Landstraße nieder, um tief zu schlafen.
+Der gesättigte [Hund](persona_dog.md) legt sich mitten auf der [Landstraße](place_highway.md) nieder, um tief zu schlafen.
 
 ## Action
 
-Ein Fuhrmann kommt mit einem schweren, weinbeladenen Wagen herangefahren. Trotz der inständigen Warnungen des Sperlings fährt er absichtlich über den schlafenden Hund und tötet ihn.
+Ein [Fuhrmann](persona_wagoner.md) kommt mit einem schweren, weinbeladenen [Wagen](piece_wagon.md) herangefahren. Trotz der inständigen Warnungen des [Sperlings](persona_sparrow.md) fährt er absichtlich über den schlafenden Hund und tötet ihn.
 
 ## Stage
 

@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-In Rom stirbt der Papst; die Kardinäle suchen nach einem göttlichen Zeichen für die Wahl.
+In [Rom](place_rome.md) stirbt der Papst; die [Kardinäle](persona_cardinals.md) suchen nach einem göttlichen Zeichen für die Wahl.
 
 ## Action
 
-Als der Sohn die Peterskirche betritt, fliegen zwei weiße Tauben herab und setzen sich auf seine Schultern. Er wird zum Papst gewählt; da er die lateinische Messe nicht kennt, flüstern ihm die Tauben die Gesänge ein.
+Als der [Sohn](persona_son.md) die Peterskirche betritt, fliegen zwei weiße [Tauben](piece_doves.md) herab und setzen sich auf seine Schultern. Er wird zum Papst gewählt; da er die lateinische Messe nicht kennt, flüstern ihm die Tauben die Gesänge ein.
 
 ## Stage
 

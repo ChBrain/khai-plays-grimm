@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-Dummling entdeckt neben seiner Feder eine Falltür, öffnet sie und steigt die Stufen hinab in die feuchte Tiefe.
+[Dummling](persona_simpleton.md) entdeckt neben seiner [Feder](piece_feathers.md) eine Falltür, öffnet sie und steigt die Stufen hinab in die feuchte Tiefe.
 
 ## Action
 
-Er trifft die dicke Kröte und bittet um den schönsten Teppich. Die Kröte holt ihn aus ihrer großen Schachtel. Im Schloss deklassiert dieser Prachtteppich die groben Bauernschafdecken, die seine Brüder besorgt haben.
+Er trifft die dicke [Kröte](persona_toad.md) und bittet um den schönsten [Teppich](piece_carpet.md). Die Kröte holt ihn aus ihrer großen Schachtel. Im [Schloss](place_castle.md) deklassiert dieser Prachtteppich die groben Bauernschafdecken, die seine Brüder besorgt haben.
 
 ## Stage
 
