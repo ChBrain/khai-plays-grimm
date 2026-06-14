@@ -19,14 +19,21 @@ Parent group: places
 
 - Project: khai-plays-grimm
 
-## Projection
+## Shown
 
-Die Kammer ist der geschützte, private Raum der Kinder. Hier verwandelt sich die beobachtete Realität in reines Spiel. Sie steht für den Rückzugsort, an dem Kinder unbeobachtet von Erwachsenen agieren und im Spiel die elterlichen Rollen erproben.
+Die Kammer ist der geschützte, private Raum der Kinder. Hier verwandelt sich die beobachtete Realität in reines Spiel. Sie steht für den Rückzugsort, an dem Kinder unbeobachtet agieren und elterliche Rollen erproben.
 
-## Action
+## Holds
 
-In der Kammer treffen sich die Kinder, verteilen die Rollen des Metzgers und der Sau, und ahmen die Schlachtung mit dem Messer nach. Hier tritt die Mutter ein und unterbricht das Spiel.
+- [Metzger-Kind](persona_butcher_child.md): der aktive Spielleiter.
+- [Sau-Kind](persona_pig_child.md): der willige Spielpartner.
+- [das Messer](piece_knife.md): das Werkzeug des Spiels.
+- [Mutter](persona_mother.md): die das Geschehen entdeckt und unterbricht.
 
-## Tell
+## Offers
 
-Das einfache Mobiliar einer elterlichen Kammer, das hier zur Kulisse des kindlichen Nachahmungsspiels wird.
+Den privaten Raum und den Schutz für das ungestörte kindliche Spiel, weitab von den Kontrollen der Erwachsenen.
+
+## Withheld
+
+Die physische Sicherheit vor dem Missbrauch realer Werkzeuge. Das Messer verwandelt das Spiel unbemerkt in eine reale Gefahr.

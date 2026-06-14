@@ -19,14 +19,20 @@ Parent group: places
 
 - Project: khai-plays-grimm
 
-## Projection
+## Shown
 
 Der Hof ist der Arbeitsbereich der Erwachsenen. Hier findet die reale, notwendige Arbeit statt, die den Kindern als Anschauungsmaterial dient. Er ist ein offener, ungeschützter Raum, in dem das Tun des Vaters von den Kindern unbemerkt beobachtet werden kann.
 
-## Action
+## Holds
 
-Hier vollzieht der Vater das Schlachten der Sau. Das Geschehen auf dem Hof bildet das fundamentale Muster, das von den Kindern erfasst und in den privaten Raum übertragen wird.
+- [Vater](persona_father.md): der die Arbeit ausführt.
+- [die Sau](piece_sau.md): das Objekt der bäuerlichen Schlachtung.
+- [Metzger-Kind](persona_butcher_child.md) und [Sau-Kind](persona_pig_child.md): als stille Beobachter im Hintergrund.
 
-## Tell
+## Offers
 
-Die Arbeitsgeräte, der Trog und die Sau, die das Umfeld einer bäuerlichen Schlachtung markieren.
+Die alltägliche Anschauung und das Gesehene als Anlass zur späteren Nachahmung. Der Hof bietet das Muster der realen Schlachtung, das die Kinder in ihr Spiel aufnehmen.
+
+## Withheld
+
+Den moralischen Schutz vor gefährlichen Bildern und Nachahmungsanreizen für die Kinder.

@@ -19,14 +19,20 @@ Parent group: places
 
 - Project: khai-plays-grimm
 
-## Projection
+## Shown
 
-Das Rathaus steht für die rechtliche und gesellschaftliche Ordnung der Gemeinschaft. Hier wird das kindliche Spiel nach den Kriterien der Erwachsenenwelt beurteilt. Es verkörpert die formelle Atmosphäre der Justiz, in der eine rationale Prüfung die emotionalen Wogen glätten soll.
+Das Rathaus steht für die rechtliche und gesellschaftliche Ordnung der Gemeinschaft. Hier wird das kindliche Spiel nach den Kriterien der Erwachsenenwelt beurteilt. Es verkörpert die formelle Atmosphäre der Justiz.
 
-## Action
+## Holds
 
-Hier findet die richterliche Untersuchung des Metzger-Kindes statt. Der Richter prüft das Kind mit Apfel und Gulden, um dessen Urteilsfähigkeit und Schuldhaftigkeit zu ermessen und das Urteil zu verkünden.
+- [Richter](persona_judge.md): der den Fall leitet.
+- [Metzger-Kind](persona_butcher_child.md): der junge Beklagte.
+- [Apfel und Gulden](piece_apple_gold.md): die Prüfsymbole.
 
-## Tell
+## Offers
 
-Der Richterstuhl, die Waagschale und die Symbole der Rechtsprechung, die dem Raum seine Ernsthaftigkeit verleihen.
+Die rechtliche Klärung, das formelle Gehör und die Möglichkeit des gerechten Urteils über die kindliche Schuld.
+
+## Withheld
+
+Den Schutz vor den formalen Anforderungen der Justiz; das Kind muss sich trotz seiner Arglosigkeit vor dem Richterstuhl erklären.
