@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.157.0",
+  "version": "0.167.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -787,6 +787,56 @@
       "id": "157_sparrow_and_four_children",
       "title": "The Sparrow and His Four Children",
       "description": "Ein alter Sperling belehrt seine vier Söhne und lobt das Gottvertrauen des Jüngsten."
+    },
+    {
+      "id": "158_schlauraffen_land",
+      "title": "The Story of Schlauraffen Land",
+      "description": "Ein Aufschneider prahlt mit unmöglichen Wundern, bis ein Hahn das Lügenmärchen beschließt."
+    },
+    {
+      "id": "159_ditmarsch_tale_of_wonders",
+      "title": "The Ditmarsch Tale of Wonders",
+      "description": "Ein Erzähler reiht in einem Lügenmärchen lauter Unmöglichkeiten aneinander und lässt am Ende das Fenster öffnen."
+    },
+    {
+      "id": "160_a_riddling_tale",
+      "title": "A Riddling Tale",
+      "description": "Drei verzauberte Blumen gleichen sich völlig, doch der Tau verrät die eine, die erlöst werden kann."
+    },
+    {
+      "id": "161_snow_white_and_rose_red",
+      "title": "Snow-White and Rose-Red",
+      "description": "Zwei gütige Schwestern beherbergen einen Bären und erlösen ihn vom Fluch des undankbaren Zwergs."
+    },
+    {
+      "id": "162_the_wise_servant",
+      "title": "The Wise Servant",
+      "description": "Ein Knecht sucht statt der verlorenen Kuh drei Amseln und nennt das klug."
+    },
+    {
+      "id": "163_the_glass_coffin",
+      "title": "The Glass Coffin",
+      "description": "Ein armer Schneidergeselle befreit eine verzauberte Jungfrau aus dem gläsernen Sarg und gewinnt ihre Hand."
+    },
+    {
+      "id": "164_lazy_harry",
+      "title": "Lazy Harry",
+      "description": "Aus Bequemlichkeit tauscht Heinz alles weg, bis der Honigtopf zerbricht."
+    },
+    {
+      "id": "165_the_griffin",
+      "title": "The Griffin",
+      "description": "Ein einfältiger, aber höflicher Bauernsohn besteht alle Königsproben und gewinnt das Reich."
+    },
+    {
+      "id": "166_strong_hans",
+      "title": "Strong Hans",
+      "description": "Der bärenstarke Hans befreit seine Mutter, bezwingt den Zwerg und rettet die Königstochter aus Verrat."
+    },
+    {
+      "id": "167_peasant_in_heaven",
+      "title": "The Peasant in Heaven",
+      "description": "Ein armes Bürle und ein reicher Herr sterben zugleich, doch nur der seltene Reiche wird mit Musik im Himmel begrüßt."
     }
   ]
 }
