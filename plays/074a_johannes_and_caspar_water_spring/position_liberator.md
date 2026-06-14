@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "liberator"
+title: "The Liberator"
 declared: "der treue Bruder"
 license: CC-BY-NC-SA-4.0
 stamp:

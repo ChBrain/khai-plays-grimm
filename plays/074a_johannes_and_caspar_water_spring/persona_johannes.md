@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "johannes"
+title: "Johannes"
 declared: "Johannes-Wassersprung"
 license: CC-BY-NC-SA-4.0
 stamp:

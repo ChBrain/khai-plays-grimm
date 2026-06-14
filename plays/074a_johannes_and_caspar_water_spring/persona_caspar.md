@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "caspar"
+title: "Caspar"
 declared: "Caspar-Wassersprung"
 license: CC-BY-NC-SA-4.0
 stamp:

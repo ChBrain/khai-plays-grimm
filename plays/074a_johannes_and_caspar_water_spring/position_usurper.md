@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "usurper"
+title: "The Usurper"
 declared: "der feige Betrüger"
 license: CC-BY-NC-SA-4.0
 stamp:

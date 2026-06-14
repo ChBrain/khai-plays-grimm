@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "charioteer"
+title: "The Charioteer"
 declared: "Kutscher"
 license: CC-BY-NC-SA-4.0
 stamp:

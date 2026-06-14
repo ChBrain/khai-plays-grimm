@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_dragon_slaying"
+title: "Dragon Slaying"
 declared: "Der Kampf gegen den Drachen"
 license: CC-BY-NC-SA-4.0
 stamp:

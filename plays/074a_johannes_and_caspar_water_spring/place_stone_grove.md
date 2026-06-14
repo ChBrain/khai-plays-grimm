@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "stone_grove"
+title: "The Stone Grove"
 declared: "Steinhain"
 license: CC-BY-NC-SA-4.0
 stamp:

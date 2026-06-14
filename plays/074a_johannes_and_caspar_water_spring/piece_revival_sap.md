@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "revival_sap"
+title: "The Revival Sap"
 declared: "der Ameisensaft"
 license: CC-BY-NC-SA-4.0
 stamp:

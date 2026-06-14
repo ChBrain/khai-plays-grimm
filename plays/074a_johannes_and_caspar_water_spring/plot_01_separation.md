@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_separation"
+title: "Separation"
 declared: "Die Geburt und der Scheideweg"
 license: CC-BY-NC-SA-4.0
 stamp:

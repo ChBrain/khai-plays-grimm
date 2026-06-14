@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "dragon_city"
+title: "The Dragon City"
 declared: "Drachenstadt"
 license: CC-BY-NC-SA-4.0
 stamp:

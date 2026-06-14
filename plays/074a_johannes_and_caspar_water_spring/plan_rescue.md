@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "rescue"
+title: "Rescue"
 declared: "die gegenseitige Rettung"
 license: CC-BY-NC-SA-4.0
 stamp:

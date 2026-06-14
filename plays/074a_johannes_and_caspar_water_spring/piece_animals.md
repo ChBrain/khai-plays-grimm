@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "animals"
+title: "The Animals"
 declared: "die Hilfstiere"
 license: CC-BY-NC-SA-4.0
 stamp:

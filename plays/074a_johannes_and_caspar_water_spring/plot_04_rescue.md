@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_rescue"
+title: "Rescue"
 declared: "Die Versteinerung und Erlösung"
 license: CC-BY-NC-SA-4.0
 stamp:

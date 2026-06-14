@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "stars"
+title: "The Stars"
 declared: "die silbernen Sterne"
 license: CC-BY-NC-SA-4.0
 stamp:

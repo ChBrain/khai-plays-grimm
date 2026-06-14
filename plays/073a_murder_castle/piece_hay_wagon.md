@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "hay_wagon"
+title: "The Hay Wagon"
 declared: "der Heuwagen"
 license: CC-BY-NC-SA-4.0
 stamp:
