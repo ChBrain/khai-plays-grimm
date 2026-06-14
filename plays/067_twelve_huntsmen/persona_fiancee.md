@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "fiancee"
+title: "The Fiancee"
 declared: "Verlobte"
 license: CC-BY-NC-SA-4.0
 stamp:

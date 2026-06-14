@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_replacement"
+title: "Replacement"
 declared: "Die falsche Braut am Hof"
 license: CC-BY-NC-SA-4.0
 stamp:

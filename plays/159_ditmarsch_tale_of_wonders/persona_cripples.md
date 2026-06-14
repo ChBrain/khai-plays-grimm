@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "cripples"
+title: "The Cripples"
 declared: "die drei Krüppel"
 license: CC-BY-NC-SA-4.0
 stamp:

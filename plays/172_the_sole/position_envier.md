@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "envier"
+title: "The Envier"
 declared: "die Neiderin"
 license: CC-BY-NC-SA-4.0
 stamp:

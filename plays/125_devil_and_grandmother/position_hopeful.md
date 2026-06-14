@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "hopeful"
+title: "The Hopeful"
 declared: "der Hoffende"
 license: CC-BY-NC-SA-4.0
 stamp:

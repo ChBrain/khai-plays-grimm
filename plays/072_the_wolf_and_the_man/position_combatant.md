@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "combatant"
+title: "The Combatant"
 declared: "der Wehrhafte"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "silent-sewing"
+title: "Silent Sewing"
 declared: "das schweigende Nähen"
 license: CC-BY-NC-SA-4.0
 stamp:

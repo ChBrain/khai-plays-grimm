@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "oathbreaker"
+title: "The Oathbreaker"
 declared: "der Wortbrüchige"
 license: CC-BY-NC-SA-4.0
 stamp:

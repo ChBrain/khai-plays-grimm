@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "veitli"
+title: "The Veitli"
 declared: "der Veitli"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_humiliation"
+title: "Humiliation"
 declared: "Der Stiefelknecht"
 license: CC-BY-NC-SA-4.0
 stamp:

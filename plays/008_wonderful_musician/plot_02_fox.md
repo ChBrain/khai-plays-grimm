@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_fox"
+title: "Fox"
 declared: "Der Fuchs im Haselstrauch"
 license: CC-BY-NC-SA-4.0
 stamp:

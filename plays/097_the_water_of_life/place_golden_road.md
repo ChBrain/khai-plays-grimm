@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "golden_road"
+title: "The Golden Road"
 declared: "die goldene Straße"
 license: CC-BY-NC-SA-4.0
 stamp:

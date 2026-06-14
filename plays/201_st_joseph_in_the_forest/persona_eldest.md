@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "eldest"
+title: "The Eldest"
 declared: "die älteste Tochter"
 license: CC-BY-NC-SA-4.0
 stamp:

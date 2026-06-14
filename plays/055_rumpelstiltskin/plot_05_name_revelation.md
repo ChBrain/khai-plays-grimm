@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "name_revelation"
+title: "Name Revelation"
 declared: "Die Namensoffenbarung"
 license: CC-BY-NC-SA-4.0
 stamp:

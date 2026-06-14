@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "judge"
+title: "The Judge"
 declared: "der Prüfende"
 license: CC-BY-NC-SA-4.0
 stamp:

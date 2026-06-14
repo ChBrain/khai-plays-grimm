@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "restoration"
+title: "Restoration"
 declared: "das Erringen der Macht"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "extinction"
+title: "Extinction"
 declared: "Erlöschen"
 license: CC-BY-NC-SA-4.0
 stamp:

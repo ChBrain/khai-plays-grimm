@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "golden-ball"
+title: "The Golden Ball"
 declared: "goldene Kugel"
 license: CC-BY-NC-SA-4.0
 stamp:

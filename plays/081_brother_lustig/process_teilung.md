@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "teilung"
+title: "Teilung"
 declared: "die Teilung"
 license: CC-BY-NC-SA-4.0
 stamp:

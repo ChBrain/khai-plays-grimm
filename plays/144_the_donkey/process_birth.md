@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "birth"
+title: "Birth"
 declared: "die Geburt"
 license: CC-BY-NC-SA-4.0
 stamp:

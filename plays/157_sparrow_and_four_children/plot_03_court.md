@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "court"
+title: "Court"
 declared: "Der Sohn vom Hof"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "kapelle"
+title: "The Kapelle"
 declared: "die Sankt-Annen-Kapelle"
 license: CC-BY-NC-SA-4.0
 stamp:

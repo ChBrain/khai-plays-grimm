@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "receiver"
+title: "The Receiver"
 declared: "der Empfänger"
 license: CC-BY-NC-SA-4.0
 stamp:

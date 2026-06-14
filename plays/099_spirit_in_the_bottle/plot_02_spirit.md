@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "spirit"
+title: "Spirit"
 declared: "Der Geist in der Flasche"
 license: CC-BY-NC-SA-4.0
 stamp:

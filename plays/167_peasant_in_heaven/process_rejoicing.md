@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "rejoicing"
+title: "Rejoicing"
 declared: "das Frohlocken"
 license: CC-BY-NC-SA-4.0
 stamp:

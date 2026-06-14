@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "griffin_wife"
+title: "The Griffin Wife"
 declared: "die Frau des Greifs"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "eagle"
+title: "The Eagle"
 declared: "der Adler"
 license: CC-BY-NC-SA-4.0
 stamp:

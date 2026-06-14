@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "cloak"
+title: "The Cloak"
 declared: "der Tarnmantel"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "wager"
+title: "Wager"
 declared: "die Wette"
 license: CC-BY-NC-SA-4.0
 stamp:

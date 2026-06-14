@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "forest_sanctuary"
+title: "Forest Sanctuary"
 declared: "Die Zuflucht im Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

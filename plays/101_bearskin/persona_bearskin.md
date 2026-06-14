@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "bearskin"
+title: "The Bearskin"
 declared: "der Bärenhäuter"
 license: CC-BY-NC-SA-4.0
 stamp:

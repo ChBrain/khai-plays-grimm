@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_watch-beneath-the-nest"
+title: "Watch Beneath the Nest"
 declared: "Die Wacht unter dem Nest"
 license: CC-BY-NC-SA-4.0
 stamp:

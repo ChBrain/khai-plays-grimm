@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "hoopoe"
+title: "The Hoopoe"
 declared: "der Wiedehopf"
 license: CC-BY-NC-SA-4.0
 stamp:

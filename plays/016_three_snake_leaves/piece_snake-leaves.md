@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "snake-leaves"
+title: "The Snake Leaves"
 declared: "Schlangenblätter"
 license: CC-BY-NC-SA-4.0
 stamp:

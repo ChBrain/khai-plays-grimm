@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "soldiers-conquest"
+title: "Soldiers Conquest"
 declared: "die Eroberung des Soldaten"
 license: CC-BY-NC-SA-4.0
 stamp:

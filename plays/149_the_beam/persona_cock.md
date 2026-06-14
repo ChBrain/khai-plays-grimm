@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "cock"
+title: "The Cock"
 declared: "der Hahn"
 license: CC-BY-NC-SA-4.0
 stamp:

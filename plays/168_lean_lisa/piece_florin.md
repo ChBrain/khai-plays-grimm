@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "florin"
+title: "The Florin"
 declared: "der geträumte Gulden"
 license: CC-BY-NC-SA-4.0
 stamp:

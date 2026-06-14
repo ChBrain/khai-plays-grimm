@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "duel"
+title: "Duel"
 declared: "Das Duell"
 license: CC-BY-NC-SA-4.0
 stamp:

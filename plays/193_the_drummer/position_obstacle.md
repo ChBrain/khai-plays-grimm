@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "obstacle"
+title: "The Obstacle"
 declared: "das Hindernis"
 license: CC-BY-NC-SA-4.0
 stamp:

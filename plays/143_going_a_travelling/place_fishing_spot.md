@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "fishing_spot"
+title: "The Fishing Spot"
 declared: "der Fischplatz"
 license: CC-BY-NC-SA-4.0
 stamp:

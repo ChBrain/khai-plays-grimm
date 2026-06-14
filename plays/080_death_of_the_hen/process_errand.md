@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "errand"
+title: "Errand"
 declared: "die Bittenkette"
 license: CC-BY-NC-SA-4.0
 stamp:

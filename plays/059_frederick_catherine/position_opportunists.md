@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "opportunists"
+title: "The Opportunists"
 declared: "Nutznießer"
 license: CC-BY-NC-SA-4.0
 stamp:

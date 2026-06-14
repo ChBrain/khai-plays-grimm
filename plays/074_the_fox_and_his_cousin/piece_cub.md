@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "cub"
+title: "The Cub"
 declared: "der Wolfssohn"
 license: CC-BY-NC-SA-4.0
 stamp:

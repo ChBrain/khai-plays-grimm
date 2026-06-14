@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "wedding"
+title: "Wedding"
 declared: "Die Lösung und die Hochzeit"
 license: CC-BY-NC-SA-4.0
 stamp:

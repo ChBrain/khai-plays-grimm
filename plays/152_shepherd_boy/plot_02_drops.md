@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "drops"
+title: "Drops"
 declared: "Die Tropfen im Meer"
 license: CC-BY-NC-SA-4.0
 stamp:

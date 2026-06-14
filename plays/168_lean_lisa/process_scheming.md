@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "scheming"
+title: "Scheming"
 declared: "das Spinnen des Plans"
 license: CC-BY-NC-SA-4.0
 stamp:

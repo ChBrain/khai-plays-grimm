@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_hunt-success"
+title: "Hunt Success"
 declared: "Erfolgreiche Jagd"
 license: CC-BY-NC-SA-4.0
 stamp:

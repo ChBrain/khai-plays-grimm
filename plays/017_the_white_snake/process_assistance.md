@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "assistance"
+title: "Assistance"
 declared: "Tierhilfe"
 license: CC-BY-NC-SA-4.0
 stamp:

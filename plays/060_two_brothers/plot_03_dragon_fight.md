@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "dragon_fight"
+title: "Dragon Fight"
 declared: "Der Drachenkampf"
 license: CC-BY-NC-SA-4.0
 stamp:

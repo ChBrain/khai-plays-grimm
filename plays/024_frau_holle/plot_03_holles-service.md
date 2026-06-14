@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_holles-service"
+title: "Holles Service"
 declared: "Der Dienst"
 license: CC-BY-NC-SA-4.0
 stamp:

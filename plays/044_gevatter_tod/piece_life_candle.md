@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "life_candle"
+title: "The Life Candle"
 declared: "Lebenslicht"
 license: CC-BY-NC-SA-4.0
 stamp:

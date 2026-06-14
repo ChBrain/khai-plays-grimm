@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "feather_flight"
+title: "Feather Flight"
 declared: "Der Flug der Federn"
 license: CC-BY-NC-SA-4.0
 stamp:

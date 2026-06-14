@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_robber-retaliation"
+title: "Robber Retaliation"
 declared: "Die Heimsuchung"
 license: CC-BY-NC-SA-4.0
 stamp:

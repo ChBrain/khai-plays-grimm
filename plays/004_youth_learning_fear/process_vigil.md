@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "vigil"
+title: "Vigil"
 declared: "Dreinächte-Wache"
 license: CC-BY-NC-SA-4.0
 stamp:

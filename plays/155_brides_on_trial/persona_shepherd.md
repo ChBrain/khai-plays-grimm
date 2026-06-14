@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "shepherd"
+title: "The Shepherd"
 declared: "der Schäfer"
 license: CC-BY-NC-SA-4.0
 stamp:

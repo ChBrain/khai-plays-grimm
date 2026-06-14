@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "neighbors_ruin"
+title: "Neighbors Ruin"
 declared: "Der Bauernneid"
 license: CC-BY-NC-SA-4.0
 stamp:

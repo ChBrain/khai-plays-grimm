@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "doorkeeper"
+title: "The Doorkeeper"
 declared: "der Türhüter"
 license: CC-BY-NC-SA-4.0
 stamp:

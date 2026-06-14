@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "fat-pot"
+title: "The Fat Pot"
 declared: "Fetttopf"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "bee_choice"
+title: "Bee Choice"
 declared: "Die Wahl der Prinzessin"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "mother_in_law"
+title: "The Mother in Law"
 declared: "die Schwiegermutter"
 license: CC-BY-NC-SA-4.0
 stamp:

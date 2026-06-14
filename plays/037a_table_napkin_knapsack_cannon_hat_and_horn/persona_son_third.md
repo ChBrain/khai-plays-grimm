@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "son_third"
+title: "The Son Third"
 declared: "dritter Sohn"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "forest-castle"
+title: "The Forest Castle"
 declared: "Waldschloss"
 license: CC-BY-NC-SA-4.0
 stamp:

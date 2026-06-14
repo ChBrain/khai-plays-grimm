@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "hangmen"
+title: "The Hangmen"
 declared: "die Henker"
 license: CC-BY-NC-SA-4.0
 stamp:

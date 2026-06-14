@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "castle-treasure"
+title: "The Castle Treasure"
 declared: "Schlossschatz"
 license: CC-BY-NC-SA-4.0
 stamp:

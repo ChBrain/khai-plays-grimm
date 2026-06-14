@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "trade"
+title: "Trade"
 declared: "der Tausch"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "warning"
+title: "Warning"
 declared: "Der fehlende Nagel"
 license: CC-BY-NC-SA-4.0
 stamp:

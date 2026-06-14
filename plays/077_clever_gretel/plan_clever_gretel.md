@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "clever_gretel"
+title: "Clever Gretel"
 declared: "die Ausrede"
 license: CC-BY-NC-SA-4.0
 stamp:

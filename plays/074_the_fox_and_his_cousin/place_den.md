@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "den"
+title: "The Den"
 declared: "der Bau"
 license: CC-BY-NC-SA-4.0
 stamp:

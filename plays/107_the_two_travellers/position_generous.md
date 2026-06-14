@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "generous"
+title: "The Generous"
 declared: "der Gütige"
 license: CC-BY-NC-SA-4.0
 stamp:

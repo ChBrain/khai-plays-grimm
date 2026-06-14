@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "youngest"
+title: "The Youngest"
 declared: "die jüngste Tochter"
 license: CC-BY-NC-SA-4.0
 stamp:

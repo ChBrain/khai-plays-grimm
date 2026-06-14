@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "ungrateful"
+title: "The Ungrateful"
 declared: "der Undankbare"
 license: CC-BY-NC-SA-4.0
 stamp:

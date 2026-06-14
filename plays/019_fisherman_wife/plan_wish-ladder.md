@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "wish-ladder"
+title: "Wish Ladder"
 declared: "die Leiter der maßlosen Wünsche"
 license: CC-BY-NC-SA-4.0
 stamp:

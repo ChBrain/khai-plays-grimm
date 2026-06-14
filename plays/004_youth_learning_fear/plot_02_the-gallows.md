@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_the-gallows"
+title: "The Gallows"
 declared: "Die Galgengesellen"
 license: CC-BY-NC-SA-4.0
 stamp:

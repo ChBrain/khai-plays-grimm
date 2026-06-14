@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "domestic_servants"
+title: "Domestic Servants"
 declared: "der gemeinsame Aufbruch"
 license: CC-BY-NC-SA-4.0
 stamp:

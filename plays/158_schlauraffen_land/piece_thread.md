@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "thread"
+title: "The Thread"
 declared: "der Seidenfaden"
 license: CC-BY-NC-SA-4.0
 stamp:

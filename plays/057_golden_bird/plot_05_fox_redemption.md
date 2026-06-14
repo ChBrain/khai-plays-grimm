@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "fox_redemption"
+title: "Fox Redemption"
 declared: "Die Erlösung des Helfers"
 license: CC-BY-NC-SA-4.0
 stamp:

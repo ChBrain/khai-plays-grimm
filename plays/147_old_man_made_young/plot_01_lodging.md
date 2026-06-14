@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "lodging"
+title: "Lodging"
 declared: "Die Einkehr"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "wine"
+title: "The Wine"
 declared: "der Wein"
 license: CC-BY-NC-SA-4.0
 stamp:

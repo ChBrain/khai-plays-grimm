@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "messenger"
+title: "The Messenger"
 declared: "Botin"
 license: CC-BY-NC-SA-4.0
 stamp:

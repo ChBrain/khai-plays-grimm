@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "chained_tasks"
+title: "Chained Tasks"
 declared: "Die verketteten Aufgaben"
 license: CC-BY-NC-SA-4.0
 stamp:

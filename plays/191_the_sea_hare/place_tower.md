@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "tower"
+title: "The Tower"
 declared: "der Turm mit zwölf Fenstern"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "almosen"
+title: "Almosen"
 declared: "Das Almosen"
 license: CC-BY-NC-SA-4.0
 stamp:

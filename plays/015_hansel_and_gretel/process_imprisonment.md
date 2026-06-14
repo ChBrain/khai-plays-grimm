@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "imprisonment"
+title: "Imprisonment"
 declared: "Mastung"
 license: CC-BY-NC-SA-4.0
 stamp:

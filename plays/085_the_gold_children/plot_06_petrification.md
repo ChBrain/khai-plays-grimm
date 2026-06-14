@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "petrification"
+title: "Petrification"
 declared: "Die Versteinerung"
 license: CC-BY-NC-SA-4.0
 stamp:

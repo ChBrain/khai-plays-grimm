@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "animals"
+title: "The Animals"
 declared: "Tierhelfer"
 license: CC-BY-NC-SA-4.0
 stamp:

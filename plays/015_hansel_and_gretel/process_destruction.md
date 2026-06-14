@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "destruction"
+title: "Destruction"
 declared: "Hexentod"
 license: CC-BY-NC-SA-4.0
 stamp:

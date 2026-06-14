@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "first_speaker"
+title: "The First Speaker"
 declared: "die erste Sprecherin"
 license: CC-BY-NC-SA-4.0
 stamp:

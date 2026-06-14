@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "hazelstick"
+title: "The Hazelstick"
 declared: "der Haselstock"
 license: CC-BY-NC-SA-4.0
 stamp:

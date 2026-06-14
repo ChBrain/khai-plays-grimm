@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "enslavement"
+title: "Enslavement"
 declared: "die Knechtung"
 license: CC-BY-NC-SA-4.0
 stamp:

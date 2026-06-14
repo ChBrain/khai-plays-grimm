@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "footless"
+title: "The Footless"
 declared: "der Fußlose"
 license: CC-BY-NC-SA-4.0
 stamp:

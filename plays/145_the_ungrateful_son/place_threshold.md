@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "threshold"
+title: "The Threshold"
 declared: "die Türschwelle"
 license: CC-BY-NC-SA-4.0
 stamp:

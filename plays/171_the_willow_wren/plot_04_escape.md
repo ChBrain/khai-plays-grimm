@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "escape"
+title: "Escape"
 declared: "Die Flucht und der Spott"
 license: CC-BY-NC-SA-4.0
 stamp:

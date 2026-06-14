@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_wolf-devours"
+title: "Wolf Devours"
 declared: "Der Wolf schlingt sechs Geißlein"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "cottage_labor"
+title: "Cottage Labor"
 declared: "Das Hüttenleben"
 license: CC-BY-NC-SA-4.0
 stamp:

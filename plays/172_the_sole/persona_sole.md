@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "sole"
+title: "The Sole"
 declared: "die Scholle"
 license: CC-BY-NC-SA-4.0
 stamp:

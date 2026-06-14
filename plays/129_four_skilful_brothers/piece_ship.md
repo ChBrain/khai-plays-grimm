@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "ship"
+title: "The Ship"
 declared: "das Schiff"
 license: CC-BY-NC-SA-4.0
 stamp:

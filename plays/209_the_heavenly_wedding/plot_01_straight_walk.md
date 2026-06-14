@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "straight_walk"
+title: "Straight Walk"
 declared: "Das Wort und der gerade Weg"
 license: CC-BY-NC-SA-4.0
 stamp:

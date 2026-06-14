@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "gate"
+title: "The Gate"
 declared: "das Himmelstor"
 license: CC-BY-NC-SA-4.0
 stamp:

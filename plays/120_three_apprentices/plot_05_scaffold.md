@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "scaffold"
+title: "Scaffold"
 declared: "Das Schafott und das weiße Tuch"
 license: CC-BY-NC-SA-4.0
 stamp:

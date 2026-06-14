@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "shoes"
+title: "The Shoes"
 declared: "zertanzten Schuhe"
 license: CC-BY-NC-SA-4.0
 stamp:

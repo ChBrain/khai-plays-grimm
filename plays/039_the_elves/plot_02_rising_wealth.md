@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "rising_wealth"
+title: "Rising Wealth"
 declared: "Der wachsende Wohlstand"
 license: CC-BY-NC-SA-4.0
 stamp:

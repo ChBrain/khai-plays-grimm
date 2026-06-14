@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "telescope"
+title: "The Telescope"
 declared: "das Fernrohr"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "verwechslung"
+title: "Verwechslung"
 declared: "die Verwechslung"
 license: CC-BY-NC-SA-4.0
 stamp:

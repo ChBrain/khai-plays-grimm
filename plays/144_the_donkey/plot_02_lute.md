@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "lute"
+title: "Lute"
 declared: "Die Laute"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "bargain"
+title: "Bargain"
 declared: "der Handel"
 license: CC-BY-NC-SA-4.0
 stamp:

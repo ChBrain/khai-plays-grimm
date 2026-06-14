@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "farm"
+title: "The Farm"
 declared: "der Amtshof"
 license: CC-BY-NC-SA-4.0
 stamp:

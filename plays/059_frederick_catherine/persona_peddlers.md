@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "peddlers"
+title: "The Peddlers"
 declared: "Händler"
 license: CC-BY-NC-SA-4.0
 stamp:

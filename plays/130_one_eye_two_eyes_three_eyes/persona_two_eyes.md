@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "two_eyes"
+title: "The Two Eyes"
 declared: "Zweiäuglein"
 license: CC-BY-NC-SA-4.0
 stamp:

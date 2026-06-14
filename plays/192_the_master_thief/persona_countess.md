@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "countess"
+title: "The Countess"
 declared: "die Gräfin"
 license: CC-BY-NC-SA-4.0
 stamp:

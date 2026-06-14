@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "findelkind"
+title: "Findelkind"
 declared: "das Findelkind"
 license: CC-BY-NC-SA-4.0
 stamp:

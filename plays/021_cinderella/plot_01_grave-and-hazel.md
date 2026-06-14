@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_grave-and-hazel"
+title: "Grave and Hazel"
 declared: "Das Grab und der Haselreis"
 license: CC-BY-NC-SA-4.0
 stamp:

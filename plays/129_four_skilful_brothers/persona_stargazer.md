@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "stargazer"
+title: "The Stargazer"
 declared: "der Sterngucker"
 license: CC-BY-NC-SA-4.0
 stamp:

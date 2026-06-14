@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "frog"
+title: "The Frog"
 declared: "der Frosch"
 license: CC-BY-NC-SA-4.0
 stamp:

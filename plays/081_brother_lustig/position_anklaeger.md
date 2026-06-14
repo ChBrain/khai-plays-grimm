@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "anklaeger"
+title: "The Anklaeger"
 declared: "der Ankläger"
 license: CC-BY-NC-SA-4.0
 stamp:

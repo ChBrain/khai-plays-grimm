@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "uproar"
+title: "Uproar"
 declared: "Der Aufruhr der Toten"
 license: CC-BY-NC-SA-4.0
 stamp:

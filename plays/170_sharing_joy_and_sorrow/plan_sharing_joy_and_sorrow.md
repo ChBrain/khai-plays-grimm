@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "sharing_joy_and_sorrow"
+title: "Sharing Joy and Sorrow"
 declared: "die Ausrede"
 license: CC-BY-NC-SA-4.0
 stamp:

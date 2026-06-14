@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "gifts"
+title: "The Gifts"
 declared: "Gaben"
 license: CC-BY-NC-SA-4.0
 stamp:

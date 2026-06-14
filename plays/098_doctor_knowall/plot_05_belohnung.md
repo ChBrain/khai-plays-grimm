@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "belohnung"
+title: "Belohnung"
 declared: "Die Belohnung des Allwissenden"
 license: CC-BY-NC-SA-4.0
 stamp:

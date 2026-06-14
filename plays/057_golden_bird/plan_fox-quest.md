@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "fox-quest"
+title: "Fox Quest"
 declared: "die Fuchsfahrt des Jüngsten"
 license: CC-BY-NC-SA-4.0
 stamp:

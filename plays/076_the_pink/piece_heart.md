@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "heart"
+title: "The Heart"
 declared: "das Hirschherz"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "betrayal"
+title: "Betrayal"
 declared: "Der Verrat am Granatenberg"
 license: CC-BY-NC-SA-4.0
 stamp:

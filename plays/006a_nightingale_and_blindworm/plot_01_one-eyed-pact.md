@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_one-eyed-pact"
+title: "One Eyed Pact"
 declared: "Das einäugige Bündnis"
 license: CC-BY-NC-SA-4.0
 stamp:

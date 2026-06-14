@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "beggar"
+title: "The Beggar"
 declared: "der alte Bettler"
 license: CC-BY-NC-SA-4.0
 stamp:

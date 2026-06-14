@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "humble"
+title: "The Humble"
 declared: "der Demütige"
 license: CC-BY-NC-SA-4.0
 stamp:

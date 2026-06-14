@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "aufdeckung"
+title: "Aufdeckung"
 declared: "die Aufdeckung"
 license: CC-BY-NC-SA-4.0
 stamp:

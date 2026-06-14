@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "three_nights"
+title: "Three Nights"
 declared: "Die drei Nächte"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "old_rinkrank"
+title: "Old Rinkrank"
 declared: "die Flucht aus dem Berg"
 license: CC-BY-NC-SA-4.0
 stamp:

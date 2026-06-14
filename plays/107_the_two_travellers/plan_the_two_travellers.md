@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_two_travellers"
+title: "The Two Travellers"
 declared: "die Prüfungen"
 license: CC-BY-NC-SA-4.0
 stamp:

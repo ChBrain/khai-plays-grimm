@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "schriften"
+title: "Schriften"
 declared: "Die Schriften"
 license: CC-BY-NC-SA-4.0
 stamp:

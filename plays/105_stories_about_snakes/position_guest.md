@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "guest"
+title: "The Guest"
 declared: "der Gast"
 license: CC-BY-NC-SA-4.0
 stamp:

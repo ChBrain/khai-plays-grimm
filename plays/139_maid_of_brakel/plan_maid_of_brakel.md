@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "maid_of_brakel"
+title: "Maid of Brakel"
 declared: "die Brautwerbung"
 license: CC-BY-NC-SA-4.0
 stamp:

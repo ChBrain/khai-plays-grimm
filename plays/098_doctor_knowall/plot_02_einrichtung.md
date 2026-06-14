@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "einrichtung"
+title: "Einrichtung"
 declared: "Die Einrichtung des Doktors"
 license: CC-BY-NC-SA-4.0
 stamp:

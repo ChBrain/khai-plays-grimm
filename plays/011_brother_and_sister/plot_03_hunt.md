@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_hunt"
+title: "Hunt"
 declared: "Die königliche Jagd"
 license: CC-BY-NC-SA-4.0
 stamp:

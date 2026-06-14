@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "einlass"
+title: "Einlass"
 declared: "Der Einlass"
 license: CC-BY-NC-SA-4.0
 stamp:

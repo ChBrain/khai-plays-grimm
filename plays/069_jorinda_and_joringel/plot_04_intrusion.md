@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "intrusion"
+title: "Intrusion"
 declared: "Der Einbruch ins Schloss"
 license: CC-BY-NC-SA-4.0
 stamp:

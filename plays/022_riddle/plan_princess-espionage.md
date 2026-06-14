@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "princess-espionage"
+title: "Princess Espionage"
 declared: "die Aushorchung der Prinzessin"
 license: CC-BY-NC-SA-4.0
 stamp:

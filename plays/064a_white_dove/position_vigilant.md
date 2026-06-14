@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "vigilant"
+title: "The Vigilant"
 declared: "wachsamer Dummling"
 license: CC-BY-NC-SA-4.0
 stamp:

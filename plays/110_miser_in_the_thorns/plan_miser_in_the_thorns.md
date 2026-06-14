@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "miser_in_the_thorns"
+title: "Miser in the Thorns"
 declared: "die Hebelwirkung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_fox_and_the_cat"
+title: "The Fox and the Cat"
 declared: "die Rettung"
 license: CC-BY-NC-SA-4.0
 stamp:

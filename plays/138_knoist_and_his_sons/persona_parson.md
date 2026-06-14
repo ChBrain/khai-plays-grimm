@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "parson"
+title: "The Parson"
 declared: "der Pfarrer"
 license: CC-BY-NC-SA-4.0
 stamp:

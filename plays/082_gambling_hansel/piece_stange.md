@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "stange"
+title: "The Stange"
 declared: "die Hopfenstange"
 license: CC-BY-NC-SA-4.0
 stamp:

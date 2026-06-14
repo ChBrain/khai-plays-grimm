@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "mosel"
+title: "Mosel"
 declared: "Die Mosel"
 license: CC-BY-NC-SA-4.0
 stamp:

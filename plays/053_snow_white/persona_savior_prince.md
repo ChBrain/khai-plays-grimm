@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "savior_prince"
+title: "The Savior Prince"
 declared: "Königssohn"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_compliance"
+title: "Compliance"
 declared: "Die Kettenreaktion"
 license: CC-BY-NC-SA-4.0
 stamp:

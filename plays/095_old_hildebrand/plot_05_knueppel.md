@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "knueppel"
+title: "Knueppel"
 declared: "Der Spruch und der Knüppel"
 license: CC-BY-NC-SA-4.0
 stamp:

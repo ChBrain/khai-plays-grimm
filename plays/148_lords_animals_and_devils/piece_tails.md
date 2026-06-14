@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "tails"
+title: "The Tails"
 declared: "die langen Schwänze"
 license: CC-BY-NC-SA-4.0
 stamp:

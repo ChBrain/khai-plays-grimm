@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "plea"
+title: "Plea"
 declared: "Die letzte Bitte"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "boatbuilding"
+title: "Boatbuilding"
 declared: "der Bau des Landschiffs"
 license: CC-BY-NC-SA-4.0
 stamp:

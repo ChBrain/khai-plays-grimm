@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "prayer"
+title: "Prayer"
 declared: "Das Gebet der Mutter"
 license: CC-BY-NC-SA-4.0
 stamp:

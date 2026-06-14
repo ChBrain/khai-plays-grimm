@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "winning_princess"
+title: "Winning Princess"
 declared: "das Gewinnen der Königstochter"
 license: CC-BY-NC-SA-4.0
 stamp:

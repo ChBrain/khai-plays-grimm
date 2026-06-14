@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "court_host"
+title: "The Court Host"
 declared: "Festsaal"
 license: CC-BY-NC-SA-4.0
 stamp:

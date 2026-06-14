@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "old_wife"
+title: "The Old Wife"
 declared: "die alte Bäuerin"
 license: CC-BY-NC-SA-4.0
 stamp:

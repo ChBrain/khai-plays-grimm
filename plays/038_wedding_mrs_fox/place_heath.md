@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "heath"
+title: "The Heath"
 declared: "Heide"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "question"
+title: "Question"
 declared: "Die Frage nach dem Weg"
 license: CC-BY-NC-SA-4.0
 stamp:

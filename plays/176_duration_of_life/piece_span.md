@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "span"
+title: "The Span"
 declared: "die dreißig Jahre"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "enforcer"
+title: "The Enforcer"
 declared: "der Vollstrecker"
 license: CC-BY-NC-SA-4.0
 stamp:

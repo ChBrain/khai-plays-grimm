@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "hans_married"
+title: "Hans Married"
 declared: "die Heirat"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "hiding"
+title: "The Hiding"
 declared: "die Verstecke"
 license: CC-BY-NC-SA-4.0
 stamp:

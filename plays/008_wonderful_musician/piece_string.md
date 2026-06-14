@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "string"
+title: "The String"
 declared: "Strick"
 license: CC-BY-NC-SA-4.0
 stamp:

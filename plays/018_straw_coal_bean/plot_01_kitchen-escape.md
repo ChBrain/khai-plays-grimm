@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_kitchen-escape"
+title: "Kitchen Escape"
 declared: "Das Entkommen aus der Küche"
 license: CC-BY-NC-SA-4.0
 stamp:

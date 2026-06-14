@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "hares_bride"
+title: "Hares Bride"
 declared: "die Heimkehr"
 license: CC-BY-NC-SA-4.0
 stamp:

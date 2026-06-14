@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_transit"
+title: "Transit"
 declared: "Der Übergang des Hirten"
 license: CC-BY-NC-SA-4.0
 stamp:

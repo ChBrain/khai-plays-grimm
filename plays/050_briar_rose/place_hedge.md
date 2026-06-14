@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "hedge"
+title: "The Hedge"
 declared: "Dornenhecke"
 license: CC-BY-NC-SA-4.0
 stamp:

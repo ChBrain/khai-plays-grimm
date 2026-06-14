@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "lake_palace"
+title: "The Lake Palace"
 declared: "das Seeschloss"
 license: CC-BY-NC-SA-4.0
 stamp:

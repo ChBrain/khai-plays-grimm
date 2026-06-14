@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "gift_of_healing"
+title: "Gift of Healing"
 declared: "Die Gabe des Heilens"
 license: CC-BY-NC-SA-4.0
 stamp:

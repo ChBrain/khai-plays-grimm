@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "gold"
+title: "The Gold"
 declared: "das geteilte Gold"
 license: CC-BY-NC-SA-4.0
 stamp:

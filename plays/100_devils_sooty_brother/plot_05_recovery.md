@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "recovery"
+title: "Recovery"
 declared: "Die Rückkehr und der Schreck"
 license: CC-BY-NC-SA-4.0
 stamp:

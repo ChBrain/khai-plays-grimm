@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "lousing"
+title: "Lousing"
 declared: "Prüfung"
 license: CC-BY-NC-SA-4.0
 stamp:

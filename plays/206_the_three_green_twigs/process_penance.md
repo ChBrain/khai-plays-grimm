@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "penance"
+title: "Penance"
 declared: "die wandernde Buße"
 license: CC-BY-NC-SA-4.0
 stamp:

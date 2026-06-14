@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "coffin"
+title: "The Coffin"
 declared: "der gläserne Sarg"
 license: CC-BY-NC-SA-4.0
 stamp:

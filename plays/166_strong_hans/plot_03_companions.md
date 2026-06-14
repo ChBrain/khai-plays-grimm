@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "companions"
+title: "Companions"
 declared: "Die Gefährten"
 license: CC-BY-NC-SA-4.0
 stamp:

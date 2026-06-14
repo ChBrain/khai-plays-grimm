@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "bottle"
+title: "The Bottle"
 declared: "die Glasflasche"
 license: CC-BY-NC-SA-4.0
 stamp:

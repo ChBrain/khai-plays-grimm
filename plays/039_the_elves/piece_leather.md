@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "leather"
+title: "The Leather"
 declared: "Leder"
 license: CC-BY-NC-SA-4.0
 stamp:

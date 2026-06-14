@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "jockli"
+title: "Jockli"
 declared: "Jockli"
 license: CC-BY-NC-SA-4.0
 stamp:

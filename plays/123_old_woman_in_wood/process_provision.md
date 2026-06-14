@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "provision"
+title: "Provision"
 declared: "die Versorgung"
 license: CC-BY-NC-SA-4.0
 stamp:

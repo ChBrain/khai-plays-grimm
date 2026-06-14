@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "cuckold"
+title: "The Cuckold"
 declared: "Müller"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "pipe-and-tobacco"
+title: "The Pipe and Tobacco"
 declared: "Pfeife und Tabak"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "fox_house"
+title: "The Fox House"
 declared: "Fuchshaus"
 license: CC-BY-NC-SA-4.0
 stamp:

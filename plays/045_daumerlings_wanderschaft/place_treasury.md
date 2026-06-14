@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "treasury"
+title: "The Treasury"
 declared: "Schatzkammer"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "appeal"
+title: "Appeal"
 declared: "der Anruf"
 license: CC-BY-NC-SA-4.0
 stamp:

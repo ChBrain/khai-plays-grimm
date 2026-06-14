@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "marsh-and-river"
+title: "The Marsh and River"
 declared: "Sumpf und Fluß"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "journey_to_rome"
+title: "Journey to Rome"
 declared: "Die Reise nach Rom"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "groschen"
+title: "The Groschen"
 declared: "die drei Groschen"
 license: CC-BY-NC-SA-4.0
 stamp:

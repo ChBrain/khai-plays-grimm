@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "pig"
+title: "Pig"
 declared: "Das Schwein"
 license: CC-BY-NC-SA-4.0
 stamp:

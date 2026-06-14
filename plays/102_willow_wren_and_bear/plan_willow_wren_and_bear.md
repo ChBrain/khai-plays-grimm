@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "willow_wren_and_bear"
+title: "Willow Wren and Bear"
 declared: "der Hungerstreik"
 license: CC-BY-NC-SA-4.0
 stamp:

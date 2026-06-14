@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "hans-dumm"
+title: "Hans Dumm"
 declared: "Hans Dumm"
 license: CC-BY-NC-SA-4.0
 stamp:

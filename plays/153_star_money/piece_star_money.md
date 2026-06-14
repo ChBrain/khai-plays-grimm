@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "star_money"
+title: "The Star Money"
 declared: "das Sternengeld"
 license: CC-BY-NC-SA-4.0
 stamp:

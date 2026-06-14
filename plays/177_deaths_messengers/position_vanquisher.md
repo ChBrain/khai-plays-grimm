@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "vanquisher"
+title: "The Vanquisher"
 declared: "der Bezwinger"
 license: CC-BY-NC-SA-4.0
 stamp:

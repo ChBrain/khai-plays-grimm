@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "spruchwirkung"
+title: "Spruchwirkung"
 declared: "die Spruchwirkung"
 license: CC-BY-NC-SA-4.0
 stamp:

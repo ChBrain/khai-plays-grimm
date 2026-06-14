@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "heaven_gate"
+title: "The Heaven Gate"
 declared: "Himmelstor"
 license: CC-BY-NC-SA-4.0
 stamp:

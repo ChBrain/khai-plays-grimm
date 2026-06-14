@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "forest_test"
+title: "Forest Test"
 declared: "Die Teilung im Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

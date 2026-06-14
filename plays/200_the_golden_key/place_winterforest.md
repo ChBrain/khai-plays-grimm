@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "winterforest"
+title: "The Winterforest"
 declared: "der verschneite Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

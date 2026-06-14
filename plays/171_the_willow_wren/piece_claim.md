@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "claim"
+title: "The Claim"
 declared: "der Königsruf"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "lehre"
+title: "Lehre"
 declared: "die Lehre der Königstochter"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "soup"
+title: "The Soup"
 declared: "die geteilte Wurzelsuppe"
 license: CC-BY-NC-SA-4.0
 stamp:

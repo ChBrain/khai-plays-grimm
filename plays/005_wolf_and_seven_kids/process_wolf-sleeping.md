@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "wolf-sleeping"
+title: "Wolf Sleeping"
 declared: "Wolfschlummer"
 license: CC-BY-NC-SA-4.0
 stamp:

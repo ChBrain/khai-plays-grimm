@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "fencer"
+title: "The Fencer"
 declared: "der Fechtmeister"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "dying_king"
+title: "Dying King"
 declared: "Der sterbende König"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "ingrate"
+title: "The Ingrate"
 declared: "der Undankbare"
 license: CC-BY-NC-SA-4.0
 stamp:

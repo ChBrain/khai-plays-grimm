@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "stake"
+title: "The Stake"
 declared: "der Wetteinsatz"
 license: CC-BY-NC-SA-4.0
 stamp:

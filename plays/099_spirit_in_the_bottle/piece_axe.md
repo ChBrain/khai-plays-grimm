@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "axe"
+title: "The Axe"
 declared: "die silberne Axt"
 license: CC-BY-NC-SA-4.0
 stamp:

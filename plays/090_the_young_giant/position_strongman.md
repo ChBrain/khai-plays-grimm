@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "strongman"
+title: "The Strongman"
 declared: "der Starke"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "reconciliation"
+title: "Reconciliation"
 declared: "die Lektion mit dem Salz"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "harvest"
+title: "Harvest"
 declared: "die Ernte"
 license: CC-BY-NC-SA-4.0
 stamp:

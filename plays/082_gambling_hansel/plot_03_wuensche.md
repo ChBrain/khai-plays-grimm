@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "wuensche"
+title: "Wuensche"
 declared: "Die drei Wünsche"
 license: CC-BY-NC-SA-4.0
 stamp:

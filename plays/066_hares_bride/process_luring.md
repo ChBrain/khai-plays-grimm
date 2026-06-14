@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "luring"
+title: "Luring"
 declared: "Das Locken"
 license: CC-BY-NC-SA-4.0
 stamp:

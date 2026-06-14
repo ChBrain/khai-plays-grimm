@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "rivals"
+title: "The Rivals"
 declared: "geizige Brüder"
 license: CC-BY-NC-SA-4.0
 stamp:

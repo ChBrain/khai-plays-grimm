@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "guide"
+title: "The Guide"
 declared: "Wegführer des Todes"
 license: CC-BY-NC-SA-4.0
 stamp:

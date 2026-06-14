@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "worldly"
+title: "The Worldly"
 declared: "der Weltkluge"
 license: CC-BY-NC-SA-4.0
 stamp:

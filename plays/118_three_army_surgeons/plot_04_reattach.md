@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "reattach"
+title: "Reattach"
 declared: "Das morgendliche Anheilen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_mothers-warning"
+title: "Mothers Warning"
 declared: "Die Warnung der Mutter"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "eagle"
+title: "Eagle"
 declared: "Der Adler in der Heide"
 license: CC-BY-NC-SA-4.0
 stamp:

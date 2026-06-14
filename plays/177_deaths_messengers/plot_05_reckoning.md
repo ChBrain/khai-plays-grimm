@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "reckoning"
+title: "Reckoning"
 declared: "Die Enthüllung der Boten"
 license: CC-BY-NC-SA-4.0
 stamp:

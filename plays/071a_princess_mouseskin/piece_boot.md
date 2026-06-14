@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "boot"
+title: "The Boot"
 declared: "der Stiefel"
 license: CC-BY-NC-SA-4.0
 stamp:

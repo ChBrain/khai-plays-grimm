@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "keyhole"
+title: "The Keyhole"
 declared: "das winzige Schlüsselloch"
 license: CC-BY-NC-SA-4.0
 stamp:

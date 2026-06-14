@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "first_bargain"
+title: "First Bargain"
 declared: "Der erste Handel"
 license: CC-BY-NC-SA-4.0
 stamp:

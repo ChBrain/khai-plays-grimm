@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "sack"
+title: "Sack"
 declared: "Der Sack zum Himmel"
 license: CC-BY-NC-SA-4.0
 stamp:

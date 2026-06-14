@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "rhine"
+title: "The Rhine"
 declared: "der Rhein"
 license: CC-BY-NC-SA-4.0
 stamp:

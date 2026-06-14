@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "homestead"
+title: "The Homestead"
 declared: "das Vaterhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

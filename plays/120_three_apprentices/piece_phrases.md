@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "phrases"
+title: "The Phrases"
 declared: "die drei Sätze"
 license: CC-BY-NC-SA-4.0
 stamp:

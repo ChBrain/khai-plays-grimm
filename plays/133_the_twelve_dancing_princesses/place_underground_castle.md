@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "underground_castle"
+title: "The Underground Castle"
 declared: "unterirdische Schloss"
 license: CC-BY-NC-SA-4.0
 stamp:

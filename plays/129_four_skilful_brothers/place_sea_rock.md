@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "sea_rock"
+title: "The Sea Rock"
 declared: "der Drachenfelsen"
 license: CC-BY-NC-SA-4.0
 stamp:

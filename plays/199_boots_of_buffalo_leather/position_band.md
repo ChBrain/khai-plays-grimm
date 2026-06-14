@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "band"
+title: "The Band"
 declared: "die Bande"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "elf"
+title: "The Elf"
 declared: "Elfe"
 license: CC-BY-NC-SA-4.0
 stamp:

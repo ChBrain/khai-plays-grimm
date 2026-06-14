@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "millpond"
+title: "The Millpond"
 declared: "die Mühle am Teich"
 license: CC-BY-NC-SA-4.0
 stamp:

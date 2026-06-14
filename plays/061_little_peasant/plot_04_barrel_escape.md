@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "barrel_escape"
+title: "Barrel Escape"
 declared: "Der Fasstausch"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "honeyjar"
+title: "The Honeyjar"
 declared: "der Honigtopf"
 license: CC-BY-NC-SA-4.0
 stamp:

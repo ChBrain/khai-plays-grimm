@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "lye"
+title: "The Lye"
 declared: "die Lauge"
 license: CC-BY-NC-SA-4.0
 stamp:

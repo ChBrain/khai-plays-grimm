@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "liberation"
+title: "Liberation"
 declared: "Die Befreiung am Roten Meer"
 license: CC-BY-NC-SA-4.0
 stamp:

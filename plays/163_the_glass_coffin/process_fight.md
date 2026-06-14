@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "fight"
+title: "Fight"
 declared: "der Kampf"
 license: CC-BY-NC-SA-4.0
 stamp:

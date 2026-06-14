@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "crabs"
+title: "The Crabs"
 declared: "die Lichterkrebse"
 license: CC-BY-NC-SA-4.0
 stamp:

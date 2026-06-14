@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "giants"
+title: "Giants"
 declared: "Der Streit der Riesen um den Wunschhut"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "cannibal"
+title: "The Cannibal"
 declared: "die Menschenfresser"
 license: CC-BY-NC-SA-4.0
 stamp:

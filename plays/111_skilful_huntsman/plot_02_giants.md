@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "giants"
+title: "Giants"
 declared: "Das Wettschießen mit den Riesen"
 license: CC-BY-NC-SA-4.0
 stamp:

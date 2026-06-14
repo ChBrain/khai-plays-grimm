@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "bailiff"
+title: "The Bailiff"
 declared: "der Amtmann"
 license: CC-BY-NC-SA-4.0
 stamp:

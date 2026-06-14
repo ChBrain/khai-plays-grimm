@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "sisters"
+title: "Sisters"
 declared: "Die ungütigen Schwestern"
 license: CC-BY-NC-SA-4.0
 stamp:

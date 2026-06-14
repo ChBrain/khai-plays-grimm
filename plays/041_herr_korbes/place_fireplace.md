@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "fireplace"
+title: "The Fireplace"
 declared: "Herd"
 license: CC-BY-NC-SA-4.0
 stamp:

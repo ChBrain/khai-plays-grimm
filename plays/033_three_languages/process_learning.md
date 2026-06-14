@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "learning"
+title: "Learning"
 declared: "Lehrzeit"
 license: CC-BY-NC-SA-4.0
 stamp:

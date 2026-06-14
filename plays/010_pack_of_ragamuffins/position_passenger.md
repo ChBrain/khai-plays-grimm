@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "passenger"
+title: "The Passenger"
 declared: "Mitfahrer"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "glass_tools"
+title: "The Glass Tools"
 declared: "das gläserne Werkzeug"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "abductor"
+title: "The Abductor"
 declared: "Entführer"
 license: CC-BY-NC-SA-4.0
 stamp:

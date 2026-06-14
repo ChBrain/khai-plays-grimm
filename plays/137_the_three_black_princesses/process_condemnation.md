@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "condemnation"
+title: "Condemnation"
 declared: "Untergang"
 license: CC-BY-NC-SA-4.0
 stamp:

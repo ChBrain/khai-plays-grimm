@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "usurper"
+title: "The Usurper"
 declared: "böse Stiefmutter"
 license: CC-BY-NC-SA-4.0
 stamp:

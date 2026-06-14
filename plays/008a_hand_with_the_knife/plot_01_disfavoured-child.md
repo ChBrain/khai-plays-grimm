@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_disfavoured-child"
+title: "Disfavoured Child"
 declared: "Das zurückgesetzte Kind"
 license: CC-BY-NC-SA-4.0
 stamp:

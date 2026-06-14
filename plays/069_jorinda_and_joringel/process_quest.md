@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "quest"
+title: "Quest"
 declared: "Suche"
 license: CC-BY-NC-SA-4.0
 stamp:

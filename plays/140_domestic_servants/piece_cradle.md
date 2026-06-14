@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "cradle"
+title: "The Cradle"
 declared: "die Wiege Hippodadle"
 license: CC-BY-NC-SA-4.0
 stamp:

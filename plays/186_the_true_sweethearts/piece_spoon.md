@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "spoon"
+title: "The Spoon"
 declared: "der durchlöcherte Löffel"
 license: CC-BY-NC-SA-4.0
 stamp:

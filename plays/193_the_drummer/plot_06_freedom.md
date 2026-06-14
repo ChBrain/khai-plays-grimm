@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "freedom"
+title: "Freedom"
 declared: "Die Befreiung und der Kuss des Vergessens"
 license: CC-BY-NC-SA-4.0
 stamp:

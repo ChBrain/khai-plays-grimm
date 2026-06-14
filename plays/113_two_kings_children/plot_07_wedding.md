@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "wedding"
+title: "Wedding"
 declared: "Die Vermählung in der Kirche"
 license: CC-BY-NC-SA-4.0
 stamp:

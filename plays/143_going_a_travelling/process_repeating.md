@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "repeating"
+title: "Repeating"
 declared: "das Wiederholen"
 license: CC-BY-NC-SA-4.0
 stamp:

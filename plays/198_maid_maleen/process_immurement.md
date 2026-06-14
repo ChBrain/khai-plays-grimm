@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "immurement"
+title: "Immurement"
 declared: "die Einmauerung"
 license: CC-BY-NC-SA-4.0
 stamp:

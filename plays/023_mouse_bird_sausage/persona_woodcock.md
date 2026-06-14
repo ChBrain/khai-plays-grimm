@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "woodcock"
+title: "The Woodcock"
 declared: "Waldvogel"
 license: CC-BY-NC-SA-4.0
 stamp:

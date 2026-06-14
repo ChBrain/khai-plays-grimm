@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "robbers-hut"
+title: "The Robbers Hut"
 declared: "Räuberhütte"
 license: CC-BY-NC-SA-4.0
 stamp:

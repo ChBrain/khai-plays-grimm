@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "servant"
+title: "The Servant"
 declared: "Dienstkraft"
 license: CC-BY-NC-SA-4.0
 stamp:

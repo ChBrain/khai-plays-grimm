@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "coal-fire"
+title: "The Coal Fire"
 declared: "Kohlefeuer"
 license: CC-BY-NC-SA-4.0
 stamp:

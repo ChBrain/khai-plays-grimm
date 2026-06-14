@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "lentils"
+title: "The Lentils"
 declared: "Linsenschüssel"
 license: CC-BY-NC-SA-4.0
 stamp:

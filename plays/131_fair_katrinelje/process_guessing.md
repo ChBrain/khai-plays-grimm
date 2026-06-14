@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "guessing"
+title: "Guessing"
 declared: "Berufsraten"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "nuts"
+title: "The Nuts"
 declared: "die Nüsse"
 license: CC-BY-NC-SA-4.0
 stamp:

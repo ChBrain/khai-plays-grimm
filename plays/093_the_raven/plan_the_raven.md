@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_raven"
+title: "The Raven"
 declared: "die Erlösung"
 license: CC-BY-NC-SA-4.0
 stamp:

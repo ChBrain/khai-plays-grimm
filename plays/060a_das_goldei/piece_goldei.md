@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "goldei"
+title: "Goldei"
 declared: "Goldei"
 license: CC-BY-NC-SA-4.0
 stamp:

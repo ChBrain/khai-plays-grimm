@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "visitation"
+title: "Visitation"
 declared: "Heimkehr"
 license: CC-BY-NC-SA-4.0
 stamp:

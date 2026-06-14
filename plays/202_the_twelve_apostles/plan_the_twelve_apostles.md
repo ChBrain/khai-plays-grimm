@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_twelve_apostles"
+title: "The Twelve Apostles"
 declared: "die Erfüllung der Verheißung"
 license: CC-BY-NC-SA-4.0
 stamp:

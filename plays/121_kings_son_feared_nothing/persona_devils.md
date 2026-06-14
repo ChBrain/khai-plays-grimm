@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "devils"
+title: "The Devils"
 declared: "die Teufelchen"
 license: CC-BY-NC-SA-4.0
 stamp:

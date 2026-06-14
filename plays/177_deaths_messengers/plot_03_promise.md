@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "promise"
+title: "Promise"
 declared: "Das Versprechen der Boten"
 license: CC-BY-NC-SA-4.0
 stamp:

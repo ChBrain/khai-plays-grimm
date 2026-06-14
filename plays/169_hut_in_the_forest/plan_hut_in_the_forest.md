@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "hut_in_the_forest"
+title: "Hut in the Forest"
 declared: "die Erlösung"
 license: CC-BY-NC-SA-4.0
 stamp:

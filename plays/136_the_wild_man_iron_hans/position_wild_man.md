@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "wild_man"
+title: "Wild Man"
 declared: "wilde Mann"
 license: CC-BY-NC-SA-4.0
 stamp:

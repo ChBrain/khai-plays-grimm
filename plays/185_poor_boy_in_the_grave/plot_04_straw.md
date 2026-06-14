@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "straw"
+title: "Straw"
 declared: "Das gehackte Röckchen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "thimble"
+title: "The Thimble"
 declared: "der Fingerhut"
 license: CC-BY-NC-SA-4.0
 stamp:

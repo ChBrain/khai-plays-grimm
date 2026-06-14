@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "club"
+title: "The Club"
 declared: "die Keule"
 license: CC-BY-NC-SA-4.0
 stamp:

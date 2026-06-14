@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "water"
+title: "The Water"
 declared: "das Wasser"
 license: CC-BY-NC-SA-4.0
 stamp:

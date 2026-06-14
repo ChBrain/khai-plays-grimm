@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "content"
+title: "The Content"
 declared: "der Zufriedene"
 license: CC-BY-NC-SA-4.0
 stamp:

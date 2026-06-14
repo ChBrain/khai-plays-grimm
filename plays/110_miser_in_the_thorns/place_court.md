@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "court"
+title: "The Court"
 declared: "das Stadtgericht"
 license: CC-BY-NC-SA-4.0
 stamp:

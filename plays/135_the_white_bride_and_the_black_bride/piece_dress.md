@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "dress"
+title: "The Dress"
 declared: "güldene Kleid"
 license: CC-BY-NC-SA-4.0
 stamp:

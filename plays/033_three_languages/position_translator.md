@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "translator"
+title: "The Translator"
 declared: "Dolmetscher"
 license: CC-BY-NC-SA-4.0
 stamp:

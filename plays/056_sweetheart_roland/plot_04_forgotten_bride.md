@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "forgotten_bride"
+title: "Forgotten Bride"
 declared: "Die vergessene Braut"
 license: CC-BY-NC-SA-4.0
 stamp:

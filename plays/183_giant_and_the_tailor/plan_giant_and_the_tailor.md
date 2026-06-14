@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "giant_and_the_tailor"
+title: "Giant and the Tailor"
 declared: "die Loswerdung"
 license: CC-BY-NC-SA-4.0
 stamp:

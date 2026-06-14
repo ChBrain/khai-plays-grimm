@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "lily"
+title: "The Lily"
 declared: "die Lilie"
 license: CC-BY-NC-SA-4.0
 stamp:

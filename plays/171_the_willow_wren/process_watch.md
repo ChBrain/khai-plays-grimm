@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "watch"
+title: "Watch"
 declared: "die Bewachung"
 license: CC-BY-NC-SA-4.0
 stamp:

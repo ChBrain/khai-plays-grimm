@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "nose"
+title: "The Nose"
 declared: "die zweite Nase"
 license: CC-BY-NC-SA-4.0
 stamp:

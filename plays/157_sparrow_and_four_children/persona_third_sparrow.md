@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "third_sparrow"
+title: "The Third Sparrow"
 declared: "der dritte Sperling"
 license: CC-BY-NC-SA-4.0
 stamp:

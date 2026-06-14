@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "calf_in_flight"
+title: "Calf in Flight"
 declared: "Das flüchtige Kalb"
 license: CC-BY-NC-SA-4.0
 stamp:

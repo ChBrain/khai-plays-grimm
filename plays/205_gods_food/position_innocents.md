@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "innocents"
+title: "The Innocents"
 declared: "die Unschuldigen"
 license: CC-BY-NC-SA-4.0
 stamp:

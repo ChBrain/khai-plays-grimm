@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "secret-help"
+title: "Secret Help"
 declared: "heimliche Hilfe"
 license: CC-BY-NC-SA-4.0
 stamp:

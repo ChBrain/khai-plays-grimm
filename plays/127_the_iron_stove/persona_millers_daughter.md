@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "millers_daughter"
+title: "The Millers Daughter"
 declared: "die Müllerstochter"
 license: CC-BY-NC-SA-4.0
 stamp:

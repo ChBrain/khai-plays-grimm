@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "okerlo_wife"
+title: "The Okerlo Wife"
 declared: "Menschenfresserin"
 license: CC-BY-NC-SA-4.0
 stamp:

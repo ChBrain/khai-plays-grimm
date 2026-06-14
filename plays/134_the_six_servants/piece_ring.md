@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "ring"
+title: "The Ring"
 declared: "gesunkene Ring"
 license: CC-BY-NC-SA-4.0
 stamp:

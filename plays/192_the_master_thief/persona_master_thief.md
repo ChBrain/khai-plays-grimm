@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "master_thief"
+title: "The Master Thief"
 declared: "der Meisterdieb"
 license: CC-BY-NC-SA-4.0
 stamp:

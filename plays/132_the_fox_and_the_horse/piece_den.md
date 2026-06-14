@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "den"
+title: "The Den"
 declared: "Löwenhöhle"
 license: CC-BY-NC-SA-4.0
 stamp:

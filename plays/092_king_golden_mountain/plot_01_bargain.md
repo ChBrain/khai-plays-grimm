@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "bargain"
+title: "Bargain"
 declared: "Der Handel des Kaufmanns"
 license: CC-BY-NC-SA-4.0
 stamp:

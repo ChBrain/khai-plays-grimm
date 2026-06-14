@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "confidante"
+title: "The Confidante"
 declared: "die Vertraute"
 license: CC-BY-NC-SA-4.0
 stamp:

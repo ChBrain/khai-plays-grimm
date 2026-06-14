@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "creator"
+title: "The Creator"
 declared: "der Schöpfer"
 license: CC-BY-NC-SA-4.0
 stamp:

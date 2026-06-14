@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "ring_jump"
+title: "Ring Jump"
 declared: "Die Entscheidung"
 license: CC-BY-NC-SA-4.0
 stamp:

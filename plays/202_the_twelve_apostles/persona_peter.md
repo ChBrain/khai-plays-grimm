@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "peter"
+title: "The Peter"
 declared: "Petrus der Älteste"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the fox and his cousin"
+title: "The Fox and His Cousin"
 declared: "die Ausbeutung"
 license: CC-BY-NC-SA-4.0
 stamp:

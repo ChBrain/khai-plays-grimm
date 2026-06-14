@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "seeker"
+title: "The Seeker"
 declared: "Brautsuchender"
 license: CC-BY-NC-SA-4.0
 stamp:

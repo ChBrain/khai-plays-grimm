@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "sister_rescue"
+title: "Sister Rescue"
 declared: "Die Rettung"
 license: CC-BY-NC-SA-4.0
 stamp:

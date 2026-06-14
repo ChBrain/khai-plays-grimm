@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "bands-breaking"
+title: "Bands Breaking"
 declared: "Bande-Sprengen"
 license: CC-BY-NC-SA-4.0
 stamp:

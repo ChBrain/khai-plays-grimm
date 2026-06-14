@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "animals"
+title: "The Animals"
 declared: "Hunde und Katzen"
 license: CC-BY-NC-SA-4.0
 stamp:

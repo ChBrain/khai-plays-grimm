@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "dwarfs_sanctuary"
+title: "Dwarfs Sanctuary"
 declared: "Die Zuflucht"
 license: CC-BY-NC-SA-4.0
 stamp:

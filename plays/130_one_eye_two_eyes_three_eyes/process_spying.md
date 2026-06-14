@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "spying"
+title: "Spying"
 declared: "Ausspionieren"
 license: CC-BY-NC-SA-4.0
 stamp:

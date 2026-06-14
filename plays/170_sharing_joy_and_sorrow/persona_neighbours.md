@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "neighbours"
+title: "The Neighbours"
 declared: "die Nachbarn"
 license: CC-BY-NC-SA-4.0
 stamp:

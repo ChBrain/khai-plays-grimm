@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_ship-murder"
+title: "Ship Murder"
 declared: "Der Verrat auf See"
 license: CC-BY-NC-SA-4.0
 stamp:

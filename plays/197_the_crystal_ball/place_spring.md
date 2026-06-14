@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "spring"
+title: "The Spring"
 declared: "die Bergquelle"
 license: CC-BY-NC-SA-4.0
 stamp:

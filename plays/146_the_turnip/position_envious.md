@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "envious"
+title: "The Envious"
 declared: "der Neider"
 license: CC-BY-NC-SA-4.0
 stamp:

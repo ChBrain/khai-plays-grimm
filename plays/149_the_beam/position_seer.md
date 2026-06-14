@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "seer"
+title: "The Seer"
 declared: "die Hellsichtige"
 license: CC-BY-NC-SA-4.0
 stamp:

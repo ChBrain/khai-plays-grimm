@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "witch_house"
+title: "The Witch House"
 declared: "Hexenhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

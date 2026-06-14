@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "erloesung"
+title: "Erloesung"
 declared: "Die Erlösung und das Gericht"
 license: CC-BY-NC-SA-4.0
 stamp:

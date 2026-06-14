@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_silent-marriage"
+title: "Silent Marriage"
 declared: "Das stumme Bündnis"
 license: CC-BY-NC-SA-4.0
 stamp:

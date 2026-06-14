@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "ferdinand_getreu"
+title: "Ferdinand Getreu"
 declared: "Ferdinand der Getreue"
 license: CC-BY-NC-SA-4.0
 stamp:

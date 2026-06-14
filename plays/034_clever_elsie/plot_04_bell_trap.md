@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "bell_trap"
+title: "Bell Trap"
 declared: "Die Glockenfalle"
 license: CC-BY-NC-SA-4.0
 stamp:

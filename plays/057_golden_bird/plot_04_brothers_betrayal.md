@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "brothers_betrayal"
+title: "Brothers Betrayal"
 declared: "Der Brunnenschlag"
 license: CC-BY-NC-SA-4.0
 stamp:

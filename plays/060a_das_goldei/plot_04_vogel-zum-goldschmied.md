@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_vogel-zum-goldschmied"
+title: "Vogel Zum Goldschmied"
 declared: "Der Vogel verlangt zum Goldschmied"
 license: CC-BY-NC-SA-4.0
 stamp:

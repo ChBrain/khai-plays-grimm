@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "smock"
+title: "The Smock"
 declared: "Fischerkittel"
 license: CC-BY-NC-SA-4.0
 stamp:

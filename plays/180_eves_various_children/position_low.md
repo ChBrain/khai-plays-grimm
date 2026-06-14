@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "low"
+title: "The Low"
 declared: "die niederen Stände"
 license: CC-BY-NC-SA-4.0
 stamp:

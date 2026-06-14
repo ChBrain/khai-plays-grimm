@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "bread_bacon"
+title: "The Bread Bacon"
 declared: "Brot und Speck"
 license: CC-BY-NC-SA-4.0
 stamp:

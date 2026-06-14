@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "rescue"
+title: "Rescue"
 declared: "Die Erlösung der Vögel"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "conscience"
+title: "Conscience"
 declared: "Das erwachte Gewissen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "06_betrayal"
+title: "Betrayal"
 declared: "Das kochende Wasser"
 license: CC-BY-NC-SA-4.0
 stamp:

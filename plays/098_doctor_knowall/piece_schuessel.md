@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "schuessel"
+title: "The Schuessel"
 declared: "die verdeckte Schüssel"
 license: CC-BY-NC-SA-4.0
 stamp:

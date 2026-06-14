@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "block_wood"
+title: "The Block Wood"
 declared: "Holzklotz"
 license: CC-BY-NC-SA-4.0
 stamp:

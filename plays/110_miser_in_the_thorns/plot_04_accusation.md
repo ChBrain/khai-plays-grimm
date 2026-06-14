@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "accusation"
+title: "Accusation"
 declared: "Die falsche Anklage"
 license: CC-BY-NC-SA-4.0
 stamp:

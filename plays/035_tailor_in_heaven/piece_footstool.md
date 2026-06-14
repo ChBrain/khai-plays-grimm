@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "footstool"
+title: "The Footstool"
 declared: "Schemel"
 license: CC-BY-NC-SA-4.0
 stamp:

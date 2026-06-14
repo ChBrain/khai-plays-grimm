@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "red_flower"
+title: "The Red Flower"
 declared: "Rote Blume"
 license: CC-BY-NC-SA-4.0
 stamp:

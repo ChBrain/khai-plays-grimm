@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_rescue-retribution"
+title: "Rescue Retribution"
 declared: "Die Befreiung"
 license: CC-BY-NC-SA-4.0
 stamp:

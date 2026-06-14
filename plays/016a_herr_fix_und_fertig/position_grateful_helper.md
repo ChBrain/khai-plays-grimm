@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "grateful-helper"
+title: "The Grateful Helper"
 declared: "der dankbare Helfer"
 license: CC-BY-NC-SA-4.0
 stamp:

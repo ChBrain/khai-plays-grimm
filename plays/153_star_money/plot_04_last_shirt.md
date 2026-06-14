@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "last_shirt"
+title: "Last Shirt"
 declared: "Das letzte Hemd im Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

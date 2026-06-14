@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "stern"
+title: "The Stern"
 declared: "der rote Stern"
 license: CC-BY-NC-SA-4.0
 stamp:

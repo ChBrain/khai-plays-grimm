@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "sea_drainage"
+title: "Sea Drainage"
 declared: "Meerestrocknung"
 license: CC-BY-NC-SA-4.0
 stamp:

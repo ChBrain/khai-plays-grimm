@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "leaves"
+title: "The Leaves"
 declared: "das Eichenlaub"
 license: CC-BY-NC-SA-4.0
 stamp:

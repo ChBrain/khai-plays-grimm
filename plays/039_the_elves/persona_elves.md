@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "elves"
+title: "The Elves"
 declared: "Wichtelmänner"
 license: CC-BY-NC-SA-4.0
 stamp:

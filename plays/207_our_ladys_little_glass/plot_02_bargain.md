@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "bargain"
+title: "Bargain"
 declared: "Der Handel und das Glasblümchen"
 license: CC-BY-NC-SA-4.0
 stamp:

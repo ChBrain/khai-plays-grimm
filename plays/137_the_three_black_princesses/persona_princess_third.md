@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "princess_third"
+title: "The Princess Third"
 declared: "dritte schwarze Prinzessin"
 license: CC-BY-NC-SA-4.0
 stamp:

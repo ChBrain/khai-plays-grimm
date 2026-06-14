@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "rich_man"
+title: "The Rich Man"
 declared: "der Reiche"
 license: CC-BY-NC-SA-4.0
 stamp:

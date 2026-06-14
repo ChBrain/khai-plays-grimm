@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "06_liberation"
+title: "Liberation"
 declared: "Die Befreiung der Mutter"
 license: CC-BY-NC-SA-4.0
 stamp:

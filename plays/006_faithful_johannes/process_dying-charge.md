@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "dying-charge"
+title: "Dying Charge"
 declared: "Sterbevermächtnis"
 license: CC-BY-NC-SA-4.0
 stamp:

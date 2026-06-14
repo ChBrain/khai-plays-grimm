@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "rake"
+title: "The Rake"
 declared: "der Rechen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "wooing-service"
+title: "Wooing Service"
 declared: "der Werbungsdienst des Fix und Fertig"
 license: CC-BY-NC-SA-4.0
 stamp:

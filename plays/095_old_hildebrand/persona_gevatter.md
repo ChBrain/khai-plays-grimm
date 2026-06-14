@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "gevatter"
+title: "The Gevatter"
 declared: "der Gevatter"
 license: CC-BY-NC-SA-4.0
 stamp:

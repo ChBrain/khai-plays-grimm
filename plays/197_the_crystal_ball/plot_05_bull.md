@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "bull"
+title: "Bull"
 declared: "Der Kampf mit dem Stier und das fallende Ei"
 license: CC-BY-NC-SA-4.0
 stamp:

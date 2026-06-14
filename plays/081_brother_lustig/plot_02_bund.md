@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "bund"
+title: "Bund"
 declared: "Der Bund der Heiler"
 license: CC-BY-NC-SA-4.0
 stamp:

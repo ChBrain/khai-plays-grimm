@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "lazy_harry"
+title: "Lazy Harry"
 declared: "der Faulheitsplan"
 license: CC-BY-NC-SA-4.0
 stamp:

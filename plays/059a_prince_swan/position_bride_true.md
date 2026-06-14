@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "bride_true"
+title: "The Bride True"
 declared: "rechte Braut"
 license: CC-BY-NC-SA-4.0
 stamp:

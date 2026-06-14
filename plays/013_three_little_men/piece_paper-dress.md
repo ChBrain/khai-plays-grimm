@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "paper-dress"
+title: "The Paper Dress"
 declared: "Papierkleid"
 license: CC-BY-NC-SA-4.0
 stamp:

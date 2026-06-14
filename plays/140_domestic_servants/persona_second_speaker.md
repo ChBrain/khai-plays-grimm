@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "second_speaker"
+title: "The Second Speaker"
 declared: "die zweite Sprecherin"
 license: CC-BY-NC-SA-4.0
 stamp:

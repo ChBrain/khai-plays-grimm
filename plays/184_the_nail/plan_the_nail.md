@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_nail"
+title: "The Nail"
 declared: "die Heimkehr"
 license: CC-BY-NC-SA-4.0
 stamp:

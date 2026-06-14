@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "love_test"
+title: "Love Test"
 declared: "Liebesprüfung"
 license: CC-BY-NC-SA-4.0
 stamp:

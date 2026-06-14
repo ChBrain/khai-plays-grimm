@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "lazy_sister"
+title: "The Lazy Sister"
 declared: "Faule Schwester"
 license: CC-BY-NC-SA-4.0
 stamp:

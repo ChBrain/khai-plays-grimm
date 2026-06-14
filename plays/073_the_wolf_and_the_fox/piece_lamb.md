@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "lamb"
+title: "The Lamb"
 declared: "das Lamm"
 license: CC-BY-NC-SA-4.0
 stamp:

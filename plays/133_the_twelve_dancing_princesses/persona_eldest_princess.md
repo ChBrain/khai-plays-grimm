@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "eldest_princess"
+title: "The Eldest Princess"
 declared: "älteste Königstochter"
 license: CC-BY-NC-SA-4.0
 stamp:

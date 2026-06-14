@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "vigil"
+title: "Vigil"
 declared: "Der Beginn der Wache"
 license: CC-BY-NC-SA-4.0
 stamp:

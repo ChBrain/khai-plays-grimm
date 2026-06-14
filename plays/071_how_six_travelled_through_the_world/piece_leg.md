@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "leg"
+title: "The Leg"
 declared: "das Schnallenbein"
 license: CC-BY-NC-SA-4.0
 stamp:

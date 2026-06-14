@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "pit"
+title: "The Pit"
 declared: "die Felsenhöhle"
 license: CC-BY-NC-SA-4.0
 stamp:

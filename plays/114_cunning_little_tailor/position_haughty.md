@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "haughty"
+title: "The Haughty"
 declared: "die Hochmütige"
 license: CC-BY-NC-SA-4.0
 stamp:

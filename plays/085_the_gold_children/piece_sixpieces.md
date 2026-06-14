@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "sixpieces"
+title: "The Sixpieces"
 declared: "der Goldfisch-Schnitt"
 license: CC-BY-NC-SA-4.0
 stamp:

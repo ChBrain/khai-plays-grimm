@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "pear"
+title: "The Pear"
 declared: "das Birnli"
 license: CC-BY-NC-SA-4.0
 stamp:

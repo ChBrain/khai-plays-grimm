@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "outcast"
+title: "The Outcast"
 declared: "der Verstoßene"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "severed-arm"
+title: "The Severed Arm"
 declared: "abgeschlagener Arm"
 license: CC-BY-NC-SA-4.0
 stamp:

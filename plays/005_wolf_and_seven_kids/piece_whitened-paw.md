@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "whitened-paw"
+title: "The Whitened Paw"
 declared: "weißbemehlte Pfote"
 license: CC-BY-NC-SA-4.0
 stamp:

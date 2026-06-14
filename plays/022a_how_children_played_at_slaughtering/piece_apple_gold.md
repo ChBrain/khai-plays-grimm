@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "apple_gold"
+title: "The Apple Gold"
 declared: "Apfel und Gulden"
 license: CC-BY-NC-SA-4.0
 stamp:

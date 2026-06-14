@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "hero"
+title: "The Hero"
 declared: "der starke Held"
 license: CC-BY-NC-SA-4.0
 stamp:

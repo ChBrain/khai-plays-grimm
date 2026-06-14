@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "faulting"
+title: "Faulting"
 declared: "das Tadeln"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "herrschaftliche"
+title: "Herrschaftliche"
 declared: "der Herrschaftliche"
 license: CC-BY-NC-SA-4.0
 stamp:

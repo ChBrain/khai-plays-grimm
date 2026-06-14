@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "justice"
+title: "Justice"
 declared: "Königliche Gerechtigkeit"
 license: CC-BY-NC-SA-4.0
 stamp:

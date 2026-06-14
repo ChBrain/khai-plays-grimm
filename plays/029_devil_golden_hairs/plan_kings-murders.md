@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "kings-murders"
+title: "Kings Murders"
 declared: "die Anschläge des Königs"
 license: CC-BY-NC-SA-4.0
 stamp:

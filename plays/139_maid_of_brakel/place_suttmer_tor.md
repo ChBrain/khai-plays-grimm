@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "suttmer_tor"
+title: "Suttmer Tor"
 declared: "das Suttmer Tor"
 license: CC-BY-NC-SA-4.0
 stamp:

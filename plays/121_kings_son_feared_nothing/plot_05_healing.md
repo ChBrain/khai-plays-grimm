@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "healing"
+title: "Healing"
 declared: "Die Heilung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "forest_tree"
+title: "The Forest Tree"
 declared: "Waldbaum"
 license: CC-BY-NC-SA-4.0
 stamp:

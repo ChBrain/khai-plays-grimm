@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "beggar_marriage"
+title: "Beggar Marriage"
 declared: "Die Bettlerhochzeit"
 license: CC-BY-NC-SA-4.0
 stamp:

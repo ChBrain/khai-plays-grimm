@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "rat"
+title: "Rat"
 declared: "Der Rat am Wasser"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "scraps"
+title: "The Scraps"
 declared: "die Schlickerlinge"
 license: CC-BY-NC-SA-4.0
 stamp:

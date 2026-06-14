@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "alliance"
+title: "Alliance"
 declared: "Hausgemeinschaft"
 license: CC-BY-NC-SA-4.0
 stamp:

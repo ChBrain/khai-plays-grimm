@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "sorcerer"
+title: "The Sorcerer"
 declared: "Zauberer"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "second_chase"
+title: "Second Chase"
 declared: "Die Kirche"
 license: CC-BY-NC-SA-4.0
 stamp:

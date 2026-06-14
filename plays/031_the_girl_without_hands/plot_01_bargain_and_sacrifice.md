@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "bargain_and_sacrifice"
+title: "Bargain and Sacrifice"
 declared: "Der Teufelspakt"
 license: CC-BY-NC-SA-4.0
 stamp:

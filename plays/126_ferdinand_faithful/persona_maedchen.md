@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "maedchen"
+title: "The Maedchen"
 declared: "das Mädchen"
 license: CC-BY-NC-SA-4.0
 stamp:

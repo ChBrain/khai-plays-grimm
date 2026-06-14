@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "crowning_sloth"
+title: "Crowning Sloth"
 declared: "Die Krönung der Faulheit"
 license: CC-BY-NC-SA-4.0
 stamp:

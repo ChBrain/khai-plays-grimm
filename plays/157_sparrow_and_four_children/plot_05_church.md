@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "church"
+title: "Church"
 declared: "Der Sohn bei der Kirche"
 license: CC-BY-NC-SA-4.0
 stamp:

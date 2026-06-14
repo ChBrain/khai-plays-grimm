@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "list"
+title: "List"
 declared: "Die Verabredung der List"
 license: CC-BY-NC-SA-4.0
 stamp:

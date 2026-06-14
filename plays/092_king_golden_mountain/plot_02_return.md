@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "return"
+title: "Return"
 declared: "Die Wiederkehr des Sohnes"
 license: CC-BY-NC-SA-4.0
 stamp:

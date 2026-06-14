@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "sale"
+title: "Sale"
 declared: "Der Handel mit den Ochsen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_enforcement"
+title: "Enforcement"
 declared: "Der Metzger und der Schinder"
 license: CC-BY-NC-SA-4.0
 stamp:

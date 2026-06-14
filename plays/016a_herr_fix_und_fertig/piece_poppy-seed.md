@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "poppy-seed"
+title: "The Poppy Seed"
 declared: "Mohnsamen"
 license: CC-BY-NC-SA-4.0
 stamp:

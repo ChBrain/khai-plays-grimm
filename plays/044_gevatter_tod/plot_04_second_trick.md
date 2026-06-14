@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "second_trick"
+title: "Second Trick"
 declared: "Die zweite List"
 license: CC-BY-NC-SA-4.0
 stamp:

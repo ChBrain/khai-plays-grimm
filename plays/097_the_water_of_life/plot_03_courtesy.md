@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "courtesy"
+title: "Courtesy"
 declared: "Die Höflichkeit des Jüngsten"
 license: CC-BY-NC-SA-4.0
 stamp:

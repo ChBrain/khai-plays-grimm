@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "ring_finger"
+title: "The Ring Finger"
 declared: "Finger mit Ring"
 license: CC-BY-NC-SA-4.0
 stamp:

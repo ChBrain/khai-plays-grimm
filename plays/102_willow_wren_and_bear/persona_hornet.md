@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "hornet"
+title: "The Hornet"
 declared: "die Hornisse"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_rejection"
+title: "Rejection"
 declared: "Die Antwort der Hausgenossen"
 license: CC-BY-NC-SA-4.0
 stamp:

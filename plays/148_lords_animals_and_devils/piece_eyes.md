@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "eyes"
+title: "The Eyes"
 declared: "die Teufelsaugen"
 license: CC-BY-NC-SA-4.0
 stamp:

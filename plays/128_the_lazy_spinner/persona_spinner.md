@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "spinner"
+title: "The Spinner"
 declared: "die faule Spinnerin"
 license: CC-BY-NC-SA-4.0
 stamp:

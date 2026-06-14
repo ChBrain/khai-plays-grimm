@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "feeding"
+title: "Feeding"
 declared: "Die Speisung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "wishing"
+title: "The Wishing"
 declared: "die Wunschkraft"
 license: CC-BY-NC-SA-4.0
 stamp:

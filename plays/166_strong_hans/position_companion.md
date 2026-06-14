@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "companion"
+title: "The Companion"
 declared: "der Gefährte"
 license: CC-BY-NC-SA-4.0
 stamp:

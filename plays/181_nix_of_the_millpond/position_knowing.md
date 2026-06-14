@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "knowing"
+title: "The Knowing"
 declared: "die Wissende"
 license: CC-BY-NC-SA-4.0
 stamp:

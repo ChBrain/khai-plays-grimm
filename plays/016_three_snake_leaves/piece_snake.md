@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "snake"
+title: "The Snake"
 declared: "Schlange"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_prince"
+title: "Prince"
 declared: "Der Königssohn im Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

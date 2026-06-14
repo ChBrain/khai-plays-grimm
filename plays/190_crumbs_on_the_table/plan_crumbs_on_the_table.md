@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "crumbs_on_the_table"
+title: "Crumbs on the Table"
 declared: "die Einladung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "inheritance"
+title: "Inheritance"
 declared: "Das ganze Reich"
 license: CC-BY-NC-SA-4.0
 stamp:

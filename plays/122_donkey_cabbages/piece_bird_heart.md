@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "bird_heart"
+title: "The Bird Heart"
 declared: "das Vogelherz"
 license: CC-BY-NC-SA-4.0
 stamp:

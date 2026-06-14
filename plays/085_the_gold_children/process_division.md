@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "division"
+title: "Division"
 declared: "die Zerteilung"
 license: CC-BY-NC-SA-4.0
 stamp:

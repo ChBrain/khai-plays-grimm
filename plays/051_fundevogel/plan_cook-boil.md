@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "cook-boil"
+title: "Cook Boil"
 declared: "der Sud der Köchin"
 license: CC-BY-NC-SA-4.0
 stamp:

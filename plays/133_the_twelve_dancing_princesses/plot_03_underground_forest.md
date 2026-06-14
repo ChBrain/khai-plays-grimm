@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_underground_forest"
+title: "Underground Forest"
 declared: "Der silberne und goldene Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

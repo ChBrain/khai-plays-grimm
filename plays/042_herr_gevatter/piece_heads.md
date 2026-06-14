@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "heads"
+title: "The Heads"
 declared: "Köpfe"
 license: CC-BY-NC-SA-4.0
 stamp:

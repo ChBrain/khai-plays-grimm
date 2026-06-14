@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_confrontation"
+title: "Confrontation"
 declared: "Die Flucht der Tiere"
 license: CC-BY-NC-SA-4.0
 stamp:

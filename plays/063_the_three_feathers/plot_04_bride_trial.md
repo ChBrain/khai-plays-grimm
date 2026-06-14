@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "bride_trial"
+title: "Bride Trial"
 declared: "Die dritte Probe"
 license: CC-BY-NC-SA-4.0
 stamp:

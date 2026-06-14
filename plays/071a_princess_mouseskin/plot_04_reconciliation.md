@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_reconciliation"
+title: "Reconciliation"
 declared: "Das Salz beim Mahle"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "spared"
+title: "The Spared"
 declared: "die Verschonten"
 license: CC-BY-NC-SA-4.0
 stamp:

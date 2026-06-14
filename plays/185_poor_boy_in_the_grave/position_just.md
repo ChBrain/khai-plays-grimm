@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "just"
+title: "The Just"
 declared: "der Gerechte"
 license: CC-BY-NC-SA-4.0
 stamp:

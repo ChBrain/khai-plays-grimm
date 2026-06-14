@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "goose"
+title: "The Goose"
 declared: "die Gans"
 license: CC-BY-NC-SA-4.0
 stamp:

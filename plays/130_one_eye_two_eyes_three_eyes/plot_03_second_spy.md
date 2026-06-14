@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_second_spy"
+title: "Second Spy"
 declared: "Dreiäugleins List"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "underground_forest"
+title: "The Underground Forest"
 declared: "unterirdische Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

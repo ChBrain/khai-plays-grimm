@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "heir"
+title: "The Heir"
 declared: "der Erbe"
 license: CC-BY-NC-SA-4.0
 stamp:

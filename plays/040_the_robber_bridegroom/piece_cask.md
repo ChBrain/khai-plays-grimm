@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "cask"
+title: "The Cask"
 declared: "Fass"
 license: CC-BY-NC-SA-4.0
 stamp:

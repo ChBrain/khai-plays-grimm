@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "theft"
+title: "Theft"
 declared: "Der Raub des Mondes"
 license: CC-BY-NC-SA-4.0
 stamp:

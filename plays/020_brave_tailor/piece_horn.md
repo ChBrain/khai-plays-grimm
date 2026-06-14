@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "horn"
+title: "Horn"
 declared: "Horn"
 license: CC-BY-NC-SA-4.0
 stamp:

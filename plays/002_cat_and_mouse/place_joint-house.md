@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "joint-house"
+title: "The Joint House"
 declared: "gemeinsames Haus"
 license: CC-BY-NC-SA-4.0
 stamp:

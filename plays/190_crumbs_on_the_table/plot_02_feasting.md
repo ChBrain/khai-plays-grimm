@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "feasting"
+title: "Feasting"
 declared: "Das Naschen der Brosamen"
 license: CC-BY-NC-SA-4.0
 stamp:

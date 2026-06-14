@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "judgment"
+title: "Judgment"
 declared: "Das Rätselgericht"
 license: CC-BY-NC-SA-4.0
 stamp:

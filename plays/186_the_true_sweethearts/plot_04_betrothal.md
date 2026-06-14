@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "betrothal"
+title: "Betrothal"
 declared: "Das Versprechen unter der Linde"
 license: CC-BY-NC-SA-4.0
 stamp:

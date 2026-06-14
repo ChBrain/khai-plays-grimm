@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "loaves"
+title: "The Loaves"
 declared: "die zwei Brote"
 license: CC-BY-NC-SA-4.0
 stamp:

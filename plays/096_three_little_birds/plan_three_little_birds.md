@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "three_little_birds"
+title: "Three Little Birds"
 declared: "die Errettung"
 license: CC-BY-NC-SA-4.0
 stamp:

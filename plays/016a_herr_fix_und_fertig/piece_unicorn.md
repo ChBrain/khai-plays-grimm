@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "unicorn"
+title: "The Unicorn"
 declared: "Einhorn"
 license: CC-BY-NC-SA-4.0
 stamp:

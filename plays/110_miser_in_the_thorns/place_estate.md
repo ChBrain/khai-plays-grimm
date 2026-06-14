@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "estate"
+title: "The Estate"
 declared: "der Hof"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "apple"
+title: "The Apple"
 declared: "der Lebensapfel"
 license: CC-BY-NC-SA-4.0
 stamp:

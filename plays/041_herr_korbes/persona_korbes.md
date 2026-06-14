@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "korbes"
+title: "The Korbes"
 declared: "Herr Korbes"
 license: CC-BY-NC-SA-4.0
 stamp:

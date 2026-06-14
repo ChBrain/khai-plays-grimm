@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_forbidden-door"
+title: "Forbidden Door"
 declared: "Die verbotene Tür"
 license: CC-BY-NC-SA-4.0
 stamp:

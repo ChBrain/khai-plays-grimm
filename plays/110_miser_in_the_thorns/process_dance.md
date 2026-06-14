@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "dance"
+title: "Dance"
 declared: "der Tanz"
 license: CC-BY-NC-SA-4.0
 stamp:

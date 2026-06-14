@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "braggart"
+title: "The Braggart"
 declared: "der Prahler"
 license: CC-BY-NC-SA-4.0
 stamp:

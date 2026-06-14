@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "children"
+title: "The Children"
 declared: "die vier Kinder"
 license: CC-BY-NC-SA-4.0
 stamp:

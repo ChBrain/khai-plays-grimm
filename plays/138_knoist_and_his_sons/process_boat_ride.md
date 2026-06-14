@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "boat_ride"
+title: "Boat Ride"
 declared: "die Bootsfahrt"
 license: CC-BY-NC-SA-4.0
 stamp:

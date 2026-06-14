@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "cellar"
+title: "The Cellar"
 declared: "Keller"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "adder"
+title: "Adder"
 declared: "Die Natter und die Flucht zur Hasel"
 license: CC-BY-NC-SA-4.0
 stamp:

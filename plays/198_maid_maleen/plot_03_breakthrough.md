@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "breakthrough"
+title: "Breakthrough"
 declared: "Der Durchbruch mit dem Messer"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "confession"
+title: "Confession"
 declared: "Das Geständnis des Wolfes"
 license: CC-BY-NC-SA-4.0
 stamp:

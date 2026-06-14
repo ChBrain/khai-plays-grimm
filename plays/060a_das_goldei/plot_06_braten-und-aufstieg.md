@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "06_braten-und-aufstieg"
+title: "Braten Und Aufstieg"
 declared: "Braten, Vertauschung und Aufstieg"
 license: CC-BY-NC-SA-4.0
 stamp:

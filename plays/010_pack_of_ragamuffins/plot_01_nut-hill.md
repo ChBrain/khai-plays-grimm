@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_nut-hill"
+title: "Nut Hill"
 declared: "Der Nußberg und der Wagen"
 license: CC-BY-NC-SA-4.0
 stamp:

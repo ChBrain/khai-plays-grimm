@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_enchanted_castle"
+title: "Enchanted Castle"
 declared: "Das schwarze Schloss"
 license: CC-BY-NC-SA-4.0
 stamp:

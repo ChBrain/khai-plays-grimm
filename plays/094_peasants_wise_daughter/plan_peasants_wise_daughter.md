@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "peasants_wise_daughter"
+title: "Peasants Wise Daughter"
 declared: "die Klugheit"
 license: CC-BY-NC-SA-4.0
 stamp:

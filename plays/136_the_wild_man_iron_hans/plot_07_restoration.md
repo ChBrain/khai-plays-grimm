@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "07_restoration"
+title: "Restoration"
 declared: "Die Offenbarung und die Hochzeit"
 license: CC-BY-NC-SA-4.0
 stamp:

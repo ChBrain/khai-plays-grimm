@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "feeding"
+title: "Feeding"
 declared: "das Füttern"
 license: CC-BY-NC-SA-4.0
 stamp:

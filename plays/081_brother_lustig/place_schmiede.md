@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "schmiede"
+title: "The Schmiede"
 declared: "die Schmiede"
 license: CC-BY-NC-SA-4.0
 stamp:

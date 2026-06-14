@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_frogs"
+title: "Frogs"
 declared: "Die Frösche im Teich"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_bride_consent"
+title: "Bride Consent"
 declared: "Katrineljes Einwilligung"
 license: CC-BY-NC-SA-4.0
 stamp:

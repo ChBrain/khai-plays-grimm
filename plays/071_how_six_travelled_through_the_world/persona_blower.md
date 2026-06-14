@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "blower"
+title: "The Blower"
 declared: "der Bläser"
 license: CC-BY-NC-SA-4.0
 stamp:

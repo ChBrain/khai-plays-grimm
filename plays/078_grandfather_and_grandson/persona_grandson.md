@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "grandson"
+title: "The Grandson"
 declared: "der Enkel"
 license: CC-BY-NC-SA-4.0
 stamp:

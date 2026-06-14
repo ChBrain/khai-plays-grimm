@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "prayer"
+title: "The Prayer"
 declared: "das letzte Gebet"
 license: CC-BY-NC-SA-4.0
 stamp:

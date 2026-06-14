@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "singing-wood"
+title: "The Singing Wood"
 declared: "Singvogelwald"
 license: CC-BY-NC-SA-4.0
 stamp:

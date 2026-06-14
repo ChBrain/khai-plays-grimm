@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "coach"
+title: "The Coach"
 declared: "Kutsche"
 license: CC-BY-NC-SA-4.0
 stamp:

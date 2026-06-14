@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "pardon"
+title: "Pardon"
 declared: "Die Bitte um Verzeihung"
 license: CC-BY-NC-SA-4.0
 stamp:

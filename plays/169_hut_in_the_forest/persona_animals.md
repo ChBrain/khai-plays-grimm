@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "animals"
+title: "The Animals"
 declared: "die drei Tiere"
 license: CC-BY-NC-SA-4.0
 stamp:

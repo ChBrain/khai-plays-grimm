@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_royal-wedlock"
+title: "Royal Wedlock"
 declared: "Die Königshochzeit"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "stuck"
+title: "Stuck"
 declared: "Der festgefahrene Wagen"
 license: CC-BY-NC-SA-4.0
 stamp:

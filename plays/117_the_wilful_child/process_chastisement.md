@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "chastisement"
+title: "Chastisement"
 declared: "die Züchtigung"
 license: CC-BY-NC-SA-4.0
 stamp:

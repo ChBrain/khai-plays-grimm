@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "gullible"
+title: "The Gullible"
 declared: "die Leichtgläubigen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "wise_folks"
+title: "Wise Folks"
 declared: "die Narrensuche"
 license: CC-BY-NC-SA-4.0
 stamp:

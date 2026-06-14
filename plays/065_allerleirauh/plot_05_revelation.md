@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "revelation"
+title: "Revelation"
 declared: "Die drei Bälle und der Ring"
 license: CC-BY-NC-SA-4.0
 stamp:

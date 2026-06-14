@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "heideschloss"
+title: "Heideschloss"
 declared: "Das Heideschloss"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "tempter"
+title: "The Tempter"
 declared: "die Versucherin"
 license: CC-BY-NC-SA-4.0
 stamp:

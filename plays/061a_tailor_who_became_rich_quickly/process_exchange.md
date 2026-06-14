@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "exchange"
+title: "Exchange"
 declared: "Austausch"
 license: CC-BY-NC-SA-4.0
 stamp:

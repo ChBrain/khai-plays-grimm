@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "transgression"
+title: "Transgression"
 declared: "der Tabubruch und die Vertuschung"
 license: CC-BY-NC-SA-4.0
 stamp:

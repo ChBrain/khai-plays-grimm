@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "enforcers"
+title: "The Enforcers"
 declared: "die Vollstrecker"
 license: CC-BY-NC-SA-4.0
 stamp:

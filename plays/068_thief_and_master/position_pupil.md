@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "pupil"
+title: "The Pupil"
 declared: "Der Lehrling"
 license: CC-BY-NC-SA-4.0
 stamp:

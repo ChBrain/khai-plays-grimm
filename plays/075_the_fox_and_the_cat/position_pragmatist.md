@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "pragmatist"
+title: "The Pragmatist"
 declared: "die Bescheidene"
 license: CC-BY-NC-SA-4.0
 stamp:

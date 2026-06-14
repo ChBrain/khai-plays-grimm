@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_grave_mound"
+title: "The Grave Mound"
 declared: "die Rettung der Seele"
 license: CC-BY-NC-SA-4.0
 stamp:

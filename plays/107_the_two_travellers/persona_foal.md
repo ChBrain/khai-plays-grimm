@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "foal"
+title: "The Foal"
 declared: "das Fohlen"
 license: CC-BY-NC-SA-4.0
 stamp:

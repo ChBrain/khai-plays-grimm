@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "treasure"
+title: "The Treasure"
 declared: "das Gold und Silber"
 license: CC-BY-NC-SA-4.0
 stamp:

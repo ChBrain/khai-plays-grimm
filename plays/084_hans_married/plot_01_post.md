@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "post"
+title: "Post"
 declared: "Der Posten hinter dem Ofen"
 license: CC-BY-NC-SA-4.0
 stamp:

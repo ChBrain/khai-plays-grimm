@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "vengeance"
+title: "Vengeance"
 declared: "Rache"
 license: CC-BY-NC-SA-4.0
 stamp:

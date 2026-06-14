@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "hero"
+title: "The Hero"
 declared: "der Held"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "revival"
+title: "Revival"
 declared: "die Labung"
 license: CC-BY-NC-SA-4.0
 stamp:

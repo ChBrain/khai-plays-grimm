@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "money_chest"
+title: "The Money Chest"
 declared: "die eiserne Geldkiste"
 license: CC-BY-NC-SA-4.0
 stamp:

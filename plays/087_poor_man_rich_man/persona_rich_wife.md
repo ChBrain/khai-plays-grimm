@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "rich_wife"
+title: "The Rich Wife"
 declared: "die Frau des Reichen"
 license: CC-BY-NC-SA-4.0
 stamp:

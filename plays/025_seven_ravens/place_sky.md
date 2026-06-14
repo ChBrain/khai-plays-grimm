@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "sky"
+title: "The Sky"
 declared: "Himmel"
 license: CC-BY-NC-SA-4.0
 stamp:

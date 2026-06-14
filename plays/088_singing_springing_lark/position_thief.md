@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "thief"
+title: "The Thief"
 declared: "die Räuberin"
 license: CC-BY-NC-SA-4.0
 stamp:

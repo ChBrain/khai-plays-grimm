@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "healing"
+title: "Healing"
 declared: "die Heilung der Äpfel"
 license: CC-BY-NC-SA-4.0
 stamp:

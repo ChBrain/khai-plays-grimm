@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_witch-death"
+title: "Witch Death"
 declared: "Der Backofen und die Heimkehr"
 license: CC-BY-NC-SA-4.0
 stamp:

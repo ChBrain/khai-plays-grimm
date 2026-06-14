@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "clever"
+title: "The Clever"
 declared: "der Kluge"
 license: CC-BY-NC-SA-4.0
 stamp:

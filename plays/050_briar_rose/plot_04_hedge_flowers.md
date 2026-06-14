@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "hedge_flowers"
+title: "Hedge Flowers"
 declared: "Die Hecke blüht"
 license: CC-BY-NC-SA-4.0
 stamp:

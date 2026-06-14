@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "elf-hill"
+title: "The Elf Hill"
 declared: "Hügel des Elfen"
 license: CC-BY-NC-SA-4.0
 stamp:

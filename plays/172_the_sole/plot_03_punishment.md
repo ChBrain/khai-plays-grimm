@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "punishment"
+title: "Punishment"
 declared: "Die Strafe der Scholle"
 license: CC-BY-NC-SA-4.0
 stamp:

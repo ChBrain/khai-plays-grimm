@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "indolence"
+title: "Indolence"
 declared: "die Faulheit"
 license: CC-BY-NC-SA-4.0
 stamp:

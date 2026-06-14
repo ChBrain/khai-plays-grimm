@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "spinning_room"
+title: "The Spinning Room"
 declared: "die Spinnstube"
 license: CC-BY-NC-SA-4.0
 stamp:

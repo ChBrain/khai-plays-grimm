@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_empfang"
+title: "Empfang"
 declared: "Der freundliche Empfang"
 license: CC-BY-NC-SA-4.0
 stamp:

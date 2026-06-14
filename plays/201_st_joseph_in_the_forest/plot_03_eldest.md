@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "eldest"
+title: "Eldest"
 declared: "Die älteste Tochter"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_lied-von-herz-und-leber"
+title: "Lied Von Herz Und Leber"
 declared: "Das Lied von Herz und Leber"
 license: CC-BY-NC-SA-4.0
 stamp:

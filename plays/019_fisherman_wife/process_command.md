@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "command"
+title: "Command"
 declared: "Herrschaftsausübung"
 license: CC-BY-NC-SA-4.0
 stamp:

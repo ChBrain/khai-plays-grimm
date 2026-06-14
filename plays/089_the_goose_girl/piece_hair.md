@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "hair"
+title: "The Hair"
 declared: "das goldene Haar"
 license: CC-BY-NC-SA-4.0
 stamp:

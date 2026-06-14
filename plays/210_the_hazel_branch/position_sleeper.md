@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "sleeper"
+title: "The Sleeper"
 declared: "das schlafende Kind"
 license: CC-BY-NC-SA-4.0
 stamp:

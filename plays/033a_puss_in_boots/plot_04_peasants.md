@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_peasants"
+title: "Peasants"
 declared: "Die Drohung an die Bauern"
 license: CC-BY-NC-SA-4.0
 stamp:

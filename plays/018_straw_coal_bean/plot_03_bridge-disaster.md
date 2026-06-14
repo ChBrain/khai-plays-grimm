@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_bridge-disaster"
+title: "Bridge Disaster"
 declared: "Der Brückenabsturz"
 license: CC-BY-NC-SA-4.0
 stamp:

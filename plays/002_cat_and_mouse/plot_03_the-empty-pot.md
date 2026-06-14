@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_the-empty-pot"
+title: "The Empty Pot"
 declared: "Der leere Topf"
 license: CC-BY-NC-SA-4.0
 stamp:

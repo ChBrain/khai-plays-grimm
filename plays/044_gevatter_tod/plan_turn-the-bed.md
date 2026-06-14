@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "turn-the-bed"
+title: "Turn the Bed"
 declared: "der Betrug am Sterbebett"
 license: CC-BY-NC-SA-4.0
 stamp:

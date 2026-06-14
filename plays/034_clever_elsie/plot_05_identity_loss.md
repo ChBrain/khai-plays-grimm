@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "identity_loss"
+title: "Identity Loss"
 declared: "Die verlorene Else"
 license: CC-BY-NC-SA-4.0
 stamp:

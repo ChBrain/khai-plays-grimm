@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "silver_tools"
+title: "The Silver Tools"
 declared: "das silberne Werkzeug"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "red_stockings"
+title: "The Red Stockings"
 declared: "rote Strümpfe"
 license: CC-BY-NC-SA-4.0
 stamp:

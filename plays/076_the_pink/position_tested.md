@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "tested"
+title: "The Tested"
 declared: "die Geprüfte"
 license: CC-BY-NC-SA-4.0
 stamp:

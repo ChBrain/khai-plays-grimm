@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "wilfulness"
+title: "Wilfulness"
 declared: "Der Eigensinn"
 license: CC-BY-NC-SA-4.0
 stamp:

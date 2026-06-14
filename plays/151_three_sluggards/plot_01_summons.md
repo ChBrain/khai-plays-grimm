@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "summons"
+title: "Summons"
 declared: "Die Berufung"
 license: CC-BY-NC-SA-4.0
 stamp:

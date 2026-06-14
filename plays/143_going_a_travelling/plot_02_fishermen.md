@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "fishermen"
+title: "Fishermen"
 declared: "Die Fischer"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "prize"
+title: "The Prize"
 declared: "die Beute"
 license: CC-BY-NC-SA-4.0
 stamp:

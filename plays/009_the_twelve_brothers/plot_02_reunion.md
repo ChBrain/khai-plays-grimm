@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_reunion"
+title: "Reunion"
 declared: "Die Suche und das Waldhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

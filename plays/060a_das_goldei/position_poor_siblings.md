@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "poor-siblings"
+title: "The Poor Siblings"
 declared: "die armen Geschwister"
 license: CC-BY-NC-SA-4.0
 stamp:

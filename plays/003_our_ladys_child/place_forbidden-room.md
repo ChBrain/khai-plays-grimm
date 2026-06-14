@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "forbidden-room"
+title: "The Forbidden Room"
 declared: "dreizehntes Zimmer"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "race_challenge"
+title: "Race Challenge"
 declared: "Der Wettlauf um Leben und Thron"
 license: CC-BY-NC-SA-4.0
 stamp:

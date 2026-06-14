@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "rescue_nest"
+title: "Rescue Nest"
 declared: "Die Rettung aus dem Nest"
 license: CC-BY-NC-SA-4.0
 stamp:

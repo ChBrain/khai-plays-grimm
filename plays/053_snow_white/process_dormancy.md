@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "dormancy"
+title: "Dormancy"
 declared: "Scheintod"
 license: CC-BY-NC-SA-4.0
 stamp:

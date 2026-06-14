@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "disguise"
+title: "Disguise"
 declared: "Verkleidung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "tiny-cunning"
+title: "Tiny Cunning"
 declared: "die List des Winzlings"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "looker"
+title: "The Looker"
 declared: "der Weitseher"
 license: CC-BY-NC-SA-4.0
 stamp:

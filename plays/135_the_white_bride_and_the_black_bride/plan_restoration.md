@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "restoration"
+title: "Restoration"
 declared: "die Wiederherstellung der wahren Braut"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "knacker_pit"
+title: "The Knacker Pit"
 declared: "die Schindergrube"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "residence"
+title: "The Residence"
 declared: "Herrschaftssitz"
 license: CC-BY-NC-SA-4.0
 stamp:

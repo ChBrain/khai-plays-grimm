@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "hans_in_luck"
+title: "Hans in Luck"
 declared: "die Heimkehr"
 license: CC-BY-NC-SA-4.0
 stamp:

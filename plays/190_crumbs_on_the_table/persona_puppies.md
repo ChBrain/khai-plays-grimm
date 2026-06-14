@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "puppies"
+title: "The Puppies"
 declared: "die Hündchen"
 license: CC-BY-NC-SA-4.0
 stamp:

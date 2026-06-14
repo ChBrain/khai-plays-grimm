@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "spielhansl"
+title: "Spielhansl"
 declared: "der Spielhansl"
 license: CC-BY-NC-SA-4.0
 stamp:

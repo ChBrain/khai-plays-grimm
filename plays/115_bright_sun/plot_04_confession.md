@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "confession"
+title: "Confession"
 declared: "Das Geständnis"
 license: CC-BY-NC-SA-4.0
 stamp:

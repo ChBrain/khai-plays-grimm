@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "spukschloss"
+title: "Spukschloss"
 declared: "Das Spukschloss"
 license: CC-BY-NC-SA-4.0
 stamp:

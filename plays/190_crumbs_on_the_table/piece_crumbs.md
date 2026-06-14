@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "crumbs"
+title: "The Crumbs"
 declared: "die Brosamen"
 license: CC-BY-NC-SA-4.0
 stamp:

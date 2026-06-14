@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_stepsisters-curse"
+title: "Stepsisters Curse"
 declared: "Der Fluch der Stiefschwester"
 license: CC-BY-NC-SA-4.0
 stamp:

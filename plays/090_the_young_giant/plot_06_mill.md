@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "mill"
+title: "Mill"
 declared: "Die Nacht in der Spukmühle"
 license: CC-BY-NC-SA-4.0
 stamp:

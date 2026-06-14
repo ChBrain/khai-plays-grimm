@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "dwelling"
+title: "The Dwelling"
 declared: "die unterirdische Behausung"
 license: CC-BY-NC-SA-4.0
 stamp:

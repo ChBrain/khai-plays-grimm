@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "sea_rescue"
+title: "Sea Rescue"
 declared: "die Seerettung"
 license: CC-BY-NC-SA-4.0
 stamp:

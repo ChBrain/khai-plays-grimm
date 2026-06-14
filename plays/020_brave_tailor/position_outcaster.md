@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "outcaster"
+title: "The Outcaster"
 declared: "Aussortierter"
 license: CC-BY-NC-SA-4.0
 stamp:

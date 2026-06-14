@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "hat"
+title: "The Hat"
 declared: "Kanonenhütlein"
 license: CC-BY-NC-SA-4.0
 stamp:

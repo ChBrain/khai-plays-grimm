@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "mother-rescue"
+title: "Mother Rescue"
 declared: "die Rettung der Mutter"
 license: CC-BY-NC-SA-4.0
 stamp:

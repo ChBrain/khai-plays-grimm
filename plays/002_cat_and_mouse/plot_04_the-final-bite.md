@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_the-final-bite"
+title: "The Final Bite"
 declared: "Der letzte Bissen"
 license: CC-BY-NC-SA-4.0
 stamp:

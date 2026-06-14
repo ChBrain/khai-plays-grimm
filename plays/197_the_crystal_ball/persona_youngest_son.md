@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "youngest_son"
+title: "The Youngest Son"
 declared: "der jüngste Sohn"
 license: CC-BY-NC-SA-4.0
 stamp:

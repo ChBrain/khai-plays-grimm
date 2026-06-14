@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "captain"
+title: "The Captain"
 declared: "der Räuberhauptmann"
 license: CC-BY-NC-SA-4.0
 stamp:

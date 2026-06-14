@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "seconds"
+title: "The Seconds"
 declared: "Beistände"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "revenge"
+title: "Revenge"
 declared: "Die Verwandlung im Schloss"
 license: CC-BY-NC-SA-4.0
 stamp:

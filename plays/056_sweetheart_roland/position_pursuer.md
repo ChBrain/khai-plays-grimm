@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "pursuer"
+title: "The Pursuer"
 declared: "Verfolgerin"
 license: CC-BY-NC-SA-4.0
 stamp:

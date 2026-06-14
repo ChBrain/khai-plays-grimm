@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "heim"
+title: "The Heim"
 declared: "das Heim"
 license: CC-BY-NC-SA-4.0
 stamp:

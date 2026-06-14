@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "race"
+title: "Race"
 declared: "das Wettschwimmen"
 license: CC-BY-NC-SA-4.0
 stamp:

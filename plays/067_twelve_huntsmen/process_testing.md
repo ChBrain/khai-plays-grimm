@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "testing"
+title: "Testing"
 declared: "Prüfung"
 license: CC-BY-NC-SA-4.0
 stamp:

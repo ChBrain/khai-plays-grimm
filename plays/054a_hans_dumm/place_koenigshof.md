@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "koenigshof"
+title: "Koenigshof"
 declared: "Königshof"
 license: CC-BY-NC-SA-4.0
 stamp:

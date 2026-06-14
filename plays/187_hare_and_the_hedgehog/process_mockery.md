@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "mockery"
+title: "Mockery"
 declared: "die Verspottung"
 license: CC-BY-NC-SA-4.0
 stamp:

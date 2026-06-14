@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "riches"
+title: "Riches"
 declared: "Die schwindenden Jahre"
 license: CC-BY-NC-SA-4.0
 stamp:

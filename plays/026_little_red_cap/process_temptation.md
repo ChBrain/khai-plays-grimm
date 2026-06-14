@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "temptation"
+title: "Temptation"
 declared: "Verführung"
 license: CC-BY-NC-SA-4.0
 stamp:

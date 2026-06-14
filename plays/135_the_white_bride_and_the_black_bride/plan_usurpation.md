@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "usurpation"
+title: "Usurpation"
 declared: "das Unterverschieben der falschen Braut"
 license: CC-BY-NC-SA-4.0
 stamp:

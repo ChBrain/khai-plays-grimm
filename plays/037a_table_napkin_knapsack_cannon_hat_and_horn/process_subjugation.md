@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "subjugation"
+title: "Subjugation"
 declared: "die Unterwerfung"
 license: CC-BY-NC-SA-4.0
 stamp:

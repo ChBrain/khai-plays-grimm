@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "corn"
+title: "The Corn"
 declared: "das Maß Korn"
 license: CC-BY-NC-SA-4.0
 stamp:

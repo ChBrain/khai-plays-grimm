@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_sea_hare"
+title: "The Sea Hare"
 declared: "die Verbergung"
 license: CC-BY-NC-SA-4.0
 stamp:

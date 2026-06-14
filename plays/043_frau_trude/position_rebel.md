@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "rebel"
+title: "The Rebel"
 declared: "Rebellin"
 license: CC-BY-NC-SA-4.0
 stamp:

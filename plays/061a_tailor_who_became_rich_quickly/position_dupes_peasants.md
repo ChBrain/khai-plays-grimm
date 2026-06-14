@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "dupes_peasants"
+title: "The Dupes Peasants"
 declared: "getäuschte Bauern"
 license: CC-BY-NC-SA-4.0
 stamp:

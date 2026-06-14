@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "hanged"
+title: "The Hanged"
 declared: "die Gehängten"
 license: CC-BY-NC-SA-4.0
 stamp:

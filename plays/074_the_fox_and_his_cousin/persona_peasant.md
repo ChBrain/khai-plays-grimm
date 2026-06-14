@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "peasant"
+title: "The Peasant"
 declared: "die Bauern"
 license: CC-BY-NC-SA-4.0
 stamp:

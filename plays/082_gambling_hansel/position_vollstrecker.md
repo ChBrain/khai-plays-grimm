@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "vollstrecker"
+title: "Vollstrecker"
 declared: "der Vollstrecker"
 license: CC-BY-NC-SA-4.0
 stamp:

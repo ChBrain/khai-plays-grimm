@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "court"
+title: "Court"
 declared: "Das Gericht"
 license: CC-BY-NC-SA-4.0
 stamp:

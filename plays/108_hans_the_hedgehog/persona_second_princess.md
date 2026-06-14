@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "second_princess"
+title: "The Second Princess"
 declared: "die zweite Prinzessin"
 license: CC-BY-NC-SA-4.0
 stamp:

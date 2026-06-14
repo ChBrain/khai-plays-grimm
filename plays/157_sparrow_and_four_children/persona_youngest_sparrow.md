@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "youngest_sparrow"
+title: "The Youngest Sparrow"
 declared: "der jüngste Sperling"
 license: CC-BY-NC-SA-4.0
 stamp:

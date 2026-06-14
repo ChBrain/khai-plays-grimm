@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "hunter"
+title: "The Hunter"
 declared: "der Jäger"
 license: CC-BY-NC-SA-4.0
 stamp:

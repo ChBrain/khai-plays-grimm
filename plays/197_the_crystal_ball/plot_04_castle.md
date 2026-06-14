@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "castle"
+title: "Castle"
 declared: "Das verzauberte Schloss und der Spiegel"
 license: CC-BY-NC-SA-4.0
 stamp:

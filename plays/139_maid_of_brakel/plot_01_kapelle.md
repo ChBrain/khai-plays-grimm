@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "kapelle"
+title: "Kapelle"
 declared: "Der Gang zur Kapelle"
 license: CC-BY-NC-SA-4.0
 stamp:

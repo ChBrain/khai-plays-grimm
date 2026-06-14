@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "thalers"
+title: "The Thalers"
 declared: "Taler"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "old_hildebrand"
+title: "Old Hildebrand"
 declared: "die Verführung"
 license: CC-BY-NC-SA-4.0
 stamp:

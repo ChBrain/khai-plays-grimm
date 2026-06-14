@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "sun_dress"
+title: "The Sun Dress"
 declared: "sonnenklares Kleid"
 license: CC-BY-NC-SA-4.0
 stamp:

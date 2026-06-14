@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_hides"
+title: "Hides"
 declared: "Die Rache der Bauern"
 license: CC-BY-NC-SA-4.0
 stamp:

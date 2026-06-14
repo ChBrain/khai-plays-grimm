@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "begging"
+title: "Begging"
 declared: "Das Betteln"
 license: CC-BY-NC-SA-4.0
 stamp:

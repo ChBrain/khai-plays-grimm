@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "shoe"
+title: "The Shoe"
 declared: "der Fehlschnitt-Schuh"
 license: CC-BY-NC-SA-4.0
 stamp:

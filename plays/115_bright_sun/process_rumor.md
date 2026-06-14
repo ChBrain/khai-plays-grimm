@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "rumor"
+title: "Rumor"
 declared: "das Gerücht"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "curse"
+title: "Curse"
 declared: "Fluch"
 license: CC-BY-NC-SA-4.0
 stamp:

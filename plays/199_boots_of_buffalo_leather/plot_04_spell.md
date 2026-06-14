@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "spell"
+title: "Spell"
 declared: "Der Bann an der Flasche"
 license: CC-BY-NC-SA-4.0
 stamp:

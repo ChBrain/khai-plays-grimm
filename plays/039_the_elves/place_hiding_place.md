@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "hiding_place"
+title: "The Hiding Place"
 declared: "Versteck"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_trial"
+title: "Trial"
 declared: "Die richterliche Prüfung"
 license: CC-BY-NC-SA-4.0
 stamp:

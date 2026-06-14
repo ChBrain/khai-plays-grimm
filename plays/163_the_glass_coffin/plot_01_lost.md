@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "lost"
+title: "Lost"
 declared: "Der Verirrte in der Schilfhütte"
 license: CC-BY-NC-SA-4.0
 stamp:

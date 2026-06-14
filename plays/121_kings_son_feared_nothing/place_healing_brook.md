@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "healing_brook"
+title: "The Healing Brook"
 declared: "der Heilbrunnen"
 license: CC-BY-NC-SA-4.0
 stamp:

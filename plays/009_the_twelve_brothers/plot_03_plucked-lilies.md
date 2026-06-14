@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_plucked-lilies"
+title: "Plucked Lilies"
 declared: "Die gepflückten Lilien"
 license: CC-BY-NC-SA-4.0
 stamp:

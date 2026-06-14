@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "neighbor_king"
+title: "The Neighbor King"
 declared: "Nachbarkönig"
 license: CC-BY-NC-SA-4.0
 stamp:

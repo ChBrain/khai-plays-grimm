@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "wooden_calf"
+title: "The Wooden Calf"
 declared: "Holzkalb"
 license: CC-BY-NC-SA-4.0
 stamp:

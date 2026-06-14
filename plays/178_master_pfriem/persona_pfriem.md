@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "pfriem"
+title: "The Pfriem"
 declared: "Meister Pfriem"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_snake-leaves"
+title: "Snake Leaves"
 declared: "Die Zauberblätter"
 license: CC-BY-NC-SA-4.0
 stamp:

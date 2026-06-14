@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "aussetzung"
+title: "Aussetzung"
 declared: "die Aussetzung"
 license: CC-BY-NC-SA-4.0
 stamp:

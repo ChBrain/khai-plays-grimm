@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "asking"
+title: "Asking"
 declared: "die Befragung"
 license: CC-BY-NC-SA-4.0
 stamp:

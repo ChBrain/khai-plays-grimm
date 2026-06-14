@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "keeper"
+title: "The Keeper"
 declared: "die Mitwisserin"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "grandmother"
+title: "The Grandmother"
 declared: "Teufels Großmutter"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "chase"
+title: "Chase"
 declared: "Die Jagd nach dem Käfig"
 license: CC-BY-NC-SA-4.0
 stamp:

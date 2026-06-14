@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "choice"
+title: "Choice"
 declared: "Die Wahl"
 license: CC-BY-NC-SA-4.0
 stamp:

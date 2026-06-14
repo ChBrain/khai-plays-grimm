@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "viewing"
+title: "Viewing"
 declared: "Die Besichtigung des Guts"
 license: CC-BY-NC-SA-4.0
 stamp:

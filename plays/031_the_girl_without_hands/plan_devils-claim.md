@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "devils-claim"
+title: "Devils Claim"
 declared: "der Anspruch des Teufels"
 license: CC-BY-NC-SA-4.0
 stamp:

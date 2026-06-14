@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "cup"
+title: "The Cup"
 declared: "die Kaffeetasse"
 license: CC-BY-NC-SA-4.0
 stamp:

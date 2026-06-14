@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "glass_mountain"
+title: "The Glass Mountain"
 declared: "der gläserne Berg"
 license: CC-BY-NC-SA-4.0
 stamp:

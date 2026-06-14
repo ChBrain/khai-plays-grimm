@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "dream"
+title: "Dream"
 declared: "der Traum"
 license: CC-BY-NC-SA-4.0
 stamp:

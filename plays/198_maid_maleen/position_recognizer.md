@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "recognizer"
+title: "The Recognizer"
 declared: "der Erkenner"
 license: CC-BY-NC-SA-4.0
 stamp:

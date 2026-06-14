@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "pot-licking"
+title: "Pot Licking"
 declared: "der heimliche Fraß am Fetttopf"
 license: CC-BY-NC-SA-4.0
 stamp:

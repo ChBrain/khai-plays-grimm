@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "eye-lending"
+title: "Eye Lending"
 declared: "Augenborgen"
 license: CC-BY-NC-SA-4.0
 stamp:

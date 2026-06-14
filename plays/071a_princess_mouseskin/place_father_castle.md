@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "father_castle"
+title: "The Father Castle"
 declared: "Vaterlandsschloss"
 license: CC-BY-NC-SA-4.0
 stamp:

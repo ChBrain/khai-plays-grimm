@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "calf"
+title: "The Calf"
 declared: "Kälbli"
 license: CC-BY-NC-SA-4.0
 stamp:

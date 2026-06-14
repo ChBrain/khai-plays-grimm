@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "owl"
+title: "The Owl"
 declared: "die Eule"
 license: CC-BY-NC-SA-4.0
 stamp:

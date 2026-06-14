@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "pails"
+title: "The Pails"
 declared: "die Wasserkrüge"
 license: CC-BY-NC-SA-4.0
 stamp:

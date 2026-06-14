@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "predator"
+title: "The Predator"
 declared: "Freßfeind"
 license: CC-BY-NC-SA-4.0
 stamp:

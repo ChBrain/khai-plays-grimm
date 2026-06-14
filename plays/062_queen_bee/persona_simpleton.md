@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "simpleton"
+title: "The Simpleton"
 declared: "Dummling"
 license: CC-BY-NC-SA-4.0
 stamp:

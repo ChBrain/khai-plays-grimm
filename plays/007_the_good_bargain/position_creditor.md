@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "creditor"
+title: "The Creditor"
 declared: "Gläubiger"
 license: CC-BY-NC-SA-4.0
 stamp:

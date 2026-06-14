@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_riddle-court"
+title: "Riddle Court"
 declared: "Das Rätselgericht"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "swallowing"
+title: "Swallowing"
 declared: "Verschluckung und Rettung"
 license: CC-BY-NC-SA-4.0
 stamp:

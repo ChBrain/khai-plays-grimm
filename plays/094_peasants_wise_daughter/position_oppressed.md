@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "oppressed"
+title: "The Oppressed"
 declared: "der Bedrückte"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "merchant"
+title: "The Merchant"
 declared: "Jude"
 license: CC-BY-NC-SA-4.0
 stamp:

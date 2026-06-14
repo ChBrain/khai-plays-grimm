@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "stone_castle"
+title: "The Stone Castle"
 declared: "Steinschloss"
 license: CC-BY-NC-SA-4.0
 stamp:

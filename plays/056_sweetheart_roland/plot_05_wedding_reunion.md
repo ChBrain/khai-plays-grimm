@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "wedding_reunion"
+title: "Wedding Reunion"
 declared: "Die wiedergefundene Liebe"
 license: CC-BY-NC-SA-4.0
 stamp:

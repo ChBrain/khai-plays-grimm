@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "sale_and_escape"
+title: "Sale and Escape"
 declared: "Verkauf und Flucht"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "exposure"
+title: "Exposure"
 declared: "Die Entlarvung durch den Klee"
 license: CC-BY-NC-SA-4.0
 stamp:

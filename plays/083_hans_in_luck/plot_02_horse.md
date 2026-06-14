@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "horse"
+title: "Horse"
 declared: "Das Pferd"
 license: CC-BY-NC-SA-4.0
 stamp:

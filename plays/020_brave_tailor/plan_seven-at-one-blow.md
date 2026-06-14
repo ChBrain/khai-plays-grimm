@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "seven-at-one-blow"
+title: "Seven at One Blow"
 declared: "Sieben auf einen Streich"
 license: CC-BY-NC-SA-4.0
 stamp:

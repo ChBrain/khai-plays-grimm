@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "ears"
+title: "The Ears"
 declared: "die Kornähren"
 license: CC-BY-NC-SA-4.0
 stamp:

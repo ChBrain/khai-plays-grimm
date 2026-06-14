@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "hiding"
+title: "Hiding"
 declared: "Die drei Verstecke"
 license: CC-BY-NC-SA-4.0
 stamp:

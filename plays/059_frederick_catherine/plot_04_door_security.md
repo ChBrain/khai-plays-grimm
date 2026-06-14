@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "door_security"
+title: "Door Security"
 declared: "Die Türsicherung"
 license: CC-BY-NC-SA-4.0
 stamp:

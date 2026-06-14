@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "gift_of_water"
+title: "Gift of Water"
 declared: "Das Geschenk"
 license: CC-BY-NC-SA-4.0
 stamp:

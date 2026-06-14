@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "shooting_match"
+title: "Shooting Match"
 declared: "das Wettschießen"
 license: CC-BY-NC-SA-4.0
 stamp:

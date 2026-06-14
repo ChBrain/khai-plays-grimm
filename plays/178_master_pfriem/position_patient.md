@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "patient"
+title: "The Patient"
 declared: "der Geduldige"
 license: CC-BY-NC-SA-4.0
 stamp:

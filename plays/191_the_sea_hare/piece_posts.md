@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "posts"
+title: "The Posts"
 declared: "die Pfähle mit den Köpfen"
 license: CC-BY-NC-SA-4.0
 stamp:

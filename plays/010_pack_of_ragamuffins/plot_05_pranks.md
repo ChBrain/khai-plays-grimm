@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_pranks"
+title: "Pranks"
 declared: "Das böse Erwachen"
 license: CC-BY-NC-SA-4.0
 stamp:

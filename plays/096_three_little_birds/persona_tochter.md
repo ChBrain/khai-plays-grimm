@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "tochter"
+title: "The Tochter"
 declared: "die Königstochter"
 license: CC-BY-NC-SA-4.0
 stamp:

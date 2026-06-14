@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "murder_and_ring"
+title: "Murder and Ring"
 declared: "Die Greueltat"
 license: CC-BY-NC-SA-4.0
 stamp:

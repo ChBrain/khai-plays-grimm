@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "refused_plea"
+title: "Refused Plea"
 declared: "Die abgewiesene Bitte"
 license: CC-BY-NC-SA-4.0
 stamp:

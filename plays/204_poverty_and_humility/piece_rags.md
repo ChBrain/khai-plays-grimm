@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "rags"
+title: "The Rags"
 declared: "das zerlumpte Gewand"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "donkey_pack"
+title: "The Donkey Pack"
 declared: "Sack"
 license: CC-BY-NC-SA-4.0
 stamp:

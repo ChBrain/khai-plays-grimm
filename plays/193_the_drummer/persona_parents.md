@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "parents"
+title: "The Parents"
 declared: "die Eltern"
 license: CC-BY-NC-SA-4.0
 stamp:

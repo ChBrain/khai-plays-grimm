@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "honey"
+title: "The Honey"
 declared: "Honig"
 license: CC-BY-NC-SA-4.0
 stamp:

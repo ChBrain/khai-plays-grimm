@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "retinue"
+title: "The Retinue"
 declared: "Hofstaat und Chaise"
 license: CC-BY-NC-SA-4.0
 stamp:

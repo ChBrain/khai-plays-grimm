@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "blind_son"
+title: "The Blind Son"
 declared: "der blinde Sohn"
 license: CC-BY-NC-SA-4.0
 stamp:

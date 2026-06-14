@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "iron_bar"
+title: "The Iron Bar"
 declared: "die Eisenstange"
 license: CC-BY-NC-SA-4.0
 stamp:

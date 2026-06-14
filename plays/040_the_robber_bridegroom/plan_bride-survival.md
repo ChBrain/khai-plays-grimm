@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "bride-survival"
+title: "Bride Survival"
 declared: "die List der Braut"
 license: CC-BY-NC-SA-4.0
 stamp:

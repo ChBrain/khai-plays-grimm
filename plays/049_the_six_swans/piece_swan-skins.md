@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "swan-skins"
+title: "The Swan Skins"
 declared: "Schwanenhäute"
 license: CC-BY-NC-SA-4.0
 stamp:

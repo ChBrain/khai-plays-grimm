@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "bittstellerin"
+title: "Bittstellerin"
 declared: "die Bittstellerin"
 license: CC-BY-NC-SA-4.0
 stamp:

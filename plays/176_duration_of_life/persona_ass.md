@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "ass"
+title: "The Ass"
 declared: "der Esel"
 license: CC-BY-NC-SA-4.0
 stamp:

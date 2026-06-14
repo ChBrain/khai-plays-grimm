@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "spring"
+title: "The Spring"
 declared: "Goldbrunnen"
 license: CC-BY-NC-SA-4.0
 stamp:

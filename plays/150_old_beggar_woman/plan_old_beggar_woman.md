@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "old_beggar_woman"
+title: "Old Beggar Woman"
 declared: "die Löschung"
 license: CC-BY-NC-SA-4.0
 stamp:

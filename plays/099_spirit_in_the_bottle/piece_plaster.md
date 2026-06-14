@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "plaster"
+title: "The Plaster"
 declared: "das Wunderpflaster"
 license: CC-BY-NC-SA-4.0
 stamp:

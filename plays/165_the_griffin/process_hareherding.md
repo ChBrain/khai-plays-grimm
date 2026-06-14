@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "hareherding"
+title: "Hareherding"
 declared: "die Hut der Hasen"
 license: CC-BY-NC-SA-4.0
 stamp:

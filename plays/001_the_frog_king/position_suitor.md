@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "suitor"
+title: "The Suitor"
 declared: "Bittsteller"
 license: CC-BY-NC-SA-4.0
 stamp:

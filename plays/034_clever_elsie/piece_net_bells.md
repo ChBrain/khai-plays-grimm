@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "net_bells"
+title: "The Net Bells"
 declared: "Glockennetz"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "captivity"
+title: "Captivity"
 declared: "die Gefangenschaft"
 license: CC-BY-NC-SA-4.0
 stamp:

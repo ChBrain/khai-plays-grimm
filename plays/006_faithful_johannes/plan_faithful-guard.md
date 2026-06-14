@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "faithful-guard"
+title: "Faithful Guard"
 declared: "die stumme Treue des Johannes"
 license: CC-BY-NC-SA-4.0
 stamp:

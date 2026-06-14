@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "three_days_deadline"
+title: "Three Days Deadline"
 declared: "Die dreitägige Frist"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "corpse"
+title: "The Corpse"
 declared: "der Gehenkte"
 license: CC-BY-NC-SA-4.0
 stamp:

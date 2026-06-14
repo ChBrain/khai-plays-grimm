@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "wheat"
+title: "Wheat"
 declared: "Die List des Weizens"
 license: CC-BY-NC-SA-4.0
 stamp:

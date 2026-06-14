@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "rumpelstiltskin"
+title: "The Rumpelstiltskin"
 declared: "Rumpelstilzchen"
 license: CC-BY-NC-SA-4.0
 stamp:

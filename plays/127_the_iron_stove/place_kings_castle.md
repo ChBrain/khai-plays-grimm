@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "kings_castle"
+title: "The Kings Castle"
 declared: "das Königsschloss"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "krebs"
+title: "The Krebs"
 declared: "der Krebs"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_roebuck"
+title: "Roebuck"
 declared: "Die Verwandlung zum Rehchen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "pouch"
+title: "The Pouch"
 declared: "die Jagdtasche"
 license: CC-BY-NC-SA-4.0
 stamp:

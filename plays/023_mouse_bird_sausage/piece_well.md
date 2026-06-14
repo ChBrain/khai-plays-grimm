@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "well"
+title: "The Well"
 declared: "Brunneneimer"
 license: CC-BY-NC-SA-4.0
 stamp:

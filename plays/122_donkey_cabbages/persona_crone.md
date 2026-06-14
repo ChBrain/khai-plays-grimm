@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "crone"
+title: "The Crone"
 declared: "die Alte"
 license: CC-BY-NC-SA-4.0
 stamp:

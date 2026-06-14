@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "katrinelje"
+title: "The Katrinelje"
 declared: "schöne Katrinelje"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "snakes"
+title: "The Snakes"
 declared: "Giftschlangen"
 license: CC-BY-NC-SA-4.0
 stamp:

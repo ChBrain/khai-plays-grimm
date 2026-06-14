@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_escape"
+title: "Escape"
 declared: "Das Spiel mit der goldenen Kugel"
 license: CC-BY-NC-SA-4.0
 stamp:

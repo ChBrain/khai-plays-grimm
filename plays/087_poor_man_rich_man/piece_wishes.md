@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "wishes"
+title: "The Wishes"
 declared: "die drei Wünsche"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "plea"
+title: "Plea"
 declared: "die abgewiesene Bitte"
 license: CC-BY-NC-SA-4.0
 stamp:

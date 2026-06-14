@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "thoughtless"
+title: "The Thoughtless"
 declared: "die Achtlose"
 license: CC-BY-NC-SA-4.0
 stamp:

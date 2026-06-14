@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "dupe"
+title: "The Dupe"
 declared: "Geprellte"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "drudge"
+title: "The Drudge"
 declared: "die Magd Vom-Werk-nicht-weiche"
 license: CC-BY-NC-SA-4.0
 stamp:

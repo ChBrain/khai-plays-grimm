@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "merciful"
+title: "The Merciful"
 declared: "der Barmherzige"
 license: CC-BY-NC-SA-4.0
 stamp:

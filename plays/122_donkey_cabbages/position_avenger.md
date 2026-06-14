@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "avenger"
+title: "The Avenger"
 declared: "der Vergelter"
 license: CC-BY-NC-SA-4.0
 stamp:

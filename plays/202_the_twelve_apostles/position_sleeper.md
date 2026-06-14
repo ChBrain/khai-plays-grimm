@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "sleeper"
+title: "The Sleeper"
 declared: "die auserwählten Schläfer"
 license: CC-BY-NC-SA-4.0
 stamp:

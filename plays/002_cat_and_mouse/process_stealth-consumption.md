@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "stealth-consumption"
+title: "Stealth Consumption"
 declared: "heimliches Naschen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_giant-tests"
+title: "Giant Tests"
 declared: "Die Kraftproben"
 license: CC-BY-NC-SA-4.0
 stamp:

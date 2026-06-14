@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "mistaken_murder"
+title: "Mistaken Murder"
 declared: "Die verwechselte Tat"
 license: CC-BY-NC-SA-4.0
 stamp:

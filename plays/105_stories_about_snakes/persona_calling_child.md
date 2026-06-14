@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "calling_child"
+title: "The Calling Child"
 declared: "das rufende Kind"
 license: CC-BY-NC-SA-4.0
 stamp:

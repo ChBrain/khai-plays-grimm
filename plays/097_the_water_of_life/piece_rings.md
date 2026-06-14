@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "rings"
+title: "The Rings"
 declared: "die Ringe"
 license: CC-BY-NC-SA-4.0
 stamp:

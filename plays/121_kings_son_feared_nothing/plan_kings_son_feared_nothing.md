@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "kings_son_feared_nothing"
+title: "Kings Son Feared Nothing"
 declared: "die Erlösung"
 license: CC-BY-NC-SA-4.0
 stamp:

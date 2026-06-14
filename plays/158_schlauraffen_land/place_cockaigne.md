@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "cockaigne"
+title: "The Cockaigne"
 declared: "das Schlaraffenland"
 license: CC-BY-NC-SA-4.0
 stamp:

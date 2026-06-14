@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "fahrt"
+title: "Fahrt"
 declared: "Die Fahrt der Söhne"
 license: CC-BY-NC-SA-4.0
 stamp:

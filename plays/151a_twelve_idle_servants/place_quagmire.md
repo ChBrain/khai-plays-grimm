@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "quagmire"
+title: "The Quagmire"
 declared: "der Sumpf"
 license: CC-BY-NC-SA-4.0
 stamp:

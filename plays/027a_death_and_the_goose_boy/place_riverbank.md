@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "riverbank"
+title: "The Riverbank"
 declared: "großes Wasser"
 license: CC-BY-NC-SA-4.0
 stamp:

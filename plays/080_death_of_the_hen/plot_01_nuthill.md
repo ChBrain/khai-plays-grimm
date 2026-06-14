@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "nuthill"
+title: "Nuthill"
 declared: "Der Gang auf den Nussberg"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_final-disaster"
+title: "Final Disaster"
 declared: "Der Untergang des Vogels"
 license: CC-BY-NC-SA-4.0
 stamp:

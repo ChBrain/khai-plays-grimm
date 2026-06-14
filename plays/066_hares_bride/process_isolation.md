@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "isolation"
+title: "Isolation"
 declared: "Brautlager"
 license: CC-BY-NC-SA-4.0
 stamp:

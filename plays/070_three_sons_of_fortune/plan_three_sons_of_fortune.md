@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "three_sons_of_fortune"
+title: "Three Sons of Fortune"
 declared: "die Reise ins Glück"
 license: CC-BY-NC-SA-4.0
 stamp:

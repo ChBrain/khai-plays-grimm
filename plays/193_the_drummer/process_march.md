@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "march"
+title: "March"
 declared: "der Anmarsch zum Glasberg"
 license: CC-BY-NC-SA-4.0
 stamp:

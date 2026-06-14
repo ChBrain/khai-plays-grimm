@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "lions"
+title: "The Lions"
 declared: "die Löwen"
 license: CC-BY-NC-SA-4.0
 stamp:

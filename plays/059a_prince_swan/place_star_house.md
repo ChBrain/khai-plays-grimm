@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "star_house"
+title: "The Star House"
 declared: "das Haus des Sterns"
 license: CC-BY-NC-SA-4.0
 stamp:

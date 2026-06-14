@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "laurence"
+title: "The Laurence"
 declared: "der lange Lenz"
 license: CC-BY-NC-SA-4.0
 stamp:

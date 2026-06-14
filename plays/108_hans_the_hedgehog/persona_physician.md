@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "physician"
+title: "The Physician"
 declared: "der Arzt"
 license: CC-BY-NC-SA-4.0
 stamp:

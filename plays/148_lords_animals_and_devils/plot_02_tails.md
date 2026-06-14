@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "tails"
+title: "Tails"
 declared: "Der abgebissene Schwanz"
 license: CC-BY-NC-SA-4.0
 stamp:

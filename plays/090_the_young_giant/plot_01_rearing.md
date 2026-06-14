@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "rearing"
+title: "Rearing"
 declared: "Die Aufzucht beim Riesen"
 license: CC-BY-NC-SA-4.0
 stamp:

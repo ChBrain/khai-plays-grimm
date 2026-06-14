@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "condemnation"
+title: "Condemnation"
 declared: "die Verurteilung"
 license: CC-BY-NC-SA-4.0
 stamp:

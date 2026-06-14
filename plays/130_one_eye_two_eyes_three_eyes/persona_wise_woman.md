@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "wise_woman"
+title: "The Wise Woman"
 declared: "weise Frau"
 license: CC-BY-NC-SA-4.0
 stamp:

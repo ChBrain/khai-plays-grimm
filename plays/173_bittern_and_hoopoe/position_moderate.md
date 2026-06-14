@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "moderate"
+title: "The Moderate"
 declared: "der Maßvolle"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "girl"
+title: "The Girl"
 declared: "Mädchen"
 license: CC-BY-NC-SA-4.0
 stamp:

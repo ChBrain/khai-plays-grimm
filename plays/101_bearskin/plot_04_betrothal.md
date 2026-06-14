@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "betrothal"
+title: "Betrothal"
 declared: "Das Verlöbnis"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "arrest"
+title: "Arrest"
 declared: "Die Verhaftung"
 license: CC-BY-NC-SA-4.0
 stamp:

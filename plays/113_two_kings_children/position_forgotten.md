@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "forgotten"
+title: "The Forgotten"
 declared: "die Vergessene"
 license: CC-BY-NC-SA-4.0
 stamp:

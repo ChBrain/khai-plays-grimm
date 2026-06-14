@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "ship"
+title: "The Ship"
 declared: "Schiff"
 license: CC-BY-NC-SA-4.0
 stamp:

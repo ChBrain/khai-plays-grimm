@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "shore"
+title: "The Shore"
 declared: "Ufer"
 license: CC-BY-NC-SA-4.0
 stamp:

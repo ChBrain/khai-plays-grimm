@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "abuse"
+title: "Abuse"
 declared: "die Misshandlung"
 license: CC-BY-NC-SA-4.0
 stamp:

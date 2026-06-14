@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "sparrow"
+title: "The Sparrow"
 declared: "Sperling"
 license: CC-BY-NC-SA-4.0
 stamp:

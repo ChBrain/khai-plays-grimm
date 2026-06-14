@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "recognition"
+title: "Recognition"
 declared: "das Erkennen der Perle"
 license: CC-BY-NC-SA-4.0
 stamp:

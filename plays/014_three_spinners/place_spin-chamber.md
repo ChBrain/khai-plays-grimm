@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "spin-chamber"
+title: "The Spin Chamber"
 declared: "Spinnstube"
 license: CC-BY-NC-SA-4.0
 stamp:

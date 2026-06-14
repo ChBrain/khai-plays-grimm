@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "confrontation"
+title: "Confrontation"
 declared: "Die Konfrontation"
 license: CC-BY-NC-SA-4.0
 stamp:

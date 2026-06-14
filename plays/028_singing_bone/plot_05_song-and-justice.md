@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_song-and-justice"
+title: "Song and Justice"
 declared: "Das Urteil"
 license: CC-BY-NC-SA-4.0
 stamp:

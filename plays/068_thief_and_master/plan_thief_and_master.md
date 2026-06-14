@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "thief_and_master"
+title: "Thief and Master"
 declared: "die Befreiung"
 license: CC-BY-NC-SA-4.0
 stamp:

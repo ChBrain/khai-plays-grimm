@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "stranger"
+title: "Stranger"
 declared: "Das fremde Kind und die Rose"
 license: CC-BY-NC-SA-4.0
 stamp:

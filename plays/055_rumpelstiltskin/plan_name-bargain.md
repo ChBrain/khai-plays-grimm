@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "name-bargain"
+title: "Name Bargain"
 declared: "der Handel ums Kind"
 license: CC-BY-NC-SA-4.0
 stamp:

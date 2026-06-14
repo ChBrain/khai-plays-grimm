@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "eyes"
+title: "Eyes"
 declared: "Die Teufelsaugen"
 license: CC-BY-NC-SA-4.0
 stamp:

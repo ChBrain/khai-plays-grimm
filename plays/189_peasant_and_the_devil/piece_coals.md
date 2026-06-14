@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "coals"
+title: "The Coals"
 declared: "die glühenden Kohlen"
 license: CC-BY-NC-SA-4.0
 stamp:

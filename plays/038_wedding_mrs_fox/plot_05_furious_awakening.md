@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "furious_awakening"
+title: "Furious Awakening"
 declared: "Das grimmige Erwachen"
 license: CC-BY-NC-SA-4.0
 stamp:

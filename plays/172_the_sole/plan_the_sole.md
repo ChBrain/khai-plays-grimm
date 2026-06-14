@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_sole"
+title: "The Sole"
 declared: "die Königswahl"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "champion"
+title: "The Champion"
 declared: "geheimnisvolle Ritter"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "bystanders"
+title: "The Bystanders"
 declared: "die Umstehenden"
 license: CC-BY-NC-SA-4.0
 stamp:

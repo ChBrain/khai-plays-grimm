@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "falada"
+title: "Falada"
 declared: "Faladas Tod und das Tor"
 license: CC-BY-NC-SA-4.0
 stamp:

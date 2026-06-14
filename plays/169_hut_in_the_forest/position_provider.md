@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "provider"
+title: "The Provider"
 declared: "der Versorger"
 license: CC-BY-NC-SA-4.0
 stamp:

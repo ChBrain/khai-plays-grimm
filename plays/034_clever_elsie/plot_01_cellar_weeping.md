@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "cellar_weeping"
+title: "Cellar Weeping"
 declared: "Das Weinen im Keller"
 license: CC-BY-NC-SA-4.0
 stamp:

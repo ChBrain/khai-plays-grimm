@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "service"
+title: "Service"
 declared: "Dienstzeit"
 license: CC-BY-NC-SA-4.0
 stamp:

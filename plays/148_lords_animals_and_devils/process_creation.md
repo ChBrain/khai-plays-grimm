@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "creation"
+title: "Creation"
 declared: "die Erschaffung"
 license: CC-BY-NC-SA-4.0
 stamp:

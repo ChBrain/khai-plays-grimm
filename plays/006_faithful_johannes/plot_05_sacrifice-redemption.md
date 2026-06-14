@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_sacrifice-redemption"
+title: "Sacrifice Redemption"
 declared: "Das Opfer und die Erlösung"
 license: CC-BY-NC-SA-4.0
 stamp:

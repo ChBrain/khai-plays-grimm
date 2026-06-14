@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "treasure_recovered"
+title: "Treasure Recovered"
 declared: "Der gehobene Schatz"
 license: CC-BY-NC-SA-4.0
 stamp:

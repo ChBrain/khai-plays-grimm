@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "nuts"
+title: "Nuts"
 declared: "Die List der Nüsse"
 license: CC-BY-NC-SA-4.0
 stamp:

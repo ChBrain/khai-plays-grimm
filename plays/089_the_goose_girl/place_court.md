@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "court"
+title: "The Court"
 declared: "der neue Königshof"
 license: CC-BY-NC-SA-4.0
 stamp:

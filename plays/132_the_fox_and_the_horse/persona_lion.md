@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "lion"
+title: "The Lion"
 declared: "Löwe"
 license: CC-BY-NC-SA-4.0
 stamp:

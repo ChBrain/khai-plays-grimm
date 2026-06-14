@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "verschwender"
+title: "Verschwender"
 declared: "der Verschwender"
 license: CC-BY-NC-SA-4.0
 stamp:

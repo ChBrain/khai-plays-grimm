@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "escalation"
+title: "Escalation"
 declared: "Eskalation"
 license: CC-BY-NC-SA-4.0
 stamp:

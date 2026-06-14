@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "maiden"
+title: "The Maiden"
 declared: "die schwarze Maid"
 license: CC-BY-NC-SA-4.0
 stamp:

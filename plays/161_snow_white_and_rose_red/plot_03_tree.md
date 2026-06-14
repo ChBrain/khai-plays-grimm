@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "tree"
+title: "Tree"
 declared: "Der Bart im Baum"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "collapse"
+title: "Collapse"
 declared: "der Zusammenbruch"
 license: CC-BY-NC-SA-4.0
 stamp:

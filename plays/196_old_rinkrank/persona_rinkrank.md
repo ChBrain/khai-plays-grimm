@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "rinkrank"
+title: "The Rinkrank"
 declared: "der alte Rinkrank"
 license: CC-BY-NC-SA-4.0
 stamp:

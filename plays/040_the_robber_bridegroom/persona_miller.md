@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "miller"
+title: "The Miller"
 declared: "Müller"
 license: CC-BY-NC-SA-4.0
 stamp:

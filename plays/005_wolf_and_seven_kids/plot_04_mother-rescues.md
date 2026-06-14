@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_mother-rescues"
+title: "Mother Rescues"
 declared: "Die Mutter öffnet den Wolf"
 license: CC-BY-NC-SA-4.0
 stamp:

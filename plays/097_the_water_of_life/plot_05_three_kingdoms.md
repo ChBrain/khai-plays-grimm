@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "three_kingdoms"
+title: "Three Kingdoms"
 declared: "Schwert und Brot retten drei Reiche"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "mirror_verdict"
+title: "Mirror Verdict"
 declared: "Der Spiegelspruch"
 license: CC-BY-NC-SA-4.0
 stamp:

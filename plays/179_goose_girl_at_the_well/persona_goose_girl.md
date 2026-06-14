@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "goose_girl"
+title: "The Goose Girl"
 declared: "das Gänsemädchen"
 license: CC-BY-NC-SA-4.0
 stamp:

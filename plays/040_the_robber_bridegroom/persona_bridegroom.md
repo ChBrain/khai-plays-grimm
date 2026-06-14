@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "bridegroom"
+title: "The Bridegroom"
 declared: "Räuberbräutigam"
 license: CC-BY-NC-SA-4.0
 stamp:

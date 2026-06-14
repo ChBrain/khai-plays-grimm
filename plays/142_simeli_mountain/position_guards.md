@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "guards"
+title: "The Guards"
 declared: "die Wächter"
 license: CC-BY-NC-SA-4.0
 stamp:

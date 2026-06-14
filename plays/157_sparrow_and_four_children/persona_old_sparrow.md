@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "old_sparrow"
+title: "The Old Sparrow"
 declared: "der alte Sperling"
 license: CC-BY-NC-SA-4.0
 stamp:

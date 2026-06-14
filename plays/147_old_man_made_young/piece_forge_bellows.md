@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "forge_bellows"
+title: "The Forge Bellows"
 declared: "die Esse mit Blasebalg"
 license: CC-BY-NC-SA-4.0
 stamp:

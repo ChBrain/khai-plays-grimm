@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "promise"
+title: "Promise"
 declared: "Das Versprechen an den Löwen"
 license: CC-BY-NC-SA-4.0
 stamp:

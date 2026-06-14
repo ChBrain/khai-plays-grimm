@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "swap"
+title: "Swap"
 declared: "die Vertauschung"
 license: CC-BY-NC-SA-4.0
 stamp:

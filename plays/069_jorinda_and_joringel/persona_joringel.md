@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "joringel"
+title: "Joringel"
 declared: "Joringel"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_water_of_life"
+title: "The Water of Life"
 declared: "die Quelle des Lebens"
 license: CC-BY-NC-SA-4.0
 stamp:

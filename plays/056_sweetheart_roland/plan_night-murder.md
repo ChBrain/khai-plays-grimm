@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "night-murder"
+title: "Night Murder"
 declared: "der Mord im Bett"
 license: CC-BY-NC-SA-4.0
 stamp:

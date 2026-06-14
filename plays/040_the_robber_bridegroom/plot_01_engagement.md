@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "engagement"
+title: "Engagement"
 declared: "Die Verlobung"
 license: CC-BY-NC-SA-4.0
 stamp:

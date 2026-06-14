@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_consumption"
+title: "Consumption"
 declared: "Die Verschlingung"
 license: CC-BY-NC-SA-4.0
 stamp:

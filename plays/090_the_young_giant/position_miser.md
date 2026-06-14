@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "miser"
+title: "The Miser"
 declared: "der Geizige"
 license: CC-BY-NC-SA-4.0
 stamp:

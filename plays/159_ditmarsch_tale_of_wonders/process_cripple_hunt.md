@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "cripple_hunt"
+title: "Cripple Hunt"
 declared: "die Krüppeljagd"
 license: CC-BY-NC-SA-4.0
 stamp:

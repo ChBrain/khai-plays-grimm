@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "little_folks_presents"
+title: "Little Folks Presents"
 declared: "die Habgier"
 license: CC-BY-NC-SA-4.0
 stamp:

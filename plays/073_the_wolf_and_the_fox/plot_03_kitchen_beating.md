@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "kitchen_beating"
+title: "Kitchen Beating"
 declared: "Der Pfannkuchendiebstahl"
 license: CC-BY-NC-SA-4.0
 stamp:

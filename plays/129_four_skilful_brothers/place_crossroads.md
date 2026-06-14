@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "crossroads"
+title: "The Crossroads"
 declared: "der Kreuzweg"
 license: CC-BY-NC-SA-4.0
 stamp:

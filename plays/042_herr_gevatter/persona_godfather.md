@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "godfather"
+title: "The Godfather"
 declared: "Herr Gevatter"
 license: CC-BY-NC-SA-4.0
 stamp:

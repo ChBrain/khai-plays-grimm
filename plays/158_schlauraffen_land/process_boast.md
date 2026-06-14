@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "boast"
+title: "Boast"
 declared: "das Aufschneiden"
 license: CC-BY-NC-SA-4.0
 stamp:

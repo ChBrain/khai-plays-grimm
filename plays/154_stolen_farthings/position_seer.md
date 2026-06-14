@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "seer"
+title: "The Seer"
 declared: "der Sehende"
 license: CC-BY-NC-SA-4.0
 stamp:

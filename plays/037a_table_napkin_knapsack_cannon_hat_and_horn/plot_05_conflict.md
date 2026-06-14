@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_conflict"
+title: "Conflict"
 declared: "Die Demonstration der Macht"
 license: CC-BY-NC-SA-4.0
 stamp:

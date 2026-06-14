@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "wuenschen"
+title: "Wuenschen"
 declared: "das Wünschen"
 license: CC-BY-NC-SA-4.0
 stamp:

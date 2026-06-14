@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_theft"
+title: "Theft"
 declared: "Der Raub der Rapunzeln"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "severance"
+title: "Severance"
 declared: "Entzweiung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "linen"
+title: "The Linen"
 declared: "Tücher"
 license: CC-BY-NC-SA-4.0
 stamp:

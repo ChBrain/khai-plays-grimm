@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "house_snake"
+title: "The House Snake"
 declared: "die Hausunke"
 license: CC-BY-NC-SA-4.0
 stamp:

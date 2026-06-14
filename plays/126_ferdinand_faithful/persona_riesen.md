@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "riesen"
+title: "The Riesen"
 declared: "die Riesen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_royal-justice"
+title: "Royal Justice"
 declared: "Das Hochzeitsgericht"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "bread"
+title: "The Bread"
 declared: "eine Handvoll Prutzeln"
 license: CC-BY-NC-SA-4.0
 stamp:

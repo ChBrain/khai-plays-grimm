@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "third_soldier"
+title: "The Third Soldier"
 declared: "der dritte Soldat"
 license: CC-BY-NC-SA-4.0
 stamp:

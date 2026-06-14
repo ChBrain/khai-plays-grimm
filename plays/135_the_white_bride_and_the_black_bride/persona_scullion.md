@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "scullion"
+title: "The Scullion"
 declared: "der Küchenjunge"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "reunion"
+title: "Reunion"
 declared: "Das Wiedererkennen im Tal"
 license: CC-BY-NC-SA-4.0
 stamp:

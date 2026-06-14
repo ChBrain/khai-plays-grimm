@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "chimney_departure"
+title: "Chimney Departure"
 declared: "Der Schornsteinabzug"
 license: CC-BY-NC-SA-4.0
 stamp:

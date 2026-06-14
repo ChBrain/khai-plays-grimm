@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "stable"
+title: "The Stable"
 declared: "Stall"
 license: CC-BY-NC-SA-4.0
 stamp:

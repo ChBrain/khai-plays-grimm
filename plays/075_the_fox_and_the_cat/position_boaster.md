@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "boaster"
+title: "The Boaster"
 declared: "der Prahler"
 license: CC-BY-NC-SA-4.0
 stamp:

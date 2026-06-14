@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "aufdecker"
+title: "The Aufdecker"
 declared: "der Aufdecker"
 license: CC-BY-NC-SA-4.0
 stamp:

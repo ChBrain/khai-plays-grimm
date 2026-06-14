@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "pledge"
+title: "Pledge"
 declared: "Das Gelöbnis"
 license: CC-BY-NC-SA-4.0
 stamp:

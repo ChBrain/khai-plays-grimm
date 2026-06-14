@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "old_woman_in_wood"
+title: "Old Woman in Wood"
 declared: "die Erlösung des Königssohns"
 license: CC-BY-NC-SA-4.0
 stamp:

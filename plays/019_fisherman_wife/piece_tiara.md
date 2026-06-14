@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "tiara"
+title: "The Tiara"
 declared: "Papstkrone"
 license: CC-BY-NC-SA-4.0
 stamp:

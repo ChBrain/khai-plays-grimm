@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "sharing"
+title: "Sharing"
 declared: "Teilen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "breadcrumbs"
+title: "The Breadcrumbs"
 declared: "Brotkrümel"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "riddle"
+title: "Riddle"
 declared: "Das gelöste Rätsel"
 license: CC-BY-NC-SA-4.0
 stamp:

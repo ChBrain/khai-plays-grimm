@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "three_sluggards"
+title: "Three Sluggards"
 declared: "die Nachfolge"
 license: CC-BY-NC-SA-4.0
 stamp:

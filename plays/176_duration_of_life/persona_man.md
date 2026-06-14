@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "man"
+title: "The Man"
 declared: "der Mensch"
 license: CC-BY-NC-SA-4.0
 stamp:

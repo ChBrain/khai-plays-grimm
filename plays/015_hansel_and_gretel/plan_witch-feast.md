@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "witch-feast"
+title: "Witch Feast"
 declared: "der Fraß im Zuckerhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

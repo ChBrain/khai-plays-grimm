@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "boats"
+title: "Boats"
 declared: "Die drei Boote"
 license: CC-BY-NC-SA-4.0
 stamp:

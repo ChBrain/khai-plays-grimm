@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "meadow"
+title: "The Meadow"
 declared: "die Wiese am Teich"
 license: CC-BY-NC-SA-4.0
 stamp:

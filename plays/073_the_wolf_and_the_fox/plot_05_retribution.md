@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "retribution"
+title: "Retribution"
 declared: "Der Tod im Keller"
 license: CC-BY-NC-SA-4.0
 stamp:

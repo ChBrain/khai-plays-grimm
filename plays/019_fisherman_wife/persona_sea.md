@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "sea"
+title: "The Sea"
 declared: "Meer"
 license: CC-BY-NC-SA-4.0
 stamp:

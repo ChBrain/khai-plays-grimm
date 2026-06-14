@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "crutches"
+title: "The Crutches"
 declared: "die Krücken-und-Stelzen"
 license: CC-BY-NC-SA-4.0
 stamp:

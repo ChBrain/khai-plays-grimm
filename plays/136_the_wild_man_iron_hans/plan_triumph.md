@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "triumph"
+title: "Triumph"
 declared: "der Aufstieg des Gärtners"
 license: CC-BY-NC-SA-4.0
 stamp:

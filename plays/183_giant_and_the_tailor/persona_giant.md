@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "giant"
+title: "The Giant"
 declared: "der Riese"
 license: CC-BY-NC-SA-4.0
 stamp:

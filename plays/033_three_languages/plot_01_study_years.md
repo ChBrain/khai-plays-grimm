@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "study_years"
+title: "Study Years"
 declared: "Die Lehrjahre"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "quarry"
+title: "The Quarry"
 declared: "die Beute"
 license: CC-BY-NC-SA-4.0
 stamp:

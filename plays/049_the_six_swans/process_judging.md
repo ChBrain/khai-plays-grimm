@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "judging"
+title: "Judging"
 declared: "Gericht"
 license: CC-BY-NC-SA-4.0
 stamp:

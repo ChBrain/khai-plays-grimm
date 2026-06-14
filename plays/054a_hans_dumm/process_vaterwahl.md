@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "vaterwahl"
+title: "Vaterwahl"
 declared: "die Vaterwahl"
 license: CC-BY-NC-SA-4.0
 stamp:

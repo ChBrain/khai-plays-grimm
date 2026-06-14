@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_ungrateful_son"
+title: "The Ungrateful Son"
 declared: "die Verheimlichung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "leading"
+title: "Leading"
 declared: "die Führung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "devil_and_grandmother"
+title: "Devil and Grandmother"
 declared: "die Aufklärung"
 license: CC-BY-NC-SA-4.0
 stamp:

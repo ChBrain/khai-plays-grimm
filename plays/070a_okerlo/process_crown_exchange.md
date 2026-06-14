@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "crown_exchange"
+title: "Crown Exchange"
 declared: "Kronenwechsel"
 license: CC-BY-NC-SA-4.0
 stamp:

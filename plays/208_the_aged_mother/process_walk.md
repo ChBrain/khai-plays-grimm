@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "walk"
+title: "Walk"
 declared: "der Gang zur Kirche"
 license: CC-BY-NC-SA-4.0
 stamp:

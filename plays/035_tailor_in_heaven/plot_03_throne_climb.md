@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "throne_climb"
+title: "Throne Climb"
 declared: "Der Blick vom Thron"
 license: CC-BY-NC-SA-4.0
 stamp:

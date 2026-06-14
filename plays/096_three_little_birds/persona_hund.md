@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "hund"
+title: "The Hund"
 declared: "der schwarze Hund"
 license: CC-BY-NC-SA-4.0
 stamp:

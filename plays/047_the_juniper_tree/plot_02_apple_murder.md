@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "apple_murder"
+title: "Apple Murder"
 declared: "Der Mord"
 license: CC-BY-NC-SA-4.0
 stamp:

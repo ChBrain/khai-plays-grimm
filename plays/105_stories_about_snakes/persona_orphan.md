@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "orphan"
+title: "The Orphan"
 declared: "die Waise"
 license: CC-BY-NC-SA-4.0
 stamp:

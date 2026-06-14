@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "piece_money"
+title: "The Piece Money"
 declared: "Geld"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "fatal_end"
+title: "Fatal End"
 declared: "Das bittere Ende"
 license: CC-BY-NC-SA-4.0
 stamp:

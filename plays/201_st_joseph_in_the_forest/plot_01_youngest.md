@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "youngest"
+title: "Youngest"
 declared: "Die jüngste Tochter"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "peddler"
+title: "The Peddler"
 declared: "Verkäuferin"
 license: CC-BY-NC-SA-4.0
 stamp:

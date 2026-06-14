@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "revelation"
+title: "Revelation"
 declared: "Die Offenbarung der Muhme"
 license: CC-BY-NC-SA-4.0
 stamp:

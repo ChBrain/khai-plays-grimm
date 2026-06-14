@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "oat_chest"
+title: "The Oat Chest"
 declared: "der Hafer-Kasten"
 license: CC-BY-NC-SA-4.0
 stamp:

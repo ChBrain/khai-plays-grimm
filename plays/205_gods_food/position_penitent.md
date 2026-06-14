@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "penitent"
+title: "The Penitent"
 declared: "der Reuige"
 license: CC-BY-NC-SA-4.0
 stamp:

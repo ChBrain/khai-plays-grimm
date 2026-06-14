@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "liberation"
+title: "Liberation"
 declared: "die Entzauberung und Erlösung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "destruction"
+title: "Destruction"
 declared: "Zerstörung"
 license: CC-BY-NC-SA-4.0
 stamp:

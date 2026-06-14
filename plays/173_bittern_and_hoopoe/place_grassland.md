@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "grassland"
+title: "The Grassland"
 declared: "das maßvolle Weideland"
 license: CC-BY-NC-SA-4.0
 stamp:

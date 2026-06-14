@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "contest"
+title: "Contest"
 declared: "Rätselkampf"
 license: CC-BY-NC-SA-4.0
 stamp:

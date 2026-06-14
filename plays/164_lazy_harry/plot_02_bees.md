@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "bees"
+title: "Bees"
 declared: "Der Vorschlag des Bienenstocks"
 license: CC-BY-NC-SA-4.0
 stamp:

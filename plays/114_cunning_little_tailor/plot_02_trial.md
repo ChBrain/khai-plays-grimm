@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "trial"
+title: "Trial"
 declared: "Die Bärenprobe"
 license: CC-BY-NC-SA-4.0
 stamp:

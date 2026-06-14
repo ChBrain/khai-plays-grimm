@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "rock"
+title: "The Rock"
 declared: "verzauberte Fels"
 license: CC-BY-NC-SA-4.0
 stamp:

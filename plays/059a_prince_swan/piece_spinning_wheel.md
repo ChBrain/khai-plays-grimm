@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "spinning_wheel"
+title: "The Spinning Wheel"
 declared: "das goldene Spinnrädchen"
 license: CC-BY-NC-SA-4.0
 stamp:

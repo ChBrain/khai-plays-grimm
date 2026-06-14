@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "repentance"
+title: "Repentance"
 declared: "die Reue"
 license: CC-BY-NC-SA-4.0
 stamp:

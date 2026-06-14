@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_aged_mother"
+title: "The Aged Mother"
 declared: "der Trost durch die Gnade"
 license: CC-BY-NC-SA-4.0
 stamp:

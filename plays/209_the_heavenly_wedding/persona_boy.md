@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "boy"
+title: "The Boy"
 declared: "der arme Junge"
 license: CC-BY-NC-SA-4.0
 stamp:

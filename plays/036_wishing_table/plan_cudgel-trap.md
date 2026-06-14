@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "cudgel-trap"
+title: "Cudgel Trap"
 declared: "die Knüppelfalle des Jüngsten"
 license: CC-BY-NC-SA-4.0
 stamp:

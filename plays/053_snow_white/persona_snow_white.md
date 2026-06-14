@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "snow_white"
+title: "The Snow White"
 declared: "Schneewittchen"
 license: CC-BY-NC-SA-4.0
 stamp:

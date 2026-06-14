@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "conspirator"
+title: "The Conspirator"
 declared: "Verschwörer"
 license: CC-BY-NC-SA-4.0
 stamp:

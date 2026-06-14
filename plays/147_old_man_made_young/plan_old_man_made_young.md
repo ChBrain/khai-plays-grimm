@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "old_man_made_young"
+title: "Old Man Made Young"
 declared: "die Nachahmung"
 license: CC-BY-NC-SA-4.0
 stamp:

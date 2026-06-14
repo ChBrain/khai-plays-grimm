@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "greater_boasts"
+title: "Greater Boasts"
 declared: "Die größeren Prahlereien"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "expulsion"
+title: "Expulsion"
 declared: "Ausstoßung"
 license: CC-BY-NC-SA-4.0
 stamp:

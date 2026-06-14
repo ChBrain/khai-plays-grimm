@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "trap"
+title: "Trap"
 declared: "Der Bart im Fensterlein"
 license: CC-BY-NC-SA-4.0
 stamp:

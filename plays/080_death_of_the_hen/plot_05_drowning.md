@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "drowning"
+title: "Drowning"
 declared: "Das Ertrinken am Bach"
 license: CC-BY-NC-SA-4.0
 stamp:

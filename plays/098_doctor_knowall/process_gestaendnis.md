@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "gestaendnis"
+title: "Gestaendnis"
 declared: "das Geständnis"
 license: CC-BY-NC-SA-4.0
 stamp:

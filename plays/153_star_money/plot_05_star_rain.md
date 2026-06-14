@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "star_rain"
+title: "Star Rain"
 declared: "Der Sternenregen"
 license: CC-BY-NC-SA-4.0
 stamp:

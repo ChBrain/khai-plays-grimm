@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "wolf-claim"
+title: "Wolf Claim"
 declared: "die Forderung des Wolfs"
 license: CC-BY-NC-SA-4.0
 stamp:

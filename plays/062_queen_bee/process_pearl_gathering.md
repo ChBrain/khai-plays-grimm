@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "pearl_gathering"
+title: "Pearl Gathering"
 declared: "Perlensuche"
 license: CC-BY-NC-SA-4.0
 stamp:

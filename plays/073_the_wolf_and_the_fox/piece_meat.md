@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "meat"
+title: "The Meat"
 declared: "das Salzfleisch"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "coop"
+title: "The Coop"
 declared: "Taubenhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

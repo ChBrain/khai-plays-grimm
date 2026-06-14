@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "oak"
+title: "The Oak"
 declared: "die alte Eiche"
 license: CC-BY-NC-SA-4.0
 stamp:

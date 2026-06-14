@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_schreckkonzert"
+title: "Schreckkonzert"
 declared: "Das Konzert"
 license: CC-BY-NC-SA-4.0
 stamp:

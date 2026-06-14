@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "trunk"
+title: "The Trunk"
 declared: "der Koffer"
 license: CC-BY-NC-SA-4.0
 stamp:

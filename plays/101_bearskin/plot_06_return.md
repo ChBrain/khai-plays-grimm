@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "return"
+title: "Return"
 declared: "Die Wiederkehr und das doppelte Ende"
 license: CC-BY-NC-SA-4.0
 stamp:

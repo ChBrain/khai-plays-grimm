@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "trials"
+title: "Trials"
 declared: "Die drei gesetzten Proben"
 license: CC-BY-NC-SA-4.0
 stamp:

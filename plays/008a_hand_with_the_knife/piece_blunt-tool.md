@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "blunt-tool"
+title: "The Blunt Tool"
 declared: "stumpfes Gerät"
 license: CC-BY-NC-SA-4.0
 stamp:

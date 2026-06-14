@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "vigilant"
+title: "The Vigilant"
 declared: "Wächter"
 license: CC-BY-NC-SA-4.0
 stamp:

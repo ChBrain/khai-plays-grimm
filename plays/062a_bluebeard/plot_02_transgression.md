@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_transgression"
+title: "Transgression"
 declared: "Der Kammer-Tabubruch"
 license: CC-BY-NC-SA-4.0
 stamp:

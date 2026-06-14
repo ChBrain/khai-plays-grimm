@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "ground"
+title: "The Ground"
 declared: "der Paradeplatz"
 license: CC-BY-NC-SA-4.0
 stamp:

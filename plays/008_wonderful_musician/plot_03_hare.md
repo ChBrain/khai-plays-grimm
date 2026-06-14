@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_hare"
+title: "Hare"
 declared: "Der Hase am Strick"
 license: CC-BY-NC-SA-4.0
 stamp:

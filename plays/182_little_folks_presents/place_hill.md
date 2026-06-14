@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "hill"
+title: "The Hill"
 declared: "der Hügel"
 license: CC-BY-NC-SA-4.0
 stamp:

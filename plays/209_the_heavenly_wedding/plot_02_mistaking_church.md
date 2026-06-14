@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "mistaking_church"
+title: "Mistaking Church"
 declared: "Die Kirche für den Himmel gehalten"
 license: CC-BY-NC-SA-4.0
 stamp:

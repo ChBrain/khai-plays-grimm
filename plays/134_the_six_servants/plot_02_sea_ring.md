@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_sea_ring"
+title: "Sea Ring"
 declared: "Der Ring im Roten Meer"
 license: CC-BY-NC-SA-4.0
 stamp:

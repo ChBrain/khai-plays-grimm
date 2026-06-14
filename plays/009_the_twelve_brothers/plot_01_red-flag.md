@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_red-flag"
+title: "Red Flag"
 declared: "Die rote Flagge"
 license: CC-BY-NC-SA-4.0
 stamp:

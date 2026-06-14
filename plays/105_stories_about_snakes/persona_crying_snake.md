@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "crying_snake"
+title: "The Crying Snake"
 declared: "die klagende Unke"
 license: CC-BY-NC-SA-4.0
 stamp:

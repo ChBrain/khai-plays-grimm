@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "twins"
+title: "The Twins"
 declared: "Zwillinge"
 license: CC-BY-NC-SA-4.0
 stamp:

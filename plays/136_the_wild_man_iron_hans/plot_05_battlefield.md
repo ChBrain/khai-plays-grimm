@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_battlefield"
+title: "Battlefield"
 declared: "Der eiserne Ritter im Krieg"
 license: CC-BY-NC-SA-4.0
 stamp:

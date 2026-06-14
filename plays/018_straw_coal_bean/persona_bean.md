@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "bean"
+title: "The Bean"
 declared: "Bohne"
 license: CC-BY-NC-SA-4.0
 stamp:

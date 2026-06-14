@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "reunion"
+title: "Reunion"
 declared: "Die Heimkehr und Feier"
 license: CC-BY-NC-SA-4.0
 stamp:

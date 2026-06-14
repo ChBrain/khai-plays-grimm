@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "bones_gathered"
+title: "Bones Gathered"
 declared: "Die Knochen"
 license: CC-BY-NC-SA-4.0
 stamp:

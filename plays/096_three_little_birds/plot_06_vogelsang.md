@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "vogelsang"
+title: "Vogelsang"
 declared: "Der Vogelsang"
 license: CC-BY-NC-SA-4.0
 stamp:

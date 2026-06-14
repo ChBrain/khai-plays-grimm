@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "woman"
+title: "The Woman"
 declared: "die Frau im Wagen"
 license: CC-BY-NC-SA-4.0
 stamp:

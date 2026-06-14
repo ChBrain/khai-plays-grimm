@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "ghosts"
+title: "The Ghosts"
 declared: "Gespenster"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "greedy"
+title: "The Greedy"
 declared: "die Habgierige"
 license: CC-BY-NC-SA-4.0
 stamp:

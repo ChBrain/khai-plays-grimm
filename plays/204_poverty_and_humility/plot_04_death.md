@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "death"
+title: "Death"
 declared: "Der heilige Tod"
 license: CC-BY-NC-SA-4.0
 stamp:

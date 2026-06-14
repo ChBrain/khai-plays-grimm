@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "beast"
+title: "The Beast"
 declared: "das Tier"
 license: CC-BY-NC-SA-4.0
 stamp:

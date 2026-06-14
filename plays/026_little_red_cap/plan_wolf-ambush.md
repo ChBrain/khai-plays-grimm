@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "wolf-ambush"
+title: "Wolf Ambush"
 declared: "der Hinterhalt des Wolfes"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "eavesdropping"
+title: "Eavesdropping"
 declared: "Lauschen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "captive"
+title: "The Captive"
 declared: "Fleißgezwungene"
 license: CC-BY-NC-SA-4.0
 stamp:

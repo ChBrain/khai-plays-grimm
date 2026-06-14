@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "man_cham"
+title: "The Man Cham"
 declared: "der Mann Cham"
 license: CC-BY-NC-SA-4.0
 stamp:

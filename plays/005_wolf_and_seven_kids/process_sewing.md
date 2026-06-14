@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "sewing"
+title: "Sewing"
 declared: "Zunähen"
 license: CC-BY-NC-SA-4.0
 stamp:

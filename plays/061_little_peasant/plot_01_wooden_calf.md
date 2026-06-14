@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "wooden_calf"
+title: "Wooden Calf"
 declared: "Das Holzkalb"
 license: CC-BY-NC-SA-4.0
 stamp:

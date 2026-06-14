@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "battle"
+title: "Battle"
 declared: "die Schlacht"
 license: CC-BY-NC-SA-4.0
 stamp:

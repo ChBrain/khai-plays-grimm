@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "forgetful"
+title: "The Forgetful"
 declared: "die Vergessliche"
 license: CC-BY-NC-SA-4.0
 stamp:

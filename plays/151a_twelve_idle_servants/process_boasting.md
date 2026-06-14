@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "boasting"
+title: "Boasting"
 declared: "das Prahlen"
 license: CC-BY-NC-SA-4.0
 stamp:

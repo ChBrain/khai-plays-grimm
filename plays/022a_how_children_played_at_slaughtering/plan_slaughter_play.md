@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "slaughter-play"
+title: "Slaughter Play"
 declared: "das Nachahmungsspiel der Kinder"
 license: CC-BY-NC-SA-4.0
 stamp:

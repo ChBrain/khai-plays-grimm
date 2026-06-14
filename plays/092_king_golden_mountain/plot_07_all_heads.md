@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "all_heads"
+title: "All Heads"
 declared: "Alle Köpfe ab außer meinem"
 license: CC-BY-NC-SA-4.0
 stamp:

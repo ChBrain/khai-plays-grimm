@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "castle_sleep"
+title: "Castle Sleep"
 declared: "Der Schlosslauf"
 license: CC-BY-NC-SA-4.0
 stamp:

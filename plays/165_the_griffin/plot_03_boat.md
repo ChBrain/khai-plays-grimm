@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "boat"
+title: "Boat"
 declared: "Das Schiff auf dem Land"
 license: CC-BY-NC-SA-4.0
 stamp:

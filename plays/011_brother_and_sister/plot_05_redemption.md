@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_redemption"
+title: "Redemption"
 declared: "Die Erlösung am Wochenbett"
 license: CC-BY-NC-SA-4.0
 stamp:

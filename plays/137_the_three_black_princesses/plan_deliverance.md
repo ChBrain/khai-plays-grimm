@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "deliverance"
+title: "Deliverance"
 declared: "die Erlösung der Prinzessinnen"
 license: CC-BY-NC-SA-4.0
 stamp:

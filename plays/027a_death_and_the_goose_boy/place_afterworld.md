@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "afterworld"
+title: "The Afterworld"
 declared: "jenseitiges Land"
 license: CC-BY-NC-SA-4.0
 stamp:

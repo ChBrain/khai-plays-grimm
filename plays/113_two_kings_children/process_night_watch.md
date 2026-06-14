@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "night_watch"
+title: "Night Watch"
 declared: "die Nachtwache"
 license: CC-BY-NC-SA-4.0
 stamp:

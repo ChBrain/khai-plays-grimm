@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "deluge"
+title: "Deluge"
 declared: "Sintflut"
 license: CC-BY-NC-SA-4.0
 stamp:

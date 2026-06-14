@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "capture"
+title: "Capture"
 declared: "die Gefangennahme"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "toad"
+title: "The Toad"
 declared: "die alte dicke Kröte"
 license: CC-BY-NC-SA-4.0
 stamp:

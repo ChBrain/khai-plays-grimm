@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "stray"
+title: "Stray"
 declared: "Die verirrte Eule"
 license: CC-BY-NC-SA-4.0
 stamp:

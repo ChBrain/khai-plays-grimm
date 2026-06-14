@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "reunion"
+title: "Reunion"
 declared: "Die Wiederfindung"
 license: CC-BY-NC-SA-4.0
 stamp:

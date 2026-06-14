@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "student"
+title: "The Student"
 declared: "der Student"
 license: CC-BY-NC-SA-4.0
 stamp:

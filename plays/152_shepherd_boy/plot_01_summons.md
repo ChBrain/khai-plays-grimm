@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "summons"
+title: "Summons"
 declared: "Die Vorladung"
 license: CC-BY-NC-SA-4.0
 stamp:

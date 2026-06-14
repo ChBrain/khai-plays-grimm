@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "cavalry_blow"
+title: "Cavalry Blow"
 declared: "Der Gegensturm des Königs"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "tools"
+title: "The Tools"
 declared: "die Elle und die Schere"
 license: CC-BY-NC-SA-4.0
 stamp:

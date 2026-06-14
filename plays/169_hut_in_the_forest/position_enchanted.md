@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "enchanted"
+title: "The Enchanted"
 declared: "der Verwunschene"
 license: CC-BY-NC-SA-4.0
 stamp:

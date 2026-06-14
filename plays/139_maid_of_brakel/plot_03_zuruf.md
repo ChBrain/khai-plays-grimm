@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "zuruf"
+title: "Zuruf"
 declared: "Der Zuruf und die Verwechslung"
 license: CC-BY-NC-SA-4.0
 stamp:

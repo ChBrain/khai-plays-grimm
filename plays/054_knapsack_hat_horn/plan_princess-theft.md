@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "princess-theft"
+title: "Princess Theft"
 declared: "der Raub der Prinzessin"
 license: CC-BY-NC-SA-4.0
 stamp:

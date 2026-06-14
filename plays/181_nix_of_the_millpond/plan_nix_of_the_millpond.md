@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "nix_of_the_millpond"
+title: "Nix of the Millpond"
 declared: "die Rückholung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "knife"
+title: "The Knife"
 declared: "das Tranchiermesser"
 license: CC-BY-NC-SA-4.0
 stamp:

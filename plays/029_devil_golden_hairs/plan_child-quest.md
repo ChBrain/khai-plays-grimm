@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "child-quest"
+title: "Child Quest"
 declared: "die Höllenfahrt des Glückskinds"
 license: CC-BY-NC-SA-4.0
 stamp:

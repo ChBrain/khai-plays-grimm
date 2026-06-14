@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "bridge"
+title: "The Bridge"
 declared: "die Brücke"
 license: CC-BY-NC-SA-4.0
 stamp:

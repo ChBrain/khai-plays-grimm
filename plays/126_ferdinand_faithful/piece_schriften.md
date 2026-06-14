@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "schriften"
+title: "The Schriften"
 declared: "die Schriften"
 license: CC-BY-NC-SA-4.0
 stamp:

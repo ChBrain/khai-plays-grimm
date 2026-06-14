@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "rescue"
+title: "Rescue"
 declared: "die Rettung des treuen Pferdes"
 license: CC-BY-NC-SA-4.0
 stamp:

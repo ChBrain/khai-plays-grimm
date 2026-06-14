@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "field"
+title: "Field"
 declared: "Das große Feld"
 license: CC-BY-NC-SA-4.0
 stamp:

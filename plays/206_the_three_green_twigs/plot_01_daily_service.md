@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "daily_service"
+title: "Daily Service"
 declared: "Der tägliche Dienst des Einsiedlers"
 license: CC-BY-NC-SA-4.0
 stamp:

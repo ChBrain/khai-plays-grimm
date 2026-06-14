@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "hans"
+title: "The Hans"
 declared: "der dumme Hans"
 license: CC-BY-NC-SA-4.0
 stamp:

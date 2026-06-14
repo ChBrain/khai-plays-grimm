@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "oak-tree"
+title: "The Oak Tree"
 declared: "Eiche"
 license: CC-BY-NC-SA-4.0
 stamp:

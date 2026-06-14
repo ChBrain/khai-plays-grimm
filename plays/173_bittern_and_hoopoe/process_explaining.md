@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "explaining"
+title: "Explaining"
 declared: "die Erklärung"
 license: CC-BY-NC-SA-4.0
 stamp:

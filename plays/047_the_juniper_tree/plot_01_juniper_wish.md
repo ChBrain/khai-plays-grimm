@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "juniper_wish"
+title: "Juniper Wish"
 declared: "Wunsch unter dem Baum"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "viewing"
+title: "Viewing"
 declared: "die Besichtigung"
 license: CC-BY-NC-SA-4.0
 stamp:

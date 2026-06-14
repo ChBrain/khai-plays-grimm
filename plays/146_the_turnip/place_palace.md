@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "palace"
+title: "The Palace"
 declared: "der Palast"
 license: CC-BY-NC-SA-4.0
 stamp:

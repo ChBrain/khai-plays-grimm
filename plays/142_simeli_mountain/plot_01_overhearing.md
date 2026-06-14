@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "overhearing"
+title: "Overhearing"
 declared: "Das Belauschen am Berg"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_prophecy-escape"
+title: "Prophecy Escape"
 declared: "Glückshaut"
 license: CC-BY-NC-SA-4.0
 stamp:

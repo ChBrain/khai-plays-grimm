@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "zuruf"
+title: "Zuruf"
 declared: "der Zuruf"
 license: CC-BY-NC-SA-4.0
 stamp:

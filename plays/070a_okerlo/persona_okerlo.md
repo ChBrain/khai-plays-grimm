@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "okerlo"
+title: "Okerlo"
 declared: "Okerlo"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "grave"
+title: "The Grave"
 declared: "Muttergrab"
 license: CC-BY-NC-SA-4.0
 stamp:

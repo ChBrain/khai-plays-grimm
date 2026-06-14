@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "feigned-death"
+title: "Feigned Death"
 declared: "der Scheintod des Fuchses"
 license: CC-BY-NC-SA-4.0
 stamp:

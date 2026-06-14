@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "sandy_road"
+title: "The Sandy Road"
 declared: "die heiße Sandstraße"
 license: CC-BY-NC-SA-4.0
 stamp:

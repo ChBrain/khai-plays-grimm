@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "name_quest"
+title: "Name Quest"
 declared: "Namenssuche"
 license: CC-BY-NC-SA-4.0
 stamp:

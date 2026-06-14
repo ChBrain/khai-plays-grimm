@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "dwarf"
+title: "The Dwarf"
 declared: "Zwerg"
 license: CC-BY-NC-SA-4.0
 stamp:

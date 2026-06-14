@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "dew"
+title: "Dew"
 declared: "Die Tau-Lösung"
 license: CC-BY-NC-SA-4.0
 stamp:

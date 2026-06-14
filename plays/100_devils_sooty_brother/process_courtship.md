@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "courtship"
+title: "Courtship"
 declared: "die Werbung"
 license: CC-BY-NC-SA-4.0
 stamp:

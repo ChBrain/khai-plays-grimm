@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "mortar"
+title: "Mortar"
 declared: "Der goldene Mörser"
 license: CC-BY-NC-SA-4.0
 stamp:

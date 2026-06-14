@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "cow_house"
+title: "The Cow House"
 declared: "Kuhstall"
 license: CC-BY-NC-SA-4.0
 stamp:

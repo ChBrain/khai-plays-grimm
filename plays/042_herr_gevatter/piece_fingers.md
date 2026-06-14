@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "fingers"
+title: "Fingers"
 declared: "Finger"
 license: CC-BY-NC-SA-4.0
 stamp:

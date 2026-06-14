@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "despairing"
+title: "The Despairing"
 declared: "der Verzweifelte"
 license: CC-BY-NC-SA-4.0
 stamp:

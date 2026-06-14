@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "overthrow"
+title: "Overthrow"
 declared: "Der Sturz des Todes"
 license: CC-BY-NC-SA-4.0
 stamp:

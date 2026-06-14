@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "coffin"
+title: "Coffin"
 declared: "Die Befreiung aus dem gläsernen Sarg"
 license: CC-BY-NC-SA-4.0
 stamp:

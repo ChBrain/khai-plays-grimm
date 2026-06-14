@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "sprouting_twigs"
+title: "Sprouting Twigs"
 declared: "Die Reue der Räuber und die grünen Zweige"
 license: CC-BY-NC-SA-4.0
 stamp:

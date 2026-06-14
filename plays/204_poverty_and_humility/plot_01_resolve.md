@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "resolve"
+title: "Resolve"
 declared: "Der Entschluss des Königssohns"
 license: CC-BY-NC-SA-4.0
 stamp:

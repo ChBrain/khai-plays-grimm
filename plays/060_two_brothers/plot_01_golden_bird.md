@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "golden_bird"
+title: "Golden Bird"
 declared: "Der Goldvogel"
 license: CC-BY-NC-SA-4.0
 stamp:

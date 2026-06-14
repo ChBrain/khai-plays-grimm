@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "revelation"
+title: "Revelation"
 declared: "Offenbarung"
 license: CC-BY-NC-SA-4.0
 stamp:

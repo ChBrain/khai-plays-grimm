@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "verspielen"
+title: "Verspielen"
 declared: "das Verspielen"
 license: CC-BY-NC-SA-4.0
 stamp:

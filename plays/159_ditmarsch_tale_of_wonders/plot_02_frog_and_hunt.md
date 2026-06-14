@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "frog_and_hunt"
+title: "Frog and Hunt"
 declared: "Der Frosch und die Krüppeljagd"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "revenge"
+title: "Revenge"
 declared: "Die nächtliche Rache"
 license: CC-BY-NC-SA-4.0
 stamp:

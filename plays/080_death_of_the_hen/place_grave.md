@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "grave"
+title: "The Grave"
 declared: "das Grab"
 license: CC-BY-NC-SA-4.0
 stamp:

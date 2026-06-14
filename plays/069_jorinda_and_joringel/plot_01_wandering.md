@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "wandering"
+title: "Wandering"
 declared: "Der Irrweg im Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

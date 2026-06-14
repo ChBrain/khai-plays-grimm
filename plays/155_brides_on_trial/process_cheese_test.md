@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "cheese_test"
+title: "Cheese Test"
 declared: "die Käseprobe"
 license: CC-BY-NC-SA-4.0
 stamp:

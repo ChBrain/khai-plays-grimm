@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "kerker"
+title: "Kerker"
 declared: "Der Kerker der Königin"
 license: CC-BY-NC-SA-4.0
 stamp:

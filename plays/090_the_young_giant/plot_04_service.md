@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "service"
+title: "Service"
 declared: "Der Dienst beim Amtmann"
 license: CC-BY-NC-SA-4.0
 stamp:

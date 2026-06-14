@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "ass_gift"
+title: "Ass Gift"
 declared: "Der Goldesel"
 license: CC-BY-NC-SA-4.0
 stamp:

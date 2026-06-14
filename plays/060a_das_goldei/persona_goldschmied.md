@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "goldschmied"
+title: "Goldschmied"
 declared: "Goldschmied"
 license: CC-BY-NC-SA-4.0
 stamp:

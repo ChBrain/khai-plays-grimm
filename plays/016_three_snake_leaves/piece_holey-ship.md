@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "holey-ship"
+title: "The Holey Ship"
 declared: "Todesboot"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "draught"
+title: "The Draught"
 declared: "der Schlaftrunk"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "souveraen"
+title: "The Souveraen"
 declared: "der Souverän"
 license: CC-BY-NC-SA-4.0
 stamp:

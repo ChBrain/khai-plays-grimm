@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "hire"
+title: "Hire"
 declared: "Die Anstellung"
 license: CC-BY-NC-SA-4.0
 stamp:

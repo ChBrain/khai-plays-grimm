@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "grave_mound"
+title: "The Grave Mound"
 declared: "der Grabhügel"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "stars"
+title: "Stars"
 declared: "Die Sterne am Himmel"
 license: CC-BY-NC-SA-4.0
 stamp:

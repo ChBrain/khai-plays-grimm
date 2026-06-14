@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "besen-und-schippe"
+title: "Besen Und Schippe"
 declared: "Besen und Schippe"
 license: CC-BY-NC-SA-4.0
 stamp:

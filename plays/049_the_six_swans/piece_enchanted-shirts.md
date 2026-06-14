@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "enchanted-shirts"
+title: "The Enchanted Shirts"
 declared: "verzauberte Hemden"
 license: CC-BY-NC-SA-4.0
 stamp:

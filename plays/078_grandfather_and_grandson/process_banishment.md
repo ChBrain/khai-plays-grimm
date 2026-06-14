@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "banishment"
+title: "Banishment"
 declared: "die Verstoßung"
 license: CC-BY-NC-SA-4.0
 stamp:

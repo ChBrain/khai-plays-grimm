@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "descent"
+title: "Descent"
 declared: "der Absturz"
 license: CC-BY-NC-SA-4.0
 stamp:

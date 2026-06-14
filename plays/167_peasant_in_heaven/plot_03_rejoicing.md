@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "rejoicing"
+title: "Rejoicing"
 declared: "Der Jubel im Himmel"
 license: CC-BY-NC-SA-4.0
 stamp:

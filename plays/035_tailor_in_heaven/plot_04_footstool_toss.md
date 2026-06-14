@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "footstool_toss"
+title: "Footstool Toss"
 declared: "Der Schemelwurf"
 license: CC-BY-NC-SA-4.0
 stamp:

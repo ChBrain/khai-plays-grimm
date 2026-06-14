@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "descent"
+title: "Descent"
 declared: "Der Korb in die Tiefe"
 license: CC-BY-NC-SA-4.0
 stamp:

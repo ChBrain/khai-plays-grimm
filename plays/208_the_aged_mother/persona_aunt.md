@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "aunt"
+title: "The Aunt"
 declared: "die verstorbene Muhme"
 license: CC-BY-NC-SA-4.0
 stamp:

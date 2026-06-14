@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "bandage"
+title: "The Bandage"
 declared: "Augenbinde"
 license: CC-BY-NC-SA-4.0
 stamp:

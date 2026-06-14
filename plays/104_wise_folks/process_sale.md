@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "sale"
+title: "Sale"
 declared: "der Verkauf"
 license: CC-BY-NC-SA-4.0
 stamp:

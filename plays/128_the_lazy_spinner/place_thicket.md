@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "thicket"
+title: "The Thicket"
 declared: "das Dickicht"
 license: CC-BY-NC-SA-4.0
 stamp:

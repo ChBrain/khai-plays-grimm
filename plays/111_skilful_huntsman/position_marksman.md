@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "marksman"
+title: "The Marksman"
 declared: "der Meisterschütze"
 license: CC-BY-NC-SA-4.0
 stamp:

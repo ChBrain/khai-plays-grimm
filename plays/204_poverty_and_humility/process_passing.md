@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "passing"
+title: "Passing"
 declared: "das Verscheiden"
 license: CC-BY-NC-SA-4.0
 stamp:

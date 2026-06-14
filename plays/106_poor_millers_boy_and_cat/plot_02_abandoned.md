@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "abandoned"
+title: "Abandoned"
 declared: "Verlassen in der Höhle"
 license: CC-BY-NC-SA-4.0
 stamp:

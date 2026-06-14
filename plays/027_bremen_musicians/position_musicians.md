@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "musicians"
+title: "The Musicians"
 declared: "Musikanten"
 license: CC-BY-NC-SA-4.0
 stamp:

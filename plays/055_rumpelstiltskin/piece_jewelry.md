@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "jewelry"
+title: "The Jewelry"
 declared: "Schmuck"
 license: CC-BY-NC-SA-4.0
 stamp:

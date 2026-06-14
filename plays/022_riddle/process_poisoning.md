@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "poisoning"
+title: "Poisoning"
 declared: "Vergiftung"
 license: CC-BY-NC-SA-4.0
 stamp:

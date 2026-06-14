@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "rooster"
+title: "The Rooster"
 declared: "Hahn"
 license: CC-BY-NC-SA-4.0
 stamp:

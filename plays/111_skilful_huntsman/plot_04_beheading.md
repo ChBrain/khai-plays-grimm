@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "beheading"
+title: "Beheading"
 declared: "Die Enthauptung der Riesen"
 license: CC-BY-NC-SA-4.0
 stamp:

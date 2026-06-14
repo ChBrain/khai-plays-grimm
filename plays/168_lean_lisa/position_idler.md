@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "idler"
+title: "The Idler"
 declared: "der Gelassene"
 license: CC-BY-NC-SA-4.0
 stamp:

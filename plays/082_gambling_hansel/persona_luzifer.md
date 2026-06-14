@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "luzifer"
+title: "Luzifer"
 declared: "Luzifer"
 license: CC-BY-NC-SA-4.0
 stamp:

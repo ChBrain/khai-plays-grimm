@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "teacher"
+title: "The Teacher"
 declared: "der Lehrmeister"
 license: CC-BY-NC-SA-4.0
 stamp:

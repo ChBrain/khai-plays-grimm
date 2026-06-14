@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "trousers"
+title: "The Trousers"
 declared: "die geflickte Hose"
 license: CC-BY-NC-SA-4.0
 stamp:

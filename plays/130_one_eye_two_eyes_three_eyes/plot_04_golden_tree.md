@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_golden_tree"
+title: "Golden Tree"
 declared: "Der Apfelbaum"
 license: CC-BY-NC-SA-4.0
 stamp:

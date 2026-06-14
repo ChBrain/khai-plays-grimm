@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "charcoal_burners"
+title: "The Charcoal Burners"
 declared: "Köhler"
 license: CC-BY-NC-SA-4.0
 stamp:

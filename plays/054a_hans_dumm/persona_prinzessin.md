@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "prinzessin"
+title: "Prinzessin"
 declared: "Prinzessin"
 license: CC-BY-NC-SA-4.0
 stamp:

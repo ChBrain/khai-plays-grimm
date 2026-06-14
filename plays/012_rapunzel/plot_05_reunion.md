@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_reunion"
+title: "Reunion"
 declared: "Die Heilung in der Wüste"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "luring"
+title: "Luring"
 declared: "Anlocken"
 license: CC-BY-NC-SA-4.0
 stamp:

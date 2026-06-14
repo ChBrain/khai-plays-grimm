@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "honeymountain"
+title: "The Honeymountain"
 declared: "der Honigberg"
 license: CC-BY-NC-SA-4.0
 stamp:

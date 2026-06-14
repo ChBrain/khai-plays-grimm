@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "plaster"
+title: "Plaster"
 declared: "Das Wunderpflaster"
 license: CC-BY-NC-SA-4.0
 stamp:

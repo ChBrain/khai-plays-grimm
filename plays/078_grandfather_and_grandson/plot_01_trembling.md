@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "trembling"
+title: "Trembling"
 declared: "Das Zittern"
 license: CC-BY-NC-SA-4.0
 stamp:

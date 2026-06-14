@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "departure"
+title: "Departure"
 declared: "der Aufbruch"
 license: CC-BY-NC-SA-4.0
 stamp:

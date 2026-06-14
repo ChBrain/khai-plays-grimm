@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "good_cabbage"
+title: "The Good Cabbage"
 declared: "der gute Krautkopf"
 license: CC-BY-NC-SA-4.0
 stamp:

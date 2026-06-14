@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "prison"
+title: "The Prison"
 declared: "das Gefängnis"
 license: CC-BY-NC-SA-4.0
 stamp:

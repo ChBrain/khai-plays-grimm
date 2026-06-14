@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "first_princess"
+title: "The First Princess"
 declared: "die erste Prinzessin"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "fox_encounter"
+title: "Fox Encounter"
 declared: "Die Begegnung mit dem Fuchs"
 license: CC-BY-NC-SA-4.0
 stamp:

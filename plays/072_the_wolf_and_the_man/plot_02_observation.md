@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "observation"
+title: "Observation"
 declared: "Die Betrachtung der Menschen"
 license: CC-BY-NC-SA-4.0
 stamp:

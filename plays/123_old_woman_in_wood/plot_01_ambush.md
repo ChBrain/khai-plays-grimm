@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "ambush"
+title: "Ambush"
 declared: "Der Überfall im Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

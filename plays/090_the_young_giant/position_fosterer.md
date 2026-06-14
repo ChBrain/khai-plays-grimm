@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "fosterer"
+title: "The Fosterer"
 declared: "der Erzieher"
 license: CC-BY-NC-SA-4.0
 stamp:

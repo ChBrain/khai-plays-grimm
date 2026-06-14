@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "cellar_feast"
+title: "Cellar Feast"
 declared: "Das Schlemmen im Keller"
 license: CC-BY-NC-SA-4.0
 stamp:

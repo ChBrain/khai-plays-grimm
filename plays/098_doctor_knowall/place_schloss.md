@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "schloss"
+title: "The Schloss"
 declared: "das Schloss"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "bread"
+title: "The Bread"
 declared: "das Stück Brot"
 license: CC-BY-NC-SA-4.0
 stamp:

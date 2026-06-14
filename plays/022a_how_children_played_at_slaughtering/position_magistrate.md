@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "magistrate"
+title: "The Magistrate"
 declared: "Richterlicher Prüfer"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "nest"
+title: "The Nest"
 declared: "das Königsnest"
 license: CC-BY-NC-SA-4.0
 stamp:

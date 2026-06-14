@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_secret_descent"
+title: "Secret Descent"
 declared: "Der heimliche Abstieg"
 license: CC-BY-NC-SA-4.0
 stamp:

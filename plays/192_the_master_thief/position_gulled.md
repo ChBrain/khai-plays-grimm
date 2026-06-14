@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "gulled"
+title: "The Gulled"
 declared: "die Genarrten"
 license: CC-BY-NC-SA-4.0
 stamp:

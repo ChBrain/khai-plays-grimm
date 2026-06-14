@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "lambkin_and_little_fish"
+title: "Lambkin and Little Fish"
 declared: "die Erlösung"
 license: CC-BY-NC-SA-4.0
 stamp:

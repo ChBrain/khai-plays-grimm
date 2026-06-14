@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "guards"
+title: "The Guards"
 declared: "Garde"
 license: CC-BY-NC-SA-4.0
 stamp:

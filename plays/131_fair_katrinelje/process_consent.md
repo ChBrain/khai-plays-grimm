@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "consent"
+title: "Consent"
 declared: "Einverständniseinholung"
 license: CC-BY-NC-SA-4.0
 stamp:

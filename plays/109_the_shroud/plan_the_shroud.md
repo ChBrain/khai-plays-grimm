@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_shroud"
+title: "The Shroud"
 declared: "die Tröstung"
 license: CC-BY-NC-SA-4.0
 stamp:

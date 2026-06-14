@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "daughter_in_law"
+title: "The Daughter in Law"
 declared: "die Schwiegertochter"
 license: CC-BY-NC-SA-4.0
 stamp:

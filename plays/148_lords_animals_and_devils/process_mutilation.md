@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "mutilation"
+title: "Mutilation"
 declared: "die Verstümmelung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "workshop"
+title: "The Workshop"
 declared: "Werkstätten"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "help"
+title: "Help"
 declared: "Die heimliche Helferin"
 license: CC-BY-NC-SA-4.0
 stamp:

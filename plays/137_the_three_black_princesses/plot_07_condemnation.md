@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "07_condemnation"
+title: "Condemnation"
 declared: "Die Verfluchung und der Sturz"
 license: CC-BY-NC-SA-4.0
 stamp:

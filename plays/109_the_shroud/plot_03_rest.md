@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "rest"
+title: "Rest"
 declared: "Das trockene Hemdchen und die Ruhe"
 license: CC-BY-NC-SA-4.0
 stamp:

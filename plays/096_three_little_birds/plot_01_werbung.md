@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "werbung"
+title: "Werbung"
 declared: "Die Werbung am Berge"
 license: CC-BY-NC-SA-4.0
 stamp:

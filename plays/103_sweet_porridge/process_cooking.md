@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "cooking"
+title: "Cooking"
 declared: "das Kochen"
 license: CC-BY-NC-SA-4.0
 stamp:
