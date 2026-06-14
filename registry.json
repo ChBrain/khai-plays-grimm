@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.191.0",
+  "version": "0.201.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -957,6 +957,56 @@
       "id": "190_crumbs_on_the_table",
       "title": "The Crumbs on the Table",
       "description": "Ein Bauer verführt seine Hündchen zum Naschen und lacht über ihre Prügel."
+    },
+    {
+      "id": "191_the_sea_hare",
+      "title": "The Sea-Hare",
+      "description": "Der jüngste Bruder verbirgt sich mit Hilfe dankbarer Tiere vor der allsehenden Prinzessin und gewinnt sie."
+    },
+    {
+      "id": "192_the_master_thief",
+      "title": "The Master-Thief",
+      "description": "Ein verlorener Sohn kehrt als Meisterdieb heim und besteht drei unmögliche Diebstahlsproben des Grafen."
+    },
+    {
+      "id": "193_the_drummer",
+      "title": "The Drummer",
+      "description": "Ein junger Trommler befreit eine verzauberte Königstochter vom Glasberg und gewinnt sie nach dem Vergessen zurück."
+    },
+    {
+      "id": "194_the_ear_of_corn",
+      "title": "The Ear of Corn",
+      "description": "Aus undankbarem Frevel am gesegneten Korn erwächst ein Gericht, das nur um der Unschuldigen willen gemildert wird."
+    },
+    {
+      "id": "195_the_grave_mound",
+      "title": "The Grave-Mound",
+      "description": "Ein furchtloser Soldat überlistet den Teufel mit dem bodenlosen Stiefel und rettet die Seele des Geizhalses."
+    },
+    {
+      "id": "196_old_rinkrank",
+      "title": "Old Rinkrank",
+      "description": "Eine gefangene Königstochter fängt den alten Rinkrank am Bart und entkommt über seine Zauberleiter."
+    },
+    {
+      "id": "197_the_crystal_ball",
+      "title": "The Crystal Ball",
+      "description": "Der jüngste Sohn befreit die verzauberte Königstochter durch die im Feuerei verborgene Kristallkugel."
+    },
+    {
+      "id": "198_maid_maleen",
+      "title": "Maid Maleen",
+      "description": "Eingemauert und verarmt erkämpft sich Maleen durch Treue ihren Prinzen und entlarvt die falsche Braut."
+    },
+    {
+      "id": "199_boots_of_buffalo_leather",
+      "title": "The Boots of Buffalo-Leather",
+      "description": "Ein furchtloser Soldat bannt zwölf Räuber und wird vom verkleideten König belohnt."
+    },
+    {
+      "id": "200_the_golden_key",
+      "title": "The Golden Key",
+      "description": "Ein armer Junge findet einen goldenen Schlüssel, gräbt ein Kästchen aus und dreht ihn, doch der Deckel bleibt zu."
     }
   ]
 }
