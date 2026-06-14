@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.223.0",
+  "version": "0.224.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -367,6 +367,11 @@
       "id": "061_little_peasant",
       "title": "The Little Peasant",
       "description": "Ein armer Bauer überlistet reiche Nachbarn, erlangt Wohlstand durch Lügen und lockt sie ins Verderben."
+    },
+    {
+      "id": "061a_tailor_who_became_rich_quickly",
+      "title": "The Tailor Who Became Rich Quickly",
+      "description": "Ein listiger Schneider gelangt durch Betrug und Täuschung zu großem Reichtum und bringt das ganze Dorf an sich."
     },
     {
       "id": "062_queen_bee",
