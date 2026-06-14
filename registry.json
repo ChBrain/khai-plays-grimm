@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.211.0",
+  "version": "0.214.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -169,9 +169,19 @@
       "description": "Ein verstoßener Sohn lernt die Sprachen der Tiere, birgt einen Schatz und steigt durch göttliche Fügung zum Papst auf."
     },
     {
+      "id": "033a_puss_in_boots",
+      "title": "Puss in Boots",
+      "description": "Ein trickreicher Kater verhilft seinem armen Herrn durch Stiefel, Sack und List zu Reichtum, Schloss und Königstochter."
+    },
+    {
       "id": "034_clever_elsie",
       "title": "Clever Elsie",
       "description": "Eine angeblich kluge Braut verliert sich in Katastrophenängsten und vergisst schließlich ihre eigene Identität."
+    },
+    {
+      "id": "034a_hansens_trine",
+      "title": "Hans's Trine",
+      "description": "Die faule Trine zweifelt wegen eines gekürzten Rocks an ihrer Identität und verlässt auf Nimmerwiedersehen das Haus."
     },
     {
       "id": "035_tailor_in_heaven",
@@ -187,6 +197,11 @@
       "id": "037_thumbling",
       "title": "Thumbling",
       "description": "Ein winziger Junge hilft seinem Vater, entkommt Entführern und Dieben und wird aus dem Bauch eines Wolfes befreit."
+    },
+    {
+      "id": "037a_table_napkin_knapsack_cannon_hat_and_horn",
+      "title": "The Table Napkin, the Knapsack, the Cannon Hat, and the Horn",
+      "description": "Drei Söhne erlangen magische Wundergeräte, schlagen feindliche Heere in die Flucht und befreien ihre bedürftige Mutter."
     },
     {
       "id": "038_wedding_mrs_fox",
