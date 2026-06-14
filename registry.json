@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.201.0",
+  "version": "0.211.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -1007,6 +1007,56 @@
       "id": "200_the_golden_key",
       "title": "The Golden Key",
       "description": "Ein armer Junge findet einen goldenen Schlüssel, gräbt ein Kästchen aus und dreht ihn, doch der Deckel bleibt zu."
+    },
+    {
+      "id": "201_st_joseph_in_the_forest",
+      "title": "St. Joseph in the Forest",
+      "description": "Drei Töchter prüft der heilige Joseph im Wald, doch nur die Frömmste wird reich belohnt."
+    },
+    {
+      "id": "202_the_twelve_apostles",
+      "title": "The Twelve Apostles",
+      "description": "Eine arme Mutter erfleht zwölf Söhne, die dreihundert Jahre schlafen und als Apostel erwachen."
+    },
+    {
+      "id": "203_the_rose",
+      "title": "The Rose",
+      "description": "Ein fremdes Kind schenkt dem armen Mädchen eine Rose und holt es heim, als sie aufblüht."
+    },
+    {
+      "id": "204_poverty_and_humility",
+      "title": "Poverty and Humility Lead to Heaven",
+      "description": "Ein Königssohn wählt Armut und Demut und findet durch sieben Jahre des Bettelns den Weg zum Himmel."
+    },
+    {
+      "id": "205_gods_food",
+      "title": "God's Food",
+      "description": "Eine arme Witwe wird von der reichen Schwester abgewiesen, und ihre Kinder verhungern."
+    },
+    {
+      "id": "206_the_three_green_twigs",
+      "title": "The Three Green Twigs",
+      "description": "Ein frommer Einsiedler verurteilt einen Sünder, büßt mit einem dürren Ast und stirbt, als drei grüne Zweige sprießen."
+    },
+    {
+      "id": "207_our_ladys_little_glass",
+      "title": "Our Lady's Little Glass",
+      "description": "Ein Fuhrmann gibt der Mutter Gottes Wein aus einem Blümchen, und sein Wagen ist frei."
+    },
+    {
+      "id": "208_the_aged_mother",
+      "title": "The Aged Mother",
+      "description": "Eine einsame Witwe sieht in der Totenkirche das verschonte Schicksal ihrer Söhne und stirbt getröstet."
+    },
+    {
+      "id": "209_the_heavenly_wedding",
+      "title": "The Heavenly Wedding",
+      "description": "Ein armer Junge geht stets geradeaus, hält die Kirche für den Himmel und stirbt zur himmlischen Hochzeit."
+    },
+    {
+      "id": "210_the_hazel_branch",
+      "title": "The Hazel-Branch",
+      "description": "Maria flieht vor einer Natter hinter einen Haselstrauch und segnet ihn fortan als Schutz vor allem Gewürm."
     }
   ]
 }
