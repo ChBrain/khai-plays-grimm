@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.214.0",
+  "version": "0.215.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -312,6 +312,11 @@
       "id": "059_frederick_catherine",
       "title": "Frederick and Catherine",
       "description": "Ein Paar durchlebt absurde Missgeschicke durch die Naivität der Frau, bevor sie nachts im Baum Diebe vertreiben."
+    },
+    {
+      "id": "059a_prince_swan",
+      "title": "Prince Swan",
+      "description": "Ein Mädchen folgt einem verzauberten Schwan, gewinnt goldene Himmelsgaben und erlöst ihren Liebsten am Glasberg."
     },
     {
       "id": "060_two_brothers",
