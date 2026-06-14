@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "older_brother"
+title: "The Older Brother"
 declared: "Älterer Bruder"
 license: CC-BY-NC-SA-4.0
 stamp:

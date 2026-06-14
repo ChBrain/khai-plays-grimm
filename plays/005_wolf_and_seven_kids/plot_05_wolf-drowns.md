@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_wolf-drowns"
+title: "Wolf Drowns"
 declared: "Der Wolf ertrinkt"
 license: CC-BY-NC-SA-4.0
 stamp:

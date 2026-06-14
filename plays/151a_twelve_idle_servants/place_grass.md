@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "grass"
+title: "The Grass"
 declared: "das Gras"
 license: CC-BY-NC-SA-4.0
 stamp:

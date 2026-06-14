@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_wolf_and_the_man"
+title: "The Wolf and the Man"
 declared: "die Menschenprobe"
 license: CC-BY-NC-SA-4.0
 stamp:

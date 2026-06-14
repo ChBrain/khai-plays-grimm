@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_altered-letter"
+title: "Altered Letter"
 declared: "Der Briefwechsel"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "ash-usurpation"
+title: "Ash Usurpation"
 declared: "der Aschen-Zwang"
 license: CC-BY-NC-SA-4.0
 stamp:

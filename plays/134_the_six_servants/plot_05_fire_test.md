@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_fire_test"
+title: "Fire Test"
 declared: "Der eiskalte Scheiterhaufen"
 license: CC-BY-NC-SA-4.0
 stamp:

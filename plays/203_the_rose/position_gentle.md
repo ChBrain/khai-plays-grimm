@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "gentle"
+title: "The Gentle"
 declared: "die Sanfte"
 license: CC-BY-NC-SA-4.0
 stamp:

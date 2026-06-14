@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "06_lehre-und-versoehnung"
+title: "Lehre Und Versoehnung"
 declared: "Die Lehre und die Versöhnung"
 license: CC-BY-NC-SA-4.0
 stamp:

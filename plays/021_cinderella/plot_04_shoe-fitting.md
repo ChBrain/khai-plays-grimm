@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_shoe-fitting"
+title: "Shoe Fitting"
 declared: "Die Schuhprobe"
 license: CC-BY-NC-SA-4.0
 stamp:

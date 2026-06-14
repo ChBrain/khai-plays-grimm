@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "burgomaster"
+title: "The Burgomaster"
 declared: "der Bürgermeister"
 license: CC-BY-NC-SA-4.0
 stamp:

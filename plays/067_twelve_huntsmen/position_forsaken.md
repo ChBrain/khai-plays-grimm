@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "forsaken"
+title: "The Forsaken"
 declared: "Verlassene"
 license: CC-BY-NC-SA-4.0
 stamp:

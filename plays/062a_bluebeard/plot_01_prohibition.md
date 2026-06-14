@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_prohibition"
+title: "Prohibition"
 declared: "Die Heirat und das Verbot"
 license: CC-BY-NC-SA-4.0
 stamp:

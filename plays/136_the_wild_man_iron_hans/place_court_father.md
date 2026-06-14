@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "court_father"
+title: "The Court Father"
 declared: "Königshof"
 license: CC-BY-NC-SA-4.0
 stamp:

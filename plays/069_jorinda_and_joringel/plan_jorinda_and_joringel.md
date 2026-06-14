@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "jorinda_and_joringel"
+title: "Jorinda and Joringel"
 declared: "die Erlösung"
 license: CC-BY-NC-SA-4.0
 stamp:

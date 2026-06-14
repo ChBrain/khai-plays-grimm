@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "valley"
+title: "The Valley"
 declared: "das einsame Tal"
 license: CC-BY-NC-SA-4.0
 stamp:

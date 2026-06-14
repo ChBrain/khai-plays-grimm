@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "brothers-robbery"
+title: "Brothers Robbery"
 declared: "der Raub der Brüder"
 license: CC-BY-NC-SA-4.0
 stamp:

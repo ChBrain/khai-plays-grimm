@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "blade"
+title: "The Blade"
 declared: "der Hirschfänger"
 license: CC-BY-NC-SA-4.0
 stamp:

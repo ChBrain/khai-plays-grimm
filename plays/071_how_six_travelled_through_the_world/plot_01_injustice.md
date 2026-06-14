@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "injustice"
+title: "Injustice"
 declared: "Die drei Heller des Soldaten"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "victim"
+title: "The Victim"
 declared: "das Opfer"
 license: CC-BY-NC-SA-4.0
 stamp:

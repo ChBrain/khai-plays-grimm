@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "seeing"
+title: "Seeing"
 declared: "Der Sehende"
 license: CC-BY-NC-SA-4.0
 stamp:

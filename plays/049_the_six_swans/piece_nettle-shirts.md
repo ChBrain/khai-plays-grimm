@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "nettle-shirts"
+title: "The Nettle Shirts"
 declared: "Nesselhemden"
 license: CC-BY-NC-SA-4.0
 stamp:

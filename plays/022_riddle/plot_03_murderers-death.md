@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_murderers-death"
+title: "Murderers Death"
 declared: "Der Tod der Mörder"
 license: CC-BY-NC-SA-4.0
 stamp:

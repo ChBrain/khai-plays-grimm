@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "blutwurst"
+title: "Blutwurst"
 declared: "Blutwurst"
 license: CC-BY-NC-SA-4.0
 stamp:

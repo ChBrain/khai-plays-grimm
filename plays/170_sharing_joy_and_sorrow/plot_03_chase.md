@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "chase"
+title: "Chase"
 declared: "Die Hetzjagd im Hof"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "deaths_and_mercy"
+title: "Deaths and Mercy"
 declared: "Der Tod und Gottes Erbarmen"
 license: CC-BY-NC-SA-4.0
 stamp:

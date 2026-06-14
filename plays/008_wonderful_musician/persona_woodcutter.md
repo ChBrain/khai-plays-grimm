@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "woodcutter"
+title: "The Woodcutter"
 declared: "Holzhauer"
 license: CC-BY-NC-SA-4.0
 stamp:

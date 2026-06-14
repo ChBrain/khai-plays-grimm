@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "clay_bowl"
+title: "The Clay Bowl"
 declared: "die irdene Schüssel"
 license: CC-BY-NC-SA-4.0
 stamp:

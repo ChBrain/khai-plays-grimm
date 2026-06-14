@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "evil_fairy"
+title: "The Evil Fairy"
 declared: "Dreizehnte Fee"
 license: CC-BY-NC-SA-4.0
 stamp:

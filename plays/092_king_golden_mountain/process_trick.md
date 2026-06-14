@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "trick"
+title: "Trick"
 declared: "der Listenstreich"
 license: CC-BY-NC-SA-4.0
 stamp:

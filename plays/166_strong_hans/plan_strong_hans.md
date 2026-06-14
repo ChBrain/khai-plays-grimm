@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "strong_hans"
+title: "Strong Hans"
 declared: "die Errettung"
 license: CC-BY-NC-SA-4.0
 stamp:

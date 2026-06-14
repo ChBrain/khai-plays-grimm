@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "holy_water"
+title: "Holy Water"
 declared: "das Weihwasser-Austeilen"
 license: CC-BY-NC-SA-4.0
 stamp:

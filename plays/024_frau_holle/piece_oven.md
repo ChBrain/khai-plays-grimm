@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "oven"
+title: "The Oven"
 declared: "Backofen"
 license: CC-BY-NC-SA-4.0
 stamp:

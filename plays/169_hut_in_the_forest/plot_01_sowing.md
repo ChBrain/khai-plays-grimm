@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "sowing"
+title: "Sowing"
 declared: "Die Aussaat"
 license: CC-BY-NC-SA-4.0
 stamp:

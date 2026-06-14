@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "himmel"
+title: "Himmel"
 declared: "Der Mann aus dem Himmel"
 license: CC-BY-NC-SA-4.0
 stamp:

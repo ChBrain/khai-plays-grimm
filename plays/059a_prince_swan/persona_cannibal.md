@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "cannibal"
+title: "The Cannibal"
 declared: "der Menschenfresser"
 license: CC-BY-NC-SA-4.0
 stamp:

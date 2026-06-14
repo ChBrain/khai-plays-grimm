@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "ruin"
+title: "Ruin"
 declared: "Der ruinierte Spieler"
 license: CC-BY-NC-SA-4.0
 stamp:

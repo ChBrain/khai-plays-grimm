@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "road"
+title: "The Road"
 declared: "die weite Welt"
 license: CC-BY-NC-SA-4.0
 stamp:

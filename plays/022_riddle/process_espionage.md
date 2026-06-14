@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "espionage"
+title: "Espionage"
 declared: "Aushorchung"
 license: CC-BY-NC-SA-4.0
 stamp:

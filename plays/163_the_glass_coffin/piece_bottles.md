@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "bottles"
+title: "The Bottles"
 declared: "die Rauchflaschen"
 license: CC-BY-NC-SA-4.0
 stamp:

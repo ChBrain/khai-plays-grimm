@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "wreath"
+title: "The Wreath"
 declared: "der Kranz"
 license: CC-BY-NC-SA-4.0
 stamp:

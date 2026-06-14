@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "oldwoman"
+title: "The Oldwoman"
 declared: "die alte Frau"
 license: CC-BY-NC-SA-4.0
 stamp:

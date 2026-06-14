@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "descent"
+title: "Descent"
 declared: "Der Abstieg und der Drachenkampf"
 license: CC-BY-NC-SA-4.0
 stamp:

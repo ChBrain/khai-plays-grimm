@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_pitch-requital"
+title: "Pitch Requital"
 declared: "Die Pechmarie"
 license: CC-BY-NC-SA-4.0
 stamp:

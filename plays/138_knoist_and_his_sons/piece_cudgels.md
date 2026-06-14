@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "cudgels"
+title: "The Cudgels"
 declared: "die Knüppel"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "ofen"
+title: "The Ofen"
 declared: "der Ofen"
 license: CC-BY-NC-SA-4.0
 stamp:

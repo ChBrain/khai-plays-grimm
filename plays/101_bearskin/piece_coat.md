@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "coat"
+title: "The Coat"
 declared: "der grüne Rock"
 license: CC-BY-NC-SA-4.0
 stamp:

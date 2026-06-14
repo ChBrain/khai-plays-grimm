@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "fairest-murder"
+title: "Fairest Murder"
 declared: "der Mord an der Schönsten"
 license: CC-BY-NC-SA-4.0
 stamp:

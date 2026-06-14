@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "how_six_travelled_through_the_world"
+title: "How Six Travelled Through the World"
 declared: "der Raub des Schatzes"
 license: CC-BY-NC-SA-4.0
 stamp:

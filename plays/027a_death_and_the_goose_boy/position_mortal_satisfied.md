@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "mortal_satisfied"
+title: "The Mortal Satisfied"
 declared: "genügsamer Sterblicher"
 license: CC-BY-NC-SA-4.0
 stamp:

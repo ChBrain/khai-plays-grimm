@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "parade"
+title: "Parade"
 declared: "die Wunderschau"
 license: CC-BY-NC-SA-4.0
 stamp:

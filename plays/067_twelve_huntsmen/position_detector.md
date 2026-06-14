@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "detector"
+title: "The Detector"
 declared: "Entlarver"
 license: CC-BY-NC-SA-4.0
 stamp:

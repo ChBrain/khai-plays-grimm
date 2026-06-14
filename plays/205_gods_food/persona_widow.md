@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "widow"
+title: "The Widow"
 declared: "die arme Witwe"
 license: CC-BY-NC-SA-4.0
 stamp:

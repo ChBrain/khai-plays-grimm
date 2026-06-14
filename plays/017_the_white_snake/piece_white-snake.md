@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "white-snake"
+title: "The White Snake"
 declared: "Weiße Schlange"
 license: CC-BY-NC-SA-4.0
 stamp:

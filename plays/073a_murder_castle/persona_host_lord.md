@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "The Host Lord"
+title: "host_lord"
 declared: "gastgebender Herr"
 license: CC-BY-NC-SA-4.0
 stamp:

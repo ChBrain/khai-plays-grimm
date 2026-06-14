@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "elf_clothes"
+title: "The Elf Clothes"
 declared: "Kleider"
 license: CC-BY-NC-SA-4.0
 stamp:

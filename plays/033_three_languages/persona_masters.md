@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "masters"
+title: "The Masters"
 declared: "Lehrmeister"
 license: CC-BY-NC-SA-4.0
 stamp:

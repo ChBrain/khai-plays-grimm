@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "little_folk"
+title: "The Little Folk"
 declared: "das kleine Volk"
 license: CC-BY-NC-SA-4.0
 stamp:

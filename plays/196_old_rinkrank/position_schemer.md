@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "schemer"
+title: "The Schemer"
 declared: "die Listige"
 license: CC-BY-NC-SA-4.0
 stamp:

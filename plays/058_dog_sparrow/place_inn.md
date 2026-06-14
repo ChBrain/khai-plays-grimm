@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "inn"
+title: "The Inn"
 declared: "Gasthaus"
 license: CC-BY-NC-SA-4.0
 stamp:

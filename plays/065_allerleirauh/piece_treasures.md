@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "treasures"
+title: "The Treasures"
 declared: "drei Kleinode"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "war"
+title: "War"
 declared: "Die Kriegserklärung"
 license: CC-BY-NC-SA-4.0
 stamp:

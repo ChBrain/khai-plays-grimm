@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "simpleton"
+title: "The Simpleton"
 declared: "Einfältige"
 license: CC-BY-NC-SA-4.0
 stamp:

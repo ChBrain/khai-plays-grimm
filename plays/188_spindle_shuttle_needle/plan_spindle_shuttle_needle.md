@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "spindle_shuttle_needle"
+title: "Spindle Shuttle Needle"
 declared: "die Brautwerbung"
 license: CC-BY-NC-SA-4.0
 stamp:

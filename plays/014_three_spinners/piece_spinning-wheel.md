@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "spinning-wheel"
+title: "The Spinning Wheel"
 declared: "Spinnrad"
 license: CC-BY-NC-SA-4.0
 stamp:

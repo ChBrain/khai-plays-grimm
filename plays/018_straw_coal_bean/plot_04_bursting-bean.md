@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_bursting-bean"
+title: "Bursting Bean"
 declared: "Das Platzen der Bohne"
 license: CC-BY-NC-SA-4.0
 stamp:

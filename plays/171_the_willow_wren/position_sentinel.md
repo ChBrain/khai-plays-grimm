@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "sentinel"
+title: "The Sentinel"
 declared: "der Wächter"
 license: CC-BY-NC-SA-4.0
 stamp:

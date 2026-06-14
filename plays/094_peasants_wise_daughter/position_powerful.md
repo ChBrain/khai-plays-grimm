@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "powerful"
+title: "The Powerful"
 declared: "der Mächtige"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_rose"
+title: "The Rose"
 declared: "die Heimholung"
 license: CC-BY-NC-SA-4.0
 stamp:

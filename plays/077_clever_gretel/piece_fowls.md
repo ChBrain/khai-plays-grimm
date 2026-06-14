@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "fowls"
+title: "The Fowls"
 declared: "die zwei Hühner"
 license: CC-BY-NC-SA-4.0
 stamp:

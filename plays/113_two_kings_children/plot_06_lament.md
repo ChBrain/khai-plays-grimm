@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "lament"
+title: "Lament"
 declared: "Die Klage an der Tür"
 license: CC-BY-NC-SA-4.0
 stamp:

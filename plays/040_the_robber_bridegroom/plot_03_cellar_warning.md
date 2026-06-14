@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "cellar_warning"
+title: "Cellar Warning"
 declared: "Die Warnung im Keller"
 license: CC-BY-NC-SA-4.0
 stamp:

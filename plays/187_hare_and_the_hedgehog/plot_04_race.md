@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "race"
+title: "Race"
 declared: "Der Wettlauf in der Furche"
 license: CC-BY-NC-SA-4.0
 stamp:

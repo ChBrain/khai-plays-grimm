@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "apprentices"
+title: "The Apprentices"
 declared: "die beiden Gesellen"
 license: CC-BY-NC-SA-4.0
 stamp:

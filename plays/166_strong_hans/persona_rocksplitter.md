@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "rocksplitter"
+title: "The Rocksplitter"
 declared: "der Felsenklipperer"
 license: CC-BY-NC-SA-4.0
 stamp:

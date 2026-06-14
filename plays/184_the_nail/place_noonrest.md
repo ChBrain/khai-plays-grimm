@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "noonrest"
+title: "The Noonrest"
 declared: "die Mittagsrast"
 license: CC-BY-NC-SA-4.0
 stamp:

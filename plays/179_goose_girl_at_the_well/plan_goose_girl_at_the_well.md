@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "goose_girl_at_the_well"
+title: "Goose Girl at the Well"
 declared: "die Rückgabe"
 license: CC-BY-NC-SA-4.0
 stamp:

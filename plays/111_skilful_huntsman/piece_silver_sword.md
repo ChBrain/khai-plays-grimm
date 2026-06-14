@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "silver_sword"
+title: "The Silver Sword"
 declared: "das silberne Schwert"
 license: CC-BY-NC-SA-4.0
 stamp:

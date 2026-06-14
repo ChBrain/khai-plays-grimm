@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "firtwister"
+title: "The Firtwister"
 declared: "der Tannendreher"
 license: CC-BY-NC-SA-4.0
 stamp:

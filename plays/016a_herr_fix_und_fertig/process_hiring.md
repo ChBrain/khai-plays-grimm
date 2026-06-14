@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "hiring"
+title: "Hiring"
 declared: "Anstellung"
 license: CC-BY-NC-SA-4.0
 stamp:

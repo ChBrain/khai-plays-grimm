@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "modest"
+title: "The Modest"
 declared: "die Maßvolle"
 license: CC-BY-NC-SA-4.0
 stamp:

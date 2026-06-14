@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "enchanted_tree"
+title: "The Enchanted Tree"
 declared: "Apfelbaum"
 license: CC-BY-NC-SA-4.0
 stamp:

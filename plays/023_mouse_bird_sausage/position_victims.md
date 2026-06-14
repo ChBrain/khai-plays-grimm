@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "victims"
+title: "The Victims"
 declared: "Opfer"
 license: CC-BY-NC-SA-4.0
 stamp:

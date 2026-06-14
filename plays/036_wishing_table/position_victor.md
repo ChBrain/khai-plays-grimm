@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "victor"
+title: "The Victor"
 declared: "Gewinner"
 license: CC-BY-NC-SA-4.0
 stamp:

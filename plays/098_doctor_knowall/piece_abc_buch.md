@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "abc_buch"
+title: "The Abc Buch"
 declared: "das ABC-Buch"
 license: CC-BY-NC-SA-4.0
 stamp:

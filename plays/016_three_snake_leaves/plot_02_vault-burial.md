@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_vault-burial"
+title: "Vault Burial"
 declared: "Die Grabkammer"
 license: CC-BY-NC-SA-4.0
 stamp:

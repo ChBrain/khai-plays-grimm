@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "woods"
+title: "The Woods"
 declared: "der Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

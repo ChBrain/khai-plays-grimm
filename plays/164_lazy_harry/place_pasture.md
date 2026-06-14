@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "pasture"
+title: "The Pasture"
 declared: "die Weide"
 license: CC-BY-NC-SA-4.0
 stamp:

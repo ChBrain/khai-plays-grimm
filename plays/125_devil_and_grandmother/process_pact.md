@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "pact"
+title: "Pact"
 declared: "der Pakt"
 license: CC-BY-NC-SA-4.0
 stamp:

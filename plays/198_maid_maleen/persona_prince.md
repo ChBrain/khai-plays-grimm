@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "prince"
+title: "The Prince"
 declared: "der Königssohn"
 license: CC-BY-NC-SA-4.0
 stamp:

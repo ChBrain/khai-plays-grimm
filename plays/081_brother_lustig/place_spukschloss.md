@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "spukschloss"
+title: "Spukschloss"
 declared: "das Spukschloss"
 license: CC-BY-NC-SA-4.0
 stamp:

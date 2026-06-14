@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "gods_food"
+title: "Gods Food"
 declared: "die Bitte um Brot"
 license: CC-BY-NC-SA-4.0
 stamp:

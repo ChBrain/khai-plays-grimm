@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "adversary"
+title: "The Adversary"
 declared: "der Widersacher"
 license: CC-BY-NC-SA-4.0
 stamp:

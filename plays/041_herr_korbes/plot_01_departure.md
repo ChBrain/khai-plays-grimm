@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "departure"
+title: "Departure"
 declared: "Die Abfahrt"
 license: CC-BY-NC-SA-4.0
 stamp:

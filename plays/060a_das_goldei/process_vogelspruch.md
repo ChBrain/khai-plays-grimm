@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "vogelspruch"
+title: "Vogelspruch"
 declared: "der Spruch des Vogels"
 license: CC-BY-NC-SA-4.0
 stamp:

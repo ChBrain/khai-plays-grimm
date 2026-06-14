@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "siblings-cunning"
+title: "Siblings Cunning"
 declared: "die List der Geschwister"
 license: CC-BY-NC-SA-4.0
 stamp:

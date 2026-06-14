@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "The Shoemaker"
+title: "shoemaker"
 declared: "Schuhmacher"
 license: CC-BY-NC-SA-4.0
 stamp:

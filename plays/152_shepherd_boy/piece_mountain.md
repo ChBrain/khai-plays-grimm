@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "mountain"
+title: "The Mountain"
 declared: "der Diamantberg"
 license: CC-BY-NC-SA-4.0
 stamp:

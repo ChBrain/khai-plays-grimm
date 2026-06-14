@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "eternity"
+title: "Eternity"
 declared: "Die Sekunden der Ewigkeit"
 license: CC-BY-NC-SA-4.0
 stamp:

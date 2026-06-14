@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "schlauraffen_land"
+title: "Schlauraffen Land"
 declared: "das Lügenmärchen"
 license: CC-BY-NC-SA-4.0
 stamp:

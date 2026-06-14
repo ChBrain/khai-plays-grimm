@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "flags"
+title: "The Flags"
 declared: "Flaggen"
 license: CC-BY-NC-SA-4.0
 stamp:

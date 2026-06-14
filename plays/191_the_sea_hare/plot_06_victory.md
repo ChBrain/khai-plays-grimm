@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "victory"
+title: "Victory"
 declared: "Der Sieg im Haar"
 license: CC-BY-NC-SA-4.0
 stamp:

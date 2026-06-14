@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "mice"
+title: "The Mice"
 declared: "Mäuse"
 license: CC-BY-NC-SA-4.0
 stamp:

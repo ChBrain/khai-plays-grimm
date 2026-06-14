@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "tracking"
+title: "Tracking"
 declared: "Die Verfolgung"
 license: CC-BY-NC-SA-4.0
 stamp:

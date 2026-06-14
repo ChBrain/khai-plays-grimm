@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "garments"
+title: "The Garments"
 declared: "die Brautkleider"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "substitution"
+title: "Substitution"
 declared: "die Stellvertretung"
 license: CC-BY-NC-SA-4.0
 stamp:

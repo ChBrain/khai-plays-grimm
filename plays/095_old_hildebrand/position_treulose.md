@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "treulose"
+title: "The Treulose"
 declared: "die Treulose"
 license: CC-BY-NC-SA-4.0
 stamp:

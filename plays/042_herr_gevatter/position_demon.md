@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "demon"
+title: "Demon"
 declared: "Dämon"
 license: CC-BY-NC-SA-4.0
 stamp:

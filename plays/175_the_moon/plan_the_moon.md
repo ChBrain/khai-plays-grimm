@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_moon"
+title: "The Moon"
 declared: "die Erhebung"
 license: CC-BY-NC-SA-4.0
 stamp:

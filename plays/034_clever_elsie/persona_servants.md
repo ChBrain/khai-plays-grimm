@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "servants"
+title: "The Servants"
 declared: "Dienstboten"
 license: CC-BY-NC-SA-4.0
 stamp:

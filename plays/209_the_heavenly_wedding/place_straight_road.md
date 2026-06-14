@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "straight_road"
+title: "The Straight Road"
 declared: "der gerade Weg"
 license: CC-BY-NC-SA-4.0
 stamp:

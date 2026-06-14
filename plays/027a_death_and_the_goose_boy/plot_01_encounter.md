@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_encounter"
+title: "Encounter"
 declared: "Die Begegnung am Ufer"
 license: CC-BY-NC-SA-4.0
 stamp:

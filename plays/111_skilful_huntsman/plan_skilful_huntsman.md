@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "skilful_huntsman"
+title: "Skilful Huntsman"
 declared: "die Brautwerbung"
 license: CC-BY-NC-SA-4.0
 stamp:

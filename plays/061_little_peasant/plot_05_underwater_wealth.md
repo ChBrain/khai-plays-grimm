@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "underwater_wealth"
+title: "Underwater Wealth"
 declared: "Der Unterwasserreichtum"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "noose"
+title: "Noose"
 declared: "Die größte Faulheit"
 license: CC-BY-NC-SA-4.0
 stamp:

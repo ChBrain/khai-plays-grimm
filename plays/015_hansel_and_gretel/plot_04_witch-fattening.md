@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_witch-fattening"
+title: "Witch Fattening"
 declared: "Käfig und Knöchelchen"
 license: CC-BY-NC-SA-4.0
 stamp:

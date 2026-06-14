@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "observation"
+title: "Observation"
 declared: "Nächtliche Beobachtung"
 license: CC-BY-NC-SA-4.0
 stamp:

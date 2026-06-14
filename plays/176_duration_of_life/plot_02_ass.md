@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "ass"
+title: "Ass"
 declared: "Die Bitte des Esels"
 license: CC-BY-NC-SA-4.0
 stamp:

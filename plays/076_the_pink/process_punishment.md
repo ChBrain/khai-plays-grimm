@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "punishment"
+title: "Punishment"
 declared: "die Strafe"
 license: CC-BY-NC-SA-4.0
 stamp:

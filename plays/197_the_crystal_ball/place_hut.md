@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "hut"
+title: "The Hut"
 declared: "die Fischerhütte"
 license: CC-BY-NC-SA-4.0
 stamp:

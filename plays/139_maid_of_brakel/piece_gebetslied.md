@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "gebetslied"
+title: "Gebetslied"
 declared: "das Gebetslied"
 license: CC-BY-NC-SA-4.0
 stamp:

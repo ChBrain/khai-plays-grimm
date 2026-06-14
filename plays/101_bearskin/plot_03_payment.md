@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "payment"
+title: "Payment"
 declared: "Die Schuldentilgung im Wirtshaus"
 license: CC-BY-NC-SA-4.0
 stamp:

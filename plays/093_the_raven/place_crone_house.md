@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "crone_house"
+title: "The Crone House"
 declared: "das Häuschen"
 license: CC-BY-NC-SA-4.0
 stamp:

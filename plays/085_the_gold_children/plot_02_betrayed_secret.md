@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "betrayed_secret"
+title: "Betrayed Secret"
 declared: "Das verratene Geheimnis"
 license: CC-BY-NC-SA-4.0
 stamp:

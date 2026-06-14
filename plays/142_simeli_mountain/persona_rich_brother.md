@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "rich_brother"
+title: "The Rich Brother"
 declared: "der reiche Bruder"
 license: CC-BY-NC-SA-4.0
 stamp:

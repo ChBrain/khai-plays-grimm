@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "grave-covenant"
+title: "Grave Covenant"
 declared: "der Gnadenbund am Grab"
 license: CC-BY-NC-SA-4.0
 stamp:

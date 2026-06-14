@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "restoration"
+title: "Restoration"
 declared: "Erlösung"
 license: CC-BY-NC-SA-4.0
 stamp:

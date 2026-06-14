@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "star_money"
+title: "Star Money"
 declared: "das Vertrauen"
 license: CC-BY-NC-SA-4.0
 stamp:

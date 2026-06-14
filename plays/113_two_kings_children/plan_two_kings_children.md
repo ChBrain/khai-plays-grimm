@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "two_kings_children"
+title: "Two Kings Children"
 declared: "der Brautgang"
 license: CC-BY-NC-SA-4.0
 stamp:

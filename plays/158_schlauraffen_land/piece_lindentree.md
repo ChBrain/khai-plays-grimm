@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "lindentree"
+title: "The Lindentree"
 declared: "der Lindenbaum"
 license: CC-BY-NC-SA-4.0
 stamp:

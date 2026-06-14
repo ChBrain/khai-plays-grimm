@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "dog"
+title: "The Dog"
 declared: "die Hunde"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "frau_holle"
+title: "Frau Holle"
 declared: "Frau Holle"
 license: CC-BY-NC-SA-4.0
 stamp:

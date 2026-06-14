@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_unicorn-and-boar"
+title: "Unicorn and Boar"
 declared: "Einhorn und Eber"
 license: CC-BY-NC-SA-4.0
 stamp:

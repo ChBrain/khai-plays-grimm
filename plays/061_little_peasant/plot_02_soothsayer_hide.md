@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "soothsayer_hide"
+title: "Soothsayer Hide"
 declared: "Die Wahrsagerhaut"
 license: CC-BY-NC-SA-4.0
 stamp:

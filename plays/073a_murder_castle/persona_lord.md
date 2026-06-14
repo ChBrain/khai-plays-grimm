@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "The Lord"
+title: "lord"
 declared: "Herr"
 license: CC-BY-NC-SA-4.0
 stamp:

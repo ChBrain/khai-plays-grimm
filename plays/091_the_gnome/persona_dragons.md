@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "dragons"
+title: "The Dragons"
 declared: "die Drachen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "unfinished-sleeve"
+title: "The Unfinished Sleeve"
 declared: "unfertiger Ärmel"
 license: CC-BY-NC-SA-4.0
 stamp:

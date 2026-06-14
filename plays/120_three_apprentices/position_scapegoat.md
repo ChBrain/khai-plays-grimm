@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "scapegoat"
+title: "The Scapegoat"
 declared: "die Sündenböcke"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "unicorn-wood"
+title: "The Unicorn Wood"
 declared: "Einhornwald"
 license: CC-BY-NC-SA-4.0
 stamp:

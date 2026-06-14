@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "goat-house"
+title: "The Goat House"
 declared: "Geißenhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

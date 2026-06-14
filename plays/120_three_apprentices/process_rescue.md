@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "rescue"
+title: "Rescue"
 declared: "die Rettung"
 license: CC-BY-NC-SA-4.0
 stamp:

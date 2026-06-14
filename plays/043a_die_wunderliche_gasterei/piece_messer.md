@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "messer"
+title: "Messer"
 declared: "Messer"
 license: CC-BY-NC-SA-4.0
 stamp:

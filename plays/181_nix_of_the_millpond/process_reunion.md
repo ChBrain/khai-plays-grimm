@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "reunion"
+title: "Reunion"
 declared: "das Wiedererkennen"
 license: CC-BY-NC-SA-4.0
 stamp:

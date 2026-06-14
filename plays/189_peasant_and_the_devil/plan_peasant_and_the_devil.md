@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "peasant_and_the_devil"
+title: "Peasant and the Devil"
 declared: "die Überlistung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "The Murder Castle"
+title: "murder_castle"
 declared: "Mordschloß"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "transformation"
+title: "Transformation"
 declared: "Die Verwandlung um Mitternacht"
 license: CC-BY-NC-SA-4.0
 stamp:

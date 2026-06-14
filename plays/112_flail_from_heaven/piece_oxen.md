@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "oxen"
+title: "The Oxen"
 declared: "die Ochsen"
 license: CC-BY-NC-SA-4.0
 stamp:

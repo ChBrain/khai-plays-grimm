@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "carpet_trial"
+title: "Carpet Trial"
 declared: "Die erste Probe"
 license: CC-BY-NC-SA-4.0
 stamp:

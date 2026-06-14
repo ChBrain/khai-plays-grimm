@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "traitor"
+title: "The Traitor"
 declared: "Verräter"
 license: CC-BY-NC-SA-4.0
 stamp:

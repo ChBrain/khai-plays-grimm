@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "minnow-bucket"
+title: "The Minnow Bucket"
 declared: "Eimer mit Gründlingen"
 license: CC-BY-NC-SA-4.0
 stamp:

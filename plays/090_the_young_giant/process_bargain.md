@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "bargain"
+title: "Bargain"
 declared: "die Lohnvereinbarung"
 license: CC-BY-NC-SA-4.0
 stamp:

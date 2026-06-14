@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "lord"
+title: "The Lord"
 declared: "der Herrgott"
 license: CC-BY-NC-SA-4.0
 stamp:

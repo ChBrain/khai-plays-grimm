@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "peas"
+title: "The Peas"
 declared: "Erbsen"
 license: CC-BY-NC-SA-4.0
 stamp:

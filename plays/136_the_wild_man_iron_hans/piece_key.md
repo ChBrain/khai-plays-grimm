@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "key"
+title: "The Key"
 declared: "Schlüssel"
 license: CC-BY-NC-SA-4.0
 stamp:

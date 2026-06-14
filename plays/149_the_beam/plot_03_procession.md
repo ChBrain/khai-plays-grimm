@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "procession"
+title: "Procession"
 declared: "Der Hochzeitszug über die Felder"
 license: CC-BY-NC-SA-4.0
 stamp:

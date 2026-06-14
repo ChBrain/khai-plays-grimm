@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "asker"
+title: "The Asker"
 declared: "der Frager"
 license: CC-BY-NC-SA-4.0
 stamp:

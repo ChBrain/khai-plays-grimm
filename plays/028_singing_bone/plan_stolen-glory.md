@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "stolen-glory"
+title: "Stolen Glory"
 declared: "der gestohlene Ruhm"
 license: CC-BY-NC-SA-4.0
 stamp:

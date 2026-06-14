@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "broom"
+title: "The Broom"
 declared: "Besen"
 license: CC-BY-NC-SA-4.0
 stamp:

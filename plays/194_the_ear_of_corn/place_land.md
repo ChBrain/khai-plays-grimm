@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "land"
+title: "The Land"
 declared: "das Land"
 license: CC-BY-NC-SA-4.0
 stamp:

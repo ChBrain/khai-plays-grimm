@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "predator"
+title: "The Predator"
 declared: "Verführer"
 license: CC-BY-NC-SA-4.0
 stamp:

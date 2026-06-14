@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "reunion"
+title: "Reunion"
 declared: "Die Verstoßung und die Heimkehr"
 license: CC-BY-NC-SA-4.0
 stamp:

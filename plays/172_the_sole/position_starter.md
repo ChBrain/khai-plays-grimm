@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "starter"
+title: "The Starter"
 declared: "der Startgeber"
 license: CC-BY-NC-SA-4.0
 stamp:

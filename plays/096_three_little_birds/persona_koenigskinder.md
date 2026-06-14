@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "koenigskinder"
+title: "Koenigskinder"
 declared: "die Königskinder"
 license: CC-BY-NC-SA-4.0
 stamp:

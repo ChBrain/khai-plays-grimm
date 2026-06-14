@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "house_snake"
+title: "House Snake"
 declared: "Die Hausunke"
 license: CC-BY-NC-SA-4.0
 stamp:

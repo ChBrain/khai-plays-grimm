@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "wedding_feast"
+title: "The Wedding Feast"
 declared: "Hochzeitsmahl"
 license: CC-BY-NC-SA-4.0
 stamp:

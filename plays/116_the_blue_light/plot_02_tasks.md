@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "tasks"
+title: "Tasks"
 declared: "Die drei Aufgaben"
 license: CC-BY-NC-SA-4.0
 stamp:

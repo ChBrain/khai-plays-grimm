@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "heinz"
+title: "The Heinz"
 declared: "der Heinz"
 license: CC-BY-NC-SA-4.0
 stamp:

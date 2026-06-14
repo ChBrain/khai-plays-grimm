@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "pot"
+title: "The Pot"
 declared: "Kochtopf"
 license: CC-BY-NC-SA-4.0
 stamp:

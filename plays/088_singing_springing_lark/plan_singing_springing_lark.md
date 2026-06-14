@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "singing_springing_lark"
+title: "Singing Springing Lark"
 declared: "die Wiedergewinnung"
 license: CC-BY-NC-SA-4.0
 stamp:

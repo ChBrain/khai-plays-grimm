@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "prophecy"
+title: "The Prophecy"
 declared: "die Prophezeiung"
 license: CC-BY-NC-SA-4.0
 stamp:

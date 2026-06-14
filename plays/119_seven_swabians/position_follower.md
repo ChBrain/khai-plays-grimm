@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "follower"
+title: "The Follower"
 declared: "der Mitläufer"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "walnuts"
+title: "The Walnuts"
 declared: "die drei Walnüsse"
 license: CC-BY-NC-SA-4.0
 stamp:

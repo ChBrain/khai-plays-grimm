@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "herring"
+title: "The Herring"
 declared: "der Hering"
 license: CC-BY-NC-SA-4.0
 stamp:

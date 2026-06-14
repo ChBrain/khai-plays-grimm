@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "ninepins"
+title: "The Ninepins"
 declared: "die Kegel"
 license: CC-BY-NC-SA-4.0
 stamp:

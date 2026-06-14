@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "wedding_house"
+title: "The Wedding House"
 declared: "das Hochzeitshaus"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "first_sparrow"
+title: "The First Sparrow"
 declared: "der erste Sperling"
 license: CC-BY-NC-SA-4.0
 stamp:

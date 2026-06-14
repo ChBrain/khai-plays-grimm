@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "executor"
+title: "The Executor"
 declared: "Vollstrecker"
 license: CC-BY-NC-SA-4.0
 stamp:

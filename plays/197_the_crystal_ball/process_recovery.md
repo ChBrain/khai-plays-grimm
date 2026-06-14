@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "recovery"
+title: "Recovery"
 declared: "die Bergung der Kugel"
 license: CC-BY-NC-SA-4.0
 stamp:

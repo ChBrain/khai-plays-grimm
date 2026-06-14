@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "three_brothers"
+title: "Three Brothers"
 declared: "der Wettstreit"
 license: CC-BY-NC-SA-4.0
 stamp:

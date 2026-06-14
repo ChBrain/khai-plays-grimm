@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "proofs"
+title: "Proofs"
 declared: "Die Beweise des Jägers"
 license: CC-BY-NC-SA-4.0
 stamp:

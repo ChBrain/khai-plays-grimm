@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "oath"
+title: "Oath"
 declared: "Das Sterbebett-Versprechen"
 license: CC-BY-NC-SA-4.0
 stamp:

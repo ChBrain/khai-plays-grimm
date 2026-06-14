@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "meal"
+title: "The Meal"
 declared: "das halbe Mittagsmahl"
 license: CC-BY-NC-SA-4.0
 stamp:

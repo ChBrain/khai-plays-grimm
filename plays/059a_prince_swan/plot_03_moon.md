@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_moon"
+title: "Moon"
 declared: "Zu Gast beim Mond"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_repentance-at-the-stake"
+title: "Repentance at the Stake"
 declared: "Die Reue am Pfahl"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "koenigin"
+title: "The Koenigin"
 declared: "die Königin"
 license: CC-BY-NC-SA-4.0
 stamp:

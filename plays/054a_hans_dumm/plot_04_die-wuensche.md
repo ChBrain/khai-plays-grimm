@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_die-wuensche"
+title: "Die Wuensche"
 declared: "Die Wünsche"
 license: CC-BY-NC-SA-4.0
 stamp:

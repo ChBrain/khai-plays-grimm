@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_return-and-retribution"
+title: "Return and Retribution"
 declared: "Die Vergeltung"
 license: CC-BY-NC-SA-4.0
 stamp:

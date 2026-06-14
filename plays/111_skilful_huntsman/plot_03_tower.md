@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "tower"
+title: "Tower"
 declared: "Der Turmraub"
 license: CC-BY-NC-SA-4.0
 stamp:

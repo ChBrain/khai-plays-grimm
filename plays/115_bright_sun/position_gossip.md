@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "gossip"
+title: "The Gossip"
 declared: "die Plaudertasche"
 license: CC-BY-NC-SA-4.0
 stamp:

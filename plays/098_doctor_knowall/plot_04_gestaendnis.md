@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "gestaendnis"
+title: "Gestaendnis"
 declared: "Das Geständnis der Bedienten"
 license: CC-BY-NC-SA-4.0
 stamp:

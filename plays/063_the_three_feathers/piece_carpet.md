@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "carpet"
+title: "The Carpet"
 declared: "Teppich"
 license: CC-BY-NC-SA-4.0
 stamp:

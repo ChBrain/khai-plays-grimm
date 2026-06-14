@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "braggart"
+title: "The Braggart"
 declared: "der Aufschneider"
 license: CC-BY-NC-SA-4.0
 stamp:

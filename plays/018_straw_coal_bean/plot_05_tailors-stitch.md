@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_tailors-stitch"
+title: "Tailors Stitch"
 declared: "Die Naht des Schneiders"
 license: CC-BY-NC-SA-4.0
 stamp:

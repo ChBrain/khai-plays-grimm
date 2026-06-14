@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "boots_of_buffalo_leather"
+title: "Boots of Buffalo Leather"
 declared: "die Bannung der Bande"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "linen"
+title: "Linen"
 declared: "Die weiße Leinwand am See"
 license: CC-BY-NC-SA-4.0
 stamp:

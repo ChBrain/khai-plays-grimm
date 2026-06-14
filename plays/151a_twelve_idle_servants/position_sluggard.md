@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "sluggard"
+title: "The Sluggard"
 declared: "der Faulpelz"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "eierkorb"
+title: "Eierkorb"
 declared: "Der Gevatter und der Eierkorb"
 license: CC-BY-NC-SA-4.0
 stamp:

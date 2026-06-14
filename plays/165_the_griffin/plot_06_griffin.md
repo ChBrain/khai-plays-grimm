@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "griffin"
+title: "Griffin"
 declared: "Im Haus des Greifs"
 license: CC-BY-NC-SA-4.0
 stamp:

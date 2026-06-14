@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "purse"
+title: "The Purse"
 declared: "der Goldbeutel"
 license: CC-BY-NC-SA-4.0
 stamp:

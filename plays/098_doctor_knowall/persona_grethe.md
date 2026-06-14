@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "grethe"
+title: "The Grethe"
 declared: "die Grethe"
 license: CC-BY-NC-SA-4.0
 stamp:

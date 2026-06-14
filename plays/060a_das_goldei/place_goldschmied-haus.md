@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "goldschmied-haus"
+title: "The Goldschmied Haus"
 declared: "Haus des Goldschmieds"
 license: CC-BY-NC-SA-4.0
 stamp:

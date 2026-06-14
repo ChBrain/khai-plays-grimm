@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "order"
+title: "Order"
 declared: "Der Bratauftrag"
 license: CC-BY-NC-SA-4.0
 stamp:

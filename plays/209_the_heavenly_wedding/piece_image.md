@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "image"
+title: "The Image"
 declared: "das geschnitzte Bildwerk"
 license: CC-BY-NC-SA-4.0
 stamp:

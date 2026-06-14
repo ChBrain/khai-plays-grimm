@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "recognition"
+title: "Recognition"
 declared: "Die Wiedererkennung und die Erlösung"
 license: CC-BY-NC-SA-4.0
 stamp:

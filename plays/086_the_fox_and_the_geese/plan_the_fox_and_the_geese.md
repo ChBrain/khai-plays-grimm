@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_fox_and_the_geese"
+title: "The Fox and the Geese"
 declared: "die Endlosbitte"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "rewarded"
+title: "The Rewarded"
 declared: "der Beschenkte"
 license: CC-BY-NC-SA-4.0
 stamp:

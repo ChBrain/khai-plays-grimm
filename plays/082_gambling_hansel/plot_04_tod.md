@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "tod"
+title: "Tod"
 declared: "Der gefangene Tod"
 license: CC-BY-NC-SA-4.0
 stamp:

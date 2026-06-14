@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "one_eye"
+title: "The One Eye"
 declared: "Einäuglein"
 license: CC-BY-NC-SA-4.0
 stamp:

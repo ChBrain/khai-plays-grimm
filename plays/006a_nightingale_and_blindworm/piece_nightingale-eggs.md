@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "nightingale-eggs"
+title: "The Nightingale Eggs"
 declared: "die Eier der Nachtigall"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "musician"
+title: "The Musician"
 declared: "Spielmann"
 license: CC-BY-NC-SA-4.0
 stamp:

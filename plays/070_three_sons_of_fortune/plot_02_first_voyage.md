@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "first_voyage"
+title: "First Voyage"
 declared: "Die Reise des ersten Sohnes"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "search"
+title: "Search"
 declared: "Die Suche"
 license: CC-BY-NC-SA-4.0
 stamp:

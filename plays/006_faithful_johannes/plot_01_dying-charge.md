@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_dying-charge"
+title: "Dying Charge"
 declared: "Das Sterbevermächtnis"
 license: CC-BY-NC-SA-4.0
 stamp:

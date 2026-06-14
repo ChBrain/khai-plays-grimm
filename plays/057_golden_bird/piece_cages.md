@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "cages"
+title: "The Cages"
 declared: "Käfige"
 license: CC-BY-NC-SA-4.0
 stamp:

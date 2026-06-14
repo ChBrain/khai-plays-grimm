@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "henrich"
+title: "Henrich"
 declared: "Heinrich"
 license: CC-BY-NC-SA-4.0
 stamp:

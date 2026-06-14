@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "judges"
+title: "The Judges"
 declared: "die Richter"
 license: CC-BY-NC-SA-4.0
 stamp:

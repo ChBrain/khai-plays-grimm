@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "mountains"
+title: "The Mountains"
 declared: "das Felsgebirge"
 license: CC-BY-NC-SA-4.0
 stamp:

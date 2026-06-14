@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "catastrophizing"
+title: "Catastrophizing"
 declared: "Katastrophenphantasie"
 license: CC-BY-NC-SA-4.0
 stamp:

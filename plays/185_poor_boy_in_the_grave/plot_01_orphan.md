@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "orphan"
+title: "Orphan"
 declared: "Der Waisenjunge im Hause"
 license: CC-BY-NC-SA-4.0
 stamp:

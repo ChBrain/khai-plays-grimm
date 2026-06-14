@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "witch-substitution"
+title: "Witch Substitution"
 declared: "der Hexenanschlag auf das Königsbett"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "reward"
+title: "Reward"
 declared: "Der König und der Lohn"
 license: CC-BY-NC-SA-4.0
 stamp:

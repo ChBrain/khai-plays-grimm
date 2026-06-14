@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "errand"
+title: "Errand"
 declared: "Die Bittenkette um Wasser"
 license: CC-BY-NC-SA-4.0
 stamp:

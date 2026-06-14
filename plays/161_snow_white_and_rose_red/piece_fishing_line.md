@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "fishing_line"
+title: "The Fishing Line"
 declared: "die Angelschnur"
 license: CC-BY-NC-SA-4.0
 stamp:

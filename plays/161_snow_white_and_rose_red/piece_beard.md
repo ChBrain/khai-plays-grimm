@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "beard"
+title: "The Beard"
 declared: "der eingeklemmte Bart"
 license: CC-BY-NC-SA-4.0
 stamp:

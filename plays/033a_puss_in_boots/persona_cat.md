@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "cat"
+title: "The Cat"
 declared: "gestiefelter Kater"
 license: CC-BY-NC-SA-4.0
 stamp:

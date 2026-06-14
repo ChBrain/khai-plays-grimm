@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "provider"
+title: "The Provider"
 declared: "die Versorgerin"
 license: CC-BY-NC-SA-4.0
 stamp:

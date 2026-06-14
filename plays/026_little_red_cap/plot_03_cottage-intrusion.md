@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_cottage-intrusion"
+title: "Cottage Intrusion"
 declared: "Der Überfall"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "barrow"
+title: "The Barrow"
 declared: "der Schiebkarren"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "counsel"
+title: "Counsel"
 declared: "die Beratung"
 license: CC-BY-NC-SA-4.0
 stamp:

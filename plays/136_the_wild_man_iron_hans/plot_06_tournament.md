@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "06_tournament"
+title: "Tournament"
 declared: "Das Werfen des goldenen Apfels"
 license: CC-BY-NC-SA-4.0
 stamp:

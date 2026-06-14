@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_knapsack"
+title: "Knapsack"
 declared: "Der Tornister des zweiten Sohnes"
 license: CC-BY-NC-SA-4.0
 stamp:

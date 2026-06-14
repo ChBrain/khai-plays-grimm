@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_white-snake-secret"
+title: "White Snake Secret"
 declared: "Das Schlangengeheimnis"
 license: CC-BY-NC-SA-4.0
 stamp:

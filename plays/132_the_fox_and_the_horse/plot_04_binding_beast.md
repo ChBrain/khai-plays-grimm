@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_binding_beast"
+title: "Binding Beast"
 declared: "Die Fesselung"
 license: CC-BY-NC-SA-4.0
 stamp:

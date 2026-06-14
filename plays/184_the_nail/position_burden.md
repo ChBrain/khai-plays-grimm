@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "burden"
+title: "The Burden"
 declared: "das Lasttier"
 license: CC-BY-NC-SA-4.0
 stamp:

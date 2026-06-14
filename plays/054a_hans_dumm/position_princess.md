@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "princess"
+title: "The Princess"
 declared: "die Königstochter"
 license: CC-BY-NC-SA-4.0
 stamp:

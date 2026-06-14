@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "disenchantment"
+title: "Disenchantment"
 declared: "Entzauberung"
 license: CC-BY-NC-SA-4.0
 stamp:

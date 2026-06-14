@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "underworld"
+title: "The Underworld"
 declared: "die Unterwelt"
 license: CC-BY-NC-SA-4.0
 stamp:

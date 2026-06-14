@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "stone"
+title: "The Stone"
 declared: "Keilstein"
 license: CC-BY-NC-SA-4.0
 stamp:

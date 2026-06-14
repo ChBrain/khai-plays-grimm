@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "stone_house"
+title: "The Stone House"
 declared: "das steinerne Haus"
 license: CC-BY-NC-SA-4.0
 stamp:

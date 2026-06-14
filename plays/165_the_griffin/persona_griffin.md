@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "griffin"
+title: "The Griffin"
 declared: "der Vogel Greif"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "doorway"
+title: "The Doorway"
 declared: "die Türschwelle"
 license: CC-BY-NC-SA-4.0
 stamp:

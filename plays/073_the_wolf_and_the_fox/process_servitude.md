@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "servitude"
+title: "Servitude"
 declared: "die Knechtschaft"
 license: CC-BY-NC-SA-4.0
 stamp:

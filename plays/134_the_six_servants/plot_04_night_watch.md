@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_night_watch"
+title: "Night Watch"
 declared: "Die nächtliche Bewachung"
 license: CC-BY-NC-SA-4.0
 stamp:

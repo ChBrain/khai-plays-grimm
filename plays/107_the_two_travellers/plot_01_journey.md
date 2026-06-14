@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "journey"
+title: "Journey"
 declared: "Die ungleiche Wanderschaft"
 license: CC-BY-NC-SA-4.0
 stamp:

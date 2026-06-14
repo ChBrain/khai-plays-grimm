@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Seduction"
+title: "seduction"
 declared: "Verlockung"
 license: CC-BY-NC-SA-4.0
 stamp:

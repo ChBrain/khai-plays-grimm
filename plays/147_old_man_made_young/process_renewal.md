@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "renewal"
+title: "Renewal"
 declared: "das Verjüngen"
 license: CC-BY-NC-SA-4.0
 stamp:

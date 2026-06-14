@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_lie-and-marriage"
+title: "Lie and Marriage"
 declared: "Die Lüge"
 license: CC-BY-NC-SA-4.0
 stamp:

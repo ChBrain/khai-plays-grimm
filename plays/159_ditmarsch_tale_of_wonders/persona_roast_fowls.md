@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "roast_fowls"
+title: "The Roast Fowls"
 declared: "die zwei Brathühner"
 license: CC-BY-NC-SA-4.0
 stamp:

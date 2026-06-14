@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "star"
+title: "The Star"
 declared: "der Stern"
 license: CC-BY-NC-SA-4.0
 stamp:

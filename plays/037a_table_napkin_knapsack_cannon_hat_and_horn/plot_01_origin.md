@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_origin"
+title: "Origin"
 declared: "Die Heirat der Mutter"
 license: CC-BY-NC-SA-4.0
 stamp:

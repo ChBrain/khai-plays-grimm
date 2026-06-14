@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "plain_children"
+title: "The Plain Children"
 declared: "die häßlichen Kinder"
 license: CC-BY-NC-SA-4.0
 stamp:

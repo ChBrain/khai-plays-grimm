@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "spokesgoose"
+title: "The Spokesgoose"
 declared: "die Wortführerin"
 license: CC-BY-NC-SA-4.0
 stamp:

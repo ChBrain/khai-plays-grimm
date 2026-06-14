@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "singing_bird"
+title: "Singing Bird"
 declared: "Der Gesang"
 license: CC-BY-NC-SA-4.0
 stamp:

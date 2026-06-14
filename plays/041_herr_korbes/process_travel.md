@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "travel"
+title: "Travel"
 declared: "Die Reise"
 license: CC-BY-NC-SA-4.0
 stamp:

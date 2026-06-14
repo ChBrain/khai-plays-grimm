@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "fluss"
+title: "The Fluss"
 declared: "der Fluß"
 license: CC-BY-NC-SA-4.0
 stamp:

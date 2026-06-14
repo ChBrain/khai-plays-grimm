@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "quest"
+title: "Quest"
 declared: "Die Kunde von der Königstochter"
 license: CC-BY-NC-SA-4.0
 stamp:

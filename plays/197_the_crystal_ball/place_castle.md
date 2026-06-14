@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "castle"
+title: "The Castle"
 declared: "das Schloss der goldenen Sonne"
 license: CC-BY-NC-SA-4.0
 stamp:

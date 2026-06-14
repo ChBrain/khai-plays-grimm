@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "liberation"
+title: "Liberation"
 declared: "Erlösung"
 license: CC-BY-NC-SA-4.0
 stamp:

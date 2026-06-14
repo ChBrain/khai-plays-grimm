@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "goose_house"
+title: "The Goose House"
 declared: "der Gänsestall"
 license: CC-BY-NC-SA-4.0
 stamp:

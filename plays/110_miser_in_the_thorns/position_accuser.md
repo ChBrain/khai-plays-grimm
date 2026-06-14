@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "accuser"
+title: "The Accuser"
 declared: "der Falschankläger"
 license: CC-BY-NC-SA-4.0
 stamp:

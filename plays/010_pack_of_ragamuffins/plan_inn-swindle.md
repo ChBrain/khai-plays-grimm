@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "inn-swindle"
+title: "Inn Swindle"
 declared: "der Betrug am Wirtshaus"
 license: CC-BY-NC-SA-4.0
 stamp:

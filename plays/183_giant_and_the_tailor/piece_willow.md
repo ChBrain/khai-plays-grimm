@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "willow"
+title: "The Willow"
 declared: "die Weidenrute"
 license: CC-BY-NC-SA-4.0
 stamp:

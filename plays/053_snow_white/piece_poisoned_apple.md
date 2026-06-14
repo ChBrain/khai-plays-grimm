@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "poisoned_apple"
+title: "The Poisoned Apple"
 declared: "Giftapfel"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "folly"
+title: "Folly"
 declared: "Torheit"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_release"
+title: "Release"
 declared: "Die Erlösung vom Faden"
 license: CC-BY-NC-SA-4.0
 stamp:

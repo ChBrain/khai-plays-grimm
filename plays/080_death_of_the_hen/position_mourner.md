@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "mourner"
+title: "The Mourner"
 declared: "die Trauergemeinde"
 license: CC-BY-NC-SA-4.0
 stamp:

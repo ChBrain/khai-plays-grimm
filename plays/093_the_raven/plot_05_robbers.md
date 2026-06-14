@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "robbers"
+title: "Robbers"
 declared: "Die drei Räuber"
 license: CC-BY-NC-SA-4.0
 stamp:

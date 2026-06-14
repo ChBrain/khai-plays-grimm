@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "exchange"
+title: "Exchange"
 declared: "Tauschgeschäft"
 license: CC-BY-NC-SA-4.0
 stamp:

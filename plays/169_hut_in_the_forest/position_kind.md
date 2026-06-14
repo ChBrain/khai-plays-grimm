@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "kind"
+title: "The Kind"
 declared: "die Gütige"
 license: CC-BY-NC-SA-4.0
 stamp:

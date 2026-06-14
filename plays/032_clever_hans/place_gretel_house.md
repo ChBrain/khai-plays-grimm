@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "gretel_house"
+title: "The Gretel House"
 declared: "Gretelhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

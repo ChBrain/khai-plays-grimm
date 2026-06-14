@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "kitchen"
+title: "The Kitchen"
 declared: "die Schlossküche"
 license: CC-BY-NC-SA-4.0
 stamp:

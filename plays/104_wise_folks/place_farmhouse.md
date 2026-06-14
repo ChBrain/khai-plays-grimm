@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "farmhouse"
+title: "The Farmhouse"
 declared: "das Bauernhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

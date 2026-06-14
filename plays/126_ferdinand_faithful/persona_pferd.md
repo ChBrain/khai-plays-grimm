@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "pferd"
+title: "The Pferd"
 declared: "das weiße Pferd"
 license: CC-BY-NC-SA-4.0
 stamp:

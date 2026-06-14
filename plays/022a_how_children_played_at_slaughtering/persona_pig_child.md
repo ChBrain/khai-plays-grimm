@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "pig_child"
+title: "The Pig Child"
 declared: "Sau-Kind"
 license: CC-BY-NC-SA-4.0
 stamp:

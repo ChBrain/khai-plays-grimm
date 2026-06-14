@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "stomach"
+title: "The Stomach"
 declared: "Magen"
 license: CC-BY-NC-SA-4.0
 stamp:

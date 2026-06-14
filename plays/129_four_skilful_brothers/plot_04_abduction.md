@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "abduction"
+title: "Abduction"
 declared: "Der Raub der Königstochter"
 license: CC-BY-NC-SA-4.0
 stamp:

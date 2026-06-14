@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "gatekeeper"
+title: "The Gatekeeper"
 declared: "Torwächter"
 license: CC-BY-NC-SA-4.0
 stamp:

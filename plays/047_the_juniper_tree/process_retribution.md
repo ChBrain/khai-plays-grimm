@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "retribution"
+title: "Retribution"
 declared: "Vergeltung"
 license: CC-BY-NC-SA-4.0
 stamp:

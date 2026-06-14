@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_griffin"
+title: "The Griffin"
 declared: "die Greifenfeder"
 license: CC-BY-NC-SA-4.0
 stamp:

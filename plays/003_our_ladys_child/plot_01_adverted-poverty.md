@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_adverted-poverty"
+title: "Adverted Poverty"
 declared: "Die abgewendete Armut"
 license: CC-BY-NC-SA-4.0
 stamp:

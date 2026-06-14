@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "false_claim"
+title: "False Claim"
 declared: "Der falsche Hauptmann"
 license: CC-BY-NC-SA-4.0
 stamp:

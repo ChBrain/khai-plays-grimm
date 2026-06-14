@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "golden-ring"
+title: "Golden Ring"
 declared: "goldener Ring"
 license: CC-BY-NC-SA-4.0
 stamp:

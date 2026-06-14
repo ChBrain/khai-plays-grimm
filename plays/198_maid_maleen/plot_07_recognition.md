@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "recognition"
+title: "Recognition"
 declared: "Die Erkennung und Hochzeit"
 license: CC-BY-NC-SA-4.0
 stamp:

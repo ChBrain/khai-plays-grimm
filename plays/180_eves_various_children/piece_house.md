@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "house"
+title: "The House"
 declared: "das geschmückte Haus"
 license: CC-BY-NC-SA-4.0
 stamp:

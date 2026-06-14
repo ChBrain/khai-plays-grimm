@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "pacification"
+title: "Pacification"
 declared: "Besänftigung"
 license: CC-BY-NC-SA-4.0
 stamp:

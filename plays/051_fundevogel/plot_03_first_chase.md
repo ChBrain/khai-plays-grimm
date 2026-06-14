@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "first_chase"
+title: "First Chase"
 declared: "Die Rosenhecke"
 license: CC-BY-NC-SA-4.0
 stamp:

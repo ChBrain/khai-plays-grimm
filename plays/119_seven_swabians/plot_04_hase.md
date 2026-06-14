@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "hase"
+title: "Hase"
 declared: "Der Hase"
 license: CC-BY-NC-SA-4.0
 stamp:

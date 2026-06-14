@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "strange_sights"
+title: "Strange Sights"
 declared: "Die Erscheinungen"
 license: CC-BY-NC-SA-4.0
 stamp:

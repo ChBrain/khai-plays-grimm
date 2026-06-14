@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "straw"
+title: "The Straw"
 declared: "das Stroh-Versteck"
 license: CC-BY-NC-SA-4.0
 stamp:

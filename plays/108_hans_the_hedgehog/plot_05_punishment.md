@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "punishment"
+title: "Punishment"
 declared: "Die Strafe der Falschen"
 license: CC-BY-NC-SA-4.0
 stamp:

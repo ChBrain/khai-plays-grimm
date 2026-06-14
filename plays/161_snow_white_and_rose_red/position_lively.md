@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "lively"
+title: "The Lively"
 declared: "die Lebhafte"
 license: CC-BY-NC-SA-4.0
 stamp:

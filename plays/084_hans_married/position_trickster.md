@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "trickster"
+title: "The Trickster"
 declared: "der Schwätzer"
 license: CC-BY-NC-SA-4.0
 stamp:

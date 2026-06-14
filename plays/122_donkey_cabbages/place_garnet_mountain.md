@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "garnet_mountain"
+title: "The Garnet Mountain"
 declared: "der Granatenberg"
 license: CC-BY-NC-SA-4.0
 stamp:

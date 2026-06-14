@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "bowl"
+title: "The Bowl"
 declared: "die Napf-Schale"
 license: CC-BY-NC-SA-4.0
 stamp:

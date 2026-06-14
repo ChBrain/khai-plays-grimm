@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "bridal-trials"
+title: "Bridal Trials"
 declared: "der Gewinn der Königstochter"
 license: CC-BY-NC-SA-4.0
 stamp:

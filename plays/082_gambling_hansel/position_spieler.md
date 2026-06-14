@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "spieler"
+title: "The Spieler"
 declared: "der Spieler"
 license: CC-BY-NC-SA-4.0
 stamp:

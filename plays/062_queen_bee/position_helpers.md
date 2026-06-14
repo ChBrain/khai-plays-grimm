@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "helpers"
+title: "The Helpers"
 declared: "Helfer"
 license: CC-BY-NC-SA-4.0
 stamp:

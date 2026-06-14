@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "cradles"
+title: "The Cradles"
 declared: "die zwölf goldenen Wiegen"
 license: CC-BY-NC-SA-4.0
 stamp:

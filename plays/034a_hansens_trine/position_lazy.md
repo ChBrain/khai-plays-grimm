@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "lazy"
+title: "The Lazy"
 declared: "Faule"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "statues"
+title: "The Statues"
 declared: "die Christophorus-Bilder"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "surgeons"
+title: "The Surgeons"
 declared: "die drei Feldscherer"
 license: CC-BY-NC-SA-4.0
 stamp:

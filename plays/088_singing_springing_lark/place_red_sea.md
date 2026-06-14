@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "red_sea"
+title: "The Red Sea"
 declared: "das Rote Meer"
 license: CC-BY-NC-SA-4.0
 stamp:

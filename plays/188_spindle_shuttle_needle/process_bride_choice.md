@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "bride_choice"
+title: "Bride Choice"
 declared: "die Brautwahl"
 license: CC-BY-NC-SA-4.0
 stamp:

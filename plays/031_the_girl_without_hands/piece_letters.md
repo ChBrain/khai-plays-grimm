@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "letters"
+title: "The Letters"
 declared: "Briefe"
 license: CC-BY-NC-SA-4.0
 stamp:

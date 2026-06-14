@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "wooing"
+title: "Wooing"
 declared: "Die Werbung beim reichen Bauern"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "roasting"
+title: "Roasting"
 declared: "der Backofen"
 license: CC-BY-NC-SA-4.0
 stamp:

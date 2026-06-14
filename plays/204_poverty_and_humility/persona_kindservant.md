@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "kindservant"
+title: "The Kindservant"
 declared: "der treue Diener"
 license: CC-BY-NC-SA-4.0
 stamp:

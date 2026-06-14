@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "feather"
+title: "The Feather"
 declared: "die Schwanzfeder"
 license: CC-BY-NC-SA-4.0
 stamp:

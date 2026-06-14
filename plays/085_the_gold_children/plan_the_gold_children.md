@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_gold_children"
+title: "The Gold Children"
 declared: "die Bruderrettung"
 license: CC-BY-NC-SA-4.0
 stamp:

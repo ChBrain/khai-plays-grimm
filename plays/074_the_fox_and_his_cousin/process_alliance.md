@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "alliance"
+title: "Alliance"
 declared: "die Gevatterschaft"
 license: CC-BY-NC-SA-4.0
 stamp:

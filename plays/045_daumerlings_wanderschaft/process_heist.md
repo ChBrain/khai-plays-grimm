@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "heist"
+title: "Heist"
 declared: "Schatzdiebstahl"
 license: CC-BY-NC-SA-4.0
 stamp:

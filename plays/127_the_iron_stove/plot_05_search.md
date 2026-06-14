@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "search"
+title: "Search"
 declared: "Die Suche und die Krötengaben"
 license: CC-BY-NC-SA-4.0
 stamp:

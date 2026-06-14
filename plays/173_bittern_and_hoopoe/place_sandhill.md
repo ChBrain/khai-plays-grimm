@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "sandhill"
+title: "The Sandhill"
 declared: "der dürre Sandhügel"
 license: CC-BY-NC-SA-4.0
 stamp:

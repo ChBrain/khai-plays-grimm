@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "bird-vengeance"
+title: "Bird Vengeance"
 declared: "das Lied des Vogels"
 license: CC-BY-NC-SA-4.0
 stamp:

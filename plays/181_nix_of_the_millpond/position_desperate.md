@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "desperate"
+title: "The Desperate"
 declared: "der Verzweifelte"
 license: CC-BY-NC-SA-4.0
 stamp:

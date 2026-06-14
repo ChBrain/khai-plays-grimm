@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "dung_fork"
+title: "The Dung Fork"
 declared: "die Mistgabel"
 license: CC-BY-NC-SA-4.0
 stamp:

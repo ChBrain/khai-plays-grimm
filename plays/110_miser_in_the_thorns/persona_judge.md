@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "judge"
+title: "The Judge"
 declared: "der Richter"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_betrayal"
+title: "Betrayal"
 declared: "Der Mord im Bad"
 license: CC-BY-NC-SA-4.0
 stamp:

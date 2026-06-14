@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "robbers"
+title: "The Robbers"
 declared: "die drei Räuber"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "nix"
+title: "The Nix"
 declared: "die Nixe"
 license: CC-BY-NC-SA-4.0
 stamp:

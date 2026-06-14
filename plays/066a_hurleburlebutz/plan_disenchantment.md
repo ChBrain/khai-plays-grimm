@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "disenchantment"
+title: "Disenchantment"
 declared: "die Entzauberung des Prinzen"
 license: CC-BY-NC-SA-4.0
 stamp:

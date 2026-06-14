@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "verse"
+title: "The Verse"
 declared: "der Vers"
 license: CC-BY-NC-SA-4.0
 stamp:

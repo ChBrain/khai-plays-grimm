@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "mistress_chase"
+title: "Mistress Chase"
 declared: "Die Flucht aus der Küche"
 license: CC-BY-NC-SA-4.0
 stamp:

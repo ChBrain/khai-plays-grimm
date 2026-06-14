@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "drudge"
+title: "The Drudge"
 declared: "die Geknechteten"
 license: CC-BY-NC-SA-4.0
 stamp:

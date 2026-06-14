@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "house"
+title: "House"
 declared: "Im kleinen Haus"
 license: CC-BY-NC-SA-4.0
 stamp:

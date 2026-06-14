@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "handel"
+title: "Handel"
 declared: "Der Handel um die Doktorei"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "birth"
+title: "Birth"
 declared: "Das Eselskind"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "open_country"
+title: "The Open Country"
 declared: "das offene Land"
 license: CC-BY-NC-SA-4.0
 stamp:

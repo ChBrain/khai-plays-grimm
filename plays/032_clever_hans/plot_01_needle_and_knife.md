@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "needle_and_knife"
+title: "Needle and Knife"
 declared: "Nadel und Messer"
 license: CC-BY-NC-SA-4.0
 stamp:

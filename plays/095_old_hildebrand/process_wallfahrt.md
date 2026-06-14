@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "wallfahrt"
+title: "Wallfahrt"
 declared: "die Wallfahrt"
 license: CC-BY-NC-SA-4.0
 stamp:

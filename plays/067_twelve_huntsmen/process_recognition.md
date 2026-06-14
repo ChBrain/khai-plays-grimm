@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "recognition"
+title: "Recognition"
 declared: "Wiedererkennung"
 license: CC-BY-NC-SA-4.0
 stamp:

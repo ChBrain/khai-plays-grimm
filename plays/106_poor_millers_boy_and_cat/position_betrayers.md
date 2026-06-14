@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "betrayers"
+title: "The Betrayers"
 declared: "die treulosen Gesellen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "gebet"
+title: "Gebet"
 declared: "Das Gebet um den Mann"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "dragon_mountain"
+title: "The Dragon Mountain"
 declared: "Drachenberg"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "cudgel_trap"
+title: "Cudgel Trap"
 declared: "Der Knüppel im Sack"
 license: CC-BY-NC-SA-4.0
 stamp:

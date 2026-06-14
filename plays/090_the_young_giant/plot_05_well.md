@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "well"
+title: "Well"
 declared: "Der Mühlstein im Brunnen"
 license: CC-BY-NC-SA-4.0
 stamp:

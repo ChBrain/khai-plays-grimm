@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "cunning"
+title: "The Cunning"
 declared: "der Listige"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "affe"
+title: "The Affe"
 declared: "Affe mit Kopfwunde"
 license: CC-BY-NC-SA-4.0
 stamp:

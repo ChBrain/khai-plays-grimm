@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "yarn"
+title: "The Yarn"
 declared: "das verworrene Garn"
 license: CC-BY-NC-SA-4.0
 stamp:

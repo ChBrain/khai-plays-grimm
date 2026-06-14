@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "household_disaster"
+title: "Household Disaster"
 declared: "Das Hausdesaster"
 license: CC-BY-NC-SA-4.0
 stamp:

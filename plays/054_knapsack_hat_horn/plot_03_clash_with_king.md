@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "clash_with_king"
+title: "Clash with King"
 declared: "Der Kampf ums Recht"
 license: CC-BY-NC-SA-4.0
 stamp:

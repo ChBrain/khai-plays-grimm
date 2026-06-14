@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "departure"
+title: "Departure"
 declared: "Der Aufbruch in den Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

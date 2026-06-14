@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "golden_apple"
+title: "The Golden Apple"
 declared: "goldener Apfel"
 license: CC-BY-NC-SA-4.0
 stamp:

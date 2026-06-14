@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "crafts"
+title: "Crafts"
 declared: "Die vier Künste"
 license: CC-BY-NC-SA-4.0
 stamp:

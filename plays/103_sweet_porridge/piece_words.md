@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "words"
+title: "The Words"
 declared: "die Zauberworte"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "split"
+title: "Split"
 declared: "Die zersplitterte Seele"
 license: CC-BY-NC-SA-4.0
 stamp:

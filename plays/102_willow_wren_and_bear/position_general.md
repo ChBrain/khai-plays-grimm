@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "general"
+title: "The General"
 declared: "der Feldherr"
 license: CC-BY-NC-SA-4.0
 stamp:

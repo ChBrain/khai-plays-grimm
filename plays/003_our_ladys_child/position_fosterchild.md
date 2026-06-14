@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "fosterchild"
+title: "The Fosterchild"
 declared: "Pflegekind"
 license: CC-BY-NC-SA-4.0
 stamp:

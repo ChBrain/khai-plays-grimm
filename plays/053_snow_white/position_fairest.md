@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "fairest"
+title: "The Fairest"
 declared: "Schönste"
 license: CC-BY-NC-SA-4.0
 stamp:

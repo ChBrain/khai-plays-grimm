@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "husband"
+title: "The Husband"
 declared: "junger König"
 license: CC-BY-NC-SA-4.0
 stamp:

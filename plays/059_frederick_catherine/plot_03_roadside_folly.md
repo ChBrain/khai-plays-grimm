@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "roadside_folly"
+title: "Roadside Folly"
 declared: "Die Straßentorheit"
 license: CC-BY-NC-SA-4.0
 stamp:

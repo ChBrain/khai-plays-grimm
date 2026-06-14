@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "wandering"
+title: "Wandering"
 declared: "Das verwüstete Reich und die Küche"
 license: CC-BY-NC-SA-4.0
 stamp:

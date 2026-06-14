@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "charge"
+title: "Charge"
 declared: "Der Auftrag der Taube"
 license: CC-BY-NC-SA-4.0
 stamp:

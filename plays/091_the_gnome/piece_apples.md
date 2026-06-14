@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "apples"
+title: "The Apples"
 declared: "die verbotenen Äpfel"
 license: CC-BY-NC-SA-4.0
 stamp:

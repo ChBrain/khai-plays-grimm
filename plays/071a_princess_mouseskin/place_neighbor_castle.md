@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "neighbor_castle"
+title: "The Neighbor Castle"
 declared: "Nachbarhof"
 license: CC-BY-NC-SA-4.0
 stamp:

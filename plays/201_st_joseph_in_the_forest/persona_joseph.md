@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "joseph"
+title: "The Joseph"
 declared: "der heilige Joseph"
 license: CC-BY-NC-SA-4.0
 stamp:

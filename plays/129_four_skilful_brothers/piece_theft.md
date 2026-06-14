@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "theft"
+title: "The Theft"
 declared: "der Diebsgriff"
 license: CC-BY-NC-SA-4.0
 stamp:

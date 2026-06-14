@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "see"
+title: "The See"
 declared: "der See"
 license: CC-BY-NC-SA-4.0
 stamp:

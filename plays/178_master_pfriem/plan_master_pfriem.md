@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "master_pfriem"
+title: "Master Pfriem"
 declared: "die Aufsicht"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "star_dress"
+title: "The Star Dress"
 declared: "sternenglänzendes Kleid"
 license: CC-BY-NC-SA-4.0
 stamp:

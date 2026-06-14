@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "sack"
+title: "The Sack"
 declared: "der Riesensack"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "scornful"
+title: "The Scornful"
 declared: "die Hochmütigen"
 license: CC-BY-NC-SA-4.0
 stamp:

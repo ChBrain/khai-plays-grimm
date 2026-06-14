@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "magical_water"
+title: "The Magical Water"
 declared: "Wunderwasser"
 license: CC-BY-NC-SA-4.0
 stamp:

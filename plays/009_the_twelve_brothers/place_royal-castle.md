@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "royal-castle"
+title: "The Royal Castle"
 declared: "väterliches Schloß"
 license: CC-BY-NC-SA-4.0
 stamp:

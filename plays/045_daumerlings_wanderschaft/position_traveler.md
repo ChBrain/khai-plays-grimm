@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "traveler"
+title: "The Traveler"
 declared: "Reisender"
 license: CC-BY-NC-SA-4.0
 stamp:

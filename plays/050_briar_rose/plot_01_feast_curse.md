@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "feast_curse"
+title: "Feast Curse"
 declared: "Das Fest und der Fluch"
 license: CC-BY-NC-SA-4.0
 stamp:

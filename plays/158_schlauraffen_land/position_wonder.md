@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "wonder"
+title: "The Wonder"
 declared: "das Wunderbild"
 license: CC-BY-NC-SA-4.0
 stamp:

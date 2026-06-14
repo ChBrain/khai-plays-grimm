@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "pate"
+title: "The Pate"
 declared: "der Pate"
 license: CC-BY-NC-SA-4.0
 stamp:

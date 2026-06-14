@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "third_sister"
+title: "The Third Sister"
 declared: "die dritte Schwester"
 license: CC-BY-NC-SA-4.0
 stamp:

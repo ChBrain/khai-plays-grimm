@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "dorf"
+title: "The Dorf"
 declared: "das Dorf"
 license: CC-BY-NC-SA-4.0
 stamp:

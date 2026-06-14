@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "giants"
+title: "The Giants"
 declared: "die zwei Riesen"
 license: CC-BY-NC-SA-4.0
 stamp:

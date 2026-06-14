@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "treachery"
+title: "Treachery"
 declared: "Der Verrat"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "marriage"
+title: "Marriage"
 declared: "Die Heirat aus Bequemlichkeit"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_transformations"
+title: "Transformations"
 declared: "Die Flucht und die Verwandlung"
 license: CC-BY-NC-SA-4.0
 stamp:

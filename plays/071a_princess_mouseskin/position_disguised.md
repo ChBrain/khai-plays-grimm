@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "disguised"
+title: "The Disguised"
 declared: "die Verkleidete"
 license: CC-BY-NC-SA-4.0
 stamp:

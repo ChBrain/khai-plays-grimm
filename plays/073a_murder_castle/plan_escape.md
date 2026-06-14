@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "Escape"
+title: "escape"
 declared: "die Flucht aus dem Mordschloß"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "mantle"
+title: "The Mantle"
 declared: "der Tarnmantel"
 license: CC-BY-NC-SA-4.0
 stamp:

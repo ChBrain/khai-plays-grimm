@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "devil"
+title: "The Devil"
 declared: "Teufel"
 license: CC-BY-NC-SA-4.0
 stamp:

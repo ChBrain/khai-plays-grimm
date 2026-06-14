@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "puddle"
+title: "The Puddle"
 declared: "die Pfütze"
 license: CC-BY-NC-SA-4.0
 stamp:

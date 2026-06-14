@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "sparrow_and_four_children"
+title: "Sparrow and Four Children"
 declared: "der Segen"
 license: CC-BY-NC-SA-4.0
 stamp:

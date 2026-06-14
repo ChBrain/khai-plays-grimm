@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "fortune"
+title: "Fortune"
 declared: "Die silberne Axt und das Glück"
 license: CC-BY-NC-SA-4.0
 stamp:

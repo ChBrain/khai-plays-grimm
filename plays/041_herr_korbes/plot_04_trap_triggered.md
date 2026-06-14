@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "trap_triggered"
+title: "Trap Triggered"
 declared: "Die Falle schnappt zu"
 license: CC-BY-NC-SA-4.0
 stamp:

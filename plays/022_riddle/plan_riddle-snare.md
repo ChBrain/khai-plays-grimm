@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "riddle-snare"
+title: "Riddle Snare"
 declared: "die Rätselfalle des Prinzen"
 license: CC-BY-NC-SA-4.0
 stamp:

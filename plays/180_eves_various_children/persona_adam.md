@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "adam"
+title: "Adam"
 declared: "Adam"
 license: CC-BY-NC-SA-4.0
 stamp:

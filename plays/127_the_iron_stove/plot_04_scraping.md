@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "scraping"
+title: "Scraping"
 declared: "Das Schaben und das gebrochene Wort"
 license: CC-BY-NC-SA-4.0
 stamp:

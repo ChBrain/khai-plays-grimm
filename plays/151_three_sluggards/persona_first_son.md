@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "first_son"
+title: "The First Son"
 declared: "der erste Sohn"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "separation"
+title: "Separation"
 declared: "Die Trennung"
 license: CC-BY-NC-SA-4.0
 stamp:

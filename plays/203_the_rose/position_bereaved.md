@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "bereaved"
+title: "The Bereaved"
 declared: "die Hinterbliebene"
 license: CC-BY-NC-SA-4.0
 stamp:

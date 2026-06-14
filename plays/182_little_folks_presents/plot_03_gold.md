@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "gold"
+title: "Gold"
 declared: "Das Gold am Morgen"
 license: CC-BY-NC-SA-4.0
 stamp:

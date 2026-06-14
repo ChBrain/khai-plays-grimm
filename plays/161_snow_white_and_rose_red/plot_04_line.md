@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "line"
+title: "Line"
 declared: "Der Bart an der Angel"
 license: CC-BY-NC-SA-4.0
 stamp:

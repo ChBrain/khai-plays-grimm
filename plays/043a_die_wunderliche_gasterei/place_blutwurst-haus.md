@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "blutwurst-haus"
+title: "The Blutwurst Haus"
 declared: "Haus der Blutwurst"
 license: CC-BY-NC-SA-4.0
 stamp:

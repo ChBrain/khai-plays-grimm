@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "second_sister"
+title: "The Second Sister"
 declared: "die zweite Schwester"
 license: CC-BY-NC-SA-4.0
 stamp:

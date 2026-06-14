@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "knapsack"
+title: "The Knapsack"
 declared: "Ranzen"
 license: CC-BY-NC-SA-4.0
 stamp:

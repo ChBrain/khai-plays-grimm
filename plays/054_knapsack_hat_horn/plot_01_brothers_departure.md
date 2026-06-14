@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "brothers_departure"
+title: "Brothers Departure"
 declared: "Die Gold- und Silberberge"
 license: CC-BY-NC-SA-4.0
 stamp:

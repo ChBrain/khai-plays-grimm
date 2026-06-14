@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "tasks"
+title: "Tasks"
 declared: "Die unmöglichen Aufgaben"
 license: CC-BY-NC-SA-4.0
 stamp:

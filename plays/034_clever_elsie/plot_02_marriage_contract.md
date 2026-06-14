@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "marriage_contract"
+title: "Marriage Contract"
 declared: "Der Ehebund"
 license: CC-BY-NC-SA-4.0
 stamp:

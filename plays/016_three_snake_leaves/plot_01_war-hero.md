@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_war-hero"
+title: "War Hero"
 declared: "Der Kriegsheld"
 license: CC-BY-NC-SA-4.0
 stamp:

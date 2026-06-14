@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "boast"
+title: "Boast"
 declared: "Die Prahlerei der Feldscherer"
 license: CC-BY-NC-SA-4.0
 stamp:

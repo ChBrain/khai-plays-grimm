@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "fish"
+title: "The Fish"
 declared: "Buttfisch"
 license: CC-BY-NC-SA-4.0
 stamp:

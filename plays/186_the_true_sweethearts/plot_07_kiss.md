@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "kiss"
+title: "Kiss"
 declared: "Der erweckende Kuss"
 license: CC-BY-NC-SA-4.0
 stamp:

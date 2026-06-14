@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "smithy"
+title: "The Smithy"
 declared: "die Schmiede"
 license: CC-BY-NC-SA-4.0
 stamp:

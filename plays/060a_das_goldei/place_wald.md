@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "wald"
+title: "The Wald"
 declared: "Wald mit der Birke"
 license: CC-BY-NC-SA-4.0
 stamp:

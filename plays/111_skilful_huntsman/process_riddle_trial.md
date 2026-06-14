@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "riddle_trial"
+title: "Riddle Trial"
 declared: "das Rätselgericht"
 license: CC-BY-NC-SA-4.0
 stamp:

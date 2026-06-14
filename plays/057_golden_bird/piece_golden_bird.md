@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "golden_bird"
+title: "The Golden Bird"
 declared: "Goldener Vogel"
 license: CC-BY-NC-SA-4.0
 stamp:

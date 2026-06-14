@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "kitchen"
+title: "Kitchen"
 declared: "Das Rauhthier in der Küche"
 license: CC-BY-NC-SA-4.0
 stamp:

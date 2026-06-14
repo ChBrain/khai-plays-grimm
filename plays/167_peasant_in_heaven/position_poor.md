@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "poor"
+title: "The Poor"
 declared: "der Arme"
 license: CC-BY-NC-SA-4.0
 stamp:

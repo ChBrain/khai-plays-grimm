@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "refuser"
+title: "The Refuser"
 declared: "die Verweigerer"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "drudgery"
+title: "Drudgery"
 declared: "Die Plackerei"
 license: CC-BY-NC-SA-4.0
 stamp:

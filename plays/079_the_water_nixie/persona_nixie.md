@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "nixie"
+title: "The Nixie"
 declared: "die Wassernixe"
 license: CC-BY-NC-SA-4.0
 stamp:

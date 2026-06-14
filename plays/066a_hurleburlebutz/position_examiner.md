@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "examiner"
+title: "The Examiner"
 declared: "der Prüfende"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "resurrection"
+title: "Resurrection"
 declared: "Wiedergeburt"
 license: CC-BY-NC-SA-4.0
 stamp:

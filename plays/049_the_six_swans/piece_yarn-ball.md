@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "yarn-ball"
+title: "The Yarn Ball"
 declared: "Garnknäuel"
 license: CC-BY-NC-SA-4.0
 stamp:

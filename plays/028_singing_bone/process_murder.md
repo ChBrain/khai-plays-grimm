@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "process_murder"
+title: "Process Murder"
 declared: "Brudermord"
 license: CC-BY-NC-SA-4.0
 stamp:

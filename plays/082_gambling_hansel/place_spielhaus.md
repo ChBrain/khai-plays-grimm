@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "spielhaus"
+title: "The Spielhaus"
 declared: "das Spielhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

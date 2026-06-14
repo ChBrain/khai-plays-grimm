@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "page"
+title: "The Page"
 declared: "der Page"
 license: CC-BY-NC-SA-4.0
 stamp:

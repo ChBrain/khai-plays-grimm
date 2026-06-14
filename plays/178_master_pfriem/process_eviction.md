@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "eviction"
+title: "Eviction"
 declared: "der Wurf"
 license: CC-BY-NC-SA-4.0
 stamp:

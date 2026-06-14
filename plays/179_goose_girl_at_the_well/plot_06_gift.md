@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "gift"
+title: "Gift"
 declared: "Die Gabe der alten Frau"
 license: CC-BY-NC-SA-4.0
 stamp:

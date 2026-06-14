@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "apples"
+title: "Apples"
 declared: "Die kranke Königstochter"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "waning"
+title: "Waning"
 declared: "Das Verlöschen"
 license: CC-BY-NC-SA-4.0
 stamp:

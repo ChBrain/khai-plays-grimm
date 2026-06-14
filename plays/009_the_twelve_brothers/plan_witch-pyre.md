@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "witch-pyre"
+title: "Witch Pyre"
 declared: "die Hexenklage am Scheiterhaufen"
 license: CC-BY-NC-SA-4.0
 stamp:

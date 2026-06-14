@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "artisans"
+title: "The Artisans"
 declared: "Handwerker"
 license: CC-BY-NC-SA-4.0
 stamp:

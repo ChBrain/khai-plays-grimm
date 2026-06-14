@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "turnips"
+title: "The Turnips"
 declared: "die Rüben"
 license: CC-BY-NC-SA-4.0
 stamp:

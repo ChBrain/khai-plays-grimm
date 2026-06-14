@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "homecoming"
+title: "Homecoming"
 declared: "Das Wiedererkennen und die Heimkehr"
 license: CC-BY-NC-SA-4.0
 stamp:

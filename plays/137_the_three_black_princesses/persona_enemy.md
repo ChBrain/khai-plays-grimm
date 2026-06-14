@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "enemy"
+title: "The Enemy"
 declared: "Feind"
 license: CC-BY-NC-SA-4.0
 stamp:

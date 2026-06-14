@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "white_garment"
+title: "The White Garment"
 declared: "das weiße Gewand"
 license: CC-BY-NC-SA-4.0
 stamp:

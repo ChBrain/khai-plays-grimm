@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_grand_ball"
+title: "Grand Ball"
 declared: "Der unterirdische Tanz"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "basket"
+title: "The Basket"
 declared: "Der Vogelkorb"
 license: CC-BY-NC-SA-4.0
 stamp:

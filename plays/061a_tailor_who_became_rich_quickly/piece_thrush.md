@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "thrush"
+title: "The Thrush"
 declared: "die Drossel"
 license: CC-BY-NC-SA-4.0
 stamp:

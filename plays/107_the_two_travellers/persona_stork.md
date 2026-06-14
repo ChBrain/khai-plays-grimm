@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "stork"
+title: "The Stork"
 declared: "der Storch"
 license: CC-BY-NC-SA-4.0
 stamp:

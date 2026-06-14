@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "house"
+title: "The House"
 declared: "das Haus nach dem Paradies"
 license: CC-BY-NC-SA-4.0
 stamp:

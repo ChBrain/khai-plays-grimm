@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "cowherd"
+title: "The Cowherd"
 declared: "Kuhhirtstochter"
 license: CC-BY-NC-SA-4.0
 stamp:

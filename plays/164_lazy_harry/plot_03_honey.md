@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "honey"
+title: "Honey"
 declared: "Der Honig auf dem Brett"
 license: CC-BY-NC-SA-4.0
 stamp:

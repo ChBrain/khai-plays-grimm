@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "millstone"
+title: "The Millstone"
 declared: "der Mühlstein"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "contender"
+title: "The Contender"
 declared: "der Anwärter"
 license: CC-BY-NC-SA-4.0
 stamp:

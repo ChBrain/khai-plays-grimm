@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "pious"
+title: "The Pious"
 declared: "die Fromme"
 license: CC-BY-NC-SA-4.0
 stamp:

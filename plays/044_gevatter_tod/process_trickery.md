@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "trickery"
+title: "Trickery"
 declared: "Überlistung"
 license: CC-BY-NC-SA-4.0
 stamp:

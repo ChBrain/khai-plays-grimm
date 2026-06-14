@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "second_bargain"
+title: "Second Bargain"
 declared: "Der zweite Handel"
 license: CC-BY-NC-SA-4.0
 stamp:

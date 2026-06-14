@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "snakes"
+title: "The Snakes"
 declared: "die Schlangen und Eidechsen"
 license: CC-BY-NC-SA-4.0
 stamp:

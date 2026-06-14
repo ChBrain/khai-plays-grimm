@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "mountain"
+title: "The Mountain"
 declared: "der Berg"
 license: CC-BY-NC-SA-4.0
 stamp:

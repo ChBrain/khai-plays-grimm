@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_golden-castle-ruse"
+title: "Golden Castle Ruse"
 declared: "Die List am Goldenen Schloß"
 license: CC-BY-NC-SA-4.0
 stamp:

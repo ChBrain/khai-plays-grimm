@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "riddler"
+title: "The Riddler"
 declared: "Rätselsteller"
 license: CC-BY-NC-SA-4.0
 stamp:

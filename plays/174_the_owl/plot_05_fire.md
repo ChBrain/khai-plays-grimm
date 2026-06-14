@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "fire"
+title: "Fire"
 declared: "Der Brand der Scheune"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "brook"
+title: "The Brook"
 declared: "der Bach"
 license: CC-BY-NC-SA-4.0
 stamp:

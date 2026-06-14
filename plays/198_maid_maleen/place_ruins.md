@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "ruins"
+title: "The Ruins"
 declared: "das verwüstete Reich"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "millers_boast"
+title: "Millers Boast"
 declared: "Die Müllerslüge"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "vault"
+title: "The Vault"
 declared: "Grabgewölbe"
 license: CC-BY-NC-SA-4.0
 stamp:

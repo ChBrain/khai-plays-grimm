@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "murder"
+title: "Murder"
 declared: "Der Hundemord"
 license: CC-BY-NC-SA-4.0
 stamp:

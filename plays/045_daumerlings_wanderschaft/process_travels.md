@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "travels"
+title: "Travels"
 declared: "Wanderschaft"
 license: CC-BY-NC-SA-4.0
 stamp:

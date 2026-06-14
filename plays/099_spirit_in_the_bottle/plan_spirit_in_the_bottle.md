@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "spirit_in_the_bottle"
+title: "Spirit in the Bottle"
 declared: "das Glück des Sohnes"
 license: CC-BY-NC-SA-4.0
 stamp:

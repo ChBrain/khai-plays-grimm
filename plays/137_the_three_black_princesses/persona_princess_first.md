@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "princess_first"
+title: "The Princess First"
 declared: "erste schwarze Prinzessin"
 license: CC-BY-NC-SA-4.0
 stamp:

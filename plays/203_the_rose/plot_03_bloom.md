@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "bloom"
+title: "Bloom"
 declared: "Das Aufblühen und der Tod"
 license: CC-BY-NC-SA-4.0
 stamp:

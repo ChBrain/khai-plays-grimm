@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "blessing"
+title: "Blessing"
 declared: "Die Heimkehr und der Segen der Hasel"
 license: CC-BY-NC-SA-4.0
 stamp:

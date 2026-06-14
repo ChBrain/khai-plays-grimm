@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "The Basin Blood"
+title: "basin_blood"
 declared: "das Blutbecken"
 license: CC-BY-NC-SA-4.0
 stamp:

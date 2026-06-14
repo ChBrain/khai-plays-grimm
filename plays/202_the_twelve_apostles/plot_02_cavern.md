@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "cavern"
+title: "Cavern"
 declared: "Petrus und die Höhle"
 license: CC-BY-NC-SA-4.0
 stamp:

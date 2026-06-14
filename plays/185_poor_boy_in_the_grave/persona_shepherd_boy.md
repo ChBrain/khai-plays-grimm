@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "shepherd_boy"
+title: "The Shepherd Boy"
 declared: "der Hirtenjunge"
 license: CC-BY-NC-SA-4.0
 stamp:

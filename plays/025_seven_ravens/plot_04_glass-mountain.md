@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_glass-mountain"
+title: "Glass Mountain"
 declared: "Der Glasberg"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "show"
+title: "Show"
 declared: "Die Vorführung des Balkens"
 license: CC-BY-NC-SA-4.0
 stamp:

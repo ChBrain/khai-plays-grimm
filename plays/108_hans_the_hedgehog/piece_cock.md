@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "cock"
+title: "The Cock"
 declared: "der beschlagene Hahn"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "assembly"
+title: "The Assembly"
 declared: "Wald und Feld"
 license: CC-BY-NC-SA-4.0
 stamp:

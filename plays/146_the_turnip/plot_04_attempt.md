@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "attempt"
+title: "Attempt"
 declared: "Der Mordanschlag"
 license: CC-BY-NC-SA-4.0
 stamp:

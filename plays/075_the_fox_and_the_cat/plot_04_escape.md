@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "escape"
+title: "Escape"
 declared: "Die Rettung auf dem Baum"
 license: CC-BY-NC-SA-4.0
 stamp:

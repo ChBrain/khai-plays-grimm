@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "seahare"
+title: "The Seahare"
 declared: "das Meerhäschen"
 license: CC-BY-NC-SA-4.0
 stamp:

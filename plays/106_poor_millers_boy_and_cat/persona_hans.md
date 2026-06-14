@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "hans"
+title: "The Hans"
 declared: "Hans, der Müllersbursch"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "fatal_promise"
+title: "Fatal Promise"
 declared: "Das fatale Versprechen"
 license: CC-BY-NC-SA-4.0
 stamp:

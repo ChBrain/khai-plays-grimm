@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "innkeeper-theft"
+title: "Innkeeper Theft"
 declared: "der Diebstahl des Wirtes"
 license: CC-BY-NC-SA-4.0
 stamp:

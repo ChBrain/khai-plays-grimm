@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "dry_voyage"
+title: "Dry Voyage"
 declared: "Die Trockenfahrt und das offene Fenster"
 license: CC-BY-NC-SA-4.0
 stamp:

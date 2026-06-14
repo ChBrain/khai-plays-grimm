@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "mastery"
+title: "The Mastery"
 declared: "Dienstherren"
 license: CC-BY-NC-SA-4.0
 stamp:

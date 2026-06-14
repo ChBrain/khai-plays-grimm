@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "mother-goat"
+title: "The Mother Goat"
 declared: "Mutter Geiß"
 license: CC-BY-NC-SA-4.0
 stamp:

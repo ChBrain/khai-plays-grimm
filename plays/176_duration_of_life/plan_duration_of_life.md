@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "duration_of_life"
+title: "Duration of Life"
 declared: "die Lebenszeit"
 license: CC-BY-NC-SA-4.0
 stamp:

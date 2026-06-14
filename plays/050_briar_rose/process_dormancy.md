@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "dormancy"
+title: "Dormancy"
 declared: "Schlaf"
 license: CC-BY-NC-SA-4.0
 stamp:

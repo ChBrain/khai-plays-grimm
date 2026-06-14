@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "outside"
+title: "The Outside"
 declared: "draußen vor dem Haus"
 license: CC-BY-NC-SA-4.0
 stamp:

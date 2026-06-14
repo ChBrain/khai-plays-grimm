@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "ruler"
+title: "The Ruler"
 declared: "der habgierige Herrscher"
 license: CC-BY-NC-SA-4.0
 stamp:

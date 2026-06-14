@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "keuterberg"
+title: "Keuterberg"
 declared: "der Keuterberg"
 license: CC-BY-NC-SA-4.0
 stamp:

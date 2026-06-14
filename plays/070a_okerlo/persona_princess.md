@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "princess"
+title: "The Princess"
 declared: "Königstochter"
 license: CC-BY-NC-SA-4.0
 stamp:

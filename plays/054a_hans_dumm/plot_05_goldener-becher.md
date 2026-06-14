@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_goldener-becher"
+title: "Goldener Becher"
 declared: "Der goldene Becher"
 license: CC-BY-NC-SA-4.0
 stamp:

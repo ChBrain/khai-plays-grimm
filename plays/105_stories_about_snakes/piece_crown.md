@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "crown"
+title: "The Crown"
 declared: "die Goldkrone"
 license: CC-BY-NC-SA-4.0
 stamp:

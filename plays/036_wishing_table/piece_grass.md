@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "grass"
+title: "Grass"
 declared: "Gras"
 license: CC-BY-NC-SA-4.0
 stamp:

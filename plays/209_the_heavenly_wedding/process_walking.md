@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "walking"
+title: "Walking"
 declared: "das Geradeauswandern"
 license: CC-BY-NC-SA-4.0
 stamp:

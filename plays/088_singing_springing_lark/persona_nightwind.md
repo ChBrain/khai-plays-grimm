@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "nightwind"
+title: "The Nightwind"
 declared: "der Nachtwind"
 license: CC-BY-NC-SA-4.0
 stamp:

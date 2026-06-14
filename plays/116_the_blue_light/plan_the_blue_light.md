@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_blue_light"
+title: "The Blue Light"
 declared: "die Rache"
 license: CC-BY-NC-SA-4.0
 stamp:

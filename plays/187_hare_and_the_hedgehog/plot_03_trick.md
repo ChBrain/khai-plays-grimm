@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "trick"
+title: "Trick"
 declared: "Die List mit der Igelfrau"
 license: CC-BY-NC-SA-4.0
 stamp:

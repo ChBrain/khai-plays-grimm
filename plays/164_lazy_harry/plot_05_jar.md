@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "jar"
+title: "Jar"
 declared: "Der zerbrochene Topf"
 license: CC-BY-NC-SA-4.0
 stamp:

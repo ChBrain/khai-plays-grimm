@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "maidens"
+title: "The Maidens"
 declared: "Jägerinnen"
 license: CC-BY-NC-SA-4.0
 stamp:

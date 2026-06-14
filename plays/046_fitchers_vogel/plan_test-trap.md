@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "test-trap"
+title: "Test Trap"
 declared: "die Eierprobe des Zauberers"
 license: CC-BY-NC-SA-4.0
 stamp:

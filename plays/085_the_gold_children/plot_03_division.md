@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "division"
+title: "Division"
 declared: "Die Zerteilung in sechs"
 license: CC-BY-NC-SA-4.0
 stamp:

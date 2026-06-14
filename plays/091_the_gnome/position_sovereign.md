@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "sovereign"
+title: "The Sovereign"
 declared: "der Gebieter"
 license: CC-BY-NC-SA-4.0
 stamp:

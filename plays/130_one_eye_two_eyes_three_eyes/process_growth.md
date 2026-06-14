@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "growth"
+title: "Growth"
 declared: "Wunderwachstum"
 license: CC-BY-NC-SA-4.0
 stamp:

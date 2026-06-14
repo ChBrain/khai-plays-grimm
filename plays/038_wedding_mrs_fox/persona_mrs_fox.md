@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "mrs_fox"
+title: "The Mrs Fox"
 declared: "Frau Füchsin"
 license: CC-BY-NC-SA-4.0
 stamp:

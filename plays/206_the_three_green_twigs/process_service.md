@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "service"
+title: "Service"
 declared: "das tägliche Dienen"
 license: CC-BY-NC-SA-4.0
 stamp:

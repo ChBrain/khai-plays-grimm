@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "feather_disguise"
+title: "The Feather Disguise"
 declared: "Federvogel"
 license: CC-BY-NC-SA-4.0
 stamp:

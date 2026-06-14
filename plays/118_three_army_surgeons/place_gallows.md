@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "gallows"
+title: "The Gallows"
 declared: "der Galgen"
 license: CC-BY-NC-SA-4.0
 stamp:

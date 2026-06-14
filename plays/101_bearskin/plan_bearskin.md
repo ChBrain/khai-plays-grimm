@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "bearskin"
+title: "Bearskin"
 declared: "das Gelübde"
 license: CC-BY-NC-SA-4.0
 stamp:

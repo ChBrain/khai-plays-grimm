@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "forgetting"
+title: "Forgetting"
 declared: "Vergessen"
 license: CC-BY-NC-SA-4.0
 stamp:

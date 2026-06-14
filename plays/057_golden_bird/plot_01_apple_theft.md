@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "apple_theft"
+title: "Apple Theft"
 declared: "Der Apfeldiebstahl"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "true_wife"
+title: "The True Wife"
 declared: "die treue Frau"
 license: CC-BY-NC-SA-4.0
 stamp:

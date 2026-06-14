@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "wishing"
+title: "Wishing"
 declared: "die Wunschgewährung"
 license: CC-BY-NC-SA-4.0
 stamp:

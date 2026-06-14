@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "swabians"
+title: "The Swabians"
 declared: "die sieben Schwaben"
 license: CC-BY-NC-SA-4.0
 stamp:

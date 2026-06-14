@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "fatty"
+title: "The Fatty"
 declared: "der Dicke"
 license: CC-BY-NC-SA-4.0
 stamp:

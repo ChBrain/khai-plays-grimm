@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "red_stockings"
+title: "Red Stockings"
 declared: "Die roten Strümpfe"
 license: CC-BY-NC-SA-4.0
 stamp:

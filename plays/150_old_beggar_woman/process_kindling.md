@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "kindling"
+title: "Kindling"
 declared: "das Entzünden"
 license: CC-BY-NC-SA-4.0
 stamp:

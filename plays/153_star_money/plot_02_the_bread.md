@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "the_bread"
+title: "The Bread"
 declared: "Das Brot für den Hungrigen"
 license: CC-BY-NC-SA-4.0
 stamp:

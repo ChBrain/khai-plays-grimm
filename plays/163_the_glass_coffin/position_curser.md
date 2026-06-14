@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "curser"
+title: "The Curser"
 declared: "der Verwünscher"
 license: CC-BY-NC-SA-4.0
 stamp:

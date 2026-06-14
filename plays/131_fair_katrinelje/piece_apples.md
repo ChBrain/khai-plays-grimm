@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "apples"
+title: "The Apples"
 declared: "ein halbes Pfund Hutzeln"
 license: CC-BY-NC-SA-4.0
 stamp:

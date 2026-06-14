@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "fearful"
+title: "The Fearful"
 declared: "der Furchtsame"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "castle"
+title: "Castle"
 declared: "Das verlassene Schloss"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_dogs"
+title: "Dogs"
 declared: "Die Hunde auf dem Waldweg"
 license: CC-BY-NC-SA-4.0
 stamp:

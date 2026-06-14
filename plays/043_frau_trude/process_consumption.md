@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "consumption"
+title: "Consumption"
 declared: "Verbrennung"
 license: CC-BY-NC-SA-4.0
 stamp:

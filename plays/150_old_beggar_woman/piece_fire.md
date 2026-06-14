@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "fire"
+title: "The Fire"
 declared: "das Feuer"
 license: CC-BY-NC-SA-4.0
 stamp:

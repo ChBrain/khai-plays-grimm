@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "harsh_judgment"
+title: "Harsh Judgment"
 declared: "Das harte Urteil und das Ausbleiben des Engels"
 license: CC-BY-NC-SA-4.0
 stamp:

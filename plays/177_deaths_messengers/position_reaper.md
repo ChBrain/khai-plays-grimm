@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "reaper"
+title: "The Reaper"
 declared: "der Schnitter"
 license: CC-BY-NC-SA-4.0
 stamp:

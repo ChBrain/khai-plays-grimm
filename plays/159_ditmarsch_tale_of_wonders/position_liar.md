@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "liar"
+title: "The Liar"
 declared: "der Lügner"
 license: CC-BY-NC-SA-4.0
 stamp:

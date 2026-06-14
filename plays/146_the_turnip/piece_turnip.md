@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "turnip"
+title: "The Turnip"
 declared: "die Riesenrübe"
 license: CC-BY-NC-SA-4.0
 stamp:

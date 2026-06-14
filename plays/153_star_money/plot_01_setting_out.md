@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "setting_out"
+title: "Setting Out"
 declared: "Der Auszug"
 license: CC-BY-NC-SA-4.0
 stamp:

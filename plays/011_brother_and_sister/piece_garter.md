@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "garter"
+title: "The Garter"
 declared: "Strumpfband"
 license: CC-BY-NC-SA-4.0
 stamp:

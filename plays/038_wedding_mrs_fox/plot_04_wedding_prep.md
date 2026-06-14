@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "wedding_prep"
+title: "Wedding Prep"
 declared: "Die Hochzeitsvorbereitung"
 license: CC-BY-NC-SA-4.0
 stamp:

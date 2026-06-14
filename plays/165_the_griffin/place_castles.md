@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "castles"
+title: "The Castles"
 declared: "die beiden Schlösser"
 license: CC-BY-NC-SA-4.0
 stamp:

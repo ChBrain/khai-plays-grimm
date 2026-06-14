@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "sparrows-revenge"
+title: "Sparrows Revenge"
 declared: "die Rache des Sperlings"
 license: CC-BY-NC-SA-4.0
 stamp:

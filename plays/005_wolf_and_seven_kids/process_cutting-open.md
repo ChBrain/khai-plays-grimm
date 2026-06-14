@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "cutting-open"
+title: "Cutting Open"
 declared: "Aufschneidung"
 license: CC-BY-NC-SA-4.0
 stamp:

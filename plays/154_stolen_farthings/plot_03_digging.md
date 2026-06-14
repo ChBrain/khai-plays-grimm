@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "digging"
+title: "Digging"
 declared: "Das Graben in den Ritzen"
 license: CC-BY-NC-SA-4.0
 stamp:

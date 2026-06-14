@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_cosmic-journey"
+title: "Cosmic Journey"
 declared: "Der Himmelsweg"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "barn"
+title: "The Barn"
 declared: "die Scheune"
 license: CC-BY-NC-SA-4.0
 stamp:

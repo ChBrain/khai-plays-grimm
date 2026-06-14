@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "rich_physician"
+title: "Rich Physician"
 declared: "Der berühmte Arzt"
 license: CC-BY-NC-SA-4.0
 stamp:

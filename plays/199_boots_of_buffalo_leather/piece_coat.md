@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "coat"
+title: "The Coat"
 declared: "der Regenmantel"
 license: CC-BY-NC-SA-4.0
 stamp:

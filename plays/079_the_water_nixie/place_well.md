@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "well"
+title: "The Well"
 declared: "der Brunnen"
 license: CC-BY-NC-SA-4.0
 stamp:

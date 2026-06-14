@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "closer"
+title: "The Closer"
 declared: "der Schlusszeuge"
 license: CC-BY-NC-SA-4.0
 stamp:

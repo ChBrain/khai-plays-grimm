@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "nail"
+title: "The Nail"
 declared: "der Nagel"
 license: CC-BY-NC-SA-4.0
 stamp:

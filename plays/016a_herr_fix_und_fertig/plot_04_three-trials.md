@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_three-trials"
+title: "Three Trials"
 declared: "Die drei Proben"
 license: CC-BY-NC-SA-4.0
 stamp:

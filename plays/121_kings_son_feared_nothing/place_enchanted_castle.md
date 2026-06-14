@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "enchanted_castle"
+title: "The Enchanted Castle"
 declared: "das Zauberschloss"
 license: CC-BY-NC-SA-4.0
 stamp:

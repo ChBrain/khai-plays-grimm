@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "supplicant"
+title: "The Supplicant"
 declared: "Bittsteller"
 license: CC-BY-NC-SA-4.0
 stamp:

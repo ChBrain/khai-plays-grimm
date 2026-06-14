@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "choking"
+title: "Choking"
 declared: "das Ersticken"
 license: CC-BY-NC-SA-4.0
 stamp:

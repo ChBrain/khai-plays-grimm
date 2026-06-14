@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "bird_flight"
+title: "Bird Flight"
 declared: "Die Flucht des Vogels"
 license: CC-BY-NC-SA-4.0
 stamp:

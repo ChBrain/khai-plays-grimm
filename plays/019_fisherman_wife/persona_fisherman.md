@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "fisherman"
+title: "The Fisherman"
 declared: "Fischer"
 license: CC-BY-NC-SA-4.0
 stamp:

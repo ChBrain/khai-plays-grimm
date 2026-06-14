@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "three-feathers"
+title: "Three Feathers"
 declared: "die Erlangung des Reiches"
 license: CC-BY-NC-SA-4.0
 stamp:

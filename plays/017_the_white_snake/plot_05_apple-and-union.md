@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_apple-and-union"
+title: "Apple and Union"
 declared: "Der Lebensapfel"
 license: CC-BY-NC-SA-4.0
 stamp:

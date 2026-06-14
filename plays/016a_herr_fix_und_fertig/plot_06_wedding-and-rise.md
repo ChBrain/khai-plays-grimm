@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "06_wedding-and-rise"
+title: "Wedding and Rise"
 declared: "Hochzeit und Aufstieg"
 license: CC-BY-NC-SA-4.0
 stamp:

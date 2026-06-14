@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "tail"
+title: "The Tail"
 declared: "der Fuchsschwanz"
 license: CC-BY-NC-SA-4.0
 stamp:

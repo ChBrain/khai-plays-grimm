@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "old_giant"
+title: "The Old Giant"
 declared: "der alte Riese"
 license: CC-BY-NC-SA-4.0
 stamp:

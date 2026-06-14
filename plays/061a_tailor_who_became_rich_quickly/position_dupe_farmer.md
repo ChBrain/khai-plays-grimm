@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "dupe_farmer"
+title: "The Dupe Farmer"
 declared: "betrogener Bauer"
 license: CC-BY-NC-SA-4.0
 stamp:

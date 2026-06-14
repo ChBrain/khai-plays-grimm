@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "return"
+title: "Return"
 declared: "die Rückgabe"
 license: CC-BY-NC-SA-4.0
 stamp:

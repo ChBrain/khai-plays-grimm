@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "pancake"
+title: "The Pancake"
 declared: "der Pfannkuchen"
 license: CC-BY-NC-SA-4.0
 stamp:

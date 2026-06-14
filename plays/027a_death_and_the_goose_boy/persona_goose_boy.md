@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "goose_boy"
+title: "The Goose Boy"
 declared: "Gänshirt"
 license: CC-BY-NC-SA-4.0
 stamp:

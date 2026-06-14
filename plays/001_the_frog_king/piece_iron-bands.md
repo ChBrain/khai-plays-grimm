@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "iron-bands"
+title: "The Iron Bands"
 declared: "eiserne Bande"
 license: CC-BY-NC-SA-4.0
 stamp:

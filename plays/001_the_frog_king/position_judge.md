@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "judge"
+title: "The Judge"
 declared: "Richter"
 license: CC-BY-NC-SA-4.0
 stamp:

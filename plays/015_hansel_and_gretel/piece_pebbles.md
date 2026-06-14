@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "pebbles"
+title: "The Pebbles"
 declared: "Kieselsteine"
 license: CC-BY-NC-SA-4.0
 stamp:

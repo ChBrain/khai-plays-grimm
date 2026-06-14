@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "union"
+title: "Union"
 declared: "Vereinigung"
 license: CC-BY-NC-SA-4.0
 stamp:

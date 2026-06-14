@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Discovery"
+title: "discovery"
 declared: "Entdeckung"
 license: CC-BY-NC-SA-4.0
 stamp:

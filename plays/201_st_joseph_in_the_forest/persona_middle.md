@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "middle"
+title: "The Middle"
 declared: "die mittlere Tochter"
 license: CC-BY-NC-SA-4.0
 stamp:

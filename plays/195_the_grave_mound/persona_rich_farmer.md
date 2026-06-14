@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "rich_farmer"
+title: "The Rich Farmer"
 declared: "der reiche Bauer"
 license: CC-BY-NC-SA-4.0
 stamp:

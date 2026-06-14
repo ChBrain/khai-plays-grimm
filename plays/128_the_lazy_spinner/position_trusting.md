@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "trusting"
+title: "The Trusting"
 declared: "der Gutgläubige"
 license: CC-BY-NC-SA-4.0
 stamp:

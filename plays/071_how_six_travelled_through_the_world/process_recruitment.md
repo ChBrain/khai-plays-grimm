@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "recruitment"
+title: "Recruitment"
 declared: "die Gefährtenwerbung"
 license: CC-BY-NC-SA-4.0
 stamp:

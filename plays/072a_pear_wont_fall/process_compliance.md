@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "compliance"
+title: "Compliance"
 declared: "Folgsamkeit"
 license: CC-BY-NC-SA-4.0
 stamp:

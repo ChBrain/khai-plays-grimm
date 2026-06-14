@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "verdict"
+title: "Verdict"
 declared: "das Urteil"
 license: CC-BY-NC-SA-4.0
 stamp:

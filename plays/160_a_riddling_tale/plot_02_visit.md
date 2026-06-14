@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "visit"
+title: "Visit"
 declared: "Der nächtliche Besuch"
 license: CC-BY-NC-SA-4.0
 stamp:

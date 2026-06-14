@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "dove"
+title: "Dove"
 declared: "Die Taube und die Schlüssel"
 license: CC-BY-NC-SA-4.0
 stamp:

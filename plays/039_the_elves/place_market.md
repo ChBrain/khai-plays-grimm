@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "market"
+title: "The Market"
 declared: "Marktplatz"
 license: CC-BY-NC-SA-4.0
 stamp:

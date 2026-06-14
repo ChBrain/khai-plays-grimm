@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "reciting"
+title: "Reciting"
 declared: "das Aufzählen"
 license: CC-BY-NC-SA-4.0
 stamp:

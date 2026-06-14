@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "brides_on_trial"
+title: "Brides on Trial"
 declared: "die Brautschau"
 license: CC-BY-NC-SA-4.0
 stamp:

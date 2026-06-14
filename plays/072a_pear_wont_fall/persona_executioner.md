@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "executioner"
+title: "The Executioner"
 declared: "Schinder"
 license: CC-BY-NC-SA-4.0
 stamp:

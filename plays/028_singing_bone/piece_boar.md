@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "boar"
+title: "The Boar"
 declared: "Wildschwein"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "sufferer"
+title: "The Sufferer"
 declared: "die Leidende"
 license: CC-BY-NC-SA-4.0
 stamp:

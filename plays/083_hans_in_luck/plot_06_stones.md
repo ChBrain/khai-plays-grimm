@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "stones"
+title: "Stones"
 declared: "Der Schleifstein und der Brunnen"
 license: CC-BY-NC-SA-4.0
 stamp:

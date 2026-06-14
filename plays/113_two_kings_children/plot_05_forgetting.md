@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "forgetting"
+title: "Forgetting"
 declared: "Der Vergessenskuss"
 license: CC-BY-NC-SA-4.0
 stamp:

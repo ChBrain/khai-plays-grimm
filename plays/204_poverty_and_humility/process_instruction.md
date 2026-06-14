@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "instruction"
+title: "Instruction"
 declared: "die Belehrung"
 license: CC-BY-NC-SA-4.0
 stamp:

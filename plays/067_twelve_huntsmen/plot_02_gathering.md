@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "gathering"
+title: "Gathering"
 declared: "Die elf Ebenbilder"
 license: CC-BY-NC-SA-4.0
 stamp:

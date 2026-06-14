@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "vigil"
+title: "Vigil"
 declared: "das nächtliche Wachen"
 license: CC-BY-NC-SA-4.0
 stamp:

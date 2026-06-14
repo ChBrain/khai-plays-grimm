@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_quest-begins"
+title: "Quest Begins"
 declared: "Das Geheimnis"
 license: CC-BY-NC-SA-4.0
 stamp:

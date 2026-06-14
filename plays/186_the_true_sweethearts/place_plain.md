@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "plain"
+title: "The Plain"
 declared: "die Ebene"
 license: CC-BY-NC-SA-4.0
 stamp:

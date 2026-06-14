@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "golden-goose"
+title: "Golden Goose"
 declared: "die Erwerbung der Königskrone"
 license: CC-BY-NC-SA-4.0
 stamp:

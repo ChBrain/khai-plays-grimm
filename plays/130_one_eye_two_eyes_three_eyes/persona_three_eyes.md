@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "three_eyes"
+title: "The Three Eyes"
 declared: "Dreiäuglein"
 license: CC-BY-NC-SA-4.0
 stamp:

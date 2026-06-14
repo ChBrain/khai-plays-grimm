@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_flounder-release"
+title: "Flounder Release"
 declared: "Die Freilassung des Butts"
 license: CC-BY-NC-SA-4.0
 stamp:

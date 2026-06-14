@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "kingdom"
+title: "The Kingdom"
 declared: "das Königreich"
 license: CC-BY-NC-SA-4.0
 stamp:

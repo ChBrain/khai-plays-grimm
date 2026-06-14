@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "school"
+title: "The School"
 declared: "die hohe Schule"
 license: CC-BY-NC-SA-4.0
 stamp:

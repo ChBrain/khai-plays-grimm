@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "unmasking"
+title: "Unmasking"
 declared: "die Entlarvung"
 license: CC-BY-NC-SA-4.0
 stamp:

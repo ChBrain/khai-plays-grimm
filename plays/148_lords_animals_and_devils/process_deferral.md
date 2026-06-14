@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "deferral"
+title: "Deferral"
 declared: "der Zahlungsaufschub"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_wolf_and_the_fox"
+title: "The Wolf and the Fox"
 declared: "die Befreiung"
 license: CC-BY-NC-SA-4.0
 stamp:

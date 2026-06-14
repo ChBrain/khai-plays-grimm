@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "wedding"
+title: "Wedding"
 declared: "die Hochzeitsfahrt"
 license: CC-BY-NC-SA-4.0
 stamp:

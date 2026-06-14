@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "languages"
+title: "The Languages"
 declared: "Tierstimmen"
 license: CC-BY-NC-SA-4.0
 stamp:

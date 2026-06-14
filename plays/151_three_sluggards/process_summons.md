@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "summons"
+title: "Summons"
 declared: "das Berufen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_first-abandonment"
+title: "First Abandonment"
 declared: "Die erste Aussetzung"
 license: CC-BY-NC-SA-4.0
 stamp:

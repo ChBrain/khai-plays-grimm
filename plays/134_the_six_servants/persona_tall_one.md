@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "tall_one"
+title: "The Tall One"
 declared: "der Lange"
 license: CC-BY-NC-SA-4.0
 stamp:

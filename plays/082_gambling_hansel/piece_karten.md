@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "karten"
+title: "The Karten"
 declared: "die Gewinnkarten und Würfel"
 license: CC-BY-NC-SA-4.0
 stamp:

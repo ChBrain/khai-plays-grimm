@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "defiance"
+title: "Defiance"
 declared: "Unerschrockenheit"
 license: CC-BY-NC-SA-4.0
 stamp:

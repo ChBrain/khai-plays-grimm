@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "homecoming"
+title: "Homecoming"
 declared: "Die Heimkehr und die Eisenstange"
 license: CC-BY-NC-SA-4.0
 stamp:

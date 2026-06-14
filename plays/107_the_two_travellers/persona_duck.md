@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "duck"
+title: "The Duck"
 declared: "die Ente"
 license: CC-BY-NC-SA-4.0
 stamp:

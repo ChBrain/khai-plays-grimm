@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "wedding_exposure"
+title: "Wedding Exposure"
 declared: "Die Enthüllung beim Mahl"
 license: CC-BY-NC-SA-4.0
 stamp:

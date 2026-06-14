@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "guardian"
+title: "The Guardian"
 declared: "Schützer"
 license: CC-BY-NC-SA-4.0
 stamp:

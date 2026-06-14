@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "persona_first-king"
+title: "The Persona First King"
 declared: "erster König"
 license: CC-BY-NC-SA-4.0
 stamp:

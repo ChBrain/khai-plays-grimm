@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "battle"
+title: "Battle"
 declared: "Die Schlacht der Heere"
 license: CC-BY-NC-SA-4.0
 stamp:

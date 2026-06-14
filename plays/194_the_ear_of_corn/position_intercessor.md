@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "intercessor"
+title: "The Intercessor"
 declared: "die Fürbitter"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "first_kingdom"
+title: "The First Kingdom"
 declared: "das erste Königreich"
 license: CC-BY-NC-SA-4.0
 stamp:

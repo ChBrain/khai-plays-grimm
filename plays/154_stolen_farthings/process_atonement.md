@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "atonement"
+title: "Atonement"
 declared: "die Sühne"
 license: CC-BY-NC-SA-4.0
 stamp:

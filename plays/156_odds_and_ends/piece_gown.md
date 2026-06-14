@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "gown"
+title: "The Gown"
 declared: "das Kleid"
 license: CC-BY-NC-SA-4.0
 stamp:

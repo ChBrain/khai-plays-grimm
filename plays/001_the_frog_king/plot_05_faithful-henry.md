@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_faithful-henry"
+title: "Faithful Henry"
 declared: "Die eisernen Bande"
 license: CC-BY-NC-SA-4.0
 stamp:

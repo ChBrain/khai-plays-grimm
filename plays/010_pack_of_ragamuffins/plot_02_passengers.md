@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_passengers"
+title: "Passengers"
 declared: "Die Gesellen auf der Landstraße"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "rich_admitted"
+title: "Rich Admitted"
 declared: "Der Einzug des Reichen"
 license: CC-BY-NC-SA-4.0
 stamp:

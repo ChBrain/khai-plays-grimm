@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "quarrel"
+title: "Quarrel"
 declared: "Der Zank um die Gans"
 license: CC-BY-NC-SA-4.0
 stamp:

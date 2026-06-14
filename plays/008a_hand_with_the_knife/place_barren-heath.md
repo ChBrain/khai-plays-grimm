@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "barren-heath"
+title: "The Barren Heath"
 declared: "dürre Heide"
 license: CC-BY-NC-SA-4.0
 stamp:

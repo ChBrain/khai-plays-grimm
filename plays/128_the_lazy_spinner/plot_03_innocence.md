@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "innocence"
+title: "Innocence"
 declared: "Die geheuchelte Unschuld"
 license: CC-BY-NC-SA-4.0
 stamp:

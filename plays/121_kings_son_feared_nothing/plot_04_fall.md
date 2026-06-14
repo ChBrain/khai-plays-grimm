@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "fall"
+title: "Fall"
 declared: "Der Sturz des Riesen"
 license: CC-BY-NC-SA-4.0
 stamp:

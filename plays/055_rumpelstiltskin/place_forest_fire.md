@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "forest_fire"
+title: "The Forest Fire"
 declared: "Waldfeuer"
 license: CC-BY-NC-SA-4.0
 stamp:

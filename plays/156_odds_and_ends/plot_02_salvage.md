@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "salvage"
+title: "Salvage"
 declared: "Die Bergung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "besieged"
+title: "The Besieged"
 declared: "die Belagerten"
 license: CC-BY-NC-SA-4.0
 stamp:

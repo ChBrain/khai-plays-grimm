@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "cheese_test"
+title: "Cheese Test"
 declared: "Die Käseprobe"
 license: CC-BY-NC-SA-4.0
 stamp:

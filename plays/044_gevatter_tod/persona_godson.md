@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "godson"
+title: "The Godson"
 declared: "Patenkind"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "ring"
+title: "Ring"
 declared: "Das Laken und der Ehering"
 license: CC-BY-NC-SA-4.0
 stamp:

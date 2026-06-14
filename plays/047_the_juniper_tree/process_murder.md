@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "murder"
+title: "Murder"
 declared: "Mord"
 license: CC-BY-NC-SA-4.0
 stamp:

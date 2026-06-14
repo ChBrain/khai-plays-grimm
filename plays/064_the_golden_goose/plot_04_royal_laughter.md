@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "royal_laughter"
+title: "Royal Laughter"
 declared: "Das Lachen der Prinzessin"
 license: CC-BY-NC-SA-4.0
 stamp:

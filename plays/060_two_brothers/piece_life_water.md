@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "life_water"
+title: "The Life Water"
 declared: "Lebenswasser"
 license: CC-BY-NC-SA-4.0
 stamp:

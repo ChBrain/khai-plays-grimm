@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "boots"
+title: "The Boots"
 declared: "die Siebenmeilenstiefel"
 license: CC-BY-NC-SA-4.0
 stamp:

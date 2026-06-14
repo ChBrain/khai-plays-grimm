@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "coach"
+title: "Coach"
 declared: "Die galoppierende Kutsche"
 license: CC-BY-NC-SA-4.0
 stamp:

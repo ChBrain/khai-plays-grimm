@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "moon_dress"
+title: "The Moon Dress"
 declared: "mondhaftes Kleid"
 license: CC-BY-NC-SA-4.0
 stamp:

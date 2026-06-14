@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "parson_clerk"
+title: "The Parson Clerk"
 declared: "der Pfarrer und der Küster"
 license: CC-BY-NC-SA-4.0
 stamp:

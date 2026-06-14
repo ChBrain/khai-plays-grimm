@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "reed"
+title: "The Reed"
 declared: "das elfte Schilfrohr"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "witness"
+title: "The Witness"
 declared: "die Wächterin"
 license: CC-BY-NC-SA-4.0
 stamp:

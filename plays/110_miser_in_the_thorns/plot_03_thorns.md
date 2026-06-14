@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "thorns"
+title: "Thorns"
 declared: "Der Tanz in den Dornen"
 license: CC-BY-NC-SA-4.0
 stamp:

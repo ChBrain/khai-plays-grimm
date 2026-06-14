@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "gifting"
+title: "Gifting"
 declared: "die Schenkung"
 license: CC-BY-NC-SA-4.0
 stamp:

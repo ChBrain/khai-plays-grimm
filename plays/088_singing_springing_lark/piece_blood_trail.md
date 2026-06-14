@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "blood_trail"
+title: "The Blood Trail"
 declared: "die Blutspur"
 license: CC-BY-NC-SA-4.0
 stamp:

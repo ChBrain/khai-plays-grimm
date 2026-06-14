@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "gallows"
+title: "The Gallows"
 declared: "der Galgen und das Rad"
 license: CC-BY-NC-SA-4.0
 stamp:

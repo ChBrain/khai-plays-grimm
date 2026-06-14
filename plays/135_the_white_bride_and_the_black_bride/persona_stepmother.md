@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "stepmother"
+title: "The Stepmother"
 declared: "die Stiefmutter"
 license: CC-BY-NC-SA-4.0
 stamp:

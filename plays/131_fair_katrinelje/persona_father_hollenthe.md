@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "father_hollenthe"
+title: "Father Hollenthe"
 declared: "Vater Hollenthe"
 license: CC-BY-NC-SA-4.0
 stamp:

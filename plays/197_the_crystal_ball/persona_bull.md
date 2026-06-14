@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "bull"
+title: "The Bull"
 declared: "der wilde Stier"
 license: CC-BY-NC-SA-4.0
 stamp:

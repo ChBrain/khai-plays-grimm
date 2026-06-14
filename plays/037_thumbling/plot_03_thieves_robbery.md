@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "thieves_robbery"
+title: "Thieves Robbery"
 declared: "Der Pfarrhaus-Lärm"
 license: CC-BY-NC-SA-4.0
 stamp:

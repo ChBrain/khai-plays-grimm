@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "churchyard"
+title: "The Churchyard"
 declared: "der Friedhof"
 license: CC-BY-NC-SA-4.0
 stamp:

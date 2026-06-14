@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "hens"
+title: "The Hens"
 declared: "die Hühner"
 license: CC-BY-NC-SA-4.0
 stamp:

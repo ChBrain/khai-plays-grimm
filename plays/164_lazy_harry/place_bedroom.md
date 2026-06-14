@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "bedroom"
+title: "The Bedroom"
 declared: "die Schlafkammer"
 license: CC-BY-NC-SA-4.0
 stamp:

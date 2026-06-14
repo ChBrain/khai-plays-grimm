@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "life_extinguished"
+title: "Life Extinguished"
 declared: "Das erloschene Licht"
 license: CC-BY-NC-SA-4.0
 stamp:

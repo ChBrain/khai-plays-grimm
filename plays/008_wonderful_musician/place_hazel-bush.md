@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "hazel-bush"
+title: "The Hazel Bush"
 declared: "Haselstrauch"
 license: CC-BY-NC-SA-4.0
 stamp:

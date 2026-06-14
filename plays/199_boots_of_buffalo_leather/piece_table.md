@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "table"
+title: "The Table"
 declared: "der Raubtisch"
 license: CC-BY-NC-SA-4.0
 stamp:

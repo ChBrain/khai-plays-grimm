@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "slipper"
+title: "The Slipper"
 declared: "Goldener Schuh"
 license: CC-BY-NC-SA-4.0
 stamp:

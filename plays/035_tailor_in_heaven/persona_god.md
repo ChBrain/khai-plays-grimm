@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "god"
+title: "The God"
 declared: "Gott"
 license: CC-BY-NC-SA-4.0
 stamp:

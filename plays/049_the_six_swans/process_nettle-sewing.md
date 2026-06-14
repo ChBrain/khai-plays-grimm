@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "nettle-sewing"
+title: "Nettle Sewing"
 declared: "Nessel-Nähen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "lilies"
+title: "The Lilies"
 declared: "Lilien"
 license: CC-BY-NC-SA-4.0
 stamp:

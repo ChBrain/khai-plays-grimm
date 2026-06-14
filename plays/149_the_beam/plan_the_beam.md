@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_beam"
+title: "The Beam"
 declared: "die Rache des Zauberers"
 license: CC-BY-NC-SA-4.0
 stamp:

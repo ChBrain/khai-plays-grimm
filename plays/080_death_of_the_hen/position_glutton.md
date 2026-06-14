@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "glutton"
+title: "The Glutton"
 declared: "die Gierige"
 license: CC-BY-NC-SA-4.0
 stamp:

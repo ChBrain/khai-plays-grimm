@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "goldfish"
+title: "The Goldfish"
 declared: "der Goldfisch"
 license: CC-BY-NC-SA-4.0
 stamp:

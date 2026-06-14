@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "frock"
+title: "The Frock"
 declared: "das Kinderkleid"
 license: CC-BY-NC-SA-4.0
 stamp:

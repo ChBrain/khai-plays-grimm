@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_vorzeichen"
+title: "Vorzeichen"
 declared: "Die Treppe der Vorzeichen"
 license: CC-BY-NC-SA-4.0
 stamp:

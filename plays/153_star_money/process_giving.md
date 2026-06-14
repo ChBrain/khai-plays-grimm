@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "giving"
+title: "Giving"
 declared: "das Verschenken"
 license: CC-BY-NC-SA-4.0
 stamp:

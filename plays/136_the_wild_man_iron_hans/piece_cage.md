@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "cage"
+title: "The Cage"
 declared: "eiserne Käfig"
 license: CC-BY-NC-SA-4.0
 stamp:

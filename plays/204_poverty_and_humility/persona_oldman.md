@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "oldman"
+title: "The Oldman"
 declared: "der greise Mann"
 license: CC-BY-NC-SA-4.0
 stamp:

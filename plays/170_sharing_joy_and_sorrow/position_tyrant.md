@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "tyrant"
+title: "The Tyrant"
 declared: "der Tyrann"
 license: CC-BY-NC-SA-4.0
 stamp:

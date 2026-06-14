@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_escalation"
+title: "Escalation"
 declared: "Die wachsende Kette der Elemente"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "stolen_farthings"
+title: "Stolen Farthings"
 declared: "die Heimkehr zur Ruhe"
 license: CC-BY-NC-SA-4.0
 stamp:

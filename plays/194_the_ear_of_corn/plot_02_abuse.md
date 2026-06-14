@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "abuse"
+title: "Abuse"
 declared: "Der Frevel am Korn"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "sickroom"
+title: "The Sickroom"
 declared: "Krankenzimmer"
 license: CC-BY-NC-SA-4.0
 stamp:

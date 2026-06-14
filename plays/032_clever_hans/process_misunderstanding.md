@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "misunderstanding"
+title: "Misunderstanding"
 declared: "Wortwörtlichkeit"
 license: CC-BY-NC-SA-4.0
 stamp:

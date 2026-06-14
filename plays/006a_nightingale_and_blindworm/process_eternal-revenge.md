@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "eternal-revenge"
+title: "Eternal Revenge"
 declared: "ewige Rache"
 license: CC-BY-NC-SA-4.0
 stamp:

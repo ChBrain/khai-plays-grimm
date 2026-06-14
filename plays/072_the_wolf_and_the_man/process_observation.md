@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "observation"
+title: "Observation"
 declared: "die Menschenschau"
 license: CC-BY-NC-SA-4.0
 stamp:

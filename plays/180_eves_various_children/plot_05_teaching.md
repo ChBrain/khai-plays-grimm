@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "teaching"
+title: "Teaching"
 declared: "Die Belehrung Evas"
 license: CC-BY-NC-SA-4.0
 stamp:

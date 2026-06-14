@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "joyful_farewell"
+title: "Joyful Farewell"
 declared: "Der tanzende Abschied"
 license: CC-BY-NC-SA-4.0
 stamp:

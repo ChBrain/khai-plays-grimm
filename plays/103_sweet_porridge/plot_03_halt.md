@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "halt"
+title: "Halt"
 declared: "Das rettende Wort"
 license: CC-BY-NC-SA-4.0
 stamp:

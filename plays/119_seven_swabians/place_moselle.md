@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "moselle"
+title: "The Moselle"
 declared: "die Mosel"
 license: CC-BY-NC-SA-4.0
 stamp:

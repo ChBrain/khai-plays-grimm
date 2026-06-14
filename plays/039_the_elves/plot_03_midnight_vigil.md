@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "midnight_vigil"
+title: "Midnight Vigil"
 declared: "Die Mitternachtswache"
 license: CC-BY-NC-SA-4.0
 stamp:

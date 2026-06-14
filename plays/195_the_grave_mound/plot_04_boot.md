@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "boot"
+title: "Boot"
 declared: "Der bodenlose Stiefel"
 license: CC-BY-NC-SA-4.0
 stamp:

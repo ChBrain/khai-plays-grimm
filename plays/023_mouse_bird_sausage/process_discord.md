@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "discord"
+title: "Discord"
 declared: "Zwietracht"
 license: CC-BY-NC-SA-4.0
 stamp:

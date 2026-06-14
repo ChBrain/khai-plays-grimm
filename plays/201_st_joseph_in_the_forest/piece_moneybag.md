@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "moneybag"
+title: "The Moneybag"
 declared: "der schwere Geldsack"
 license: CC-BY-NC-SA-4.0
 stamp:

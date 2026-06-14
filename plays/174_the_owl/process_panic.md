@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "panic"
+title: "Panic"
 declared: "der Schrecken"
 license: CC-BY-NC-SA-4.0
 stamp:

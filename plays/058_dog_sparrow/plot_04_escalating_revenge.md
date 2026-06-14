@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "escalating_revenge"
+title: "Escalating Revenge"
 declared: "Die Wein- und Pferderache"
 license: CC-BY-NC-SA-4.0
 stamp:

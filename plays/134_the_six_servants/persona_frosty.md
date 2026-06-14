@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "frosty"
+title: "The Frosty"
 declared: "der Frostige"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "money"
+title: "The Money"
 declared: "vierzehn Pfennige"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "befehl"
+title: "Befehl"
 declared: "Der Befehl"
 license: CC-BY-NC-SA-4.0
 stamp:

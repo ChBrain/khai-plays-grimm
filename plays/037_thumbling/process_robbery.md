@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "robbery"
+title: "Robbery"
 declared: "Pfarrhaus-Einbruch"
 license: CC-BY-NC-SA-4.0
 stamp:

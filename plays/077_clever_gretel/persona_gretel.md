@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "gretel"
+title: "The Gretel"
 declared: "das Gretel"
 license: CC-BY-NC-SA-4.0
 stamp:

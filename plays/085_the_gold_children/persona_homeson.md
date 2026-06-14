@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "homeson"
+title: "The Homeson"
 declared: "das Heimkind"
 license: CC-BY-NC-SA-4.0
 stamp:

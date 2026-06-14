@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "darkland"
+title: "The Darkland"
 declared: "das dunkle Land"
 license: CC-BY-NC-SA-4.0
 stamp:

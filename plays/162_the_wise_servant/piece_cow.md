@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "cow"
+title: "The Cow"
 declared: "die verlorene Kuh"
 license: CC-BY-NC-SA-4.0
 stamp:

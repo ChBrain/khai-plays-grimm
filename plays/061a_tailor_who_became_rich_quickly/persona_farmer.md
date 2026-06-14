@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "farmer"
+title: "The Farmer"
 declared: "Bauer"
 license: CC-BY-NC-SA-4.0
 stamp:

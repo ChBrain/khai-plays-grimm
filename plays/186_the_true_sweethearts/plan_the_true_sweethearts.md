@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_true_sweethearts"
+title: "The True Sweethearts"
 declared: "die Rückgewinnung"
 license: CC-BY-NC-SA-4.0
 stamp:

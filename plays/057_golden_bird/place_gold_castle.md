@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "gold_castle"
+title: "The Gold Castle"
 declared: "Goldenes Schloss"
 license: CC-BY-NC-SA-4.0
 stamp:

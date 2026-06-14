@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "haus"
+title: "The Haus"
 declared: "das Haus des Spielhansl"
 license: CC-BY-NC-SA-4.0
 stamp:

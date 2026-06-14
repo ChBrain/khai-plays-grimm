@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "borrowed_word"
+title: "The Borrowed Word"
 declared: "das geliehene Wort"
 license: CC-BY-NC-SA-4.0
 stamp:

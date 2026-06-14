@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_cleft"
+title: "Cleft"
 declared: "Das erlöste Männlein"
 license: CC-BY-NC-SA-4.0
 stamp:

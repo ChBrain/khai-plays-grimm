@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "zitrone"
+title: "Zitrone"
 declared: "Zitrone"
 license: CC-BY-NC-SA-4.0
 stamp:

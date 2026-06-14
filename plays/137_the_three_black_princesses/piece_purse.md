@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "purse"
+title: "The Purse"
 declared: "Beutel"
 license: CC-BY-NC-SA-4.0
 stamp:

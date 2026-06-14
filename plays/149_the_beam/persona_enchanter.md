@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "enchanter"
+title: "The Enchanter"
 declared: "der Zauberer"
 license: CC-BY-NC-SA-4.0
 stamp:

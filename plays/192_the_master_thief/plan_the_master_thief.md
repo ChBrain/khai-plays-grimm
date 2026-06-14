@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_master_thief"
+title: "The Master Thief"
 declared: "der Meisterstreich"
 license: CC-BY-NC-SA-4.0
 stamp:

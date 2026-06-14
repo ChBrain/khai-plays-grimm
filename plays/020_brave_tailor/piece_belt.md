@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "belt"
+title: "The Belt"
 declared: "Gürtel"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "mouthpiece"
+title: "The Mouthpiece"
 declared: "Mundstück"
 license: CC-BY-NC-SA-4.0
 stamp:

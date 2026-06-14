@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "werrel_soist"
+title: "The Werrel Soist"
 declared: "das Land zwischen Werrel und Soist"
 license: CC-BY-NC-SA-4.0
 stamp:

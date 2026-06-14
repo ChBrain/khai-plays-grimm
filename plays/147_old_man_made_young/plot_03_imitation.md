@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "imitation"
+title: "Imitation"
 declared: "Die plumpe Nachahmung"
 license: CC-BY-NC-SA-4.0
 stamp:

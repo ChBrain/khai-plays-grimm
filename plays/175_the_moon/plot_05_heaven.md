@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "heaven"
+title: "Heaven"
 declared: "Petrus hängt den Mond an den Himmel"
 license: CC-BY-NC-SA-4.0
 stamp:

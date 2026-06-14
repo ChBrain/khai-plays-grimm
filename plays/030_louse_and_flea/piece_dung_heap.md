@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "dung_heap"
+title: "The Dung Heap"
 declared: "Misthäufchen"
 license: CC-BY-NC-SA-4.0
 stamp:

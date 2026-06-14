@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "needle_sword"
+title: "The Needle Sword"
 declared: "Nadelschwert"
 license: CC-BY-NC-SA-4.0
 stamp:

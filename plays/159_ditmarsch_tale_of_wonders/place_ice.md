@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "ice"
+title: "The Ice"
 declared: "das Eis"
 license: CC-BY-NC-SA-4.0
 stamp:

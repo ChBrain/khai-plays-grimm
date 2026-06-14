@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "double"
+title: "The Double"
 declared: "die Doppelgängerin"
 license: CC-BY-NC-SA-4.0
 stamp:

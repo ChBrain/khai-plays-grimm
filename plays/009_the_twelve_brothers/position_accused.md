@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "accused"
+title: "The Accused"
 declared: "Angeklagte"
 license: CC-BY-NC-SA-4.0
 stamp:

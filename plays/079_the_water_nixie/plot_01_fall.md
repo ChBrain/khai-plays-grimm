@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "fall"
+title: "Fall"
 declared: "Der Sturz in den Brunnen"
 license: CC-BY-NC-SA-4.0
 stamp:

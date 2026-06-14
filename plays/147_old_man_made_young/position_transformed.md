@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "transformed"
+title: "The Transformed"
 declared: "der Verwandelte"
 license: CC-BY-NC-SA-4.0
 stamp:

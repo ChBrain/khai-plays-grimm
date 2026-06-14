@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "initiation"
+title: "Initiation"
 declared: "die Initiation des Königssohns"
 license: CC-BY-NC-SA-4.0
 stamp:

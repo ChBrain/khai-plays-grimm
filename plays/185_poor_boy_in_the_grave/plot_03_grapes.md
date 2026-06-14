@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "grapes"
+title: "Grapes"
 declared: "Die Trauben und der Brief"
 license: CC-BY-NC-SA-4.0
 stamp:

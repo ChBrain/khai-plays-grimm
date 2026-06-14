@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "lashes-to-gold"
+title: "Lashes to Gold"
 declared: "die Schläge zu Gold gewendet"
 license: CC-BY-NC-SA-4.0
 stamp:

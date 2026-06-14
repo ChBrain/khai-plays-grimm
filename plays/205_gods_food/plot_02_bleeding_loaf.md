@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "bleeding_loaf"
+title: "Bleeding Loaf"
 declared: "Das blutende Brot"
 license: CC-BY-NC-SA-4.0
 stamp:

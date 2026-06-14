@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "strangers"
+title: "The Strangers"
 declared: "Hausbewohner"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_borrowed-sight"
+title: "Borrowed Sight"
 declared: "Die geliehene Sehkraft"
 license: CC-BY-NC-SA-4.0
 stamp:

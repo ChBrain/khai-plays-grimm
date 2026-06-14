@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "protector"
+title: "The Protector"
 declared: "die Beschützerin"
 license: CC-BY-NC-SA-4.0
 stamp:

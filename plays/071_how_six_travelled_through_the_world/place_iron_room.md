@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "iron_room"
+title: "The Iron Room"
 declared: "die Eisenstube"
 license: CC-BY-NC-SA-4.0
 stamp:

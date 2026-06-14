@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "shepherd_boy"
+title: "Shepherd Boy"
 declared: "die kluge Antwort"
 license: CC-BY-NC-SA-4.0
 stamp:

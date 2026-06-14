@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "goose"
+title: "Goose"
 declared: "Die Gans"
 license: CC-BY-NC-SA-4.0
 stamp:

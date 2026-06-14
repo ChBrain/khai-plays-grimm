@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "judgement"
+title: "Judgement"
 declared: "Das Urteil des Königs"
 license: CC-BY-NC-SA-4.0
 stamp:

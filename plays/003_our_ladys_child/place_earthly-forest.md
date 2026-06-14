@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "earthly-forest"
+title: "The Earthly Forest"
 declared: "irdischer Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

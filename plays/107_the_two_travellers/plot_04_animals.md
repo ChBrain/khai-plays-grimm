@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "animals"
+title: "Animals"
 declared: "Die dankbaren Tiere"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "building"
+title: "Building"
 declared: "das Bauen"
 license: CC-BY-NC-SA-4.0
 stamp:

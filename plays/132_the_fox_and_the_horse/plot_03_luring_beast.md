@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_luring_beast"
+title: "Luring Beast"
 declared: "Die Verlockung des Löwen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_send-off"
+title: "Send Off"
 declared: "Die Ermahnung"
 license: CC-BY-NC-SA-4.0
 stamp:

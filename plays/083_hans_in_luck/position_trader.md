@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "trader"
+title: "The Trader"
 declared: "der Tauschpartner"
 license: CC-BY-NC-SA-4.0
 stamp:

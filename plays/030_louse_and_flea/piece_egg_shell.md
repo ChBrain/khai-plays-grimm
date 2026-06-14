@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "egg_shell"
+title: "The Egg Shell"
 declared: "Eierschale"
 license: CC-BY-NC-SA-4.0
 stamp:

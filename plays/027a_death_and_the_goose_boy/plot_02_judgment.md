@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_judgment"
+title: "Judgment"
 declared: "Das Schicksal des Geizhalses"
 license: CC-BY-NC-SA-4.0
 stamp:

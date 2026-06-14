@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "bread_mountain"
+title: "The Bread Mountain"
 declared: "Brotberg"
 license: CC-BY-NC-SA-4.0
 stamp:

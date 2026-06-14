@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "trudge"
+title: "Trudge"
 declared: "der Fußmarsch"
 license: CC-BY-NC-SA-4.0
 stamp:

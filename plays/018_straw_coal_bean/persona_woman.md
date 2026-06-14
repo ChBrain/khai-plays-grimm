@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "woman"
+title: "The Woman"
 declared: "Köchin"
 license: CC-BY-NC-SA-4.0
 stamp:

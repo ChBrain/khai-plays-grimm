@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_goat_magic"
+title: "Goat Magic"
 declared: "Ziegenzauber"
 license: CC-BY-NC-SA-4.0
 stamp:

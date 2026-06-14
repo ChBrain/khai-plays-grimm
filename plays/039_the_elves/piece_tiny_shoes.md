@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "tiny_shoes"
+title: "The Tiny Shoes"
 declared: "Schühchen"
 license: CC-BY-NC-SA-4.0
 stamp:

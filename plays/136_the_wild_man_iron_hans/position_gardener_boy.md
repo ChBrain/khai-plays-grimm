@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "gardener_boy"
+title: "The Gardener Boy"
 declared: "verkleidete Gärtnergehilfe"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "betrayer"
+title: "The Betrayer"
 declared: "der Verräter"
 license: CC-BY-NC-SA-4.0
 stamp:

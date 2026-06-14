@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "theft"
+title: "Theft"
 declared: "Der Diebstahl des Wirtes"
 license: CC-BY-NC-SA-4.0
 stamp:

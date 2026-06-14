@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "betrayal"
+title: "Betrayal"
 declared: "der Verrat am Korb"
 license: CC-BY-NC-SA-4.0
 stamp:

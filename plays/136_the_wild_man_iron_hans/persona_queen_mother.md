@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "queen_mother"
+title: "The Queen Mother"
 declared: "Mutterkönigin"
 license: CC-BY-NC-SA-4.0
 stamp:

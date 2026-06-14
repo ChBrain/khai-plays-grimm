@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "life_garden"
+title: "The Life Garden"
 declared: "der Lebensgarten"
 license: CC-BY-NC-SA-4.0
 stamp:

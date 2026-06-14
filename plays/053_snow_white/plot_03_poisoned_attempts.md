@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "poisoned_attempts"
+title: "Poisoned Attempts"
 declared: "Die Mordversuche"
 license: CC-BY-NC-SA-4.0
 stamp:

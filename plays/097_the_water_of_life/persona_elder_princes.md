@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "elder_princes"
+title: "The Elder Princes"
 declared: "die älteren Prinzen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "leader"
+title: "The Leader"
 declared: "der Anführer"
 license: CC-BY-NC-SA-4.0
 stamp:

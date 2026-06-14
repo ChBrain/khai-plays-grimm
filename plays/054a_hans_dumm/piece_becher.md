@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "becher"
+title: "The Becher"
 declared: "goldener Becher"
 license: CC-BY-NC-SA-4.0
 stamp:

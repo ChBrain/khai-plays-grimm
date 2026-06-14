@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "donkey"
+title: "The Donkey"
 declared: "Esel"
 license: CC-BY-NC-SA-4.0
 stamp:

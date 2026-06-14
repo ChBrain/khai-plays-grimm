@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "The Host Castle"
+title: "host_castle"
 declared: "Nachbarschloß"
 license: CC-BY-NC-SA-4.0
 stamp:

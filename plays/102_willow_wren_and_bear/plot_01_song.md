@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "song"
+title: "Song"
 declared: "Der königliche Gesang"
 license: CC-BY-NC-SA-4.0
 stamp:

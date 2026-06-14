@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "grandfather_and_grandson"
+title: "Grandfather and Grandson"
 declared: "das Tröglein"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "cottage"
+title: "The Cottage"
 declared: "Das Waldhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

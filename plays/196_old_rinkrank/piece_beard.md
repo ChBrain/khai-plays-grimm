@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "beard"
+title: "The Beard"
 declared: "der lange Bart"
 license: CC-BY-NC-SA-4.0
 stamp:

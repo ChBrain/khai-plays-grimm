@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "transfer"
+title: "Transfer"
 declared: "die Übertragung"
 license: CC-BY-NC-SA-4.0
 stamp:

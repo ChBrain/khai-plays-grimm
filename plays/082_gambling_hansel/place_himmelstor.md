@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "himmelstor"
+title: "Himmelstor"
 declared: "das Himmelstor"
 license: CC-BY-NC-SA-4.0
 stamp:

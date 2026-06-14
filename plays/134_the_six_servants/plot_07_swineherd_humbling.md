@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "07_swineherd_humbling"
+title: "Swineherd Humbling"
 declared: "Die Demütigung der Prinzessin"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "third_son"
+title: "The Third Son"
 declared: "der dritte Sohn"
 license: CC-BY-NC-SA-4.0
 stamp:

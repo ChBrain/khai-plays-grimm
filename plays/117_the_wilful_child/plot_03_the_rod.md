@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "the_rod"
+title: "The Rod"
 declared: "Das Ärmchen und die Rute"
 license: CC-BY-NC-SA-4.0
 stamp:

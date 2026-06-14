@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_promise-at-the-well"
+title: "Promise at the Well"
 declared: "Das Versprechen am Brunnen"
 license: CC-BY-NC-SA-4.0
 stamp:

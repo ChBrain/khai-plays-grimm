@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "gold"
+title: "Gold"
 declared: "Gold"
 license: CC-BY-NC-SA-4.0
 stamp:

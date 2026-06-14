@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "whip"
+title: "The Whip"
 declared: "die Peitsche"
 license: CC-BY-NC-SA-4.0
 stamp:

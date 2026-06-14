@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "danger"
+title: "Danger"
 declared: "Der Anmarsch der Jäger"
 license: CC-BY-NC-SA-4.0
 stamp:

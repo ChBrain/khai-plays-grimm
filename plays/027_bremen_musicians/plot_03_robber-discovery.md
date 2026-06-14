@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_robber-discovery"
+title: "Robber Discovery"
 declared: "Der Spähzug"
 license: CC-BY-NC-SA-4.0
 stamp:

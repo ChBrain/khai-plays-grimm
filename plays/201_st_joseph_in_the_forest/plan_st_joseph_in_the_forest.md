@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "st_joseph_in_the_forest"
+title: "St Joseph in the Forest"
 declared: "die Prüfung der Herzen"
 license: CC-BY-NC-SA-4.0
 stamp:

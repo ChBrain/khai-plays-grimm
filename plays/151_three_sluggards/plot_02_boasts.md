@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "boasts"
+title: "Boasts"
 declared: "Die ersten beiden Prahlereien"
 license: CC-BY-NC-SA-4.0
 stamp:

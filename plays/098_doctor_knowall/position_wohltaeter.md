@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "wohltaeter"
+title: "Wohltaeter"
 declared: "der Wohltäter"
 license: CC-BY-NC-SA-4.0
 stamp:

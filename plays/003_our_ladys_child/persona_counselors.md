@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "counselors"
+title: "The Counselors"
 declared: "Ratgeber"
 license: CC-BY-NC-SA-4.0
 stamp:

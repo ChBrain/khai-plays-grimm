@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_witch-warning"
+title: "Witch Warning"
 declared: "Die Warnung im Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

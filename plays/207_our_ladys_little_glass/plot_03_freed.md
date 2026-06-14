@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "freed"
+title: "Freed"
 declared: "Der befreite Wagen und der Name der Blume"
 license: CC-BY-NC-SA-4.0
 stamp:

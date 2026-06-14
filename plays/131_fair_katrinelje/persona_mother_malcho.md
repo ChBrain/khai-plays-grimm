@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "mother_malcho"
+title: "The Mother Malcho"
 declared: "Mutter Malcho"
 license: CC-BY-NC-SA-4.0
 stamp:

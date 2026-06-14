@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "mob"
+title: "The Mob"
 declared: "der Pöbel"
 license: CC-BY-NC-SA-4.0
 stamp:

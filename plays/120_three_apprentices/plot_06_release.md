@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "release"
+title: "Release"
 declared: "Die Erlösung der Burschen"
 license: CC-BY-NC-SA-4.0
 stamp:

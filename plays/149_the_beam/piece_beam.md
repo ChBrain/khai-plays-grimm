@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "beam"
+title: "The Beam"
 declared: "der Hahnenbalken"
 license: CC-BY-NC-SA-4.0
 stamp:

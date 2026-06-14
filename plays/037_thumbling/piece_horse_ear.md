@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "horse_ear"
+title: "The Horse Ear"
 declared: "Pferdeohr"
 license: CC-BY-NC-SA-4.0
 stamp:

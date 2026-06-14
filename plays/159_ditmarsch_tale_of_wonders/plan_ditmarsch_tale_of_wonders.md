@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "ditmarsch_tale_of_wonders"
+title: "Ditmarsch Tale of Wonders"
 declared: "das Fenster öffnen"
 license: CC-BY-NC-SA-4.0
 stamp:

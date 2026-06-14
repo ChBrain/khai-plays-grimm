@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "proofs"
+title: "The Proofs"
 declared: "die Beweisstücke"
 license: CC-BY-NC-SA-4.0
 stamp:

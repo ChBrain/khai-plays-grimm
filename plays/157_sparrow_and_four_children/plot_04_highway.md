@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "highway"
+title: "Highway"
 declared: "Der Sohn von der Landstraße"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "ring_trial"
+title: "Ring Trial"
 declared: "Die zweite Probe"
 license: CC-BY-NC-SA-4.0
 stamp:

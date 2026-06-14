@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "failure"
+title: "Failure"
 declared: "Der dreifache Schlaf"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "rich_girl"
+title: "The Rich Girl"
 declared: "das reiche Mädchen"
 license: CC-BY-NC-SA-4.0
 stamp:

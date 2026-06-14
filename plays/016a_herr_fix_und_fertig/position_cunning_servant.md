@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "cunning-servant"
+title: "The Cunning Servant"
 declared: "der listige Diener"
 license: CC-BY-NC-SA-4.0
 stamp:

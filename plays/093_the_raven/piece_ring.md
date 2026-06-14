@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "ring"
+title: "The Ring"
 declared: "der Goldring"
 license: CC-BY-NC-SA-4.0
 stamp:

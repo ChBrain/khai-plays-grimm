@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "waste"
+title: "Waste"
 declared: "Die Verschwendung"
 license: CC-BY-NC-SA-4.0
 stamp:

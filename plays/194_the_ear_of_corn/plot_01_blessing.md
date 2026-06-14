@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "blessing"
+title: "Blessing"
 declared: "Der gesegnete Halm"
 license: CC-BY-NC-SA-4.0
 stamp:

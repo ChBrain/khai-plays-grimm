@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "grinder"
+title: "The Grinder"
 declared: "der Scherenschleifer"
 license: CC-BY-NC-SA-4.0
 stamp:

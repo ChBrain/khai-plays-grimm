@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "history"
+title: "The History"
 declared: "die geschriebene Geschichte"
 license: CC-BY-NC-SA-4.0
 stamp:

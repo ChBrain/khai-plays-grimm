@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "pitcher"
+title: "The Pitcher"
 declared: "Wasserkrug"
 license: CC-BY-NC-SA-4.0
 stamp:

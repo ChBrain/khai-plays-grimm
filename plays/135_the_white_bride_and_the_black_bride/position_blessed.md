@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "blessed"
+title: "The Blessed"
 declared: "weiße Braut"
 license: CC-BY-NC-SA-4.0
 stamp:

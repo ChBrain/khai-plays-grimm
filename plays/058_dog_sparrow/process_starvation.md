@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "starvation"
+title: "Starvation"
 declared: "Verhungern"
 license: CC-BY-NC-SA-4.0
 stamp:

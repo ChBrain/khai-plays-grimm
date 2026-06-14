@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "tub"
+title: "The Tub"
 declared: "der Löschtrog"
 license: CC-BY-NC-SA-4.0
 stamp:

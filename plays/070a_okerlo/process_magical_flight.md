@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "magical_flight"
+title: "Magical Flight"
 declared: "Flucht"
 license: CC-BY-NC-SA-4.0
 stamp:

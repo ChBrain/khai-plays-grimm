@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "sisters"
+title: "The Sisters"
 declared: "die älteren Schwestern"
 license: CC-BY-NC-SA-4.0
 stamp:

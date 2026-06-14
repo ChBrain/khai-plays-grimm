@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "third_voyage"
+title: "Third Voyage"
 declared: "Die Reise des dritten Sohnes"
 license: CC-BY-NC-SA-4.0
 stamp:

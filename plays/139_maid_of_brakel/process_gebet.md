@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "gebet"
+title: "Gebet"
 declared: "das Gebet"
 license: CC-BY-NC-SA-4.0
 stamp:

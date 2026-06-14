@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "poison"
+title: "The Poison"
 declared: "der Gift-Topf"
 license: CC-BY-NC-SA-4.0
 stamp:

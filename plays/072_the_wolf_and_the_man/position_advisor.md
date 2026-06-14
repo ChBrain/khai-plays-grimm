@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "advisor"
+title: "The Advisor"
 declared: "der Warner"
 license: CC-BY-NC-SA-4.0
 stamp:

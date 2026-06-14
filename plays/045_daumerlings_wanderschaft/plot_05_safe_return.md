@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "safe_return"
+title: "Safe Return"
 declared: "Die glückliche Heimkehr"
 license: CC-BY-NC-SA-4.0
 stamp:

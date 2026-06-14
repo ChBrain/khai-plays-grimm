@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "The Daughter"
+title: "daughter"
 declared: "Tochter"
 license: CC-BY-NC-SA-4.0
 stamp:

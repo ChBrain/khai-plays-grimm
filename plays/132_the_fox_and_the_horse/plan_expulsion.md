@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "expulsion"
+title: "Expulsion"
 declared: "die Verstoßung des alten Pferdes"
 license: CC-BY-NC-SA-4.0
 stamp:

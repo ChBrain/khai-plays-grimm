@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "trapping"
+title: "Trapping"
 declared: "Fesseln"
 license: CC-BY-NC-SA-4.0
 stamp:

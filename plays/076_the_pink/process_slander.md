@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "slander"
+title: "Slander"
 declared: "die Verleumdung"
 license: CC-BY-NC-SA-4.0
 stamp:

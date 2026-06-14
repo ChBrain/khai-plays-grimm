@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "tow"
+title: "Tow"
 declared: "Der Werg im Kessel"
 license: CC-BY-NC-SA-4.0
 stamp:

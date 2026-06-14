@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_blessing"
+title: "Blessing"
 declared: "Die Begegnung auf dem Feld"
 license: CC-BY-NC-SA-4.0
 stamp:

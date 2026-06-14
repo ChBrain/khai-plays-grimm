@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "shatterer"
+title: "The Shatterer"
 declared: "der mit der Binde"
 license: CC-BY-NC-SA-4.0
 stamp:

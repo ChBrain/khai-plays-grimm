@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "hare_and_the_hedgehog"
+title: "Hare and the Hedgehog"
 declared: "die List"
 license: CC-BY-NC-SA-4.0
 stamp:

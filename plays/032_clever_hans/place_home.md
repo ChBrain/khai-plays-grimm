@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "home"
+title: "The Home"
 declared: "Mutterhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

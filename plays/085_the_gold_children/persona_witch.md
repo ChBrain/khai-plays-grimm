@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "witch"
+title: "The Witch"
 declared: "die Hexe"
 license: CC-BY-NC-SA-4.0
 stamp:

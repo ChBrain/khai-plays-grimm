@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "clearing"
+title: "The Clearing"
 declared: "die freigescharrte Stelle"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "pursuit"
+title: "Pursuit"
 declared: "Der Reiche reitet nach"
 license: CC-BY-NC-SA-4.0
 stamp:

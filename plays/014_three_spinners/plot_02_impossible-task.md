@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_impossible-task"
+title: "Impossible Task"
 declared: "Die unlösbare Spinnarbeit"
 license: CC-BY-NC-SA-4.0
 stamp:

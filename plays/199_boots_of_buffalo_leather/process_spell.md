@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "spell"
+title: "Spell"
 declared: "die Bannung"
 license: CC-BY-NC-SA-4.0
 stamp:

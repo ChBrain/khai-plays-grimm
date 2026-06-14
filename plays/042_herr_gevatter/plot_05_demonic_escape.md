@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "demonic_escape"
+title: "Demonic Escape"
 declared: "Die Flucht"
 license: CC-BY-NC-SA-4.0
 stamp:

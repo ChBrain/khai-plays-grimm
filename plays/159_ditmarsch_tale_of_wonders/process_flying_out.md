@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "flying_out"
+title: "Flying Out"
 declared: "das Hinausfliegen"
 license: CC-BY-NC-SA-4.0
 stamp:

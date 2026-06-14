@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "triumph"
+title: "Triumph"
 declared: "Triumph und Hochzeit"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "cursed"
+title: "The Cursed"
 declared: "Verwandelte"
 license: CC-BY-NC-SA-4.0
 stamp:

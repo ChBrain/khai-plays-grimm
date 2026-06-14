@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "straw-bridge"
+title: "The Straw Bridge"
 declared: "Strohbrücke"
 license: CC-BY-NC-SA-4.0
 stamp:

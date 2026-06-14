@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "right_suitor"
+title: "Right Suitor"
 declared: "Der neunschwänzige Freier"
 license: CC-BY-NC-SA-4.0
 stamp:

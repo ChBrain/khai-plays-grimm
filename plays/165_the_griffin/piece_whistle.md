@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "whistle"
+title: "The Whistle"
 declared: "die Wunderpfeife"
 license: CC-BY-NC-SA-4.0
 stamp:

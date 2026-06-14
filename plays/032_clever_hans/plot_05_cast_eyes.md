@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "cast_eyes"
+title: "Cast Eyes"
 declared: "Die zugeworfenen Augen"
 license: CC-BY-NC-SA-4.0
 stamp:

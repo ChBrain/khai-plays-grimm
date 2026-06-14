@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "immurement"
+title: "Immurement"
 declared: "Die Einmauerung im Turm"
 license: CC-BY-NC-SA-4.0
 stamp:

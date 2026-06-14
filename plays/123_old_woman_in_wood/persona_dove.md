@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "dove"
+title: "The Dove"
 declared: "die weiße Taube"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "flatterers"
+title: "The Flatterers"
 declared: "die Schmeichlerinnen"
 license: CC-BY-NC-SA-4.0
 stamp:

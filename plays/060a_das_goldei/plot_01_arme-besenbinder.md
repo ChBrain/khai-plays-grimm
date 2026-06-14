@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_arme-besenbinder"
+title: "Arme Besenbinder"
 declared: "Die armen Besenbinder"
 license: CC-BY-NC-SA-4.0
 stamp:

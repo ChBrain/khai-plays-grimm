@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "priest"
+title: "The Priest"
 declared: "der Pfarrer"
 license: CC-BY-NC-SA-4.0
 stamp:

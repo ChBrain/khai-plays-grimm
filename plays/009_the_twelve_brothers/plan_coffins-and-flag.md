@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "coffins-and-flag"
+title: "Coffins and Flag"
 declared: "die Särge und das rote Zeichen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "pact"
+title: "Pact"
 declared: "Der Pakt am Teich"
 license: CC-BY-NC-SA-4.0
 stamp:

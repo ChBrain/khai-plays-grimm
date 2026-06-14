@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "airgun"
+title: "The Airgun"
 declared: "die Windbüchse"
 license: CC-BY-NC-SA-4.0
 stamp:

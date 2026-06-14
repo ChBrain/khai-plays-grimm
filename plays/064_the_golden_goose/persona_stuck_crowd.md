@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "stuck_crowd"
+title: "The Stuck Crowd"
 declared: "die Festgeklebten"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "mothers-house"
+title: "The Mothers House"
 declared: "Haus der Mutter"
 license: CC-BY-NC-SA-4.0
 stamp:

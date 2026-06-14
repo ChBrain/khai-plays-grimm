@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "gallows"
+title: "Gallows"
 declared: "Der Galgen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "fatal_stone"
+title: "Fatal Stone"
 declared: "Der Mühlstein"
 license: CC-BY-NC-SA-4.0
 stamp:

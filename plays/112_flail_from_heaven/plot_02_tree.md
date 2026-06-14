@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "tree"
+title: "Tree"
 declared: "Der Baum bis in den Himmel"
 license: CC-BY-NC-SA-4.0
 stamp:

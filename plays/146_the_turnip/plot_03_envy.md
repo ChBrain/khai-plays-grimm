@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "envy"
+title: "Envy"
 declared: "Der Neid des reichen Bruders"
 license: CC-BY-NC-SA-4.0
 stamp:

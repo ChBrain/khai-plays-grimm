@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "borrower"
+title: "The Borrower"
 declared: "Borgerin"
 license: CC-BY-NC-SA-4.0
 stamp:

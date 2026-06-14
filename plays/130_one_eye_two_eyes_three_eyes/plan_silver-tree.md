@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "silver-tree"
+title: "Silver Tree"
 declared: "die Erlösung durch die weise Frau"
 license: CC-BY-NC-SA-4.0
 stamp:

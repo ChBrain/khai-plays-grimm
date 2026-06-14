@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "petitioner"
+title: "The Petitioner"
 declared: "der Bittsteller"
 license: CC-BY-NC-SA-4.0
 stamp:

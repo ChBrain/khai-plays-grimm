@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "doctor_knowall"
+title: "Doctor Knowall"
 declared: "die Allwissenheit"
 license: CC-BY-NC-SA-4.0
 stamp:

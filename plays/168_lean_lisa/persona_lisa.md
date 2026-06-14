@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "lisa"
+title: "The Lisa"
 declared: "die hagere Liese"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "bystander"
+title: "The Bystander"
 declared: "der Untätige"
 license: CC-BY-NC-SA-4.0
 stamp:

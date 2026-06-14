@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "helfer"
+title: "The Helfer"
 declared: "der Helfer"
 license: CC-BY-NC-SA-4.0
 stamp:

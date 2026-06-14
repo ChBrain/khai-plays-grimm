@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "invitation"
+title: "Invitation"
 declared: "Das Locken auf das Schwänzchen"
 license: CC-BY-NC-SA-4.0
 stamp:

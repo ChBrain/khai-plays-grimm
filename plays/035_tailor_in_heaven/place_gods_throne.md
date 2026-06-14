@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "gods_throne"
+title: "The Gods Throne"
 declared: "Gottes Thron"
 license: CC-BY-NC-SA-4.0
 stamp:

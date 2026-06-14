@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "road"
+title: "The Road"
 declared: "der schlammige Weg"
 license: CC-BY-NC-SA-4.0
 stamp:

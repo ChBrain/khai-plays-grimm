@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "host"
+title: "The Host"
 declared: "Gastgeber"
 license: CC-BY-NC-SA-4.0
 stamp:

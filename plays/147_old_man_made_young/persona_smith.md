@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "smith"
+title: "The Smith"
 declared: "der Schmied"
 license: CC-BY-NC-SA-4.0
 stamp:

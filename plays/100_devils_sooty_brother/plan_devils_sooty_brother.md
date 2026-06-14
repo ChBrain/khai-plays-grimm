@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "devils_sooty_brother"
+title: "Devils Sooty Brother"
 declared: "der Aushalteplan"
 license: CC-BY-NC-SA-4.0
 stamp:

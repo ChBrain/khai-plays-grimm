@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_knights_rescue"
+title: "Knights Rescue"
 declared: "Des Ritters Brautwerbung"
 license: CC-BY-NC-SA-4.0
 stamp:

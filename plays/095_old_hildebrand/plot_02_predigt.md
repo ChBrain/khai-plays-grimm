@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "predigt"
+title: "Predigt"
 declared: "Die Predigt vom Göckerliberg"
 license: CC-BY-NC-SA-4.0
 stamp:

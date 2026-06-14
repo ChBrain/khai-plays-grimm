@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "tower_theft"
+title: "Tower Theft"
 declared: "der Turmraub"
 license: CC-BY-NC-SA-4.0
 stamp:

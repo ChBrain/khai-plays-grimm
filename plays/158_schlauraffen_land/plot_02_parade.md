@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "parade"
+title: "Parade"
 declared: "Der Zug der unmöglichen Bilder"
 license: CC-BY-NC-SA-4.0
 stamp:

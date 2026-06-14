@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "thrushbeard"
+title: "The Thrushbeard"
 declared: "König Drosselbart"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "betrothed"
+title: "The Betrothed"
 declared: "der Bräutigam"
 license: CC-BY-NC-SA-4.0
 stamp:

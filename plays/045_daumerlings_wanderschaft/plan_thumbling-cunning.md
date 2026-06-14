@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "thumbling-cunning"
+title: "Thumbling Cunning"
 declared: "die List des Däumlings"
 license: CC-BY-NC-SA-4.0
 stamp:

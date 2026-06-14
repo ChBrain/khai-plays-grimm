@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "refrain"
+title: "Refrain"
 declared: "Der gemeinsame Reim nach Walpe"
 license: CC-BY-NC-SA-4.0
 stamp:

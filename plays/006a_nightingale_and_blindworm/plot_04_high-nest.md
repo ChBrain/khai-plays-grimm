@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_high-nest"
+title: "High Nest"
 declared: "Das hohe Nest"
 license: CC-BY-NC-SA-4.0
 stamp:

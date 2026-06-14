@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "imitator"
+title: "The Imitator"
 declared: "Nachahmer"
 license: CC-BY-NC-SA-4.0
 stamp:

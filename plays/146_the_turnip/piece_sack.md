@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "sack"
+title: "The Sack"
 declared: "der Weisheits-Sack"
 license: CC-BY-NC-SA-4.0
 stamp:

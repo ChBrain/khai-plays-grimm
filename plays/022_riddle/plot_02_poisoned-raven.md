@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_poisoned-raven"
+title: "Poisoned Raven"
 declared: "Der vergiftete Rabe"
 license: CC-BY-NC-SA-4.0
 stamp:

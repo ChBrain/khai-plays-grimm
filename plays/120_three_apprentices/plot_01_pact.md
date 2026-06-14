@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "pact"
+title: "Pact"
 declared: "Der Pakt auf der Landstraße"
 license: CC-BY-NC-SA-4.0
 stamp:

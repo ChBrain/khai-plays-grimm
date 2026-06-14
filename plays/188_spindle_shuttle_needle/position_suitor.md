@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "suitor"
+title: "The Suitor"
 declared: "der Werbende"
 license: CC-BY-NC-SA-4.0
 stamp:

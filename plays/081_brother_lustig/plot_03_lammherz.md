@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "lammherz"
+title: "Lammherz"
 declared: "Das Lammherz"
 license: CC-BY-NC-SA-4.0
 stamp:

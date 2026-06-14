@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "lark"
+title: "The Lark"
 declared: "die Lerche"
 license: CC-BY-NC-SA-4.0
 stamp:

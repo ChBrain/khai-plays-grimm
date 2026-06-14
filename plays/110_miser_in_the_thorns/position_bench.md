@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "bench"
+title: "The Bench"
 declared: "das Gericht"
 license: CC-BY-NC-SA-4.0
 stamp:

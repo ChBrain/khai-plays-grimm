@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "orderer"
+title: "The Orderer"
 declared: "der Werkmeister"
 license: CC-BY-NC-SA-4.0
 stamp:

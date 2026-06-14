@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "stew"
+title: "The Stew"
 declared: "Sauerfleisch"
 license: CC-BY-NC-SA-4.0
 stamp:

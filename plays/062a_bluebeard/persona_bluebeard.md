@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "bluebeard"
+title: "The Bluebeard"
 declared: "Blaubart"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "burning"
+title: "Burning"
 declared: "der Brand"
 license: CC-BY-NC-SA-4.0
 stamp:

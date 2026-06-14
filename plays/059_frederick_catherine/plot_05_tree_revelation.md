@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "tree_revelation"
+title: "Tree Revelation"
 declared: "Die Baumentdeckung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_redemption-at-the-wall"
+title: "Redemption at the Wall"
 declared: "Die Erlösung an der Wand"
 license: CC-BY-NC-SA-4.0
 stamp:

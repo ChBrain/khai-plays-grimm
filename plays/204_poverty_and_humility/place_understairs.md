@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "understairs"
+title: "The Understairs"
 declared: "der Raum unter der Treppe"
 license: CC-BY-NC-SA-4.0
 stamp:

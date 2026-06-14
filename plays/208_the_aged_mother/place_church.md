@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "church"
+title: "The Church"
 declared: "die Totenkirche"
 license: CC-BY-NC-SA-4.0
 stamp:

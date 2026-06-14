@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "rewarder"
+title: "The Rewarder"
 declared: "die Belohnende"
 license: CC-BY-NC-SA-4.0
 stamp:

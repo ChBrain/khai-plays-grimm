@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "murder"
+title: "Murder"
 declared: "Der Mord um Mitternacht"
 license: CC-BY-NC-SA-4.0
 stamp:

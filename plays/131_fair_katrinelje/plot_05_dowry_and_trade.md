@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_dowry_and_trade"
+title: "Dowry and Trade"
 declared: "Brautschatz und Besenbinder"
 license: CC-BY-NC-SA-4.0
 stamp:

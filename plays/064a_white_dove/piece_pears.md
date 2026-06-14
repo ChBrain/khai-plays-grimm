@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "pears"
+title: "The Pears"
 declared: "die Birnen"
 license: CC-BY-NC-SA-4.0
 stamp:

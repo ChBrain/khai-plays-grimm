@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "wooden_bowl"
+title: "The Wooden Bowl"
 declared: "die hölzerne Schüssel"
 license: CC-BY-NC-SA-4.0
 stamp:

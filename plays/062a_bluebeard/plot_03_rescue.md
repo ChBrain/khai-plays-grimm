@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_rescue"
+title: "Rescue"
 declared: "Die Rettung vom Turm"
 license: CC-BY-NC-SA-4.0
 stamp:

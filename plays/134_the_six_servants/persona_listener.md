@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "listener"
+title: "The Listener"
 declared: "der Horcher"
 license: CC-BY-NC-SA-4.0
 stamp:

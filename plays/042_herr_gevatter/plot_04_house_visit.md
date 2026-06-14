@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "house_visit"
+title: "House Visit"
 declared: "Der Besuch"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "hearth"
+title: "The Hearth"
 declared: "Herdfeuer"
 license: CC-BY-NC-SA-4.0
 stamp:

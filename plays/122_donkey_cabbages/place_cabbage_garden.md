@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "cabbage_garden"
+title: "The Cabbage Garden"
 declared: "der Krautgarten"
 license: CC-BY-NC-SA-4.0
 stamp:

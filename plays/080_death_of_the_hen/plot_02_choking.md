@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "choking"
+title: "Choking"
 declared: "Der verschluckte Kern"
 license: CC-BY-NC-SA-4.0
 stamp:

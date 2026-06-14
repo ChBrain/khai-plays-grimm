@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "count"
+title: "The Count"
 declared: "Graf"
 license: CC-BY-NC-SA-4.0
 stamp:

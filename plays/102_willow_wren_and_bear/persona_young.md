@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "young"
+title: "The Young"
 declared: "die jungen Zaunkönige"
 license: CC-BY-NC-SA-4.0
 stamp:

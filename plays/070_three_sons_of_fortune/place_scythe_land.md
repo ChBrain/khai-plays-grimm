@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "scythe_land"
+title: "The Scythe Land"
 declared: "das Land ohne Sense"
 license: CC-BY-NC-SA-4.0
 stamp:

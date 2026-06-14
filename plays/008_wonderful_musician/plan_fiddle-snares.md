@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "fiddle-snares"
+title: "Fiddle Snares"
 declared: "die Fallen des Spielmanns"
 license: CC-BY-NC-SA-4.0
 stamp:

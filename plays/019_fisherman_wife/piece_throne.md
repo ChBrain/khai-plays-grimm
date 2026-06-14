@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "throne"
+title: "The Throne"
 declared: "Prunkthron"
 license: CC-BY-NC-SA-4.0
 stamp:

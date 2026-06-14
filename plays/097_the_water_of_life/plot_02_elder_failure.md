@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "elder_failure"
+title: "Elder Failure"
 declared: "Das Scheitern der Hochmütigen"
 license: CC-BY-NC-SA-4.0
 stamp:

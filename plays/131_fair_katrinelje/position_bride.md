@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "bride"
+title: "The Bride"
 declared: "Braut"
 license: CC-BY-NC-SA-4.0
 stamp:

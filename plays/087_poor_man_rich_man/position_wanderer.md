@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "wanderer"
+title: "The Wanderer"
 declared: "der wandelnde Herr"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "straw"
+title: "The Straw"
 declared: "Stroh"
 license: CC-BY-NC-SA-4.0
 stamp:

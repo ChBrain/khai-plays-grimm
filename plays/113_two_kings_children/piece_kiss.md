@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "kiss"
+title: "The Kiss"
 declared: "der Vergessenskuss"
 license: CC-BY-NC-SA-4.0
 stamp:

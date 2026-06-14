@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "mirror"
+title: "The Mirror"
 declared: "der Spiegel"
 license: CC-BY-NC-SA-4.0
 stamp:

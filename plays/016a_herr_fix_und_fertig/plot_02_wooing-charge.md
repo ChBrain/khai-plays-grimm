@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_wooing-charge"
+title: "Wooing Charge"
 declared: "Der Werbungsauftrag"
 license: CC-BY-NC-SA-4.0
 stamp:

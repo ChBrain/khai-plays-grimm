@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "lammherz"
+title: "The Lammherz"
 declared: "das Lammherz"
 license: CC-BY-NC-SA-4.0
 stamp:

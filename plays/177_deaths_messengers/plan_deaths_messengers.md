@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "deaths_messengers"
+title: "Deaths Messengers"
 declared: "die Vorwarnung"
 license: CC-BY-NC-SA-4.0
 stamp:

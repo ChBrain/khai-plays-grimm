@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "bacon"
+title: "The Bacon"
 declared: "Speck"
 license: CC-BY-NC-SA-4.0
 stamp:

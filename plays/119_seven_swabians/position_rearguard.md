@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "rearguard"
+title: "The Rearguard"
 declared: "der Hintermann"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "pastor"
+title: "The Pastor"
 declared: "Pfarrer"
 license: CC-BY-NC-SA-4.0
 stamp:

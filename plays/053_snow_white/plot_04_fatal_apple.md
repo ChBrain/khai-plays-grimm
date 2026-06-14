@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "fatal_apple"
+title: "Fatal Apple"
 declared: "Der Apfelbiss"
 license: CC-BY-NC-SA-4.0
 stamp:

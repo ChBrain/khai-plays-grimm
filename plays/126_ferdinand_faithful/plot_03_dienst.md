@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "dienst"
+title: "Dienst"
 declared: "Der Dienst beim König"
 license: CC-BY-NC-SA-4.0
 stamp:

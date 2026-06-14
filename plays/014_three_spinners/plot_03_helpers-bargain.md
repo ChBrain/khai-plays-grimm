@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_helpers-bargain"
+title: "Helpers Bargain"
 declared: "Der Pakt mit den Spinnerinnen"
 license: CC-BY-NC-SA-4.0
 stamp:

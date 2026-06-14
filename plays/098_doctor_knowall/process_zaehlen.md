@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "zaehlen"
+title: "Zaehlen"
 declared: "das Zählen"
 license: CC-BY-NC-SA-4.0
 stamp:

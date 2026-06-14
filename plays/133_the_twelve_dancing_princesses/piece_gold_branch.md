@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "gold_branch"
+title: "The Gold Branch"
 declared: "goldene Zweig"
 license: CC-BY-NC-SA-4.0
 stamp:

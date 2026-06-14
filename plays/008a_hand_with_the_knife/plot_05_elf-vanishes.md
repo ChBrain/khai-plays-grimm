@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_elf-vanishes"
+title: "Elf Vanishes"
 declared: "Das Verschwinden des Elfen"
 license: CC-BY-NC-SA-4.0
 stamp:

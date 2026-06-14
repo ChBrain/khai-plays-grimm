@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "ambush-korbes"
+title: "Ambush Korbes"
 declared: "der Hinterhalt im Korbes-Haus"
 license: CC-BY-NC-SA-4.0
 stamp:

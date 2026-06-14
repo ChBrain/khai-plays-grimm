@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "summoning"
+title: "Summoning"
 declared: "die Beschwörung der Luftgeister"
 license: CC-BY-NC-SA-4.0
 stamp:

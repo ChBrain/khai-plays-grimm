@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "dead"
+title: "The Dead"
 declared: "die Toten"
 license: CC-BY-NC-SA-4.0
 stamp:

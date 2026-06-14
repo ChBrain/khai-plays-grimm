@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "The Murderer"
+title: "murderer"
 declared: "der Mörder"
 license: CC-BY-NC-SA-4.0
 stamp:

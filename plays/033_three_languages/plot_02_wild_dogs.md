@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "wild_dogs"
+title: "Wild Dogs"
 declared: "Die wilden Hunde"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "nightly_help"
+title: "Nightly Help"
 declared: "Die nächtliche Hilfe"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "golden_feathers"
+title: "Golden Feathers"
 declared: "Die goldene Gans"
 license: CC-BY-NC-SA-4.0
 stamp:

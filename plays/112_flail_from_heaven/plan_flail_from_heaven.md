@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "flail_from_heaven"
+title: "Flail from Heaven"
 declared: "der Beweis"
 license: CC-BY-NC-SA-4.0
 stamp:

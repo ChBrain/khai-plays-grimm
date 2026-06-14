@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "clock-case"
+title: "The Clock Case"
 declared: "Wanduhr"
 license: CC-BY-NC-SA-4.0
 stamp:

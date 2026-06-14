@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "partnership"
+title: "Partnership"
 declared: "Partnerschaft"
 license: CC-BY-NC-SA-4.0
 stamp:

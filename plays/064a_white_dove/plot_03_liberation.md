@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_liberation"
+title: "Liberation"
 declared: "Die Befreiung der Taube"
 license: CC-BY-NC-SA-4.0
 stamp:

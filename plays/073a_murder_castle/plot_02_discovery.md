@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Discovery"
+title: "02_discovery"
 declared: "Die schreckliche Kammer"
 license: CC-BY-NC-SA-4.0
 stamp:

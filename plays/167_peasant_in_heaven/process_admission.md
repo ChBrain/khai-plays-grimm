@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "admission"
+title: "Admission"
 declared: "das Einlassen"
 license: CC-BY-NC-SA-4.0
 stamp:

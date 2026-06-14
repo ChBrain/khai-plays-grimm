@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "verdict"
+title: "Verdict"
 declared: "Das Urteil"
 license: CC-BY-NC-SA-4.0
 stamp:

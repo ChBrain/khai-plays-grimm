@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "wedding"
+title: "Wedding"
 declared: "Die Erlösung und Hochzeit"
 license: CC-BY-NC-SA-4.0
 stamp:

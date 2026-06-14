@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "flight"
+title: "The Flight"
 declared: "das offene Land"
 license: CC-BY-NC-SA-4.0
 stamp:

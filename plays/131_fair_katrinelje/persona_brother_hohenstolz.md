@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "brother_hohenstolz"
+title: "The Brother Hohenstolz"
 declared: "Bruder Hohenstolz"
 license: CC-BY-NC-SA-4.0
 stamp:

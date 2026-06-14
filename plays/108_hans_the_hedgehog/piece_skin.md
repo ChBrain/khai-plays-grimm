@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "skin"
+title: "The Skin"
 declared: "die Igelhaut"
 license: CC-BY-NC-SA-4.0
 stamp:

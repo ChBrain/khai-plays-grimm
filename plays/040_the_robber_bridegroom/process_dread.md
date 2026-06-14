@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "dread"
+title: "Dread"
 declared: "Vorgefühl der Gefahr"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "peasant_in_heaven"
+title: "Peasant in Heaven"
 declared: "die Festordnung"
 license: CC-BY-NC-SA-4.0
 stamp:

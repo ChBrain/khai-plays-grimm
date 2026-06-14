@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "crown"
+title: "Crown"
 declared: "Die Krone auf der Mauer"
 license: CC-BY-NC-SA-4.0
 stamp:

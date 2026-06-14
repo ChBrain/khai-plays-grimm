@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "mourning"
+title: "Mourning"
 declared: "Kettenreaktion"
 license: CC-BY-NC-SA-4.0
 stamp:

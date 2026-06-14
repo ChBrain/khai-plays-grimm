@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "festival"
+title: "Festival"
 declared: "Die drei Festnächte"
 license: CC-BY-NC-SA-4.0
 stamp:

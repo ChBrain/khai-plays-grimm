@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "royals"
+title: "The Royals"
 declared: "Königsfamilie"
 license: CC-BY-NC-SA-4.0
 stamp:

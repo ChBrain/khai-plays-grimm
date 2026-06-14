@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "son"
+title: "The Son"
 declared: "Sohn"
 license: CC-BY-NC-SA-4.0
 stamp:

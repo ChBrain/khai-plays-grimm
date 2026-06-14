@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "birds"
+title: "Birds"
 declared: "Die Geschichte der Vögel"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_emperor-and-pope"
+title: "Emperor and Pope"
 declared: "Kaiserin und Päpstin"
 license: CC-BY-NC-SA-4.0
 stamp:

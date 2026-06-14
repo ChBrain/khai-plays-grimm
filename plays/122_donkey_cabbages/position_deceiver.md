@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "deceiver"
+title: "The Deceiver"
 declared: "die Betrügerin"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "cottage"
+title: "Cottage"
 declared: "Die Berghütte"
 license: CC-BY-NC-SA-4.0
 stamp:

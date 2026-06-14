@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "spindle_prick"
+title: "Spindle Prick"
 declared: "Der Spindelstich"
 license: CC-BY-NC-SA-4.0
 stamp:

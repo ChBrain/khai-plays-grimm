@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "death"
+title: "Death"
 declared: "Der Tod des Kindes"
 license: CC-BY-NC-SA-4.0
 stamp:

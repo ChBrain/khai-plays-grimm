@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "schwelgen"
+title: "Schwelgen"
 declared: "Das Schwelgen im Hofe"
 license: CC-BY-NC-SA-4.0
 stamp:

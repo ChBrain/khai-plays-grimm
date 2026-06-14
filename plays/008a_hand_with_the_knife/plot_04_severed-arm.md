@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_severed-arm"
+title: "Severed Arm"
 declared: "Der abgeschlagene Arm"
 license: CC-BY-NC-SA-4.0
 stamp:

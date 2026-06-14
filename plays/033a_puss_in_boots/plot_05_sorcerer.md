@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_sorcerer"
+title: "Sorcerer"
 declared: "Die Überlistung des Zauberers"
 license: CC-BY-NC-SA-4.0
 stamp:

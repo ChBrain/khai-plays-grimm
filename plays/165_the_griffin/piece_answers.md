@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "answers"
+title: "The Answers"
 declared: "die drei Antworten"
 license: CC-BY-NC-SA-4.0
 stamp:

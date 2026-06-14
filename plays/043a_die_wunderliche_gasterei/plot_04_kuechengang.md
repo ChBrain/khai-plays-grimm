@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_kuechengang"
+title: "Kuechengang"
 declared: "Der Gang zur Küche"
 license: CC-BY-NC-SA-4.0
 stamp:

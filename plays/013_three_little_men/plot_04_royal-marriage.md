@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_royal-marriage"
+title: "Royal Marriage"
 declared: "Die Heirat und der Mord"
 license: CC-BY-NC-SA-4.0
 stamp:

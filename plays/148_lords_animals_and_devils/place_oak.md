@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "oak"
+title: "The Oak"
 declared: "die Eiche zu Konstantinopel"
 license: CC-BY-NC-SA-4.0
 stamp:

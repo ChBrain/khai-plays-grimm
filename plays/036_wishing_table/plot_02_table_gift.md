@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "table_gift"
+title: "Table Gift"
 declared: "Das Tischlein deck dich"
 license: CC-BY-NC-SA-4.0
 stamp:

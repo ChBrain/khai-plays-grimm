@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "enchantress"
+title: "The Enchantress"
 declared: "die Zauberin"
 license: CC-BY-NC-SA-4.0
 stamp:

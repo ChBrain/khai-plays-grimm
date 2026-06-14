@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "blow"
+title: "Blow"
 declared: "Die Höhle und der Schlag"
 license: CC-BY-NC-SA-4.0
 stamp:

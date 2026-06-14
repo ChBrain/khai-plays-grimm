@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "hiding"
+title: "Hiding"
 declared: "Das Verstecken der Häßlichen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "survivor"
+title: "The Survivor"
 declared: "Überlebende"
 license: CC-BY-NC-SA-4.0
 stamp:

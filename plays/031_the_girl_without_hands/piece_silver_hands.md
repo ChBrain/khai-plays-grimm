@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "silver_hands"
+title: "The Silver Hands"
 declared: "Silberne Hände"
 license: CC-BY-NC-SA-4.0
 stamp:

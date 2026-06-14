@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "three_army_surgeons"
+title: "Three Army Surgeons"
 declared: "die Vertuschung"
 license: CC-BY-NC-SA-4.0
 stamp:

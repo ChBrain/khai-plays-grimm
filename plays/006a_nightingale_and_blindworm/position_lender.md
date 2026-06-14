@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "lender"
+title: "The Lender"
 declared: "Verleiherin"
 license: CC-BY-NC-SA-4.0
 stamp:

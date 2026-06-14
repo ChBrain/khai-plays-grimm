@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "tormentor"
+title: "The Tormentor"
 declared: "der Peiniger"
 license: CC-BY-NC-SA-4.0
 stamp:

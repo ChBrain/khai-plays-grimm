@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_golden_key"
+title: "The Golden Key"
 declared: "die Suche nach dem Schloss"
 license: CC-BY-NC-SA-4.0
 stamp:

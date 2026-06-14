@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "herrscher"
+title: "The Herrscher"
 declared: "der Herrscher"
 license: CC-BY-NC-SA-4.0
 stamp:

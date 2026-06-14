@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "enforcement"
+title: "Enforcement"
 declared: "die Durchsetzung des Gehorsams"
 license: CC-BY-NC-SA-4.0
 stamp:

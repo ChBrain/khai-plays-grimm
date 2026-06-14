@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "exposure"
+title: "Exposure"
 declared: "die Entlarvung"
 license: CC-BY-NC-SA-4.0
 stamp:

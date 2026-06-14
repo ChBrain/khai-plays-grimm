@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "field_slumber"
+title: "Field Slumber"
 declared: "Der Ackerschlaf"
 license: CC-BY-NC-SA-4.0
 stamp:

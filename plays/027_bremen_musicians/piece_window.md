@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "window"
+title: "The Window"
 declared: "Fenster"
 license: CC-BY-NC-SA-4.0
 stamp:

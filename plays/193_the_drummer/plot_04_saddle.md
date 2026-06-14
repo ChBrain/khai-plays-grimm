@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "saddle"
+title: "Saddle"
 declared: "Der erlistete Wundersattel"
 license: CC-BY-NC-SA-4.0
 stamp:

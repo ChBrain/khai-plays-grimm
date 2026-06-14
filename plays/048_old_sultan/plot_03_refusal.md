@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "refusal"
+title: "Refusal"
 declared: "Die Verweigerung"
 license: CC-BY-NC-SA-4.0
 stamp:

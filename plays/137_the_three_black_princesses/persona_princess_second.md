@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "princess_second"
+title: "The Princess Second"
 declared: "zweite schwarze Prinzessin"
 license: CC-BY-NC-SA-4.0
 stamp:

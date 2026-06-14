@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "castle"
+title: "Castle"
 declared: "Das Schloss und die Falltür"
 license: CC-BY-NC-SA-4.0
 stamp:

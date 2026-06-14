@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "pearl_task"
+title: "Pearl Task"
 declared: "Die Perlensuche"
 license: CC-BY-NC-SA-4.0
 stamp:

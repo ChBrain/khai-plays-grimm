@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "giant_house"
+title: "The Giant House"
 declared: "das Riesenhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

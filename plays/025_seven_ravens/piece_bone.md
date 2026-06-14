@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "bone"
+title: "The Bone"
 declared: "Elfenbeinchen"
 license: CC-BY-NC-SA-4.0
 stamp:

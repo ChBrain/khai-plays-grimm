@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "poor_man_rich_man"
+title: "Poor Man Rich Man"
 declared: "die Heimsuchung"
 license: CC-BY-NC-SA-4.0
 stamp:

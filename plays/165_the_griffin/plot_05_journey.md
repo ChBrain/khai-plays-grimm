@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "journey"
+title: "Journey"
 declared: "Der Weg zum Greif"
 license: CC-BY-NC-SA-4.0
 stamp:

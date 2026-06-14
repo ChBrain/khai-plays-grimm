@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "eavesdrop"
+title: "Eavesdrop"
 declared: "das Belauschen des Greifs"
 license: CC-BY-NC-SA-4.0
 stamp:

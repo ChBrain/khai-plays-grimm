@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "mother"
+title: "The Mother"
 declared: "die fromme Mutter"
 license: CC-BY-NC-SA-4.0
 stamp:

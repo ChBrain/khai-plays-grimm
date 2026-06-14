@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_lie"
+title: "Lie"
 declared: "Die Lüge an der Tür"
 license: CC-BY-NC-SA-4.0
 stamp:

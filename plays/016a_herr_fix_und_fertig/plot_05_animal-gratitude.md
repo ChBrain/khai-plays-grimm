@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_animal-gratitude"
+title: "Animal Gratitude"
 declared: "Die Dankbarkeit der Tiere"
 license: CC-BY-NC-SA-4.0
 stamp:

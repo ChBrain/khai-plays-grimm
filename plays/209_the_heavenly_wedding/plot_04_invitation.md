@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "invitation"
+title: "Invitation"
 declared: "Die Einladung zur Hochzeit"
 license: CC-BY-NC-SA-4.0
 stamp:

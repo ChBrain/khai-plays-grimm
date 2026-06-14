@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "kaefer"
+title: "Kaefer"
 declared: "Der Käfer und der Rechen"
 license: CC-BY-NC-SA-4.0
 stamp:

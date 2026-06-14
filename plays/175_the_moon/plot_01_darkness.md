@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "darkness"
+title: "Darkness"
 declared: "Das dunkle Land"
 license: CC-BY-NC-SA-4.0
 stamp:

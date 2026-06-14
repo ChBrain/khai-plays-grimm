@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "grasper"
+title: "The Grasper"
 declared: "die Geizige"
 license: CC-BY-NC-SA-4.0
 stamp:

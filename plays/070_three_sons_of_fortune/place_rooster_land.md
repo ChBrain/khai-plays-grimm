@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "rooster_land"
+title: "The Rooster Land"
 declared: "das Land ohne Hahn"
 license: CC-BY-NC-SA-4.0
 stamp:

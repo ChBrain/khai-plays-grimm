@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "magician"
+title: "The Magician"
 declared: "Der Lehrmeister"
 license: CC-BY-NC-SA-4.0
 stamp:

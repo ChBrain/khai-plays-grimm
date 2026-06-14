@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_golden-return"
+title: "Golden Return"
 declared: "Die Goldmarie"
 license: CC-BY-NC-SA-4.0
 stamp:

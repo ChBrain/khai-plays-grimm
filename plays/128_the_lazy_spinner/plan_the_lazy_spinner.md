@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_lazy_spinner"
+title: "The Lazy Spinner"
 declared: "die Spinn-Vermeidung"
 license: CC-BY-NC-SA-4.0
 stamp:

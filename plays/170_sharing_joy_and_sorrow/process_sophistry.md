@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "sophistry"
+title: "Sophistry"
 declared: "die Wortverdrehung"
 license: CC-BY-NC-SA-4.0
 stamp:

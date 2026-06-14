@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "ship-murder"
+title: "Ship Murder"
 declared: "der Mord auf hoher See"
 license: CC-BY-NC-SA-4.0
 stamp:

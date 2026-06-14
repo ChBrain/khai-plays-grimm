@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "gift"
+title: "Gift"
 declared: "Die Gabe des Alten"
 license: CC-BY-NC-SA-4.0
 stamp:

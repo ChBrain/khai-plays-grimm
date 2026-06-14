@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_sausage-demise"
+title: "Sausage Demise"
 declared: "Das Ende der Bratwurst"
 license: CC-BY-NC-SA-4.0
 stamp:

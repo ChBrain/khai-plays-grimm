@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "homebody"
+title: "The Homebody"
 declared: "der Heimbleiber"
 license: CC-BY-NC-SA-4.0
 stamp:

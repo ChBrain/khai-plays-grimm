@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "obstacles"
+title: "The Obstacles"
 declared: "die drei Hindernisse"
 license: CC-BY-NC-SA-4.0
 stamp:

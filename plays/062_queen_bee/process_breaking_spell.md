@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "breaking_spell"
+title: "Breaking Spell"
 declared: "Erlösung"
 license: CC-BY-NC-SA-4.0
 stamp:

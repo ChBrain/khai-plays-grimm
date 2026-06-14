@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "husband"
+title: "The Husband"
 declared: "Ehemann"
 license: CC-BY-NC-SA-4.0
 stamp:

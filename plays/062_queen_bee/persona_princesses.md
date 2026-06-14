@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "princesses"
+title: "The Princesses"
 declared: "Königstöchter"
 license: CC-BY-NC-SA-4.0
 stamp:

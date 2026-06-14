@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_inn-admission"
+title: "Inn Admission"
 declared: "Die Einlistung beim Wirt"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "sons"
+title: "The Sons"
 declared: "die beiden Söhne"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "stove"
+title: "The Stove"
 declared: "der Eisenofen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_awakening"
+title: "Awakening"
 declared: "Das Erwachen"
 license: CC-BY-NC-SA-4.0
 stamp:

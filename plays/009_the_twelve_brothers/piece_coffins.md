@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "coffins"
+title: "The Coffins"
 declared: "zwölf Särge"
 license: CC-BY-NC-SA-4.0
 stamp:

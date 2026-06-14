@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "going_a_travelling"
+title: "Going a Travelling"
 declared: "die Lehre"
 license: CC-BY-NC-SA-4.0
 stamp:

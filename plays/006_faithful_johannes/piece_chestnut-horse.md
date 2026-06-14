@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "chestnut-horse"
+title: "The Chestnut Horse"
 declared: "Kastanienpferd"
 license: CC-BY-NC-SA-4.0
 stamp:

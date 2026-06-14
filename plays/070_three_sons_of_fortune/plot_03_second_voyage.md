@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "second_voyage"
+title: "Second Voyage"
 declared: "Die Reise des zweiten Sohnes"
 license: CC-BY-NC-SA-4.0
 stamp:

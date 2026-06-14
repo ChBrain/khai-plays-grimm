@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "course"
+title: "The Course"
 declared: "die Wettstrecke"
 license: CC-BY-NC-SA-4.0
 stamp:

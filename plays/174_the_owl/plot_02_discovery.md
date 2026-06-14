@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "discovery"
+title: "Discovery"
 declared: "Das Ungeheuer in der Scheune"
 license: CC-BY-NC-SA-4.0
 stamp:

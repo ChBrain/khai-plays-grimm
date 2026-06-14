@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "high"
+title: "The High"
 declared: "die hohen Stände"
 license: CC-BY-NC-SA-4.0
 stamp:

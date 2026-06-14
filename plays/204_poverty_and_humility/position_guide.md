@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "guide"
+title: "The Guide"
 declared: "der Wegweiser"
 license: CC-BY-NC-SA-4.0
 stamp:

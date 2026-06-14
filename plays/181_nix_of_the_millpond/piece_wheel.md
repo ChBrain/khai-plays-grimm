@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "wheel"
+title: "The Wheel"
 declared: "das goldene Spinnrad"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "stuck"
+title: "Stuck"
 declared: "das Festfahren"
 license: CC-BY-NC-SA-4.0
 stamp:

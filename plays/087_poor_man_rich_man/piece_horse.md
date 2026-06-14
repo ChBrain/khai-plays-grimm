@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "horse"
+title: "The Horse"
 declared: "das Pferd Lisa"
 license: CC-BY-NC-SA-4.0
 stamp:

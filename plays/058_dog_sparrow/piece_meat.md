@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "meat"
+title: "The Meat"
 declared: "Fleisch"
 license: CC-BY-NC-SA-4.0
 stamp:
