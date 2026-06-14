@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.215.0",
+  "version": "0.221.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -34,6 +34,11 @@
       "description": "Ein sterbender König übergibt seinem treuen Diener Johannes die Sorge um den jungen König."
     },
     {
+      "id": "006a_nightingale_and_blindworm",
+      "title": "The Nightingale and the Blindworm",
+      "description": "Zwei einäugige Tiere teilen ihr Haus, bis ein geliehenes Auge zum Wortbruch und zur bleibenden Feindschaft wird."
+    },
+    {
       "id": "007_the_good_bargain",
       "title": "The Good Bargain",
       "description": "Ein armer Bauer treibt seine Kuh zum Markt und verkauft sie für ein scheinbar wertloses Versprechen."
@@ -42,6 +47,11 @@
       "id": "008_wonderful_musician",
       "title": "The Strange Musician",
       "description": "Ein einsamer Spielmann zieht durch den Wald und lockt Tiere mit seiner Geige an."
+    },
+    {
+      "id": "008a_hand_with_the_knife",
+      "title": "The Hand with the Knife",
+      "description": "Ein zurückgesetztes Mädchen erhält von einem Elfen ein Zaubermesser, bis die Brüder dem Helfer den Arm abschlagen."
     },
     {
       "id": "009_the_twelve_brothers",
@@ -82,6 +92,11 @@
       "id": "016_three_snake_leaves",
       "title": "The Three Snake-Leaves",
       "description": "Ein armer Jüngling zieht in den Krieg, siegt durch tapferen Einsatz und gewinnt die Königstochter zur Frau."
+    },
+    {
+      "id": "016a_herr_fix_und_fertig",
+      "title": "Mr Fix and Ready",
+      "description": "Ein listiger Diener gewinnt seinem König mit Hilfe dankbarer Tiere die Prinzessin und steigt zum ersten Minister auf."
     },
     {
       "id": "017_the_white_snake",
@@ -234,6 +249,11 @@
       "description": "Ein Mädchen ignoriert die Warnung der Eltern, besucht die unheimliche Frau Trude und wird von ihr verbrannt."
     },
     {
+      "id": "043a_die_wunderliche_gasterei",
+      "title": "The Strange Feast",
+      "description": "Eine Blutwurst lädt die Leberwurst in eine Mörderfalle, der diese durch eine Warnung gerade noch entflieht."
+    },
+    {
       "id": "044_gevatter_tod",
       "title": "Godfather Death",
       "description": "Der Tod wird Pate eines armen Jungen, macht ihn zum berühmten Arzt, straft jedoch dessen Verrat mit dem Lebenslicht."
@@ -289,6 +309,11 @@
       "description": "Ein armer Bruder tauscht ein Wunschtuch gegen magische Waffen, besiegt den König und zerschmettert den Verrat."
     },
     {
+      "id": "054a_hans_dumm",
+      "title": "Foolish Hans",
+      "description": "Ein einfältig geltender Bursche wird durch eine Zitrone zum Vater erwählt, wünscht sich Glück herbei und wird König."
+    },
+    {
       "id": "055_rumpelstiltskin",
       "title": "Rumpelstiltskin",
       "description": "Eine Müllerstochter muss Stroh zu Gold spinnen, verspricht ihr Kind und rettet es, indem sie seinen Namen errät."
@@ -322,6 +347,11 @@
       "id": "060_two_brothers",
       "title": "The Two Brothers",
       "description": "Zwillinge erlangen Reichtum durch einen Goldvogel, bestehen Abenteuer mit Drachen und Hexen und wahren ihre Treue."
+    },
+    {
+      "id": "060a_das_goldei",
+      "title": "The Golden Egg",
+      "description": "Arme Besenbinderkinder finden einen Vogel mit Goldeiern, dessen Herz und Leber sie zu König und Reichtum erheben."
     },
     {
       "id": "061_little_peasant",
