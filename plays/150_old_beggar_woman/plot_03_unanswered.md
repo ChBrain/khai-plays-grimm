@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "unanswered"
+title: "Unanswered"
 declared: "Die unbeantwortete Frage"
 license: CC-BY-NC-SA-4.0
 stamp:

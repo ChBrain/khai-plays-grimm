@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "miracle"
+title: "Miracle"
 declared: "Wunderheilen"
 license: CC-BY-NC-SA-4.0
 stamp:

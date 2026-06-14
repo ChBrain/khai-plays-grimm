@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "alms"
+title: "Alms"
 declared: "Das Almosen und die Gaben"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "swineherds_daughter"
+title: "The Swineherds Daughter"
 declared: "die Schweinehirtstochter"
 license: CC-BY-NC-SA-4.0
 stamp:

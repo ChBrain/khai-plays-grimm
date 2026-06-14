@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "kerchief"
+title: "The Kerchief"
 declared: "das blaue Seidentuch"
 license: CC-BY-NC-SA-4.0
 stamp:

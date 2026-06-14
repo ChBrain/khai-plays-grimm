@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "murderous-host"
+title: "The Murderous Host"
 declared: "der mörderische Gastgeber"
 license: CC-BY-NC-SA-4.0
 stamp:

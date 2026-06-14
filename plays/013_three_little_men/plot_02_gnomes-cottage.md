@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_gnomes-cottage"
+title: "Gnomes Cottage"
 declared: "Das Waldhaus der Männlein"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "brothers"
+title: "Brothers"
 declared: "Das Scheitern der älteren Brüder"
 license: CC-BY-NC-SA-4.0
 stamp:

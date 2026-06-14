@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "poor_brother"
+title: "The Poor Brother"
 declared: "der arme Bruder"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "mother"
+title: "The Mother"
 declared: "Mutter"
 license: CC-BY-NC-SA-4.0
 stamp:

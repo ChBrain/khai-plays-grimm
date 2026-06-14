@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "miraculous_work"
+title: "Miraculous Work"
 declared: "Das Wunder am Morgen"
 license: CC-BY-NC-SA-4.0
 stamp:

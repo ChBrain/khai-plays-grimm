@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "cart"
+title: "The Cart"
 declared: "der Himmelskarren"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "goats"
+title: "The Goats"
 declared: "die Ziegen"
 license: CC-BY-NC-SA-4.0
 stamp:

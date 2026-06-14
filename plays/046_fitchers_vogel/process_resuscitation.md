@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "resuscitation"
+title: "Resuscitation"
 declared: "Wiederbelebung"
 license: CC-BY-NC-SA-4.0
 stamp:

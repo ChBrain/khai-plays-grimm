@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "allerleirauh"
+title: "Allerleirauh"
 declared: "Allerleirauh"
 license: CC-BY-NC-SA-4.0
 stamp:

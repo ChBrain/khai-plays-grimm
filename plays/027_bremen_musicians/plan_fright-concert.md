@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "fright-concert"
+title: "Fright Concert"
 declared: "das Schreckkonzert"
 license: CC-BY-NC-SA-4.0
 stamp:

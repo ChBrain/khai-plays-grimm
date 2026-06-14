@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "sun_house"
+title: "The Sun House"
 declared: "das Haus der Sonne"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "three_apprentices"
+title: "Three Apprentices"
 declared: "die Seelenwette"
 license: CC-BY-NC-SA-4.0
 stamp:

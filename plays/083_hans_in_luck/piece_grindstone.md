@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "grindstone"
+title: "The Grindstone"
 declared: "der Schleifstein"
 license: CC-BY-NC-SA-4.0
 stamp:

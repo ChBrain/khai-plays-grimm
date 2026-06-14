@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "wealth"
+title: "The Wealth"
 declared: "der Reichtum"
 license: CC-BY-NC-SA-4.0
 stamp:

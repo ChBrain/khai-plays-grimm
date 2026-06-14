@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "iron_man"
+title: "The Iron Man"
 declared: "das eiserne Männchen"
 license: CC-BY-NC-SA-4.0
 stamp:

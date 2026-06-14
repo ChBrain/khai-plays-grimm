@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "trees"
+title: "The Trees"
 declared: "die verzauberten Bäume"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_boar-threat"
+title: "Boar Threat"
 declared: "Wildschwein-Plage"
 license: CC-BY-NC-SA-4.0
 stamp:

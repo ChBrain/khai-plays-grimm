@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "knoist"
+title: "Knoist"
 declared: "Knoist"
 license: CC-BY-NC-SA-4.0
 stamp:

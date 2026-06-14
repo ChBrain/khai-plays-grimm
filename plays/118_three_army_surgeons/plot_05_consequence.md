@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "consequence"
+title: "Consequence"
 declared: "Die Folgen und die Entschädigung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_willow_wren"
+title: "The Willow Wren"
 declared: "die List"
 license: CC-BY-NC-SA-4.0
 stamp:

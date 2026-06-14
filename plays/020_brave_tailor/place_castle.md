@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "castle"
+title: "The Castle"
 declared: "Königshof"
 license: CC-BY-NC-SA-4.0
 stamp:

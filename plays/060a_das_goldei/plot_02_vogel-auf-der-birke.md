@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_vogel-auf-der-birke"
+title: "Vogel Auf Der Birke"
 declared: "Der Vogel auf der Birke"
 license: CC-BY-NC-SA-4.0
 stamp:

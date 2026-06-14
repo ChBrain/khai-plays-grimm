@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "child_wild"
+title: "The Child Wild"
 declared: "das Kind Wild"
 license: CC-BY-NC-SA-4.0
 stamp:

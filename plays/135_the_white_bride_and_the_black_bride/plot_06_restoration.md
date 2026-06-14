@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "06_restoration"
+title: "Restoration"
 declared: "Die Rettung und das Urteil"
 license: CC-BY-NC-SA-4.0
 stamp:

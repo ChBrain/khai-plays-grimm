@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "girls-flight"
+title: "Girls Flight"
 declared: "die Flucht des Mädchens"
 license: CC-BY-NC-SA-4.0
 stamp:

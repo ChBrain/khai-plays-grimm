@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "claws"
+title: "The Claws"
 declared: "Krallen"
 license: CC-BY-NC-SA-4.0
 stamp:

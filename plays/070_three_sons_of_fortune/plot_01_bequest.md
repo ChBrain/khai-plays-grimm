@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "bequest"
+title: "Bequest"
 declared: "Das Vermächtnis des Vaters"
 license: CC-BY-NC-SA-4.0
 stamp:

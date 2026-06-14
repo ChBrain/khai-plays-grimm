@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_devil-mission"
+title: "Devil Mission"
 declared: "Die Höllenfahrt"
 license: CC-BY-NC-SA-4.0
 stamp:

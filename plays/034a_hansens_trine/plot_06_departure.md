@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "06_departure"
+title: "Departure"
 declared: "Trines Fortgang"
 license: CC-BY-NC-SA-4.0
 stamp:

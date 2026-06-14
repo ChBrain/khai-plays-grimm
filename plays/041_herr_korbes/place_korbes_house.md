@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "korbes_house"
+title: "The Korbes House"
 declared: "Korbes-Haus"
 license: CC-BY-NC-SA-4.0
 stamp:

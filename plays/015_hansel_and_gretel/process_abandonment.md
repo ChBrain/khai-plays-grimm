@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "abandonment"
+title: "Abandonment"
 declared: "Aussetzung"
 license: CC-BY-NC-SA-4.0
 stamp:

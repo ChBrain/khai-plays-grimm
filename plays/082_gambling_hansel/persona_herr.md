@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "herr"
+title: "The Herr"
 declared: "der Herr"
 license: CC-BY-NC-SA-4.0
 stamp:

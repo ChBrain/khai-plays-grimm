@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "dig_chest"
+title: "Dig Chest"
 declared: "Das Ausgraben des Kästchens"
 license: CC-BY-NC-SA-4.0
 stamp:

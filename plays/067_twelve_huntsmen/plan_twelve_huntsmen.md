@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "twelve_huntsmen"
+title: "Twelve Huntsmen"
 declared: "die Wiedervereinigung"
 license: CC-BY-NC-SA-4.0
 stamp:

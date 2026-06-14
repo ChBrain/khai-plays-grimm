@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "healer"
+title: "The Healer"
 declared: "der Heiler"
 license: CC-BY-NC-SA-4.0
 stamp:

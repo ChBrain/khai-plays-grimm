@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "maid_maleen"
+title: "Maid Maleen"
 declared: "die Wiedervereinigung"
 license: CC-BY-NC-SA-4.0
 stamp:

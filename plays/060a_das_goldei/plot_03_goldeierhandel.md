@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_goldeierhandel"
+title: "Goldeierhandel"
 declared: "Der Goldeierhandel"
 license: CC-BY-NC-SA-4.0
 stamp:

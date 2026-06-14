@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "forester"
+title: "Forester"
 declared: "Förster"
 license: CC-BY-NC-SA-4.0
 stamp:

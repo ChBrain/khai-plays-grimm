@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "fugitives"
+title: "The Fugitives"
 declared: "Flüchtlinge"
 license: CC-BY-NC-SA-4.0
 stamp:

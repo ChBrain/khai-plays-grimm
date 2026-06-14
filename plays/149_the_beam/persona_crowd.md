@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "crowd"
+title: "The Crowd"
 declared: "die Menge"
 license: CC-BY-NC-SA-4.0
 stamp:

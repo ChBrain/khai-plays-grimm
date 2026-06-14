@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "antagonists"
+title: "The Antagonists"
 declared: "Gegner"
 license: CC-BY-NC-SA-4.0
 stamp:

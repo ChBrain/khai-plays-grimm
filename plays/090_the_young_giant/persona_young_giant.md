@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "young_giant"
+title: "The Young Giant"
 declared: "der junge Riese"
 license: CC-BY-NC-SA-4.0
 stamp:

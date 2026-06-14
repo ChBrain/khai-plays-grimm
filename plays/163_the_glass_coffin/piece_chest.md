@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "chest"
+title: "The Chest"
 declared: "der gläserne Kasten"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "journeyman"
+title: "The Journeyman"
 declared: "der Geselle"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "fare"
+title: "The Fare"
 declared: "die Gefängniskost"
 license: CC-BY-NC-SA-4.0
 stamp:

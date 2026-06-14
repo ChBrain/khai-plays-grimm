@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "encounter"
+title: "Encounter"
 declared: "Der Angriff auf den Jäger"
 license: CC-BY-NC-SA-4.0
 stamp:

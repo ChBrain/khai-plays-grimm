@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "fields"
+title: "The Fields"
 declared: "die Felder"
 license: CC-BY-NC-SA-4.0
 stamp:

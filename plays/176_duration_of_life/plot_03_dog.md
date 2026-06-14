@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "dog"
+title: "Dog"
 declared: "Die Bitte des Hundes"
 license: CC-BY-NC-SA-4.0
 stamp:

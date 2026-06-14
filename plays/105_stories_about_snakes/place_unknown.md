@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "unknown"
+title: "The Unknown"
 declared: "das Ungewisse"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "wood"
+title: "The Wood"
 declared: "Holzbündel"
 license: CC-BY-NC-SA-4.0
 stamp:

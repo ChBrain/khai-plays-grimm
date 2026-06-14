@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_sea-ring-test"
+title: "Sea Ring Test"
 declared: "Die Meeresprüfung"
 license: CC-BY-NC-SA-4.0
 stamp:

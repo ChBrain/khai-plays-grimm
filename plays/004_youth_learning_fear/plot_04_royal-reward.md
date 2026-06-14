@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_royal-reward"
+title: "Royal Reward"
 declared: "Die königliche Belohnung"
 license: CC-BY-NC-SA-4.0
 stamp:

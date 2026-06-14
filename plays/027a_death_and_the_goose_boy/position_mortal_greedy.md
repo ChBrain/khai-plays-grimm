@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "mortal_greedy"
+title: "The Mortal Greedy"
 declared: "habgieriger Sterblicher"
 license: CC-BY-NC-SA-4.0
 stamp:

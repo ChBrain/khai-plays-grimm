@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "foolproof"
+title: "Foolproof"
 declared: "die Narrenprobe"
 license: CC-BY-NC-SA-4.0
 stamp:

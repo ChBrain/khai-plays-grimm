@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "understanding"
+title: "Understanding"
 declared: "Verständnis"
 license: CC-BY-NC-SA-4.0
 stamp:

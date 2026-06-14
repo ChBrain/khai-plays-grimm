@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "blackbirds"
+title: "The Blackbirds"
 declared: "die drei Amseln"
 license: CC-BY-NC-SA-4.0
 stamp:

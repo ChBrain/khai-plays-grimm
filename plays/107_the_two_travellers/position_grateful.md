@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "grateful"
+title: "The Grateful"
 declared: "die Dankbaren"
 license: CC-BY-NC-SA-4.0
 stamp:

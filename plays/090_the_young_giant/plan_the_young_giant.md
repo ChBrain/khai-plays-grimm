@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_young_giant"
+title: "The Young Giant"
 declared: "der Lohn"
 license: CC-BY-NC-SA-4.0
 stamp:

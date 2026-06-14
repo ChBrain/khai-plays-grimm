@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "hermit"
+title: "The Hermit"
 declared: "der Einsiedler"
 license: CC-BY-NC-SA-4.0
 stamp:

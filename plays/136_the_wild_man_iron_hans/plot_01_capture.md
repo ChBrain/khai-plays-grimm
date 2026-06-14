@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_capture"
+title: "Capture"
 declared: "Der wilde Mann im Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

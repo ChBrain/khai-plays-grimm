@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "egg"
+title: "The Egg"
 declared: "das Ei"
 license: CC-BY-NC-SA-4.0
 stamp:

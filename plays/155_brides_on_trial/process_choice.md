@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "choice"
+title: "Choice"
 declared: "die Wahl"
 license: CC-BY-NC-SA-4.0
 stamp:

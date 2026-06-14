@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "gun"
+title: "The Gun"
 declared: "das Gewehr"
 license: CC-BY-NC-SA-4.0
 stamp:

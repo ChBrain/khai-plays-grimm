@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "confusion"
+title: "Confusion"
 declared: "der Selbstverlust"
 license: CC-BY-NC-SA-4.0
 stamp:

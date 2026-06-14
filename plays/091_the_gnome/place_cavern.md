@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "cavern"
+title: "The Cavern"
 declared: "die Drachenhöhle"
 license: CC-BY-NC-SA-4.0
 stamp:

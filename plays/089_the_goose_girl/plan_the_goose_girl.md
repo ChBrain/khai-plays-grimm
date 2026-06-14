@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_goose_girl"
+title: "The Goose Girl"
 declared: "die Enthüllung"
 license: CC-BY-NC-SA-4.0
 stamp:

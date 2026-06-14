@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "angels"
+title: "Angels"
 declared: "Die verkehrte Arbeit der Engel"
 license: CC-BY-NC-SA-4.0
 stamp:

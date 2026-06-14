@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_iron_stove"
+title: "The Iron Stove"
 declared: "die Erlösung"
 license: CC-BY-NC-SA-4.0
 stamp:

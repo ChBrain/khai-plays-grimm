@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "bittern_and_hoopoe"
+title: "Bittern and Hoopoe"
 declared: "das Maßhalten"
 license: CC-BY-NC-SA-4.0
 stamp:

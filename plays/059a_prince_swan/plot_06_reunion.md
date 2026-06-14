@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "06_reunion"
+title: "Reunion"
 declared: "Das Rätsel vom alten Schlüssel"
 license: CC-BY-NC-SA-4.0
 stamp:

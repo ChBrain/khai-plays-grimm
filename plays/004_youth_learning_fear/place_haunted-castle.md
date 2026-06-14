@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "haunted-castle"
+title: "The Haunted Castle"
 declared: "verwunschenes Schloss"
 license: CC-BY-NC-SA-4.0
 stamp:

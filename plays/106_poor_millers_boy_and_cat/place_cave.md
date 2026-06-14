@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "cave"
+title: "The Cave"
 declared: "die Höhle"
 license: CC-BY-NC-SA-4.0
 stamp:

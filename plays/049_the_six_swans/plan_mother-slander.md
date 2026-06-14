@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "mother-slander"
+title: "Mother Slander"
 declared: "die Verleumdung der Königin-Mutter"
 license: CC-BY-NC-SA-4.0
 stamp:

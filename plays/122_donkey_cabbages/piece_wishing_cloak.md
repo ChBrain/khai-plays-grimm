@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "wishing_cloak"
+title: "The Wishing Cloak"
 declared: "der Wunschmantel"
 license: CC-BY-NC-SA-4.0
 stamp:

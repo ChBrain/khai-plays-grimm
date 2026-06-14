@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_siblings_consent"
+title: "Siblings Consent"
 declared: "Geschwistereinwilligung"
 license: CC-BY-NC-SA-4.0
 stamp:

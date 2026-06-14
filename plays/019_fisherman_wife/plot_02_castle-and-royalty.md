@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_castle-and-royalty"
+title: "Castle and Royalty"
 declared: "Vom Schloss zur Krone"
 license: CC-BY-NC-SA-4.0
 stamp:

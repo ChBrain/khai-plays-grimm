@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "rivals"
+title: "The Rivals"
 declared: "Rivalen"
 license: CC-BY-NC-SA-4.0
 stamp:

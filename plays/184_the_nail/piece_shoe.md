@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "shoe"
+title: "The Shoe"
 declared: "das Hufeisen"
 license: CC-BY-NC-SA-4.0
 stamp:

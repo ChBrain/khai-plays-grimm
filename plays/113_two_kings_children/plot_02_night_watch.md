@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "night_watch"
+title: "Night Watch"
 declared: "Die Nachtwache und die Bilder"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "straw"
+title: "The Straw"
 declared: "Strohhalm"
 license: CC-BY-NC-SA-4.0
 stamp:

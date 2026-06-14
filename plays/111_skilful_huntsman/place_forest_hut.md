@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "forest_hut"
+title: "The Forest Hut"
 declared: "die Waldhütte"
 license: CC-BY-NC-SA-4.0
 stamp:

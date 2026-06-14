@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "inheritance"
+title: "Inheritance"
 declared: "die Erbteilung"
 license: CC-BY-NC-SA-4.0
 stamp:

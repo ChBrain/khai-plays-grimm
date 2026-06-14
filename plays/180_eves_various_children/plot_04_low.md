@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "low"
+title: "Low"
 declared: "Der Segen der niederen Stände"
 license: CC-BY-NC-SA-4.0
 stamp:

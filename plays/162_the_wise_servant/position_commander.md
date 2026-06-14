@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "commander"
+title: "The Commander"
 declared: "der Befehlsgeber"
 license: CC-BY-NC-SA-4.0
 stamp:

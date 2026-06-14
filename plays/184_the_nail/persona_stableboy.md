@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "stableboy"
+title: "The Stableboy"
 declared: "der Stallknecht"
 license: CC-BY-NC-SA-4.0
 stamp:

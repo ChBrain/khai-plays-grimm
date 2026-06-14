@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "carriage_ride"
+title: "Carriage Ride"
 declared: "Die Fahrt im Pferdeohr"
 license: CC-BY-NC-SA-4.0
 stamp:

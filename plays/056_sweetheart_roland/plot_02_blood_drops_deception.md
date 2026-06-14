@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "blood_drops_deception"
+title: "Blood Drops Deception"
 declared: "Die drei Blutstropfen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "hare"
+title: "The Hare"
 declared: "Häsichen"
 license: CC-BY-NC-SA-4.0
 stamp:

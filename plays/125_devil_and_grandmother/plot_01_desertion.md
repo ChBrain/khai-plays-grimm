@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "desertion"
+title: "Desertion"
 declared: "Die Fahnenflucht"
 license: CC-BY-NC-SA-4.0
 stamp:

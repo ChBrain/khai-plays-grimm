@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "mountain_road"
+title: "The Mountain Road"
 declared: "die Bergstraße"
 license: CC-BY-NC-SA-4.0
 stamp:

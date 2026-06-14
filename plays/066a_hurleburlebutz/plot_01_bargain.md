@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_bargain"
+title: "Bargain"
 declared: "Die Irrfahrt und das Versprechen"
 license: CC-BY-NC-SA-4.0
 stamp:

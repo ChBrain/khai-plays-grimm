@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "pif_paf_poltrie"
+title: "Pif Paf Poltrie"
 declared: "Pif Paf Poltrie"
 license: CC-BY-NC-SA-4.0
 stamp:

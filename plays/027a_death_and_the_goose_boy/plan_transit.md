@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "transit"
+title: "Transit"
 declared: "der Übergang in die neue Welt"
 license: CC-BY-NC-SA-4.0
 stamp:

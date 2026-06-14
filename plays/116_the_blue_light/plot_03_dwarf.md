@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "dwarf"
+title: "Dwarf"
 declared: "Der schwarze Zwerg"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "mediator"
+title: "The Mediator"
 declared: "der Mittler"
 license: CC-BY-NC-SA-4.0
 stamp:

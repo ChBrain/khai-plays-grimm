@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_bone-discovery"
+title: "Bone Discovery"
 declared: "Der Fund"
 license: CC-BY-NC-SA-4.0
 stamp:

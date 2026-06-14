@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "fatal_fire"
+title: "Fatal Fire"
 declared: "Der Brand"
 license: CC-BY-NC-SA-4.0
 stamp:

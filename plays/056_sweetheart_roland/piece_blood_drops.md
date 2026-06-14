@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "blood_drops"
+title: "The Blood Drops"
 declared: "Blutstropfen"
 license: CC-BY-NC-SA-4.0
 stamp:

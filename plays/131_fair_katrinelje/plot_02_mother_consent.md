@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_mother_consent"
+title: "Mother Consent"
 declared: "Mutters Einwilligung"
 license: CC-BY-NC-SA-4.0
 stamp:

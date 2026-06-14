@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "stranger"
+title: "The Stranger"
 declared: "Fremde"
 license: CC-BY-NC-SA-4.0
 stamp:

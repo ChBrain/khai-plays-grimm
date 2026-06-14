@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "flucht"
+title: "Flucht"
 declared: "die Flucht"
 license: CC-BY-NC-SA-4.0
 stamp:

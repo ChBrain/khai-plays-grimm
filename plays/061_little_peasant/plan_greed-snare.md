@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "greed-snare"
+title: "Greed Snare"
 declared: "die Falle der Gier"
 license: CC-BY-NC-SA-4.0
 stamp:

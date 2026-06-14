@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "son"
+title: "The Son"
 declared: "Fischersohn"
 license: CC-BY-NC-SA-4.0
 stamp:

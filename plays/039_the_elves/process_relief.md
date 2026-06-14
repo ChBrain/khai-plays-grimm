@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "relief"
+title: "Relief"
 declared: "Himmlische Hilfe"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "fostering"
+title: "Fostering"
 declared: "Pflegschaft"
 license: CC-BY-NC-SA-4.0
 stamp:

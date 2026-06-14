@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "reckoning"
+title: "Reckoning"
 declared: "Mitgiftzählung"
 license: CC-BY-NC-SA-4.0
 stamp:

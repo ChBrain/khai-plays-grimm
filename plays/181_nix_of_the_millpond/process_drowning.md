@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "drowning"
+title: "Drowning"
 declared: "das Versinken"
 license: CC-BY-NC-SA-4.0
 stamp:

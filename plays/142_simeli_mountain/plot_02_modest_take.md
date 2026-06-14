@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "modest_take"
+title: "Modest Take"
 declared: "Der bescheidene Schatz"
 license: CC-BY-NC-SA-4.0
 stamp:

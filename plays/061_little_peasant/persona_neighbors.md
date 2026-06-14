@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "neighbors"
+title: "The Neighbors"
 declared: "Nachbarn"
 license: CC-BY-NC-SA-4.0
 stamp:

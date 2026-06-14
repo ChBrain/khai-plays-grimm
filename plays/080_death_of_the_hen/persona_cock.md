@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "cock"
+title: "The Cock"
 declared: "das Hähnchen"
 license: CC-BY-NC-SA-4.0
 stamp:

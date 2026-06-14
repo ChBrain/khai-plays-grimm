@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "chastiser"
+title: "The Chastiser"
 declared: "die Strafende"
 license: CC-BY-NC-SA-4.0
 stamp:

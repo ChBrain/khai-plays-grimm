@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "prophesied"
+title: "The Prophesied"
 declared: "Auserwählter"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_night-cunning"
+title: "Night Cunning"
 declared: "Die nächtliche List"
 license: CC-BY-NC-SA-4.0
 stamp:

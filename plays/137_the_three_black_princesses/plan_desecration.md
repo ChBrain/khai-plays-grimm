@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "desecration"
+title: "Desecration"
 declared: "die Zerstörung des Zaubers"
 license: CC-BY-NC-SA-4.0
 stamp:

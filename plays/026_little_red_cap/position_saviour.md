@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "saviour"
+title: "The Saviour"
 declared: "Retter"
 license: CC-BY-NC-SA-4.0
 stamp:

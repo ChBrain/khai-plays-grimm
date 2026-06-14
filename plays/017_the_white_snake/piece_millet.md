@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "millet"
+title: "The Millet"
 declared: "Hirsekörner"
 license: CC-BY-NC-SA-4.0
 stamp:

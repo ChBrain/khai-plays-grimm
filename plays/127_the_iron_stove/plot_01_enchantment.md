@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "enchantment"
+title: "Enchantment"
 declared: "Die Verzauberung im Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

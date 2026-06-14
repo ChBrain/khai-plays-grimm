@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "revenge"
+title: "Revenge"
 declared: "die Rache"
 license: CC-BY-NC-SA-4.0
 stamp:

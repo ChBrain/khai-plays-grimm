@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "learning"
+title: "Learning"
 declared: "Die Lehrjahre"
 license: CC-BY-NC-SA-4.0
 stamp:

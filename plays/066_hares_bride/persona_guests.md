@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "guests"
+title: "The Guests"
 declared: "Hochzeitsgesellschaft"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "second_son"
+title: "The Second Son"
 declared: "der zweite Sohn"
 license: CC-BY-NC-SA-4.0
 stamp:

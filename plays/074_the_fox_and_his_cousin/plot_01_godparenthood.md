@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "godparenthood"
+title: "Godparenthood"
 declared: "Die Gevatterschaft"
 license: CC-BY-NC-SA-4.0
 stamp:

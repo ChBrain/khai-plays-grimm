@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "lords_animals_and_devils"
+title: "Lords Animals and Devils"
 declared: "der Schadenersatz"
 license: CC-BY-NC-SA-4.0
 stamp:

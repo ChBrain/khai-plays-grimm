@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "geese"
+title: "The Geese"
 declared: "die Gänse"
 license: CC-BY-NC-SA-4.0
 stamp:

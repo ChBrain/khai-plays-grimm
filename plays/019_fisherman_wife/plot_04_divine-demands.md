@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_divine-demands"
+title: "Divine Demands"
 declared: "Der Götterwunsch"
 license: CC-BY-NC-SA-4.0
 stamp:

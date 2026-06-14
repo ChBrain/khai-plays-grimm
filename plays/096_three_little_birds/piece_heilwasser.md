@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "heilwasser"
+title: "Heilwasser"
 declared: "das Heilwasser"
 license: CC-BY-NC-SA-4.0
 stamp:

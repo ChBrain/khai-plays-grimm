@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "blinding"
+title: "Blinding"
 declared: "Die Blendung im Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

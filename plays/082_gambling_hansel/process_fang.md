@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "fang"
+title: "Fang"
 declared: "das Fangen des Todes"
 license: CC-BY-NC-SA-4.0
 stamp:

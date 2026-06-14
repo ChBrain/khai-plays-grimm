@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "assignment"
+title: "Assignment"
 declared: "Die Zuteilung der dreißig Jahre"
 license: CC-BY-NC-SA-4.0
 stamp:

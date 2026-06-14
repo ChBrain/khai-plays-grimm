@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "beating"
+title: "Beating"
 declared: "die Strafe"
 license: CC-BY-NC-SA-4.0
 stamp:

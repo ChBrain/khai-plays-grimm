@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "seed"
+title: "The Seed"
 declared: "das Rübenkorn"
 license: CC-BY-NC-SA-4.0
 stamp:

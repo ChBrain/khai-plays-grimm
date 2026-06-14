@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "corner"
+title: "Corner"
 declared: "Der Winkel"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "collar"
+title: "The Collar"
 declared: "das Halsband"
 license: CC-BY-NC-SA-4.0
 stamp:

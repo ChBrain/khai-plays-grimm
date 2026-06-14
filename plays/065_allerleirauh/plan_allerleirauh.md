@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "allerleirauh"
+title: "Allerleirauh"
 declared: "die Errettung und Heirat"
 license: CC-BY-NC-SA-4.0
 stamp:

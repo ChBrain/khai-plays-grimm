@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "heerweg"
+title: "The Heerweg"
 declared: "der Heerweg"
 license: CC-BY-NC-SA-4.0
 stamp:

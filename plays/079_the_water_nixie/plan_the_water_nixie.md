@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_water_nixie"
+title: "The Water Nixie"
 declared: "die Sonntagsflucht"
 license: CC-BY-NC-SA-4.0
 stamp:

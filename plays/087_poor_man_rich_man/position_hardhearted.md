@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "hardhearted"
+title: "The Hardhearted"
 declared: "der Hartherzige"
 license: CC-BY-NC-SA-4.0
 stamp:

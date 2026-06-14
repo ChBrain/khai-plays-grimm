@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "dogs"
+title: "The Dogs"
 declared: "Hunde"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "persona_queen-mother"
+title: "The Persona Queen Mother"
 declared: "Königin-Mutter"
 license: CC-BY-NC-SA-4.0
 stamp:

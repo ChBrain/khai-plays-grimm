@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "scaffold"
+title: "The Scaffold"
 declared: "das Schafott"
 license: CC-BY-NC-SA-4.0
 stamp:

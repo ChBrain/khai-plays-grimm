@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "betrogene"
+title: "The Betrogene"
 declared: "der Betrogene"
 license: CC-BY-NC-SA-4.0
 stamp:

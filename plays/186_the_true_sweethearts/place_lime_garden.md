@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "lime_garden"
+title: "The Lime Garden"
 declared: "der Lindengarten"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "hearth"
+title: "The Hearth"
 declared: "Herdstelle"
 license: CC-BY-NC-SA-4.0
 stamp:

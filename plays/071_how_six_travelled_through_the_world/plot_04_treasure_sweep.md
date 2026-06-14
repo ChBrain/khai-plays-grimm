@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "treasure_sweep"
+title: "Treasure Sweep"
 declared: "Der Abtransport des Goldes"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_owl"
+title: "The Owl"
 declared: "die Brandstiftung"
 license: CC-BY-NC-SA-4.0
 stamp:

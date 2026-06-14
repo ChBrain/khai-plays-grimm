@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "enchantress"
+title: "The Enchantress"
 declared: "die Verzauberin"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "apes"
+title: "Apes"
 declared: "Das Affengeschlecht"
 license: CC-BY-NC-SA-4.0
 stamp:

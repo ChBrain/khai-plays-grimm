@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "taskmaster"
+title: "The Taskmaster"
 declared: "der Aufgaben-Steller"
 license: CC-BY-NC-SA-4.0
 stamp:

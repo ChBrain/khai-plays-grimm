@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "unveiling"
+title: "Unveiling"
 declared: "die Enthüllung"
 license: CC-BY-NC-SA-4.0
 stamp:

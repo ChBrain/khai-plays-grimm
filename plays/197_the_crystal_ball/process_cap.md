@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "cap"
+title: "Cap"
 declared: "die Erlangung des Wunschhutes"
 license: CC-BY-NC-SA-4.0
 stamp:

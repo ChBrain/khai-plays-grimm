@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "minnow-cure"
+title: "Minnow Cure"
 declared: "die Gründlingskur im Schlaf"
 license: CC-BY-NC-SA-4.0
 stamp:

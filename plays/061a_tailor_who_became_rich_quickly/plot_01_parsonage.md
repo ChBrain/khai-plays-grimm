@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_parsonage"
+title: "Parsonage"
 declared: "Die Drossel im Bauernhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "litkingdom"
+title: "The Litkingdom"
 declared: "das erleuchtete Königreich"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "mortar"
+title: "The Mortar"
 declared: "der goldene Mörser"
 license: CC-BY-NC-SA-4.0
 stamp:

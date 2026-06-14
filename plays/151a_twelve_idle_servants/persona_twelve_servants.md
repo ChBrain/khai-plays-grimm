@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "twelve_servants"
+title: "The Twelve Servants"
 declared: "die zwölf Knechte"
 license: CC-BY-NC-SA-4.0
 stamp:

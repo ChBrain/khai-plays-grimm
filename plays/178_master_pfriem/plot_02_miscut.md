@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "miscut"
+title: "Miscut"
 declared: "Der Fehlschnitt am Schemel"
 license: CC-BY-NC-SA-4.0
 stamp:

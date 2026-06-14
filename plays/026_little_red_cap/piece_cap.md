@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "cap"
+title: "The Cap"
 declared: "Kappe"
 license: CC-BY-NC-SA-4.0
 stamp:

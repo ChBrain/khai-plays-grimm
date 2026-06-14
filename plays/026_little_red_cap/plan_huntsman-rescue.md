@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "huntsman-rescue"
+title: "Huntsman Rescue"
 declared: "die Rettung des Jägers"
 license: CC-BY-NC-SA-4.0
 stamp:

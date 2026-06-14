@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "sheepfold_beating"
+title: "Sheepfold Beating"
 declared: "Der Raub im Schafstall"
 license: CC-BY-NC-SA-4.0
 stamp:

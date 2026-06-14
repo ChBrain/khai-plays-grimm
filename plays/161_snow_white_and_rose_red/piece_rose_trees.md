@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "rose_trees"
+title: "The Rose Trees"
 declared: "die Rosenbäume"
 license: CC-BY-NC-SA-4.0
 stamp:

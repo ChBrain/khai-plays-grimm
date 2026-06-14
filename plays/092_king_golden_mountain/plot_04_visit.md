@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "visit"
+title: "Visit"
 declared: "Der Besuch beim Vater"
 license: CC-BY-NC-SA-4.0
 stamp:

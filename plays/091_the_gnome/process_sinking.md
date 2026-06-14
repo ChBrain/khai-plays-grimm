@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "sinking"
+title: "Sinking"
 declared: "das Versinken"
 license: CC-BY-NC-SA-4.0
 stamp:

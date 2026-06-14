@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "bargain"
+title: "Bargain"
 declared: "Der Handel an den Kohlen"
 license: CC-BY-NC-SA-4.0
 stamp:

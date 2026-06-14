@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "begetter"
+title: "The Begetter"
 declared: "der Erzeuger"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "hungry_man"
+title: "The Hungry Man"
 declared: "der Hungrige"
 license: CC-BY-NC-SA-4.0
 stamp:

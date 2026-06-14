@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "waning"
+title: "Waning"
 declared: "das Verlöschen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "decoy"
+title: "The Decoy"
 declared: "Strohpuppe"
 license: CC-BY-NC-SA-4.0
 stamp:

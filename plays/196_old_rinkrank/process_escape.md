@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "escape"
+title: "Escape"
 declared: "die Befreiung"
 license: CC-BY-NC-SA-4.0
 stamp:

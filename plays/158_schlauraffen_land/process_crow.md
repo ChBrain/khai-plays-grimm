@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "crow"
+title: "Crow"
 declared: "der Hahnenruf"
 license: CC-BY-NC-SA-4.0
 stamp:

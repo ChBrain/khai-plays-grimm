@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "weeping"
+title: "Weeping"
 declared: "das Weinen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "pride-breaking"
+title: "Pride Breaking"
 declared: "die Brechung des Hochmuts"
 license: CC-BY-NC-SA-4.0
 stamp:

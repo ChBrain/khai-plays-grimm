@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "stream"
+title: "The Stream"
 declared: "Bach"
 license: CC-BY-NC-SA-4.0
 stamp:

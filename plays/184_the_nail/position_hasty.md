@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "hasty"
+title: "The Hasty"
 declared: "der Eilige"
 license: CC-BY-NC-SA-4.0
 stamp:

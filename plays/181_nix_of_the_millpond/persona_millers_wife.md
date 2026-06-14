@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "millers_wife"
+title: "The Millers Wife"
 declared: "die Müllerin"
 license: CC-BY-NC-SA-4.0
 stamp:

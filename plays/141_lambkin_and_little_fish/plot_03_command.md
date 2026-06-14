@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "command"
+title: "Command"
 declared: "Der Befehl zum Schlachten"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "green_huntsman"
+title: "The Green Huntsman"
 declared: "der grüne Jäger"
 license: CC-BY-NC-SA-4.0
 stamp:

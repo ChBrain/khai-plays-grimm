@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "rapunzel-salad"
+title: "The Rapunzel Salad"
 declared: "Rapunzeln"
 license: CC-BY-NC-SA-4.0
 stamp:

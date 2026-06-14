@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "deferral"
+title: "Deferral"
 declared: "Der Lohn beim Laubfall"
 license: CC-BY-NC-SA-4.0
 stamp:

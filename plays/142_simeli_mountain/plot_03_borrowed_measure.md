@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "borrowed_measure"
+title: "Borrowed Measure"
 declared: "Das geliehene Maß"
 license: CC-BY-NC-SA-4.0
 stamp:

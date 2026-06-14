@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "buyer"
+title: "The Buyer"
 declared: "die Käufer"
 license: CC-BY-NC-SA-4.0
 stamp:

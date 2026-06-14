@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_sun"
+title: "Sun"
 declared: "Zu Gast bei der Sonne"
 license: CC-BY-NC-SA-4.0
 stamp:

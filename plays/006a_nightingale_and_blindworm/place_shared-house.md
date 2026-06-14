@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "shared-house"
+title: "The Shared House"
 declared: "gemeinsames Haus"
 license: CC-BY-NC-SA-4.0
 stamp:

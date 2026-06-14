@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "exile"
+title: "Exile"
 declared: "Vertreibung"
 license: CC-BY-NC-SA-4.0
 stamp:

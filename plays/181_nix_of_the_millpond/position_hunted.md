@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "hunted"
+title: "The Hunted"
 declared: "der Gejagte"
 license: CC-BY-NC-SA-4.0
 stamp:

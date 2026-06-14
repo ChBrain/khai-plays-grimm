@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "diligent"
+title: "The Diligent"
 declared: "die Fleißige"
 license: CC-BY-NC-SA-4.0
 stamp:

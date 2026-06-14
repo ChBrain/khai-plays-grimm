@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "stove"
+title: "The Stove"
 declared: "hinter dem Ofen"
 license: CC-BY-NC-SA-4.0
 stamp:

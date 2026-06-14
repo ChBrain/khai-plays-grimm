@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_portrait-breaks-in"
+title: "Portrait Breaks In"
 declared: "Das Bildnis bricht die Kammer"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_pink"
+title: "The Pink"
 declared: "die Verbergung"
 license: CC-BY-NC-SA-4.0
 stamp:

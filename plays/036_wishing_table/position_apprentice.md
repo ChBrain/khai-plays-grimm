@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "apprentice"
+title: "The Apprentice"
 declared: "Lehrling"
 license: CC-BY-NC-SA-4.0
 stamp:

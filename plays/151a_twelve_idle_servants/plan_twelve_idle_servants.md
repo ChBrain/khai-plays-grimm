@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "twelve_idle_servants"
+title: "Twelve Idle Servants"
 declared: "die Schonung"
 license: CC-BY-NC-SA-4.0
 stamp:

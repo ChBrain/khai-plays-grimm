@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "horns"
+title: "The Horns"
 declared: "Hörner"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "jorinde"
+title: "Jorinde"
 declared: "Jorinde"
 license: CC-BY-NC-SA-4.0
 stamp:

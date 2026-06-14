@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "tormentor"
+title: "The Tormentor"
 declared: "die Quäler"
 license: CC-BY-NC-SA-4.0
 stamp:

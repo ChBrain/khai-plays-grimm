@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "digging"
+title: "Digging"
 declared: "das Graben"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "vinegar_pears"
+title: "The Vinegar Pears"
 declared: "Essig und Birnen"
 license: CC-BY-NC-SA-4.0
 stamp:

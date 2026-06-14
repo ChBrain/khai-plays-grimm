@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "pond"
+title: "The Pond"
 declared: "Teich"
 license: CC-BY-NC-SA-4.0
 stamp:

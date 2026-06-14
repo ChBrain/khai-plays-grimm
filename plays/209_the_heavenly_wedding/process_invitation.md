@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "invitation"
+title: "Invitation"
 declared: "die Einladung"
 license: CC-BY-NC-SA-4.0
 stamp:

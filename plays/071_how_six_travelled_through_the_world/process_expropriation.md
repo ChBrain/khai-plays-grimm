@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "expropriation"
+title: "Expropriation"
 declared: "die Entschatzung"
 license: CC-BY-NC-SA-4.0
 stamp:

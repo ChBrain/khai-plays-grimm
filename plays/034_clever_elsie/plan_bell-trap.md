@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "bell-trap"
+title: "Bell Trap"
 declared: "die Glockenfalle im Korn"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "bucket"
+title: "The Bucket"
 declared: "Wassereimer"
 license: CC-BY-NC-SA-4.0
 stamp:

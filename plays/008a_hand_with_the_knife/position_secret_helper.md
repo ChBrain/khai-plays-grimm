@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "secret-helper"
+title: "The Secret Helper"
 declared: "der heimliche Helfer"
 license: CC-BY-NC-SA-4.0
 stamp:

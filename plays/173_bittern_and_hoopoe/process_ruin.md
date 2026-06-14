@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "ruin"
+title: "Ruin"
 declared: "die Verwilderung"
 license: CC-BY-NC-SA-4.0
 stamp:

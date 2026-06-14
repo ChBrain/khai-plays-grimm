@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "bedroom"
+title: "The Bedroom"
 declared: "das königliche Schlafgemach"
 license: CC-BY-NC-SA-4.0
 stamp:

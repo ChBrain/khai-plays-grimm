@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "arrival"
+title: "Arrival"
 declared: "Die Ankunft am Tor"
 license: CC-BY-NC-SA-4.0
 stamp:

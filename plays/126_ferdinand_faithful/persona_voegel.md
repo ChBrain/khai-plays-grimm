@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "voegel"
+title: "The Voegel"
 declared: "die Vögel"
 license: CC-BY-NC-SA-4.0
 stamp:

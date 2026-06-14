@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "pedagogue"
+title: "The Pedagogue"
 declared: "Erzieher"
 license: CC-BY-NC-SA-4.0
 stamp:

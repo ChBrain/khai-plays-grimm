@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "four_skilful_brothers"
+title: "Four Skilful Brothers"
 declared: "die Befreiung"
 license: CC-BY-NC-SA-4.0
 stamp:

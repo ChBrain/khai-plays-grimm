@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "arbiter"
+title: "The Arbiter"
 declared: "Schicksalsrichter"
 license: CC-BY-NC-SA-4.0
 stamp:

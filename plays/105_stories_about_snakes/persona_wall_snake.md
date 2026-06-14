@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "wall_snake"
+title: "The Wall Snake"
 declared: "die Mauerunke"
 license: CC-BY-NC-SA-4.0
 stamp:

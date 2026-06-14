@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "imitation"
+title: "Imitation"
 declared: "die Nachahmung"
 license: CC-BY-NC-SA-4.0
 stamp:

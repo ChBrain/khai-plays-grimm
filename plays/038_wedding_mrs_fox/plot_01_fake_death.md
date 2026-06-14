@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "fake_death"
+title: "Fake Death"
 declared: "Der Scheintod"
 license: CC-BY-NC-SA-4.0
 stamp:

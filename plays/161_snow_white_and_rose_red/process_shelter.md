@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "shelter"
+title: "Shelter"
 declared: "die Beherbergung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "tavern"
+title: "The Tavern"
 declared: "Wirtshaus"
 license: CC-BY-NC-SA-4.0
 stamp:

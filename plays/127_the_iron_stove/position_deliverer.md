@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "deliverer"
+title: "The Deliverer"
 declared: "die Befreierin"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "guilty"
+title: "The Guilty"
 declared: "Schuldige"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "butcher"
+title: "The Butcher"
 declared: "Metzger"
 license: CC-BY-NC-SA-4.0
 stamp:

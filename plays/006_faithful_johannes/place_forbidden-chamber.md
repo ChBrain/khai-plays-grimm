@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "forbidden-chamber"
+title: "The Forbidden Chamber"
 declared: "verbotene Kammer"
 license: CC-BY-NC-SA-4.0
 stamp:

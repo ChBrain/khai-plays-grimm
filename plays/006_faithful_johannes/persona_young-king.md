@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "young-king"
+title: "The Young King"
 declared: "junger König"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "innovator"
+title: "The Innovator"
 declared: "Rollenbrecher"
 license: CC-BY-NC-SA-4.0
 stamp:

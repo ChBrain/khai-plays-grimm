@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "skirt"
+title: "The Skirt"
 declared: "Rock"
 license: CC-BY-NC-SA-4.0
 stamp:

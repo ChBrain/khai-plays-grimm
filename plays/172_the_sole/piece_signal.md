@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "signal"
+title: "The Signal"
 declared: "das Startzeichen"
 license: CC-BY-NC-SA-4.0
 stamp:

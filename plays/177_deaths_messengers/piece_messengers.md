@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "messengers"
+title: "The Messengers"
 declared: "die Boten"
 license: CC-BY-NC-SA-4.0
 stamp:

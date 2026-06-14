@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_gingerbread-house"
+title: "Gingerbread House"
 declared: "Das Zuckerhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "dance"
+title: "Dance"
 declared: "Der Tanz auf dem Hügel"
 license: CC-BY-NC-SA-4.0
 stamp:

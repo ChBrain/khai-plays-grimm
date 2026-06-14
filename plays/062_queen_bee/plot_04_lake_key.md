@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "lake_key"
+title: "Lake Key"
 declared: "Der Kammerschlüssel"
 license: CC-BY-NC-SA-4.0
 stamp:

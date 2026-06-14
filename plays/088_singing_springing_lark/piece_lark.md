@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "lark"
+title: "The Lark"
 declared: "die singende Lerche"
 license: CC-BY-NC-SA-4.0
 stamp:

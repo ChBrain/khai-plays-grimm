@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "stove_room"
+title: "The Stove Room"
 declared: "die Stube am eisernen Ofen"
 license: CC-BY-NC-SA-4.0
 stamp:

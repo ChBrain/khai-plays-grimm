@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "chain"
+title: "The Chain"
 declared: "die Goldkette"
 license: CC-BY-NC-SA-4.0
 stamp:

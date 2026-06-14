@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "warden"
+title: "The Warden"
 declared: "der Ordnungshüter"
 license: CC-BY-NC-SA-4.0
 stamp:

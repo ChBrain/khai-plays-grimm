@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "frost_maker"
+title: "The Frost Maker"
 declared: "der Hütchenmann"
 license: CC-BY-NC-SA-4.0
 stamp:

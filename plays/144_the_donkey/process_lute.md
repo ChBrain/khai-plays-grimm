@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "lute"
+title: "Lute"
 declared: "das Lautenspiel"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "bearskin"
+title: "The Bearskin"
 declared: "das Bärenfell"
 license: CC-BY-NC-SA-4.0
 stamp:

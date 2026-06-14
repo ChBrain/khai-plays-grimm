@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "sorcerer_house"
+title: "The Sorcerer House"
 declared: "Mörderhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

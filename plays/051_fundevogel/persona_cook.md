@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "cook"
+title: "The Cook"
 declared: "Köchin"
 license: CC-BY-NC-SA-4.0
 stamp:

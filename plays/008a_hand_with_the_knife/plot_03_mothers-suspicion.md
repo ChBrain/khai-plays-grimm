@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_mothers-suspicion"
+title: "Mothers Suspicion"
 declared: "Der Argwohn der Mutter"
 license: CC-BY-NC-SA-4.0
 stamp:

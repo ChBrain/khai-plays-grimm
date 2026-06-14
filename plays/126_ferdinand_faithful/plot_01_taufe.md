@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "taufe"
+title: "Taufe"
 declared: "Die Taufe"
 license: CC-BY-NC-SA-4.0
 stamp:

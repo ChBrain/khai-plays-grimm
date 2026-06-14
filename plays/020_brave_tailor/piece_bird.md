@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "bird"
+title: "The Bird"
 declared: "Vogel"
 license: CC-BY-NC-SA-4.0
 stamp:

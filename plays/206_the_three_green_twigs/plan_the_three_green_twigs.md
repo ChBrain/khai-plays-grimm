@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_three_green_twigs"
+title: "The Three Green Twigs"
 declared: "die Buße"
 license: CC-BY-NC-SA-4.0
 stamp:

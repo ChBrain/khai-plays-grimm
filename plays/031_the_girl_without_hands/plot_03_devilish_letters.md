@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "devilish_letters"
+title: "Devilish Letters"
 declared: "Die verfälschten Briefe"
 license: CC-BY-NC-SA-4.0
 stamp:

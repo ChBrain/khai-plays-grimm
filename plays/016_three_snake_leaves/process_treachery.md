@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "treachery"
+title: "Treachery"
 declared: "Schiffsmord"
 license: CC-BY-NC-SA-4.0
 stamp:

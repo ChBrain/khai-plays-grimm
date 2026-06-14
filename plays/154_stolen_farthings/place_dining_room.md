@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "dining_room"
+title: "The Dining Room"
 declared: "die Mittagsstube"
 license: CC-BY-NC-SA-4.0
 stamp:

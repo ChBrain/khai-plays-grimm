@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "retribution"
+title: "Retribution"
 declared: "Züchtigung und Heimkehr"
 license: CC-BY-NC-SA-4.0
 stamp:

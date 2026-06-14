@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "death_of_the_hen"
+title: "Death of the Hen"
 declared: "die Wasserholung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "commerce"
+title: "Commerce"
 declared: "Der Handel mit Gestalten"
 license: CC-BY-NC-SA-4.0
 stamp:

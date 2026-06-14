@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "thwarting_wooers"
+title: "Thwarting Wooers"
 declared: "das Verderben der Freier"
 license: CC-BY-NC-SA-4.0
 stamp:

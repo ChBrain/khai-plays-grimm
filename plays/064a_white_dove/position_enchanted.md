@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "enchanted"
+title: "The Enchanted"
 declared: "die Verzauberten"
 license: CC-BY-NC-SA-4.0
 stamp:

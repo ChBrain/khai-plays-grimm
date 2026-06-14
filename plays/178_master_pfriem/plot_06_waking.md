@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "waking"
+title: "Waking"
 declared: "Das Erwachen"
 license: CC-BY-NC-SA-4.0
 stamp:

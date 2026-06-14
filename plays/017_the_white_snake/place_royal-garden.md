@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "royal-garden"
+title: "The Royal Garden"
 declared: "Königsgarten"
 license: CC-BY-NC-SA-4.0
 stamp:

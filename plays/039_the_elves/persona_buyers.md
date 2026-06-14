@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "buyers"
+title: "The Buyers"
 declared: "Käufer"
 license: CC-BY-NC-SA-4.0
 stamp:

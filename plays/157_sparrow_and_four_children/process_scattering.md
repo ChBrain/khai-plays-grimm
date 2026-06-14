@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "scattering"
+title: "Scattering"
 declared: "die Zerstreuung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "golden_fish"
+title: "Golden Fish"
 declared: "Der goldene Fisch"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "buried"
+title: "The Buried"
 declared: "Grabgefangener"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "giants_hill"
+title: "The Giants Hill"
 declared: "der Riesenberg"
 license: CC-BY-NC-SA-4.0
 stamp:

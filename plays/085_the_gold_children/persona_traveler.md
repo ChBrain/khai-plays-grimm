@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "traveler"
+title: "The Traveler"
 declared: "das Wanderkind"
 license: CC-BY-NC-SA-4.0
 stamp:

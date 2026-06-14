@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "rich_house"
+title: "The Rich House"
 declared: "das Haus des reichen Bruders"
 license: CC-BY-NC-SA-4.0
 stamp:

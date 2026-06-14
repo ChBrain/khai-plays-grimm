@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "dancing"
+title: "Dancing"
 declared: "das geheime Tanzen"
 license: CC-BY-NC-SA-4.0
 stamp:

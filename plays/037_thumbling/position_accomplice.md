@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "accomplice"
+title: "The Accomplice"
 declared: "Komplize"
 license: CC-BY-NC-SA-4.0
 stamp:

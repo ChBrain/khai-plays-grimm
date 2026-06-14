@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "golden_road"
+title: "Golden Road"
 declared: "Die goldene Straße"
 license: CC-BY-NC-SA-4.0
 stamp:

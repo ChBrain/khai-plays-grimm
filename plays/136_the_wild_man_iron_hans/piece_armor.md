@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "armor"
+title: "The Armor"
 declared: "magische Rüstung"
 license: CC-BY-NC-SA-4.0
 stamp:

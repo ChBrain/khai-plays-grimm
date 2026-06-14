@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "coffin"
+title: "The Coffin"
 declared: "Glassarg"
 license: CC-BY-NC-SA-4.0
 stamp:

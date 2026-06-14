@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "boast"
+title: "Boast"
 declared: "Der Auftakt der Aufschneiderei"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "handkerchief"
+title: "The Handkerchief"
 declared: "das weiße Tuch"
 license: CC-BY-NC-SA-4.0
 stamp:

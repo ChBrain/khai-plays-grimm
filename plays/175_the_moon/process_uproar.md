@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "uproar"
+title: "Uproar"
 declared: "der Aufruhr"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "heroism"
+title: "Heroism"
 declared: "Heldentum"
 license: CC-BY-NC-SA-4.0
 stamp:

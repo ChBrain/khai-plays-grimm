@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_mouse-tragedy"
+title: "Mouse Tragedy"
 declared: "Der Tod der Maus"
 license: CC-BY-NC-SA-4.0
 stamp:

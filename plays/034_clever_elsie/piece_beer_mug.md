@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "beer_mug"
+title: "The Beer Mug"
 declared: "Bierkanne"
 license: CC-BY-NC-SA-4.0
 stamp:

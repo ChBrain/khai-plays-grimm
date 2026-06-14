@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "horn"
+title: "The Horn"
 declared: "Hörnlein"
 license: CC-BY-NC-SA-4.0
 stamp:

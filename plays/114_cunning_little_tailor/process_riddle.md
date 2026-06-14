@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "riddle"
+title: "Riddle"
 declared: "das Raten"
 license: CC-BY-NC-SA-4.0
 stamp:

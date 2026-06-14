@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_donkey"
+title: "The Donkey"
 declared: "die Verwandlung"
 license: CC-BY-NC-SA-4.0
 stamp:

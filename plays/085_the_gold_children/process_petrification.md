@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "petrification"
+title: "Petrification"
 declared: "die Versteinerung"
 license: CC-BY-NC-SA-4.0
 stamp:

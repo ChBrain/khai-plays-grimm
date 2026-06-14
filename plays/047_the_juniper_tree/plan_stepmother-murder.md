@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "stepmother-murder"
+title: "Stepmother Murder"
 declared: "der Mord an der Apfeltruhe"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "ascent"
+title: "Ascent"
 declared: "der Aufstieg"
 license: CC-BY-NC-SA-4.0
 stamp:

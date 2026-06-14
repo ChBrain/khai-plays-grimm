@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "conrad"
+title: "The Conrad"
 declared: "Konrad"
 license: CC-BY-NC-SA-4.0
 stamp:

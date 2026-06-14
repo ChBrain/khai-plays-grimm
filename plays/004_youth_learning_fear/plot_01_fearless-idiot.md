@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_fearless-idiot"
+title: "Fearless Idiot"
 declared: "Der unerschrockene Dummling"
 license: CC-BY-NC-SA-4.0
 stamp:

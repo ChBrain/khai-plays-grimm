@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "second_king"
+title: "The Second King"
 declared: "der zweite König"
 license: CC-BY-NC-SA-4.0
 stamp:

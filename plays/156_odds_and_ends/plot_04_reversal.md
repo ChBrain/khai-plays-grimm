@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "reversal"
+title: "Reversal"
 declared: "Die Wende"
 license: CC-BY-NC-SA-4.0
 stamp:

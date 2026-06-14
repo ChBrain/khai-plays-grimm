@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "cunning_little_tailor"
+title: "Cunning Little Tailor"
 declared: "die List"
 license: CC-BY-NC-SA-4.0
 stamp:

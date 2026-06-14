@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_flies-and-belt"
+title: "Flies and Belt"
 declared: "Sieben auf einen Streich"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "stove_bench"
+title: "The Stove Bench"
 declared: "Ofenbank"
 license: CC-BY-NC-SA-4.0
 stamp:

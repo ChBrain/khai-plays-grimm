@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "bed"
+title: "The Bed"
 declared: "Bett"
 license: CC-BY-NC-SA-4.0
 stamp:

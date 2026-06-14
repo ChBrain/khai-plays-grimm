@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "spinners"
+title: "The Spinners"
 declared: "Spinnerinnen"
 license: CC-BY-NC-SA-4.0
 stamp:

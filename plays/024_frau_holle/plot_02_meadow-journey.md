@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_meadow-journey"
+title: "Meadow Journey"
 declared: "Die Wiesenwanderung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "monkey"
+title: "Monkey"
 declared: "Die Bitte des Affen"
 license: CC-BY-NC-SA-4.0
 stamp:

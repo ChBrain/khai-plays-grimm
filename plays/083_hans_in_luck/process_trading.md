@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "trading"
+title: "Trading"
 declared: "die Tauscherei"
 license: CC-BY-NC-SA-4.0
 stamp:

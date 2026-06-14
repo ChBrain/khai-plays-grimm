@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "cure"
+title: "Cure"
 declared: "Die Heilung durch Hans"
 license: CC-BY-NC-SA-4.0
 stamp:

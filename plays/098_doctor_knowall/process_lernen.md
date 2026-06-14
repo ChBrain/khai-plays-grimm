@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "lernen"
+title: "Lernen"
 declared: "das Lernen"
 license: CC-BY-NC-SA-4.0
 stamp:

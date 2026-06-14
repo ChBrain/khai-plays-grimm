@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "treetop"
+title: "The Treetop"
 declared: "die Baumkrone"
 license: CC-BY-NC-SA-4.0
 stamp:

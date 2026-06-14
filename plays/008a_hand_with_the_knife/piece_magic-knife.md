@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "magic-knife"
+title: "The Magic Knife"
 declared: "Zaubermesser"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "expulsion"
+title: "Expulsion"
 declared: "Nach dem Paradies"
 license: CC-BY-NC-SA-4.0
 stamp:

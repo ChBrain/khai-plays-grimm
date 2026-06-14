@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "goat"
+title: "The Goat"
 declared: "der fette Ziegenbock"
 license: CC-BY-NC-SA-4.0
 stamp:

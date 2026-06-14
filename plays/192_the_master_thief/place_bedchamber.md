@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "bedchamber"
+title: "The Bedchamber"
 declared: "das Schlafgemach"
 license: CC-BY-NC-SA-4.0
 stamp:

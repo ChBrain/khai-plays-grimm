@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "scraping"
+title: "Scraping"
 declared: "das Schaben"
 license: CC-BY-NC-SA-4.0
 stamp:

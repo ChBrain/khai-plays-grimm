@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "farthings"
+title: "The Farthings"
 declared: "die acht Heller"
 license: CC-BY-NC-SA-4.0
 stamp:

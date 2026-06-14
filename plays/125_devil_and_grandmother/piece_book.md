@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "book"
+title: "The Book"
 declared: "das Vertragsbuch"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_glass_coffin"
+title: "The Glass Coffin"
 declared: "die Erlösung"
 license: CC-BY-NC-SA-4.0
 stamp:

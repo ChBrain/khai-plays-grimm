@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "oxman"
+title: "The Oxman"
 declared: "der Bauer mit den Ochsen"
 license: CC-BY-NC-SA-4.0
 stamp:

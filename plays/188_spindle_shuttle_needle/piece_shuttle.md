@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "shuttle"
+title: "The Shuttle"
 declared: "das Weberschiffchen"
 license: CC-BY-NC-SA-4.0
 stamp:

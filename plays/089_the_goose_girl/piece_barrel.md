@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "barrel"
+title: "The Barrel"
 declared: "das Nagelfass"
 license: CC-BY-NC-SA-4.0
 stamp:

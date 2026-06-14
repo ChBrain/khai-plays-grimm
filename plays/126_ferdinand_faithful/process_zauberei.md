@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "zauberei"
+title: "Zauberei"
 declared: "die Zauberei"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "altar"
+title: "The Altar"
 declared: "der Altar"
 license: CC-BY-NC-SA-4.0
 stamp:

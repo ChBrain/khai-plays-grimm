@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "island"
+title: "The Island"
 declared: "Insel"
 license: CC-BY-NC-SA-4.0
 stamp:

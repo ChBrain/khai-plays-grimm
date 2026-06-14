@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "beheading"
+title: "Beheading"
 declared: "die Enthauptung"
 license: CC-BY-NC-SA-4.0
 stamp:

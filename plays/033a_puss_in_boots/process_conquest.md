@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "conquest"
+title: "Conquest"
 declared: "die Eroberung"
 license: CC-BY-NC-SA-4.0
 stamp:

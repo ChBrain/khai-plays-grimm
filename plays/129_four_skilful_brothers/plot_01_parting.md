@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "parting"
+title: "Parting"
 declared: "Der Ausgang am Kreuzweg"
 license: CC-BY-NC-SA-4.0
 stamp:

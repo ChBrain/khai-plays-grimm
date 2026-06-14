@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "thief"
+title: "The Thief"
 declared: "Diebin"
 license: CC-BY-NC-SA-4.0
 stamp:

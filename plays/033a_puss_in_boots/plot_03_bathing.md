@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_bathing"
+title: "Bathing"
 declared: "Das Bad im Fluss"
 license: CC-BY-NC-SA-4.0
 stamp:

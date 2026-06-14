@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "blooming"
+title: "Blooming"
 declared: "das Aufblühen"
 license: CC-BY-NC-SA-4.0
 stamp:

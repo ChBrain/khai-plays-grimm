@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "treasure"
+title: "The Treasure"
 declared: "der Schatz"
 license: CC-BY-NC-SA-4.0
 stamp:

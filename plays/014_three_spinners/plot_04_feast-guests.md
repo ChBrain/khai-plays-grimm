@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_feast-guests"
+title: "Feast Guests"
 declared: "Die Hochzeitsgäste"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "room"
+title: "The Room"
 declared: "die Stube"
 license: CC-BY-NC-SA-4.0
 stamp:

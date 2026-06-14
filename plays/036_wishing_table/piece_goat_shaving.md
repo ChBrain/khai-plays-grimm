@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "goat_shaving"
+title: "The Goat Shaving"
 declared: "Ziegenrasur"
 license: CC-BY-NC-SA-4.0
 stamp:

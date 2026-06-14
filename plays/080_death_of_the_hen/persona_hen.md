@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "hen"
+title: "The Hen"
 declared: "das Hühnchen"
 license: CC-BY-NC-SA-4.0
 stamp:

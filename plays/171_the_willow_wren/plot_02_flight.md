@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "flight"
+title: "Flight"
 declared: "Der Wettflug"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "animals"
+title: "Animals"
 declared: "Die Schonung der Tiere"
 license: CC-BY-NC-SA-4.0
 stamp:

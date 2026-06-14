@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "flounder"
+title: "The Flounder"
 declared: "Butt"
 license: CC-BY-NC-SA-4.0
 stamp:

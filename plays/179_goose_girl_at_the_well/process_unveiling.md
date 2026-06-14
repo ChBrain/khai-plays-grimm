@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "unveiling"
+title: "Unveiling"
 declared: "das Entschleiern am Brunnen"
 license: CC-BY-NC-SA-4.0
 stamp:

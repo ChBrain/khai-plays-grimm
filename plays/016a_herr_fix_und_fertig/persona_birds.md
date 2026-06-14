@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "birds"
+title: "The Birds"
 declared: "Vögel des Waldes"
 license: CC-BY-NC-SA-4.0
 stamp:

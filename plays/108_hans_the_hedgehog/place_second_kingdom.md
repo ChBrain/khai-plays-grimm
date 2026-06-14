@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "second_kingdom"
+title: "The Second Kingdom"
 declared: "das zweite Königreich"
 license: CC-BY-NC-SA-4.0
 stamp:

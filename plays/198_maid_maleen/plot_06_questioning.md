@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "questioning"
+title: "Questioning"
 declared: "Das Verhör um die Wegzeichen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "moon_house"
+title: "The Moon House"
 declared: "das Haus des Mondes"
 license: CC-BY-NC-SA-4.0
 stamp:

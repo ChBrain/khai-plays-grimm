@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "mockery"
+title: "Mockery"
 declared: "Der Spott am Kohlbeet"
 license: CC-BY-NC-SA-4.0
 stamp:

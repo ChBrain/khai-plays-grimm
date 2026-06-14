@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "hildebrand"
+title: "The Hildebrand"
 declared: "der Bauer Hildebrand"
 license: CC-BY-NC-SA-4.0
 stamp:

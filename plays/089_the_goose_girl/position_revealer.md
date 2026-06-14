@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "revealer"
+title: "The Revealer"
 declared: "der enthüllende Herrscher"
 license: CC-BY-NC-SA-4.0
 stamp:

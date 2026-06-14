@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "theft"
+title: "Theft"
 declared: "Haardiebstahl"
 license: CC-BY-NC-SA-4.0
 stamp:

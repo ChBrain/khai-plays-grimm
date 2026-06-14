@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "burden"
+title: "Burden"
 declared: "Die schwere Bürde"
 license: CC-BY-NC-SA-4.0
 stamp:

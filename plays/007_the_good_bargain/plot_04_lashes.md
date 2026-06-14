@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_lashes"
+title: "Lashes"
 declared: "Der geteilte Lohn"
 license: CC-BY-NC-SA-4.0
 stamp:

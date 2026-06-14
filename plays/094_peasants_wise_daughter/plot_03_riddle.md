@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "riddle"
+title: "Riddle"
 declared: "Das Rätsel des Königs"
 license: CC-BY-NC-SA-4.0
 stamp:

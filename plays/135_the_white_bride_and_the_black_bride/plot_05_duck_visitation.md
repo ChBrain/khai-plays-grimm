@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_duck_visitation"
+title: "Duck Visitation"
 declared: "Die weiße Ente in der Küche"
 license: CC-BY-NC-SA-4.0
 stamp:

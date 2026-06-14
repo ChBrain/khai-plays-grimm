@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "find_key"
+title: "Find Key"
 declared: "Der Fund des Schlüssels"
 license: CC-BY-NC-SA-4.0
 stamp:

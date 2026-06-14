@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "lords"
+title: "The Lords"
 declared: "die beiden Schlossherren"
 license: CC-BY-NC-SA-4.0
 stamp:

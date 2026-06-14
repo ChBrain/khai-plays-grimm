@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "tester"
+title: "The Tester"
 declared: "der Prüfer"
 license: CC-BY-NC-SA-4.0
 stamp:

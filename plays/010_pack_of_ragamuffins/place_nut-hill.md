@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "nut-hill"
+title: "The Nut Hill"
 declared: "Nußberg"
 license: CC-BY-NC-SA-4.0
 stamp:

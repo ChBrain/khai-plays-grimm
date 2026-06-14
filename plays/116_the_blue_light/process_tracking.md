@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "tracking"
+title: "Tracking"
 declared: "die Verfolgung"
 license: CC-BY-NC-SA-4.0
 stamp:

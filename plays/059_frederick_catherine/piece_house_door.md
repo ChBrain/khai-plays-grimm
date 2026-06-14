@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "house_door"
+title: "The House Door"
 declared: "Hausleiter"
 license: CC-BY-NC-SA-4.0
 stamp:

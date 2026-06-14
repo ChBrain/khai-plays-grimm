@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "faultfinder"
+title: "The Faultfinder"
 declared: "der Tadler"
 license: CC-BY-NC-SA-4.0
 stamp:

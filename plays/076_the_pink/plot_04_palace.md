@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "palace"
+title: "Palace"
 declared: "Das Zauberschloss und die Jungfrau"
 license: CC-BY-NC-SA-4.0
 stamp:

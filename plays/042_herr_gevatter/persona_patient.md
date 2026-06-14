@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "patient"
+title: "The Patient"
 declared: "Kranker"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "breakthrough"
+title: "Breakthrough"
 declared: "der Durchbruch"
 license: CC-BY-NC-SA-4.0
 stamp:

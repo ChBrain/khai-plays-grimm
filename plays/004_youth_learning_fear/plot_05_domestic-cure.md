@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_domestic-cure"
+title: "Domestic Cure"
 declared: "Das Bad im Bett"
 license: CC-BY-NC-SA-4.0
 stamp:

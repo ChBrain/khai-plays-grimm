@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "sinner"
+title: "The Sinner"
 declared: "der Verurteilte"
 license: CC-BY-NC-SA-4.0
 stamp:

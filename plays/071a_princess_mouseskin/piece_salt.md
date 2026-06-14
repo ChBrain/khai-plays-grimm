@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "salt"
+title: "The Salt"
 declared: "das Salz"
 license: CC-BY-NC-SA-4.0
 stamp:

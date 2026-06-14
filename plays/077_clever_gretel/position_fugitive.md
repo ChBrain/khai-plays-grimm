@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "fugitive"
+title: "The Fugitive"
 declared: "der Flüchtling"
 license: CC-BY-NC-SA-4.0
 stamp:

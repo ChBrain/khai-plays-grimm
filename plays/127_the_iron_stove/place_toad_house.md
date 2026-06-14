@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "toad_house"
+title: "The Toad House"
 declared: "das Krötenhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

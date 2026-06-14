@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "gnome"
+title: "The Gnome"
 declared: "das Erdmänneken"
 license: CC-BY-NC-SA-4.0
 stamp:

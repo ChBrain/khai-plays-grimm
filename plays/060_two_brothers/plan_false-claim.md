@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "false-claim"
+title: "False Claim"
 declared: "der erschlichene Drachenruhm"
 license: CC-BY-NC-SA-4.0
 stamp:

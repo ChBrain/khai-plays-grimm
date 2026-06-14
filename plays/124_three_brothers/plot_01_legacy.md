@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "legacy"
+title: "Legacy"
 declared: "Das Vermächtnis"
 license: CC-BY-NC-SA-4.0
 stamp:

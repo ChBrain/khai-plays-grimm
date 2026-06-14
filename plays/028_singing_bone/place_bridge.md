@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "bridge"
+title: "The Bridge"
 declared: "Brücke"
 license: CC-BY-NC-SA-4.0
 stamp:

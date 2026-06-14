@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "angels"
+title: "The Angels"
 declared: "die Engel"
 license: CC-BY-NC-SA-4.0
 stamp:

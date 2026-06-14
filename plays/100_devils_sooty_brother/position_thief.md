@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "thief"
+title: "The Thief"
 declared: "der Dieb"
 license: CC-BY-NC-SA-4.0
 stamp:

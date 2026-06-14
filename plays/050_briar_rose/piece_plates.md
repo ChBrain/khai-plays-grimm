@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "plates"
+title: "The Plates"
 declared: "Teller"
 license: CC-BY-NC-SA-4.0
 stamp:

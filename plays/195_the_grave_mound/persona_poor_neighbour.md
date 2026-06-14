@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "poor_neighbour"
+title: "The Poor Neighbour"
 declared: "der arme Nachbar"
 license: CC-BY-NC-SA-4.0
 stamp:

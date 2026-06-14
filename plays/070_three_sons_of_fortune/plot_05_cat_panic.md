@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "cat_panic"
+title: "Cat Panic"
 declared: "Die Katzenpanik und die Belagerung"
 license: CC-BY-NC-SA-4.0
 stamp:

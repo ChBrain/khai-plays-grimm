@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "doom"
+title: "Doom"
 declared: "das Verderben"
 license: CC-BY-NC-SA-4.0
 stamp:

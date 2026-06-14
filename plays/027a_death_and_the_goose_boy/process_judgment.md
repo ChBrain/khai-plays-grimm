@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "judgment"
+title: "Judgment"
 declared: "Gericht und Bestrafung"
 license: CC-BY-NC-SA-4.0
 stamp:

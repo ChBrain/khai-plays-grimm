@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "relapse"
+title: "Relapse"
 declared: "Der Rückfall"
 license: CC-BY-NC-SA-4.0
 stamp:

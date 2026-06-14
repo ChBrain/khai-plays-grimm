@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "deliverance"
+title: "Deliverance"
 declared: "Die Befreiung"
 license: CC-BY-NC-SA-4.0
 stamp:

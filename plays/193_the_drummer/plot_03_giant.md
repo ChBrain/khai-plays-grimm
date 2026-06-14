@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "giant"
+title: "Giant"
 declared: "Die List am schlafenden Riesen"
 license: CC-BY-NC-SA-4.0
 stamp:

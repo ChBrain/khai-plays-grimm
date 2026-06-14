@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "stepdaughter"
+title: "The Stepdaughter"
 declared: "weiße Braut"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_hunting"
+title: "Hunting"
 declared: "Die Jagd des Katers"
 license: CC-BY-NC-SA-4.0
 stamp:

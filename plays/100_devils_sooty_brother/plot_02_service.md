@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "service"
+title: "Service"
 declared: "Der Dienst in der Hölle"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_father_consent"
+title: "Father Consent"
 declared: "Vaters Einwilligung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_escape"
+title: "Escape"
 declared: "Die Krone und die Nacht"
 license: CC-BY-NC-SA-4.0
 stamp:

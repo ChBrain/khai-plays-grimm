@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "iron_hans"
+title: "The Iron Hans"
 declared: "Eisenhans"
 license: CC-BY-NC-SA-4.0
 stamp:

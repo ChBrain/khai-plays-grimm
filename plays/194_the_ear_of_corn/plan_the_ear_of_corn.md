@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_ear_of_corn"
+title: "The Ear of Corn"
 declared: "die Milderung"
 license: CC-BY-NC-SA-4.0
 stamp:

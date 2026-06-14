@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "stones"
+title: "The Stones"
 declared: "Steine"
 license: CC-BY-NC-SA-4.0
 stamp:

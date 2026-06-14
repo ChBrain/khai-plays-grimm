@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "window"
+title: "The Window"
 declared: "das Fenster"
 license: CC-BY-NC-SA-4.0
 stamp:

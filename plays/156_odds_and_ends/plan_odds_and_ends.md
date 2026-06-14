@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "odds_and_ends"
+title: "Odds and Ends"
 declared: "die Aufwertung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "flute"
+title: "Flute"
 declared: "Die Flöte und der Aufstieg"
 license: CC-BY-NC-SA-4.0
 stamp:

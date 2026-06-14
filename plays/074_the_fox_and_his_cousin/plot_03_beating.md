@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "beating"
+title: "Beating"
 declared: "Die Züchtigung der Wölfin"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_hazel_branch"
+title: "The Hazel Branch"
 declared: "der Schutz durch die Hasel"
 license: CC-BY-NC-SA-4.0
 stamp:

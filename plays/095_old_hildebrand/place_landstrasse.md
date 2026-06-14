@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "landstrasse"
+title: "Landstrasse"
 declared: "die Landstraße"
 license: CC-BY-NC-SA-4.0
 stamp:

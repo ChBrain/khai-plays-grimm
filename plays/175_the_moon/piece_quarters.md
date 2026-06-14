@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "quarters"
+title: "The Quarters"
 declared: "die vier Viertel"
 license: CC-BY-NC-SA-4.0
 stamp:

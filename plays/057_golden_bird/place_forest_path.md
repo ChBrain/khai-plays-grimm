@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "forest_path"
+title: "The Forest Path"
 declared: "Waldweg"
 license: CC-BY-NC-SA-4.0
 stamp:

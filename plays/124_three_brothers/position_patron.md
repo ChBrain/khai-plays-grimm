@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "patron"
+title: "The Patron"
 declared: "der Stifter"
 license: CC-BY-NC-SA-4.0
 stamp:

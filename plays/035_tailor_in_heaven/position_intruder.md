@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "intruder"
+title: "The Intruder"
 declared: "Eindringling"
 license: CC-BY-NC-SA-4.0
 stamp:

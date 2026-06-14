@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "dispute"
+title: "Dispute"
 declared: "Der Streit um die Milch"
 license: CC-BY-NC-SA-4.0
 stamp:

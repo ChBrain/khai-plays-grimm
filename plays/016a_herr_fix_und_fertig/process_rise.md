@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "rise"
+title: "Rise"
 declared: "Aufstieg"
 license: CC-BY-NC-SA-4.0
 stamp:

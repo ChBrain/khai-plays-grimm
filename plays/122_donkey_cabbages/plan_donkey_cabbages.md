@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "donkey_cabbages"
+title: "Donkey Cabbages"
 declared: "die Vergeltung und Versöhnung"
 license: CC-BY-NC-SA-4.0
 stamp:

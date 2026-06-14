@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "afflicted"
+title: "The Afflicted"
 declared: "der Gebrechliche"
 license: CC-BY-NC-SA-4.0
 stamp:

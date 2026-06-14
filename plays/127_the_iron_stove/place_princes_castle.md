@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "princes_castle"
+title: "The Princes Castle"
 declared: "das Prinzenschloss"
 license: CC-BY-NC-SA-4.0
 stamp:

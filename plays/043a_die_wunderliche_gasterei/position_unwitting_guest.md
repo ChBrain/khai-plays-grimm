@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "unwitting-guest"
+title: "The Unwitting Guest"
 declared: "der ahnungslose Gast"
 license: CC-BY-NC-SA-4.0
 stamp:

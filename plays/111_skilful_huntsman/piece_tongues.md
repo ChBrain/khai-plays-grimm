@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "tongues"
+title: "The Tongues"
 declared: "die Riesenzungen"
 license: CC-BY-NC-SA-4.0
 stamp:

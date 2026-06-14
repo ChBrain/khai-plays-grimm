@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "landlord"
+title: "The Landlord"
 declared: "der Wirt"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "pfand"
+title: "Pfand"
 declared: "Das Pfand"
 license: CC-BY-NC-SA-4.0
 stamp:

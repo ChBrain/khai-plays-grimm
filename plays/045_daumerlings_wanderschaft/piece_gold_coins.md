@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "gold_coins"
+title: "The Gold Coins"
 declared: "Goldmünzen"
 license: CC-BY-NC-SA-4.0
 stamp:

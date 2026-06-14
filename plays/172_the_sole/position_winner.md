@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "winner"
+title: "The Winner"
 declared: "der Sieger"
 license: CC-BY-NC-SA-4.0
 stamp:

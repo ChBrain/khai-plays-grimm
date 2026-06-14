@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "blinding"
+title: "Blinding"
 declared: "die Blendung"
 license: CC-BY-NC-SA-4.0
 stamp:

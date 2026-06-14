@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "obedient"
+title: "The Obedient"
 declared: "die Gehorsame"
 license: CC-BY-NC-SA-4.0
 stamp:

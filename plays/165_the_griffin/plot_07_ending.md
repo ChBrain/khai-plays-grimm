@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "ending"
+title: "Ending"
 declared: "Heimkehr und Untergang"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "mouse"
+title: "The Mouse"
 declared: "Mäuschen"
 license: CC-BY-NC-SA-4.0
 stamp:

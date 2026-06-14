@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "wundertun"
+title: "Wundertun"
 declared: "das Wundertun"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "rute"
+title: "The Rute"
 declared: "die Rute"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "gate"
+title: "The Gate"
 declared: "das Stadttor"
 license: CC-BY-NC-SA-4.0
 stamp:

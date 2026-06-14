@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "06_flight_defense"
+title: "Flight Defense"
 declared: "Die Flucht und Abwehr"
 license: CC-BY-NC-SA-4.0
 stamp:

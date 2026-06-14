@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "ravine"
+title: "The Ravine"
 declared: "die Schlucht"
 license: CC-BY-NC-SA-4.0
 stamp:

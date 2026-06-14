@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "church_of_dead"
+title: "Church of Dead"
 declared: "Die Kirche der Toten"
 license: CC-BY-NC-SA-4.0
 stamp:

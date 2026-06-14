@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "wishing-hero"
+title: "The Wishing Hero"
 declared: "der wünschende Held"
 license: CC-BY-NC-SA-4.0
 stamp:

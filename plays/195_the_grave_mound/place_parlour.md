@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "parlour"
+title: "The Parlour"
 declared: "die Stube"
 license: CC-BY-NC-SA-4.0
 stamp:

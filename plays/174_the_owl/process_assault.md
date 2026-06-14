@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "assault"
+title: "Assault"
 declared: "der Sturmangriff"
 license: CC-BY-NC-SA-4.0
 stamp:

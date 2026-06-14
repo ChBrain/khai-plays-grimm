@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "spring"
+title: "The Spring"
 declared: "Brünnchen"
 license: CC-BY-NC-SA-4.0
 stamp:

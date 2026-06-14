@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "taboo"
+title: "Taboo"
 declared: "Kammerverbot"
 license: CC-BY-NC-SA-4.0
 stamp:

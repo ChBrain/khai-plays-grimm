@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "luring"
+title: "The Luring"
 declared: "die Lockende"
 license: CC-BY-NC-SA-4.0
 stamp:

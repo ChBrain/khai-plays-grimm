@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "cart"
+title: "The Cart"
 declared: "der Wagen"
 license: CC-BY-NC-SA-4.0
 stamp:

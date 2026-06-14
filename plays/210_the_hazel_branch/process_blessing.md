@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "blessing"
+title: "Blessing"
 declared: "der Segen"
 license: CC-BY-NC-SA-4.0
 stamp:

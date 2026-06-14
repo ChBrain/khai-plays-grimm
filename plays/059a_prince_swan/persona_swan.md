@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "swan"
+title: "The Swan"
 declared: "Prinz Schwan"
 license: CC-BY-NC-SA-4.0
 stamp:

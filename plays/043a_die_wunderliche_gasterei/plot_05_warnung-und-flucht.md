@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_warnung-und-flucht"
+title: "Warnung Und Flucht"
 declared: "Die Warnung und die Flucht"
 license: CC-BY-NC-SA-4.0
 stamp:

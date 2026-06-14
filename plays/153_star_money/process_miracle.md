@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "miracle"
+title: "Miracle"
 declared: "das himmlische Wunder"
 license: CC-BY-NC-SA-4.0
 stamp:

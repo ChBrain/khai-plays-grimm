@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "gluecksritter"
+title: "Gluecksritter"
 declared: "der Glücksritter"
 license: CC-BY-NC-SA-4.0
 stamp:

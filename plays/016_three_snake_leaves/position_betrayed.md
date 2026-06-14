@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "betrayed"
+title: "The Betrayed"
 declared: "Verratener"
 license: CC-BY-NC-SA-4.0
 stamp:

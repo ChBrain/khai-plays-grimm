@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "wind"
+title: "Wind"
 declared: "der Windzauber"
 license: CC-BY-NC-SA-4.0
 stamp:

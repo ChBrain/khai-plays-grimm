@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "gambling_hansel"
+title: "Gambling Hansel"
 declared: "das große Spiel"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "kindesraub"
+title: "Kindesraub"
 declared: "der Kindesraub"
 license: CC-BY-NC-SA-4.0
 stamp:

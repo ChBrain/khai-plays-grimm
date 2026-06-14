@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "poverty_and_humility"
+title: "Poverty and Humility"
 declared: "der Weg zum Himmel"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "first_trick"
+title: "First Trick"
 declared: "Die erste List"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "tasks"
+title: "Tasks"
 declared: "Die drei Aufgaben der Hexe"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "curse-breaking"
+title: "Curse Breaking"
 declared: "Flucherlösung"
 license: CC-BY-NC-SA-4.0
 stamp:

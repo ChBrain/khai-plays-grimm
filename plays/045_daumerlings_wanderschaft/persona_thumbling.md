@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "thumbling"
+title: "The Thumbling"
 declared: "Däumling"
 license: CC-BY-NC-SA-4.0
 stamp:

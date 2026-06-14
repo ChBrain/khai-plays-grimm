@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "lustig"
+title: "The Lustig"
 declared: "Bruder Lustig"
 license: CC-BY-NC-SA-4.0
 stamp:

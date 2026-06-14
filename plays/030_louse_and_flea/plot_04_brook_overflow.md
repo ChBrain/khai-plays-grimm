@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_brook_overflow"
+title: "Brook Overflow"
 declared: "Das Brünnchen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "knoist_and_his_sons"
+title: "Knoist and His Sons"
 declared: "die Ausfahrt"
 license: CC-BY-NC-SA-4.0
 stamp:

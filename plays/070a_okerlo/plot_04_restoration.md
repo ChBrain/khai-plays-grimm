@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_restoration"
+title: "Restoration"
 declared: "Der Rosenstock und die Fee"
 license: CC-BY-NC-SA-4.0
 stamp:

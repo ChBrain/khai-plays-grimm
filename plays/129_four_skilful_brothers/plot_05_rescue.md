@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "rescue"
+title: "Rescue"
 declared: "Die Rettung auf dem Meer"
 license: CC-BY-NC-SA-4.0
 stamp:

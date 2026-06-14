@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "lying"
+title: "Lying"
 declared: "das Lügen"
 license: CC-BY-NC-SA-4.0
 stamp:

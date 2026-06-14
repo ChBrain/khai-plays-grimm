@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "scythe"
+title: "The Scythe"
 declared: "die Sense"
 license: CC-BY-NC-SA-4.0
 stamp:

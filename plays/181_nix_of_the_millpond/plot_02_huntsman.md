@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "huntsman"
+title: "Huntsman"
 declared: "Der Sohn wird Jäger"
 license: CC-BY-NC-SA-4.0
 stamp:

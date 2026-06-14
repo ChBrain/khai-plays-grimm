@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "weapons"
+title: "The Weapons"
 declared: "die Waffen"
 license: CC-BY-NC-SA-4.0
 stamp:

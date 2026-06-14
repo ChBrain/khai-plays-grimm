@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "rival"
+title: "The Rival"
 declared: "die Rivalin"
 license: CC-BY-NC-SA-4.0
 stamp:

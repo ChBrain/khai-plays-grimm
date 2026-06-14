@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "eggs"
+title: "The Eggs"
 declared: "die fünf Eier"
 license: CC-BY-NC-SA-4.0
 stamp:

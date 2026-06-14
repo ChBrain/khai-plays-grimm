@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "charcoal_exchanges"
+title: "Charcoal Exchanges"
 declared: "Die Tauschgeschäfte"
 license: CC-BY-NC-SA-4.0
 stamp:

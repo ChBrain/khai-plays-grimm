@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "rain"
+title: "Rain"
 declared: "Der trockene Fechtmeister"
 license: CC-BY-NC-SA-4.0
 stamp:

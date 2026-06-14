@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "red_cap"
+title: "The Red Cap"
 declared: "Rotkäppchen"
 license: CC-BY-NC-SA-4.0
 stamp:

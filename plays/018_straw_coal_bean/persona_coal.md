@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "coal"
+title: "The Coal"
 declared: "Kohle"
 license: CC-BY-NC-SA-4.0
 stamp:

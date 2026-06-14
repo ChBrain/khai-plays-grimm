@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "substitution"
+title: "Substitution"
 declared: "Die Stellvertretung vor der Kirche"
 license: CC-BY-NC-SA-4.0
 stamp:

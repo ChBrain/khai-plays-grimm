@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "pike"
+title: "The Pike"
 declared: "der Hecht"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "renewal"
+title: "Renewal"
 declared: "Das Verjüngungswunder"
 license: CC-BY-NC-SA-4.0
 stamp:

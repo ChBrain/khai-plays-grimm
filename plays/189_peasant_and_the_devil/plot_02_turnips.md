@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "turnips"
+title: "Turnips"
 declared: "Die List der Rüben"
 license: CC-BY-NC-SA-4.0
 stamp:

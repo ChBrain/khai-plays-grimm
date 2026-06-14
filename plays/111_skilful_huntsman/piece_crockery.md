@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "crockery"
+title: "The Crockery"
 declared: "das zerschlagene Geschirr"
 license: CC-BY-NC-SA-4.0
 stamp:

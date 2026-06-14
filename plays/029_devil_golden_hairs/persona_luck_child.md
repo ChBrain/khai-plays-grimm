@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "luck_child"
+title: "The Luck Child"
 declared: "Glückskind"
 license: CC-BY-NC-SA-4.0
 stamp:

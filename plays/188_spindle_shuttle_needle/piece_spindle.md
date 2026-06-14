@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "spindle"
+title: "The Spindle"
 declared: "die Spindel"
 license: CC-BY-NC-SA-4.0
 stamp:

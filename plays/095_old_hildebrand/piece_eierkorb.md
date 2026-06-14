@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "eierkorb"
+title: "The Eierkorb"
 declared: "der Eierkorb"
 license: CC-BY-NC-SA-4.0
 stamp:

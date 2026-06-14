@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "hare"
+title: "Hare"
 declared: "Der laufende Hase"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "drowning"
+title: "Drowning"
 declared: "Das Versinken"
 license: CC-BY-NC-SA-4.0
 stamp:

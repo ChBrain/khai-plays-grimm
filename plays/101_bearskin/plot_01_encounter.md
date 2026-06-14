@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "encounter"
+title: "Encounter"
 declared: "Die Begegnung auf der Heide"
 license: CC-BY-NC-SA-4.0
 stamp:

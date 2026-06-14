@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "petrus"
+title: "The Petrus"
 declared: "der heilige Petrus"
 license: CC-BY-NC-SA-4.0
 stamp:

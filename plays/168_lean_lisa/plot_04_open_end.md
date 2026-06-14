@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "open_end"
+title: "Open End"
 declared: "Der offene Schluss"
 license: CC-BY-NC-SA-4.0
 stamp:

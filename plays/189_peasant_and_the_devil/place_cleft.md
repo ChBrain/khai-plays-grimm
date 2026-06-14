@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "cleft"
+title: "The Cleft"
 declared: "die Felsspalte"
 license: CC-BY-NC-SA-4.0
 stamp:

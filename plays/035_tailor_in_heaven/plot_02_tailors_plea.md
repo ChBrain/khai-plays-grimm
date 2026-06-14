@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "tailors_plea"
+title: "Tailors Plea"
 declared: "Die Bitte des Schneiders"
 license: CC-BY-NC-SA-4.0
 stamp:

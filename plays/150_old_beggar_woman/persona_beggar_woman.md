@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "beggar_woman"
+title: "The Beggar Woman"
 declared: "die Bettelfrau"
 license: CC-BY-NC-SA-4.0
 stamp:

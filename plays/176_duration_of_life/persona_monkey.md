@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "monkey"
+title: "The Monkey"
 declared: "der Affe"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_gardener"
+title: "Gardener"
 declared: "Der Gärtnergehilfe im Schloss"
 license: CC-BY-NC-SA-4.0
 stamp:

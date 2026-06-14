@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "flowers"
+title: "The Flowers"
 declared: "die drei Blumen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "covetous"
+title: "The Covetous"
 declared: "der Habgierige"
 license: CC-BY-NC-SA-4.0
 stamp:

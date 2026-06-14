@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "endless"
+title: "Endless"
 declared: "Das endlose Gebet"
 license: CC-BY-NC-SA-4.0
 stamp:

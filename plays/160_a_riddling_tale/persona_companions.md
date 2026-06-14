@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "companions"
+title: "The Companions"
 declared: "die Gefährtinnen"
 license: CC-BY-NC-SA-4.0
 stamp:

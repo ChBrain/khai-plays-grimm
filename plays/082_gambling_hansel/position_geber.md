@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "geber"
+title: "The Geber"
 declared: "der gnädige Geber"
 license: CC-BY-NC-SA-4.0
 stamp:

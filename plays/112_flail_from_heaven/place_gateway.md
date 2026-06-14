@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "gateway"
+title: "The Gateway"
 declared: "der Weg am Tor"
 license: CC-BY-NC-SA-4.0
 stamp:

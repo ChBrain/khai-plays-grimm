@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "believer"
+title: "The Believer"
 declared: "der Gläubige"
 license: CC-BY-NC-SA-4.0
 stamp:

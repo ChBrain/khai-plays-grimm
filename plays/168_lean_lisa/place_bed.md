@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "bed"
+title: "The Bed"
 declared: "das Bett"
 license: CC-BY-NC-SA-4.0
 stamp:

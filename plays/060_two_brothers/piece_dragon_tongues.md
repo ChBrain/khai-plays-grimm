@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "dragon_tongues"
+title: "The Dragon Tongues"
 declared: "Drachenzungen"
 license: CC-BY-NC-SA-4.0
 stamp:

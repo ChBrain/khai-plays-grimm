@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "tall_man"
+title: "The Tall Man"
 declared: "der lange Mann"
 license: CC-BY-NC-SA-4.0
 stamp:

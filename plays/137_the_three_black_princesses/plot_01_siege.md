@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_siege"
+title: "Siege"
 declared: "Die Belagerung von Ostindien"
 license: CC-BY-NC-SA-4.0
 stamp:

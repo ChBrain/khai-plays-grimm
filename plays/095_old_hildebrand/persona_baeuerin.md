@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "baeuerin"
+title: "The Baeuerin"
 declared: "die Bäuerin"
 license: CC-BY-NC-SA-4.0
 stamp:

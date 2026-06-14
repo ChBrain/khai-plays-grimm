@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_recruitment"
+title: "Recruitment"
 declared: "Die Gewinnung der Diener"
 license: CC-BY-NC-SA-4.0
 stamp:

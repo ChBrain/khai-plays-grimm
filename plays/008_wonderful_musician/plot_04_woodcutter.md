@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_woodcutter"
+title: "Woodcutter"
 declared: "Der treue Holzhauer"
 license: CC-BY-NC-SA-4.0
 stamp:

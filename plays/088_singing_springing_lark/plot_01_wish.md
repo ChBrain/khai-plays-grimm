@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "wish"
+title: "Wish"
 declared: "Der Wunsch nach der Lerche"
 license: CC-BY-NC-SA-4.0
 stamp:

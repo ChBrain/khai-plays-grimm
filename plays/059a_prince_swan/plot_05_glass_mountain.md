@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_glass_mountain"
+title: "Glass Mountain"
 declared: "Die Ungeheuer und die Bestechung"
 license: CC-BY-NC-SA-4.0
 stamp:

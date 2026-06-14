@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_lost-in-forest"
+title: "Lost in Forest"
 declared: "Die Krümel und die Vögel"
 license: CC-BY-NC-SA-4.0
 stamp:

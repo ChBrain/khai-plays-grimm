@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "guardian"
+title: "The Guardian"
 declared: "Wächter"
 license: CC-BY-NC-SA-4.0
 stamp:

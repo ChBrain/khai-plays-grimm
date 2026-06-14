@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "goeckerliberg"
+title: "Goeckerliberg"
 declared: "der Göckerliberg"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "uncle"
+title: "The Uncle"
 declared: "der Oheim"
 license: CC-BY-NC-SA-4.0
 stamp:

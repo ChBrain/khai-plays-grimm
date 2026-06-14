@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "seven_swabians"
+title: "Seven Swabians"
 declared: "das gemeinsame Vorgehen"
 license: CC-BY-NC-SA-4.0
 stamp:

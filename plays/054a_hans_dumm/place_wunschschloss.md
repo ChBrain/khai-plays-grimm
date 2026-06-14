@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "wunschschloss"
+title: "The Wunschschloss"
 declared: "Schloß des Wünschers"
 license: CC-BY-NC-SA-4.0
 stamp:

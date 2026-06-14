@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "begging"
+title: "Begging"
 declared: "Die Jahre des Bettelns"
 license: CC-BY-NC-SA-4.0
 stamp:

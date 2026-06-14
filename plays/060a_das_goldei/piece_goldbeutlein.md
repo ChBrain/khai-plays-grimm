@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "goldbeutlein"
+title: "Goldbeutlein"
 declared: "Goldbeutlein"
 license: CC-BY-NC-SA-4.0
 stamp:

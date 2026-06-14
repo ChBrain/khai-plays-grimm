@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "disobedience"
+title: "Disobedience"
 declared: "der Ungehorsam"
 license: CC-BY-NC-SA-4.0
 stamp:

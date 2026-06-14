@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "king_golden_mountain"
+title: "King Golden Mountain"
 declared: "die Rückeroberung"
 license: CC-BY-NC-SA-4.0
 stamp:

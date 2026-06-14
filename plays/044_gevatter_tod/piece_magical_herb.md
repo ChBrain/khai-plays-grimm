@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "magical_herb"
+title: "The Magical Herb"
 declared: "Zauberkraut"
 license: CC-BY-NC-SA-4.0
 stamp:

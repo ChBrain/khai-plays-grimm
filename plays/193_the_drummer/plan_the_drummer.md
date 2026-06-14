@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_drummer"
+title: "The Drummer"
 declared: "die Befreiung"
 license: CC-BY-NC-SA-4.0
 stamp:

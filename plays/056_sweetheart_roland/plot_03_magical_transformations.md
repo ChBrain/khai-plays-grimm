@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "magical_transformations"
+title: "Magical Transformations"
 declared: "Die magischen Verwandlungen"
 license: CC-BY-NC-SA-4.0
 stamp:

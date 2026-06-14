@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "brothers-rescue"
+title: "Brothers Rescue"
 declared: "die Erlösung der sieben Brüder"
 license: CC-BY-NC-SA-4.0
 stamp:

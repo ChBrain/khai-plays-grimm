@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "getreuer"
+title: "The Getreuer"
 declared: "der Getreue"
 license: CC-BY-NC-SA-4.0
 stamp:

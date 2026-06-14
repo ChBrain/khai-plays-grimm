@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "prison"
+title: "Prison"
 declared: "Der Vater im Gefängnis"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "children-flight"
+title: "Children Flight"
 declared: "die Flucht der Kinder"
 license: CC-BY-NC-SA-4.0
 stamp:

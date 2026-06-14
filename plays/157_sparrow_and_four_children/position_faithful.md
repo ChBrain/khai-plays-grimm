@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "faithful"
+title: "The Faithful"
 declared: "der Gottvertrauende"
 license: CC-BY-NC-SA-4.0
 stamp:

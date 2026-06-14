@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "house"
+title: "House"
 declared: "Das Haus der Räuber"
 license: CC-BY-NC-SA-4.0
 stamp:

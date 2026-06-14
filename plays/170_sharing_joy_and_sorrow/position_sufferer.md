@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "sufferer"
+title: "The Sufferer"
 declared: "die Dulderin"
 license: CC-BY-NC-SA-4.0
 stamp:

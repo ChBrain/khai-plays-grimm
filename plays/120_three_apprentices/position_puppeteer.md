@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "puppeteer"
+title: "The Puppeteer"
 declared: "der Strippenzieher"
 license: CC-BY-NC-SA-4.0
 stamp:

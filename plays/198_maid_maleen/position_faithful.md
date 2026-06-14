@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "faithful"
+title: "The Faithful"
 declared: "die Treue"
 license: CC-BY-NC-SA-4.0
 stamp:

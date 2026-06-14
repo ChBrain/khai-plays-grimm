@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "flower"
+title: "The Flower"
 declared: "Wunderblume"
 license: CC-BY-NC-SA-4.0
 stamp:

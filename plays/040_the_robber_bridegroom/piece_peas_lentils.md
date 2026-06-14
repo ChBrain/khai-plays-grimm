@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "peas_lentils"
+title: "The Peas Lentils"
 declared: "Erbsen und Linsen"
 license: CC-BY-NC-SA-4.0
 stamp:

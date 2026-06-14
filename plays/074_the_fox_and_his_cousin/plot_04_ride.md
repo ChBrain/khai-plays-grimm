@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "ride"
+title: "Ride"
 declared: "Der Ritt des Fuchses"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "first_suitors"
+title: "First Suitors"
 declared: "Die ersten Freier"
 license: CC-BY-NC-SA-4.0
 stamp:

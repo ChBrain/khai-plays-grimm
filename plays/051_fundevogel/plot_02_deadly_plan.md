@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "deadly_plan"
+title: "Deadly Plan"
 declared: "Der Mordplan"
 license: CC-BY-NC-SA-4.0
 stamp:

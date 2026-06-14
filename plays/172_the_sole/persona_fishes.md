@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "fishes"
+title: "The Fishes"
 declared: "die Fische"
 license: CC-BY-NC-SA-4.0
 stamp:

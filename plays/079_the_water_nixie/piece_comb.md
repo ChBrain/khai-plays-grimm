@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "comb"
+title: "The Comb"
 declared: "der Kamm"
 license: CC-BY-NC-SA-4.0
 stamp:

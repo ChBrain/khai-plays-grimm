@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "light"
+title: "The Light"
 declared: "das Lichtlein"
 license: CC-BY-NC-SA-4.0
 stamp:

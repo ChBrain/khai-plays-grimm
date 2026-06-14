@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "retribution"
+title: "Retribution"
 declared: "Die Abrechnung"
 license: CC-BY-NC-SA-4.0
 stamp:

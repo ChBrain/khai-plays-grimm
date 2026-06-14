@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "warnung"
+title: "Warnung"
 declared: "die Warnung"
 license: CC-BY-NC-SA-4.0
 stamp:

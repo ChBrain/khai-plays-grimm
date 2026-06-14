@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "plunder"
+title: "Plunder"
 declared: "der Beuteraub"
 license: CC-BY-NC-SA-4.0
 stamp:

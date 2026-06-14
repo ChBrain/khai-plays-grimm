@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "repentant"
+title: "The Repentant"
 declared: "die Reumütigen"
 license: CC-BY-NC-SA-4.0
 stamp:

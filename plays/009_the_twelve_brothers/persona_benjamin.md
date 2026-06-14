@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "benjamin"
+title: "Benjamin"
 declared: "Benjamin"
 license: CC-BY-NC-SA-4.0
 stamp:

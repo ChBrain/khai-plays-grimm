@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "confession"
+title: "Confession"
 declared: "Das Geständnis am Ofen"
 license: CC-BY-NC-SA-4.0
 stamp:

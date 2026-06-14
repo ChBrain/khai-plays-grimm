@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "fatal_blow"
+title: "Fatal Blow"
 declared: "Der tödliche Streich"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "benefactor"
+title: "The Benefactor"
 declared: "alte Frau"
 license: CC-BY-NC-SA-4.0
 stamp:

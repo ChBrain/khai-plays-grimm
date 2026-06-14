@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "turning"
+title: "Turning"
 declared: "das Umdrehen"
 license: CC-BY-NC-SA-4.0
 stamp:

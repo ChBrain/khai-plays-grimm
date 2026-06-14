@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "homeland"
+title: "The Homeland"
 declared: "Vaterlandsschloss"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "theft"
+title: "Theft"
 declared: "Der Raub und das Hühnerblut"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "monster"
+title: "The Monster"
 declared: "das Ungeheuer"
 license: CC-BY-NC-SA-4.0
 stamp:

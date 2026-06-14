@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "nut"
+title: "The Nut"
 declared: "die Nuss"
 license: CC-BY-NC-SA-4.0
 stamp:

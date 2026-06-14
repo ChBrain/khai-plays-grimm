@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "wheat"
+title: "The Wheat"
 declared: "der Weizen"
 license: CC-BY-NC-SA-4.0
 stamp:

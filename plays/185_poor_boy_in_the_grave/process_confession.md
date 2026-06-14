@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "confession"
+title: "Confession"
 declared: "das Geständnis"
 license: CC-BY-NC-SA-4.0
 stamp:

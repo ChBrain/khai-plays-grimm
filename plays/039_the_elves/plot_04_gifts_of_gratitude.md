@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "gifts_of_gratitude"
+title: "Gifts of Gratitude"
 declared: "Die Geschenke der Dankbarkeit"
 license: CC-BY-NC-SA-4.0
 stamp:

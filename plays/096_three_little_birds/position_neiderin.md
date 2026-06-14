@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "neiderin"
+title: "The Neiderin"
 declared: "die Neiderin"
 license: CC-BY-NC-SA-4.0
 stamp:

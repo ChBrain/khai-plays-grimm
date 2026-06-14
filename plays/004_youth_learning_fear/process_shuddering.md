@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "shuddering"
+title: "Shuddering"
 declared: "das Gruseln"
 license: CC-BY-NC-SA-4.0
 stamp:

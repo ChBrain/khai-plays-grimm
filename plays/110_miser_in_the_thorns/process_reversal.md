@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "reversal"
+title: "Reversal"
 declared: "die Umkehr"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "assault"
+title: "Assault"
 declared: "Die gescheiterten Helden"
 license: CC-BY-NC-SA-4.0
 stamp:

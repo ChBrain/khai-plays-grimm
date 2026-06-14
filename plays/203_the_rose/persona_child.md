@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "child"
+title: "The Child"
 declared: "das jüngste Kind"
 license: CC-BY-NC-SA-4.0
 stamp:

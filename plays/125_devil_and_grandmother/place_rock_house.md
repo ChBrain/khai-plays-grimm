@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "rock_house"
+title: "The Rock House"
 declared: "das Felsenhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

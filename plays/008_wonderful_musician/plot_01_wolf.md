@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_wolf"
+title: "Wolf"
 declared: "Der Wolf in der Eiche"
 license: CC-BY-NC-SA-4.0
 stamp:

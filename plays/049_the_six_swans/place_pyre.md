@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "pyre"
+title: "The Pyre"
 declared: "Scheiterhaufen"
 license: CC-BY-NC-SA-4.0
 stamp:

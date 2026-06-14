@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "dresses"
+title: "The Dresses"
 declared: "die drei Kleider"
 license: CC-BY-NC-SA-4.0
 stamp:

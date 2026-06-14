@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "humiliation"
+title: "Humiliation"
 declared: "Demütigung"
 license: CC-BY-NC-SA-4.0
 stamp:

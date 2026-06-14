@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "elemental_helper"
+title: "The Elemental Helper"
 declared: "himmlische Helfer"
 license: CC-BY-NC-SA-4.0
 stamp:

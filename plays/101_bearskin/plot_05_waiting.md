@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "waiting"
+title: "Waiting"
 declared: "Die Wartezeit"
 license: CC-BY-NC-SA-4.0
 stamp:

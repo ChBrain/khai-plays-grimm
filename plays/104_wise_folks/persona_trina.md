@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "trina"
+title: "Trina"
 declared: "Trina"
 license: CC-BY-NC-SA-4.0
 stamp:

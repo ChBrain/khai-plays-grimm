@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "wren"
+title: "The Wren"
 declared: "der Zaunkönig"
 license: CC-BY-NC-SA-4.0
 stamp:

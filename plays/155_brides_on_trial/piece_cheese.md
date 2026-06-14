@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "cheese"
+title: "The Cheese"
 declared: "der Käse"
 license: CC-BY-NC-SA-4.0
 stamp:

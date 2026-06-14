@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "stuck_parade"
+title: "Stuck Parade"
 declared: "Die sieben Festgeklebten"
 license: CC-BY-NC-SA-4.0
 stamp:

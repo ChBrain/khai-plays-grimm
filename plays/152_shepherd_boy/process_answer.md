@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "answer"
+title: "Answer"
 declared: "die Antwort"
 license: CC-BY-NC-SA-4.0
 stamp:

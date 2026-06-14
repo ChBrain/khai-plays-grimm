@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "cows"
+title: "The Cows"
 declared: "die drei Kühe"
 license: CC-BY-NC-SA-4.0
 stamp:

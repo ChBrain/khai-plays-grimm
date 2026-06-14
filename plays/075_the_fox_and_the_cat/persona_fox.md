@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "fox"
+title: "The Fox"
 declared: "der Fuchs"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "physician"
+title: "The Physician"
 declared: "Arzt"
 license: CC-BY-NC-SA-4.0
 stamp:

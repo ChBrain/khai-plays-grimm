@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "overflow"
+title: "Overflow"
 declared: "Das Überlaufen des Topfes"
 license: CC-BY-NC-SA-4.0
 stamp:

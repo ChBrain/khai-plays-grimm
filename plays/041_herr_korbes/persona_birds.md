@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "birds"
+title: "The Birds"
 declared: "Hähnchen und Hühnchen"
 license: CC-BY-NC-SA-4.0
 stamp:

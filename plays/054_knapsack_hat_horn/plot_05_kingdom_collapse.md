@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "kingdom_collapse"
+title: "Kingdom Collapse"
 declared: "Der Einsturz des Reichs"
 license: CC-BY-NC-SA-4.0
 stamp:

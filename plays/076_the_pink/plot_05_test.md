@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "test"
+title: "Test"
 declared: "Die Probe der Treue"
 license: CC-BY-NC-SA-4.0
 stamp:

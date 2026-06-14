@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "rags"
+title: "The Rags"
 declared: "die Lumpen"
 license: CC-BY-NC-SA-4.0
 stamp:

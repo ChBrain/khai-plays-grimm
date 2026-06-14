@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "mr_fox"
+title: "The Mr Fox"
 declared: "Herr Fuchs"
 license: CC-BY-NC-SA-4.0
 stamp:

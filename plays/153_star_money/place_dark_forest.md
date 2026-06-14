@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "dark_forest"
+title: "The Dark Forest"
 declared: "der dunkle Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

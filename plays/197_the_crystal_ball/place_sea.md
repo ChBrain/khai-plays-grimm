@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "sea"
+title: "The Sea"
 declared: "das tiefe Meer"
 license: CC-BY-NC-SA-4.0
 stamp:

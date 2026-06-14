@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "pin"
+title: "The Pin"
 declared: "Stecknadel"
 license: CC-BY-NC-SA-4.0
 stamp:

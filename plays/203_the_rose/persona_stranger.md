@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "stranger"
+title: "The Stranger"
 declared: "das fremde Kind"
 license: CC-BY-NC-SA-4.0
 stamp:

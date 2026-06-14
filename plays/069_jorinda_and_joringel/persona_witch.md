@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "witch"
+title: "The Witch"
 declared: "Zauberin"
 license: CC-BY-NC-SA-4.0
 stamp:

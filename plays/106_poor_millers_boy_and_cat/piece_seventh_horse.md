@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "seventh_horse"
+title: "The Seventh Horse"
 declared: "das siebente Pferd"
 license: CC-BY-NC-SA-4.0
 stamp:

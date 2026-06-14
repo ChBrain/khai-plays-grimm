@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "vow"
+title: "Vow"
 declared: "Der Hilferuf der Königstochter"
 license: CC-BY-NC-SA-4.0
 stamp:

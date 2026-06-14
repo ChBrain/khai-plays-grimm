@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "kirche"
+title: "The Kirche"
 declared: "die Kirche"
 license: CC-BY-NC-SA-4.0
 stamp:

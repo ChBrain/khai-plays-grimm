@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "bearnight"
+title: "Bearnight"
 declared: "die Bärennacht"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "brother_lustig"
+title: "Brother Lustig"
 declared: "die Himmelfahrt"
 license: CC-BY-NC-SA-4.0
 stamp:

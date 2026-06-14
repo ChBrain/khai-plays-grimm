@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_heavenly_wedding"
+title: "The Heavenly Wedding"
 declared: "der Weg zum Himmel"
 license: CC-BY-NC-SA-4.0
 stamp:

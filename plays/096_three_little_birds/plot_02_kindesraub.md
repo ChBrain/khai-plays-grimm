@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "kindesraub"
+title: "Kindesraub"
 declared: "Die geraubten Kinder"
 license: CC-BY-NC-SA-4.0
 stamp:

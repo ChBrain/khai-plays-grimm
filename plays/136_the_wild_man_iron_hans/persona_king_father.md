@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "king_father"
+title: "The King Father"
 declared: "Vaterkönig"
 license: CC-BY-NC-SA-4.0
 stamp:

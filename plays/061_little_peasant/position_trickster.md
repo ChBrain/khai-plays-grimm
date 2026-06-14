@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "trickster"
+title: "The Trickster"
 declared: "Schelm"
 license: CC-BY-NC-SA-4.0
 stamp:

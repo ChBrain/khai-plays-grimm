@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "sleep"
+title: "Sleep"
 declared: "der lange Schlaf"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "dry_branch"
+title: "Dry Branch"
 declared: "Die Buße mit dem dürren Ast"
 license: CC-BY-NC-SA-4.0
 stamp:

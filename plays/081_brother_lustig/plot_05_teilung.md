@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "teilung"
+title: "Teilung"
 declared: "Die Teilung"
 license: CC-BY-NC-SA-4.0
 stamp:

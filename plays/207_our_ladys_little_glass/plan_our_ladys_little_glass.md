@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "our_ladys_little_glass"
+title: "Our Ladys Little Glass"
 declared: "der Handel um den Wein"
 license: CC-BY-NC-SA-4.0
 stamp:

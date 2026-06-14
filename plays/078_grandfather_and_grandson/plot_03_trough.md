@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "trough"
+title: "Trough"
 declared: "Das Tröglein"
 license: CC-BY-NC-SA-4.0
 stamp:

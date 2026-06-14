@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "louse"
+title: "The Louse"
 declared: "Läuschen"
 license: CC-BY-NC-SA-4.0
 stamp:

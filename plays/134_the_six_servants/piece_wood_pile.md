@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "wood_pile"
+title: "The Wood Pile"
 declared: "Scheiterhaufen"
 license: CC-BY-NC-SA-4.0
 stamp:

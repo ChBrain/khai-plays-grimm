@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "godparent"
+title: "The Godparent"
 declared: "Pate"
 license: CC-BY-NC-SA-4.0
 stamp:

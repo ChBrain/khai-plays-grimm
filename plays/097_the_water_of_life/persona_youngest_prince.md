@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "youngest_prince"
+title: "The Youngest Prince"
 declared: "der jüngste Prinz"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "father"
+title: "The Father"
 declared: "Jan"
 license: CC-BY-NC-SA-4.0
 stamp:

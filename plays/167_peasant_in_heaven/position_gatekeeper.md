@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "gatekeeper"
+title: "The Gatekeeper"
 declared: "der Pförtner"
 license: CC-BY-NC-SA-4.0
 stamp:

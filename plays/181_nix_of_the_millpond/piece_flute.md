@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "flute"
+title: "The Flute"
 declared: "die goldene Flöte"
 license: CC-BY-NC-SA-4.0
 stamp:

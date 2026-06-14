@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "redemption"
+title: "Redemption"
 declared: "Die Erlösung und das Wiedersehen"
 license: CC-BY-NC-SA-4.0
 stamp:

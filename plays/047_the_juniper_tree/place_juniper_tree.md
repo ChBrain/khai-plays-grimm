@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "juniper_tree"
+title: "The Juniper Tree"
 declared: "Machandelbaum"
 license: CC-BY-NC-SA-4.0
 stamp:

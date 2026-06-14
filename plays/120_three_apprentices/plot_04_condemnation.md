@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "condemnation"
+title: "Condemnation"
 declared: "Die Verurteilung vor Gericht"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "neglect"
+title: "Neglect"
 declared: "das Versäumnis"
 license: CC-BY-NC-SA-4.0
 stamp:

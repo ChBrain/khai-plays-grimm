@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_dinner-at-the-palace"
+title: "Dinner at the Palace"
 declared: "Das Mahl im Schloss"
 license: CC-BY-NC-SA-4.0
 stamp:

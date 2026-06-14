@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "gooseherd"
+title: "The Gooseherd"
 declared: "Gänsehirtstochter"
 license: CC-BY-NC-SA-4.0
 stamp:

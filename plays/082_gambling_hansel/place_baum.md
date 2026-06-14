@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "baum"
+title: "The Baum"
 declared: "der Zauberbaum"
 license: CC-BY-NC-SA-4.0
 stamp:

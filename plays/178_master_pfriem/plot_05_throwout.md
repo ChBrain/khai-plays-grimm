@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "throwout"
+title: "Throwout"
 declared: "Der Wurf aus dem Himmel"
 license: CC-BY-NC-SA-4.0
 stamp:

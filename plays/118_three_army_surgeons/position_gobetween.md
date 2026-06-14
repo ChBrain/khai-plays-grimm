@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "gobetween"
+title: "The Gobetween"
 declared: "die Vermittlerin"
 license: CC-BY-NC-SA-4.0
 stamp:

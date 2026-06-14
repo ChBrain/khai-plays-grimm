@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "heavenly"
+title: "The Heavenly"
 declared: "der Himmlische"
 license: CC-BY-NC-SA-4.0
 stamp:

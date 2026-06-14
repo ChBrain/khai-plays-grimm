@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "throne_chair"
+title: "The Throne Chair"
 declared: "Thronsessel"
 license: CC-BY-NC-SA-4.0
 stamp:

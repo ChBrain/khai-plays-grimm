@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "heideschloss"
+title: "Heideschloss"
 declared: "das Heideschloss"
 license: CC-BY-NC-SA-4.0
 stamp:

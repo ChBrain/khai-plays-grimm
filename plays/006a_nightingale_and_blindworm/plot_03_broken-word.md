@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_broken-word"
+title: "Broken Word"
 declared: "Der Wortbruch"
 license: CC-BY-NC-SA-4.0
 stamp:

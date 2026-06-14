@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "golden_hen"
+title: "The Golden Hen"
 declared: "die goldene Henne"
 license: CC-BY-NC-SA-4.0
 stamp:

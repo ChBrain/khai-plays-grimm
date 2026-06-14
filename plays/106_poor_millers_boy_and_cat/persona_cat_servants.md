@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "cat_servants"
+title: "The Cat Servants"
 declared: "die Katzendiener"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "doom"
+title: "Doom"
 declared: "Das Verderben der Mutter"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "service"
+title: "Service"
 declared: "der Höllendienst"
 license: CC-BY-NC-SA-4.0
 stamp:

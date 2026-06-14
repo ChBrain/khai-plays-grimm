@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "griffin_house"
+title: "The Griffin House"
 declared: "das Haus des Greifs"
 license: CC-BY-NC-SA-4.0
 stamp:

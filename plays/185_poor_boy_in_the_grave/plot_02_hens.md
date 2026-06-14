@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "hens"
+title: "Hens"
 declared: "Der Habicht und die Hühner"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "union"
+title: "Union"
 declared: "die Mitgift- und Berufsbestimmung"
 license: CC-BY-NC-SA-4.0
 stamp:

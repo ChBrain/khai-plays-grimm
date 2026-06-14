@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "observer"
+title: "The Observer"
 declared: "Beobachter"
 license: CC-BY-NC-SA-4.0
 stamp:

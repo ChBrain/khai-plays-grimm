@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "oath"
+title: "Oath"
 declared: "das Schweigegelübde"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_cups-reunion"
+title: "Cups Reunion"
 declared: "Die Heimkehr"
 license: CC-BY-NC-SA-4.0
 stamp:

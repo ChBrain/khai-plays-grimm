@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "wages"
+title: "Wages"
 declared: "Der Lohn der Asche"
 license: CC-BY-NC-SA-4.0
 stamp:

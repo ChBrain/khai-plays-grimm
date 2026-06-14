@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "gathering"
+title: "Gathering"
 declared: "das Holzlesen"
 license: CC-BY-NC-SA-4.0
 stamp:

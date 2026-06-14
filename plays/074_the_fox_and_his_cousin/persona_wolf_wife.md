@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "wolf_wife"
+title: "The Wolf Wife"
 declared: "die Wölfin"
 license: CC-BY-NC-SA-4.0
 stamp:

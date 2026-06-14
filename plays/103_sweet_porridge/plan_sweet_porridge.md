@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "sweet_porridge"
+title: "Sweet Porridge"
 declared: "die Sättigung"
 license: CC-BY-NC-SA-4.0
 stamp:

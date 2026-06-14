@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "reel"
+title: "The Reel"
 declared: "der goldene Haspel"
 license: CC-BY-NC-SA-4.0
 stamp:

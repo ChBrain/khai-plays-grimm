@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "spinning"
+title: "Spinning"
 declared: "Spinnarbeit"
 license: CC-BY-NC-SA-4.0
 stamp:

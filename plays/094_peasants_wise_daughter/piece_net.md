@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "net"
+title: "The Net"
 declared: "das Fischernetz"
 license: CC-BY-NC-SA-4.0
 stamp:

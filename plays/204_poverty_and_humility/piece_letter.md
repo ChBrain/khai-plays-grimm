@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "letter"
+title: "The Letter"
 declared: "der Brief an die Mutter"
 license: CC-BY-NC-SA-4.0
 stamp:

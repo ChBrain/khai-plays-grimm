@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "pickaxe"
+title: "The Pickaxe"
 declared: "Kreuzhacke"
 license: CC-BY-NC-SA-4.0
 stamp:

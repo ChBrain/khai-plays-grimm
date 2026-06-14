@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "reelwood"
+title: "The Reelwood"
 declared: "das Haspelholz"
 license: CC-BY-NC-SA-4.0
 stamp:

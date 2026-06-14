@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "countryman"
+title: "The Countryman"
 declared: "der Landmann"
 license: CC-BY-NC-SA-4.0
 stamp:

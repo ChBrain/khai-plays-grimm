@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "wunschkraft"
+title: "Wunschkraft"
 declared: "Wunschkraft"
 license: CC-BY-NC-SA-4.0
 stamp:

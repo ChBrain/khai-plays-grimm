@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "house"
+title: "The House"
 declared: "Haus"
 license: CC-BY-NC-SA-4.0
 stamp:

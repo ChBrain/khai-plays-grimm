@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "dying"
+title: "Dying"
 declared: "das Sterben"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "carefree"
+title: "Carefree"
 declared: "Das sorglose Leben"
 license: CC-BY-NC-SA-4.0
 stamp:

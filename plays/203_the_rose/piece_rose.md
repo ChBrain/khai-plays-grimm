@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "rose"
+title: "The Rose"
 declared: "die Rose"
 license: CC-BY-NC-SA-4.0
 stamp:

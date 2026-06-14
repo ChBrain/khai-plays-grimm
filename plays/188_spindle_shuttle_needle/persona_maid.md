@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "maid"
+title: "The Maid"
 declared: "die Maid"
 license: CC-BY-NC-SA-4.0
 stamp:

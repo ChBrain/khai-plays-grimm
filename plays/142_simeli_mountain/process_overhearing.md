@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "overhearing"
+title: "Overhearing"
 declared: "das Belauschen"
 license: CC-BY-NC-SA-4.0
 stamp:

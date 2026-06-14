@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "naming"
+title: "Naming"
 declared: "Die Aufzählung des Hausstands"
 license: CC-BY-NC-SA-4.0
 stamp:

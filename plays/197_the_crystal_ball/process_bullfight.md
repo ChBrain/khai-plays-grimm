@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "bullfight"
+title: "Bullfight"
 declared: "der Kampf mit dem Stier"
 license: CC-BY-NC-SA-4.0
 stamp:

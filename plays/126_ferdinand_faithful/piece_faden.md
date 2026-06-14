@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "faden"
+title: "The Faden"
 declared: "der rote Faden"
 license: CC-BY-NC-SA-4.0
 stamp:

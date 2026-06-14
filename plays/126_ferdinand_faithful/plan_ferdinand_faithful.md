@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "ferdinand_faithful"
+title: "Ferdinand Faithful"
 declared: "die Brautfahrt"
 license: CC-BY-NC-SA-4.0
 stamp:

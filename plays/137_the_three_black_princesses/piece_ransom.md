@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "ransom"
+title: "The Ransom"
 declared: "Lösegeld"
 license: CC-BY-NC-SA-4.0
 stamp:

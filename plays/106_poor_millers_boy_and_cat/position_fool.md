@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "fool"
+title: "The Fool"
 declared: "der verkannte Narr"
 license: CC-BY-NC-SA-4.0
 stamp:

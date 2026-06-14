@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "gate"
+title: "Gate"
 declared: "Am Himmelstor"
 license: CC-BY-NC-SA-4.0
 stamp:

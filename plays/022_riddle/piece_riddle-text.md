@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "riddle-text"
+title: "The Riddle Text"
 declared: "Rätselwort"
 license: CC-BY-NC-SA-4.0
 stamp:

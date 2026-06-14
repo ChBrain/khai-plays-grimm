@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "self_willed"
+title: "The Self Willed"
 declared: "der Eigenwillige"
 license: CC-BY-NC-SA-4.0
 stamp:

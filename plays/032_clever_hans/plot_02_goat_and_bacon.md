@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "goat_and_bacon"
+title: "Goat and Bacon"
 declared: "Ziege und Speck"
 license: CC-BY-NC-SA-4.0
 stamp:

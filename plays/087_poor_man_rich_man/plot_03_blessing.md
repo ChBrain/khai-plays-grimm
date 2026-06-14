@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "blessing"
+title: "Blessing"
 declared: "Die drei Wünsche und das neue Haus"
 license: CC-BY-NC-SA-4.0
 stamp:

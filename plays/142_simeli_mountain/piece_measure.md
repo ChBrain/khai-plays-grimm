@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "measure"
+title: "The Measure"
 declared: "das Pechmaß"
 license: CC-BY-NC-SA-4.0
 stamp:

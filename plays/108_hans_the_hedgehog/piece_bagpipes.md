@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "bagpipes"
+title: "The Bagpipes"
 declared: "der Dudelsack"
 license: CC-BY-NC-SA-4.0
 stamp:

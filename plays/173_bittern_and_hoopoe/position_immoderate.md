@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "immoderate"
+title: "The Immoderate"
 declared: "der Übermäßige"
 license: CC-BY-NC-SA-4.0
 stamp:

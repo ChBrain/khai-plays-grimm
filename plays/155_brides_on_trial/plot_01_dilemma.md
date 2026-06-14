@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "dilemma"
+title: "Dilemma"
 declared: "Die Ratlosigkeit"
 license: CC-BY-NC-SA-4.0
 stamp:

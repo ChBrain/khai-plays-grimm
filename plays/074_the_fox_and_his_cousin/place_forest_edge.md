@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "forest_edge"
+title: "The Forest Edge"
 declared: "der Waldrand"
 license: CC-BY-NC-SA-4.0
 stamp:

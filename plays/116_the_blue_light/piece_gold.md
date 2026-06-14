@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "gold"
+title: "The Gold"
 declared: "das Gold der Hexe"
 license: CC-BY-NC-SA-4.0
 stamp:

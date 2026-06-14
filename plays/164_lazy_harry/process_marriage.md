@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "marriage"
+title: "Marriage"
 declared: "die Heirat"
 license: CC-BY-NC-SA-4.0
 stamp:

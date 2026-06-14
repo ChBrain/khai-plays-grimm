@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "feathers"
+title: "The Feathers"
 declared: "die zwölf Pfund Federn"
 license: CC-BY-NC-SA-4.0
 stamp:

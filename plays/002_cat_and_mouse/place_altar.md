@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "altar"
+title: "Altar"
 declared: "Altar"
 license: CC-BY-NC-SA-4.0
 stamp:

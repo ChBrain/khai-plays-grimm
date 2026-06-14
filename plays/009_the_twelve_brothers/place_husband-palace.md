@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "husband-palace"
+title: "The Husband Palace"
 declared: "Schloß des jungen Königs"
 license: CC-BY-NC-SA-4.0
 stamp:

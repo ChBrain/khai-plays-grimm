@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "mill"
+title: "The Mill"
 declared: "die Spukmühle"
 license: CC-BY-NC-SA-4.0
 stamp:

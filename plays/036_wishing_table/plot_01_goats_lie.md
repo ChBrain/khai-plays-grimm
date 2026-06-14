@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "goats_lie"
+title: "Goats Lie"
 declared: "Die Lüge der Ziege"
 license: CC-BY-NC-SA-4.0
 stamp:

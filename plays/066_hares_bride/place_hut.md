@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "hut"
+title: "The Hut"
 declared: "Hasenhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

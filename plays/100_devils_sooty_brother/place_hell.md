@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "hell"
+title: "The Hell"
 declared: "die Hölle"
 license: CC-BY-NC-SA-4.0
 stamp:

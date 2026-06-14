@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "silk"
+title: "The Silk"
 declared: "die rote Seide"
 license: CC-BY-NC-SA-4.0
 stamp:

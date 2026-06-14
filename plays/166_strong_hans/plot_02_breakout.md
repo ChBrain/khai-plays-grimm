@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "breakout"
+title: "Breakout"
 declared: "Der Ausbruch"
 license: CC-BY-NC-SA-4.0
 stamp:

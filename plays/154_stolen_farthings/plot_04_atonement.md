@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "atonement"
+title: "Atonement"
 declared: "Die Sühne"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "gods_departure"
+title: "Gods Departure"
 declared: "Gottes Spaziergang"
 license: CC-BY-NC-SA-4.0
 stamp:

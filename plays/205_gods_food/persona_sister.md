@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "sister"
+title: "The Sister"
 declared: "die reiche Schwester"
 license: CC-BY-NC-SA-4.0
 stamp:

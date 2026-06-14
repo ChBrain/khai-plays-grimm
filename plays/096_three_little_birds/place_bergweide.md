@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "bergweide"
+title: "The Bergweide"
 declared: "die Bergweide"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "realm_of_lights"
+title: "The Realm of Lights"
 declared: "das Reich der Gestirne"
 license: CC-BY-NC-SA-4.0
 stamp:

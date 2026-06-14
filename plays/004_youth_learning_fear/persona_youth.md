@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "youth"
+title: "The Youth"
 declared: "Jüngling"
 license: CC-BY-NC-SA-4.0
 stamp:

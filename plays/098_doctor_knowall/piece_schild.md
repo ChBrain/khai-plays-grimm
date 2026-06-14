@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "schild"
+title: "The Schild"
 declared: "das Doktor-Schild"
 license: CC-BY-NC-SA-4.0
 stamp:

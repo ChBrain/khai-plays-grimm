@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "temptation"
+title: "Temptation"
 declared: "Die Einladung zum Tisch"
 license: CC-BY-NC-SA-4.0
 stamp:

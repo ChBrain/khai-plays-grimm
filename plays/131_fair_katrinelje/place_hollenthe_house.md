@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "hollenthe_house"
+title: "The Hollenthe House"
 declared: "Hollenthes Kammer"
 license: CC-BY-NC-SA-4.0
 stamp:

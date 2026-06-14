@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "welcome"
+title: "Welcome"
 declared: "Die Aufnahme beim Armen"
 license: CC-BY-NC-SA-4.0
 stamp:

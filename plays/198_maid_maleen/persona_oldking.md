@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "oldking"
+title: "The Oldking"
 declared: "der alte König"
 license: CC-BY-NC-SA-4.0
 stamp:

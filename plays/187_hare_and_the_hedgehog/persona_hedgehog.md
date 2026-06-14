@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "hedgehog"
+title: "The Hedgehog"
 declared: "der Igel"
 license: CC-BY-NC-SA-4.0
 stamp:

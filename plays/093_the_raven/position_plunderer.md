@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "plunderer"
+title: "The Plunderer"
 declared: "der Plünderer"
 license: CC-BY-NC-SA-4.0
 stamp:

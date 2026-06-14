@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "home"
+title: "The Home"
 declared: "das Haus und der Hof"
 license: CC-BY-NC-SA-4.0
 stamp:

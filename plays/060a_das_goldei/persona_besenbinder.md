@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "besenbinder"
+title: "The Besenbinder"
 declared: "Besenbindersjungen"
 license: CC-BY-NC-SA-4.0
 stamp:

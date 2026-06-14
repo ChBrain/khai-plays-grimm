@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "chapel"
+title: "Chapel"
 declared: "Die Kapelle im Baum"
 license: CC-BY-NC-SA-4.0
 stamp:

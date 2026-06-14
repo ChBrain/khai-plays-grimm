@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "transgression"
+title: "Transgression"
 declared: "Übertretung"
 license: CC-BY-NC-SA-4.0
 stamp:

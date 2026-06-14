@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "needy"
+title: "The Needy"
 declared: "der Bedürftige"
 license: CC-BY-NC-SA-4.0
 stamp:

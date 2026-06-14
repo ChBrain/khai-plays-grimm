@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "saddle"
+title: "The Saddle"
 declared: "der Wundersattel"
 license: CC-BY-NC-SA-4.0
 stamp:

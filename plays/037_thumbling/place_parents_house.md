@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "parents_house"
+title: "The Parents House"
 declared: "Bauernhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

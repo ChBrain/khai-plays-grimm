@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "lost_gold"
+title: "Lost Gold"
 declared: "Das verlorene Gold"
 license: CC-BY-NC-SA-4.0
 stamp:

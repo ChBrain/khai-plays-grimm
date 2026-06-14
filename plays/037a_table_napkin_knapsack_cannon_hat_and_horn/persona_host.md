@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "host"
+title: "The Host"
 declared: "Wirt"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "high"
+title: "High"
 declared: "Der Segen der hohen Stände"
 license: CC-BY-NC-SA-4.0
 stamp:

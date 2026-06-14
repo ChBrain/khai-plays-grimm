@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "donkey"
+title: "The Donkey"
 declared: "Goldesel"
 license: CC-BY-NC-SA-4.0
 stamp:

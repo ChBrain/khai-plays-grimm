@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "voice"
+title: "Voice"
 declared: "Die Stimme unter der Eiche"
 license: CC-BY-NC-SA-4.0
 stamp:

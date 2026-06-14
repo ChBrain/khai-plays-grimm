@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "endowed"
+title: "The Endowed"
 declared: "der Beschenkte"
 license: CC-BY-NC-SA-4.0
 stamp:

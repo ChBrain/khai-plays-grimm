@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "wedding-shirt"
+title: "The Wedding Shirt"
 declared: "Hochzeitshemd"
 license: CC-BY-NC-SA-4.0
 stamp:

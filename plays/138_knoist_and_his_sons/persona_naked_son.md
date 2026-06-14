@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "naked_son"
+title: "The Naked Son"
 declared: "der nackte Sohn"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "den"
+title: "The Den"
 declared: "die Fuchshöhle"
 license: CC-BY-NC-SA-4.0
 stamp:

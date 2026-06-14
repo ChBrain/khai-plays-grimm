@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "straying"
+title: "Straying"
 declared: "die Verirrung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "whale"
+title: "The Whale"
 declared: "der Wal"
 license: CC-BY-NC-SA-4.0
 stamp:

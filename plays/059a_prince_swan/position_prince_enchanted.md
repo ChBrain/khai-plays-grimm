@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "prince_enchanted"
+title: "The Prince Enchanted"
 declared: "verzauberte Prinz"
 license: CC-BY-NC-SA-4.0
 stamp:

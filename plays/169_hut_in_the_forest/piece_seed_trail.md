@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "seed_trail"
+title: "The Seed Trail"
 declared: "die Saatspur"
 license: CC-BY-NC-SA-4.0
 stamp:

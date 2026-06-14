@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "bound"
+title: "The Bound"
 declared: "Wortbrüchiger"
 license: CC-BY-NC-SA-4.0
 stamp:

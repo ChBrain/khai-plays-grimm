@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_haunted-castle"
+title: "Haunted Castle"
 declared: "Das verwunschene Schloss"
 license: CC-BY-NC-SA-4.0
 stamp:

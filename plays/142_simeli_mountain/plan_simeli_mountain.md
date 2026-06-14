@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "simeli_mountain"
+title: "Simeli Mountain"
 declared: "die Genügsamkeit"
 license: CC-BY-NC-SA-4.0
 stamp:

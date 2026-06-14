@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "bird-disguise"
+title: "Bird Disguise"
 declared: "die List der jüngsten Schwester"
 license: CC-BY-NC-SA-4.0
 stamp:

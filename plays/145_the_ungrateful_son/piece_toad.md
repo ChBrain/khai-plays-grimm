@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "toad"
+title: "The Toad"
 declared: "die Kröte"
 license: CC-BY-NC-SA-4.0
 stamp:

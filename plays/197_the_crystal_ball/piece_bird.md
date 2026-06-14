@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "bird"
+title: "The Bird"
 declared: "der Feuervogel"
 license: CC-BY-NC-SA-4.0
 stamp:

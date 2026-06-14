@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "false_bride"
+title: "The False Bride"
 declared: "die falsche Braut"
 license: CC-BY-NC-SA-4.0
 stamp:

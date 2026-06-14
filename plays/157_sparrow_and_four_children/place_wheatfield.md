@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "wheatfield"
+title: "The Wheatfield"
 declared: "das Weizenfeld"
 license: CC-BY-NC-SA-4.0
 stamp:

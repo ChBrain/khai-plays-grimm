@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "wilderness"
+title: "The Wilderness"
 declared: "Wildnis"
 license: CC-BY-NC-SA-4.0
 stamp:

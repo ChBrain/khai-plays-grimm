@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "halting"
+title: "Halting"
 declared: "das Anhalten"
 license: CC-BY-NC-SA-4.0
 stamp:

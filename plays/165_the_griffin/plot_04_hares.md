@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "hares"
+title: "Hares"
 declared: "Die hundert Hasen"
 license: CC-BY-NC-SA-4.0
 stamp:

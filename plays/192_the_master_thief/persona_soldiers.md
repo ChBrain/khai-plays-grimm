@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "soldiers"
+title: "The Soldiers"
 declared: "die Soldaten"
 license: CC-BY-NC-SA-4.0
 stamp:

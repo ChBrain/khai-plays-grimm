@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "soldier"
+title: "Soldier"
 declared: "Der furchtlose Geselle"
 license: CC-BY-NC-SA-4.0
 stamp:

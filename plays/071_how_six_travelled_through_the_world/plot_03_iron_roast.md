@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "iron_roast"
+title: "Iron Roast"
 declared: "Die Glut in der Eisenstube"
 license: CC-BY-NC-SA-4.0
 stamp:

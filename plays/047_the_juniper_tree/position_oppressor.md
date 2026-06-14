@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "oppressor"
+title: "The Oppressor"
 declared: "Peinigerin"
 license: CC-BY-NC-SA-4.0
 stamp:

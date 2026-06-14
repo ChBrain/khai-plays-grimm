@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "duel"
+title: "Duel"
 declared: "Das Duell der Verwandlungen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "snow_white_and_rose_red"
+title: "Snow White and Rose Red"
 declared: "die Vergeltung"
 license: CC-BY-NC-SA-4.0
 stamp:

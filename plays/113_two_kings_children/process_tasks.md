@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "tasks"
+title: "Tasks"
 declared: "die Aufgaben"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "exorcism"
+title: "Exorcism"
 declared: "die Entgeisterung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "okerlo_child"
+title: "The Okerlo Child"
 declared: "Okerlokind"
 license: CC-BY-NC-SA-4.0
 stamp:

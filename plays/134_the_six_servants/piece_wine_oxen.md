@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "wine_oxen"
+title: "The Wine Oxen"
 declared: "Riesenmahl"
 license: CC-BY-NC-SA-4.0
 stamp:

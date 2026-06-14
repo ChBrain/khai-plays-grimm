@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "curse"
+title: "Curse"
 declared: "Der Kerzenstrahl und die Taube"
 license: CC-BY-NC-SA-4.0
 stamp:

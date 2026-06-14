@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "negligent"
+title: "The Negligent"
 declared: "die Nachlässigen"
 license: CC-BY-NC-SA-4.0
 stamp:

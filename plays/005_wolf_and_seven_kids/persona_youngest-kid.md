@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "youngest-kid"
+title: "The Youngest Kid"
 declared: "jüngstes Geißlein"
 license: CC-BY-NC-SA-4.0
 stamp:

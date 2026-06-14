@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "mary"
+title: "The Mary"
 declared: "Jungfrau Maria"
 license: CC-BY-NC-SA-4.0
 stamp:

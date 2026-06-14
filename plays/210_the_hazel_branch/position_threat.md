@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "threat"
+title: "The Threat"
 declared: "die Bedrohung"
 license: CC-BY-NC-SA-4.0
 stamp:

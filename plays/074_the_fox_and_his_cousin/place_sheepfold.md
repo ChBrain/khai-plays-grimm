@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "sheepfold"
+title: "The Sheepfold"
 declared: "der Schafstall"
 license: CC-BY-NC-SA-4.0
 stamp:

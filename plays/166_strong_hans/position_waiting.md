@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "waiting"
+title: "The Waiting"
 declared: "der Wartende"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "nuthill"
+title: "The Nuthill"
 declared: "der Nussberg"
 license: CC-BY-NC-SA-4.0
 stamp:

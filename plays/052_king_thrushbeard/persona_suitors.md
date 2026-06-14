@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "suitors"
+title: "The Suitors"
 declared: "Freier"
 license: CC-BY-NC-SA-4.0
 stamp:

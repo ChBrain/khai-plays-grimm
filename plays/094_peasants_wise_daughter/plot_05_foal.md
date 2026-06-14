@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "foal"
+title: "Foal"
 declared: "Das falsche Urteil um das Fohlen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "name-quest"
+title: "Name Quest"
 declared: "die Namensjagd der Königin"
 license: CC-BY-NC-SA-4.0
 stamp:

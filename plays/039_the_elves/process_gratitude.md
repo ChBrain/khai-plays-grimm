@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "gratitude"
+title: "Gratitude"
 declared: "Dankbarkeit und Abschied"
 license: CC-BY-NC-SA-4.0
 stamp:

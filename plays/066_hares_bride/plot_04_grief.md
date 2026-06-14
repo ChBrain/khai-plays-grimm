@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "grief"
+title: "Grief"
 declared: "Das Trauerbrautbett"
 license: CC-BY-NC-SA-4.0
 stamp:

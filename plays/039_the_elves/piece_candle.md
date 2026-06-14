@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "candle"
+title: "The Candle"
 declared: "Kerze"
 license: CC-BY-NC-SA-4.0
 stamp:

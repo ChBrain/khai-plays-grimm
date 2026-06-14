@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "spiderwebs"
+title: "The Spiderwebs"
 declared: "die Spinnweben"
 license: CC-BY-NC-SA-4.0
 stamp:

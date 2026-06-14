@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "razor"
+title: "The Razor"
 declared: "das Schermesser"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_wise_servant"
+title: "The Wise Servant"
 declared: "der Eigensinn"
 license: CC-BY-NC-SA-4.0
 stamp:

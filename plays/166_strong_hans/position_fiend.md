@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "fiend"
+title: "The Fiend"
 declared: "der Unhold"
 license: CC-BY-NC-SA-4.0
 stamp:

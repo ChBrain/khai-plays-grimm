@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "dragon_castle"
+title: "The Dragon Castle"
 declared: "das Drachenschloss"
 license: CC-BY-NC-SA-4.0
 stamp:

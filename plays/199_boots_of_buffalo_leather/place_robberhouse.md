@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "robberhouse"
+title: "The Robberhouse"
 declared: "das Räuberhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

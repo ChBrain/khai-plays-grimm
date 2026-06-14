@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_pyre"
+title: "Pyre"
 declared: "Die Rettung am Scheiterhaufen"
 license: CC-BY-NC-SA-4.0
 stamp:

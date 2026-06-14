@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "lake"
+title: "The Lake"
 declared: "See"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_turnip"
+title: "The Turnip"
 declared: "die Befreiung"
 license: CC-BY-NC-SA-4.0
 stamp:

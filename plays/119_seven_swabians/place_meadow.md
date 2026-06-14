@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "meadow"
+title: "The Meadow"
 declared: "die Sommerwiese"
 license: CC-BY-NC-SA-4.0
 stamp:

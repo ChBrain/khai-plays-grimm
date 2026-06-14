@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "swallowed_by_beasts"
+title: "Swallowed by Beasts"
 declared: "Verschlungen"
 license: CC-BY-NC-SA-4.0
 stamp:

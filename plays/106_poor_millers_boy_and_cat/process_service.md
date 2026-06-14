@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "service"
+title: "Service"
 declared: "der siebenjährige Dienst"
 license: CC-BY-NC-SA-4.0
 stamp:

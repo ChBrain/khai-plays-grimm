@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "pearls"
+title: "The Pearls"
 declared: "Perlen"
 license: CC-BY-NC-SA-4.0
 stamp:

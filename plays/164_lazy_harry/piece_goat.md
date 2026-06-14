@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "goat"
+title: "The Goat"
 declared: "die Ziege"
 license: CC-BY-NC-SA-4.0
 stamp:

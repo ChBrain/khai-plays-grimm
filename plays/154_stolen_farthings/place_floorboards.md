@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "floorboards"
+title: "The Floorboards"
 declared: "die Dielenritzen"
 license: CC-BY-NC-SA-4.0
 stamp:

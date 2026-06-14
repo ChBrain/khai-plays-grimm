@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "meadow"
+title: "Meadow"
 declared: "Das Spiel auf der Wiese"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "willow"
+title: "Willow"
 declared: "Die Weidenrute"
 license: CC-BY-NC-SA-4.0
 stamp:

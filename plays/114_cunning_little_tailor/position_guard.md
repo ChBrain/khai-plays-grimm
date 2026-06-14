@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "guard"
+title: "The Guard"
 declared: "der Wächter"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "the_garments"
+title: "The Garments"
 declared: "Die Kleider für die Kinder"
 license: CC-BY-NC-SA-4.0
 stamp:

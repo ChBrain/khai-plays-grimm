@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "loss"
+title: "Loss"
 declared: "Das verlorene Hufeisen"
 license: CC-BY-NC-SA-4.0
 stamp:

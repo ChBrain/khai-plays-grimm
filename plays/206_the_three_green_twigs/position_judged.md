@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "judged"
+title: "The Judged"
 declared: "der Gerichtete"
 license: CC-BY-NC-SA-4.0
 stamp:

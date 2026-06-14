@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "finery"
+title: "The Finery"
 declared: "der Brautstaat"
 license: CC-BY-NC-SA-4.0
 stamp:

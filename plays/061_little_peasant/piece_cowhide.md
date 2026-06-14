@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "cowhide"
+title: "The Cowhide"
 declared: "Kuhhaut"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "stories_about_snakes"
+title: "Stories About Snakes"
 declared: "die Gastfreundschaft"
 license: CC-BY-NC-SA-4.0
 stamp:

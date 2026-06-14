@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "brothers"
+title: "The Brothers"
 declared: "drei Brüder"
 license: CC-BY-NC-SA-4.0
 stamp:

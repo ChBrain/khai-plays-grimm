@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "maleen"
+title: "The Maleen"
 declared: "die Jungfrau Maleen"
 license: CC-BY-NC-SA-4.0
 stamp:

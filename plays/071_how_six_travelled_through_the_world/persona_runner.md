@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "runner"
+title: "The Runner"
 declared: "der Läufer"
 license: CC-BY-NC-SA-4.0
 stamp:

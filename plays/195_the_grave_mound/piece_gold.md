@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "gold"
+title: "The Gold"
 declared: "die Goldsäcke"
 license: CC-BY-NC-SA-4.0
 stamp:

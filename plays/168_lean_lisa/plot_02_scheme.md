@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "scheme"
+title: "Scheme"
 declared: "Der Plan im Bett"
 license: CC-BY-NC-SA-4.0
 stamp:

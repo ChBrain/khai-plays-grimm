@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "book"
+title: "Book"
 declared: "Das Smaragdbuch und die Perle"
 license: CC-BY-NC-SA-4.0
 stamp:

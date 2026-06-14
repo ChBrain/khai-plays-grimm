@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_betrayal"
+title: "Betrayal"
 declared: "Die betrügerische Reise"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "town"
+title: "The Town"
 declared: "die Stadt"
 license: CC-BY-NC-SA-4.0
 stamp:

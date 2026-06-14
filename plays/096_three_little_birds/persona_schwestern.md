@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "schwestern"
+title: "The Schwestern"
 declared: "die bösen Schwestern"
 license: CC-BY-NC-SA-4.0
 stamp:

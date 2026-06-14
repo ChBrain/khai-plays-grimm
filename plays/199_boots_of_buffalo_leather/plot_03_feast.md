@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "feast"
+title: "Feast"
 declared: "Die Rückkehr der Räuber"
 license: CC-BY-NC-SA-4.0
 stamp:

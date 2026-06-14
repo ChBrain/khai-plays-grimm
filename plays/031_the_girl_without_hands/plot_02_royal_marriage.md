@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "royal_marriage"
+title: "Royal Marriage"
 declared: "Die königliche Ehe"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_three-attempts"
+title: "Three Attempts"
 declared: "Die drei Versuche des Wolfes"
 license: CC-BY-NC-SA-4.0
 stamp:

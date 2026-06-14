@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "man"
+title: "Man"
 declared: "Die siebzig Jahre des Menschen"
 license: CC-BY-NC-SA-4.0
 stamp:

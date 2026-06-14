@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "teaching"
+title: "Teaching"
 declared: "die Belehrung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "dragonfight"
+title: "Dragonfight"
 declared: "der Drachenkampf"
 license: CC-BY-NC-SA-4.0
 stamp:

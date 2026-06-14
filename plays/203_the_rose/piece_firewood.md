@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "firewood"
+title: "The Firewood"
 declared: "das Brennholz"
 license: CC-BY-NC-SA-4.0
 stamp:

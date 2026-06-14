@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "court"
+title: "The Court"
 declared: "der Hof"
 license: CC-BY-NC-SA-4.0
 stamp:

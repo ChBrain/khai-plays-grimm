@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_household_grief"
+title: "Household Grief"
 declared: "Hausrat in Trauer"
 license: CC-BY-NC-SA-4.0
 stamp:

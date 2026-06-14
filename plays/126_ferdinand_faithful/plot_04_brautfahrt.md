@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "brautfahrt"
+title: "Brautfahrt"
 declared: "Die Brautfahrt"
 license: CC-BY-NC-SA-4.0
 stamp:

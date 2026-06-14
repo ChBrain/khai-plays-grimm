@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "beer_barrel"
+title: "The Beer Barrel"
 declared: "Bierfass"
 license: CC-BY-NC-SA-4.0
 stamp:

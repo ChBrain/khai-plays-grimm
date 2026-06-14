@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "kingdom"
+title: "The Kingdom"
 declared: "das Reich der Fische"
 license: CC-BY-NC-SA-4.0
 stamp:

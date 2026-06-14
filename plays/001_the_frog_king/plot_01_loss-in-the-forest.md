@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_loss-in-the-forest"
+title: "Loss in the Forest"
 declared: "Der Verlust im Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

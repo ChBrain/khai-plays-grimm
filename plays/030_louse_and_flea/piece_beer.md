@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "beer"
+title: "The Beer"
 declared: "Bier"
 license: CC-BY-NC-SA-4.0
 stamp:

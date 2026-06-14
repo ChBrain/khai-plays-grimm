@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "blood"
+title: "The Blood"
 declared: "das Hühnerblut"
 license: CC-BY-NC-SA-4.0
 stamp:

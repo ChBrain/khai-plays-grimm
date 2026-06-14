@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "declaration"
+title: "Declaration"
 declared: "die Kriegserklärung"
 license: CC-BY-NC-SA-4.0
 stamp:

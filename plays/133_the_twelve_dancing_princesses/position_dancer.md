@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "dancer"
+title: "The Dancer"
 declared: "geheimnisvolle Tänzerin"
 license: CC-BY-NC-SA-4.0
 stamp:

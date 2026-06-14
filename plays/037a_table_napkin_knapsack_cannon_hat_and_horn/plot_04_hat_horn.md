@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_hat_horn"
+title: "Hat Horn"
 declared: "Kanonenhütlein und Horn des dritten Sohnes"
 license: CC-BY-NC-SA-4.0
 stamp:

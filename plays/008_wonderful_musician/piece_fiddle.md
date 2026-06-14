@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "fiddle"
+title: "The Fiddle"
 declared: "Geige"
 license: CC-BY-NC-SA-4.0
 stamp:

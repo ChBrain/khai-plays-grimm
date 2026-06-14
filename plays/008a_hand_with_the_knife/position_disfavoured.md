@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "disfavoured"
+title: "The Disfavoured"
 declared: "die Benachteiligte"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "smithy"
+title: "Smithy"
 declared: "Der Schlag in der Schmiede"
 license: CC-BY-NC-SA-4.0
 stamp:

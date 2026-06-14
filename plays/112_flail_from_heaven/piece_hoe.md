@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "hoe"
+title: "The Hoe"
 declared: "die Hacke"
 license: CC-BY-NC-SA-4.0
 stamp:

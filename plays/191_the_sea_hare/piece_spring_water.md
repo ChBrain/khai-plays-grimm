@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "spring_water"
+title: "The Spring Water"
 declared: "das Quellwasser"
 license: CC-BY-NC-SA-4.0
 stamp:

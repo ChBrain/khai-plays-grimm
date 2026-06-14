@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "binding"
+title: "Binding"
 declared: "Fesselung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "free"
+title: "The Free"
 declared: "der Freie"
 license: CC-BY-NC-SA-4.0
 stamp:

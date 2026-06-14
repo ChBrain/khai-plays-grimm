@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "antagonist"
+title: "The Antagonist"
 declared: "Bösewicht"
 license: CC-BY-NC-SA-4.0
 stamp:

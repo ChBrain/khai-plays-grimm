@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "rich"
+title: "The Rich"
 declared: "der Reiche"
 license: CC-BY-NC-SA-4.0
 stamp:

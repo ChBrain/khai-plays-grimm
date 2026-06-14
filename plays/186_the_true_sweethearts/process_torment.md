@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "torment"
+title: "Torment"
 declared: "die Quälerei"
 license: CC-BY-NC-SA-4.0
 stamp:

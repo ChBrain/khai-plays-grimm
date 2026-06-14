@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "evil_queen"
+title: "The Evil Queen"
 declared: "Böse Königin"
 license: CC-BY-NC-SA-4.0
 stamp:

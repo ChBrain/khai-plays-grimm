@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "mercy"
+title: "Mercy"
 declared: "Die Barmherzigkeit des Kochs"
 license: CC-BY-NC-SA-4.0
 stamp:

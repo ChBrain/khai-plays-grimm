@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "fathers_house"
+title: "The Fathers House"
 declared: "das Vaterhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_from-soldier-to-lackey"
+title: "From Soldier to Lackey"
 declared: "Vom Soldaten zum Lakai"
 license: CC-BY-NC-SA-4.0
 stamp:

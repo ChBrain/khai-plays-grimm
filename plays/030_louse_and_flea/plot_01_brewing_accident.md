@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_brewing_accident"
+title: "Brewing Accident"
 declared: "Der Unfall"
 license: CC-BY-NC-SA-4.0
 stamp:

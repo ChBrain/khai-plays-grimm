@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "blood_egg"
+title: "Blood Egg"
 declared: "Das blutige Ei"
 license: CC-BY-NC-SA-4.0
 stamp:

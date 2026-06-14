@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "greed_trap"
+title: "Greed Trap"
 declared: "Die Falle der Habgier"
 license: CC-BY-NC-SA-4.0
 stamp:

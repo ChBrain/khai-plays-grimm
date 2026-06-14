@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_nature_grief"
+title: "Nature Grief"
 declared: "Natur in Trauer"
 license: CC-BY-NC-SA-4.0
 stamp:

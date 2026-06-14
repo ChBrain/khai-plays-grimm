@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "master"
+title: "The Master"
 declared: "Der Meister"
 license: CC-BY-NC-SA-4.0
 stamp:

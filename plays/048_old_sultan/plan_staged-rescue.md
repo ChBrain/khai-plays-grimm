@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "staged-rescue"
+title: "Staged Rescue"
 declared: "die gestellte Rettung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "john"
+title: "The John"
 declared: "der Knecht Hans"
 license: CC-BY-NC-SA-4.0
 stamp:

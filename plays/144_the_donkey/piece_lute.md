@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "lute"
+title: "The Lute"
 declared: "die Laute"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_einladung"
+title: "Einladung"
 declared: "Die Einladung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "hole"
+title: "The Hole"
 declared: "das Mauseloch"
 license: CC-BY-NC-SA-4.0
 stamp:

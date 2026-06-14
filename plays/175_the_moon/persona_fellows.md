@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "fellows"
+title: "The Fellows"
 declared: "die vier Gesellen"
 license: CC-BY-NC-SA-4.0
 stamp:

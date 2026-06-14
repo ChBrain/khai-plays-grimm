@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "drum"
+title: "The Drum"
 declared: "die Trommel"
 license: CC-BY-NC-SA-4.0
 stamp:

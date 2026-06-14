@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "mercy"
+title: "Mercy"
 declared: "Die Gnade vor der Probe"
 license: CC-BY-NC-SA-4.0
 stamp:

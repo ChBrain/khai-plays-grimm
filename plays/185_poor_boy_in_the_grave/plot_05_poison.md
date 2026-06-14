@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "poison"
+title: "Poison"
 declared: "Der vermeintliche Gift-Topf"
 license: CC-BY-NC-SA-4.0
 stamp:

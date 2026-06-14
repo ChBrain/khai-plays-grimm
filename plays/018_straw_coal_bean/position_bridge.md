@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "bridge"
+title: "The Bridge"
 declared: "Brückenbauer"
 license: CC-BY-NC-SA-4.0
 stamp:

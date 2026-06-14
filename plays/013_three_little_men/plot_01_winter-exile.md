@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_winter-exile"
+title: "Winter Exile"
 declared: "Die Vertreibung im Papierkleid"
 license: CC-BY-NC-SA-4.0
 stamp:

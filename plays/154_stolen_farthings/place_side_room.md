@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "side_room"
+title: "The Side Room"
 declared: "die Nebenkammer"
 license: CC-BY-NC-SA-4.0
 stamp:

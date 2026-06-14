@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "blindworm"
+title: "The Blindworm"
 declared: "Blindschleiche"
 license: CC-BY-NC-SA-4.0
 stamp:

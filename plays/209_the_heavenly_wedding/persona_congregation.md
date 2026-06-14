@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "congregation"
+title: "The Congregation"
 declared: "die Gemeinde"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "duel_challenge"
+title: "Duel Challenge"
 declared: "Die Herausforderung"
 license: CC-BY-NC-SA-4.0
 stamp:

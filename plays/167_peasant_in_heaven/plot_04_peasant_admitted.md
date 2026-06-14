@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "peasant_admitted"
+title: "Peasant Admitted"
 declared: "Der stille Einzug des Armen"
 license: CC-BY-NC-SA-4.0
 stamp:

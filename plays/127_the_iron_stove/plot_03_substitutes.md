@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "substitutes"
+title: "Substitutes"
 declared: "Die untauglichen Stellvertreterinnen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "atoner"
+title: "The Atoner"
 declared: "der Sühnende"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "herd"
+title: "The Herd"
 declared: "die Herde"
 license: CC-BY-NC-SA-4.0
 stamp:

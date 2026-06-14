@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "mercy"
+title: "Mercy"
 declared: "die Gnade"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "huntsman"
+title: "The Huntsman"
 declared: "der Jäger"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "spy"
+title: "The Spy"
 declared: "Kundschafterin"
 license: CC-BY-NC-SA-4.0
 stamp:

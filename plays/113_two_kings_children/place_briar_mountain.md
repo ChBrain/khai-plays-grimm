@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "briar_mountain"
+title: "The Briar Mountain"
 declared: "der Dornenberg"
 license: CC-BY-NC-SA-4.0
 stamp:

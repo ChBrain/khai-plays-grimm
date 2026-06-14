@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_pact-and-storage"
+title: "Pact and Storage"
 declared: "Der Pakt und die Verwahrung"
 license: CC-BY-NC-SA-4.0
 stamp:

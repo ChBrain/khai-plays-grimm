@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "seller"
+title: "The Seller"
 declared: "der Verkäufer"
 license: CC-BY-NC-SA-4.0
 stamp:

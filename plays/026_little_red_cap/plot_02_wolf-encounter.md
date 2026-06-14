@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_wolf-encounter"
+title: "Wolf Encounter"
 declared: "Die Begegnung"
 license: CC-BY-NC-SA-4.0
 stamp:

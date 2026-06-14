@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "botcher"
+title: "The Botcher"
 declared: "der Pfuscher"
 license: CC-BY-NC-SA-4.0
 stamp:

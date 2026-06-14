@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_three-prophecies"
+title: "Three Prophecies"
 declared: "Die drei Prophezeiungen"
 license: CC-BY-NC-SA-4.0
 stamp:

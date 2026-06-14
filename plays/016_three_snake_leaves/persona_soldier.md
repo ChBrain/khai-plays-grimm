@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "soldier"
+title: "The Soldier"
 declared: "Soldat"
 license: CC-BY-NC-SA-4.0
 stamp:

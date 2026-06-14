@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "stone_castle"
+title: "Stone Castle"
 declared: "Die Steintafel"
 license: CC-BY-NC-SA-4.0
 stamp:

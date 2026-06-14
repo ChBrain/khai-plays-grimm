@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "housekeeper"
+title: "The Housekeeper"
 declared: "Hausfrau"
 license: CC-BY-NC-SA-4.0
 stamp:

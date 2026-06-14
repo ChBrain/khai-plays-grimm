@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "devastation"
+title: "Devastation"
 declared: "die Verwüstung"
 license: CC-BY-NC-SA-4.0
 stamp:

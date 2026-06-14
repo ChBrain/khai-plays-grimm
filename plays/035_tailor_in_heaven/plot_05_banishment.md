@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "banishment"
+title: "Banishment"
 declared: "Die Vertreibung"
 license: CC-BY-NC-SA-4.0
 stamp:

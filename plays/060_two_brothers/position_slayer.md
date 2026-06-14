@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "slayer"
+title: "The Slayer"
 declared: "Drachentöter"
 license: CC-BY-NC-SA-4.0
 stamp:

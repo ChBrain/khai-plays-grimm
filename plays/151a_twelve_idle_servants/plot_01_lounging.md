@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "lounging"
+title: "Lounging"
 declared: "Das Lagern im Gras"
 license: CC-BY-NC-SA-4.0
 stamp:

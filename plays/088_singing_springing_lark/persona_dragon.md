@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "dragon"
+title: "The Dragon"
 declared: "die Drachenprinzessin"
 license: CC-BY-NC-SA-4.0
 stamp:

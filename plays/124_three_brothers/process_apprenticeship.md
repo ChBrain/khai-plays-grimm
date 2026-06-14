@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "apprenticeship"
+title: "Apprenticeship"
 declared: "die Lehre"
 license: CC-BY-NC-SA-4.0
 stamp:

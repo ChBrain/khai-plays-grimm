@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "farthing"
+title: "The Farthing"
 declared: "der blanke Heller"
 license: CC-BY-NC-SA-4.0
 stamp:

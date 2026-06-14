@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "lean_lisa"
+title: "Lean Lisa"
 declared: "der Reichtum"
 license: CC-BY-NC-SA-4.0
 stamp:

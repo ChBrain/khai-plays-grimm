@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "realm"
+title: "The Realm"
 declared: "das göttliche Reich"
 license: CC-BY-NC-SA-4.0
 stamp:

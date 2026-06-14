@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "teufel"
+title: "The Teufel"
 declared: "der letzte Teufel"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "tree"
+title: "The Tree"
 declared: "Bäumchen"
 license: CC-BY-NC-SA-4.0
 stamp:

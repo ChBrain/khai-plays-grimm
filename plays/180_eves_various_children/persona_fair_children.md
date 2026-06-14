@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "fair_children"
+title: "The Fair Children"
 declared: "die schönen Kinder"
 license: CC-BY-NC-SA-4.0
 stamp:

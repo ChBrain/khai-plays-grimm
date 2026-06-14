@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "swine_apparel"
+title: "The Swine Apparel"
 declared: "Saustallkleidung"
 license: CC-BY-NC-SA-4.0
 stamp:

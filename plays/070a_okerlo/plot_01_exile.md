@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_exile"
+title: "Exile"
 declared: "Die Wiege und die Insel"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "enchantment"
+title: "Enchantment"
 declared: "das Zauberwirken"
 license: CC-BY-NC-SA-4.0
 stamp:

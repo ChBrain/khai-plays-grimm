@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "adviser"
+title: "The Adviser"
 declared: "die Ratgeberin"
 license: CC-BY-NC-SA-4.0
 stamp:

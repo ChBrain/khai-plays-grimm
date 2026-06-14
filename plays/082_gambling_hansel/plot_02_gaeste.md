@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "gaeste"
+title: "Gaeste"
 declared: "Die eingekehrten Gäste"
 license: CC-BY-NC-SA-4.0
 stamp:

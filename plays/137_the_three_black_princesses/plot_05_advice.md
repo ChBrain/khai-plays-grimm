@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_advice"
+title: "Advice"
 declared: "Der Rat der Mutter"
 license: CC-BY-NC-SA-4.0
 stamp:

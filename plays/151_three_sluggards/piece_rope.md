@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "rope"
+title: "The Rope"
 declared: "der Strick"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "ferdinand_ungetreu"
+title: "Ferdinand Ungetreu"
 declared: "Ferdinand der Ungetreue"
 license: CC-BY-NC-SA-4.0
 stamp:

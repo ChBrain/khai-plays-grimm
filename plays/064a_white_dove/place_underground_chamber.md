@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "underground_chamber"
+title: "The Underground Chamber"
 declared: "unterirdische Kammer"
 license: CC-BY-NC-SA-4.0
 stamp:

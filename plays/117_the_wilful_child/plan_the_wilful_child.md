@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "the_wilful_child"
+title: "The Wilful Child"
 declared: "die Ruhe"
 license: CC-BY-NC-SA-4.0
 stamp:

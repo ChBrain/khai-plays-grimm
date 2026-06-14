@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "forest"
+title: "The Forest"
 declared: "der große Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "fur_mantle"
+title: "The Fur Mantle"
 declared: "Rauhrock"
 license: CC-BY-NC-SA-4.0
 stamp:

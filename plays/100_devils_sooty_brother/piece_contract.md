@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "contract"
+title: "The Contract"
 declared: "der Siebenjahresvertrag"
 license: CC-BY-NC-SA-4.0
 stamp:

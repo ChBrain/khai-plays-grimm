@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_three-kindnesses"
+title: "Three Kindnesses"
 declared: "Die drei Wohltaten"
 license: CC-BY-NC-SA-4.0
 stamp:

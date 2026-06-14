@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "shutter"
+title: "The Shutter"
 declared: "Fensterladen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "porridge"
+title: "The Porridge"
 declared: "Brei"
 license: CC-BY-NC-SA-4.0
 stamp:

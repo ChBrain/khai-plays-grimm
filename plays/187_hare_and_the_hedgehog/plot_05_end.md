@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "end"
+title: "End"
 declared: "Das Ende des Hasen"
 license: CC-BY-NC-SA-4.0
 stamp:

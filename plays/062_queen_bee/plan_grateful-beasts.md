@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "grateful-beasts"
+title: "Grateful Beasts"
 declared: "die Lösung durch die dankbaren Tiere"
 license: CC-BY-NC-SA-4.0
 stamp:

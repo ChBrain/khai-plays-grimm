@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "loaf"
+title: "The Loaf"
 declared: "das blutende Brot"
 license: CC-BY-NC-SA-4.0
 stamp:

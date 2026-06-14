@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "poor_millers_boy_and_cat"
+title: "Poor Millers Boy and Cat"
 declared: "der Dienstvertrag"
 license: CC-BY-NC-SA-4.0
 stamp:

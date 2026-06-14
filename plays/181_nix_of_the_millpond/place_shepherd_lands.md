@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "shepherd_lands"
+title: "The Shepherd Lands"
 declared: "das fremde Hirtenland"
 license: CC-BY-NC-SA-4.0
 stamp:

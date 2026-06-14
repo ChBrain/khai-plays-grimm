@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "high-linden"
+title: "The High Linden"
 declared: "hohe Linde"
 license: CC-BY-NC-SA-4.0
 stamp:

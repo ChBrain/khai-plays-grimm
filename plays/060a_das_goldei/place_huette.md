@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "huette"
+title: "The Huette"
 declared: "Hütte der Besenbinder"
 license: CC-BY-NC-SA-4.0
 stamp:

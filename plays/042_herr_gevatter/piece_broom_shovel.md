@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "broom_shovel"
+title: "The Broom Shovel"
 declared: "Besen und Schaufel"
 license: CC-BY-NC-SA-4.0
 stamp:

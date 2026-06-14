@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "ballroom"
+title: "The Ballroom"
 declared: "Festsaal"
 license: CC-BY-NC-SA-4.0
 stamp:

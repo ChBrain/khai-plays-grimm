@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "trials"
+title: "Trials"
 declared: "Prüfungen"
 license: CC-BY-NC-SA-4.0
 stamp:

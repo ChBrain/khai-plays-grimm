@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "uniform"
+title: "The Uniform"
 declared: "Jagdkleidung"
 license: CC-BY-NC-SA-4.0
 stamp:

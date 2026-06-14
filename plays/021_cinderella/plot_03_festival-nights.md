@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_festival-nights"
+title: "Festival Nights"
 declared: "Die Festnächte"
 license: CC-BY-NC-SA-4.0
 stamp:

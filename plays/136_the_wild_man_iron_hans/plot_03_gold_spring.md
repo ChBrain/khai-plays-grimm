@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_gold_spring"
+title: "Gold Spring"
 declared: "Die Bewachung des Goldbrunnens"
 license: CC-BY-NC-SA-4.0
 stamp:

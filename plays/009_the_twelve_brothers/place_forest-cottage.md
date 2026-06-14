@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "forest-cottage"
+title: "The Forest Cottage"
 declared: "Waldhaus"
 license: CC-BY-NC-SA-4.0
 stamp:

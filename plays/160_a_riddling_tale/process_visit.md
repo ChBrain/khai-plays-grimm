@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "visit"
+title: "Visit"
 declared: "der nächtliche Besuch"
 license: CC-BY-NC-SA-4.0
 stamp:

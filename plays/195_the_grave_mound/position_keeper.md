@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "keeper"
+title: "The Keeper"
 declared: "der Getreue"
 license: CC-BY-NC-SA-4.0
 stamp:

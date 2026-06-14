@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "trapdoor"
+title: "The Trapdoor"
 declared: "die Falltür"
 license: CC-BY-NC-SA-4.0
 stamp:

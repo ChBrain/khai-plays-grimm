@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "benefactor"
+title: "The Benefactor"
 declared: "Wohltäter"
 license: CC-BY-NC-SA-4.0
 stamp:

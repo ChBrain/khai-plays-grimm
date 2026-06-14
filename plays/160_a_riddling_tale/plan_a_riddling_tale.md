@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "a_riddling_tale"
+title: "A Riddling Tale"
 declared: "die Erlösung"
 license: CC-BY-NC-SA-4.0
 stamp:

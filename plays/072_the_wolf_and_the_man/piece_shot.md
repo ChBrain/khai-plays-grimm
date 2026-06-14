@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "shot"
+title: "The Shot"
 declared: "das Schrot"
 license: CC-BY-NC-SA-4.0
 stamp:

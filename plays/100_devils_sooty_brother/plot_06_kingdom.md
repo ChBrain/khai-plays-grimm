@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "kingdom"
+title: "Kingdom"
 declared: "Das gewonnene Königreich"
 license: CC-BY-NC-SA-4.0
 stamp:

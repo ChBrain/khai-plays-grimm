@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "bear"
+title: "Bear"
 declared: "Der Bär im Winter"
 license: CC-BY-NC-SA-4.0
 stamp:

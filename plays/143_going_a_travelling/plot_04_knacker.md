@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "knacker"
+title: "Knacker"
 declared: "Der Schinder"
 license: CC-BY-NC-SA-4.0
 stamp:

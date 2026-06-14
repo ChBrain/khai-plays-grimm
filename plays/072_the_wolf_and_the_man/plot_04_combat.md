@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "combat"
+title: "Combat"
 declared: "Der feurige Widerstand"
 license: CC-BY-NC-SA-4.0
 stamp:

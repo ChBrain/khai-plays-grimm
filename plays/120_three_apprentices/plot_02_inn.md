@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "inn"
+title: "Inn"
 declared: "Die Einkehr im Wirtshaus"
 license: CC-BY-NC-SA-4.0
 stamp:

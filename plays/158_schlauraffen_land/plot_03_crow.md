@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "crow"
+title: "Crow"
 declared: "Der Hahnenruf und das Ende"
 license: CC-BY-NC-SA-4.0
 stamp:

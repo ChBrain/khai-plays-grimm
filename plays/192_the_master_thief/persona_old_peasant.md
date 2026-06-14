@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "old_peasant"
+title: "The Old Peasant"
 declared: "der alte Bauer"
 license: CC-BY-NC-SA-4.0
 stamp:

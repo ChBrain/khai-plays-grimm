@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "garden"
+title: "Garden"
 declared: "Der Sohn aus dem Garten"
 license: CC-BY-NC-SA-4.0
 stamp:

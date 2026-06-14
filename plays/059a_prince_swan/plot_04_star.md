@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_star"
+title: "Star"
 declared: "Zu Gast bei dem Stern"
 license: CC-BY-NC-SA-4.0
 stamp:

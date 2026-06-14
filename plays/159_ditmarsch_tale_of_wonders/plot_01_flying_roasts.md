@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "flying_roasts"
+title: "Flying Roasts"
 declared: "Die fliegenden Braten und die schwimmenden Steine"
 license: CC-BY-NC-SA-4.0
 stamp:

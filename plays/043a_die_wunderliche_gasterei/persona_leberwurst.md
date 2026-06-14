@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "leberwurst"
+title: "Leberwurst"
 declared: "Leberwurst"
 license: CC-BY-NC-SA-4.0
 stamp:

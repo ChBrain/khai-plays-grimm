@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "golden_horse"
+title: "The Golden Horse"
 declared: "Goldenes Pferd"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "feathers"
+title: "The Feathers"
 declared: "Federn"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "frustrated"
+title: "The Frustrated"
 declared: "Geplagter"
 license: CC-BY-NC-SA-4.0
 stamp:

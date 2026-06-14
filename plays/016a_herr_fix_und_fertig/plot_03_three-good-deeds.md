@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_three-good-deeds"
+title: "Three Good Deeds"
 declared: "Die drei guten Taten"
 license: CC-BY-NC-SA-4.0
 stamp:

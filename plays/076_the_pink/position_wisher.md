@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "wisher"
+title: "The Wisher"
 declared: "der Wünschende"
 license: CC-BY-NC-SA-4.0
 stamp:

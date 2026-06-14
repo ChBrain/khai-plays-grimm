@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_banishment"
+title: "Banishment"
 declared: "Das Mausehautkleid"
 license: CC-BY-NC-SA-4.0
 stamp:

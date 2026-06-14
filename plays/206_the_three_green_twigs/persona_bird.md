@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "bird"
+title: "The Bird"
 declared: "das Vöglein"
 license: CC-BY-NC-SA-4.0
 stamp:

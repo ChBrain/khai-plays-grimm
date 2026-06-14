@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "cat_land"
+title: "The Cat Land"
 declared: "das Land ohne Katze"
 license: CC-BY-NC-SA-4.0
 stamp:

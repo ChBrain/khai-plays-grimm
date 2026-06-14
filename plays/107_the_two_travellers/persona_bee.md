@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "bee"
+title: "The Bee"
 declared: "die Bienenkönigin"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "poor_boy_in_the_grave"
+title: "Poor Boy in the Grave"
 declared: "die Erlösung"
 license: CC-BY-NC-SA-4.0
 stamp:

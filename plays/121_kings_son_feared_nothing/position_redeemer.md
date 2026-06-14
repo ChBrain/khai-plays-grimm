@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "redeemer"
+title: "The Redeemer"
 declared: "die Erlöserin"
 license: CC-BY-NC-SA-4.0
 stamp:

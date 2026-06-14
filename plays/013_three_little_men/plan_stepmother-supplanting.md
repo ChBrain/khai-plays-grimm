@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "stepmother-supplanting"
+title: "Stepmother Supplanting"
 declared: "die Verdrängung der Stieftochter"
 license: CC-BY-NC-SA-4.0
 stamp:

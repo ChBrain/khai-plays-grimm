@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "wilful"
+title: "The Wilful"
 declared: "die Eigensinnige"
 license: CC-BY-NC-SA-4.0
 stamp:

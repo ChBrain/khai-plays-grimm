@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "scorner"
+title: "The Scorner"
 declared: "die Verächter"
 license: CC-BY-NC-SA-4.0
 stamp:

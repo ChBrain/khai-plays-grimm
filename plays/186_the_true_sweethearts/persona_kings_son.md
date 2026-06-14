@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "kings_son"
+title: "The Kings Son"
 declared: "der Königssohn"
 license: CC-BY-NC-SA-4.0
 stamp:

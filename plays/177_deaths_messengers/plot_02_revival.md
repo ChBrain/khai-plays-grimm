@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "revival"
+title: "Revival"
 declared: "Die Labung am Wege"
 license: CC-BY-NC-SA-4.0
 stamp:

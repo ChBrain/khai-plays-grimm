@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "shadowing"
+title: "Shadowing"
 declared: "Verfolgung"
 license: CC-BY-NC-SA-4.0
 stamp:

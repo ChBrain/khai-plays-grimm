@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "lame_son"
+title: "The Lame Son"
 declared: "der lahme Sohn"
 license: CC-BY-NC-SA-4.0
 stamp:

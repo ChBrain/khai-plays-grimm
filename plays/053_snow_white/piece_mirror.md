@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "mirror"
+title: "The Mirror"
 declared: "Spiegel"
 license: CC-BY-NC-SA-4.0
 stamp:

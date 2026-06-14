@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "escape"
+title: "Escape"
 declared: "die Flucht vor den Oger-Eltern"
 license: CC-BY-NC-SA-4.0
 stamp:

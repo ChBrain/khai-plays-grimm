@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "bleeding"
+title: "Bleeding"
 declared: "das Blutwunder"
 license: CC-BY-NC-SA-4.0
 stamp:

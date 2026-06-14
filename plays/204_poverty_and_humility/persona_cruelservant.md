@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "cruelservant"
+title: "The Cruelservant"
 declared: "der hartherzige Diener"
 license: CC-BY-NC-SA-4.0
 stamp:

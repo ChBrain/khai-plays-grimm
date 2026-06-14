@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "attempt"
+title: "Attempt"
 declared: "der Mordanschlag"
 license: CC-BY-NC-SA-4.0
 stamp:

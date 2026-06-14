@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "hans_the_hedgehog"
+title: "Hans the Hedgehog"
 declared: "die Erlösung des Hans"
 license: CC-BY-NC-SA-4.0
 stamp:

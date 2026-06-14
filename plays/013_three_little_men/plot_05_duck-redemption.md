@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "05_duck-redemption"
+title: "Duck Redemption"
 declared: "Die Erlösung der Ente"
 license: CC-BY-NC-SA-4.0
 stamp:

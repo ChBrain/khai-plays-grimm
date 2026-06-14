@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "summoning"
+title: "Summoning"
 declared: "Die Beschwörung im Mondlicht"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "bridle"
+title: "The Bridle"
 declared: "Das Zaumzeug"
 license: CC-BY-NC-SA-4.0
 stamp:

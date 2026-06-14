@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "lord"
+title: "The Lord"
 declared: "der arme Mann"
 license: CC-BY-NC-SA-4.0
 stamp:

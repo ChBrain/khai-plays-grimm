@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "warnstimme"
+title: "Warnstimme"
 declared: "Warnstimme"
 license: CC-BY-NC-SA-4.0
 stamp:

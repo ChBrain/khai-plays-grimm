@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "brother"
+title: "The Brother"
 declared: "der Bruder Reginer"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "horse"
+title: "The Horse"
 declared: "Pferd"
 license: CC-BY-NC-SA-4.0
 stamp:

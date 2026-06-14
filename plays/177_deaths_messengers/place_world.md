@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "world"
+title: "The World"
 declared: "die Welt"
 license: CC-BY-NC-SA-4.0
 stamp:

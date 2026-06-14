@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "wagon"
+title: "The Wagon"
 declared: "Wagen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "boar_hunt"
+title: "Boar Hunt"
 declared: "Wildschweinjagd"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "godfather_chosen"
+title: "Godfather Chosen"
 declared: "Der gewählte Pate"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "vogel"
+title: "The Vogel"
 declared: "Goldvögelchen"
 license: CC-BY-NC-SA-4.0
 stamp:

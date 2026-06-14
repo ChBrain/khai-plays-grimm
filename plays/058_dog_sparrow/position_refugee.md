@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "refugee"
+title: "The Refugee"
 declared: "Flüchtling"
 license: CC-BY-NC-SA-4.0
 stamp:

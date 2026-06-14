@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "door"
+title: "The Door"
 declared: "Türchen"
 license: CC-BY-NC-SA-4.0
 stamp:

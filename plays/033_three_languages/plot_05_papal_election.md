@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "papal_election"
+title: "Papal Election"
 declared: "Die Papstweihe"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "renewer"
+title: "The Renewer"
 declared: "der Erneuerer"
 license: CC-BY-NC-SA-4.0
 stamp:

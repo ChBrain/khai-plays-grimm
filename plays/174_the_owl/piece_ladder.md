@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "ladder"
+title: "The Ladder"
 declared: "die Leiter"
 license: CC-BY-NC-SA-4.0
 stamp:

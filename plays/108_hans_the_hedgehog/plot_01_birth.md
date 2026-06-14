@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "birth"
+title: "Birth"
 declared: "Die Geburt"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "king_host"
+title: "The King Host"
 declared: "Gastkönig"
 license: CC-BY-NC-SA-4.0
 stamp:

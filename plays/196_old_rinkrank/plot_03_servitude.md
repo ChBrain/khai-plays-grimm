@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "servitude"
+title: "Servitude"
 declared: "Die Magd Mutter Mansrot"
 license: CC-BY-NC-SA-4.0
 stamp:

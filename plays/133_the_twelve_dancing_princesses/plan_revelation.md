@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "revelation"
+title: "Revelation"
 declared: "die Aufdeckung des Geheimnisses"
 license: CC-BY-NC-SA-4.0
 stamp:

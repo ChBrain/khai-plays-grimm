@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "occupation"
+title: "Occupation"
 declared: "Besetzung"
 license: CC-BY-NC-SA-4.0
 stamp:

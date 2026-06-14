@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "fatal_pond"
+title: "Fatal Pond"
 declared: "Der Teich"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "mayor"
+title: "The Mayor"
 declared: "Tyrann"
 license: CC-BY-NC-SA-4.0
 stamp:

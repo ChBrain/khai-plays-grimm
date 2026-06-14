@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "meeting"
+title: "Meeting"
 declared: "Die Begegnung im Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

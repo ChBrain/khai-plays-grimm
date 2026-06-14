@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "kitchen_maid"
+title: "Kitchen Maid"
 declared: "Die Küchenmagd"
 license: CC-BY-NC-SA-4.0
 stamp:

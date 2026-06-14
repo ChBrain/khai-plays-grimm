@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "thornhedge"
+title: "The Thornhedge"
 declared: "die Dornhecke"
 license: CC-BY-NC-SA-4.0
 stamp:

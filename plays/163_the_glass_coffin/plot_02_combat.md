@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "combat"
+title: "Combat"
 declared: "Der Kampf von Stier und Hirsch"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "curse"
+title: "Curse"
 declared: "Der Fluch im Dickicht"
 license: CC-BY-NC-SA-4.0
 stamp:

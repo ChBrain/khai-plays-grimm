@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "first_sister"
+title: "The First Sister"
 declared: "die erste Schwester"
 license: CC-BY-NC-SA-4.0
 stamp:

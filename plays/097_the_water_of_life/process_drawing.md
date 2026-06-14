@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "drawing"
+title: "Drawing"
 declared: "die Schöpfung"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "piece_wolf"
+title: "The Piece Wolf"
 declared: "Wolf"
 license: CC-BY-NC-SA-4.0
 stamp:

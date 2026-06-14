@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "kings-court"
+title: "The Kings Court"
 declared: "Hof des Königs"
 license: CC-BY-NC-SA-4.0
 stamp:

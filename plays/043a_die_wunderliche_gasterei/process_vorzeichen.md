@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "vorzeichen"
+title: "Vorzeichen"
 declared: "die Vorzeichen"
 license: CC-BY-NC-SA-4.0
 stamp:

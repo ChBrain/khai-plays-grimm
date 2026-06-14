@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "flight"
+title: "Flight"
 declared: "Die Warnung und die Flucht"
 license: CC-BY-NC-SA-4.0
 stamp:

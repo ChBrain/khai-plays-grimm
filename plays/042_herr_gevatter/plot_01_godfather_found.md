@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "godfather_found"
+title: "Godfather Found"
 declared: "Der gefundene Gevatter"
 license: CC-BY-NC-SA-4.0
 stamp:

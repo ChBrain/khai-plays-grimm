@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "02_sorting-trials"
+title: "Sorting Trials"
 declared: "Die Linsenprüfungen"
 license: CC-BY-NC-SA-4.0
 stamp:

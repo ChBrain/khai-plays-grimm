@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "courtship"
+title: "Courtship"
 declared: "Die Werbung"
 license: CC-BY-NC-SA-4.0
 stamp:

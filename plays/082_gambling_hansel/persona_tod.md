@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "tod"
+title: "The Tod"
 declared: "der Tod"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "04_plucking-riddles"
+title: "Plucking Riddles"
 declared: "In der Hölle"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "hospitable"
+title: "The Hospitable"
 declared: "der Gastfreundliche"
 license: CC-BY-NC-SA-4.0
 stamp:

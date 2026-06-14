@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "cornfield"
+title: "The Cornfield"
 declared: "das Kornfeld"
 license: CC-BY-NC-SA-4.0
 stamp:

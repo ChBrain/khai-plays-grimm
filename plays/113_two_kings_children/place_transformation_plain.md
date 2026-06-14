@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "transformation_plain"
+title: "The Transformation Plain"
 declared: "die Ebene der Verwandlungen"
 license: CC-BY-NC-SA-4.0
 stamp:

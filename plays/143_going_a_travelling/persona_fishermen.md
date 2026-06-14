@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "fishermen"
+title: "The Fishermen"
 declared: "die Fischer"
 license: CC-BY-NC-SA-4.0
 stamp:

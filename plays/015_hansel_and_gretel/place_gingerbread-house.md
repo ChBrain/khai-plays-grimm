@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "gingerbread-house"
+title: "The Gingerbread House"
 declared: "Zuckerhäuschen"
 license: CC-BY-NC-SA-4.0
 stamp:

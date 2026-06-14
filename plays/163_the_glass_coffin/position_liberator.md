@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "liberator"
+title: "The Liberator"
 declared: "der Befreier"
 license: CC-BY-NC-SA-4.0
 stamp:

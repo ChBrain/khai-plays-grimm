@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "cursing"
+title: "Cursing"
 declared: "die Verwünschung"
 license: CC-BY-NC-SA-4.0
 stamp:

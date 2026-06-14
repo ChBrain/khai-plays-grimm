@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "impossible_tasks"
+title: "Impossible Tasks"
 declared: "Die drei Aufgaben"
 license: CC-BY-NC-SA-4.0
 stamp:

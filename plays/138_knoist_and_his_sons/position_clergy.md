@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "clergy"
+title: "The Clergy"
 declared: "die Geistlichkeit"
 license: CC-BY-NC-SA-4.0
 stamp:

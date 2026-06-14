@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "03_liberation"
+title: "Liberation"
 declared: "Die Taubenprobe und der Prinz"
 license: CC-BY-NC-SA-4.0
 stamp:

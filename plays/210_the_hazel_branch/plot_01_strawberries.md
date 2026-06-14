@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "strawberries"
+title: "Strawberries"
 declared: "Die Erdbeeren für das schlafende Kind"
 license: CC-BY-NC-SA-4.0
 stamp:

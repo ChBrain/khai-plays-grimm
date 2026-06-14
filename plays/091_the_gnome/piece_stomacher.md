@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "stomacher"
+title: "The Stomacher"
 declared: "der goldene Brustlatz"
 license: CC-BY-NC-SA-4.0
 stamp:

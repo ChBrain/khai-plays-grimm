@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "questioner"
+title: "The Questioner"
 declared: "die Fragende"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "murder-inn"
+title: "The Murder Inn"
 declared: "Mörderherberge"
 license: CC-BY-NC-SA-4.0
 stamp:

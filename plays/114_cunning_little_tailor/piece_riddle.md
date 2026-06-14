@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "riddle"
+title: "The Riddle"
 declared: "das Rätsel"
 license: CC-BY-NC-SA-4.0
 stamp:

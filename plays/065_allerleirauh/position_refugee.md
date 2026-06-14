@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "refugee"
+title: "The Refugee"
 declared: "Entflohene"
 license: CC-BY-NC-SA-4.0
 stamp:

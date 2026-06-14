@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "poor_house"
+title: "The Poor House"
 declared: "das arme Häuschen"
 license: CC-BY-NC-SA-4.0
 stamp:

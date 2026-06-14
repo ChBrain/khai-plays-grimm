@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "wager"
+title: "Wager"
 declared: "Die Wette um die Mühle"
 license: CC-BY-NC-SA-4.0
 stamp:

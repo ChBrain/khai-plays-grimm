@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "grosses_wasser"
+title: "The Grosses Wasser"
 declared: "das große Wasser"
 license: CC-BY-NC-SA-4.0
 stamp:

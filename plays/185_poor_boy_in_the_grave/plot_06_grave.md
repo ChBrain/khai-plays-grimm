@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "grave"
+title: "Grave"
 declared: "Das Ende im Grabe"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "bad_cabbage"
+title: "The Bad Cabbage"
 declared: "der böse Krautkopf"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "tailor"
+title: "The Tailor"
 declared: "Schneider"
 license: CC-BY-NC-SA-4.0
 stamp:
