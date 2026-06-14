@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.137.0",
+  "version": "0.211.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -687,6 +687,376 @@
       "id": "137_the_three_black_princesses",
       "title": "The Three Black Princesses",
       "description": "Drei schwarze Prinzessinnen werden fast erlöst, bis der Fischersohn aus Neugier kochendes Wasser über sie gießt."
+    },
+    {
+      "id": "138_knoist_and_his_sons",
+      "title": "Knoist and His Three Sons",
+      "description": "Drei gebrechliche Söhne ziehen aus und erleben lauter Unmöglichkeiten ohne Sinn."
+    },
+    {
+      "id": "139_maid_of_brakel",
+      "title": "The Maid of Brakel",
+      "description": "Ein Mädchen erfleht einen Mann, hält den höhnenden Küster für die Heilige und weist das Kind Maria zurecht."
+    },
+    {
+      "id": "140_domestic_servants",
+      "title": "Domestic Servants",
+      "description": "Zwei Sprecherinnen häufen im Wechselgesang ihren Hausstand auf und ziehen gemeinsam nach Walpe."
+    },
+    {
+      "id": "141_lambkin_and_little_fish",
+      "title": "The Lambkin and the Little Fish",
+      "description": "Eine neidische Hexenstiefmutter verwandelt zwei treue Geschwister in Tiere, bis eine weise Frau sie erlöst."
+    },
+    {
+      "id": "142_simeli_mountain",
+      "title": "Simeli Mountain",
+      "description": "Der arme Bruder begnügt sich mit Gold, doch der habgierige Bruder vergisst das Wort und verliert den Kopf."
+    },
+    {
+      "id": "143_going_a_travelling",
+      "title": "Going A-Travelling",
+      "description": "Ein einfältiger Sohn wandert aus und wird überall geprügelt, weil er gelernte Worte stets am falschen Ort wiederholt."
+    },
+    {
+      "id": "144_the_donkey",
+      "title": "The Donkey",
+      "description": "Ein als Esel geborener Prinz erspielt sich mit der Laute eine Braut und legt seine Haut ab."
+    },
+    {
+      "id": "145_the_ungrateful_son",
+      "title": "The Ungrateful Son",
+      "description": "Ein Mann versteckt das Brathuhn vor dem alten Vater und trägt zur Strafe ewig die Kröte im Gesicht."
+    },
+    {
+      "id": "146_the_turnip",
+      "title": "The Turnip",
+      "description": "Ein armer Bruder zieht eine Riesenrübe, wird reich beschenkt und entkommt dem Neid des Bruders durch List."
+    },
+    {
+      "id": "147_old_man_made_young",
+      "title": "The Old Man Made Young Again",
+      "description": "Ein Schmied ahmt das göttliche Verjüngungswunder plump nach und richtet nur Unheil an."
+    },
+    {
+      "id": "148_lords_animals_and_devils",
+      "title": "The Lord's Animals and the Devil's",
+      "description": "Der Teufel pfuscht die Ziegen, der Herrgott straft sie, und am Ende fordert der Betrug seinen ewigen Preis."
+    },
+    {
+      "id": "149_the_beam",
+      "title": "The Beam",
+      "description": "Ein Mädchen durchschaut den Trug des Zauberers, wird aber an ihrem Hochzeitstag selbst geblendet."
+    },
+    {
+      "id": "150_old_beggar_woman",
+      "title": "The Old Beggar-Woman",
+      "description": "Eine alte Bettelfrau gerät am Feuer in Brand, und ein Knabe sieht zu, ohne zu löschen."
+    },
+    {
+      "id": "151_three_sluggards",
+      "title": "The Three Sluggards",
+      "description": "Ein sterbender König vermacht das Reich dem faulsten seiner drei Söhne."
+    },
+    {
+      "id": "151a_twelve_idle_servants",
+      "title": "The Twelve Idle Servants",
+      "description": "Zwölf faule Knechte liegen abends im Gras und überbieten sich prahlend mit ihrer eigenen Trägheit."
+    },
+    {
+      "id": "152_shepherd_boy",
+      "title": "The Shepherd Boy",
+      "description": "Ein Hirtenjunge beantwortet die drei unmöglichen Fragen des Königs mit kluger Weisheit."
+    },
+    {
+      "id": "153_star_money",
+      "title": "The Star-Money",
+      "description": "Ein frommes Waisenkind verschenkt all sein Hab und Gut und wird vom Himmel mit Sternentalern reich beschenkt."
+    },
+    {
+      "id": "154_stolen_farthings",
+      "title": "The Stolen Farthings",
+      "description": "Ein totes Kind kehrt heim, bis seine verborgene Schuld gesühnt und es zur Ruhe gebettet ist."
+    },
+    {
+      "id": "155_brides_on_trial",
+      "title": "Brides on Their Trial",
+      "description": "Ein Schäfer prüft drei gleich hübsche Schwestern am Käse und wählt die maßvolle zur Frau."
+    },
+    {
+      "id": "156_odds_and_ends",
+      "title": "Odds and Ends",
+      "description": "Eine faule Maid verwirft ihre Werg-Reste, doch die fleißige Magd verspinnt sie und gewinnt den Bräutigam."
+    },
+    {
+      "id": "157_sparrow_and_four_children",
+      "title": "The Sparrow and His Four Children",
+      "description": "Ein alter Sperling belehrt seine vier Söhne und lobt das Gottvertrauen des Jüngsten."
+    },
+    {
+      "id": "158_schlauraffen_land",
+      "title": "The Story of Schlauraffen Land",
+      "description": "Ein Aufschneider prahlt mit unmöglichen Wundern, bis ein Hahn das Lügenmärchen beschließt."
+    },
+    {
+      "id": "159_ditmarsch_tale_of_wonders",
+      "title": "The Ditmarsch Tale of Wonders",
+      "description": "Ein Erzähler reiht in einem Lügenmärchen lauter Unmöglichkeiten aneinander und lässt am Ende das Fenster öffnen."
+    },
+    {
+      "id": "160_a_riddling_tale",
+      "title": "A Riddling Tale",
+      "description": "Drei verzauberte Blumen gleichen sich völlig, doch der Tau verrät die eine, die erlöst werden kann."
+    },
+    {
+      "id": "161_snow_white_and_rose_red",
+      "title": "Snow-White and Rose-Red",
+      "description": "Zwei gütige Schwestern beherbergen einen Bären und erlösen ihn vom Fluch des undankbaren Zwergs."
+    },
+    {
+      "id": "162_the_wise_servant",
+      "title": "The Wise Servant",
+      "description": "Ein Knecht sucht statt der verlorenen Kuh drei Amseln und nennt das klug."
+    },
+    {
+      "id": "163_the_glass_coffin",
+      "title": "The Glass Coffin",
+      "description": "Ein armer Schneidergeselle befreit eine verzauberte Jungfrau aus dem gläsernen Sarg und gewinnt ihre Hand."
+    },
+    {
+      "id": "164_lazy_harry",
+      "title": "Lazy Harry",
+      "description": "Aus Bequemlichkeit tauscht Heinz alles weg, bis der Honigtopf zerbricht."
+    },
+    {
+      "id": "165_the_griffin",
+      "title": "The Griffin",
+      "description": "Ein einfältiger, aber höflicher Bauernsohn besteht alle Königsproben und gewinnt das Reich."
+    },
+    {
+      "id": "166_strong_hans",
+      "title": "Strong Hans",
+      "description": "Der bärenstarke Hans befreit seine Mutter, bezwingt den Zwerg und rettet die Königstochter aus Verrat."
+    },
+    {
+      "id": "167_peasant_in_heaven",
+      "title": "The Peasant in Heaven",
+      "description": "Ein armes Bürle und ein reicher Herr sterben zugleich, doch nur der seltene Reiche wird mit Musik im Himmel begrüßt."
+    },
+    {
+      "id": "168_lean_lisa",
+      "title": "Lean Lisa",
+      "description": "Die hagere Liese plagt sich um geträumten Reichtum und verstreitet sich mit dem langen Lenz."
+    },
+    {
+      "id": "169_hut_in_the_forest",
+      "title": "The Hut in the Forest",
+      "description": "Ein verwunschener Mann wird durch die Güte einer Tochter erlöst, die zuerst seinen Tieren dient."
+    },
+    {
+      "id": "170_sharing_joy_and_sorrow",
+      "title": "Sharing Joy and Sorrow",
+      "description": "Ein grausamer Schneider verdreht das Gebot, Leid und Freude zu teilen, und erhält dafür seinen Lohn."
+    },
+    {
+      "id": "171_the_willow_wren",
+      "title": "The Willow-Wren",
+      "description": "Ein winziger Vogel ergaunert sich durch List den Königstitel und wird dafür auf ewig verspottet."
+    },
+    {
+      "id": "172_the_sole",
+      "title": "The Sole",
+      "description": "Aus Neid über den Sieg des Herings verzieht die Scholle ihr Maul für immer."
+    },
+    {
+      "id": "173_bittern_and_hoopoe",
+      "title": "The Bittern and the Hoopoe",
+      "description": "Ein alter Hirt erklärt, wie zwei unmäßige Hirten ihre Herden verloren und zu rufenden Vögeln wurden."
+    },
+    {
+      "id": "174_the_owl",
+      "title": "The Owl",
+      "description": "Eine ganze Stadt fürchtet eine harmlose Eule und brennt die eigene Scheune nieder."
+    },
+    {
+      "id": "175_the_moon",
+      "title": "The Moon",
+      "description": "Vier Gesellen rauben den Mond, nehmen ihn ins Grab, und Petrus hängt ihn an den Himmel."
+    },
+    {
+      "id": "176_duration_of_life",
+      "title": "The Duration of Life",
+      "description": "Gott verteilt die abgelehnten Jahre der Tiere auf den Menschen und erklärt so dessen siebzig Lebensjahre."
+    },
+    {
+      "id": "177_deaths_messengers",
+      "title": "Death's Messengers",
+      "description": "Der Tod sendet seine Boten voraus, ehe er den sorglosen Menschen am Ende holt."
+    },
+    {
+      "id": "178_master_pfriem",
+      "title": "Master Pfriem",
+      "description": "Ein rastloser Nörgler tadelt selbst die Ordnung des Himmels und bleibt am Ende doch unverbesserlich."
+    },
+    {
+      "id": "179_goose_girl_at_the_well",
+      "title": "The Goose-Girl at the Well",
+      "description": "Eine verstoßene Prinzessin hütet Gänse in hässlicher Haut, bis eine alte Frau sie den reuigen Eltern zurückgibt."
+    },
+    {
+      "id": "180_eves_various_children",
+      "title": "Eve's Various Children",
+      "description": "Der Herr segnet Evas schöne und häßliche Kinder ungleich und ordnet so die Stände als Glieder eines Leibes."
+    },
+    {
+      "id": "181_nix_of_the_millpond",
+      "title": "The Nix of the Millpond",
+      "description": "Ein versprochenes Kind versinkt im Teich, doch die treue Liebe holt es im Mondlicht zurück."
+    },
+    {
+      "id": "182_little_folks_presents",
+      "title": "The Little Folks' Presents",
+      "description": "Ein genügsamer Schneider behält sein Gold, der habgierige Goldschmied verliert alles und einen zweiten Höcker dazu."
+    },
+    {
+      "id": "183_giant_and_the_tailor",
+      "title": "The Giant and the Tailor",
+      "description": "Ein prahlender Schneider verängstigt einen Riesen so sehr, dass dieser ihn durch eine List in die Lüfte schleudert."
+    },
+    {
+      "id": "184_the_nail",
+      "title": "The Nail",
+      "description": "Ein eiliger Kaufmann ignoriert einen fehlenden Nagel und verliert deshalb Pferd und Zeit."
+    },
+    {
+      "id": "185_poor_boy_in_the_grave",
+      "title": "The Poor Boy in the Grave",
+      "description": "Ein misshandelter Waisenjunge sucht im vermeintlichen Gift den Tod und stirbt im offenen Grab."
+    },
+    {
+      "id": "186_the_true_sweethearts",
+      "title": "The True Sweethearts",
+      "description": "Eine treue Jungfrau verliert ihren Geliebten an das Vergessen und gewinnt ihn durch drei Tänze zurück."
+    },
+    {
+      "id": "187_hare_and_the_hedgehog",
+      "title": "The Hare and the Hedgehog",
+      "description": "Ein verspotteter Igel überlistet den hochmütigen Hasen mit seiner gleich aussehenden Frau und gewinnt die Wette."
+    },
+    {
+      "id": "188_spindle_shuttle_needle",
+      "title": "The Spindle, the Shuttle, and the Needle",
+      "description": "Eine arme, fleißige Waise gewinnt durch die drei Zaubergaben ihrer Patin den Königssohn zum Gemahl."
+    },
+    {
+      "id": "189_peasant_and_the_devil",
+      "title": "The Peasant and the Devil",
+      "description": "Ein listiger Bauer überlistet den Teufel zweimal um die Ernte und gewinnt den Schatz."
+    },
+    {
+      "id": "190_crumbs_on_the_table",
+      "title": "The Crumbs on the Table",
+      "description": "Ein Bauer verführt seine Hündchen zum Naschen und lacht über ihre Prügel."
+    },
+    {
+      "id": "191_the_sea_hare",
+      "title": "The Sea-Hare",
+      "description": "Der jüngste Bruder verbirgt sich mit Hilfe dankbarer Tiere vor der allsehenden Prinzessin und gewinnt sie."
+    },
+    {
+      "id": "192_the_master_thief",
+      "title": "The Master-Thief",
+      "description": "Ein verlorener Sohn kehrt als Meisterdieb heim und besteht drei unmögliche Diebstahlsproben des Grafen."
+    },
+    {
+      "id": "193_the_drummer",
+      "title": "The Drummer",
+      "description": "Ein junger Trommler befreit eine verzauberte Königstochter vom Glasberg und gewinnt sie nach dem Vergessen zurück."
+    },
+    {
+      "id": "194_the_ear_of_corn",
+      "title": "The Ear of Corn",
+      "description": "Aus undankbarem Frevel am gesegneten Korn erwächst ein Gericht, das nur um der Unschuldigen willen gemildert wird."
+    },
+    {
+      "id": "195_the_grave_mound",
+      "title": "The Grave-Mound",
+      "description": "Ein furchtloser Soldat überlistet den Teufel mit dem bodenlosen Stiefel und rettet die Seele des Geizhalses."
+    },
+    {
+      "id": "196_old_rinkrank",
+      "title": "Old Rinkrank",
+      "description": "Eine gefangene Königstochter fängt den alten Rinkrank am Bart und entkommt über seine Zauberleiter."
+    },
+    {
+      "id": "197_the_crystal_ball",
+      "title": "The Crystal Ball",
+      "description": "Der jüngste Sohn befreit die verzauberte Königstochter durch die im Feuerei verborgene Kristallkugel."
+    },
+    {
+      "id": "198_maid_maleen",
+      "title": "Maid Maleen",
+      "description": "Eingemauert und verarmt erkämpft sich Maleen durch Treue ihren Prinzen und entlarvt die falsche Braut."
+    },
+    {
+      "id": "199_boots_of_buffalo_leather",
+      "title": "The Boots of Buffalo-Leather",
+      "description": "Ein furchtloser Soldat bannt zwölf Räuber und wird vom verkleideten König belohnt."
+    },
+    {
+      "id": "200_the_golden_key",
+      "title": "The Golden Key",
+      "description": "Ein armer Junge findet einen goldenen Schlüssel, gräbt ein Kästchen aus und dreht ihn, doch der Deckel bleibt zu."
+    },
+    {
+      "id": "201_st_joseph_in_the_forest",
+      "title": "St. Joseph in the Forest",
+      "description": "Drei Töchter prüft der heilige Joseph im Wald, doch nur die Frömmste wird reich belohnt."
+    },
+    {
+      "id": "202_the_twelve_apostles",
+      "title": "The Twelve Apostles",
+      "description": "Eine arme Mutter erfleht zwölf Söhne, die dreihundert Jahre schlafen und als Apostel erwachen."
+    },
+    {
+      "id": "203_the_rose",
+      "title": "The Rose",
+      "description": "Ein fremdes Kind schenkt dem armen Mädchen eine Rose und holt es heim, als sie aufblüht."
+    },
+    {
+      "id": "204_poverty_and_humility",
+      "title": "Poverty and Humility Lead to Heaven",
+      "description": "Ein Königssohn wählt Armut und Demut und findet durch sieben Jahre des Bettelns den Weg zum Himmel."
+    },
+    {
+      "id": "205_gods_food",
+      "title": "God's Food",
+      "description": "Eine arme Witwe wird von der reichen Schwester abgewiesen, und ihre Kinder verhungern."
+    },
+    {
+      "id": "206_the_three_green_twigs",
+      "title": "The Three Green Twigs",
+      "description": "Ein frommer Einsiedler verurteilt einen Sünder, büßt mit einem dürren Ast und stirbt, als drei grüne Zweige sprießen."
+    },
+    {
+      "id": "207_our_ladys_little_glass",
+      "title": "Our Lady's Little Glass",
+      "description": "Ein Fuhrmann gibt der Mutter Gottes Wein aus einem Blümchen, und sein Wagen ist frei."
+    },
+    {
+      "id": "208_the_aged_mother",
+      "title": "The Aged Mother",
+      "description": "Eine einsame Witwe sieht in der Totenkirche das verschonte Schicksal ihrer Söhne und stirbt getröstet."
+    },
+    {
+      "id": "209_the_heavenly_wedding",
+      "title": "The Heavenly Wedding",
+      "description": "Ein armer Junge geht stets geradeaus, hält die Kirche für den Himmel und stirbt zur himmlischen Hochzeit."
+    },
+    {
+      "id": "210_the_hazel_branch",
+      "title": "The Hazel-Branch",
+      "description": "Maria flieht vor einer Natter hinter einen Haselstrauch und segnet ihn fortan als Schutz vor allem Gewürm."
     }
   ]
 }
