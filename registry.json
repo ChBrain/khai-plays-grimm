@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.181.0",
+  "version": "0.191.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -907,6 +907,56 @@
       "id": "180_eves_various_children",
       "title": "Eve's Various Children",
       "description": "Der Herr segnet Evas schöne und häßliche Kinder ungleich und ordnet so die Stände als Glieder eines Leibes."
+    },
+    {
+      "id": "181_nix_of_the_millpond",
+      "title": "The Nix of the Millpond",
+      "description": "Ein versprochenes Kind versinkt im Teich, doch die treue Liebe holt es im Mondlicht zurück."
+    },
+    {
+      "id": "182_little_folks_presents",
+      "title": "The Little Folks' Presents",
+      "description": "Ein genügsamer Schneider behält sein Gold, der habgierige Goldschmied verliert alles und einen zweiten Höcker dazu."
+    },
+    {
+      "id": "183_giant_and_the_tailor",
+      "title": "The Giant and the Tailor",
+      "description": "Ein prahlender Schneider verängstigt einen Riesen so sehr, dass dieser ihn durch eine List in die Lüfte schleudert."
+    },
+    {
+      "id": "184_the_nail",
+      "title": "The Nail",
+      "description": "Ein eiliger Kaufmann ignoriert einen fehlenden Nagel und verliert deshalb Pferd und Zeit."
+    },
+    {
+      "id": "185_poor_boy_in_the_grave",
+      "title": "The Poor Boy in the Grave",
+      "description": "Ein misshandelter Waisenjunge sucht im vermeintlichen Gift den Tod und stirbt im offenen Grab."
+    },
+    {
+      "id": "186_the_true_sweethearts",
+      "title": "The True Sweethearts",
+      "description": "Eine treue Jungfrau verliert ihren Geliebten an das Vergessen und gewinnt ihn durch drei Tänze zurück."
+    },
+    {
+      "id": "187_hare_and_the_hedgehog",
+      "title": "The Hare and the Hedgehog",
+      "description": "Ein verspotteter Igel überlistet den hochmütigen Hasen mit seiner gleich aussehenden Frau und gewinnt die Wette."
+    },
+    {
+      "id": "188_spindle_shuttle_needle",
+      "title": "The Spindle, the Shuttle, and the Needle",
+      "description": "Eine arme, fleißige Waise gewinnt durch die drei Zaubergaben ihrer Patin den Königssohn zum Gemahl."
+    },
+    {
+      "id": "189_peasant_and_the_devil",
+      "title": "The Peasant and the Devil",
+      "description": "Ein listiger Bauer überlistet den Teufel zweimal um die Ernte und gewinnt den Schatz."
+    },
+    {
+      "id": "190_crumbs_on_the_table",
+      "title": "The Crumbs on the Table",
+      "description": "Ein Bauer verführt seine Hündchen zum Naschen und lacht über ihre Prügel."
     }
   ]
 }
