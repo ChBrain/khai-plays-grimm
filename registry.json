@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.222.0",
+  "version": "0.223.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -157,6 +157,11 @@
       "id": "027_bremen_musicians",
       "title": "The Town Musicians of Bremen",
       "description": "Vier alte Tiere entfliehen dem Tod und verjagen mit einem lauten Schreckkonzert Räuber aus ihrem Waldhaus."
+    },
+    {
+      "id": "027a_death_and_the_goose_boy",
+      "title": "Death and the Goose Boy",
+      "description": "Ein genügsamer Gänsehirte folgt dem Tod ins Jenseits, während ein Geizhals für seine Habgier bestraft wird."
     },
     {
       "id": "028_singing_bone",
