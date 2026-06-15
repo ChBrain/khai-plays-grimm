@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Vaterloses Kind"
+title: "The Fatherless Child"
 declared: "Das vaterlose Kind und die Zitrone"
 license: CC-BY-NC-SA-4.0
 stamp:

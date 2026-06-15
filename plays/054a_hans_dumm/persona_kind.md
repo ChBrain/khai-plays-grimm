@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Kind"
+title: "The Child"
 declared: "Kind"
 license: CC-BY-NC-SA-4.0
 stamp:

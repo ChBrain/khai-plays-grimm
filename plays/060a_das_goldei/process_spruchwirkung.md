@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Spruchwirkung"
+title: "The Spell's Effect"
 declared: "die Spruchwirkung"
 license: CC-BY-NC-SA-4.0
 stamp:

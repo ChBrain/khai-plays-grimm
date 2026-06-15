@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Goldei"
+title: "The Gold Egg"
 declared: "Goldei"
 license: CC-BY-NC-SA-4.0
 stamp:

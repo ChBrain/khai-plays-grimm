@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Vogel Zum Goldschmied"
+title: "The Bird Demands the Goldsmith"
 declared: "Der Vogel verlangt zum Goldschmied"
 license: CC-BY-NC-SA-4.0
 stamp:

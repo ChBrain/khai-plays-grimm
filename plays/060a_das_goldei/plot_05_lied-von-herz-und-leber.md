@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Lied Von Herz Und Leber"
+title: "The Song of Heart and Liver"
 declared: "Das Lied von Herz und Leber"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "The Vogel"
+title: "The Prophesying Bird"
 declared: "der weissagende Vogel"
 license: CC-BY-NC-SA-4.0
 stamp:
