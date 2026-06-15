@@ -1,5 +1,17 @@
 # @chbrain/khai-plays-grimm
 
+## 0.255.1
+
+### Patch Changes
+
+- e124909: stage KHM 130a (Der Soldat und der Schreiner)
+- c71c739: stage KHM 136a (De wilde Mann)
+- 636e483: stage KHM 143a (Die Kinder in Hungersnot)
+- 3582fc1: stage KHM 152a (Die heilige Frau Kummernis)
+- 149c6e9: stage KHM 175a (Das Unglück)
+- 7415733: stage KHM 182a (Die Erbsenprobe)
+- 2e30980: stage KHM 191a (Der Räuber und seine Söhne)
+
 ## 0.249.0
 
 ### Minor Changes
