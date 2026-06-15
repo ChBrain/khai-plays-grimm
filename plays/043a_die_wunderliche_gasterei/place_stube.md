@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "Stube"
+title: "The Parlor"
 declared: "Stube"
 license: CC-BY-NC-SA-4.0
 stamp:

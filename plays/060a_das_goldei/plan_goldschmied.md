@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "Goldschmied"
+title: "The Goldsmith's Plan"
 declared: "der Plan des Goldschmieds"
 license: CC-BY-NC-SA-4.0
 stamp:

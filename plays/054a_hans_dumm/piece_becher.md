@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "The Becher"
+title: "The Golden Goblet"
 declared: "goldener Becher"
 license: CC-BY-NC-SA-4.0
 stamp:

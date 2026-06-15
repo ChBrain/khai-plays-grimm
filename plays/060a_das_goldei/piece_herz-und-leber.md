@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "The Herz Und Leber"
+title: "Heart and Liver"
 declared: "Herzlein und Leberlein"
 license: CC-BY-NC-SA-4.0
 stamp:

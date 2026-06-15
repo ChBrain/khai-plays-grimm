@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Bodenloch"
+title: "The Trapdoor"
 declared: "Bodenloch"
 license: CC-BY-NC-SA-4.0
 stamp:

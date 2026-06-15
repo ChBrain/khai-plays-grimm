@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "The Koenig"
+title: "The King"
 declared: "der König"
 license: CC-BY-NC-SA-4.0
 stamp:

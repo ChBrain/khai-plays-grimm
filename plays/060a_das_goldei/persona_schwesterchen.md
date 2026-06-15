@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Schwesterchen"
+title: "Little Sister"
 declared: "Schwesterchen"
 license: CC-BY-NC-SA-4.0
 stamp:

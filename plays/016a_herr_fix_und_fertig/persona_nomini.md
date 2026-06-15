@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "The Nomini"
+title: "Princess Nomini"
 declared: "Prinzessin Nomini"
 license: CC-BY-NC-SA-4.0
 stamp:

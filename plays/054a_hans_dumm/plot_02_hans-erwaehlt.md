@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Hans Erwaehlt"
+title: "Hans Is Chosen"
 declared: "Hans Dumm erwählt"
 license: CC-BY-NC-SA-4.0
 stamp:

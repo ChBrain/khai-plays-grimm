@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "The Hohes Schloss"
+title: "The High Castle"
 declared: "das hohe Schloß"
 license: CC-BY-NC-SA-4.0
 stamp:
