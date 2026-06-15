@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Nail"
+description: "A hurried merchant ignores a missing nail and so loses his horse and his time."
 declared: "The Nail"
 license: CC-BY-NC-SA-4.0
 stamp:

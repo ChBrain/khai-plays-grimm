@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Peasant and the Devil"
+description: "A cunning peasant outwits the Devil twice over the harvest and wins the treasure."
 declared: "The Peasant and the Devil"
 license: CC-BY-NC-SA-4.0
 stamp:

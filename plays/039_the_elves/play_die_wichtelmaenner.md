@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Elves"
+description: "Two naked elves secretly make shoes for a poor cobbler until he gifts them clothes."
 declared: "Die Wichtelmänner"
 license: CC-BY-NC-SA-4.0
 stamp:

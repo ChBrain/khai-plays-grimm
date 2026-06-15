@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Rose"
+description: "A strange child gives a poor girl a rose and takes her home when it blooms."
 declared: "The Rose"
 license: CC-BY-NC-SA-4.0
 stamp:

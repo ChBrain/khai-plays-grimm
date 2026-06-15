@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Misfortune"
+description: "A poor man tries to flee misfortune but is chased by wolves and water and crushed by a wall."
 declared: "Das Unglück"
 license: CC-BY-NC-SA-4.0
 stamp:

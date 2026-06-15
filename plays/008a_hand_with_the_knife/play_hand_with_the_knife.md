@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Hand with the Knife"
+description: "A slighted girl gets a magic knife from an elf, until her brothers hack off the helper's arm."
 declared: "Die Hand mit dem Messer"
 license: CC-BY-NC-SA-4.0
 stamp:

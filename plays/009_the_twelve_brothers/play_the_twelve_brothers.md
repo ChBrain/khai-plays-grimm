@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Twelve Brothers"
+description: "A king resolves to kill his twelve sons if a daughter is born."
 declared: "Die zwölf Brüder"
 license: CC-BY-NC-SA-4.0
 stamp:

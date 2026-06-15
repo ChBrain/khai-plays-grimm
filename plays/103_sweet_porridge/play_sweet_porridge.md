@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Sweet Porridge"
+description: "A magic pot feeds the poor, but a forgotten word lets it flood the whole town with porridge."
 declared: "Sweet Porridge"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Rapunzel"
+description: "A man steals rampion for his pregnant wife from a dreaded sorceress's garden."
 declared: "Rapunzel"
 license: CC-BY-NC-SA-4.0
 stamp:

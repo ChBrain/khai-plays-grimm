@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Ferdinand the Faithful"
+description: "A poor boy rises from outrider to king through loyalty and a talking horse."
 declared: "Ferdinand the Faithful"
 license: CC-BY-NC-SA-4.0
 stamp:

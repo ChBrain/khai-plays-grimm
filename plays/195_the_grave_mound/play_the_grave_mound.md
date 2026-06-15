@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Grave-Mound"
+description: "A fearless soldier outwits the Devil with a bottomless boot and saves the miser's soul."
 declared: "The Grave-Mound"
 license: CC-BY-NC-SA-4.0
 stamp:

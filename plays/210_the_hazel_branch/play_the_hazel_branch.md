@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Hazel-Branch"
+description: "Mary flees a snake behind a hazel bush and blesses it ever after as a shield against all vermin."
 declared: "The Hazel-Branch"
 license: CC-BY-NC-SA-4.0
 stamp:

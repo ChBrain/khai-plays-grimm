@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Stolen Farthings"
+description: "A dead child returns home until its hidden guilt is atoned and it is laid to rest."
 declared: "The Stolen Farthings"
 license: CC-BY-NC-SA-4.0
 stamp:

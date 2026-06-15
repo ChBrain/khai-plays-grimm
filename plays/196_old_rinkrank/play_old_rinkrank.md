@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Old Rinkrank"
+description: "A captive princess catches old Rinkrank by his beard and escapes down his magic ladder."
 declared: "Old Rinkrank"
 license: CC-BY-NC-SA-4.0
 stamp:

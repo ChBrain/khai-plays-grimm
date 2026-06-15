@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Fitcher's Bird"
+description: "A sorcerer abducts sisters but is outwitted by the cleverest, who escapes disguised as a bird."
 declared: "Fitcher's Bird"
 license: CC-BY-NC-SA-4.0
 stamp:

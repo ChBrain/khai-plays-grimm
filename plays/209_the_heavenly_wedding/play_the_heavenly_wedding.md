@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Heavenly Wedding"
+description: "A poor boy walks always straight ahead, takes the church for Heaven, and dies to the heavenly wedding."
 declared: "The Heavenly Wedding"
 license: CC-BY-NC-SA-4.0
 stamp:

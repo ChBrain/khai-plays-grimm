@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Snow Flower"
+description: "A winter-born princess seeks healing herbs for her sick mother and is made lovely by bees."
 declared: "Schneeblume"
 license: CC-BY-NC-SA-4.0
 stamp:

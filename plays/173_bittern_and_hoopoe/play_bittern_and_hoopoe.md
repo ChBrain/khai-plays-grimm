@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Bittern and the Hoopoe"
+description: "An old herdsman tells how two intemperate herders lost their flocks and became calling birds."
 declared: "The Bittern and the Hoopoe"
 license: CC-BY-NC-SA-4.0
 stamp:

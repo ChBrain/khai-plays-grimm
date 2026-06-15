@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Spindle, the Shuttle, and the Needle"
+description: "A poor, diligent orphan wins the prince as husband through her godmother's three magic gifts."
 declared: "The Spindle, the Shuttle, and the Needle"
 license: CC-BY-NC-SA-4.0
 stamp:

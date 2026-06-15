@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Death's Messengers"
+description: "Death sends his messengers ahead before he takes the heedless man at last."
 declared: "Death's Messengers"
 license: CC-BY-NC-SA-4.0
 stamp:

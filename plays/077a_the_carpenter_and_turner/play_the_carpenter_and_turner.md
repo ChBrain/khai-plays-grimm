@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Carpenter and Turner"
+description: "A prince abducts a princess with artificial wings, escapes the stake, and claims his kingdom."
 declared: "Vom Schreiner und Drechsler"
 license: CC-BY-NC-SA-4.0
 stamp:

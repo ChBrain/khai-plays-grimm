@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Three Little Birds"
+description: "An imprisoned queen and her children cast into the water are saved by a prophesying bird."
 declared: "The Three Little Birds"
 license: CC-BY-NC-SA-4.0
 stamp:

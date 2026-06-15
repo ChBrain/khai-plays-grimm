@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Old Man Made Young Again"
+description: "A smith clumsily copies God's rejuvenation miracle and brings only disaster."
 declared: "The Old Man Made Young Again"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Three Apprentices"
+description: "Three penniless apprentices make a pact with the Devil and barely escape the gallows."
 declared: "The Three Apprentices"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Hut in the Forest"
+description: "An enchanted man is freed by the kindness of a daughter who first tends his animals."
 declared: "The Hut in the Forest"
 license: CC-BY-NC-SA-4.0
 stamp:

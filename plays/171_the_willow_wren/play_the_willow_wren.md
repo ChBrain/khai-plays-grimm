@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Willow-Wren"
+description: "A tiny bird cons his way to the title of king and is mocked for it forever."
 declared: "The Willow-Wren"
 license: CC-BY-NC-SA-4.0
 stamp:

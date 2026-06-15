@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Hare and the Hedgehog"
+description: "A mocked hedgehog outwits the haughty hare with his look-alike wife and wins the wager."
 declared: "The Hare and the Hedgehog"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Our Lady's Child"
+description: "The Virgin Mary takes in a woodcutter's starving child and later punishes her secret disobedience."
 declared: "Marienkind"
 license: CC-BY-NC-SA-4.0
 stamp:

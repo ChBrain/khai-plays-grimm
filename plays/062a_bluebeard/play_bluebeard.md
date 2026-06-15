@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Bluebeard"
+description: "A young wife breaks her husband Bluebeard's ban and is saved by her brothers at the last moment."
 declared: "Blaubart"
 license: CC-BY-NC-SA-4.0
 stamp:

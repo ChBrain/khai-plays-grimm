@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "St. Joseph in the Forest"
+description: "Saint Joseph tests three daughters in the forest, but only the most pious is richly rewarded."
 declared: "St. Joseph in the Forest"
 license: CC-BY-NC-SA-4.0
 stamp:

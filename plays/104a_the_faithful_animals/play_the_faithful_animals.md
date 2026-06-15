@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Faithful Animals"
+description: "A man saves a mouse, ape, and bear from torment, and the grateful beasts recover his lost castle."
 declared: "Die treuen Tiere"
 license: CC-BY-NC-SA-4.0
 stamp:

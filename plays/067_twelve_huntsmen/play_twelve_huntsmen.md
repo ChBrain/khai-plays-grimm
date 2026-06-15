@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Twelve Huntsmen"
+description: "A jilted bride and eleven companions disguise as huntsmen and win the king back by guile."
 declared: "The Twelve Huntsmen"
 license: CC-BY-NC-SA-4.0
 stamp:

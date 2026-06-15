@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Golden Egg"
+description: "Poor broom-maker's children find a bird whose golden heart and liver raise them to crown and wealth."
 declared: "Das Goldei"
 license: CC-BY-NC-SA-4.0
 stamp:

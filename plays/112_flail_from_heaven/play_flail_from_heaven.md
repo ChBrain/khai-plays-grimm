@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Flail from Heaven"
+description: "A boastful peasant fetches a flail down from Heaven as proof of his tale."
 declared: "The Flail from Heaven"
 license: CC-BY-NC-SA-4.0
 stamp:

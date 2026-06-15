@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Domestic Servants"
+description: "Two speakers pile up their household in call-and-response and set off together for Walpe."
 declared: "Domestic Servants"
 license: CC-BY-NC-SA-4.0
 stamp:

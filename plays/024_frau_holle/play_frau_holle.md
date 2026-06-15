@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Mother Holle"
+description: "A widow favours her lazy own daughter and forces her hardworking stepdaughter to toil."
 declared: "Frau Holle"
 license: CC-BY-NC-SA-4.0
 stamp:

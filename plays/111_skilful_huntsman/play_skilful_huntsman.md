@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Skilful Huntsman"
+description: "A locksmith's son becomes a never-missing huntsman, slays three giants, and unmasks the false captain."
 declared: "The Skilful Huntsman"
 license: CC-BY-NC-SA-4.0
 stamp:

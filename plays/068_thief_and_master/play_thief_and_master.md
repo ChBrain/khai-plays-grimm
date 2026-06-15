@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Thief and His Master"
+description: "A father learns thieving for his son, who beats the master in a duel of magical transformations."
 declared: "The Thief and His Master"
 license: CC-BY-NC-SA-4.0
 stamp:

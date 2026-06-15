@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Golden Bird"
+description: "A prince seeks the golden bird, wins horse and bride with a fox's help, and redeems his helper."
 declared: "The Golden Bird"
 license: CC-BY-NC-SA-4.0
 stamp:

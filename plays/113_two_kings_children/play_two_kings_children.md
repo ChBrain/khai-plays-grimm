@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Two Kings' Children"
+description: "A magic-wielding princess saves the cursed prince and wins him back after his forgetting."
 declared: "The Two Kings' Children"
 license: CC-BY-NC-SA-4.0
 stamp:

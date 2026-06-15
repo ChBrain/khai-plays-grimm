@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Long Nose"
+description: "Three soldiers lose their magic gifts to a princess and win them back with a nose-stretching charm."
 declared: "Die lange Nase"
 license: CC-BY-NC-SA-4.0
 stamp:

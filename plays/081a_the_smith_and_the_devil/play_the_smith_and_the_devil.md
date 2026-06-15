@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Smith and the Devil"
+description: "A smith makes a pact with the Devil, outwits him with a sack, and nails imps to Hell's gate."
 declared: "Der Schmidt und der Teufel"
 license: CC-BY-NC-SA-4.0
 stamp:

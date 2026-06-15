@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Faithful John"
+description: "A dying king entrusts faithful Johannes with the care of his young son."
 declared: "Der treue Johannes"
 license: CC-BY-NC-SA-4.0
 stamp:

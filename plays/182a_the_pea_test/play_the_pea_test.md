@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Pea Test"
+description: "A princess proves her birth by feeling the peas hidden under the mattresses as she sleeps."
 declared: "Die Erbsenprobe"
 license: CC-BY-NC-SA-4.0
 stamp:

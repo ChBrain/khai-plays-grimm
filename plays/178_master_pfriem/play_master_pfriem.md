@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Master Pfriem"
+description: "A restless faultfinder scolds even Heaven's order and stays incorrigible to the end."
 declared: "Master Pfriem"
 license: CC-BY-NC-SA-4.0
 stamp:

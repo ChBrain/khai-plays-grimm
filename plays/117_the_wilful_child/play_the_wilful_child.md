@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Wilful Child"
+description: "A wilful child finds peace in the grave only when its mother strikes its little arm back down."
 declared: "The Wilful Child"
 license: CC-BY-NC-SA-4.0
 stamp:

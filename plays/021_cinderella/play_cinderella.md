@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Cinderella"
+description: "A pious, hardworking girl loses her own mother and is tormented by her stepmother."
 declared: "Aschenputtel"
 license: CC-BY-NC-SA-4.0
 stamp:

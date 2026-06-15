@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Brother Lustig"
+description: "A merry soldier travels with Saint Peter, secretly eats the lamb's heart, and wishes himself to Heaven."
 declared: "Brother Lustig"
 license: CC-BY-NC-SA-4.0
 stamp:

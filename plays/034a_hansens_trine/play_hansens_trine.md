@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Hans's Trine"
+description: "Lazy Trine, doubting who she is over a shortened skirt, leaves home never to return."
 declared: "Hansens Trine"
 license: CC-BY-NC-SA-4.0
 stamp:

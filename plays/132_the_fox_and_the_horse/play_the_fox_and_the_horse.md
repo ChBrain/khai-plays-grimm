@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Fox and the Horse"
+description: "With a sly fox's help, a cast-out horse brings a lion to the farmer and is taken back in."
 declared: "Der Fuchs und das Pferd"
 license: CC-BY-NC-SA-4.0
 stamp:

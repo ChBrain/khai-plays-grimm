@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Story of the Youth Who Went Forth to Learn What Fear Was"
+description: "A fearless boy sets out into the world to learn what shuddering and fear even mean."
 declared: "Märchen von einem, der auszog, das Fürchten zu lernen"
 license: CC-BY-NC-SA-4.0
 stamp:

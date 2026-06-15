@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Jorinda and Joringel"
+description: "Two lovers fall under a sorceress's spell until Joringel frees his bride with a magic flower."
 declared: "Jorinda and Joringel"
 license: CC-BY-NC-SA-4.0
 stamp:

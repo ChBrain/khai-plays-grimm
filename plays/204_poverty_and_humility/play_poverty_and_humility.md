@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Poverty and Humility Lead to Heaven"
+description: "A prince chooses poverty and humility and, through seven years of begging, finds the way to Heaven."
 declared: "Poverty and Humility Lead to Heaven"
 license: CC-BY-NC-SA-4.0
 stamp:

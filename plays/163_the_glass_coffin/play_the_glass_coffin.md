@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Glass Coffin"
+description: "A poor tailor's journeyman frees an enchanted maiden from the glass coffin and wins her hand."
 declared: "The Glass Coffin"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Six Servants"
+description: "A prince wins a proud princess with the help of six servants of supernatural powers."
 declared: "Die sechs Diener"
 license: CC-BY-NC-SA-4.0
 stamp:

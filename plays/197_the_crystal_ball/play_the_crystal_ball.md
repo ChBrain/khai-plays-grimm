@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Crystal Ball"
+description: "The youngest son frees the enchanted princess with the crystal ball hidden in a fiery egg."
 declared: "The Crystal Ball"
 license: CC-BY-NC-SA-4.0
 stamp:

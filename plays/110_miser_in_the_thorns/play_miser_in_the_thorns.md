@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Miser in the Thorns"
+description: "A mild servant makes a greedy miser dance and turns his false charge at the gallows back on him."
 declared: "The Miser in the Thorns"
 license: CC-BY-NC-SA-4.0
 stamp:

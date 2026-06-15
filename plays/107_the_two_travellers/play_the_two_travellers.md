@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Two Travellers"
+description: "A kind tailor is blinded by a cruel cobbler, but grateful animals raise him to the king's son-in-law."
 declared: "The Two Travellers"
 license: CC-BY-NC-SA-4.0
 stamp:

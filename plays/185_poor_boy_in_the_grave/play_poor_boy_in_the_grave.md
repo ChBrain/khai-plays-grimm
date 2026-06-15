@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Poor Boy in the Grave"
+description: "An abused orphan seeks death in what he takes for poison and dies in an open grave."
 declared: "The Poor Boy in the Grave"
 license: CC-BY-NC-SA-4.0
 stamp:

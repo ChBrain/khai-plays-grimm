@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The White Bride and the Black Bride"
+description: "A wicked stepmother foists her black daughter on the king until the white bride is saved as a duck."
 declared: "Die weiße und die schwarze Braut"
 license: CC-BY-NC-SA-4.0
 stamp:

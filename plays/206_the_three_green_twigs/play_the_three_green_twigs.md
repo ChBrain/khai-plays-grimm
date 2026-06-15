@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Three Green Twigs"
+description: "A pious hermit condemns a sinner, atones with a withered branch, and dies as three green twigs sprout."
 declared: "The Three Green Twigs"
 license: CC-BY-NC-SA-4.0
 stamp:

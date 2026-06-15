@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Moon"
+description: "Four fellows steal the moon, take it to the grave, and Saint Peter hangs it in the sky."
 declared: "The Moon"
 license: CC-BY-NC-SA-4.0
 stamp:

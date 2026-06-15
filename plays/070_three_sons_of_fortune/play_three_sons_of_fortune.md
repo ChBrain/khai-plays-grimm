@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Three Sons of Fortune"
+description: "A father leaves his three sons a cock, a scythe, and a cat, with which they make their fortunes."
 declared: "The Three Sons of Fortune"
 license: CC-BY-NC-SA-4.0
 stamp:

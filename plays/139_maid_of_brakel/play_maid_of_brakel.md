@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Maid of Brakel"
+description: "A girl prays for a husband, mistakes the mocking sexton for the saint, and scolds the Christ-child."
 declared: "The Maid of Brakel"
 license: CC-BY-NC-SA-4.0
 stamp:

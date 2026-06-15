@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Okerlo"
+description: "A princess raised on an ogre's island flees with a prince through magical transformations."
 declared: "Der Okerlo"
 license: CC-BY-NC-SA-4.0
 stamp:

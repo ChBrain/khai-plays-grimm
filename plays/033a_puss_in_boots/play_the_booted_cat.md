@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Puss in Boots"
+description: "A crafty cat wins his poor master wealth, a castle, and a princess with boots, a sack, and guile."
 declared: "Der gestiefelte Kater"
 license: CC-BY-NC-SA-4.0
 stamp:

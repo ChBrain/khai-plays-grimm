@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Frog Prince"
+description: "The youngest princess promises a frog her love for clear water and frees him after three nights."
 declared: "Der Froschprinz"
 license: CC-BY-NC-SA-4.0
 stamp:

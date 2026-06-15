@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Hans in Luck"
+description: "Hans cheerfully trades away one good thing after another until he returns home free and happy."
 declared: "Hans in Luck"
 license: CC-BY-NC-SA-4.0
 stamp:

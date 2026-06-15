@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Peasant's Wise Daughter"
+description: "A clever peasant's daughter solves the king's riddles and, in the end, wins him back by wit."
 declared: "The Peasant's Wise Daughter"
 license: CC-BY-NC-SA-4.0
 stamp:

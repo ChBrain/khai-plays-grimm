@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Three Spinners"
+description: "Three strange spinners help a lazy girl master the queen's impossible spinning task."
 declared: "Die drei Spinnerinnen"
 license: CC-BY-NC-SA-4.0
 stamp:

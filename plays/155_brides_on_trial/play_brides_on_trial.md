@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Brides on Their Trial"
+description: "A shepherd tests three equally pretty sisters by their cheese and weds the temperate one."
 declared: "Brides on Their Trial"
 license: CC-BY-NC-SA-4.0
 stamp:

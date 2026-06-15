@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Hare's Bride"
+description: "A girl follows a hare to his hut and escapes the forced wedding by leaving a straw decoy."
 declared: "Häschenbraut"
 license: CC-BY-NC-SA-4.0
 stamp:

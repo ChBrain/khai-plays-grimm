@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Three Brothers"
+description: "Three brothers each learn a trade, vie for their father's house, and stay united until death."
 declared: "The Three Brothers"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Nightingale and the Blindworm"
+description: "Two one-eyed creatures share a house until a borrowed eye breeds betrayal and lasting enmity."
 declared: "Von der Nachtigall und der Blindschleiche"
 license: CC-BY-NC-SA-4.0
 stamp:

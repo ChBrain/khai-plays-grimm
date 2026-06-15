@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Queen Bee"
+description: "Simpleton shields weak animals from his cruel brothers and, with their help, frees a petrified castle."
 declared: "The Queen Bee"
 license: CC-BY-NC-SA-4.0
 stamp:

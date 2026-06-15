@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Famine Children"
+description: "A starving mother threatens to kill her daughters, but they sleep until Judgement Day dawns."
 declared: "Die Kinder in Hungersnot"
 license: CC-BY-NC-SA-4.0
 stamp:

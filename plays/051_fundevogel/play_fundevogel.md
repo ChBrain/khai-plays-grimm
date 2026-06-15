@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Foundling-Bird"
+description: "Two foster children flee a wicked cook by transforming again and again as they run."
 declared: "Foundling-Bird"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Our Lady's Little Glass"
+description: "A carter gives the Mother of God wine from a little flower, and his cart is freed."
 declared: "Our Lady's Little Glass"
 license: CC-BY-NC-SA-4.0
 stamp:

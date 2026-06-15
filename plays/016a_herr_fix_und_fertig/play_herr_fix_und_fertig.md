@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Mr Fix and Ready"
+description: "A cunning servant wins his king the princess with grateful animals and rises to first minister."
 declared: "Herr Fix und Fertig"
 license: CC-BY-NC-SA-4.0
 stamp:

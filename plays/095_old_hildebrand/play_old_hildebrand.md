@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Old Hildebrand"
+description: "A parson sends the farmer on a made-up pilgrimage, but the gossip brings him home and exposes it."
 declared: "Old Hildebrand"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Lazy and the Industrious"
+description: "Two journeymen find enchanted ravens; the diligent one is freed by love while the lazy raven dies."
 declared: "Der Faule und der Fleißige"
 license: CC-BY-NC-SA-4.0
 stamp:

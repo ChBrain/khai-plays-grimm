@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Little Folks' Presents"
+description: "A content tailor keeps his gold; the greedy goldsmith loses all and gains a second hump besides."
 declared: "The Little Folks' Presents"
 license: CC-BY-NC-SA-4.0
 stamp:

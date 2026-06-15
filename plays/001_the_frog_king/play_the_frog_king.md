@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Frog King"
+description: "The youngest princess loses her dearest plaything, the golden ball, down a deep well."
 declared: "Der Froschkönig oder der eiserne Heinrich"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Hurleburlebutz"
+description: "A lost king promises his youngest daughter to a wood-imp who exposes the true bride by a test."
 declared: "Hurleburlebutz"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Simeli Mountain"
+description: "The poor brother takes only gold, but the greedy one forgets the word and loses his head."
 declared: "Simeli Mountain"
 license: CC-BY-NC-SA-4.0
 stamp:

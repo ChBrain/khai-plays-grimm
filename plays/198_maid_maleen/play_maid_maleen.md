@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Maid Maleen"
+description: "Walled in and impoverished, Maleen wins her prince through constancy and unmasks the false bride."
 declared: "Maid Maleen"
 license: CC-BY-NC-SA-4.0
 stamp:

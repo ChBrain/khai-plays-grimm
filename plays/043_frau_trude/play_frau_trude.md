@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Mother Trudy"
+description: "A girl ignores her parents' warning, visits the eerie Frau Trude, and is burned by her."
 declared: "Mother Trudy"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Raven"
+description: "An enchanted princess waits as a raven for redemption by a faithful man."
 declared: "The Raven"
 license: CC-BY-NC-SA-4.0
 stamp:

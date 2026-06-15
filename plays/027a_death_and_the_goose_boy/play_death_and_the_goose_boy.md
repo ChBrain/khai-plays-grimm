@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Death and the Goose Boy"
+description: "A contented goose-boy follows Death to the next world while a miser is punished for his greed."
 declared: "Der Tod und der Gänshirt"
 license: CC-BY-NC-SA-4.0
 stamp:

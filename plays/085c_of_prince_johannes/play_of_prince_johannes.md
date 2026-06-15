@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Of Prince Johannes"
+description: "Prince Johannes flies with an apparition to the red castle and, after trials, beholds the sun-princess."
 declared: "Vom Prinz Johannes"
 license: CC-BY-NC-SA-4.0
 stamp:

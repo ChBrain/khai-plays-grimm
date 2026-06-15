@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Gnome"
+description: "Foolish Hans conquers the gnome and the dragons, is betrayed, and in the end wins the princess anyway."
 declared: "The Gnome"
 license: CC-BY-NC-SA-4.0
 stamp:

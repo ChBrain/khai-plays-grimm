@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Clever Elsie"
+description: "A supposedly clever bride loses herself in catastrophic worries and forgets who she even is."
 declared: "Die kluge Elsa"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Cat and Mouse in Partnership"
+description: "A cat and a mouse set up house together as partners."
 declared: "Katze und Maus in Gesellschaft"
 license: CC-BY-NC-SA-4.0
 stamp:

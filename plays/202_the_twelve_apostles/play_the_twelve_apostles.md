@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Twelve Apostles"
+description: "A poor mother prays for twelve sons, who sleep three hundred years and wake as the apostles."
 declared: "The Twelve Apostles"
 license: CC-BY-NC-SA-4.0
 stamp:

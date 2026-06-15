@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Holy Saint Kummernis"
+description: "A pious maiden prays God for a beard, is crucified, and later saves a fiddler through a miracle."
 declared: "Die heilige Frau Kummernis"
 license: CC-BY-NC-SA-4.0
 stamp:

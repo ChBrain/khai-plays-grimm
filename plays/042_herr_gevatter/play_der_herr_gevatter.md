@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Godfather"
+description: "A poor father seeks a godfather, grows famous through a magic water, and meets the Devil."
 declared: "The Godfather"
 license: CC-BY-NC-SA-4.0
 stamp:

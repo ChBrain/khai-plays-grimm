@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Ear of Corn"
+description: "Ungrateful sacrilege against the blessed grain brings a judgement softened only for the innocent."
 declared: "The Ear of Corn"
 license: CC-BY-NC-SA-4.0
 stamp:

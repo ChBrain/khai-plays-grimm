@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Foolish Hans"
+description: "A lad thought simple is chosen as father by a lemon, wishes his fortune up, and becomes king."
 declared: "Hans Dumm"
 license: CC-BY-NC-SA-4.0
 stamp:

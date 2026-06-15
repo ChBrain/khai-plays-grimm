@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Herr Korbes"
+description: "A cock and hen travel with an odd company to wicked Herr Korbes's house and punish him."
 declared: "Herr Korbes"
 license: CC-BY-NC-SA-4.0
 stamp:

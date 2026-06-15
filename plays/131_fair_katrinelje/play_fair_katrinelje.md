@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Fair Katrinelje and Pif-Paf-Poltrie"
+description: "A broom-binder gathers each family member's consent in turn to marry fair Katrinelje."
 declared: "Die schöne Katrinelje und Pif Paf Poltrie"
 license: CC-BY-NC-SA-4.0
 stamp:

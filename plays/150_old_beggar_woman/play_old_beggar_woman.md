@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Old Beggar-Woman"
+description: "An old beggar woman catches fire at the hearth while a boy looks on without putting it out."
 declared: "The Old Beggar-Woman"
 license: CC-BY-NC-SA-4.0
 stamp:

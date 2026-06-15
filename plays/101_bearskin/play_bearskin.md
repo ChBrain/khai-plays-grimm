@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Bearskin"
+description: "A soldier makes a pact with the Devil, holds out seven years, and gains wealth and a faithful bride."
 declared: "Bearskin"
 license: CC-BY-NC-SA-4.0
 stamp:

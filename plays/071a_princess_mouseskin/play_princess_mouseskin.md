@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Princess Mouseskin"
+description: "A cast-out princess serves unknown in a mouseskin gown until a ring reveals her at table."
 declared: "Prinzessin Mäusehaut"
 license: CC-BY-NC-SA-4.0
 stamp:

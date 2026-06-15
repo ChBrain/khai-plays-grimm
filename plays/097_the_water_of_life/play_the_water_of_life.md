@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Water of Life"
+description: "The humble youngest prince fetches the water of life and, despite betrayal, proves the true saviour."
 declared: "The Water of Life"
 license: CC-BY-NC-SA-4.0
 stamp:

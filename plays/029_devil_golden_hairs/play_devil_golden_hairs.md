@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Devil with the Three Golden Hairs"
+description: "A child of fortune escapes a king's plots and fetches three golden hairs from the Devil himself."
 declared: "Der Teufel mit den drei goldenen Haaren"
 license: CC-BY-NC-SA-4.0
 stamp:

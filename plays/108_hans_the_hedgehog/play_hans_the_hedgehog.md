@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Hans the Hedgehog"
+description: "A half-enchanted son wins his redemption and his kingdom by a promise kept."
 declared: "Hans the Hedgehog"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Lazy Harry"
+description: "Out of sheer laziness Harry trades everything away until the honey-pot shatters."
 declared: "Lazy Harry"
 license: CC-BY-NC-SA-4.0
 stamp:

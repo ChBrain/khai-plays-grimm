@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Wise Folks"
+description: "Hans finds two greater fools than his wife and so spares her a beating."
 declared: "Wise Folks"
 license: CC-BY-NC-SA-4.0
 stamp:

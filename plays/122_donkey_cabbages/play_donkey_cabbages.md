@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Donkey Cabbages"
+description: "A robbed huntsman turns his cheats into donkeys with magic cabbage and forces penance and peace."
 declared: "Donkey Cabbages"
 license: CC-BY-NC-SA-4.0
 stamp:

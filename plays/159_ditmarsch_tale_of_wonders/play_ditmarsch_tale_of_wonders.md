@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Ditmarsch Tale of Wonders"
+description: "A teller strings impossibilities into one tall tale and, at the end, has the window opened."
 declared: "The Ditmarsch Tale of Wonders"
 license: CC-BY-NC-SA-4.0
 stamp:

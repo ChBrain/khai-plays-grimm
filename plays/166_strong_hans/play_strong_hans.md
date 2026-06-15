@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Strong Hans"
+description: "Bear-strong Hans frees his mother, masters the dwarf, and saves the princess from betrayal."
 declared: "Strong Hans"
 license: CC-BY-NC-SA-4.0
 stamp:

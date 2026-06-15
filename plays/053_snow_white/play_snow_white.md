@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Little Snow-White"
+description: "A fair princess flees her wicked stepmother to seven dwarfs and is rescued."
 declared: "Little Snow-White"
 license: CC-BY-NC-SA-4.0
 stamp:

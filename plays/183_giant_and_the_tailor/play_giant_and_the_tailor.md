@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Giant and the Tailor"
+description: "A boastful tailor so frightens a giant that the giant flings him into the air by a trick."
 declared: "The Giant and the Tailor"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Dog and the Sparrow"
+description: "A dog runs off and allies with a faithful sparrow, who avenges his death on a cruel carter."
 declared: "The Dog and the Sparrow"
 license: CC-BY-NC-SA-4.0
 stamp:

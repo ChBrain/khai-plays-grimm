@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Twelve Dancing Princesses"
+description: "A soldier with a cloak of invisibility uncovers the secret of the princesses' danced-out shoes."
 declared: "Die zertanzten Schuhe"
 license: CC-BY-NC-SA-4.0
 stamp:

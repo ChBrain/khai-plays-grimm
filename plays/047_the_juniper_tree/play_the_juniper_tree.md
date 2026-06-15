@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Juniper Tree"
+description: "A wicked stepmother kills her little stepson, who rises as a fair bird and takes just revenge."
 declared: "The Juniper Tree"
 license: CC-BY-NC-SA-4.0
 stamp:

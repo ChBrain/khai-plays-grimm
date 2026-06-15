@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Robber and His Sons"
+description: "A reformed robber tells the queen two daring tales to save the lives of his three sons."
 declared: "Der Räuber und seine Söhne"
 license: CC-BY-NC-SA-4.0
 stamp:
