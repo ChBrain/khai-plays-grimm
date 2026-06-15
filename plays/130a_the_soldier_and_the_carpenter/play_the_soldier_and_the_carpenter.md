@@ -32,6 +32,7 @@ Ein Soldat und sein furchtsamer Geselle erlösen ein Schloss, indem sie drei Zau
 - [der schöne Jüngling](persona_youth.md)
 - [die Hexe](persona_witch.md)
 - [die Kinder der Hexe](persona_witch_children.md)
+- [die Schlossbewohner](persona_inhabitants.md)
 
 **Places**
 
