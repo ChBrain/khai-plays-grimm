@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "01_seduction"
+title: "Seduction"
 declared: "Der reiche Freier"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "shoemaker_house"
+title: "The Shoemaker House"
 declared: "Schuhmacherhaus"
 license: CC-BY-NC-SA-4.0
 stamp:
