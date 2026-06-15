@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.242.0",
+  "version": "0.243.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -652,6 +652,11 @@
       "id": "099_spirit_in_the_bottle",
       "title": "The Spirit in the Bottle",
       "description": "Ein armer Studentensohn fängt einen gefährlichen Geist in der Flasche und macht aus dessen Gabe sein Glück."
+    },
+    {
+      "id": "099a_the_frog_prince",
+      "title": "The Frog Prince",
+      "description": "Die jüngste Königstochter verspricht einem Frosch für klares Wasser ihre Liebe und erlöst ihn nach drei Nächten im Bett."
     },
     {
       "id": "100_devils_sooty_brother",
