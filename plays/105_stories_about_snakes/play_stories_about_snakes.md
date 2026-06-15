@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Stories About Snakes"
+description: "Three short scenes show how trust between human and toad breaks apart."
 declared: "Stories About Snakes"
 license: CC-BY-NC-SA-4.0
 stamp:

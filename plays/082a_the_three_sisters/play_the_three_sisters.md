@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Three Sisters"
+description: "A prince frees his three sisters given to beast-bridegrooms and breaks their enchantment."
 declared: "Die drei Schwestern"
 license: CC-BY-NC-SA-4.0
 stamp:

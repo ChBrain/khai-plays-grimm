@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Three Little Men in the Wood"
+description: "An envious stepmother drives her lovely stepdaughter into the winter woods in a paper dress."
 declared: "Die drei Männlein im Walde"
 license: CC-BY-NC-SA-4.0
 stamp:

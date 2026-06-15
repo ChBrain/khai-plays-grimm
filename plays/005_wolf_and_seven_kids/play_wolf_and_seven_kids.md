@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Wolf and the Seven Young Kids"
+description: "A wicked wolf devours seven kids, but the mother saves them and drowns the wolf in the well."
 declared: "Der Wolf und die sieben jungen Geißlein"
 license: CC-BY-NC-SA-4.0
 stamp:

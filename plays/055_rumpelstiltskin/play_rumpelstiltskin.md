@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Rumpelstiltskin"
+description: "A miller's daughter must spin straw into gold, promises her child, and saves it by guessing his name."
 declared: "Rumpelstiltskin"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Singing, Springing Lark"
+description: "A faithful daughter follows her enchanted husband to the end of the world."
 declared: "The Singing, Springing Lark"
 license: CC-BY-NC-SA-4.0
 stamp:

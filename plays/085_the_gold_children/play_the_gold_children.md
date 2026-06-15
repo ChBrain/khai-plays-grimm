@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Gold-Children"
+description: "From a divided gold fish grow two gold children whose lilies decide over life and death."
 declared: "The Gold-Children"
 license: CC-BY-NC-SA-4.0
 stamp:

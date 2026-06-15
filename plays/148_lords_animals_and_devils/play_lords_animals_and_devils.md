@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Lord's Animals and the Devil's"
+description: "The Devil botches the goats, the Lord punishes them, and in the end the cheat takes its eternal toll."
 declared: "The Lord's Animals and the Devil's"
 license: CC-BY-NC-SA-4.0
 stamp:

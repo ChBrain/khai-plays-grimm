@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "King Thrushbeard"
+description: "A haughty princess mocks every suitor, is married off to a minstrel as punishment, and humbled."
 declared: "King Thrushbeard"
 license: CC-BY-NC-SA-4.0
 stamp:

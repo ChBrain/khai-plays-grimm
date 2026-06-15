@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Wedding of Mrs. Fox"
+description: "Mr Fox feigns death to test his wife, who turns away every suitor but a nine-tailed one."
 declared: "Die Hochzeit der Frau Füchsin"
 license: CC-BY-NC-SA-4.0
 stamp:

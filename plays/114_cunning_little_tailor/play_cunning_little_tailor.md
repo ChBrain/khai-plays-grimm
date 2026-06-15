@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Cunning Little Tailor"
+description: "A young tailor solves the proud princess's riddle and slyly survives the night with the bear."
 declared: "The Cunning Little Tailor"
 license: CC-BY-NC-SA-4.0
 stamp:

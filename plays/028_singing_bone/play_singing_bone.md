@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Singing Bone"
+description: "A man kills his brother for the boar-hunt's glory and is exposed years later by a singing bone."
 declared: "Der singende Knochen"
 license: CC-BY-NC-SA-4.0
 stamp:

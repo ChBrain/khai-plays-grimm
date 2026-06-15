@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Wolf and the Fox"
+description: "A greedy wolf forces a fox to serve him until the fox lures him into a trap in the farmer's cellar."
 declared: "The Wolf and the Fox"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Nix of the Millpond"
+description: "A promised child sinks into the pond, but faithful love draws it back by moonlight."
 declared: "The Nix of the Millpond"
 license: CC-BY-NC-SA-4.0
 stamp:

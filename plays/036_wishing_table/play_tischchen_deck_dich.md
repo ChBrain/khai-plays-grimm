@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Wishing-Table"
+description: "Three brothers gain magic gifts, are robbed by an innkeeper, and win them back with a cudgel."
 declared: "Tischchen deck dich, Goldesel und Knüppel aus dem Sack"
 license: CC-BY-NC-SA-4.0
 stamp:

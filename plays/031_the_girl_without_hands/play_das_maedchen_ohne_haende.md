@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Girl Without Hands"
+description: "A maimed girl flees the Devil and is saved and healed by God's grace and a faithful king."
 declared: "Das Mädchen ohne Hände"
 license: CC-BY-NC-SA-4.0
 stamp:

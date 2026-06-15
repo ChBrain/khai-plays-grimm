@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Phoenix"
+description: "A youth found by the river escapes a steward's plots and fetches three feathers from the phoenix."
 declared: "Vogel Phönix"
 license: CC-BY-NC-SA-4.0
 stamp:

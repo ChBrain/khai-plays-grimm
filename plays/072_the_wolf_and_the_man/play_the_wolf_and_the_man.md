@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Wolf and the Man"
+description: "A boastful wolf picks a fight with a man and is painfully taught better by a huntsman."
 declared: "The Wolf and the Man"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Drummer"
+description: "A young drummer frees an enchanted princess from the glass mountain and wins her back after forgetting."
 declared: "The Drummer"
 license: CC-BY-NC-SA-4.0
 stamp:

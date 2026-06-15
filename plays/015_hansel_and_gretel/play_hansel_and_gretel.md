@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Hansel and Gretel"
+description: "Two children abandoned in the forest outwit a wicked witch and return home rich to their father."
 declared: "Hänsel und Gretel"
 license: CC-BY-NC-SA-4.0
 stamp:

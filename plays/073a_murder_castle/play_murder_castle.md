@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Murder Castle"
+description: "A cobbler's daughter follows a rich lord to his castle, uncovers his murders, and escapes in a hay cart."
 declared: "Das Mordschloß"
 license: CC-BY-NC-SA-4.0
 stamp:

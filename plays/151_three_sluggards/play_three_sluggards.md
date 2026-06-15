@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Three Sluggards"
+description: "A dying king leaves his realm to the laziest of his three sons."
 declared: "The Three Sluggards"
 license: CC-BY-NC-SA-4.0
 stamp:

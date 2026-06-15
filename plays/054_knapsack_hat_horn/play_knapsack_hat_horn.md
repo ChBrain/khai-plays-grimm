@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Knapsack, the Hat, and the Horn"
+description: "A poor brother trades a wishing-cloth for magic weapons, beats the king, and crushes the betrayal."
 declared: "The Knapsack, the Hat, and the Horn"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Willow-Wren and the Bear"
+description: "A bear insults the young wrens, loses the animals' war, and must beg for pardon."
 declared: "The Willow-Wren and the Bear"
 license: CC-BY-NC-SA-4.0
 stamp:

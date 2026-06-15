@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Three Languages"
+description: "A cast-out son learns the animals' speech, finds a treasure, and rises by providence to pope."
 declared: "Die drei Sprachen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Thumbling's Travels"
+description: "The thumb-sized tailor's son roams the world, aids robbers, outwits guards, and escapes a wolf."
 declared: "Thumbling's Travels"
 license: CC-BY-NC-SA-4.0
 stamp:

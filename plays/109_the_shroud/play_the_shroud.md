@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Shroud"
+description: "A mother weeps for her dead child until its night-time plea leads her to quiet acceptance."
 declared: "The Shroud"
 license: CC-BY-NC-SA-4.0
 stamp:

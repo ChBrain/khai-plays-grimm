@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Ungrateful Son"
+description: "A man hides the roast fowl from his old father and forever wears a toad on his face as punishment."
 declared: "The Ungrateful Son"
 license: CC-BY-NC-SA-4.0
 stamp:

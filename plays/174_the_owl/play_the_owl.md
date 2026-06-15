@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Owl"
+description: "A whole town fears a harmless owl and burns its own barn to the ground."
 declared: "The Owl"
 license: CC-BY-NC-SA-4.0
 stamp:

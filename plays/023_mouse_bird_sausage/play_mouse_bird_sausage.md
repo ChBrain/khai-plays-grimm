@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Mouse, the Bird, and the Sausage"
+description: "A mouse, a bird, and a sausage live together in a happy little household."
 declared: "Von dem Mäuschen, Vögelchen und der Bratwurst"
 license: CC-BY-NC-SA-4.0
 stamp:

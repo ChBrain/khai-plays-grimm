@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Soldier and the Carpenter"
+description: "A soldier and his timid comrade free a castle by killing three magic beings and a witch."
 declared: "Der Soldat und der Schreiner"
 license: CC-BY-NC-SA-4.0
 stamp:

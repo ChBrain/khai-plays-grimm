@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Clever Hans"
+description: "Hans takes his mother's advice literally and ruins his own courtship of his bride Gretel."
 declared: "Der gescheite Hans"
 license: CC-BY-NC-SA-4.0
 stamp:

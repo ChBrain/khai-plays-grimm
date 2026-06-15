@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Good Cloth"
+description: "Two sisters own a cloth that turns all to gold, until the foolish one swaps it for a new rag."
 declared: "Der gute Lappen"
 license: CC-BY-NC-SA-4.0
 stamp:

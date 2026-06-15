@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The True Sweethearts"
+description: "A faithful maiden loses her beloved to forgetting and wins him back through three dances."
 declared: "The True Sweethearts"
 license: CC-BY-NC-SA-4.0
 stamp:

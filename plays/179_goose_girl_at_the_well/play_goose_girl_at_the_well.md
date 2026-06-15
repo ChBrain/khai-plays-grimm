@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Goose-Girl at the Well"
+description: "A cast-out princess herds geese in ugly skin until an old woman returns her to her rueful parents."
 declared: "The Goose-Girl at the Well"
 license: CC-BY-NC-SA-4.0
 stamp:

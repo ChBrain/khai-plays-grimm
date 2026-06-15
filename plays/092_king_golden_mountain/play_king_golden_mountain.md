@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The King of the Golden Mountain"
+description: "A son sold away becomes king, is betrayed, and wins his realm back with three tricks."
 declared: "The King of the Golden Mountain"
 license: CC-BY-NC-SA-4.0
 stamp:

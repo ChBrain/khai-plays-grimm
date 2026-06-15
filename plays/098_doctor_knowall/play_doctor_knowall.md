@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Doctor Knowall"
+description: "A poor peasant becomes the famed Doctor Knowall through a bought sign and lucky chances."
 declared: "Doctor Knowall"
 license: CC-BY-NC-SA-4.0
 stamp:

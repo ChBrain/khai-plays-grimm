@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Godfather Death"
+description: "Death makes a poor boy a famous doctor, then punishes his betrayal with his own life-candle."
 declared: "Godfather Death"
 license: CC-BY-NC-SA-4.0
 stamp:

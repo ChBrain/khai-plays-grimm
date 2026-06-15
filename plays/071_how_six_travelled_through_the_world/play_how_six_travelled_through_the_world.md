@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "How Six Travelled through the World"
+description: "A discharged soldier and five gifted companions set out to wrest the king's unjust fortune."
 declared: "How Six Travelled through the World"
 license: CC-BY-NC-SA-4.0
 stamp:

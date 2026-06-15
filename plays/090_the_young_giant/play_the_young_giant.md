@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Young Giant"
+description: "A thumb-sized peasant's son grows into a giant's mighty man and pays every spite with his fist."
 declared: "The Young Giant"
 license: CC-BY-NC-SA-4.0
 stamp:

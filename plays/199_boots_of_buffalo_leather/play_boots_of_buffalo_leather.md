@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Boots of Buffalo-Leather"
+description: "A fearless soldier captures twelve robbers and is rewarded by the disguised king."
 declared: "The Boots of Buffalo-Leather"
 license: CC-BY-NC-SA-4.0
 stamp:

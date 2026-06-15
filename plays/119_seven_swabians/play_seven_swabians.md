@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Seven Swabians"
+description: "Seven Swabians on one spear mistake every scare for death and drown at last at a frog's croak."
 declared: "The Seven Swabians"
 license: CC-BY-NC-SA-4.0
 stamp:

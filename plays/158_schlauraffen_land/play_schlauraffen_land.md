@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Story of Schlauraffen Land"
+description: "A braggart boasts of impossible wonders until a cock closes the tall tale."
 declared: "The Story of Schlauraffen Land"
 license: CC-BY-NC-SA-4.0
 stamp:

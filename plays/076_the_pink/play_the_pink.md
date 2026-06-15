@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Pink"
+description: "A prince with the gift of wishing exposes a false cook, saves his mother, and wins the maiden."
 declared: "The Pink"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Griffin"
+description: "A simple but courteous peasant's son passes every royal test and wins the realm."
 declared: "The Griffin"
 license: CC-BY-NC-SA-4.0
 stamp:

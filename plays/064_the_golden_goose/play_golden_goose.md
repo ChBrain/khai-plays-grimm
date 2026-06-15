@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Golden Goose"
+description: "A king offers his daughter to whoever makes her laugh; Simpleton does it with a golden goose."
 declared: "The Golden Goose"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Strange Feast"
+description: "A blood sausage lures the liver sausage into a deadly trap she just escapes through a warning."
 declared: "Die wunderliche Gasterei"
 license: CC-BY-NC-SA-4.0
 stamp:

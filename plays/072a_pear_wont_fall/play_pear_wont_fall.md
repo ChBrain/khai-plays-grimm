@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Pear Won't Fall"
+description: "A master tries in vain to shake a pear down through disobedient helpers, until the knacker is called."
 declared: "Das Birnli will nit fallen"
 license: CC-BY-NC-SA-4.0
 stamp:

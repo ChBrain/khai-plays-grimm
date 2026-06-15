@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The White Dove"
+description: "An underrated prince follows a fruit-stealing dove and frees a little man and a princess."
 declared: "Die weiße Taube"
 license: CC-BY-NC-SA-4.0
 stamp:

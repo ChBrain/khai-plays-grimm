@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Lambkin and the Little Fish"
+description: "An envious witch-stepmother turns two loving siblings into animals until a wise woman frees them."
 declared: "The Lambkin and the Little Fish"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Golden Key"
+description: "A poor boy finds a golden key, digs up a little box, and turns it, but the lid stays shut."
 declared: "The Golden Key"
 license: CC-BY-NC-SA-4.0
 stamp:

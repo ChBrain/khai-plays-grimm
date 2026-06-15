@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Pack of Ragamuffins"
+description: "A proud cock and hen go travelling and cheat their innkeeper."
 declared: "Das Lumpengesindel"
 license: CC-BY-NC-SA-4.0
 stamp:

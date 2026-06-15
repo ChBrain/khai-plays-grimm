@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Straw, Coal, and Bean"
+description: "In a kitchen a straw, a coal, and a bean escape death by fire."
 declared: "Strohhalm, Kohle und Bohne"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Fisherman and His Wife"
+description: "A poor fisherman catches a talking flounder that reveals itself as an enchanted prince."
 declared: "Von dem Fischer und seiner Frau"
 license: CC-BY-NC-SA-4.0
 stamp:

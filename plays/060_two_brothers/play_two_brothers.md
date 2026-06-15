@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Two Brothers"
+description: "Twins gain wealth from a gold bird, brave dragons and witches, and keep faith with each other."
 declared: "The Two Brothers"
 license: CC-BY-NC-SA-4.0
 stamp:

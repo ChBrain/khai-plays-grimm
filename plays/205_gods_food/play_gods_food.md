@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "God's Food"
+description: "A poor widow is turned away by her rich sister, and her children starve."
 declared: "God's Food"
 license: CC-BY-NC-SA-4.0
 stamp:

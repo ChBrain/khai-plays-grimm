@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Robber Bridegroom"
+description: "A miller's daughter visits her sinister groom's forest house and unmasks him as a murderer."
 declared: "Der Räuberbräutigam"
 license: CC-BY-NC-SA-4.0
 stamp:

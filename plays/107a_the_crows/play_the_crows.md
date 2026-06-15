@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Crows"
+description: "A blinded soldier left at the gallows overhears three crows, heals the princess, and punishes them."
 declared: "Die Krähen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Aged Mother"
+description: "A lonely widow sees in the church of the dead the spared fate of her sons and dies consoled."
 declared: "The Aged Mother"
 license: CC-BY-NC-SA-4.0
 stamp:

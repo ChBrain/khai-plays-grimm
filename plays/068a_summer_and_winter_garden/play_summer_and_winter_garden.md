@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Summer and Winter Garden"
+description: "A merchant promises his youngest daughter to a beast for a rose from a summer-and-winter garden."
 declared: "Von dem Sommer- und Wintergarten"
 license: CC-BY-NC-SA-4.0
 stamp:

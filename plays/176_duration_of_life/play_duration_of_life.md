@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Duration of Life"
+description: "God parcels the animals' rejected years onto man, and so explains his seventy-year life."
 declared: "The Duration of Life"
 license: CC-BY-NC-SA-4.0
 stamp:

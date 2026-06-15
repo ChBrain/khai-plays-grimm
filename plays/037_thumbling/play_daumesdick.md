@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Thumbling"
+description: "A tiny boy helps his father, escapes kidnappers and thieves, and is freed from a wolf's belly."
 declared: "Daumesdick"
 license: CC-BY-NC-SA-4.0
 stamp:

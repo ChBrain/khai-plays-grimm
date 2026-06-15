@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Town Musicians of Bremen"
+description: "Four old animals flee death and scare robbers from a forest house with one loud concert."
 declared: "Die Bremer Stadtmusikanten"
 license: CC-BY-NC-SA-4.0
 stamp:

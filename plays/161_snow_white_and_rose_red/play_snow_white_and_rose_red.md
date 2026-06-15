@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Snow-White and Rose-Red"
+description: "Two kind sisters shelter a bear and free him from the curse of the ungrateful dwarf."
 declared: "Snow-White and Rose-Red"
 license: CC-BY-NC-SA-4.0
 stamp:

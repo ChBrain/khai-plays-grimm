@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Clever Gretel"
+description: "A sly cook devours the feast and, with a quick lie, sets the guest and her master against each other."
 declared: "Clever Gretel"
 license: CC-BY-NC-SA-4.0
 stamp:

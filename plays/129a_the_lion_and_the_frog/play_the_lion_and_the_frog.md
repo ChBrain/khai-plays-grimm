@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Lion and the Frog"
+description: "A princess serves a lion in a magic garden and frees him and a tree-frog through obedience and courage."
 declared: "Der Löwe und der Frosch"
 license: CC-BY-NC-SA-4.0
 stamp:

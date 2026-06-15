@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Odds and Ends"
+description: "A lazy maid throws away her flax scraps, but the diligent one spins them and wins the bridegroom."
 declared: "Odds and Ends"
 license: CC-BY-NC-SA-4.0
 stamp:

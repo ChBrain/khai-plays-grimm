@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "One-Eye, Two-Eyes, and Three-Eyes"
+description: "A despised girl saves herself with a magic goat and a golden apple tree and finds her fortune."
 declared: "Einäuglein, Zweiäuglein und Dreiäuglein"
 license: CC-BY-NC-SA-4.0
 stamp:

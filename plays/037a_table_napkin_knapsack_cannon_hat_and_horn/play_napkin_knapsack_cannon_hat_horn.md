@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Table Napkin, the Knapsack, the Cannon Hat, and the Horn"
+description: "Three sons gain magic devices, rout enemy armies, and rescue their needy mother."
 declared: "Von der Serviette, dem Tornister, dem Kanonenhütlein und dem Horn"
 license: CC-BY-NC-SA-4.0
 stamp:

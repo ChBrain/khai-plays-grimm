@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Tailor in Heaven"
+description: "A tailor sneaks into Heaven, sits on God's throne, and is banished for his self-righteousness."
 declared: "Der Schneider im Himmel"
 license: CC-BY-NC-SA-4.0
 stamp:

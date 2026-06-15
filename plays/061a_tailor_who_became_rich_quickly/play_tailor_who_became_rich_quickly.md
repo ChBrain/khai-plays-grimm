@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Tailor Who Became Rich Quickly"
+description: "A cunning tailor grows hugely rich through fraud and brings the whole village under his thumb."
 declared: "Von dem Schneider, der bald reich wurde"
 license: CC-BY-NC-SA-4.0
 stamp:

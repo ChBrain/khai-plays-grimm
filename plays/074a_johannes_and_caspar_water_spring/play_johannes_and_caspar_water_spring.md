@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Johannes-Wassersprung and Caspar-Wassersprung"
+description: "Two water-born brothers set out with animals, slay a dragon, and free each other from a witch."
 declared: "Von Johannes-Wassersprung und Caspar-Wassersprung"
 license: CC-BY-NC-SA-4.0
 stamp:

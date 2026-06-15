@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Star-Money"
+description: "A pious orphan gives away all she owns and is showered with star-coins from Heaven."
 declared: "The Star-Money"
 license: CC-BY-NC-SA-4.0
 stamp:

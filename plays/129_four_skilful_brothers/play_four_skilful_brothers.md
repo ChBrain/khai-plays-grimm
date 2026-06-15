@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Four Skilful Brothers"
+description: "Four brothers each learn a craft and together rescue the stolen princess."
 declared: "The Four Skilful Brothers"
 license: CC-BY-NC-SA-4.0
 stamp:

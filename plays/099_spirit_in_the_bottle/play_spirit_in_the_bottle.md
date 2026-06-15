@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Spirit in the Bottle"
+description: "A poor student's son traps a dangerous spirit in a bottle and turns its gift into his fortune."
 declared: "The Spirit in the Bottle"
 license: CC-BY-NC-SA-4.0
 stamp:

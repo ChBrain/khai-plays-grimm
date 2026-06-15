@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Sole"
+description: "Out of envy at the herring's win, the sole twists its mouth crooked forever."
 declared: "The Sole"
 license: CC-BY-NC-SA-4.0
 stamp:

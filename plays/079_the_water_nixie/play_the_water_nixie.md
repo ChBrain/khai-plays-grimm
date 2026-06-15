@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Water-Nixie"
+description: "Two children fall down a well, are enslaved by the water-nixie, and escape by throwing magic objects."
 declared: "The Water-Nixie"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Gambling Hansel"
+description: "An incorrigible gambler stakes away even the Lord's gifts and is scattered at Heaven's gate."
 declared: "Gambling Hansel"
 license: CC-BY-NC-SA-4.0
 stamp:

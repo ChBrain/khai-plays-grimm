@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Turnip"
+description: "A poor brother grows a giant turnip, is richly rewarded, and escapes his brother's envy by guile."
 declared: "The Turnip"
 license: CC-BY-NC-SA-4.0
 stamp:

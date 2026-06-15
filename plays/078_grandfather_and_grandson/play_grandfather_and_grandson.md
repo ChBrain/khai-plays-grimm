@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Old Man and His Grandson"
+description: "A cast-out grandfather returns to the table when the child shames the parents' pride."
 declared: "The Old Man and His Grandson"
 license: CC-BY-NC-SA-4.0
 stamp:

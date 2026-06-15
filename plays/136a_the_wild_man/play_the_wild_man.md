@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Wild Man"
+description: "An enchanted wild man helps a banished prince win battles and inherit a kingdom."
 declared: "De wilde Mann"
 license: CC-BY-NC-SA-4.0
 stamp:

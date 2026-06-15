@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Bright Sun Brings It to Light"
+description: "A journeyman murders a poor wayfarer, but the sun brings the deed to light."
 declared: "The Bright Sun Brings It to Light"
 license: CC-BY-NC-SA-4.0
 stamp:

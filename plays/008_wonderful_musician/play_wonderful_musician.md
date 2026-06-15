@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Strange Musician"
+description: "A lonely fiddler wanders the forest, luring the animals with his violin."
 declared: "Der wunderliche Spielmann"
 license: CC-BY-NC-SA-4.0
 stamp:

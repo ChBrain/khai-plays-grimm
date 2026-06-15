@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "A Riddling Tale"
+description: "Three enchanted flowers look exactly alike, but the dew betrays the one that can be freed."
 declared: "A Riddling Tale"
 license: CC-BY-NC-SA-4.0
 stamp:

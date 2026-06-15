@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Lean Lisa"
+description: "Lean Lisa frets over dreamed-up riches and falls out with lanky Lenz."
 declared: "Lean Lisa"
 license: CC-BY-NC-SA-4.0
 stamp:

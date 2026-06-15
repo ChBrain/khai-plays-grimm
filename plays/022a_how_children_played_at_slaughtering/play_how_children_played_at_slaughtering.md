@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "How Children Played at Slaughtering"
+description: "Children playing at slaughtering a sow set off an inquiry with grave consequences."
 declared: "Wie Kinder Schlachtens miteinander gespielt haben"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Fox and the Geese"
+description: "A fox means to eat a flock of geese, but their endless prayer saves them."
 declared: "The Fox and the Geese"
 license: CC-BY-NC-SA-4.0
 stamp:

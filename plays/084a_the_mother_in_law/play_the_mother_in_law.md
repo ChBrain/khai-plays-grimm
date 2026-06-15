@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Mother-in-Law"
+description: "A wicked mother-in-law locks her daughter-in-law and grandchildren in the cellar to devour them."
 declared: "Die Schwiegermutter"
 license: CC-BY-NC-SA-4.0
 stamp:

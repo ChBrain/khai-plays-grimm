@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Blue Light"
+description: "A cast-out soldier finds the blue light and, with its dwarf, brings the king to his knees."
 declared: "The Blue Light"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Sweetheart Roland"
+description: "A girl flees the witch with Roland, survives his forgetting, and wins him back through her singing."
 declared: "Sweetheart Roland"
 license: CC-BY-NC-SA-4.0
 stamp:

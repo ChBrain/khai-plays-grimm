@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Poor Miller's Boy and the Cat"
+description: "Simple Hans serves an enchanted cat seven years and is made rich for it."
 declared: "The Poor Miller's Boy and the Cat"
 license: CC-BY-NC-SA-4.0
 stamp:

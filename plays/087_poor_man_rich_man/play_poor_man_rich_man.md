@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Poor Man and the Rich Man"
+description: "The Lord rewards the poor man's welcome and punishes the rich man's greed with his own wishes."
 declared: "The Poor Man and the Rich Man"
 license: CC-BY-NC-SA-4.0
 stamp:

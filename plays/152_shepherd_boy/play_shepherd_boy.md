@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Shepherd Boy"
+description: "A shepherd boy answers the king's three impossible questions with shrewd wisdom."
 declared: "The Shepherd Boy"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Six Swans"
+description: "A sister sews six shirts in silence to free her brothers from their swan enchantment."
 declared: "Die sechs Schwäne"
 license: CC-BY-NC-SA-4.0
 stamp:

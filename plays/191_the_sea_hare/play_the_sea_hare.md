@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Sea-Hare"
+description: "The youngest brother hides from the all-seeing princess with grateful animals' help and wins her."
 declared: "The Sea-Hare"
 license: CC-BY-NC-SA-4.0
 stamp:

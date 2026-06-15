@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The White Snake"
+description: "A curious servant secretly tastes the king's covered dish, a white snake."
 declared: "Die weiße Schlange"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Three Feathers"
+description: "A king blows three feathers to the wind; Simpleton wins the throne through an underground toad's gifts."
 declared: "The Three Feathers"
 license: CC-BY-NC-SA-4.0
 stamp:

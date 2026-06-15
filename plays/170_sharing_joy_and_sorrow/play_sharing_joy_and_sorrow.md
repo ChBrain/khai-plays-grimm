@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Sharing Joy and Sorrow"
+description: "A cruel tailor twists the rule to share joy and sorrow, and gets his due reward."
 declared: "Sharing Joy and Sorrow"
 license: CC-BY-NC-SA-4.0
 stamp:

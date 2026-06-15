@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Good Bargain"
+description: "A poor farmer drives his cow to market and sells her for a seemingly worthless promise."
 declared: "Der gute Handel"
 license: CC-BY-NC-SA-4.0
 stamp:

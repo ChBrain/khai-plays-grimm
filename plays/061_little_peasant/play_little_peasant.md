@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Little Peasant"
+description: "A poor peasant outwits rich neighbours, prospers through lies, and lures them to their ruin."
 declared: "The Little Peasant"
 license: CC-BY-NC-SA-4.0
 stamp:

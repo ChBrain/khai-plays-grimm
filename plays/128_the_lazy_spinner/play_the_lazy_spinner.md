@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Lazy Spinner"
+description: "A work-shy wife tricks her good-natured husband, ruse after ruse, into giving up spinning for good."
 declared: "The Lazy Spinner"
 license: CC-BY-NC-SA-4.0
 stamp:

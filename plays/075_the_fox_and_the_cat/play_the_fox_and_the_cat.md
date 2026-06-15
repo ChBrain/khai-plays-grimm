@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Fox and the Cat"
+description: "A haughty fox boasts to a cat of his hundred tricks but fails hopelessly against the hounds."
 declared: "The Fox and the Cat"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Wise Servant"
+description: "Instead of the lost cow, a servant goes hunting three blackbirds and calls it wise."
 declared: "The Wise Servant"
 license: CC-BY-NC-SA-4.0
 stamp:

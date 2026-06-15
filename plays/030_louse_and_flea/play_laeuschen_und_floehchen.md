@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Louse and the Flea"
+description: "A small brewing mishap plunges house and nature into grief and ends in a flood."
 declared: "Läuschen und Flöhchen"
 license: CC-BY-NC-SA-4.0
 stamp:

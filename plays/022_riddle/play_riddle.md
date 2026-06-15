@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Riddle"
+description: "A prince and his faithful servant set out into the world and lose their way in a dark forest."
 declared: "Das Rätsel"
 license: CC-BY-NC-SA-4.0
 stamp:

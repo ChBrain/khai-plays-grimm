@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Peasant in Heaven"
+description: "A poor man and a rich lord die together, but only the rare rich one is welcomed to Heaven with music."
 declared: "The Peasant in Heaven"
 license: CC-BY-NC-SA-4.0
 stamp:

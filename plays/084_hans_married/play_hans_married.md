@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Hans Married"
+description: "A cunning uncle swindles poor Hans a rich bride with a patched trouser and a single coin."
 declared: "Hans Married"
 license: CC-BY-NC-SA-4.0
 stamp:

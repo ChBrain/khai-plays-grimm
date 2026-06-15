@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Allerleirauh"
+description: "A princess flees disguised in a fur cloak and is known to the king by three golden trinkets."
 declared: "Allerleirauh"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Little Red Cap"
+description: "A wolf tricks Little Red Cap and swallows her and her grandmother, until a huntsman saves them."
 declared: "Rotkäppchen"
 license: CC-BY-NC-SA-4.0
 stamp:

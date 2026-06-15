@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Fox and His Cousin"
+description: "A she-wolf makes the fox her gossip; he tempts her to steal sheep and lets her carry him home."
 declared: "The Fox and His Cousin"
 license: CC-BY-NC-SA-4.0
 stamp:

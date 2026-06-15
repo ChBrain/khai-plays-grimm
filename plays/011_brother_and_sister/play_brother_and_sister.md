@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Brother and Sister"
+description: "A little brother and sister flee their wicked stepmother."
 declared: "Brüderchen und Schwesterchen"
 license: CC-BY-NC-SA-4.0
 stamp:

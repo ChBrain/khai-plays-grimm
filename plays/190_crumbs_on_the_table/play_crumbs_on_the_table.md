@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Crumbs on the Table"
+description: "A peasant tempts his little dogs to nibble and laughs at the beating they get."
 declared: "The Crumbs on the Table"
 license: CC-BY-NC-SA-4.0
 stamp:

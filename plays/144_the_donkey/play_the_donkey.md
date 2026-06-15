@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Donkey"
+description: "A prince born a donkey wins a bride with his lute and sheds his hide."
 declared: "The Donkey"
 license: CC-BY-NC-SA-4.0
 stamp:

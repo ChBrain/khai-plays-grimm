@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Beam"
+description: "A girl sees through the sorcerer's illusion but is herself blinded on her wedding day."
 declared: "The Beam"
 license: CC-BY-NC-SA-4.0
 stamp:

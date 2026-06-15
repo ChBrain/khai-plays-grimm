@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Frederick and Catherine"
+description: "A couple suffers absurd mishaps through the wife's folly before scaring thieves from a tree."
 declared: "Frederick and Catherine"
 license: CC-BY-NC-SA-4.0
 stamp:

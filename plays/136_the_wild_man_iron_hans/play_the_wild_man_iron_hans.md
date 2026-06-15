@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Iron Hans"
+description: "A prince frees wild Iron Hans, who helps him win a princess while hidden as a gardener's boy."
 declared: "Eisenhans"
 license: CC-BY-NC-SA-4.0
 stamp:

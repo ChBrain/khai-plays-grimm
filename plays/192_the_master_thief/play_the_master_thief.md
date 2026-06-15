@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Master-Thief"
+description: "A lost son returns home a master thief and passes the count's three impossible thieving tests."
 declared: "The Master-Thief"
 license: CC-BY-NC-SA-4.0
 stamp:

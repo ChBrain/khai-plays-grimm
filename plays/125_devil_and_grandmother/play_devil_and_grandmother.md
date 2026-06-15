@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Devil and His Grandmother"
+description: "Three soldiers escape the Devil because the third overhears the riddle and answer in the rock house."
 declared: "The Devil and His Grandmother"
 license: CC-BY-NC-SA-4.0
 stamp:

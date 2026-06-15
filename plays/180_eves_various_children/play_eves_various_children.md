@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Eve's Various Children"
+description: "The Lord blesses Eve's fair and plain children unequally and so orders the ranks as limbs of one body."
 declared: "Eve's Various Children"
 license: CC-BY-NC-SA-4.0
 stamp:

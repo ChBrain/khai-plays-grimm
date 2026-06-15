@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Seven Ravens"
+description: "An angry father curses his seven sons into ravens, and their sister sets out to find them."
 declared: "Die sieben Raben"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Briar Rose"
+description: "A princess falls into a hundred-year sleep from a spindle, until a prince wakes her."
 declared: "Briar Rose"
 license: CC-BY-NC-SA-4.0
 stamp:

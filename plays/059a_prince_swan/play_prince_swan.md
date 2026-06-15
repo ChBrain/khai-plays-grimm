@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Prince Swan"
+description: "A girl follows an enchanted swan, wins golden gifts of heaven, and frees her love on the glass mountain."
 declared: "Prinz Schwan"
 license: CC-BY-NC-SA-4.0
 stamp:

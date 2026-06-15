@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Three Army-Surgeons"
+description: "Three boastful army surgeons lose their own limbs through a night-time mix-up."
 declared: "The Three Army-Surgeons"
 license: CC-BY-NC-SA-4.0
 stamp:

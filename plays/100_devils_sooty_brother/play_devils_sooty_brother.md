@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Devil's Sooty Brother"
+description: "A discharged soldier serves the Devil seven years, gains gold, and in the end a kingdom."
 declared: "The Devil's Sooty Brother"
 license: CC-BY-NC-SA-4.0
 stamp:

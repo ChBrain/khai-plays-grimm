@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The King's Son Who Feared Nothing"
+description: "A fearless prince endures betrayal and torture and frees an enchanted princess."
 declared: "The King's Son Who Feared Nothing"
 license: CC-BY-NC-SA-4.0
 stamp:

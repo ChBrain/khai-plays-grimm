@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Sparrow and His Four Children"
+description: "An old sparrow instructs his four sons and praises the youngest's trust in God."
 declared: "The Sparrow and His Four Children"
 license: CC-BY-NC-SA-4.0
 stamp:

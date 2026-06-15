@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Old Sultan"
+description: "An old dog, marked for death as useless, makes a pact with the wolf and proves his loyalty."
 declared: "Old Sultan"
 license: CC-BY-NC-SA-4.0
 stamp:

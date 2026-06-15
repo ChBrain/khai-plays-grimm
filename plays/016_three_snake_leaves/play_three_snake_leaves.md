@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Three Snake-Leaves"
+description: "A poor youth goes to war, wins through bravery, and gains the princess as his wife."
 declared: "Die drei Schlangenblätter"
 license: CC-BY-NC-SA-4.0
 stamp:

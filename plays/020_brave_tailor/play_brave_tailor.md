@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Brave Little Tailor"
+description: "A little tailor swats seven flies on his jam bread and sets out into the world."
 declared: "Das tapfere Schneiderlein"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Going A-Travelling"
+description: "A simple son goes travelling and is beaten everywhere for repeating learned words in the wrong place."
 declared: "Going A-Travelling"
 license: CC-BY-NC-SA-4.0
 stamp:

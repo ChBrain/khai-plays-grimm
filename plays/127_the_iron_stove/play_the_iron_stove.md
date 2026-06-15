@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Iron Stove"
+description: "A princess frees a prince enchanted into an iron stove and wins him back despite a broken word."
 declared: "The Iron Stove"
 license: CC-BY-NC-SA-4.0
 stamp:

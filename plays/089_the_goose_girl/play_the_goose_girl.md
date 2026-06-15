@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Goose-Girl"
+description: "A true bride, ousted by her maid, herds geese as a goose-girl and is recognised at last."
 declared: "The Goose-Girl"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Twelve Idle Servants"
+description: "Twelve idle servants lie in the grass at evening, outboasting one another with their own sloth."
 declared: "The Twelve Idle Servants"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Princess with the Louse"
+description: "A tidy princess fattens a louse calf-big, makes a gown from its hide, and riddles her suitors."
 declared: "Prinzessin mit der Laus"
 license: CC-BY-NC-SA-4.0
 stamp:

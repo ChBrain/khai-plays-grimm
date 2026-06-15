@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Knoist and His Three Sons"
+description: "Three infirm sons set out and meet nothing but senseless impossibilities."
 declared: "Knoist and His Three Sons"
 license: CC-BY-NC-SA-4.0
 stamp:

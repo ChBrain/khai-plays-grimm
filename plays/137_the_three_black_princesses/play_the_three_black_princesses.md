@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Three Black Princesses"
+description: "Three black princesses are nearly freed until the fisher's son pours boiling water on them."
 declared: "Die drei schwarzen Prinzessinnen"
 license: CC-BY-NC-SA-4.0
 stamp:

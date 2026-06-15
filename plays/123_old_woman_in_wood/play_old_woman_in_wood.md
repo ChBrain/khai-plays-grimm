@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Old Woman in the Wood"
+description: "An orphaned girl trusts in God and frees the enchanted prince with a plain ring."
 declared: "The Old Woman in the Wood"
 license: CC-BY-NC-SA-4.0
 stamp:

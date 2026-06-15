@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Death of the Little Hen"
+description: "The greedy hen chokes on a nut, and grief for her drags everyone into death."
 declared: "The Death of the Little Hen"
 license: CC-BY-NC-SA-4.0
 stamp:
