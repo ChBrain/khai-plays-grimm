@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.235.0",
+  "version": "0.236.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -527,6 +527,11 @@
       "id": "081_brother_lustig",
       "title": "Brother Lustig",
       "description": "Ein lustiger Soldat reist mit dem heiligen Petrus, verzehrt heimlich das Lammherz und wünscht sich in den Himmel."
+    },
+    {
+      "id": "081a_the_smith_and_the_devil",
+      "title": "The Smith and the Devil",
+      "description": "Ein Schmied schließt einen Pakt mit dem Teufel, überlistet ihn mit einem Sack und nagelt Teufelchen am Höllentor fest."
     },
     {
       "id": "082_gambling_hansel",
