@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.234.0",
+  "version": "0.235.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -502,6 +502,11 @@
       "id": "077_clever_gretel",
       "title": "Clever Gretel",
       "description": "Eine listige Köchin verschlingt das Festmahl und hetzt mit einer Notlüge den Gast und den Herrn auseinander."
+    },
+    {
+      "id": "077a_the_carpenter_and_turner",
+      "title": "The Carpenter and Turner",
+      "description": "Ein Prinz entführt eine Prinzessin mit künstlichen Flügeln, entkommt dem Scheiterhaufen und fordert sein Königreich."
     },
     {
       "id": "078_grandfather_and_grandson",
