@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.241.0",
+  "version": "0.242.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -577,6 +577,11 @@
       "id": "085c_of_prince_johannes",
       "title": "Of Prince Johannes",
       "description": "Prinz Johannes fliegt mit einer Erscheinung zur roten Burg, um nach Prüfungen die Sonnenprinzessin zu erblicken."
+    },
+    {
+      "id": "085d_the_good_cloth",
+      "title": "The Good Cloth",
+      "description": "Zwei Schwestern besitzen einen Lappen, der alles zu Gold macht, bis die dumme ihn gegen einen neuen vertauscht."
     },
     {
       "id": "086_the_fox_and_the_geese",
