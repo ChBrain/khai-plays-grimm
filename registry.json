@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.252.0",
+  "version": "0.253.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -1087,6 +1087,11 @@
       "id": "175_the_moon",
       "title": "The Moon",
       "description": "Vier Gesellen rauben den Mond, nehmen ihn ins Grab, und Petrus hängt ihn an den Himmel."
+    },
+    {
+      "id": "175a_the_misfortune",
+      "title": "The Misfortune",
+      "description": "Ein armer Mann versucht dem Unglück zu entgehen, wird aber von Wölfen und Wasser gejagt und von einer Mauer erschlagen."
     },
     {
       "id": "176_duration_of_life",
