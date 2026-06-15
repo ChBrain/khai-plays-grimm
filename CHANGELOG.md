@@ -1,5 +1,32 @@
 # @chbrain/khai-plays-grimm
 
+## 0.249.0
+
+### Minor Changes
+
+- b7dbf3b: Stage KHM 104a (Die treuen Tiere / The Faithful Animals) in the production house.
+- d1d9536: Stage KHM 107a (Die Krähen / The Crows) in the production house.
+- 1a26c0d: play: stage KHM 75a in Grimm-Deutsch - Vogel Phönix - A youth found floating in a box is raised by a miller - a jealous Verwalter tries to murder him with a letter, but an old man alters it to a marriage command - the Verwalter demands three feathers from the Phoenix - the youth finds a golden key, reaches the castle, and gets help from a maiden who combs the Phoenix and plucks his feathers.
+- c0b1462: play: stage KHM 77a in Grimm-Deutsch - Vom Schreiner und Drechsler - Ein Prinz entführt eine Prinzessin mit künstlichen Flügeln, entkommt dem Scheiterhaufen und fordert sein Königreich.
+- f8db70d: play: stage KHM 81a in Grimm-Deutsch - Der Schmidt und der Teufel - Ein Schmied schließt einen Pakt mit dem Teufel, überlistet ihn mit einem Sack und nagelt Teufelchen am Höllentor fest.
+- 558b884: play: stage KHM 82a in Grimm-Deutsch - Die drei Schwestern - Ein Königssohn befreit seine drei an Tierbräutigame gegebenen Schwestern und erlöst sie aus dem Zauberbann.
+- fbac10d: play: stage KHM 84a in Grimm-Deutsch - Die Schwiegermutter - Eine böse Schwiegermutter sperrt ihre Schwiegertochter samt Enkeln in den Keller, um sie heimlich zu verzehren.
+- 1ca473d: play: stage KHM 85a in Grimm-Deutsch - Schneeblume - Eine wintergeborene Königstochter sucht im Wald Heilkräuter für ihre kranke Mutter und wird von Bienen verschönert.
+- 4f8637e: play: stage KHM 85b in Grimm-Deutsch - Prinzessin mit der Laus - Eine reinliche Prinzessin lässt eine Laus kalbsgroß füttern, macht ein Kleid aus ihrem Fell und stellt Freiern Rätsel.
+- 34e5812: play: stage KHM 85c in Grimm-Deutsch - Vom Prinz Johannes - Prinz Johannes fliegt mit einer Erscheinung zur roten Burg, um nach Prüfungen die Sonnenprinzessin zu erblicken.
+- 53e1aff: play: stage KHM 85d in Grimm-Deutsch - Der gute Lappen - Zwei Schwestern besitzen einen Lappen, der alles zu Gold macht, bis die dumme ihn gegen einen neuen vertauscht.
+- 1f461ed: play: stage KHM 99a in Grimm-Deutsch - Der Froschprinz - Die jüngste Königstochter verspricht einem Frosch für klares Wasser ihre Liebe und erlöst ihn nach drei Nächten im Bett.
+
+### Patch Changes
+
+- 0e4b10c: deps: bump `@chbrain/khai-tests` to 0.1.20 (lockfile), which adds the `titleLeakAudit` reviewer-assist. Conformance stays green; the assist surfaces source-language-in-`title:` candidates as audit notes only.
+- c020cb8: governance: record a deferred management plan (management/plan-sagen.md) to extend the house to the brothers' Deutsche Sagen as a later season, after the KHM is sealed at 255. Start date unset; no plays change.
+- 8baab90: governance: add GitHub Sponsors funding config (.github/FUNDING.yml) so the repository shows a Sponsor button linked to the maintainer's enabled GitHub Sponsors profile.
+- 2aca2ed: plays: translate source-language text that had leaked into element `title:` fields into English, so `title:` is the English-facing label and `declared:` remains the source-language name. Covers 54 elements across the German-slug tales (e.g. The Wald to The Forest, Goldei to The Gold Egg, Eierhandel to The Egg Trade); proper nouns and cognates are left untouched and `declared:` is unchanged.
+- b5a95f8: Stage KHM 119a: Der Faule und der Fleißige (The Lazy and the Industrious)
+- 77ecbd7: Stage KHM 122a: Die lange Nase (The Long Nose)
+- 0324d69: Stage KHM 129a: Der Löwe und der Frosch (The Lion and the Frog)
+
 ## 0.233.0
 
 ### Minor Changes
