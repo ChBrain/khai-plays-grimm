@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.254.0",
+  "version": "0.255.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -1177,6 +1177,11 @@
       "id": "191_the_sea_hare",
       "title": "The Sea-Hare",
       "description": "Der jüngste Bruder verbirgt sich mit Hilfe dankbarer Tiere vor der allsehenden Prinzessin und gewinnt sie."
+    },
+    {
+      "id": "191a_the_robber_and_his_sons",
+      "title": "The Robber and His Sons",
+      "description": "Ein bekehrter Räuber erzählt der Königin zwei abenteuerliche Geschichten, um das Leben seiner drei Söhne zu retten."
     },
     {
       "id": "192_the_master_thief",
