@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.238.0",
+  "version": "0.239.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -562,6 +562,11 @@
       "id": "085_the_gold_children",
       "title": "The Gold-Children",
       "description": "Aus dem zerteilten Goldfisch wachsen zwei Goldkinder, deren Lilien über Leben und Tod entscheiden."
+    },
+    {
+      "id": "085a_snow_flower",
+      "title": "Snow Flower",
+      "description": "Eine wintergeborene Königstochter sucht im Wald Heilkräuter für ihre kranke Mutter und wird von Bienen verschönert."
     },
     {
       "id": "086_the_fox_and_the_geese",
