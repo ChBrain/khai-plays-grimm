@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.250.0",
+  "version": "0.251.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -912,6 +912,11 @@
       "id": "143_going_a_travelling",
       "title": "Going A-Travelling",
       "description": "Ein einfältiger Sohn wandert aus und wird überall geprügelt, weil er gelernte Worte stets am falschen Ort wiederholt."
+    },
+    {
+      "id": "143a_the_famine_children",
+      "title": "The Famine Children",
+      "description": "Eine hungrige Mutter droht ihre Töchter zu töten, doch diese legen sich schlafen, bis der Jüngste Tag anbricht."
     },
     {
       "id": "144_the_donkey",
