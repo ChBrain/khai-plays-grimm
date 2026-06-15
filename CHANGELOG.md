@@ -1,5 +1,112 @@
 # @chbrain/khai-plays-grimm
 
+## 0.233.0
+
+### Minor Changes
+
+- 88017a7: play: stage KHM 137 in Grimm-Deutsch - siege of East India - son captured - father becomes mayor and sets gallows - son enters mountain castle - silence trial - return home - saved by smock-frock - boiling water betrayal - princesses' curse - castle sinks - broken leg.
+- e4e761a: play: stage KHM 138 in Grimm-Deutsch — an absurdist nonsense tale: Knoist's blind, lame, and naked sons hunt a hare, sail a bottomless boat, and find a tree-chapel of holy-water cudgels.
+- e4e761a: play: stage KHM 139 in Grimm-Deutsch — a girl praying to St. Anne for a husband mistakes the hidden clerk's refusal for the child Mary and rebukes her.
+- e4e761a: play: stage KHM 140 in Grimm-Deutsch — a cumulative nonsense rhyme in which two travellers fold man, child, cradle, and drudge into an ever-growing refrain on the road to Walpe.
+- e4e761a: play: stage KHM 141 in Grimm-Deutsch — a witch-stepmother turns two devoted siblings into a lamb and a fish, until a cook's mercy and a wise woman restore them.
+- e4e761a: play: stage KHM 142 in Grimm-Deutsch — a poor brother takes modest gold from a robbers' treasure-mountain, while his greedy brother, forgetting the magic name, is trapped and slain.
+- e4e761a: play: stage KHM 143 in Grimm-Deutsch — a hapless youth, beaten at every turn for repeating ill-fitted phrases, crawls home and never goes travelling again.
+- e4e761a: play: stage KHM 144 in Grimm-Deutsch — a prince born a donkey wins a princess by his lute, sheds his skin when it is burned, and inherits the kingdom as a handsome youth.
+- e4e761a: play: stage KHM 145 in Grimm-Deutsch — a son who hides a roast from his hungry father finds it turned to a toad that clamps to his face and feeds on him forever.
+- e4e761a: play: stage KHM 146 in Grimm-Deutsch — a poor brother's giant turnip wins a king's bounty, and when his envious brother has him sacked in a tree he tricks a student to take his place.
+- e4e761a: play: stage KHM 147 in Grimm-Deutsch — the Lord forges an old beggar young again, but a smith's botched imitation on his mother-in-law frightens two women into bearing the first apes.
+- e4e761a: play: stage KHM 148 in Grimm-Deutsch — an etiological fable: the Devil's goats lose their bitten-off tails and gain the Devil's own eyes after a failed claim for damages.
+- e4e761a: play: stage KHM 149 in Grimm-Deutsch — an enchanter humiliated by a clover-sighted girl takes revenge on her wedding day with an illusory flood that is really a flax field.
+- e4e761a: play: stage KHM 150 in Grimm-Deutsch — a grim fragment: an old beggar-woman's rags catch fire at a boy's hearth while he watches, and the narrator asks why he did not help.
+- e4e761a: play: stage KHM 151 in Grimm-Deutsch — a dying king awards his kingdom to the laziest of his three sons, the one who would sooner hang than lift a hand to cut the rope.
+- e4e761a: play: stage KHM 151\* (Die zwölf faulen Knechte / The Twelve Idle Servants) in
+  Grimm-Deutsch as 151a — twelve servants outdo one another boasting of their
+  sloth, crowned by the master hauling the mired cart himself.
+- e4e761a: play: stage KHM 152 in Grimm-Deutsch — a shepherd boy answers the king's three impossible questions so wisely that the king keeps him as his own child.
+- e4e761a: play: stage KHM 153 in Grimm-Deutsch — a destitute orphan gives away her bread and every garment, and heaven rains down stars turned to coin.
+- e4e761a: play: stage KHM 154 in Grimm-Deutsch — a dead child's ghost digs nightly for two hidden farthings until the parents give the money away and it rests.
+- e4e761a: play: stage KHM 155 in Grimm-Deutsch — a shepherd chooses among three sisters by a cheese test, and weds the one who pares the rind with care.
+- e4e761a: play: stage KHM 156 in Grimm-Deutsch — a diligent servant spins a lazy maiden's discarded flax into a gown, and the bridegroom weds the servant instead.
+- e4e761a: play: stage KHM 157 in Grimm-Deutsch — an old sparrow hears his four sons' summer adventures and blesses the youngest's faith as the safest course.
+- e4e761a: play: stage KHM 158 in Grimm-Deutsch — a tall-tale catalogue of Cockaigne impossibilities — Rome on a thread, a footless runner, a honey mountain — closed by a crowing cock.
+- e4e761a: play: stage KHM 159 in Grimm-Deutsch — a Low-German lying-tale of flying roasts, swimming millstones, and stilt-walking cripples, ended by opening the window to let the lies fly out.
+- e4e761a: play: stage KHM 160 in Grimm-Deutsch — three maidens turned to identical flowers; a husband frees his wife by knowing the one bloom left dewless from her night at home.
+- e4e761a: play: stage KHM 161 in Grimm-Deutsch — two gentle sisters befriend a bear and free an ungrateful dwarf thrice, until the bear, an enchanted prince, slays the dwarf and weds Snow-white.
+- e4e761a: play: stage KHM 162 in Grimm-Deutsch — sent for a lost cow, servant John chases three blackbirds instead, in a satire on doing as one pleases over a master's orders.
+- e4e761a: play: stage KHM 163 in Grimm-Deutsch — a lost tailor's apprentice, borne by a stag, frees a count's daughter from a glass coffin and her brother from a magician's spell.
+- e4e761a: play: stage KHM 164 in Grimm-Deutsch — two idlers trade goats for a beehive, and a quarrel over an imaginary child's discipline shatters their honey-jar.
+- e4e761a: play: stage KHM 165 in Grimm-Deutsch — courteous Stupid Hans heals a princess and, by the Griffin's overheard answers, wins her hand while the greedy king drowns.
+- e4e761a: play: stage KHM 166 in Grimm-Deutsch — a robber-raised strongman frees a princess underground, is betrayed by his companions, and reclaims her with a dwarf's air-spirit ring.
+- e4e761a: play: stage KHM 167 in Grimm-Deutsch — Saint Peter greets a rich lord with music but a poor peasant in silence — for poor folk reach heaven daily, the rich but once a century.
+- e4e761a: play: stage KHM 168 in Grimm-Deutsch — a grasping wife, fretting in bed over a dreamed florin and a cow's milk, quarrels her husband to sleep.
+- e4e761a: play: stage KHM 169 in Grimm-Deutsch — two unkind sisters who ignore the forest house's animals are shut in the cellar, while the youngest's kindness disenchants its prince.
+- c61912f: play: stage KHM 16a (withdrawn) in Grimm-Deutsch - discharged soldier hired by anticipating the king's wish with pipe and tobacco - charged to woo Princess Nomini - on the road spares the birds, feeds the ravens, saves the fish - three trials (poppy seed, golden ring, unicorn) solved by the grateful animals - rises from lackey to first minister.
+- e4e761a: play: stage KHM 170 in Grimm-Deutsch — a cruel tailor twists his vow to share joy and sorrow into an excuse for beating his wife, and the judges punish him.
+- e4e761a: play: stage KHM 171 in Grimm-Deutsch — the birds' contests to crown a king are won by cunning by the tiny wren, mocked ever after as king of the hedges.
+- e4e761a: play: stage KHM 172 in Grimm-Deutsch — the fishes race to choose a king; the envious sole sneers at the winning herring and has its mouth twisted aside forever.
+- e4e761a: play: stage KHM 173 in Grimm-Deutsch — two herdsmen ruined by grazing too rich and too barren become the bittern and hoopoe, crying for cattle they no longer have.
+- e4e761a: play: stage KHM 174 in Grimm-Deutsch — a whole town, terrified of one owl cowering in a barn, burns down its own barn to be rid of it.
+- e4e761a: play: stage KHM 175 in Grimm-Deutsch — four men steal the moon for their dark land and bury its quarters with them, until Saint Peter hangs it in heaven.
+- e4e761a: play: stage KHM 176 in Grimm-Deutsch — man, unhappy with thirty years, takes the spans the ass, dog, and monkey gave back — and so lives toil, decline, and dotage.
+- e4e761a: play: stage KHM 177 in Grimm-Deutsch — a youth who revives the overthrown Death is promised warning, and learns too late that the ailments and Sleep were the messengers.
+- e4e761a: play: stage KHM 178 in Grimm-Deutsch — a restless fault-finding shoemaker dreams into heaven, cannot keep from criticizing the angels' work, and is thrown out for it.
+- e4e761a: play: stage KHM 179 in Grimm-Deutsch — a count and grieving king and queen find the youngest princess, banished for loving her father like salt, tending geese in pearl-weeping disguise.
+- e4e761a: play: stage KHM 180 in Grimm-Deutsch — the Lord blesses Eve's fair children with high estates and her hidden plain ones with humble trades, ordained as the limbs of one body.
+- e4e761a: play: stage KHM 181 in Grimm-Deutsch — Die Nixe im Teich — the miller's bargain with the nix and the wife's threefold rescue
+- e4e761a: play: stage KHM 182 in Grimm-Deutsch — Die Geschenke des kleinen Volkes — the frugal tailor keeps his gold, the greedy goldsmith is doomed
+- e4e761a: play: stage KHM 183 in Grimm-Deutsch — Der Riese und der Schneider — the little tailor out-boasts the credulous giant
+- e4e761a: play: stage KHM 184 in Grimm-Deutsch — Der Nagel — the merchant's haste loses nail, shoe, horse, and trunk
+- e4e761a: play: stage KHM 185 in Grimm-Deutsch — Der arme Junge im Grab — the orphan's torment under the rich farmer and his end
+- e4e761a: play: stage KHM 186 in Grimm-Deutsch — Die wahre Braut — the true bride wins back her forgetful prince
+- e4e761a: play: stage KHM 187 in Grimm-Deutsch — Der Hase und der Igel — the hedgehog and his look-alike wife out-run the boastful hare
+- e4e761a: play: stage KHM 188 in Grimm-Deutsch — Spindel, Weberschiffchen und Nadel — the diligent maid's tools win her the prince
+- e4e761a: play: stage KHM 189 in Grimm-Deutsch — Der Bauer und der Teufel — the peasant tricks the devil out of the treasure twice
+- e4e761a: play: stage KHM 190 in Grimm-Deutsch — Die Brosamen auf dem Tisch — the puppies feast and take the beating
+- e4e761a: play: stage KHM 191 in Grimm-Deutsch — Das Meerhäschen — three grateful animals hide the youngest brother from the all-seeing princess
+- e4e761a: play: stage KHM 192 in Grimm-Deutsch — Der Meisterdieb — the master-thief passes the Count's three impossible thefts
+- e4e761a: play: stage KHM 193 in Grimm-Deutsch — Der Trommler — the drummer frees the glass-mountain princess and breaks the forgetting
+- e4e761a: play: stage KHM 194 in Grimm-Deutsch — Die Kornähre — the abused grain and the partial mercy that leaves us the ear
+- e4e761a: play: stage KHM 195 in Grimm-Deutsch — Der Grabhügel — the soldier's bottomless boot cheats the Devil at the grave
+- e4e761a: play: stage KHM 196 in Grimm-Deutsch — Oll Rinkrank — the captive traps Rinkrank's beard and escapes the glass mountain
+- e4e761a: play: stage KHM 197 in Grimm-Deutsch — Die Kristallkugel — the youngest son wins the crystal ball and frees the Castle of the Golden Sun
+- e4e761a: play: stage KHM 198 in Grimm-Deutsch — Jungfrau Maleen — the walled-in maiden endures and is recognized as the true bride
+- e4e761a: play: stage KHM 199 in Grimm-Deutsch — Der Stiefel von Büffelleder — the fearless soldier freezes the robbers for the disguised king
+- e4e761a: play: stage KHM 200 in Grimm-Deutsch — Der goldene Schlüssel — the collection's unfinished close, the key turning, the lid still shut
+- e4e761a: play: stage KHM 201 in Grimm-Deutsch — Der heilige Joseph im Walde — the pious daughter is rewarded, the greedy mother and daughter doomed
+- e4e761a: play: stage KHM 202 in Grimm-Deutsch — Die zwölf Apostel — twelve brothers sleep in golden cradles until Christ is born
+- e4e761a: play: stage KHM 203 in Grimm-Deutsch — Die Rose — the strange child's rose blooms as the gentle girl dies in peace
+- e4e761a: play: stage KHM 204 in Grimm-Deutsch — Armut und Demut führen zum Himmel — the king's son begs in rags and dies holy under the stairs
+- e4e761a: play: stage KHM 205 in Grimm-Deutsch — Gottes Speise — the bread bleeds and the faithful widow's children are taken by God
+- e4e761a: play: stage KHM 206 in Grimm-Deutsch — Die drei grünen Zweige — the hermit's penance ends as three green twigs sprout from the dry branch
+- e4e761a: play: stage KHM 207 in Grimm-Deutsch — Muttergottesgläschen — Our Lady frees the wagoner's cart for a flower-glass of wine
+- e4e761a: play: stage KHM 208 in Grimm-Deutsch — Das alte Mütterchen — the lone widow sees her dead and learns God's mercy spared her sons
+- e4e761a: play: stage KHM 209 in Grimm-Deutsch — Die himmlische Hochzeit — the boy feeds the wooden image and is called to the heavenly wedding
+- e4e761a: play: stage KHM 210 in Grimm-Deutsch — Die Haselrute — Our Lady is sheltered by the hazel, which guards against snakes ever after (the collection's last tale)
+- ca0b97a: play: stage KHM 22a in Grimm-Deutsch - how children played at slaughtering - children observe father slaughter pig in yard - imitate slaughter game in chamber - butcher child and pig child - magistrate trial in court - choice between red apple and gold gulden - child chooses apple revealing innocence - judge rules lack of intent.
+- 5eaa131: play: stage KHM 27a in Grimm-Deutsch - death and the goose boy - goose boy meets death at riverbank - asks to cross to new world - death declines initially - miser drowned with dogs and cats as punishment - death returns and guides goose boy across water - geese transformed into white sheep - crowned in afterworld.
+- ab2c804: play: stage KHM 33a (Puss in Boots), KHM 34a (Hans's Trine), and KHM 37a (The Table Napkin, the Knapsack, the Cannon Hat, and the Horn).
+- c61912f: play: stage KHM 43a (withdrawn) in Grimm-Deutsch - blood-sausage invites liver-sausage to a feast - guest climbs a stair of omens (broom and shovel fighting, a monkey with a head wound) - friendly welcome, then left alone - a voice names the house a den of murder - guest flees as the host's knife thrusts up through the floor-hole and misses.
+- c61912f: play: stage KHM 54a (withdrawn) in Grimm-Deutsch - fatherless child gives a lemon in church to the despised hunchback Hans Dumm, choosing him as father - king casts princess, child, and Hans out to sea in a barrel - Hans wishes food, ship, castle, and his own fair form into being - princess slips a golden cup into the visiting king's baggage to hold his rash judgement before him - reconciliation, and Hans becomes king.
+- c61912f: play: stage KHM 60a (withdrawn) in Grimm-Deutsch - poor broom-binder children find a bird laying a golden egg a day and grow rich selling them - the bird asks to be taken to the goldsmith and sings that its heart makes a king and its liver brings a gold purse each morning - the goldsmith plots to marry the sister and roast the bird, but heart and liver fall out and are eaten by the children, on whom the prophecy comes true.
+- 551bcd5: play: stage KHM 61a in Grimm-Deutsch - tailor who became rich quickly - tailor finds frozen thrush on field - parson hidden in chest in farmhouse - tailor uses thrush to blackmail parson and farmer - peasants fail to copy him and lock him in chest - tailor dupes shepherd on riverbank - peasants jump into river for sheep and drown.
+- e43b219: play: stage KHM 62a in Grimm-Deutsch - bluebeard - bluebeard woos daughter from father - gives her keys but forbids entry to small chamber - wife yields to curiosity and enters - gold key falls into blood - blood cannot be washed off - bluebeard returns and sentences wife to death - wife flees to turret and signals brothers - brothers storm castle and slay bluebeard.
+- 1dee764: play: stage KHM 64a in Grimm-Deutsch - white dove - king's Birnbaum in palace garden has fruits stolen nightly - eldest and second brothers fall asleep on guard - Dummling stays awake and discovers white dove stealing pears - Dummling follows dove to cleft on high mountain - blesses gray dwarf to redeem him - dwarf shows way down - Dummling finds dove bound in spiderwebs in underground chamber - dove tears webs and turns back into princess.
+- 03eeeb9: play: stage KHM 66a in Grimm-Deutsch - Hurleburlebutz - lost King bargains with dwarf Hurleburlebutz in forest - promises youngest daughter for rescue - King tries to deceive dwarf with cowherd's and gooseherd's daughters - Hurleburlebutz tests them with lousing test on forest clearing and exposes them - true princess passes test and goes to hut - princess disenchants prince by beheading middle of three white doves with knife.
+- f974938: play: stage KHM 68a in Grimm-Deutsch - Von dem Sommer- und Wintergarten - merchant travels to fair and promises youngest daughter to black beast in exchange for winter rose - beast takes daughter to magical castle where she sees sick father through mirror - daughter stays too long and finds beast seemingly dead under cabbage - daughter revives beast with water and it transforms into prince.
+- c61912f: play: stage KHM 6a (withdrawn) in Grimm-Deutsch - nightingale and blindworm live one-eyed and equal - nightingale borrows the second eye for a wedding - keeps it against the promise - blindworm swears eternal revenge - nightingale nests high in the linden - blindworm lurks beneath, after the eggs.
+- 9af8503: play: stage KHM 70a in Grimm-Deutsch - Der Okerlo - princess grows up on cannibal island - princess saves prince from being devoured by swapping children's crowns at night - princess steals Meilenstiefel, magic wand, and speaking bean to flee with prince - princess transforms them into swan/pond, dust cloud, and rose bush/bee using wand to evade pursuer - fee entzaubert them in queen's garden.
+- 133fe93: play: stage KHM 71a in Grimm-Deutsch - Prinzessin Mäusehaut - princess compared her love to king as salt - enraged king banishes princess and orders her death - loyal servant spares her and gets her mouseskin dress - princess serves neighbor king as stiefelknecht - she is discovered by ring - father king learns value of salt when served saltless wedding meal.
+- 5e026a9: play: stage KHM 72a in Grimm-Deutsch - Das Birnli will nit fallen - the master wants to shake a pear from the tree but it will not fall - he sends Jockli, then Hündli, Prügeli, Fürli, Wässerli, Kälbli, Metzger, and Schinder - each refusing the command until the Schinder's threat of hanging the Metzger reverses the refusal and causes the pear to fall.
+- f6b787d: play: stage KHM 73a in Grimm-Deutsch - Das Mordschloß - shoemaker's daughter follows a rich lord to his forest castle - she discovers his murderous secrets in the forbidden cellar with the help of an old woman - she escapes hidden under a hay wagon - she exposes the murderer at a feast in a neighboring castle leading to his arrest.
+- 1a18bb1: play: stage KHM 74a in Grimm-Deutsch - Von Johannes-Wassersprung und Caspar-Wassersprung - Zwillingsbrüder Johannes and Caspar set out with helpful animals - Johannes slays a seven-headed dragon but is murdered by a devious charioteer - animals revive him and he exposes the fraud - Johannes is turned to stone by a witch but Caspar, warned by their magic knife, forces her to release him.
+- c61912f: play: stage KHM 8a (withdrawn) in Grimm-Deutsch - disfavoured girl sent to cut peat with a blunt tool - elf-lover's hand reaches a magic knife from a hill - mother suspects the speed - brothers follow, seize the knife and sever the elf's arm - helper withdraws, believing betrayal, and vanishes.
+- e8b28dc: play: stage KHM 59a in Grimm-Deutsch - prince swan - girl unwinds ball of yarn - thread breaks on thorn - shelters with sun, moon, stars - cannibal husband - golden spinning wheel, spindle, and reel - glass mountain - dragon and lion pacified with bread and bacon - false queen - sleeping potion - riddle of old and new key - true bride Julian' reclaimed.
+
+### Patch Changes
+
+- fe2fa48: data: de-slug the element titles of `073a_murder_castle` into clean English display names (`shoemaker` -> `The Shoemaker`, `01_seduction` -> `Seduction`). KHM 73a merged just before the house-wide de-slug, so it was the lone play left with slug titles; this brings it in line. Only the `title` scalar changes; `declared`, H1 headings, ids, and prose are untouched.
+- 2c79cde: data: de-slug element `title` frontmatter into clean English display names. Every persona, place, piece, position, plot, process, and plan title was a raw slug (`title: "frog"`, `title: "01_loss-in-the-forest"`); these now read as Title Case names (`The Frog`, `Loss in the Forest`). Filenames (element ids), `#el-<id>` links, and the German `declared` originals are untouched, so the graph and the book are unchanged — only the shelf and the call board now read words.
+
 ## 0.137.0
 
 ### Minor Changes
