@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "token"
+title: "The Token"
 declared: "die Mordeingeweide"
 license: CC-BY-NC-SA-4.0
 stamp:
