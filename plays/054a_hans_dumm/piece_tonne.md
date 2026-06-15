@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Tonne"
+title: "The Barrel"
 declared: "Tonne"
 license: CC-BY-NC-SA-4.0
 stamp:

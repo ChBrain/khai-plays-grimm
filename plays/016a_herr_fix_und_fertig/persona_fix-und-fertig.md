@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "The Fix Und Fertig"
+title: "Mr Fix and Ready"
 declared: "Herr Fix und Fertig"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Goldener Becher"
+title: "The Golden Goblet"
 declared: "Der goldene Becher"
 license: CC-BY-NC-SA-4.0
 stamp:

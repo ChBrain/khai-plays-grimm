@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Eierhandel"
+title: "The Egg Trade"
 declared: "der Goldeierhandel"
 license: CC-BY-NC-SA-4.0
 stamp:

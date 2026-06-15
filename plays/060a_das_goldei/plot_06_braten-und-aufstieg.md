@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Braten Und Aufstieg"
+title: "Roast and Rise"
 declared: "Braten, Vertauschung und Aufstieg"
 license: CC-BY-NC-SA-4.0
 stamp:

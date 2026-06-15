@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "The Huette"
+title: "The Broom-Binders' Hut"
 declared: "Hütte der Besenbinder"
 license: CC-BY-NC-SA-4.0
 stamp:

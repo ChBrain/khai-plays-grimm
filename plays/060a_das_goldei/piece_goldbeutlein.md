@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Goldbeutlein"
+title: "The Little Gold Purse"
 declared: "Goldbeutlein"
 license: CC-BY-NC-SA-4.0
 stamp:
