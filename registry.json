@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.239.0",
+  "version": "0.240.0",
   "plays": [
     {
       "id": "001_the_frog_king",
@@ -567,6 +567,11 @@
       "id": "085a_snow_flower",
       "title": "Snow Flower",
       "description": "Eine wintergeborene Königstochter sucht im Wald Heilkräuter für ihre kranke Mutter und wird von Bienen verschönert."
+    },
+    {
+      "id": "085b_princess_with_the_louse",
+      "title": "The Princess with the Louse",
+      "description": "Eine reinliche Prinzessin lässt eine Laus kalbsgroß füttern, macht ein Kleid aus ihrem Fell und stellt Freiern Rätsel."
     },
     {
       "id": "086_the_fox_and_the_geese",
