@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-grimm
 
+## 0.255.2
+
+### Patch Changes
+
+- a51d5c5: Add security wiring: `.github/dependabot.yml`, `.github/workflows/codeql.yml`, and least-privilege `permissions: contents: read` in `ci.yml`.
+
 ## 0.255.1
 
 ### Patch Changes
