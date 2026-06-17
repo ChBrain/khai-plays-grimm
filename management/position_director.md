@@ -31,7 +31,7 @@ single Director, then: there is a Director in each house, named by that house.
 
 ## Owner
 
-- Project: khai-plays-grimm
+- Project: khai-plays
 
 ## Has
 
