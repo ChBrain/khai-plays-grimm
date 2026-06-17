@@ -17,7 +17,7 @@ The creator of the plays. Not the theatre manager. Not the actor. The one respon
 
 ## Owner
 
-- Project: khai-plays-grimm
+- Project: khai-plays
 
 ## Has
 
