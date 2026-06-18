@@ -59,6 +59,10 @@ Zwei Liebende geraten in den Bannkreis einer Zauberin, bis Joringel seine Braut 
 
 - [die Erlösung](plan_jorinda_and_joringel.md): das Vorhaben Joringels, seine in eine Nachtigall verwandelte Braut aus dem Hexenschloss zu befreien, indem er eine magische rote Blume sucht und damit den Bann bricht.
 
+**Pitches**
+
+- [das Verlangen](pitch_tender.md)
+
 ## Triggers
 
 **[Plot 1: Der Irrweg im Wald](plot_01_wandering.md)**

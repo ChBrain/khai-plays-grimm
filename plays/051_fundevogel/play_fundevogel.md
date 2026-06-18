@@ -61,6 +61,10 @@ Zwei Pflegekinder entkommen einer bösen Köchin, indem sie sich auf der Flucht 
 - [der Sud der Köchin](plan_cook-boil.md): das Vorhaben der Köchin, Fundevogel im schlafenden Haus zu ergreifen und im Kessel zu sieden.
 - [die Flucht der Kinder](plan_children-flight.md): das Vorhaben der Geschwister, gemeinsam zu fliehen und jede Welle der Verfolger durch Verwandlung abzuschütteln.
 
+**Pitches**
+
+- [die Innigkeit](pitch_tender.md)
+
 ## Triggers
 
 **[Plot 1: Die Rettung aus dem Nest](plot_01_rescue_nest.md)**

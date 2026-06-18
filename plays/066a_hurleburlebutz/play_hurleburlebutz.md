@@ -58,6 +58,10 @@ Ein verirrter König verspricht seine jüngste Tochter einem Waldmännchen, das 
 - [die Tauben](piece_doves.md)
 - [das Messer](piece_knife.md)
 
+**Pitches**
+
+- [die Hingabe](pitch_tender.md)
+
 ## Triggers
 
 **[Plot 1: Die Irrfahrt und das Versprechen](plot_01_bargain.md)**

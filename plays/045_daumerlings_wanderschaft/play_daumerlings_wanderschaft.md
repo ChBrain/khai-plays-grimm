@@ -61,6 +61,10 @@ Der daumengroße Schneidersohn zieht in die Welt, hilft Räubern, überlistet Wa
 
 - [die List des Däumlings](plan_thumbling-cunning.md): das Vorhaben des Däumlings, seine Kleinheit zur Waffe zu machen, den Räubern beim Schatzraub zu helfen, die Verfolger zu narren und aus dem Wolfsbauch heimzukehren.
 
+**Pitches**
+
+- [der Schelmenmut](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Der Schornsteinabzug](plot_01_chimney_departure.md)**

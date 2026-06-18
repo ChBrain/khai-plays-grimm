@@ -58,6 +58,10 @@ Ein Kaufmann verspricht seine jüngste Tochter einem Tier für eine Rose aus ein
 - [der Kohl](piece_cabbage.md)
 - [das Wasser](piece_water.md)
 
+**Pitches**
+
+- [die Erbarmung](pitch_tender.md)
+
 ## Triggers
 
 **[Plot 1: Der Tausch im Garten](plot_01_bargain.md)**

@@ -62,6 +62,10 @@ Eine auf einer Menschenfresserinsel aufgewachsene Königstochter flieht mit eine
 - [die Rute](piece_wand.md)
 - [die Bohne](piece_bean.md)
 
+**Pitches**
+
+- [die Gefahr](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Die Wiege und die Insel](plot_01_exile.md)**

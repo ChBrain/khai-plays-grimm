@@ -56,6 +56,10 @@ Eine Prinzessin verfällt durch eine Spindel in hundertjährigen Schlaf, bis ein
 - [Teller](piece_plates.md)
 - [Spindel](piece_spindle.md)
 
+**Pitches**
+
+- [die Stille](pitch_still.md)
+
 ## Triggers
 
 **[Plot 1: Das Fest und der Fluch](plot_01_feast_curse.md)**

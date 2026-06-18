@@ -61,6 +61,10 @@ Ein alter Hund soll wegen Untauglichkeit getötet werden, schließt einen Pakt m
 - [die gestellte Rettung](plan_staged-rescue.md): das Vorhaben Sultans, den Wolf das Kind rauben zu lassen, um es scheinbar zu retten und seinen Platz zurückzugewinnen.
 - [die Forderung des Wolfs](plan_wolf-claim.md): das Vorhaben des Wolfs, für den Dienst ein Schaf zu nehmen und, verweigert, den Hund zum Duell zu fordern.
 
+**Pitches**
+
+- [die Schnurre](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Das Todesurteil](plot_01_death_sentence.md)**

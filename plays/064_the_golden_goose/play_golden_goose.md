@@ -62,6 +62,10 @@ Ein König verspricht demjenigen seine Tochter, der sie zum Lachen bringt; Dumml
 
 - [die Erwerbung der Königskrone](plan_golden-goose.md): das Vorhaben des Dummlings, das Thronerbe und die Braut zu gewinnen, indem er seine Gabe teilt und mit der Gans die Prüfungen löst.
 
+**Pitches**
+
+- [die Klebe](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Die Teilung im Wald](plot_01_forest_test.md)**

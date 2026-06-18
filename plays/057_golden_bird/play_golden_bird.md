@@ -63,6 +63,10 @@ Ein Prinz sucht den goldenen Vogel, gewinnt mithilfe eines Fuchses Pferd und Bra
 - [die Fuchsfahrt des Jüngsten](plan_fox-quest.md): das Vorhaben des Prinzen, nach dem Rat des Fuchses Vogel, Pferd und Braut in verketteten Aufgaben zu gewinnen.
 - [der Raub der Brüder](plan_brothers-robbery.md): das Vorhaben der älteren Brüder, dem Jüngsten die Beute zu rauben, ihn in den Brunnen zu stürzen und die Schätze als eigene auszugeben.
 
+**Pitches**
+
+- [das Goldene](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Der Apfeldiebstahl](plot_01_apple_theft.md)**

@@ -63,6 +63,10 @@ Eine Müllerstochter besucht das Waldhaus ihres unheimlichen Bräutigams und ent
 
 - [die List der Braut](plan_bride-survival.md): das Vorhaben der Müllertochter, den Mörderbräutigam im Waldhaus zu durchschauen, lebend zu entkommen und ihn beim Hochzeitsmahl mit dem Finger zu überführen.
 
+**Pitches**
+
+- [das Grauen](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Die Verlobung](plot_01_engagement.md)**
