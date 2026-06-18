@@ -52,6 +52,10 @@ Ein Mädchen erfleht einen Mann, hält den höhnenden Küster für die Heilige u
 - [der Altar](piece_altar.md)
 - [das Gebetslied](piece_gebetslied.md)
 
+**Pitches**
+
+- [die fromme Posse](pitch_comic.md)
+
 **Plans**
 
 - [die Brautwerbung](plan_maid_of_brakel.md): das Vorhaben des Mädchens, sich durch ein frommes Gebet an die heilige Anna den goldhaarigen Mann am Suttmer Tor zum Manne zu erbitten.

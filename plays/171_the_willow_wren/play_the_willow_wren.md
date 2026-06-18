@@ -57,6 +57,10 @@ Ein winziger Vogel ergaunert sich durch List den Königstitel und wird dafür au
 - [die Brustfedern](piece_feathers.md)
 - [der Königsruf](piece_claim.md)
 
+**Pitches**
+
+- [der Spott](pitch_comic.md)
+
 **Plans**
 
 - [die List](plan_the_willow_wren.md): das Vorhaben des winzigen Vogels, sich ohne eigene Kraft durch verstecktes Mitfliegen und einen frühen Ruf den Königstitel zu erschleichen.

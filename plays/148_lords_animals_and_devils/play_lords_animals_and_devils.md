@@ -63,6 +63,10 @@ Der Teufel pfuscht die Ziegen, der Herrgott straft sie, und am Ende fordert der 
 
 - [der Schadenersatz](plan_lords_animals_and_devils.md): das Vorhaben des Teufels, für seine zerrissenen Geschöpfe Bezahlung zu erzwingen und sich, da der Lohn ausbleibt, an den Ziegen zu rächen.
 
+**Pitches**
+
+- [der Zorn](pitch_fury.md)
+
 ## Triggers
 
 **[Plot 1: Die Erschaffung der Tiere](plot_01_creation.md)**

@@ -76,6 +76,10 @@ Ein Königssohn gewinnt mit Hilfe von sechs Dienern mit übernatürlichen Kräft
 - [das Gewinnen der Königstochter](plan_winning_princess.md): das Vorhaben des Prinzen, durch die Zusammenarbeit seiner sechs Diener alle Aufgaben der Königin zu meistern, um die Prinzessin zu gewinnen.
 - [das Verderben der Freier](plan_thwarting_wooers.md): das Vorhaben der Königin, unlösbare Prüfungen zu stellen, um alle Freier ins Verderben zu stürzen.
 
+**Pitches**
+
+- [der Heldenmut](pitch_heroic.md)
+
 ## Triggers
 
 **[Plot 1: Die Gewinnung der Diener](plot_01_recruitment.md)**

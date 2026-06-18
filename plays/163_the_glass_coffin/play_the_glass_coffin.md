@@ -69,6 +69,10 @@ Ein armer Schneidergeselle befreit eine verzauberte Jungfrau aus dem gläsernen 
 
 - [die Erlösung](plan_the_glass_coffin.md): das Vorhaben des Schneidergesellen, die Jungfrau und ihr ganzes Geschlecht aus der gläsernen Verzauberung zu lösen.
 
+**Pitches**
+
+- [das Wunder](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Der Verirrte in der Schilfhütte](plot_01_lost.md)**

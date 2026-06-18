@@ -56,6 +56,10 @@ Eine alte Bettelfrau gerät am Feuer in Brand, und ein Knabe sieht zu, ohne zu l
 
 - [die Löschung](plan_old_beggar_woman.md): das ausgebliebene Vorhaben des Knaben, das angehende Feuer mit Wasser oder, fehlt es daran, mit seinen Tränen zu löschen.
 
+**Pitches**
+
+- [das stockende Grauen](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Das Betteln](plot_01_begging.md)**

@@ -63,6 +63,10 @@ Eine neidische Hexenstiefmutter verwandelt zwei treue Geschwister in Tiere, bis 
 
 - [die Erlösung](plan_lambkin_and_little_fish.md): das Vorhaben der weisen Frau, die verwünschten Geschwister wiederzuerkennen, den Bann zu brechen und sie in einer Waldhütte in Sicherheit zu bringen.
 
+**Pitches**
+
+- [die Wehmut](pitch_grief.md)
+
 ## Triggers
 
 **[Plot 1: Das Spiel auf der Wiese](plot_01_meadow.md)**

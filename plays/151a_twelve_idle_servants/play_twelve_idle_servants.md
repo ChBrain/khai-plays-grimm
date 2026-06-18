@@ -55,6 +55,10 @@ Zwölf faule Knechte liegen abends im Gras und überbieten sich prahlend mit ihr
 - [die Mistgabel](piece_dung_fork.md)
 - [der Wagen](piece_cart.md)
 
+**Pitches**
+
+- [das Wettfaulen](pitch_comic.md)
+
 **Plans**
 
 - [die Schonung](plan_twelve_idle_servants.md): das Vorhaben der zwölf Knechte, jede Arbeit des Herrn durch findige Trägheit zu umgehen und ihre Faulheit als Tugend zu rühmen.

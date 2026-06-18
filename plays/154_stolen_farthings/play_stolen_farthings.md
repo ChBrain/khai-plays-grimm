@@ -60,6 +60,10 @@ Ein totes Kind kehrt heim, bis seine verborgene Schuld gesühnt und es zur Ruhe 
 
 - [die Heimkehr zur Ruhe](plan_stolen_farthings.md): das stille Vorhaben des Kindes, durch die wiederholte Erscheinung auf die verborgene Schuld hinzuweisen, damit sie gesühnt wird und es zur Ruhe kommen kann.
 
+**Pitches**
+
+- [die heimsuchende Stille](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Das stille Mahl](plot_01_meal.md)**

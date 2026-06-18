@@ -52,6 +52,10 @@ Zwei Sprecherinnen häufen im Wechselgesang ihren Hausstand auf und ziehen gemei
 
 - [die Wiege Hippodadle](piece_cradle.md)
 
+**Pitches**
+
+- [der Schüttelreim](pitch_comic.md)
+
 **Plans**
 
 - [der gemeinsame Aufbruch](plan_domestic_servants.md): das Vorhaben der zweiten Sprecherin, ihren ganzen Hausstand im Reim zu sammeln und mit der ersten Sprecherin gemeinsam nach Walpe zu ziehen.

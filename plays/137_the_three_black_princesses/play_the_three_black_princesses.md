@@ -75,6 +75,10 @@ Drei schwarze Prinzessinnen werden fast erlöst, bis der Fischersohn aus Neugier
 - [die Erlösung der Prinzessinnen](plan_deliverance.md): das Vorhaben des Fischersohns, die drei verwunschenen schwarzen Prinzessinnen durch ein Jahr des Schweigens und Nicht-Ansehens zu erlösen.
 - [die Zerstörung des Zaubers](plan_desecration.md): das fälschliche Vorhaben der Mutter und des Sohnes, die Erlösung durch das Übergießen mit kochendem Wasser vorzeitig zu erzwingen, was zur Verdammnis führt.
 
+**Pitches**
+
+- [der Jammer](pitch_grief.md)
+
 ## Triggers
 
 **[Plot 1: Die Belagerung von Ostindien](plot_01_siege.md)**

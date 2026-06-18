@@ -54,6 +54,10 @@ Ein sterbender König vermacht das Reich dem faulsten seiner drei Söhne.
 - [der Strick](piece_rope.md)
 - [das Messer](piece_knife.md)
 
+**Pitches**
+
+- [die verkehrte Tugend](pitch_comic.md)
+
 **Plans**
 
 - [die Nachfolge](plan_three_sluggards.md): das Vorhaben des dritten Sohnes, durch die unübertreffliche Schilderung seiner Trägheit das Reich zu erben.

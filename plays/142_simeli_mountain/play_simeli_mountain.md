@@ -62,6 +62,10 @@ Der arme Bruder begnügt sich mit Gold, doch der habgierige Bruder vergisst das 
 
 - [die Genügsamkeit](plan_simeli_mountain.md): das Vorhaben des armen Bruders, sich allein am Gold zu bedienen, die Edelsteine liegenzulassen und das rettende Wort treu zu bewahren.
 
+**Pitches**
+
+- [die finstere Drohung](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Das Belauschen am Berg](plot_01_overhearing.md)**

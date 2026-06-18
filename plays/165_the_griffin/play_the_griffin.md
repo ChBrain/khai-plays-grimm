@@ -70,6 +70,10 @@ Ein einfältiger, aber höflicher Bauernsohn besteht alle Königsproben und gewi
 - [die Schwanzfeder](piece_feather.md)
 - [die drei Antworten](piece_answers.md)
 
+**Pitches**
+
+- [der Schelmensieg](pitch_comic.md)
+
 **Plans**
 
 - [die Greifenfeder](plan_the_griffin.md): das Vorhaben des Königs, Hans mit immer schwereren Aufgaben in den Tod zu schicken, statt ihm die versprochene Tochter zu geben.

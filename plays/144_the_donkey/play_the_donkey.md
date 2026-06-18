@@ -70,6 +70,10 @@ Ein als Esel geborener Prinz erspielt sich mit der Laute eine Braut und legt sei
 
 - [die Verwandlung](plan_the_donkey.md): das Vorhaben des Eseleins, durch sein Lautenspiel und eine vornehme Heirat seine Eselsgestalt für immer abzustreifen.
 
+**Pitches**
+
+- [die Sehnsucht](pitch_tender.md)
+
 ## Triggers
 
 **[Plot 1: Das Eselskind](plot_01_birth.md)**

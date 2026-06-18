@@ -54,6 +54,10 @@ Aus Bequemlichkeit tauscht Heinz alles weg, bis der Honigtopf zerbricht.
 - [der Honigtopf](piece_honeyjar.md)
 - [der Haselstock](piece_hazelstick.md)
 
+**Pitches**
+
+- [die Bequemlichkeit](pitch_comic.md)
+
 **Plans**
 
 - [der Faulheitsplan](plan_lazy_harry.md): das Vorhaben des Heinz, durch immer neue Tausche jede tägliche Mühe abzuschaffen und so vollkommen ungestört ruhen zu können.

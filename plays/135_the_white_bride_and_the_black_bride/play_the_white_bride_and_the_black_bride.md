@@ -74,6 +74,10 @@ Eine böse Stiefmutter schiebt dem König ihre schwarze Tochter unter, bis die w
 - [das Unterverschieben der falschen Braut](plan_usurpation.md): das Vorhaben der Stiefmutter, die weiße Braut durch Zauber stumm und blind zu machen, sie in den Fluss zu werfen und ihre eigene schwarze Tochter an ihre Stelle zu setzen.
 - [die Wiederherstellung der wahren Braut](plan_restoration.md): das Vorhaben der weißen Braut und ihres Bruders, sich durch die Küchenbesuche zu offenbaren, Reginer aus der Schlangengrube zu retten und die Wahrheit aufzudecken.
 
+**Pitches**
+
+- [der Zorn](pitch_fury.md)
+
 ## Triggers
 
 **[Plot 1: Die Begegnung auf dem Feld](plot_01_blessing.md)**

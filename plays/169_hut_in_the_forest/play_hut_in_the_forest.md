@@ -64,6 +64,10 @@ Ein verwunschener Mann wird durch die Güte einer Tochter erlöst, die zuerst se
 
 - [die Erlösung](plan_hut_in_the_forest.md): das Vorhaben des alten Mannes, durch eine Prüfung der Mildtätigkeit eine Tochter zu finden, deren Güte den Bann über ihn und seine Tiere bricht.
 
+**Pitches**
+
+- [die Mildtätigkeit](pitch_tender.md)
+
 ## Triggers
 
 **[Plot 1: Die Aussaat](plot_01_sowing.md)**

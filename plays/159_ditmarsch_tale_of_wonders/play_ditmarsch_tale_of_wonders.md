@@ -55,6 +55,10 @@ Ein Erzähler reiht in einem Lügenmärchen lauter Unmöglichkeiten aneinander u
 - [die Pflugschar](piece_ploughshare.md)
 - [die Krücken-und-Stelzen](piece_crutches.md)
 
+**Pitches**
+
+- [die Verkehrtheit](pitch_comic.md)
+
 **Plans**
 
 - [das Fenster öffnen](plan_ditmarsch_tale_of_wonders.md): das Vorhaben des Erzählers, am Schluss das Fenster zu öffnen, damit die aufgehäuften Lügen hinausfliegen können.

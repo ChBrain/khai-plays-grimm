@@ -58,6 +58,10 @@ Ein armes Bürle und ein reicher Herr sterben zugleich, doch nur der seltene Rei
 
 - [die Festordnung](plan_peasant_in_heaven.md): das Vorhaben des Sankt Petrus, den seltenen Eingang eines Reichen mit großem Jubel zu feiern und den täglichen Eingang der Armen still zu begrüßen.
 
+**Pitches**
+
+- [der Gleichmut](pitch_still.md)
+
 ## Triggers
 
 **[Plot 1: Die Ankunft am Tor](plot_01_arrival.md)**
