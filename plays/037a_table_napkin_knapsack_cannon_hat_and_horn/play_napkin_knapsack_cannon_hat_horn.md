@@ -65,6 +65,10 @@ Drei Söhne erlangen magische Wundergeräte, schlagen feindliche Heere in die Fl
 
 - [das Erringen der Macht](plan_restoration.md): das gemeinsame Vorhaben der drei Brüder, mithilfe ihrer erlangten magischen Wundergeräte (Serviette, Tornister, Kanonenhütlein und Horn) militärische und wirtschaftliche Unabhängigkeit zu erlangen und ihre Mutter aus der Abhängigkeit zu befreien.
 
+**Pitches**
+
+- [das Heldische](pitch_heroic.md)
+
 ## Triggers
 
 **[Plot 1: Die Heirat der Mutter](plot_01_origin.md)**

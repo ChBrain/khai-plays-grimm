@@ -60,6 +60,10 @@ Ein Mann stiehlt für seine schwangere Frau Rapunzeln aus dem Garten einer gefü
 - [Rapunzeln](piece_rapunzel-salad.md)
 - [Tränen](piece_tears.md)
 
+**Pitches**
+
+- [die Sehnsucht](pitch_longing.md)
+
 ## Triggers
 
 **[Plot 1: Der Raub der Rapunzeln](plot_01_theft.md)**

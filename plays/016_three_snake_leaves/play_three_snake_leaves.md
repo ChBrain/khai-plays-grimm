@@ -64,6 +64,10 @@ Ein armer Jüngling zieht in den Krieg, siegt durch tapferen Einsatz und gewinnt
 
 - [der Mord auf hoher See](plan_ship-murder.md): das Vorhaben der wieder erweckten Prinzessin, den treuen Gatten mit dem König auf dem Schiff trunken zu machen und ins Meer zu werfen.
 
+**Pitches**
+
+- [das Heldische](pitch_heroic.md)
+
 ## Triggers
 
 **[Plot 1: Der Kriegsheld](plot_01_war-hero.md)**

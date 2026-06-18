@@ -56,6 +56,10 @@ Ein zurückgesetztes Mädchen erhält von einem Elfen ein Zaubermesser, bis die 
 - [Zaubermesser](piece_magic-knife.md)
 - [abgeschlagener Arm](piece_severed-arm.md)
 
+**Pitches**
+
+- [das Grausen](pitch_abject.md)
+
 ## Triggers
 
 **[Plot 1: Das zurückgesetzte Kind](plot_01_disfavoured-child.md)**

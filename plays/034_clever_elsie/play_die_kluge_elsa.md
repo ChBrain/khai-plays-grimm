@@ -62,6 +62,10 @@ Eine angeblich kluge Braut verliert sich in Katastrophenängsten und vergisst sc
 
 - [die Glockenfalle im Korn](plan_bell-trap.md): das Vorhaben von Hans, die schlafsüchtige Else mit einem Glockennetz und verschlossener Tür zu prüfen, das aber ihren Identitätsverlust auslöst.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Das Weinen im Keller](plot_01_cellar_weeping.md)**

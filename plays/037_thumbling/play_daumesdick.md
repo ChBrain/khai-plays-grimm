@@ -63,6 +63,10 @@ Ein winziger Junge hilft seinem Vater, entkommt Entführern und Dieben und wird 
 
 - [die List des Winzlings](plan_tiny-cunning.md): das Vorhaben Daumesdicks, seine Kleinheit in Schläue zu münzen, dem Verkauf und den Dieben zu entwischen und die schluckende Kuh und den Wolf heimzusteuern.
 
+**Pitches**
+
+- [das Wunderbare](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Die Fahrt im Pferdeohr](plot_01_carriage_ride.md)**

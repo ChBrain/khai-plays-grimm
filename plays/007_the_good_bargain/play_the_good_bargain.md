@@ -64,6 +64,10 @@ Ein armer Bauer treibt seine Kuh zum Markt und verkauft sie für ein scheinbar w
 
 - [die Schläge zu Gold gewendet](plan_lashes-to-gold.md): das Vorhaben des Bauern, die fünfhundert Schläge seines Urteils zu verkaufen und dem König den geliehenen Rock abzulisten.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Die Frösche im Teich](plot_01_frogs.md)**

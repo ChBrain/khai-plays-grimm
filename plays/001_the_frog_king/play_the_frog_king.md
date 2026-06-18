@@ -57,6 +57,10 @@ Die jüngste Königstochter verliert ihr liebstes Spielwerk, die goldene Kugel, 
 - [goldene Kugel](piece_golden-ball.md)
 - [eiserne Bande](piece_iron-bands.md)
 
+**Pitches**
+
+- [das Wunder](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Der Verlust im Wald](plot_01_loss-in-the-forest.md)**

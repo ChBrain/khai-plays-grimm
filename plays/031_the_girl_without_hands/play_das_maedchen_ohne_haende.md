@@ -64,6 +64,10 @@ Ein verstümmeltes Mädchen flieht vor dem Teufel, wird durch Gottes Gnade und e
 
 - [der Anspruch des Teufels](plan_devils-claim.md): das Vorhaben des Teufels, die fromme Müllerstochter durch Pakt und gefälschte Briefe für sich zu fangen und samt Kind ins Elend zu treiben.
 
+**Pitches**
+
+- [die Trauer](pitch_grief.md)
+
 ## Triggers
 
 **[Plot 1: Der Teufelspakt](plot_01_bargain_and_sacrifice.md)**

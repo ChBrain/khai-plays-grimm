@@ -60,6 +60,10 @@ Eine Witwe bevorzugt ihre faule, leibliche Tochter und zwingt ihre fleißige Sti
 - [Federbett](piece_bed.md)
 - [Torweg](piece_gate.md)
 
+**Pitches**
+
+- [das Wunderbare](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Der Brunnensturz](plot_01_well-trial.md)**

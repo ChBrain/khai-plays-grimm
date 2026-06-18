@@ -62,6 +62,10 @@ Ein einsamer Spielmann zieht durch den Wald und lockt Tiere mit seiner Geige an.
 
 - [die Fallen des Spielmanns](plan_fiddle-snares.md): das Vorhaben des Spielmanns, jedes Tier mit der Geige unter dem Vorwand des Unterrichts heranzulocken und es zu fesseln, um allein weiterzuziehen.
 
+**Pitches**
+
+- [das Wunderbare](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Der Wolf in der Eiche](plot_01_wolf.md)**

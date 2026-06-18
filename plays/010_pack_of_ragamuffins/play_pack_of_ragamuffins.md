@@ -61,6 +61,10 @@ Ein stolzer Hahn und ein Hühnchen gehen auf Reisen und betrügen den Wirt.
 
 - [der Betrug am Wirtshaus](plan_inn-swindle.md): das Vorhaben des Hähnchens und Hühnchens, sich mit Ei und Schalen beim Wirt einzukaufen, auf seine Kosten zu schmausen und nach gesteckten Nadeln vor Tagesanbruch zu entwischen.
 
+**Pitches**
+
+- [der Schwank](pitch_schwank.md)
+
 ## Triggers
 
 **[Plot 1: Der Nußberg und der Wagen](plot_01_nut-hill.md)**

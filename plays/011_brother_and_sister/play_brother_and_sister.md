@@ -62,6 +62,10 @@ Ein Brüderchen und ein Schwesterchen fliehen vor ihrer bösen Stiefmutter.
 
 - [der Hexenanschlag auf das Königsbett](plan_witch-substitution.md): das Vorhaben der Stiefmutter, den Bruder durch verzauberte Quellen zu verwandeln, die junge Königin im Bad zu ermorden und die eigene Tochter ins Königsbett zu schieben.
 
+**Pitches**
+
+- [die Innigkeit](pitch_tender.md)
+
 ## Triggers
 
 **[Plot 1: Die Flucht in den Wald](plot_01_flight.md)**

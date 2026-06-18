@@ -62,6 +62,10 @@ Ein unerschrockener Junge zieht in die Welt hinaus, um zu lernen, was Gruseln un
 
 - [die Gründlingskur im Schlaf](plan_minnow-cure.md): das Vorhaben der Königstochter, dem furchtlosen Gatten das Gruseln durch kaltes Wasser und zappelnde Gründlinge im Schlaf beizubringen.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Der unerschrockene Dummling](plot_01_fearless-idiot.md)**

@@ -70,6 +70,10 @@ Ein listiger Diener gewinnt seinem König mit Hilfe dankbarer Tiere die Prinzess
 
 - [der Werbungsdienst des Fix und Fertig](plan_wooing-service.md): das Vorhaben des Fix und Fertig, seinem König die Prinzessin Nomini zu werben und die drei Proben mit Hilfe dankbarer Tiere zu bestehen.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Vom Soldaten zum Lakai](plot_01_from-soldier-to-lackey.md)**
