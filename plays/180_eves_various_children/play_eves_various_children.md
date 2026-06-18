@@ -61,6 +61,10 @@ Der Herr segnet Evas schöne und häßliche Kinder ungleich und ordnet so die St
 
 - [die Vorstellung](plan_eves_various_children.md): das Vorhaben Evas, dem Herrn nur die schönen Kinder geschmückt vorzustellen und die häßlichen zu verbergen.
 
+**Pitches**
+
+- [die Stille](pitch_still.md)
+
 ## Triggers
 
 **[Plot 1: Nach dem Paradies](plot_01_expulsion.md)**

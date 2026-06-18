@@ -62,6 +62,10 @@ Eine gefangene Königstochter fängt den alten Rinkrank am Bart und entkommt üb
 
 - [die Flucht aus dem Berg](plan_old_rinkrank.md): das Vorhaben der Königstochter, den Alten am Bart zu fangen und ihm das Geheimnis der Zauberleiter zur eigenen Flucht zu entreißen.
 
+**Pitches**
+
+- [das Heldische](pitch_heroic.md)
+
 ## Triggers
 
 **[Plot 1: Der gläserne Berg](plot_01_trial.md)**

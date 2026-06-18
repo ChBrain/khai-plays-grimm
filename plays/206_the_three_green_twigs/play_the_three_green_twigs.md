@@ -63,6 +63,10 @@ Ein frommer Einsiedler verurteilt einen Sünder, büßt mit einem dürren Ast un
 
 - [die Buße](plan_the_three_green_twigs.md): das Vorhaben des Einsiedlers, die verlorene Gnade durch das Tragen des dürren Astes zurückzugewinnen, bis drei grüne Zweige daraus sprießen.
 
+**Pitches**
+
+- [das Zärtliche](pitch_das_zaertliche.md)
+
 ## Triggers
 
 **[Plot 1: Der tägliche Dienst des Einsiedlers](plot_01_daily_service.md)**

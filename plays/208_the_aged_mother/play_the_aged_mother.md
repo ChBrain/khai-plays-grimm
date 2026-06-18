@@ -59,6 +59,10 @@ Eine einsame Witwe sieht in der Totenkirche das verschonte Schicksal ihrer Söhn
 
 - [der Trost durch die Gnade](plan_the_aged_mother.md): das Vorhaben der Muhme, der einsamen Witwe die barmherzige Hand Gottes im verschonten Schicksal ihrer Söhne zu zeigen.
 
+**Pitches**
+
+- [das Trauern](pitch_das_trauern.md)
+
 ## Triggers
 
 **[Plot 1: Die einsame Witwe](plot_01_lone_widow.md)**

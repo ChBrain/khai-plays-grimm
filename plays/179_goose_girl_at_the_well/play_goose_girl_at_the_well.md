@@ -71,6 +71,10 @@ Eine verstoßene Prinzessin hütet Gänse in hässlicher Haut, bis eine alte Fra
 
 - [die Rückgabe](plan_goose_girl_at_the_well.md): das Vorhaben der alten Frau, die geprüfte Prinzessin zur rechten Stunde ihren reuigen Eltern zurückzugeben und sie reich zu beschenken.
 
+**Pitches**
+
+- [das Trauern](pitch_grief.md)
+
 ## Triggers
 
 **[Plot 1: Die schwere Bürde](plot_01_burden.md)**

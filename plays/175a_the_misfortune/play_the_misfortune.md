@@ -54,6 +54,10 @@ Ein armer Mann versucht dem Unglück zu entgehen, wird aber von Wölfen und Wass
 - [de Brüg](piece_bridge.md)
 - [de Steinmür](piece_wall.md)
 
+**Pitches**
+
+- [das Grauen](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Die Wölfe und die Brücke](plot_01_wolves_and_bridge.md)**

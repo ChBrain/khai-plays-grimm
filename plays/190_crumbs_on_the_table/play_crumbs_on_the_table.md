@@ -58,6 +58,10 @@ Ein Bauer verführt seine Hündchen zum Naschen und lacht über ihre Prügel.
 
 - [die Einladung](plan_crumbs_on_the_table.md): das Vorhaben des Bauern, die Hündchen in Abwesenheit der Bäuerin heimlich auf den Tisch zu locken, damit sie die Brosamen fressen.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Die Einladung zum Tisch](plot_01_temptation.md)**

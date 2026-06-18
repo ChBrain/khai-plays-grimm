@@ -64,6 +64,10 @@ Drei Töchter prüft der heilige Joseph im Wald, doch nur die Frömmste wird rei
 
 - [die Prüfung der Herzen](plan_st_joseph_in_the_forest.md): das Vorhaben des heiligen Joseph, jede Tochter durch sein bescheidenes Mahl zu prüfen und nach ihrem Herzen zu lohnen.
 
+**Pitches**
+
+- [das Wunderbare](pitch_wondrous.md)
+
 ## Triggers
 
 **[Plot 1: Die jüngste Tochter](plot_01_youngest.md)**

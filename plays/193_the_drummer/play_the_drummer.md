@@ -70,6 +70,10 @@ Ein junger Trommler befreit eine verzauberte Königstochter vom Glasberg und gew
 
 - [die Befreiung](plan_the_drummer.md): das Vorhaben des Trommlers, die gefangene Königstochter vom Glasberg zu befreien und sie nach dem Fluch des Vergessens am Ende zur Frau zu gewinnen.
 
+**Pitches**
+
+- [das Heldische](pitch_heroic.md)
+
 ## Triggers
 
 **[Plot 1: Die weiße Leinwand am See](plot_01_linen.md)**

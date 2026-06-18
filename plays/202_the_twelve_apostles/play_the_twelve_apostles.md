@@ -58,6 +58,10 @@ Eine arme Mutter erfleht zwölf Söhne, die dreihundert Jahre schlafen und als A
 
 - [die Erfüllung der Verheißung](plan_the_twelve_apostles.md): das Vorhaben der Mutter, ihre zwölf Söhne bis zur Ankunft des verheißenen Erlösers zu bewahren.
 
+**Pitches**
+
+- [die Stille](pitch_still.md)
+
 ## Triggers
 
 **[Plot 1: Das Gebet der Mutter](plot_01_prayer.md)**
