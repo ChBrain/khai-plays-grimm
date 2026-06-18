@@ -61,6 +61,10 @@ Drei Soldaten verlieren ihre Zaubergaben an eine Prinzessin und holen sie mit ei
 - [das Apfelpulver](piece_apple_powder.md)
 - [das Birnpulver](piece_pear_powder.md)
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Die Gaben des Männchens](plot_01_gifts.md)**

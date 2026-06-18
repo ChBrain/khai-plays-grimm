@@ -60,6 +60,10 @@ Drei Brüder erlernen je ein Handwerk, wetteifern um das Haus des Vaters und ble
 
 - [der Wettstreit](plan_three_brothers.md): das Vorhaben des Vaters, das einzige Haus durch einen fairen Wettstreit der Geschicklichkeit an den fähigsten Sohn zu vergeben.
 
+**Pitches**
+
+- [die Sehnsucht](pitch_tender.md)
+
 ## Triggers
 
 **[Plot 1: Das Vermächtnis](plot_01_legacy.md)**

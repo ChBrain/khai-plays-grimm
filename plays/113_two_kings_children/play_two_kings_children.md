@@ -73,6 +73,10 @@ Eine zaubermächtige Königstochter rettet den verfluchten Königssohn und gewin
 
 - [der Brautgang](plan_two_kings_children.md): das Vorhaben der jüngsten Königstochter, sich mit den Kleidern der drei Walnüsse und ihrem Klagelied vor der Tür des Königssohns ins Gedächtnis zurückzurufen.
 
+**Pitches**
+
+- [die Sehnsucht](pitch_tender.md)
+
 ## Triggers
 
 **[Plot 1: Die Entführung durch den Hirsch](plot_01_abduction.md)**

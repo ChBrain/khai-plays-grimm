@@ -66,6 +66,10 @@ Ein Soldat schließt einen Pakt mit dem Teufel, hält sieben Jahre durch und gew
 
 - [das Gelübde](plan_bearskin.md): das Vorhaben der jüngsten Tochter, sieben Jahre lang treu auf den verwandelten Soldaten zu warten und die halbe Hälfte des zerbrochenen Ringes zu bewahren.
 
+**Pitches**
+
+- [das Grauen](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Die Begegnung auf der Heide](plot_01_encounter.md)**

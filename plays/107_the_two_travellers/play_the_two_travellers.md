@@ -74,6 +74,11 @@ Ein gütiger Schneider wird vom grausamen Schuster geblendet, doch dankbare Tier
 
 - [die Prüfungen](plan_the_two_travellers.md): das Vorhaben des Schneiders, die vier unmöglichen Aufgaben des Königs allein mit Hilfe der dankbaren Tiere zu bestehen.
 
+**Pitches**
+
+- [der Heldenmut](pitch_heroic.md)
+- [der Ekel](pitch_abject.md)
+
 ## Triggers
 
 **[Plot 1: Die ungleiche Wanderschaft](plot_01_journey.md)**

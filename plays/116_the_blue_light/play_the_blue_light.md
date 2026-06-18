@@ -71,6 +71,10 @@ Ein verstoßener Soldat findet das blaue Licht und zwingt mit seinem Zwerg den K
 
 - [die Rache](plan_the_blue_light.md): das Vorhaben des Soldaten, sich mit Hilfe des dienstbaren Zwergs am undankbaren König zu rächen und am Ende dessen Reich und Tochter zu erlangen.
 
+**Pitches**
+
+- [der Zorn](pitch_furious.md)
+
 ## Triggers
 
 **[Plot 1: Die Verstoßung](plot_01_dismissal.md)**

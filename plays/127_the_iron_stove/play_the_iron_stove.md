@@ -70,6 +70,10 @@ Eine Königstochter erlöst einen in einen Eisenofen verzauberten Prinzen und ge
 
 - [die Erlösung](plan_the_iron_stove.md): das Vorhaben der Königstochter, den verzauberten Prinzen durch Schaben, Suche und beharrliche Wiedererkennung endgültig zu befreien.
 
+**Pitches**
+
+- [die Trauer](pitch_grief.md)
+
 ## Triggers
 
 **[Plot 1: Die Verzauberung im Wald](plot_01_enchantment.md)**

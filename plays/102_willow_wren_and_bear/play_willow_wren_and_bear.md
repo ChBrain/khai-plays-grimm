@@ -64,6 +64,10 @@ Ein Bär beleidigt die jungen Zaunkönige, verliert den Tierkrieg und muss um Ve
 
 - [der Hungerstreik](plan_willow_wren_and_bear.md): das Vorhaben der jungen Zaunkönige, durch die Verweigerung jeder Nahrung so lange auszuharren, bis ihre Ehre gerächt und der Bär zur Entschuldigung gezwungen ist.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Der königliche Gesang](plot_01_song.md)**

@@ -65,6 +65,11 @@ Drei prahlende Feldscherer verlieren durch eine nächtliche Vertauschung ihre ei
 
 - [die Vertuschung](plan_three_army_surgeons.md): das Vorhaben der Magd, die vom Kater gefressenen Glieder heimlich durch fremde Teile zu ersetzen, um die Schuld zu verbergen.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+- [der Ekel](pitch_abject.md)
+
 ## Triggers
 
 **[Plot 1: Die Prahlerei der Feldscherer](plot_01_boast.md)**

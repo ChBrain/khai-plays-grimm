@@ -63,6 +63,10 @@ Mit Hilfe eines listigen Fuchses bringt ein verstoßenes Pferd einen Löwen zum 
 - [die Rettung des treuen Pferdes](plan_rescue.md): das Vorhaben des Fuchses, dem verstoßenen Pferd durch Überlistung des Löwen zu helfen und seine Rückkehr zum Hof zu erwirken.
 - [die Verstoßung des alten Pferdes](plan_expulsion.md): das Vorhaben des Bauern, das unproduktive Pferd loszuwerden und es unter der unmöglichen Bedingung der Löwenbringung zu verweisen.
 
+**Pitches**
+
+- [die Stille](pitch_still.md)
+
 ## Triggers
 
 **[Plot 1: Die Vertreibung](plot_01_expulsion.md)**

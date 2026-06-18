@@ -73,6 +73,10 @@ Vier Brüder lernen je ein Handwerk und retten gemeinsam die geraubte Königstoc
 
 - [die Befreiung](plan_four_skilful_brothers.md): das Vorhaben der vier Brüder, die geraubte Königstochter durch das verzahnte Zusammenspiel ihrer vier Künste vom Drachenfelsen zu befreien.
 
+**Pitches**
+
+- [das Wunderbare](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Der Ausgang am Kreuzweg](plot_01_parting.md)**

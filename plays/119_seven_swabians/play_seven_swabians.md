@@ -61,6 +61,10 @@ Sieben Schwaben an einem Spieß verwechseln jeden Schrecken mit Tod und ertrinke
 
 - [das gemeinsame Vorgehen](plan_seven_swabians.md): das Vorhaben Meister Schulz', der ganzen Gefahr nur gemeinsam an einem einzigen Spieß und in fester Reihenfolge entgegenzutreten.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Der Aufbruch](plot_01_aufbruch.md)**

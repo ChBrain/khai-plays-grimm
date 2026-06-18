@@ -64,6 +64,10 @@ Ein milder Knecht zwingt den habgierigen Geizhals zum Tanz und kehrt dessen fals
 
 - [die Hebelwirkung](plan_miser_in_the_thorns.md): das Vorhaben des Knechts, durch die unwiderstehliche Geige zuerst das Gold zu erzwingen und am Galgen die falsche Anklage gegen den Geizhals zu wenden.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Der karge Lohn](plot_01_service.md)**

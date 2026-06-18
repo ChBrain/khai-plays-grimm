@@ -59,6 +59,10 @@ Ein Soldat und sein furchtsamer Geselle erlösen ein Schloss, indem sie drei Zau
 - [die Eisen-Zange](piece_iron_tongs.md)
 - [das Crucifix](piece_crucifix.md)
 
+**Pitches**
+
+- [der Zorn](pitch_furious.md)
+
 ## Triggers
 
 **[Plot 1: Die Wanderung und das Schloss](plot_01_wanderings_and_castle.md)**

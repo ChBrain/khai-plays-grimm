@@ -65,6 +65,10 @@ Ein verachtetes Mädchen erlöst sich mit einer Zauberziege und einem goldenen A
 - [das Aushungern des Zweiäugleins](plan_starve-the-favored.md): das Vorhaben der Schwestern, die heimliche Speisequelle auszuspionieren und die nährende Ziege zu schlachten.
 - [die Erlösung durch die weise Frau](plan_silver-tree.md): das Vorhaben des Zweiäugleins, dem Rat der weisen Frau zu folgen, den goldenen Apfelbaum zu erwecken und den Ritter zu gewinnen.
 
+**Pitches**
+
+- [die Trauer](pitch_grief.md)
+
 ## Triggers
 
 **[Plot 1: Ziegenzauber](plot_01_goat_magic.md)**
