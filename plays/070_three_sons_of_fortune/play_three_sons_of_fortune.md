@@ -64,6 +64,10 @@ Ein Vater hinterlässt seinen drei Söhnen einen Hahn, eine Sense und eine Katze
 
 - [die Reise ins Glück](plan_three_sons_of_fortune.md): das Vorhaben der drei Söhne, in fernen Ländern, in denen ihre geerbten Alltagsgegenstände gänzlich unbekannt sind, Reichtümer einzutauschen.
 
+**Pitches**
+
+- [die Verwunderung](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Das Vermächtnis des Vaters](plot_01_bequest.md)**

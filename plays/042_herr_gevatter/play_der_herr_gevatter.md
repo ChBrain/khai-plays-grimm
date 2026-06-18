@@ -59,6 +59,10 @@ Ein armer Vater sucht einen Gevatter für sein Kind, wird berühmt durch ein Wun
 - [Köpfe](piece_heads.md)
 - [Hörner](piece_horns.md)
 
+**Pitches**
+
+- [das Widerwärtige](pitch_abject.md)
+
 ## Triggers
 
 **[Plot 1: Der gefundene Gevatter](plot_01_godfather_found.md)**

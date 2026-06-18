@@ -65,6 +65,10 @@ Eine Königstochter flieht verkleidet in einem Pelzmantel und wird durch drei go
 
 - [die Errettung und Heirat](plan_allerleirauh.md): das Vorhaben der Königstochter, sich dem unheilvollen Gelübde zu entziehen und ihren rechtmäßigen Gemahl zu finden.
 
+**Pitches**
+
+- [das Leid](pitch_grief.md)
+
 ## Triggers
 
 **[Plot 1: Der verhängnisvolle Schwur](plot_01_oath.md)**

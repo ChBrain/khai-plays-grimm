@@ -61,6 +61,11 @@ Eine schöne Königstochter flieht vor der bösen Stiefmutter zu sieben Zwergen 
 
 - [der Mord an der Schönsten](plan_fairest-murder.md): das Vorhaben der bösen Königin, die Schönste im Lande zu bleiben, indem sie Schneewittchen durch verkleidete Anschläge mit Schnürriemen, Kamm und Giftapfel zu töten sucht.
 
+**Pitches**
+
+- [die Nachstellung](pitch_dread.md)
+- [der Neid](pitch_fury.md)
+
 ## Triggers
 
 **[Plot 1: Der Spiegelspruch](plot_01_mirror_verdict.md)**

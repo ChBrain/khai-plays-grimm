@@ -62,6 +62,10 @@ Ein Hund flieht und verbündet sich mit einem treuen Sperling, der seinen Tod an
 
 - [die Rache des Sperlings](plan_sparrows-revenge.md): das Vorhaben des Sperlings, den Mord am Hund zu strafen, indem er Wein, Pferde und Korn des Fuhrmanns vernichtet und ihn in den selbst geführten Todesstreich treibt.
 
+**Pitches**
+
+- [die Rache](pitch_fury.md)
+
 ## Triggers
 
 **[Plot 1: Die Flucht](plot_01_flight.md)**

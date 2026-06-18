@@ -57,6 +57,10 @@ Ein unterschätzter Königssohn folgt einer früchtestehlenden Taube und erlöst
 - [die Birnen](piece_pears.md)
 - [die Spinnweben](piece_spiderwebs.md)
 
+**Pitches**
+
+- [die Entzauberung](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Die Birnbaumwache](plot_01_vigil.md)**

@@ -62,6 +62,11 @@ Die böse Stiefmutter tötet den kleinen Sohn, doch er ersteht als schöner Voge
 - [der Mord an der Apfeltruhe](plan_stepmother-murder.md): das Vorhaben der Stiefmutter, den Knaben zu enthaupten, zu Sauerfleisch zu kochen und das Verbrechen zu verbergen.
 - [das Lied des Vogels](plan_bird-vengeance.md): das Vorhaben des wiedergeborenen Knaben, als Vogel die Gaben zu sammeln und den Mühlstein auf die Mörderin zu stürzen.
 
+**Pitches**
+
+- [die Trauer](pitch_grief.md)
+- [das Grausen](pitch_abject.md)
+
 ## Triggers
 
 **[Plot 1: Wunsch unter dem Baum](plot_01_juniper_wish.md)**

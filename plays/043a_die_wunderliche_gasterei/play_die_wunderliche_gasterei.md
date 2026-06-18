@@ -56,6 +56,10 @@ Eine Blutwurst lädt die Leberwurst in eine Mörderfalle, der diese durch eine W
 - [Messer](piece_messer.md)
 - [Bodenloch](piece_bodenloch.md)
 
+**Pitches**
+
+- [das Unheimliche](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Die Einladung](plot_01_einladung.md)**

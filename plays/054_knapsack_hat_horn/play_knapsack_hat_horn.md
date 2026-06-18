@@ -63,6 +63,10 @@ Ein armer Bruder tauscht ein Wunschtuch gegen magische Waffen, besiegt den Köni
 - [die Eroberung des Soldaten](plan_soldiers-conquest.md): das Vorhaben des Bruders, mit Ranzen, Hütlein und Hörnlein den König zu besiegen und die Prinzessin zu gewinnen.
 - [der Raub der Prinzessin](plan_princess-theft.md): das Vorhaben der Prinzessin, dem Bruder das Geheimnis zu entlocken, die Waffen zu stehlen und ihn vertreiben zu lassen.
 
+**Pitches**
+
+- [der Trotz](pitch_heroic.md)
+
 ## Triggers
 
 **[Plot 1: Die Gold- und Silberberge](plot_01_brothers_departure.md)**

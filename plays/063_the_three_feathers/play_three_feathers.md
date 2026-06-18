@@ -60,6 +60,10 @@ Ein König bläst drei Federn in den Wind; Dummling erlangt das Thronerbe durch 
 
 - [die Erlangung des Reiches](plan_three-feathers.md): das Vorhaben des Dummlings, die königlichen Erbfolgeproben zu bestehen, indem er den Weisungen und Gaben der dicken Kröte folgt.
 
+**Pitches**
+
+- [das Verborgene](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Der Flug der Federn](plot_01_feather_flight.md)**

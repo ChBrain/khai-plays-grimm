@@ -58,6 +58,10 @@ Ein Paar durchlebt absurde Missgeschicke durch die Naivität der Frau, bevor sie
 - [Bierfass](piece_beer_barrel.md)
 - [Essig und Birnen](piece_vinegar_pears.md)
 
+**Pitches**
+
+- [die Narretei](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Das Hausdesaster](plot_01_household_disaster.md)**

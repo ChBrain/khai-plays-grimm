@@ -59,6 +59,10 @@ Zwei nackte Wichtelmänner fertigen heimlich Schuhe für einen armen Schuster, b
 - [Schühchen](piece_tiny_shoes.md)
 - [Kerze](piece_candle.md)
 
+**Pitches**
+
+- [das Wunderbare](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Das Wunder am Morgen](plot_01_miraculous_work.md)**

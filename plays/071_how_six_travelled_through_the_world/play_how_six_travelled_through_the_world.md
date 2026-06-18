@@ -69,6 +69,10 @@ Ein entlassener Soldat zieht mit fünf talentierten Gefährten aus, um das unrec
 
 - [der Raub des Schatzes](plan_how_six_travelled_through_the_world.md): das Vorhaben der sechs Gefährten, durch den geschickten Einsatz ihrer übernatürlichen Begabungen das gesamte Gold des habgierigen Königs abzutransportieren.
 
+**Pitches**
+
+- [die Auflehnung](pitch_heroic.md)
+
 ## Triggers
 
 **[Plot 1: Die drei Heller des Soldaten](plot_01_injustice.md)**

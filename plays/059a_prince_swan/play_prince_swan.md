@@ -73,6 +73,10 @@ Ein Mädchen folgt einem verzauberten Schwan, gewinnt goldene Himmelsgaben und e
 
 - [die Wiedervereinigung](plan_reclamation.md): das Vorhaben von Julian', ihren geliebten Prinzen durch die Kraft der himmlischen Geschenke und die Entlarvung der falschen Braut zurückzugewinnen.
 
+**Pitches**
+
+- [die Treue](pitch_tender.md)
+
 ## Triggers
 
 **[Plot 1: Der Fadenriss im Dornenstrauch](plot_01_yarn.md)**

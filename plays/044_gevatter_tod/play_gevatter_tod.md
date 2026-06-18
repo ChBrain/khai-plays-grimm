@@ -60,6 +60,10 @@ Der Tod wird Pate eines armen Jungen, macht ihn zum berühmten Arzt, straft jedo
 
 - [der Betrug am Sterbebett](plan_turn-the-bed.md): das Vorhaben des Patenkindes, durch das heimliche Drehen des Bettes die Regel des Todes zu überlisten und König wie Königstochter gegen den Willen des Paten zu retten.
 
+**Pitches**
+
+- [das Verlöschen](pitch_still.md)
+
 ## Triggers
 
 **[Plot 1: Der gewählte Pate](plot_01_godfather_chosen.md)**

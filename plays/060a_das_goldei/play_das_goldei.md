@@ -61,6 +61,10 @@ Arme Besenbinderkinder finden einen Vogel mit Goldeiern, dessen Herz und Leber s
 
 - [der Plan des Goldschmieds](plan_goldschmied.md): das Vorhaben des Goldschmieds, das Schwesterlein zu heiraten und sich Herz und Leber des Vogels zu braten, um König und reich zu werden, das aber durch die zufällig essenden Kinder vereitelt wird.
 
+**Pitches**
+
+- [die Fügung](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Die armen Besenbinder](plot_01_arme-besenbinder.md)**
