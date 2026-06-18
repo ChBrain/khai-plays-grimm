@@ -60,6 +60,10 @@ Eine böse Schwiegermutter sperrt ihre Schwiegertochter samt Enkeln in den Kelle
 - [die braune Brühe](piece_brown_broth.md)
 - [die weiße Brühe](piece_white_broth.md)
 
+**Pitches**
+
+- [das Grausen](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Das Einsperren im Keller](plot_01_imprisonment.md)**

@@ -63,6 +63,10 @@ Ein Pfarrer schickt den Bauern auf eine erfundene Wallfahrt, doch der Gevatter b
 
 - [die Verführung](plan_old_hildebrand.md): das Vorhaben des Pfarrers, den Bauern durch eine vorgetäuschte Krankheit und eine erfundene Wallfahrt aus dem Hause zu schaffen, um mit der Bäuerin allein zu schwelgen.
 
+**Pitches**
+
+- [die Bauernschwänke](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Die Verabredung der List](plot_01_list.md)**

@@ -59,6 +59,10 @@ Ein Schmied schließt einen Pakt mit dem Teufel, überlistet ihn mit einem Sack 
 - [der lederne Sack](piece_sack.md)
 - [die Nägel und der Hammer](piece_nails.md)
 
+**Pitches**
+
+- [die Schalkheit](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Der Pakt im Wald](plot_01_pact.md)**

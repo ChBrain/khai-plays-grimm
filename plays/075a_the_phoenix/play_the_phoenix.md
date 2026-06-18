@@ -63,6 +63,10 @@ Ein am Fluss gefundener Jüngling entgeht den Anschlägen eines Verwalters und h
 - [der goldene Schlüssel](piece_key.md)
 - [die drei Federn](piece_feathers.md)
 
+**Pitches**
+
+- [das Wunderbare](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Die Errettung aus dem Fluss](plot_01_rescue.md)**

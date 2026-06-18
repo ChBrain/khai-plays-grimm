@@ -68,6 +68,10 @@ Ein daumengroßer Bauernsohn wird beim Riesen zum übermächtigen Mann und bezah
 
 - [der Lohn](plan_the_young_giant.md): das Vorhaben des jungen Riesen, jeden Dienst allein für zwei Faustschläge zu verrichten und diesen vereinbarten Lohn am Ende unerbittlich einzutreiben.
 
+**Pitches**
+
+- [die Wucht](pitch_fury.md)
+
 ## Triggers
 
 **[Plot 1: Die Aufzucht beim Riesen](plot_01_rearing.md)**

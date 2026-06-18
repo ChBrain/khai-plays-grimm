@@ -74,6 +74,10 @@ Eine treue Tochter folgt ihrem verzauberten Gemahl bis ans Ende der Welt.
 
 - [die Wiedergewinnung](plan_singing_springing_lark.md): das Vorhaben der jüngsten Tochter, ihren verwandelten Gemahl über Jahre und Welten hinweg zu suchen und mit den Gaben der Gestirne zurückzugewinnen.
 
+**Pitches**
+
+- [die Treue](pitch_tenderness.md)
+
 ## Triggers
 
 **[Plot 1: Der Wunsch nach der Lerche](plot_01_wish.md)**

@@ -54,6 +54,10 @@ Ein Fuchs will eine Gänseschar fressen, doch ihr endloses Gebet rettet sie.
 
 - [die Endlosbitte](plan_the_fox_and_the_geese.md): das Vorhaben der Wortführerin, durch ein niemals endendes Gebet den Tod der Schar auf ewig hinauszuzögern.
 
+**Pitches**
+
+- [der Aufschub](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Die Drohung](plot_01_threat.md)**

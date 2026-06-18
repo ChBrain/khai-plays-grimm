@@ -60,6 +60,10 @@ Eine verstoßene Königstochter dient unerkannt im Mäusehautkleid, bis ein Ring
 - [der Stiefel](piece_boot.md)
 - [der Ring](piece_ring.md)
 
+**Pitches**
+
+- [die Stille](pitch_stillness.md)
+
 ## Triggers
 
 **[Plot 1: Die Liebesprüfung](plot_01_examination.md)**

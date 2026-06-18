@@ -70,6 +70,10 @@ Der dumme Hans bezwingt das Erdmänneken und die Drachen, wird verraten und gewi
 
 - [die Rettung](plan_the_gnome.md): das Vorhaben des dummen Hans, die drei verschwundenen Prinzessinnen aus der Tiefe zu befreien und die Drachen zu erschlagen.
 
+**Pitches**
+
+- [die Tapferkeit](pitch_heroism.md)
+
 ## Triggers
 
 **[Plot 1: Die verbotenen Äpfel](plot_01_apples.md)**

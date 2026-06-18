@@ -63,6 +63,10 @@ Der Herr lohnt die Gastfreundschaft des Armen und straft den Geiz des Reichen mi
 
 - [die Heimsuchung](plan_poor_man_rich_man.md): das Vorhaben des Herrn, in schlichtem Gewande einzukehren und die Herzen zu prüfen, um Gastfreundschaft zu segnen und den Geiz sich selbst bestrafen zu lassen.
 
+**Pitches**
+
+- [die Vergeltung](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Die Abweisung beim Reichen](plot_01_refusal.md)**

@@ -51,6 +51,10 @@ Prinz Johannes fliegt mit einer Erscheinung zur roten Burg, um nach Prüfungen d
 
 - [der Anblick](piece_vision.md)
 
+**Pitches**
+
+- [die Sehnsucht](pitch_longing.md)
+
 ## Triggers
 
 **[Plot 1: Der Flug zur roten Burg](plot_01_flight.md)**

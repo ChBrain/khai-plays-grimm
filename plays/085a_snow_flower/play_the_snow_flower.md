@@ -54,6 +54,10 @@ Eine wintergeborene Königstochter sucht im Wald Heilkräuter für ihre kranke M
 - [die heilsamen Kräuter](piece_herbs.md)
 - [der Honig](piece_honey.md)
 
+**Pitches**
+
+- [die Zartheit](pitch_tenderness.md)
+
 ## Triggers
 
 **[Plot 1: Die Erkrankung der Mutter](plot_01_illness.md)**

@@ -60,6 +60,10 @@ Ein verstoßener Großvater kehrt an den Tisch zurück, als das Kind den Eltern 
 
 - [das Tröglein](plan_grandfather_and_grandson.md): das stille Vorhaben des Enkels, aus kleinen Hölzern ein Tröglein zu bauen, damit Vater und Mutter daraus essen, wenn er groß ist.
 
+**Pitches**
+
+- [der Kummer](pitch_grief.md)
+
 ## Triggers
 
 **[Plot 1: Das Zittern](plot_01_trembling.md)**

@@ -71,6 +71,10 @@ Ein lustiger Soldat reist mit dem heiligen Petrus, verzehrt heimlich das Lammher
 
 - [die Himmelfahrt](plan_brother_lustig.md): das Vorhaben Bruder Lustigs, sich nach dem Verlust seines Wunder-Gefährten allein durchzuschlagen und sich am Ende mit dem Wunsch-Ranzen in den Himmel zu mogeln.
 
+**Pitches**
+
+- [der Frohsinn](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Das Almosen](plot_01_almosen.md)**
