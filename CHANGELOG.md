@@ -1,5 +1,27 @@
 # @chbrain/khai-plays-grimm
 
+## 0.255.3
+
+### Patch Changes
+
+- 9ca7413: Cast the Grimm house Director (Order 3 onboarding, the Director path):
+  position_director (the chain-owned role, the hand that stages a ready play into a
+  told performance) and persona_dorothea_viehmann (Dorothea Viehmann, the Grimms'
+  trusted oral teller and the model voice of their second volume, as the house
+  Director). The Roadie and touring backfill follow with the publishing track.
+- d7673bb: Converge Grimm's management onto the shared blueprint core (Order 0c). The voice
+  layer (management/discussion instructions), the chain positions (choregos,
+  playwright, theatre_manager, director), the shared Choregos personas, and
+  plan_stage_the_score now match the blueprint verbatim; Grimm keeps its overlay
+  (its cast personas including the Director, Dorothea Viehmann, its house plans,
+  orders). Adds the discussions/ home. Touring (the Roadie module) is deferred.
+- 2b997a9: Sync the Director position to the current blueprint: the cast named as the
+  producer (the separation of two stances), and "tune the pitch" added to the
+  redirect idioms. Brings the house in line with the chain canon (khai #505/#506).
+- 6aaedee: Re-converge the Director seat to the control loop: position_director and
+  plan_stage_the_score match the rewritten blueprint core (the Director runs a
+  living production and captures a run, not a teller).
+
 ## 0.255.2
 
 ### Patch Changes
