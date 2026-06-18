@@ -60,6 +60,10 @@ Ein listiger Oheim erschwindelt dem armen Hans durch geflickte Hose und blanken 
 
 - [die Heirat](plan_hans_married.md): das Vorhaben des Oheims, dem armen Hans durch erlogenen Reichtum die Tochter des reichen Bauern als Braut zu verschaffen.
 
+**Pitches**
+
+- [der Schwindel](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Der Posten hinter dem Ofen](plot_01_post.md)**

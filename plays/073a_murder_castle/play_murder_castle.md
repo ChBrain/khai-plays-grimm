@@ -61,6 +61,10 @@ Eine Schuhmacherstochter folgt einem reichen Herrn in sein Schloss, deckt seine 
 - [der Heuwagen](piece_hay_wagon.md)
 - [die Mordeingeweide](piece_token.md)
 
+**Pitches**
+
+- [das Grauen](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Der reiche Freier](plot_01_seduction.md)**

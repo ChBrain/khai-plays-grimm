@@ -63,6 +63,10 @@ Ein armer Studentensohn fängt einen gefährlichen Geist in der Flasche und mach
 
 - [das Glück des Sohnes](plan_spirit_in_the_bottle.md): das Vorhaben des Sohnes, den entfesselten Geist durch eine List zu bezwingen und dessen Gabe in Reichtum und Gelehrsamkeit zu verwandeln.
 
+**Pitches**
+
+- [das Geheimnisvolle](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Die Stimme unter der Eiche](plot_01_voice.md)**

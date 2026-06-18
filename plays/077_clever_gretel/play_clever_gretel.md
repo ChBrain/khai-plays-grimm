@@ -59,6 +59,10 @@ Eine listige Köchin verschlingt das Festmahl und hetzt mit einer Notlüge den G
 
 - [die Ausrede](plan_clever_gretel.md): das Vorhaben des Gretels, den Verzehr beider Hühner durch eine doppelte Notlüge zu vertuschen, die den Gast verjagt und den Herrn ihm nachhetzt.
 
+**Pitches**
+
+- [der Schwank](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Der Bratauftrag](plot_01_order.md)**

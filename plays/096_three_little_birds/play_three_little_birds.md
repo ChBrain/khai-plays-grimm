@@ -74,6 +74,10 @@ Eine gekerkerte Königin und ihre ins Wasser geworfenen Kinder werden durch eine
 
 - [die Errettung](plan_three_little_birds.md): das Vorhaben der Königstochter, durch das Holen des weissagenden Vogels und des Heilwassers Mutter, Brüder und Vater wieder zu vereinen.
 
+**Pitches**
+
+- [die Weissagung](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Die Werbung am Berge](plot_01_werbung.md)**

@@ -55,6 +55,10 @@ Eine reinliche Prinzessin lässt eine Laus kalbsgroß füttern, macht ein Kleid 
 - [das Fell](piece_skin.md)
 - [das Kleid](piece_dress.md)
 
+**Pitches**
+
+- [das Widerliche](pitch_abject.md)
+
 ## Triggers
 
 **[Plot 1: Der Fund der Laus](plot_01_discovery.md)**

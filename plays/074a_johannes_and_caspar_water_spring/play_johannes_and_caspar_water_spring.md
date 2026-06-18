@@ -64,6 +64,10 @@ Zwei wassergeborene Brüder ziehen mit Tieren aus, töten einen Drachen und erl�
 - [die sieben Drachenzungen](piece_dragon_tongues.md)
 - [der Ameisensaft](piece_revival_sap.md)
 
+**Pitches**
+
+- [der Heldenmut](pitch_heroism.md)
+
 ## Triggers
 
 **[Plot 1: Die Geburt und der Scheideweg](plot_01_separation.md)**

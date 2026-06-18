@@ -70,6 +70,10 @@ Eine wahre Braut wird von ihrer Zofe verdrängt, hütet als Gänsemagd die Gäns
 
 - [die Enthüllung](plan_the_goose_girl.md): das Vorhaben des alten Königs, den Kummer der Gänsemagd ans Licht zu bringen und die wahre Braut in ihr Recht einzusetzen.
 
+**Pitches**
+
+- [das Leid](pitch_grief.md)
+
 ## Triggers
 
 **[Plot 1: Der Aufbruch](plot_01_departure.md)**

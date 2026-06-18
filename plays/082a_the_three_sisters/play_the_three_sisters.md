@@ -64,6 +64,10 @@ Ein Königssohn befreit seine drei an Tierbräutigame gegebenen Schwestern und e
 - [das goldene Ei](piece_egg.md)
 - [die schwarze Tafel](piece_tablet.md)
 
+**Pitches**
+
+- [der Zauber](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Der Handel mit den Thieren](plot_01_bargain.md)**

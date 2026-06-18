@@ -62,6 +62,10 @@ Ein prahlerischer Wolf will sich mit einem Menschen anlegen und wird von einem J
 
 - [die Menschenprobe](plan_the_wolf_and_the_man.md): das Vorhaben des Wolfs, seine körperliche Stärke und Überlegenheit im direkten Kampf mit einem Menschen unter Beweis zu stellen.
 
+**Pitches**
+
+- [die Wut](pitch_fury.md)
+
 ## Triggers
 
 **[Plot 1: Die Prahlerei des Wolfes](plot_01_boasting.md)**

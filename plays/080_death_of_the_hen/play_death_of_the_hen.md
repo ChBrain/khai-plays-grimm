@@ -65,6 +65,11 @@ Das gierige Hühnchen erstickt am Nusskern, und die Trauer um es reißt am Ende 
 
 - [die Wasserholung](plan_death_of_the_hen.md): das Vorhaben des Hähnchens, dem erstickenden Hühnchen durch eine Kette von Tauschen das geforderte Wasser vom Brunnen zu beschaffen.
 
+**Pitches**
+
+- [die Trauer](pitch_grief.md)
+- [der Würgereiz](pitch_abject.md)
+
 ## Triggers
 
 **[Plot 1: Der Gang auf den Nussberg](plot_01_nuthill.md)**
