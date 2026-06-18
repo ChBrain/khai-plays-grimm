@@ -62,6 +62,10 @@ Der einfältige Hans dient sieben Jahre einer verzauberten Katze und wird dafür
 
 - [der Dienstvertrag](plan_poor_millers_boy_and_cat.md): das Vorhaben der Katze, dem treuen Hans nach sieben Jahren Dienst das schönste Pferd und ein Schloss zu schenken und ihn so zum Müller und Gemahl zu machen.
 
+**Pitches**
+
+- [die Sehnsucht](pitch_tender.md)
+
 ## Triggers
 
 **[Plot 1: Die Wette um die Mühle](plot_01_wager.md)**

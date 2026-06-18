@@ -62,6 +62,10 @@ Ein Geselle ermordet einen armen Wandersmann, doch die Sonne bringt die Tat ans 
 
 - [das verschwiegene Vorhaben](plan_bright_sun.md): das Vorhaben des Gesellen, die Tat für immer im Verborgenen zu halten und ein ehrbares Leben über dem vergrabenen Geheimnis zu errichten.
 
+**Pitches**
+
+- [das Grauen](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Der Mord auf der Landstraße](plot_01_murder.md)**

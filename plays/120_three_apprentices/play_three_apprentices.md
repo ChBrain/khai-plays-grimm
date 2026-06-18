@@ -65,6 +65,10 @@ Drei mittellose Handwerksburschen schließen einen Pakt mit dem Teufel und entge
 
 - [die Seelenwette](plan_three_apprentices.md): das Vorhaben des reichen Mannes, durch die erzwungenen Sätze der Burschen den Mörder zu überführen und dessen Seele zu gewinnen.
 
+**Pitches**
+
+- [das Grauen](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Der Pakt auf der Landstraße](plot_01_pact.md)**

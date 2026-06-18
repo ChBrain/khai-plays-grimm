@@ -67,6 +67,10 @@ Ein bestohlener Jäger verwandelt seine Betrügerinnen mit Zauberkraut in Esel u
 
 - [die Vergeltung und Versöhnung](plan_donkey_cabbages.md): das Vorhaben des Jägers, die Diebinnen durch das Zauberkraut in Esel zu verwandeln und so die Rückgabe seiner Schätze sowie die Versöhnung zu erzwingen.
 
+**Pitches**
+
+- [der Zorn](pitch_furious.md)
+
 ## Triggers
 
 **[Plot 1: Das Almosen und die Gaben](plot_01_alms.md)**

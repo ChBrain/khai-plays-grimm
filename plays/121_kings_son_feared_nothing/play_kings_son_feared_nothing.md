@@ -71,6 +71,10 @@ Ein furchtloser Königssohn besteht Verrat und Folter und erlöst eine verzauber
 
 - [die Erlösung](plan_kings_son_feared_nothing.md): das Vorhaben der schwarzen Maid, den furchtlosen Königssohn durch drei schweigend ertragene Nächte der Qual und das dreimalige Schwingen des Schwertes von der Verzauberung zu befreien.
 
+**Pitches**
+
+- [der Heldenmut](pitch_heroic.md)
+
 ## Triggers
 
 **[Plot 1: Der Aufbruch](plot_01_departure.md)**

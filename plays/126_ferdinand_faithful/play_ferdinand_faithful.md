@@ -74,6 +74,10 @@ Ein armer Junge wird durch Treue und ein sprechendes Pferd vom Vorreiter zum Kö
 
 - [die Brautfahrt](plan_ferdinand_faithful.md): das Vorhaben Ferdinands des Getreuen, auf den Rat des weißen Pferdes hin die ferne Königstochter über den See zu holen und dabei Riesen und Vögel zu besänftigen.
 
+**Pitches**
+
+- [der Heldenmut](pitch_heroic.md)
+
 ## Triggers
 
 **[Plot 1: Die Taufe](plot_01_taufe.md)**

@@ -63,6 +63,10 @@ Drei Soldaten entkommen dem Teufel, weil der dritte das Rätsel und seine Lösun
 
 - [die Aufklärung](plan_devil_and_grandmother.md): das Vorhaben des dritten Soldaten, vor Ablauf der sieben Jahre die Lösung des Rätsels zu erkunden und so den Pakt zu brechen.
 
+**Pitches**
+
+- [das Wunderbare](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Die Fahnenflucht](plot_01_desertion.md)**

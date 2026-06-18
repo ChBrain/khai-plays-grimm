@@ -58,6 +58,10 @@ Eine arbeitsscheue Frau bringt ihren gutmütigen Mann mit immer neuen Listen daz
 
 - [die Spinn-Vermeidung](plan_the_lazy_spinner.md): das Vorhaben der Frau, durch eine Kette von Ausflüchten und Streichen jede Arbeit am Spinnrad endgültig von sich abzuwenden.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Die Vertröstung](plot_01_stalling.md)**

@@ -62,6 +62,10 @@ Hans findet zwei noch größere Narren als seine Frau und erspart ihr die Prüge
 
 - [die Narrensuche](plan_wise_folks.md): das Vorhaben des Hans, vor der angedrohten Tracht Prügel zwei noch größere Narren als Trina aufzuspüren, um sich seiner eigenen Klugheit zu vergewissern.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Der Befehl](plot_01_befehl.md)**

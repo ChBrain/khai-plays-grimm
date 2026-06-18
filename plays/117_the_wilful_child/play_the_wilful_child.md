@@ -56,6 +56,10 @@ Ein eigensinniges Kind findet erst Ruhe im Grab, als die Mutter sein Ärmchen mi
 
 - [die Ruhe](plan_the_wilful_child.md): das Vorhaben der Mutter, dem immer wieder aus dem Grabe ragenden Ärmchen des eigensinnigen Kindes mit einem Schlag der Rute endlich Ruhe zu verschaffen.
 
+**Pitches**
+
+- [das Grauen](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Der Eigensinn](plot_01_wilfulness.md)**

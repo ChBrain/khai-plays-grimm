@@ -62,6 +62,10 @@ Ein verwaistes Mädchen vertraut sich Gott an und erlöst durch einen schlichten
 
 - [die Erlösung des Königssohns](plan_old_woman_in_wood.md): das Vorhaben des Mädchens, dem Auftrag der Taube zu folgen, den schlichten Ring zu holen und damit den verzauberten Königssohn zu befreien.
 
+**Pitches**
+
+- [die Stille](pitch_still.md)
+
 ## Triggers
 
 **[Plot 1: Der Überfall im Wald](plot_01_ambush.md)**

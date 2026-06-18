@@ -65,6 +65,10 @@ Ein Soldat lüftet mit Hilfe eines Tarnmantels das nächtliche Geheimnis der zw�
 - [das geheime Tanzen](plan_dancing.md): das Vorhaben der Prinzessinnen, jede Nacht heimlich durch eine Falltür in ein unterirdisches Schloss zu entschlüpfen, um dort mit zwölf Prinzen zu tanzen.
 - [die Aufdeckung des Geheimnisses](plan_revelation.md): das Vorhaben des Soldaten, mithilfe des Tarnmantels die Prinzessinnen heimlich zu verfolgen, Beweise zu sammeln und dem König das Geheimnis zu enthüllen.
 
+**Pitches**
+
+- [das Wunderbare](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Die königliche Ankündigung](plot_01_challenge.md)**

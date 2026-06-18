@@ -60,6 +60,10 @@ Ein prahlerischer Bauer holt aus dem Himmel einen Dreschflegel als Beweis seiner
 
 - [der Beweis](plan_flail_from_heaven.md): das Vorhaben des Bauern, seine ungeheuerliche Geschichte mit dem mitgebrachten Dreschflegel unbezweifelbar zu machen.
 
+**Pitches**
+
+- [das Wunderbare](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Der Handel mit den Ochsen](plot_01_sale.md)**

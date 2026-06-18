@@ -67,6 +67,10 @@ Drei kurze Bilder zeigen, wie das Vertrauen zwischen Mensch und Unke zerbricht.
 
 - [die Gastfreundschaft](plan_stories_about_snakes.md): das Vorhaben des Kindes, die Hausunke täglich am Napf teilhaben zu lassen und so eine Freundschaft zu stiften.
 
+**Pitches**
+
+- [die Trauer](pitch_grief.md)
+
 ## Triggers
 
 **[Plot 1: Die Hausunke](plot_01_house_snake.md)**

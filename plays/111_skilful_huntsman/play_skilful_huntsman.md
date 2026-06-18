@@ -71,6 +71,10 @@ Ein Schlosserssohn wird zum nie fehlenden Jäger, erschlägt drei Riesen und ent
 
 - [die Brautwerbung](plan_skilful_huntsman.md): das Vorhaben des Jägers, durch unbestreitbare Beweisstücke und Zungen die Tat der Riesen für sich zu beanspruchen und die Königstochter zu gewinnen.
 
+**Pitches**
+
+- [der Heldenmut](pitch_heroic.md)
+
 ## Triggers
 
 **[Plot 1: Die Lehrzeit](plot_01_apprenticeship.md)**
