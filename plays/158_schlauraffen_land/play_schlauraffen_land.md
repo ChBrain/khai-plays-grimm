@@ -57,6 +57,10 @@ Ein Aufschneider prahlt mit unmöglichen Wundern, bis ein Hahn das Lügenmärche
 - [der Lindenbaum](piece_lindentree.md)
 - [der fette Ziegenbock](piece_goat.md)
 
+**Pitches**
+
+- [die Aufschneiderei](pitch_comic.md)
+
 **Plans**
 
 - [das Lügenmärchen](plan_schlauraffen_land.md): das Vorhaben des Prahlers, eine Kette unmöglicher Bilder zu einem geschlossenen Lügenmärchen aufzureihen und es mit dem Hahnenruf zu beenden.

@@ -63,6 +63,10 @@ Ein verzauberter wilder Mann hilft einem verbannten Prinzen, Schlachten zu schla
 - [dat dreibeenige Perd](piece_three_legged_horse.md)
 - [de Kaisersinen Dock](piece_bandage.md)
 
+**Pitches**
+
+- [der Mut](pitch_heroic.md)
+
 ## Triggers
 
 **[Plot 1: Die Gefangennahme und Flucht](plot_01_capture_and_escape.md)**

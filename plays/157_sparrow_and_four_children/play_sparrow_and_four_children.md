@@ -64,6 +64,10 @@ Ein alter Sperling belehrt seine vier Söhne und lobt das Gottvertrauen des Jün
 
 - [der Segen](plan_sparrow_and_four_children.md): das Vorhaben des alten Sperlings, jeden Sohn nach seinem Sommer zu prüfen, vor den Gefahren seines Reviers zu warnen und am Ende den frömmsten Weg zu segnen.
 
+**Pitches**
+
+- [die Gelassenheit](pitch_still.md)
+
 ## Triggers
 
 **[Plot 1: Die Wiedervereinigung im Feld](plot_01_reunion.md)**

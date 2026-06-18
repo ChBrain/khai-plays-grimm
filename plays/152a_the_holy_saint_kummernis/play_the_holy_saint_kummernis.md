@@ -55,6 +55,10 @@ Eine fromme Jungfrau bittet Gott um einen Bart, wird gekreuzigt und rettet spät
 - [de güldnen Pantoffeln](piece_slippers.md)
 - [dat Geiglein](piece_fiddle.md)
 
+**Pitches**
+
+- [das Wunder](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Der Bart und die Kreuzigung](plot_01_beard_and_crucifixion.md)**

@@ -56,6 +56,10 @@ Ein grausamer Schneider verdreht das Gebot, Leid und Freude zu teilen, und erhä
 - [die Elle und die Schere](piece_tools.md)
 - [die Gefängniskost](piece_fare.md)
 
+**Pitches**
+
+- [die Bosheit](pitch_fury.md)
+
 **Plans**
 
 - [die Ausrede](plan_sharing_joy_and_sorrow.md): das Vorhaben des Schneiders, sein Versprechen durch eine spitzfindige Auslegung von „Leid und Freude teilen“ zu seinen Gunsten zu verdrehen.

@@ -55,6 +55,10 @@ Die hagere Liese plagt sich um geträumten Reichtum und verstreitet sich mit dem
 
 - [der Reichtum](plan_lean_lisa.md): das Vorhaben der hageren Liese, sich durch einen geliehenen Gulden und eine gemästete Kuh aus der Armut zu erheben.
 
+**Pitches**
+
+- [der Zank](pitch_fury.md)
+
 ## Triggers
 
 **[Plot 1: Die Plackerei](plot_01_drudgery.md)**

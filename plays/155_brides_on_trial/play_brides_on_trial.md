@@ -54,6 +54,10 @@ Ein Schäfer prüft drei gleich hübsche Schwestern am Käse und wählt die maß
 
 - [der Käse](piece_cheese.md)
 
+**Pitches**
+
+- [das Lachen](pitch_comic.md)
+
 **Plans**
 
 - [die Brautschau](plan_brides_on_trial.md): das Vorhaben der Mutter, durch eine einfache Käseprobe die maßvollste der drei Schwestern als Braut zu erkennen.

@@ -58,6 +58,10 @@ Ein frommes Waisenkind verschenkt all sein Hab und Gut und wird vom Himmel mit S
 
 - [das Vertrauen](plan_star_money.md): das Vorhaben des Mädchens, im Vertrauen auf Gott jedem Bedürftigen das eigene Hab und Gut zu schenken, bis nichts mehr bleibt.
 
+**Pitches**
+
+- [die Stille](pitch_still.md)
+
 ## Triggers
 
 **[Plot 1: Der Auszug](plot_01_setting_out.md)**
