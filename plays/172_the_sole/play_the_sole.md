@@ -61,6 +61,10 @@ Aus Neid über den Sieg des Herings verzieht die Scholle ihr Maul für immer.
 
 - [die Königswahl](plan_the_sole.md): das Vorhaben der Fische, durch ein Wettschwimmen den schnellsten unter ihnen zum Herrscher zu küren, damit dieser den Schwachen helfe.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Die Wahl des Königs](plot_01_election.md)**

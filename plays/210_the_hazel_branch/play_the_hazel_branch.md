@@ -58,6 +58,10 @@ Maria flieht vor einer Natter hinter einen Haselstrauch und segnet ihn fortan al
 
 - [der Schutz durch die Hasel](plan_the_hazel_branch.md): das Vorhaben der Mutter, hinter dem Haselstrauch Zuflucht zu finden und ihn dafür zu segnen.
 
+**Pitches**
+
+- [das Wunderbare](pitch_das_wunderbare.md)
+
 ## Triggers
 
 **[Plot 1: Die Erdbeeren für das schlafende Kind](plot_01_strawberries.md)**

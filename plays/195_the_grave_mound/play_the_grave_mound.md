@@ -64,6 +64,10 @@ Ein furchtloser Soldat überlistet den Teufel mit dem bodenlosen Stiefel und ret
 
 - [die Rettung der Seele](plan_the_grave_mound.md): das Vorhaben des Soldaten, den Teufel am Grabhügel mit dem bodenlosen Stiefel über der Grube hinzuhalten, bis der Hahnenschrei ihn vertreibt und die Seele des Bauern gerettet ist.
 
+**Pitches**
+
+- [das Heldische](pitch_heroic.md)
+
 ## Triggers
 
 **[Plot 1: Das erwachte Gewissen](plot_01_conscience.md)**

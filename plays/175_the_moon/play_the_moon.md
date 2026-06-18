@@ -65,6 +65,10 @@ Vier Gesellen rauben den Mond, nehmen ihn ins Grab, und Petrus hängt ihn an den
 
 - [die Erhebung](plan_the_moon.md): das Vorhaben des heiligen Petrus, den ruhestörenden Mond aus der Unterwelt zu holen und ihn hoch an den Himmel zu hängen.
 
+**Pitches**
+
+- [das Wunderbare](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Das dunkle Land](plot_01_darkness.md)**

@@ -61,6 +61,10 @@ Ein eiliger Kaufmann ignoriert einen fehlenden Nagel und verliert deshalb Pferd 
 
 - [die Heimkehr](plan_the_nail.md): das Vorhaben des Kaufmanns, mit voller Geldkatze ohne jeden Aufenthalt noch am selben Tag heimzureiten.
 
+**Pitches**
+
+- [das Grauen](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Der Aufbruch](plot_01_departure.md)**

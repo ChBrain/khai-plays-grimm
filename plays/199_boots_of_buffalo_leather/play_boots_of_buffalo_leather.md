@@ -64,6 +64,10 @@ Ein furchtloser Soldat bannt zwölf Räuber und wird vom verkleideten König bel
 
 - [die Bannung der Bande](plan_boots_of_buffalo_leather.md): das Vorhaben des Soldaten, die zwölf Räuber durch furchtloses Auftreten, Wein und ein Kommando reglos in ihren Stühlen festzusetzen und der Obrigkeit zu überliefern.
 
+**Pitches**
+
+- [das Heldische](pitch_heroic.md)
+
 ## Triggers
 
 **[Plot 1: Die Begegnung im Wald](plot_01_meeting.md)**

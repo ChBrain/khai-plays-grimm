@@ -70,6 +70,10 @@ Ein verlorener Sohn kehrt als Meisterdieb heim und besteht drei unmögliche Dieb
 
 - [der Meisterstreich](plan_the_master_thief.md): das Vorhaben des Meisterdiebs, jede der drei tödlichen Proben des Grafen durch List, Verkleidung und Täuschung zu bestehen und so dem Galgen zu entgehen.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Die Heimkehr des Sohns](plot_01_homecoming.md)**

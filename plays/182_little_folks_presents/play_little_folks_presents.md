@@ -61,6 +61,10 @@ Ein genügsamer Schneider behält sein Gold, der habgierige Goldschmied verliert
 
 - [die Habgier](plan_little_folks_presents.md): das Vorhaben des Goldschmieds, durch die alleinige Rückkehr mit großen Säcken die empfangene Gabe ins Maßlose zu vervielfachen.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Der Tanz auf dem Hügel](plot_01_dance.md)**

@@ -72,6 +72,10 @@ Ein versprochenes Kind versinkt im Teich, doch die treue Liebe holt es im Mondli
 
 - [die Rückholung](plan_nix_of_the_millpond.md): das Vorhaben der treuen Frau, ihren versunkenen Mann mit den drei goldenen Gaben bei Vollmond Stück um Stück aus dem Teich zu lösen.
 
+**Pitches**
+
+- [die Innigkeit](pitch_tender.md)
+
 ## Triggers
 
 **[Plot 1: Der Pakt am Teich](plot_01_pact.md)**

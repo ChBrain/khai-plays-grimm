@@ -69,6 +69,10 @@ Eingemauert und verarmt erkämpft sich Maleen durch Treue ihren Prinzen und entl
 
 - [die Wiedervereinigung](plan_maid_maleen.md): das Vorhaben Maleens, durch geduldiges Ausharren und treues Bekennen ihren Prinzen wiederzufinden und die falsche Braut zu entlarven.
 
+**Pitches**
+
+- [das Heldische](pitch_heroic.md)
+
 ## Triggers
 
 **[Plot 1: Die verweigerte Wahl](plot_01_refusal.md)**

@@ -59,6 +59,10 @@ Ein armer Junge geht stets geradeaus, hält die Kirche für den Himmel und stirb
 
 - [der Weg zum Himmel](plan_the_heavenly_wedding.md): das Vorhaben des Jungen, dem Wort des Pfarrers zu folgen und immerzu geradeaus zu gehen, bis er den Himmel erreicht.
 
+**Pitches**
+
+- [die Stille](pitch_die_stille.md)
+
 ## Triggers
 
 **[Plot 1: Das Wort und der gerade Weg](plot_01_straight_walk.md)**

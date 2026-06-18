@@ -61,6 +61,10 @@ Aus undankbarem Frevel am gesegneten Korn erwächst ein Gericht, das nur um der 
 
 - [die Milderung](plan_the_ear_of_corn.md): das Vorhaben des Herrn, das harte Gericht über das Korn um der unschuldigen Geschöpfe willen nur teilweise zu vollstrecken.
 
+**Pitches**
+
+- [das Trauern](pitch_grieving.md)
+
 ## Triggers
 
 **[Plot 1: Der gesegnete Halm](plot_01_blessing.md)**

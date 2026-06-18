@@ -69,6 +69,10 @@ Ein Königssohn wählt Armut und Demut und findet durch sieben Jahre des Betteln
 
 - [der Weg zum Himmel](plan_poverty_and_humility.md): das Vorhaben des Königssohns, durch Armut und Demut den Himmel zu erlangen.
 
+**Pitches**
+
+- [die Stille](pitch_die_stille.md)
+
 ## Triggers
 
 **[Plot 1: Der Entschluss des Königssohns](plot_01_resolve.md)**

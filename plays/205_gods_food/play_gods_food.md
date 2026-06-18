@@ -60,6 +60,10 @@ Eine arme Witwe wird von der reichen Schwester abgewiesen, und ihre Kinder verhu
 
 - [die Bitte um Brot](plan_gods_food.md): das Vorhaben der armen Witwe, durch eine demütige Bitte bei der reichen Schwester Brot für ihre hungernden Kinder zu erlangen.
 
+**Pitches**
+
+- [das Trauern](pitch_das_trauern.md)
+
 ## Triggers
 
 **[Plot 1: Die abgewiesene Bitte](plot_01_refused_plea.md)**

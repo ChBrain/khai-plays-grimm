@@ -63,6 +63,10 @@ Ein misshandelter Waisenjunge sucht im vermeintlichen Gift den Tod und stirbt im
 
 - [die Erlösung](plan_poor_boy_in_the_grave.md): das verzweifelte Vorhaben des Jungen, dem unerträglichen Schlagen durch den vermeintlichen Tod im Gift zu entkommen.
 
+**Pitches**
+
+- [das Trauern](pitch_grieving.md)
+
 ## Triggers
 
 **[Plot 1: Der Waisenjunge im Hause](plot_01_orphan.md)**

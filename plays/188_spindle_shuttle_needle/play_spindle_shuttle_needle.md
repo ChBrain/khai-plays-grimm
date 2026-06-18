@@ -62,6 +62,10 @@ Eine arme, fleißige Waise gewinnt durch die drei Zaubergaben ihrer Patin den K�
 
 - [die Brautwerbung](plan_spindle_shuttle_needle.md): das Vorhaben der Maid, durch den fleißigen Einsatz ihrer drei Zaubergaben den vorüberreitenden Königssohn zurückzuholen und als Braut zu gewinnen.
 
+**Pitches**
+
+- [das Zärtliche](pitch_tender.md)
+
 ## Triggers
 
 **[Plot 1: Das Vermächtnis](plot_01_bequest.md)**
