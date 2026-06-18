@@ -61,6 +61,10 @@ Ein Vater erlernt die Kunst des Stehlens für seinen Sohn, der durch Zauberei de
 
 - [die Befreiung](plan_thief_and_master.md): das Vorhaben des Lehrlings, sich der besitzergreifenden Gewalt seines Lehrmeisters zu entziehen und ihn durch überlegene Zauberkunst im Kampf zu vernichten.
 
+**Pitches**
+
+- [der Zweikampf](pitch_fury.md)
+
 ## Triggers
 
 **[Plot 1: Der Missverständnis-Ruf](plot_01_calling.md)**

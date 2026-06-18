@@ -70,6 +70,10 @@ Aus dem zerteilten Goldfisch wachsen zwei Goldkinder, deren Lilien über Leben u
 
 - [die Bruderrettung](plan_the_gold_children.md): das Vorhaben des Heimkindes, der welkenden Lilie zu folgen und den versteinerten Bruder aus der Gewalt der Hexe zu befreien.
 
+**Pitches**
+
+- [das Goldene](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Der goldene Fisch](plot_01_golden_fish.md)**

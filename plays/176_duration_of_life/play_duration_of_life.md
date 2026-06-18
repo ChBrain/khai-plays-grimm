@@ -59,6 +59,10 @@ Gott verteilt die abgelehnten Jahre der Tiere auf den Menschen und erklärt so d
 
 - [die Lebenszeit](plan_duration_of_life.md): das Vorhaben Gottes, die von den Tieren zurückgegebenen Jahre dem unzufriedenen Menschen zuzuteilen und so dessen Lebenszeit zu bestimmen.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Die Zuteilung der dreißig Jahre](plot_01_assignment.md)**

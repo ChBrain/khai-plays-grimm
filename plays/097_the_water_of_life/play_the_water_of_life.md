@@ -72,6 +72,10 @@ Der demütige jüngste Prinz holt das Wasser des Lebens und wird trotz Verrats z
 
 - [die Quelle des Lebens](plan_the_water_of_life.md): das Vorhaben des jüngsten Prinzen, durch demütige Höflichkeit den Rat des Zwerges zu gewinnen, das Wasser des Lebens zu schöpfen und das sterbende Leben seines Vaters zu retten.
 
+**Pitches**
+
+- [die Demut](pitch_heroism.md)
+
 ## Triggers
 
 **[Plot 1: Der sterbende König](plot_01_dying_king.md)**

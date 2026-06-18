@@ -60,6 +60,10 @@ Ein rastloser Nörgler tadelt selbst die Ordnung des Himmels und bleibt am Ende 
 
 - [die Aufsicht](plan_master_pfriem.md): das Vorhaben Pfriems, durch unablässige Beaufsichtigung seines Haushalts jeden vermeintlichen Fehler zu finden und zu rügen.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Das Schelten in der Stadt](plot_01_scolding.md)**

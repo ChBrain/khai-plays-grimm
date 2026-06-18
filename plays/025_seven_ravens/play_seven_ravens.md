@@ -64,6 +64,10 @@ Ein zorniger Vater verwünscht seine sieben Söhne zu Raben, woraufhin die Schwe
 
 - [die Erlösung der sieben Brüder](plan_brothers-rescue.md): das Vorhaben der Schwester, die zu Raben verwünschten Brüder durch eine Reise bis ans Ende der Welt und das Opfer des eigenen Fingers zu befreien.
 
+**Pitches**
+
+- [die Trauer](pitch_grief.md)
+
 ## Triggers
 
 **[Plot 1: Der Fluch](plot_01_baptism-curse.md)**

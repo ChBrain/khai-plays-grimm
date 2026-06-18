@@ -60,6 +60,10 @@ Ein verspotteter Igel überlistet den hochmütigen Hasen mit seiner gleich ausse
 
 - [die List](plan_hare_and_the_hedgehog.md): das Vorhaben des Igels, durch die am anderen Ende der Furche versteckte, gleich aussehende Igelfrau jeden Wettlauf scheinbar zu gewinnen.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Der Spott am Kohlbeet](plot_01_mockery.md)**

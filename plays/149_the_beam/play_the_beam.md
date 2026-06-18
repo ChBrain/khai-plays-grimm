@@ -61,6 +61,10 @@ Ein Mädchen durchschaut den Trug des Zauberers, wird aber an ihrem Hochzeitstag
 
 - [die Rache des Zauberers](plan_the_beam.md): das Vorhaben des gedemütigten Zauberers, das hellsichtige Mädchen an ihrem eigenen Ehrentag mit einem Trugbild zu blenden und so vor derselben Menge zu beschämen.
 
+**Pitches**
+
+- [das aufziehende Dunkel](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Die Vorführung des Balkens](plot_01_show.md)**

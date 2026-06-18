@@ -58,6 +58,10 @@ Ein verstoßener Sohn lernt die Sprachen der Tiere, birgt einen Schatz und steig
 - [Tauben](piece_doves.md)
 - [Tierstimmen](piece_languages.md)
 
+**Pitches**
+
+- [das Wunderbare](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Die Lehrjahre](plot_01_study_years.md)**

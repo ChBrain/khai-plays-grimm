@@ -64,6 +64,10 @@ Ein einfältig geltender Bursche wird durch eine Zitrone zum Vater erwählt, wü
 
 - [die Lehre der Königstochter](plan_lehre.md): das Vorhaben der Prinzessin, dem König mit dem heimlich eingelegten Becher sein vorschnelles Urteil vor Augen zu führen, ehe sie sich zu erkennen gibt.
 
+**Pitches**
+
+- [die Verkehrung](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Das vaterlose Kind und die Zitrone](plot_01_vaterloses-kind.md)**

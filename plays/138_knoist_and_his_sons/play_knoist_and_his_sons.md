@@ -61,6 +61,10 @@ Drei gebrechliche Söhne ziehen aus und erleben lauter Unmöglichkeiten ohne Sin
 - [die Knüppel](piece_cudgels.md)
 - [der große Baum](piece_tree.md)
 
+**Pitches**
+
+- [der Unsinn](pitch_comic.md)
+
 **Plans**
 
 - [die Ausfahrt](plan_knoist_and_his_sons.md): das Vorhaben der drei Söhne, von daheim auszuziehen und durch Feld, See und Wald zu wandern, ohne je nach Sinn zu fragen.

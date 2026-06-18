@@ -56,6 +56,10 @@ Ein Mädchen ignoriert die Warnung der Eltern, besucht die unheimliche Frau Trud
 - [Holzklotz](piece_block_wood.md)
 - [Feuer](piece_fire.md)
 
+**Pitches**
+
+- [das Verhängnis](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Die Warnung](plot_01_warning.md)**

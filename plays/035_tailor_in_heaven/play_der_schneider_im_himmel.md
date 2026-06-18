@@ -58,6 +58,10 @@ Ein Schneider schleicht in den Himmel, setzt sich auf Gottes Thron und wird wege
 - [Schlüssel](piece_key.md)
 - [Thronsessel](piece_throne_chair.md)
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Gottes Spaziergang](plot_01_gods_departure.md)**

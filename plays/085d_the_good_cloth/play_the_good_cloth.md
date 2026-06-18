@@ -56,6 +56,10 @@ Zwei Schwestern besitzen einen Lappen, der alles zu Gold macht, bis die dumme ih
 - [der alte Lappen](piece_cloth_old.md)
 - [der neue Lappen](piece_cloth_new.md)
 
+**Pitches**
+
+- [die Narretei](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Der goldene Lappen](plot_01_magic_cloth.md)**

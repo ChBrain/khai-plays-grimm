@@ -62,6 +62,10 @@ Eine kluge Bauerntochter löst die Rätsel des Königs und gewinnt ihn am Ende d
 
 - [die Klugheit](plan_peasants_wise_daughter.md): das Vorhaben der Bauerntochter, durch klugen Rat und List den König zu bestehen und am Ende zurückzugewinnen.
 
+**Pitches**
+
+- [die Klugheit](pitch_stillness.md)
+
 ## Triggers
 
 **[Plot 1: Der goldene Mörser](plot_01_mortar.md)**

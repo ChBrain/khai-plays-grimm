@@ -59,6 +59,10 @@ Ein armer Bruder zieht eine Riesenrübe, wird reich beschenkt und entkommt dem N
 - [der Weisheits-Sack](piece_sack.md)
 - [das Pferd](piece_horse.md)
 
+**Pitches**
+
+- [die überlistete Gier](pitch_comic.md)
+
 **Plans**
 
 - [die Befreiung](plan_the_turnip.md): das Vorhaben des armen Bruders, sich durch die List vom „Sack der Weisheit“ aus der todbringenden Falle zu befreien.

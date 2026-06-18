@@ -64,6 +64,10 @@ Ein junges Schneiderlein löst das Rätsel der stolzen Prinzessin und besteht li
 
 - [die List](plan_cunning_little_tailor.md): das Vorhaben des Schneiderleins, die zwei Proben der Prinzessin durch kühnen Witz und vorbereitete Tricks statt durch Stärke zu bestehen.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Das Rätsel](plot_01_riddle.md)**

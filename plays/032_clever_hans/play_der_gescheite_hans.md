@@ -61,6 +61,10 @@ Hans missversteht alle Ratschläge seiner Mutter wortwörtlich und zerstört dam
 - [Kalb](piece_calf.md)
 - [Tieraugen](piece_eyes.md)
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Nadel und Messer](plot_01_needle_and_knife.md)**

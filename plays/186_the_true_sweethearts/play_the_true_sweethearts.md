@@ -68,6 +68,10 @@ Eine treue Jungfrau verliert ihren Geliebten an das Vergessen und gewinnt ihn du
 
 - [die Rückgewinnung](plan_the_true_sweethearts.md): das Vorhaben der Jungfrau, ihren vergesslichen Geliebten in drei Festnächten durch ihre Sonnen-, Mond- und Sternkleider wiederzufinden und seine Erinnerung zu wecken.
 
+**Pitches**
+
+- [das Zärtliche](pitch_tender.md)
+
 ## Triggers
 
 **[Plot 1: Die unmöglichen Aufgaben](plot_01_tasks.md)**

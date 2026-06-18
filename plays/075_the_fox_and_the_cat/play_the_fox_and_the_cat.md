@@ -59,6 +59,10 @@ Ein hochmütiger Fuchs prahlt gegenüber einer Katze mit seinen hundert Künsten
 
 - [die Rettung](plan_the_fox_and_the_cat.md): das Vorhaben der Katze, sich durch den unverzüglichen Einsatz ihres einzigen, perfekt beherrschten Kniffs vor den Hunden in Sicherheit zu bringen.
 
+**Pitches**
+
+- [die Verdammnis](pitch_doom.md)
+
 ## Triggers
 
 **[Plot 1: Die Begegnung](plot_01_encounter.md)**

@@ -74,6 +74,10 @@ Der jüngste Sohn befreit die verzauberte Königstochter durch die im Feuerei ve
 
 - [die Erlösung](plan_the_crystal_ball.md): das Vorhaben des jüngsten Sohnes, die verzauberte Königstochter durch die Eroberung der Kristallkugel aus dem Feuerei zu befreien und den Zauberer zu entmachten.
 
+**Pitches**
+
+- [das Staunen](pitch_wondrous.md)
+
 ## Triggers
 
 **[Plot 1: Die Verwünschung und die Flucht](plot_01_curse.md)**

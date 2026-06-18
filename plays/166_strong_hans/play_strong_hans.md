@@ -73,6 +73,10 @@ Der bärenstarke Hans befreit seine Mutter, bezwingt den Zwerg und rettet die K�
 
 - [die Errettung](plan_strong_hans.md): das Vorhaben des Hans, die gefangene Königstochter aus der Tiefe zu befreien und sie trotz des Verrats der Gefährten heil zu ihren Eltern zurückzubringen.
 
+**Pitches**
+
+- [die Heldenkraft](pitch_heroic.md)
+
 ## Triggers
 
 **[Plot 1: Der Raub](plot_01_abduction.md)**

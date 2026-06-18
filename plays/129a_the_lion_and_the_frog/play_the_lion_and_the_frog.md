@@ -56,6 +56,10 @@ Eine Königstochter dient einem Löwen im Zaubergarten und erlöst ihn und einen
 - [die Mückenpastete](piece_mosquito_pie.md)
 - [das Schwert](piece_sword.md)
 
+**Pitches**
+
+- [das Grauen](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Die Suche im Wald](plot_01_search_and_cave.md)**

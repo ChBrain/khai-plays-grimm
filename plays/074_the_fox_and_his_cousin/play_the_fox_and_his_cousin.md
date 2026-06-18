@@ -61,6 +61,10 @@ Eine Wölfin macht den Fuchs zum Gevatter; er verleitet sie zum Schafdiebstahl u
 
 - [die Ausbeutung](plan_the_fox_and_his_cousin.md): das Vorhaben des Fuchses, die Leichtgläubigkeit der Wölfin unter dem Deckmantel der Gevatterschaft für das eigene Wohlergehen auszunutzen.
 
+**Pitches**
+
+- [der Ekel](pitch_abject.md)
+
 ## Triggers
 
 **[Plot 1: Die Gevatterschaft](plot_01_godparenthood.md)**

@@ -53,6 +53,10 @@ Die jüngste Königstochter verspricht einem Frosch für klares Wasser ihre Lieb
 
 - [das Glas Wasser](piece_water_glass.md)
 
+**Pitches**
+
+- [die Liebe](pitch_tenderness.md)
+
 ## Triggers
 
 **[Plot 1: Der trübe Brunnen](plot_01_muddy_well.md)**

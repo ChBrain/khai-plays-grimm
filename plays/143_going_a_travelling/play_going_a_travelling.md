@@ -59,6 +59,10 @@ Ein einfältiger Sohn wandert aus und wird überall geprügelt, weil er gelernte
 - [das geliehene Wort](piece_borrowed_word.md)
 - [die Peitsche](piece_whip.md)
 
+**Pitches**
+
+- [die Prügelposse](pitch_comic.md)
+
 **Plans**
 
 - [die Lehre](plan_going_a_travelling.md): das Vorhaben der Mutter, dem Sohn das rechte Wort für jede Begegnung mitzugeben, damit er heil durch die Welt komme.

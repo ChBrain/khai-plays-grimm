@@ -65,6 +65,10 @@ Ein abgedankter Soldat dient dem Teufel sieben Jahre, gewinnt Gold und am Ende e
 
 - [der Aushalteplan](plan_devils_sooty_brother.md): das Vorhaben des Soldaten, die sieben Jahre Höllendienst getreu auszuhalten, um Lohn, Gold und ein fürstliches Glück zu gewinnen.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Der Handel im Walde](plot_01_bargain.md)**

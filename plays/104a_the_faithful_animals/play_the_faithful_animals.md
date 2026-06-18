@@ -57,6 +57,10 @@ Ein Mann rettet Maus, Affe und Bär vor Qualen, woraufhin die treuen Tiere sein 
 - [der Wunderstein](piece_magic_stone.md)
 - [der Kasten](piece_chest.md)
 
+**Pitches**
+
+- [die Stille](pitch_still.md)
+
 ## Triggers
 
 **[Plot 1: Die Rettung der Tiere](plot_01_rescue.md)**

@@ -53,6 +53,10 @@ Eine faule Maid verwirft ihre Werg-Reste, doch die fleißige Magd verspinnt sie 
 - [die Schlickerlinge](piece_scraps.md)
 - [das Kleid](piece_gown.md)
 
+**Pitches**
+
+- [die Schadenfreude](pitch_comic.md)
+
 **Plans**
 
 - [die Aufwertung](plan_odds_and_ends.md): das Vorhaben der Magd, die verworfenen Werg-Reste zu sammeln, fein zu verspinnen und daraus ein hübsches Kleid fertigen zu lassen.

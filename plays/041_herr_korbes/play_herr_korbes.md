@@ -63,6 +63,10 @@ Ein Hähnchen und ein Hühnchen reisen mit einer bunten Gesellschaft zum Haus de
 
 - [der Hinterhalt im Korbes-Haus](plan_ambush-korbes.md): das Vorhaben von Hähnchen und Hühnchen, eine Truppe zu sammeln, sich im leeren Haus einzunisten und den bösen Herr Korbes aus dem Hinterhalt niederzustrecken.
 
+**Pitches**
+
+- [der Schwank](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Die Abfahrt](plot_01_departure.md)**

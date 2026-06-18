@@ -64,6 +64,10 @@ Ein Schmied ahmt das göttliche Verjüngungswunder plump nach und richtet nur Un
 
 - [die Nachahmung](plan_old_man_made_young.md): das Vorhaben des Schmieds, das gesehene Verjüngungswunder eigenhändig an seiner alten Schwiegermutter zu wiederholen.
 
+**Pitches**
+
+- [das Schaudern vor dem Leib](pitch_abject.md)
+
 ## Triggers
 
 **[Plot 1: Die Einkehr](plot_01_lodging.md)**

@@ -63,6 +63,10 @@ Ein bekehrter Räuber erzählt der Königin zwei abenteuerliche Geschichten, um 
 - [de afbeten Finger](piece_severed_finger.md)
 - [de Dooden](piece_dead_thief.md)
 
+**Pitches**
+
+- [das Heldische](pitch_heroic.md)
+
 ## Triggers
 
 **[Plot 1: Die Söhne und der Pferdediebstahl](plot_01_theft_and_capture.md)**

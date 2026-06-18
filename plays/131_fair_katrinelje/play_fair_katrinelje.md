@@ -68,6 +68,10 @@ Ein Besenbinder holt nacheinander das Einverständnis aller Familienmitglieder, 
 - [die Brautwerbung des Pif Paf Poltrie](plan_courtship.md): das Vorhaben des Freiers, von jedem Mitglied der Familie die Einwilligung zu erhalten, um Katrinelje zu gewinnen.
 - [die Mitgift- und Berufsbestimmung](plan_union.md): das Vorhaben der Braut, ihre Mitgift zu zählen und das Handwerk des Bräutigams zu erfragen, um die Ehe zu schließen.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Vaters Einwilligung](plot_01_father_consent.md)**

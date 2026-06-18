@@ -72,6 +72,10 @@ Ein verzaubertes Königskind harrt als Rabe der Erlösung durch einen treuen Man
 
 - [die Erlösung](plan_the_raven.md): das Vorhaben des Mannes, die verzauberte Rabe durch Treue, Ausdauer und das Erringen der Zaubergaben aus ihrem Bann zu befreien.
 
+**Pitches**
+
+- [die Beharrlichkeit](pitch_tenderness.md)
+
 ## Triggers
 
 **[Plot 1: Die Verwünschung](plot_01_curse.md)**

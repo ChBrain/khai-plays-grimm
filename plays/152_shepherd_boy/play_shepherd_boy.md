@@ -51,6 +51,10 @@ Ein Hirtenjunge beantwortet die drei unmöglichen Fragen des Königs mit kluger 
 - [das Punkteblatt](piece_paper.md)
 - [der Diamantberg](piece_mountain.md)
 
+**Pitches**
+
+- [das Staunen](pitch_wonder.md)
+
 **Plans**
 
 - [die kluge Antwort](plan_shepherd_boy.md): das Vorhaben des Hirtenjungen, jede der drei Fragen des Königs mit einem schlagfertigen, unwiderlegbaren Gleichnis zu beantworten und so im Palast als Kind aufgenommen zu werden.

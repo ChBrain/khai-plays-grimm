@@ -58,6 +58,10 @@ Drei verzauberte Blumen gleichen sich völlig, doch der Tau verrät die eine, di
 
 - [die Erlösung](plan_a_riddling_tale.md): das Vorhaben der Jungfrau, ihrem Ehemann das untrügliche Zeichen zu nennen, an dem er sie unter den gleichen Blumen erkennt und pflückt.
 
+**Pitches**
+
+- [das Wunder](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Die Verzauberung](plot_01_enchantment.md)**

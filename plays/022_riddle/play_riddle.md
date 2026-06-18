@@ -65,6 +65,10 @@ Ein Königssohn zieht mit seinem treuen Diener in die Welt und verirrt sich in e
 - [die Rätselfalle des Prinzen](plan_riddle-snare.md): das Vorhaben des Königssohns, ein unlösbares Rätsel zu stellen und die Späherinnen der Prinzessin bei der Tat zu fangen.
 - [die Aushorchung der Prinzessin](plan_princess-espionage.md): das Vorhaben der Rätselprinzessin, dem schlafenden Freier das Rätselwort durch nächtliche Mägde zu stehlen.
 
+**Pitches**
+
+- [das Heldische](pitch_heroic.md)
+
 ## Triggers
 
 **[Plot 1: Die Warnung im Wald](plot_01_witch-warning.md)**

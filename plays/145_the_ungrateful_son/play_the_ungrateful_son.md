@@ -58,6 +58,10 @@ Ein Mann versteckt das Brathuhn vor dem alten Vater und trägt zur Strafe ewig d
 
 - [die Verheimlichung](plan_the_ungrateful_son.md): das Vorhaben des Sohnes, das Brathuhn vor dem nahenden Vater zu verbergen, um es nicht teilen zu müssen.
 
+**Pitches**
+
+- [der Ekel](pitch_abject.md)
+
 ## Triggers
 
 **[Plot 1: Das Verstecken des Huhns](plot_01_hiding.md)**

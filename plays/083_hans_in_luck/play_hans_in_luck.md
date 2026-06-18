@@ -63,6 +63,10 @@ Hans vertauscht heiter ein Gut nach dem anderen, bis er befreit und glücklich h
 
 - [die Heimkehr](plan_hans_in_luck.md): das Vorhaben des Hans, jede schwere Last nach und nach gegen eine leichtere einzutauschen, bis er unbeschwert bei seiner Mutter ankommt.
 
+**Pitches**
+
+- [die Leichtigkeit](pitch_stillness.md)
+
 ## Triggers
 
 **[Plot 1: Der Lohn](plot_01_payment.md)**

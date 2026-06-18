@@ -58,6 +58,10 @@ Ein Prinz entführt eine Prinzessin mit künstlichen Flügeln, entkommt dem Sche
 - [der schwimmende Tisch](piece_table.md)
 - [die künstlichen Flügel](piece_wings.md)
 
+**Pitches**
+
+- [die Kühnheit](pitch_heroism.md)
+
 ## Triggers
 
 **[Plot 1: Der Meisterstück-Wettbewerb](plot_01_contest.md)**

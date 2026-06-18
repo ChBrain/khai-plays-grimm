@@ -65,6 +65,10 @@ Ein armer Bauer wird durch ein gekauftes Schild und glückliche Zufälle zum gef
 
 - [die Allwissenheit](plan_doctor_knowall.md): das Vorhaben des Krebses, sich durch das gekaufte Ansehen eines Doktors und das geschickte Ausnutzen jedes Zufalls zum gefeierten Wundermann emporzuschwindeln.
 
+**Pitches**
+
+- [der Glücksfall](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Der Handel um die Doktorei](plot_01_handel.md)**

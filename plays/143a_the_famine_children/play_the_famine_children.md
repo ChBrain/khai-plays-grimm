@@ -53,6 +53,10 @@ Eine hungrige Mutter droht ihre Töchter zu töten, doch diese legen sich schlaf
 - [de twei Stückcken Broot](piece_bread_two.md)
 - [dat Bedde](piece_bed.md)
 
+**Pitches**
+
+- [das Grauen](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Der erste Laib Brot](plot_01_oldest_daughter_bread.md)**

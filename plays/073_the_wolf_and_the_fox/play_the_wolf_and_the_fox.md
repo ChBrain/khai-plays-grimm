@@ -62,6 +62,10 @@ Ein gieriger Wolf zwingt einen Fuchs zur Arbeit, bis dieser ihn im Keller des Ba
 
 - [die Befreiung](plan_the_wolf_and_the_fox.md): das Vorhaben des Fuchses, sich durch wiederholte Diebstähle und das Ausnutzen der wolfischen Gier aus der tyrannischen Knechtschaft zu befreien.
 
+**Pitches**
+
+- [das Verhängnis](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Die erzwungene Knechtschaft](plot_01_servitude.md)**

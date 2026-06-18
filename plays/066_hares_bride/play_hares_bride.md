@@ -61,6 +61,10 @@ Ein Mädchen folgt einem Hasen in seine Hütte und entflieht der erzwungenen Hoc
 
 - [die Heimkehr](plan_hares_bride.md): das Vorhaben des Mädchens, der unerwünschten Hasenhochzeit zu entfliehen, indem sie eine Strohpuppe als Täuschung zurücklässt.
 
+**Pitches**
+
+- [die Schnurrposse](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Der Kohldiebstahl](plot_01_theft.md)**

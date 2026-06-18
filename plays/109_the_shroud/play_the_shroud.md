@@ -58,6 +58,10 @@ Eine Mutter weint um ihr totes Kind, bis dessen nächtliche Bitte sie in stille 
 
 - [die Tröstung](plan_the_shroud.md): das stille Vorhaben des Kindes, die Mutter durch zwei nächtliche Bitten von ihrem Weinen zu erlösen und in geduldige Ergebung zu führen.
 
+**Pitches**
+
+- [die Trauer](pitch_grief.md)
+
 ## Triggers
 
 **[Plot 1: Der Tod des Kindes](plot_01_death.md)**

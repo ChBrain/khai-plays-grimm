@@ -60,6 +60,10 @@ Ein kleiner Unfall beim Bierbrauen stürzt Hausrat und Natur in tiefe Trauer und
 - [Misthäufchen](piece_dung_heap.md)
 - [Bäumchen](piece_tree.md)
 
+**Pitches**
+
+- [die Trauer](pitch_grief.md)
+
 ## Triggers
 
 **[Plot 1: Der Unfall](plot_01_brewing_accident.md)**

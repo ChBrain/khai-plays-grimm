@@ -58,6 +58,10 @@ Kinder ahmen das Schlachten einer Sau im Spiel nach, was zu einer folgenschweren
 - [das Messer](piece_knife.md)
 - [Apfel und Gulden](piece_apple_gold.md)
 
+**Pitches**
+
+- [das Grauen](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Beobachtung des Schlachtens](plot_01_observation.md)**

@@ -57,6 +57,10 @@ Ein listiger Bauer überlistet den Teufel zweimal um die Ernte und gewinnt den S
 
 - [die Überlistung](plan_peasant_and_the_devil.md): das Vorhaben des Bauern, durch die geschickte Wahl der Saat den Teufel um beide Hälften der Ernte zu bringen und den Schatz für sich allein zu gewinnen.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Der Handel an den Kohlen](plot_01_bargain.md)**

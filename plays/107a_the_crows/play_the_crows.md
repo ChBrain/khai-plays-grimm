@@ -59,6 +59,10 @@ Ein blinder, am Galgen ausgesetzter Soldat belauscht drei Krähen, heilt die Kö
 - [die Krötenasche](piece_toad_ashes.md)
 - [der viereckige Stein](piece_square_stone.md)
 
+**Pitches**
+
+- [der Zorn](pitch_furious.md)
+
 ## Triggers
 
 **[Plot 1: Der Verrat im Feld](plot_01_betrayal.md)**

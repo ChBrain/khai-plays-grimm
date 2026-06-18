@@ -71,6 +71,10 @@ Ein halb verwunschener Sohn erzwingt durch ein gehaltenes Wort seine Erlösung u
 
 - [die Erlösung des Hans](plan_hans_the_hedgehog.md): das Vorhaben des Hans, sich durch das eingeforderte Wort eines Königs ein Königreich zu sichern und seine Igelhaut zu verbrennen.
 
+**Pitches**
+
+- [der Zorn](pitch_furious.md)
+
 ## Triggers
 
 **[Plot 1: Die Geburt](plot_01_birth.md)**

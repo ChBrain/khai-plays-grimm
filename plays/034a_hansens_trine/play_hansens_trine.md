@@ -57,6 +57,10 @@ Die faule Trine zweifelt wegen eines gekürzten Rocks an ihrer Identität und ve
 
 - [der Identitätsverlust](plan_alienation.md): Trines Versuch, ihre eigene Identität durch äußere Bestätigung der Hausgenossen zu überprüfen, was durch ein Missverständnis zu ihrer Selbstabschaffung führt.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Trines Trägheit](plot_01_laziness.md)**

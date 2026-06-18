@@ -58,6 +58,10 @@ Ein fremdes Kind schenkt dem armen Mädchen eine Rose und holt es heim, als sie 
 
 - [die Heimholung](plan_the_rose.md): das Vorhaben des fremden Kindes, das Mädchen mit dem Aufblühen der Rose sanft heimzuholen.
 
+**Pitches**
+
+- [die Stille](pitch_still.md)
+
 ## Triggers
 
 **[Plot 1: Der Gang ins Holz](plot_01_gathering.md)**

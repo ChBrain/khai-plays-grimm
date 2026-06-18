@@ -57,6 +57,10 @@ Ein armer Junge findet einen goldenen Schlüssel, gräbt ein Kästchen aus und d
 
 - [die Suche nach dem Schloss](plan_the_golden_key.md): das Vorhaben des Jungen, vom gefundenen Schlüssel bis zum verborgenen Schloss zu gelangen.
 
+**Pitches**
+
+- [das Wunderbare](pitch_wondrous.md)
+
 ## Triggers
 
 **[Plot 1: Der Fund des Schlüssels](plot_01_find_key.md)**

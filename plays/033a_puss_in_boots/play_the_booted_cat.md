@@ -66,6 +66,10 @@ Ein trickreicher Kater verhilft seinem armen Herrn durch Stiefel, Sack und List 
 
 - [die Erhebung](plan_enrichment.md): das Vorhaben des Katers, durch Stiefel, Wildgeschenke und eine inszenierte Rettung seinen Herrn in den Stand eines reichen Grafen zu erheben und mit der Königstochter zu vermählen.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Die Erbteilung](plot_01_inheritance.md)**

@@ -59,6 +59,10 @@ Ein Herr versucht vergeblich, eine Birne durch unfolgsame Helfer vom Baum zu sch
 - [das Fürli](piece_fire.md)
 - [das Wässerli](piece_water.md)
 
+**Pitches**
+
+- [die Posse](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Die Weigerung von Jockli und Hund](plot_01_refusal.md)**

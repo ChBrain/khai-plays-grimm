@@ -59,6 +59,10 @@ Ein listiger Schneider gelangt durch Betrug und Täuschung zu großem Reichtum u
 - [das Gold](piece_gold.md)
 - [die Schafe](piece_sheep.md)
 
+**Pitches**
+
+- [die Gerissenheit](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Die Drossel im Bauernhaus](plot_01_parsonage.md)**

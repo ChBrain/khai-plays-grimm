@@ -60,6 +60,10 @@ Ein Mäuschen, ein Vögelchen und eine Bratwurst leben in einer glücklichen Hau
 - [Gemüseeintopf](piece_cabbage.md)
 - [Ofenasche](piece_ashes.md)
 
+**Pitches**
+
+- [das Grauen](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Das gute Bündnis](plot_01_happy-alliance.md)**

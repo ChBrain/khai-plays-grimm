@@ -75,6 +75,10 @@ Ein Königssohn befreit den wilden Eisenhans, der ihm hilft, unerkannt als Gärt
 - [die Initiation des Königssohns](plan_initiation.md): das Vorhaben von Eisenhans, den geflohenen Prinzen im Wald an seinem Goldbrunnen zu erproben und ihn nach seinem Misserfolg zur Reifung in die Welt zu senden.
 - [der Aufstieg des Gärtners](plan_triumph.md): das Vorhaben des Prinzen, durch demütige Arbeit, heimliche Hilfe von Eisenhans im Krieg und bei Turnieren das Herz der Prinzessin und das Reich zu gewinnen.
 
+**Pitches**
+
+- [die Bewaehrung](pitch_heroic.md)
+
 ## Triggers
 
 **[Plot 1: Der wilde Mann im Wald](plot_01_capture.md)**

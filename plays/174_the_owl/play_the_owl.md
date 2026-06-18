@@ -60,6 +60,10 @@ Eine ganze Stadt fürchtet eine harmlose Eule und brennt die eigene Scheune nied
 
 - [die Brandstiftung](plan_the_owl.md): das Vorhaben des Bürgermeisters, die Scheune an allen vier Ecken anzuzünden, um die vermeintliche Bestie ohne weiteren Verlust an tapferen Männern zu vernichten.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Die verirrte Eule](plot_01_stray.md)**

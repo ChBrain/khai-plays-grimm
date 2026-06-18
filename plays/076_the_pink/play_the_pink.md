@@ -68,6 +68,10 @@ Ein wünschender Königssohn entlarvt den falschen Koch, errettet seine Mutter u
 
 - [die Verbergung](plan_the_pink.md): das Vorhaben des Kochs, den geraubten Knaben im verborgenen Zauberschloss aufzuziehen und durch immer neue Lügen vor Entdeckung zu schützen.
 
+**Pitches**
+
+- [die Innigkeit](pitch_tenderness.md)
+
 ## Triggers
 
 **[Plot 1: Das Gebet im Garten](plot_01_prayer.md)**

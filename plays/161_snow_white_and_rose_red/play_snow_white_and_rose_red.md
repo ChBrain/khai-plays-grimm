@@ -72,6 +72,10 @@ Zwei gütige Schwestern beherbergen einen Bären und erlösen ihn vom Fluch des 
 
 - [die Vergeltung](plan_snow_white_and_rose_red.md): das Vorhaben des Bären, den raubenden Zwerg aufzuspüren, ihn mit einem Schlag zu strafen und so den Fluch zu brechen, der ihn ins Bärenfell zwang.
 
+**Pitches**
+
+- [die Innigkeit](pitch_tender.md)
+
 ## Triggers
 
 **[Plot 1: Die Witwe und ihre Töchter](plot_01_widow.md)**

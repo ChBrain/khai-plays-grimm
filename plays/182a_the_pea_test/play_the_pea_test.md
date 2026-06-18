@@ -53,6 +53,10 @@ Eine Prinzessin beweist ihre Herkunft, indem sie die unter Matratzen versteckten
 - [de drei Erbsen](piece_peas.md)
 - [de Matratzen un Plustern](piece_mattresses.md)
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Die Ankunft und der Antrag](plot_01_arrival_and_proposal.md)**

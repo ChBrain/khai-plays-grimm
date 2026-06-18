@@ -60,6 +60,10 @@ Ein alter Hirt erklärt, wie zwei unmäßige Hirten ihre Herden verloren und zu 
 
 - [das Maßhalten](plan_bittern_and_hoopoe.md): das Vorhaben des Hirten, seine Herde nur auf mittlerem Boden zu weiden, um sie weder wild noch schwach werden zu lassen.
 
+**Pitches**
+
+- [die Stille](pitch_still.md)
+
 ## Triggers
 
 **[Plot 1: Die Frage](plot_01_question.md)**

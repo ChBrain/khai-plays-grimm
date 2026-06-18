@@ -58,6 +58,10 @@ Der Tod sendet seine Boten voraus, ehe er den sorglosen Menschen am Ende holt.
 
 - [die Vorwarnung](plan_deaths_messengers.md): das Vorhaben des Todes, dem Jüngling vor dem Ende viele Boten zu senden, statt ihn unangekündigt zu holen.
 
+**Pitches**
+
+- [das Grauen](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Der Sturz des Todes](plot_01_overthrow.md)**

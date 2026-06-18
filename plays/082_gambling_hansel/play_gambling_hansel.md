@@ -66,6 +66,10 @@ Ein unverbesserlicher Spieler verspielt selbst die Wünsche des Herrn und zerspl
 
 - [das große Spiel](plan_gambling_hansel.md): das Vorhaben des Spielhansl, mit den unbesiegbaren Karten und Würfeln die halbe Welt und zuletzt den Himmel selbst zu erspielen.
 
+**Pitches**
+
+- [die Ruhelosigkeit](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Der ruinierte Spieler](plot_01_ruin.md)**

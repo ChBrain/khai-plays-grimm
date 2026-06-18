@@ -61,6 +61,10 @@ Eine verlassene Braut verkleidet sich mit elf Gefährtinnen als Jäger und gewin
 
 - [die Wiedervereinigung](plan_twelve_huntsmen.md): das Vorhaben der verlassenen Braut, das eheliche Versprechen zurückzugewinnen, indem sie sich mit elf Mädchen tarnt und die Prüfungen des Hofes besteht.
 
+**Pitches**
+
+- [die Beständigkeit](pitch_tender.md)
+
 ## Triggers
 
 **[Plot 1: Das Sterbebett-Versprechen](plot_01_oath.md)**

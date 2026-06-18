@@ -55,6 +55,10 @@ Ein prahlender Schneider verängstigt einen Riesen so sehr, dass dieser ihn durc
 
 - [die Loswerdung](plan_giant_and_the_tailor.md): das Vorhaben des Riesen, den unheimlichen Schneider durch eine listige Mutprobe an der gebogenen Weidenrute ein für allemal loszuwerden.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Die Anstellung](plot_01_hire.md)**

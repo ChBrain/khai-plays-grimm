@@ -57,6 +57,10 @@ Eine junge Frau bricht das Verbot ihres Mannes Blaubart und wird im letzten Mome
 - [das Heu](piece_hay.md)
 - [das Schwert](piece_sword.md)
 
+**Pitches**
+
+- [die Beklemmung](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Die Heirat und das Verbot](plot_01_prohibition.md)**

@@ -55,6 +55,10 @@ Ein Fuhrmann gibt der Mutter Gottes Wein aus einem Blümchen, und sein Wagen ist
 
 - [der Handel um den Wein](plan_our_ladys_little_glass.md): das Vorhaben der Mutter Gottes, den festgefahrenen Wagen gegen einen Schluck Wein wieder flott zu machen.
 
+**Pitches**
+
+- [das Wunderbare](pitch_das_wunderbare.md)
+
 ## Triggers
 
 **[Plot 1: Der festgefahrene Wagen](plot_01_stuck.md)**

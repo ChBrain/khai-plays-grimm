@@ -72,6 +72,10 @@ Ein verkaufter Sohn wird König, wird verraten und erkämpft sich sein Reich mit
 
 - [die Rückeroberung](plan_king_golden_mountain.md): das Vorhaben des Sohnes, sich mit den drei erlisteten Wundergaben den verlorenen goldenen Berg und sein Reich zurückzuerobern.
 
+**Pitches**
+
+- [der Zorn](pitch_fury.md)
+
 ## Triggers
 
 **[Plot 1: Der Handel des Kaufmanns](plot_01_bargain.md)**

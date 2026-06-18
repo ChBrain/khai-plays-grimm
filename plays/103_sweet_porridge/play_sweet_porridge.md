@@ -59,6 +59,10 @@ Ein Zaubertöpfchen sättigt die Armut, doch das vergessene Haltewort lässt es 
 
 - [die Sättigung](plan_sweet_porridge.md): das Vorhaben des Mädchens, mit dem geschenkten Töpfchen und seinen zwei Befehlen den Hunger zu vertreiben und ihn zugleich sicher zu bändigen.
 
+**Pitches**
+
+- [das Wunderbare](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Das Geschenk im Wald](plot_01_gift.md)**

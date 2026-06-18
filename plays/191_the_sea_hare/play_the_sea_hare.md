@@ -66,6 +66,10 @@ Der jüngste Bruder verbirgt sich mit Hilfe dankbarer Tiere vor der allsehenden 
 
 - [die Verbergung](plan_the_sea_hare.md): das Vorhaben des jüngsten Bruders, sich mit Hilfe der drei dankbaren Tiere dreimal vor der allsehenden Prinzessin zu verbergen und so die Probe zu bestehen.
 
+**Pitches**
+
+- [das Wunderbare](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Die Probe der Prinzessin](plot_01_challenge.md)**

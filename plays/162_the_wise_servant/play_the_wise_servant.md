@@ -51,6 +51,10 @@ Ein Knecht sucht statt der verlorenen Kuh drei Amseln und nennt das klug.
 - [die verlorene Kuh](piece_cow.md)
 - [die drei Amseln](piece_blackbirds.md)
 
+**Pitches**
+
+- [die Narrheit](pitch_comic.md)
+
 **Plans**
 
 - [der Eigensinn](plan_the_wise_servant.md): das Vorhaben des Knechts, sich nicht um seinen Herrn und dessen Auftrag zu kümmern, sondern dem nachzulaufen, was ihm gerade in den Kopf kommt.

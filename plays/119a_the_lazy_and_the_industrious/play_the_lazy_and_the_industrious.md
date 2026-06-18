@@ -55,6 +55,10 @@ Zwei Gesellen finden verzauberte Raben; der fleißige wird durch Liebe erlöst, 
 - [der Mantel](piece_cloak.md)
 - [Wasser und Gewürm](piece_water_and_worms.md)
 
+**Pitches**
+
+- [die Trauer](pitch_grief.md)
+
 ## Triggers
 
 **[Plot 1: Die Trennung in der großen Stadt](plot_01_separation.md)**

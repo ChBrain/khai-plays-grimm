@@ -59,6 +59,10 @@ Zwei Geschwister fallen in den Brunnen, werden von der Wassernixe geknechtet und
 
 - [die Sonntagsflucht](plan_the_water_nixie.md): das Vorhaben der Kinder, die kirchliche Abwesenheit der Wassernixe abzuwarten und mit drei Zauberdingen den Verfolgungsweg zu versperren.
 
+**Pitches**
+
+- [die Bedrängnis](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Der Sturz in den Brunnen](plot_01_fall.md)**
