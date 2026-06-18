@@ -64,6 +64,10 @@ Ein neugieriger Diener isst heimlich von der verdeckten Speise des Königs, eine
 
 - [der Gewinn der Königstochter](plan_bridal-trials.md): das Vorhaben des Dieners, die stolze Prinzessin durch das Bestehen ihrer tödlichen Brautproben mit der Dankbarkeit der verschonten Tiere zu gewinnen.
 
+**Pitches**
+
+- [das Wunder](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Das Schlangengeheimnis](plot_01_white-snake-secret.md)**

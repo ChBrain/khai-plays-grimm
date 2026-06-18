@@ -65,6 +65,11 @@ Ein frommes, fleißiges Mädchen verliert seine leibliche Mutter und wird von de
 - [der Gnadenbund am Grab](plan_grave-covenant.md): Aschenputtels Vorhaben, das Recht durch Treue zur toten Mutter und die ausgleichende Natur zu erstreiten.
 - [der Aschen-Zwang](plan_ash-usurpation.md): das Vorhaben der Stiefmutter, das eigene Blut durch Stand, Betrug und Verstümmelung auf den Thron zu heben.
 
+**Pitches**
+
+- [die Trauer](pitch_grief.md)
+- [das Grausen](pitch_abject.md)
+
 ## Triggers
 
 **[Plot 1: Das Grab und der Haselreis](plot_01_grave-and-hazel.md)**

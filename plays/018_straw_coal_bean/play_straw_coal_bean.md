@@ -60,6 +60,10 @@ In einer Küche entkommen ein Strohhalm, eine glühende Kohle und eine Bohne dem
 - [Nähnadel](piece_needle.md)
 - [Herdfeuer](piece_hearth.md)
 
+**Pitches**
+
+- [der Schwank](pitch_schwank.md)
+
 ## Triggers
 
 **[Plot 1: Das Entkommen aus der Küche](plot_01_kitchen-escape.md)**

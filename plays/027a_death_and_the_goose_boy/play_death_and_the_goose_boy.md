@@ -54,6 +54,10 @@ Ein genügsamer Gänsehirte folgt dem Tod ins Jenseits, während ein Geizhals f�
 - [Hunde und Katzen](piece_animals.md)
 - [die Krone](piece_crown.md)
 
+**Pitches**
+
+- [die Stille](pitch_stillness.md)
+
 ## Triggers
 
 **[Plot 1: Die Begegnung am Ufer](plot_01_encounter.md)**

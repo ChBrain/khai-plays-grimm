@@ -64,6 +64,10 @@ Vier alte Tiere entfliehen dem Tod und verjagen mit einem lauten Schreckkonzert 
 
 - [das Schreckkonzert](plan_fright-concert.md): das Vorhaben der vier Tiere, sich am Räuberhaus übereinanderzutürmen und mit einem Ausbruch von Gebrüll, Gebell, Miauen und Krähen die Räuber zu verjagen und das Haus als Heim zu nehmen.
 
+**Pitches**
+
+- [das Komische](pitch_comic.md)
+
 ## Triggers
 
 **[Plot 1: Das Bündnis](plot_01_escape.md)**

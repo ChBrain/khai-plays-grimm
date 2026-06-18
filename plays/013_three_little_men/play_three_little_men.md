@@ -64,6 +64,10 @@ Eine neidische Stiefmutter jagt ihre schöne Stieftochter im eisigen Winter in e
 
 - [die Verdrängung der Stieftochter](plan_stepmother-supplanting.md): das Vorhaben der Stiefmutter, die schöne Stieftochter im Papierkleid erfrieren zu lassen, die Königin später zu ertränken und die eigene Tochter ins königliche Bett zu schieben.
 
+**Pitches**
+
+- [das Wunderbare](pitch_wonder.md)
+
 ## Triggers
 
 **[Plot 1: Die Vertreibung im Papierkleid](plot_01_winter-exile.md)**

@@ -65,6 +65,10 @@ Ein prophezeites Glückskind entgeht den Anschlägen eines Königs und holt drei
 - [die Anschläge des Königs](plan_kings-murders.md): das Vorhaben des Königs, das prophezeite Glückskind durch Fluss, Todesbrief und Höllenfahrt zu beseitigen.
 - [die Höllenfahrt des Glückskinds](plan_child-quest.md): das Vorhaben des Glückskinds, mit Teufels Großmutter die drei Haare und Antworten aus der Hölle zu holen.
 
+**Pitches**
+
+- [das Heldische](pitch_heroic.md)
+
 ## Triggers
 
 **[Plot 1: Glückshaut](plot_01_prophecy-escape.md)**

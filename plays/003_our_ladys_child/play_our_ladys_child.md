@@ -58,6 +58,11 @@ Die Jungfrau Maria nimmt ein hungerndes Holzhackerkind auf und bestraft später 
 - [Schlüssel](piece_keys.md)
 - [Scheiterhaufen](piece_pyre.md)
 
+**Pitches**
+
+- [die Trauer](pitch_grief.md)
+- [das Grauen](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Die abgewendete Armut](plot_01_adverted-poverty.md)**

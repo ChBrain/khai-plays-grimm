@@ -52,6 +52,10 @@ Zwei einäugige Tiere teilen ihr Haus, bis ein geliehenes Auge zum Wortbruch und
 - [die zwei Augen](piece_eyes.md)
 - [die Eier der Nachtigall](piece_nightingale-eggs.md)
 
+**Pitches**
+
+- [der Zorn](pitch_fury.md)
+
 ## Triggers
 
 **[Plot 1: Das einäugige Bündnis](plot_01_one-eyed-pact.md)**

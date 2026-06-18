@@ -66,6 +66,10 @@ Ein böser Wolf frisst sieben Geißlein, doch die Mutter rettet sie und ertränk
 - [der Trug des Wolfes](plan_wolf-disguise.md): das Vorhaben des Wolfes, Stimme und Pfote zu fälschen, sich Einlass zu erschleichen und die Geißlein zu verschlingen.
 - [die Rettung der Mutter](plan_mother-rescue.md): das Vorhaben der Mutter Geiß, die Kinder aus dem schlafenden Wolf zu schneiden, ihn mit Steinen zu füllen und am Brunnen zu ertränken.
 
+**Pitches**
+
+- [das Grauen](pitch_dread.md)
+
 ## Triggers
 
 **[Plot 1: Die Warnung der Mutter](plot_01_mothers-warning.md)**

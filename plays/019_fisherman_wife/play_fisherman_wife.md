@@ -64,6 +64,10 @@ Ein armer Fischer fängt einen sprechenden Butt, der sich als verwandelter Prinz
 
 - [die Leiter der maßlosen Wünsche](plan_wish-ladder.md): das Vorhaben Ilsebills, den Butt durch ihren willfährigen Mann Stufe um Stufe zu immer höheren Wünschen zu treiben, vom Häuschen bis zur Göttlichkeit.
 
+**Pitches**
+
+- [der Zorn](pitch_fury.md)
+
 ## Triggers
 
 **[Plot 1: Die Freilassung des Butts](plot_01_flounder-release.md)**
