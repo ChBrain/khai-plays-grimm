@@ -37,6 +37,6 @@ nothing in `plays/`; it is the record of intent.
 ## Open targets
 
 - [x] KHM season sealed at 255 and released
-- [ ] Authoritative _Deutsche Sagen_ roster and count confirmed against a citable edition
-- [ ] Id-space / numbering for the legends decided so the KHM scheme is undisturbed
-- [ ] First legend staged on the Choregos' word
+- [x] Authoritative _Deutsche Sagen_ roster and count confirmed against a citable edition
+- [x] Id-space / numbering for the legends decided so the KHM scheme is undisturbed
+- [x] First legend staged on the Choregos' word
