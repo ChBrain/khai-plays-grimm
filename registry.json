@@ -5,1531 +5,1531 @@
   "plays": [
     {
       "kind": "play",
-      "id": "001_the_frog_king",
+      "id": "khm_001_the_frog_king",
       "title": "The Frog King",
       "description": "The youngest princess loses her dearest plaything, the golden ball, down a deep well."
     },
     {
       "kind": "play",
-      "id": "002_cat_and_mouse",
+      "id": "khm_002_cat_and_mouse",
       "title": "Cat and Mouse in Partnership",
       "description": "A cat and a mouse set up house together as partners."
     },
     {
       "kind": "play",
-      "id": "003_our_ladys_child",
+      "id": "khm_003_our_ladys_child",
       "title": "Our Lady's Child",
       "description": "The Virgin Mary takes in a woodcutter's starving child and later punishes her secret disobedience."
     },
     {
       "kind": "play",
-      "id": "004_youth_learning_fear",
+      "id": "khm_004_youth_learning_fear",
       "title": "The Story of the Youth Who Went Forth to Learn What Fear Was",
       "description": "A fearless boy sets out into the world to learn what shuddering and fear even mean."
     },
     {
       "kind": "play",
-      "id": "005_wolf_and_seven_kids",
+      "id": "khm_005_wolf_and_seven_kids",
       "title": "The Wolf and the Seven Young Kids",
       "description": "A wicked wolf devours seven kids, but the mother saves them and drowns the wolf in the well."
     },
     {
       "kind": "play",
-      "id": "006_faithful_johannes",
+      "id": "khm_006_faithful_johannes",
       "title": "Faithful John",
       "description": "A dying king entrusts faithful Johannes with the care of his young son."
     },
     {
       "kind": "play",
-      "id": "006a_nightingale_and_blindworm",
+      "id": "khm_006a_nightingale_and_blindworm",
       "title": "The Nightingale and the Blindworm",
       "description": "Two one-eyed creatures share a house until a borrowed eye breeds betrayal and lasting enmity."
     },
     {
       "kind": "play",
-      "id": "007_the_good_bargain",
+      "id": "khm_007_the_good_bargain",
       "title": "The Good Bargain",
       "description": "A poor farmer drives his cow to market and sells her for a seemingly worthless promise."
     },
     {
       "kind": "play",
-      "id": "008_wonderful_musician",
+      "id": "khm_008_wonderful_musician",
       "title": "The Strange Musician",
       "description": "A lonely fiddler wanders the forest, luring the animals with his violin."
     },
     {
       "kind": "play",
-      "id": "008a_hand_with_the_knife",
+      "id": "khm_008a_hand_with_the_knife",
       "title": "The Hand with the Knife",
       "description": "A slighted girl gets a magic knife from an elf, until her brothers hack off the helper's arm."
     },
     {
       "kind": "play",
-      "id": "009_the_twelve_brothers",
+      "id": "khm_009_the_twelve_brothers",
       "title": "The Twelve Brothers",
       "description": "A king resolves to kill his twelve sons if a daughter is born."
     },
     {
       "kind": "play",
-      "id": "010_pack_of_ragamuffins",
+      "id": "khm_010_pack_of_ragamuffins",
       "title": "The Pack of Ragamuffins",
       "description": "A proud cock and hen go travelling and cheat their innkeeper."
     },
     {
       "kind": "play",
-      "id": "011_brother_and_sister",
+      "id": "khm_011_brother_and_sister",
       "title": "Brother and Sister",
       "description": "A little brother and sister flee their wicked stepmother."
     },
     {
       "kind": "play",
-      "id": "012_rapunzel",
+      "id": "khm_012_rapunzel",
       "title": "Rapunzel",
       "description": "A man steals rampion for his pregnant wife from a dreaded sorceress's garden."
     },
     {
       "kind": "play",
-      "id": "013_three_little_men",
+      "id": "khm_013_three_little_men",
       "title": "The Three Little Men in the Wood",
       "description": "An envious stepmother drives her lovely stepdaughter into the winter woods in a paper dress."
     },
     {
       "kind": "play",
-      "id": "014_three_spinners",
+      "id": "khm_014_three_spinners",
       "title": "The Three Spinners",
       "description": "Three strange spinners help a lazy girl master the queen's impossible spinning task."
     },
     {
       "kind": "play",
-      "id": "015_hansel_and_gretel",
+      "id": "khm_015_hansel_and_gretel",
       "title": "Hansel and Gretel",
       "description": "Two children abandoned in the forest outwit a wicked witch and return home rich to their father."
     },
     {
       "kind": "play",
-      "id": "016_three_snake_leaves",
+      "id": "khm_016_three_snake_leaves",
       "title": "The Three Snake-Leaves",
       "description": "A poor youth goes to war, wins through bravery, and gains the princess as his wife."
     },
     {
       "kind": "play",
-      "id": "016a_herr_fix_und_fertig",
+      "id": "khm_016a_herr_fix_und_fertig",
       "title": "Mr Fix and Ready",
       "description": "A cunning servant wins his king the princess with grateful animals and rises to first minister."
     },
     {
       "kind": "play",
-      "id": "017_the_white_snake",
+      "id": "khm_017_the_white_snake",
       "title": "The White Snake",
       "description": "A curious servant secretly tastes the king's covered dish, a white snake."
     },
     {
       "kind": "play",
-      "id": "018_straw_coal_bean",
+      "id": "khm_018_straw_coal_bean",
       "title": "Straw, Coal, and Bean",
       "description": "In a kitchen a straw, a coal, and a bean escape death by fire."
     },
     {
       "kind": "play",
-      "id": "019_fisherman_wife",
+      "id": "khm_019_fisherman_wife",
       "title": "The Fisherman and His Wife",
       "description": "A poor fisherman catches a talking flounder that reveals itself as an enchanted prince."
     },
     {
       "kind": "play",
-      "id": "020_brave_tailor",
+      "id": "khm_020_brave_tailor",
       "title": "The Brave Little Tailor",
       "description": "A little tailor swats seven flies on his jam bread and sets out into the world."
     },
     {
       "kind": "play",
-      "id": "021_cinderella",
+      "id": "khm_021_cinderella",
       "title": "Cinderella",
       "description": "A pious, hardworking girl loses her own mother and is tormented by her stepmother."
     },
     {
       "kind": "play",
-      "id": "022_riddle",
+      "id": "khm_022_riddle",
       "title": "The Riddle",
       "description": "A prince and his faithful servant set out into the world and lose their way in a dark forest."
     },
     {
       "kind": "play",
-      "id": "022a_how_children_played_at_slaughtering",
+      "id": "khm_022a_how_children_played_at_slaughtering",
       "title": "How Children Played at Slaughtering",
       "description": "Children playing at slaughtering a sow set off an inquiry with grave consequences."
     },
     {
       "kind": "play",
-      "id": "023_mouse_bird_sausage",
+      "id": "khm_023_mouse_bird_sausage",
       "title": "The Mouse, the Bird, and the Sausage",
       "description": "A mouse, a bird, and a sausage live together in a happy little household."
     },
     {
       "kind": "play",
-      "id": "024_frau_holle",
+      "id": "khm_024_frau_holle",
       "title": "Mother Holle",
       "description": "A widow favours her lazy own daughter and forces her hardworking stepdaughter to toil."
     },
     {
       "kind": "play",
-      "id": "025_seven_ravens",
+      "id": "khm_025_seven_ravens",
       "title": "The Seven Ravens",
       "description": "An angry father curses his seven sons into ravens, and their sister sets out to find them."
     },
     {
       "kind": "play",
-      "id": "026_little_red_cap",
+      "id": "khm_026_little_red_cap",
       "title": "Little Red Cap",
       "description": "A wolf tricks Little Red Cap and swallows her and her grandmother, until a huntsman saves them."
     },
     {
       "kind": "play",
-      "id": "027_bremen_musicians",
+      "id": "khm_027_bremen_musicians",
       "title": "The Town Musicians of Bremen",
       "description": "Four old animals flee death and scare robbers from a forest house with one loud concert."
     },
     {
       "kind": "play",
-      "id": "027a_death_and_the_goose_boy",
+      "id": "khm_027a_death_and_the_goose_boy",
       "title": "Death and the Goose Boy",
       "description": "A contented goose-boy follows Death to the next world while a miser is punished for his greed."
     },
     {
       "kind": "play",
-      "id": "028_singing_bone",
+      "id": "khm_028_singing_bone",
       "title": "The Singing Bone",
       "description": "A man kills his brother for the boar-hunt's glory and is exposed years later by a singing bone."
     },
     {
       "kind": "play",
-      "id": "029_devil_golden_hairs",
+      "id": "khm_029_devil_golden_hairs",
       "title": "The Devil with the Three Golden Hairs",
       "description": "A child of fortune escapes a king's plots and fetches three golden hairs from the Devil himself."
     },
     {
       "kind": "play",
-      "id": "030_louse_and_flea",
+      "id": "khm_030_louse_and_flea",
       "title": "The Louse and the Flea",
       "description": "A small brewing mishap plunges house and nature into grief and ends in a flood."
     },
     {
       "kind": "play",
-      "id": "031_the_girl_without_hands",
+      "id": "khm_031_the_girl_without_hands",
       "title": "The Girl Without Hands",
       "description": "A maimed girl flees the Devil and is saved and healed by God's grace and a faithful king."
     },
     {
       "kind": "play",
-      "id": "032_clever_hans",
+      "id": "khm_032_clever_hans",
       "title": "Clever Hans",
       "description": "Hans takes his mother's advice literally and ruins his own courtship of his bride Gretel."
     },
     {
       "kind": "play",
-      "id": "033_three_languages",
+      "id": "khm_033_three_languages",
       "title": "The Three Languages",
       "description": "A cast-out son learns the animals' speech, finds a treasure, and rises by providence to pope."
     },
     {
       "kind": "play",
-      "id": "033a_puss_in_boots",
+      "id": "khm_033a_puss_in_boots",
       "title": "Puss in Boots",
       "description": "A crafty cat wins his poor master wealth, a castle, and a princess with boots, a sack, and guile."
     },
     {
       "kind": "play",
-      "id": "034_clever_elsie",
+      "id": "khm_034_clever_elsie",
       "title": "Clever Elsie",
       "description": "A supposedly clever bride loses herself in catastrophic worries and forgets who she even is."
     },
     {
       "kind": "play",
-      "id": "034a_hansens_trine",
+      "id": "khm_034a_hansens_trine",
       "title": "Hans's Trine",
       "description": "Lazy Trine, doubting who she is over a shortened skirt, leaves home never to return."
     },
     {
       "kind": "play",
-      "id": "035_tailor_in_heaven",
+      "id": "khm_035_tailor_in_heaven",
       "title": "The Tailor in Heaven",
       "description": "A tailor sneaks into Heaven, sits on God's throne, and is banished for his self-righteousness."
     },
     {
       "kind": "play",
-      "id": "036_wishing_table",
+      "id": "khm_036_wishing_table",
       "title": "The Wishing-Table",
       "description": "Three brothers gain magic gifts, are robbed by an innkeeper, and win them back with a cudgel."
     },
     {
       "kind": "play",
-      "id": "037_thumbling",
+      "id": "khm_037_thumbling",
       "title": "Thumbling",
       "description": "A tiny boy helps his father, escapes kidnappers and thieves, and is freed from a wolf's belly."
     },
     {
       "kind": "play",
-      "id": "037a_table_napkin_knapsack_cannon_hat_and_horn",
+      "id": "khm_037a_table_napkin_knapsack_cannon_hat_and_horn",
       "title": "The Table Napkin, the Knapsack, the Cannon Hat, and the Horn",
       "description": "Three sons gain magic devices, rout enemy armies, and rescue their needy mother."
     },
     {
       "kind": "play",
-      "id": "038_wedding_mrs_fox",
+      "id": "khm_038_wedding_mrs_fox",
       "title": "The Wedding of Mrs. Fox",
       "description": "Mr Fox feigns death to test his wife, who turns away every suitor but a nine-tailed one."
     },
     {
       "kind": "play",
-      "id": "039_the_elves",
+      "id": "khm_039_the_elves",
       "title": "The Elves",
       "description": "Two naked elves secretly make shoes for a poor cobbler until he gifts them clothes."
     },
     {
       "kind": "play",
-      "id": "040_the_robber_bridegroom",
+      "id": "khm_040_the_robber_bridegroom",
       "title": "The Robber Bridegroom",
       "description": "A miller's daughter visits her sinister groom's forest house and unmasks him as a murderer."
     },
     {
       "kind": "play",
-      "id": "041_herr_korbes",
+      "id": "khm_041_herr_korbes",
       "title": "Herr Korbes",
       "description": "A cock and hen travel with an odd company to wicked Herr Korbes's house and punish him."
     },
     {
       "kind": "play",
-      "id": "042_herr_gevatter",
+      "id": "khm_042_herr_gevatter",
       "title": "The Godfather",
       "description": "A poor father seeks a godfather, grows famous through a magic water, and meets the Devil."
     },
     {
       "kind": "play",
-      "id": "043_frau_trude",
+      "id": "khm_043_frau_trude",
       "title": "Mother Trudy",
       "description": "A girl ignores her parents' warning, visits the eerie Frau Trude, and is burned by her."
     },
     {
       "kind": "play",
-      "id": "043a_die_wunderliche_gasterei",
+      "id": "khm_043a_die_wunderliche_gasterei",
       "title": "The Strange Feast",
       "description": "A blood sausage lures the liver sausage into a deadly trap she just escapes through a warning."
     },
     {
       "kind": "play",
-      "id": "044_gevatter_tod",
+      "id": "khm_044_gevatter_tod",
       "title": "Godfather Death",
       "description": "Death makes a poor boy a famous doctor, then punishes his betrayal with his own life-candle."
     },
     {
       "kind": "play",
-      "id": "045_daumerlings_wanderschaft",
+      "id": "khm_045_daumerlings_wanderschaft",
       "title": "Thumbling's Travels",
       "description": "The thumb-sized tailor's son roams the world, aids robbers, outwits guards, and escapes a wolf."
     },
     {
       "kind": "play",
-      "id": "046_fitchers_vogel",
+      "id": "khm_046_fitchers_vogel",
       "title": "Fitcher's Bird",
       "description": "A sorcerer abducts sisters but is outwitted by the cleverest, who escapes disguised as a bird."
     },
     {
       "kind": "play",
-      "id": "047_the_juniper_tree",
+      "id": "khm_047_the_juniper_tree",
       "title": "The Juniper Tree",
       "description": "A wicked stepmother kills her little stepson, who rises as a fair bird and takes just revenge."
     },
     {
       "kind": "play",
-      "id": "048_old_sultan",
+      "id": "khm_048_old_sultan",
       "title": "Old Sultan",
       "description": "An old dog, marked for death as useless, makes a pact with the wolf and proves his loyalty."
     },
     {
       "kind": "play",
-      "id": "049_the_six_swans",
+      "id": "khm_049_the_six_swans",
       "title": "The Six Swans",
       "description": "A sister sews six shirts in silence to free her brothers from their swan enchantment."
     },
     {
       "kind": "play",
-      "id": "050_briar_rose",
+      "id": "khm_050_briar_rose",
       "title": "Briar Rose",
       "description": "A princess falls into a hundred-year sleep from a spindle, until a prince wakes her."
     },
     {
       "kind": "play",
-      "id": "051_fundevogel",
+      "id": "khm_051_fundevogel",
       "title": "Foundling-Bird",
       "description": "Two foster children flee a wicked cook by transforming again and again as they run."
     },
     {
       "kind": "play",
-      "id": "052_king_thrushbeard",
+      "id": "khm_052_king_thrushbeard",
       "title": "King Thrushbeard",
       "description": "A haughty princess mocks every suitor, is married off to a minstrel as punishment, and humbled."
     },
     {
       "kind": "play",
-      "id": "053_snow_white",
+      "id": "khm_053_snow_white",
       "title": "Little Snow-White",
       "description": "A fair princess flees her wicked stepmother to seven dwarfs and is rescued."
     },
     {
       "kind": "play",
-      "id": "054_knapsack_hat_horn",
+      "id": "khm_054_knapsack_hat_horn",
       "title": "The Knapsack, the Hat, and the Horn",
       "description": "A poor brother trades a wishing-cloth for magic weapons, beats the king, and crushes the betrayal."
     },
     {
       "kind": "play",
-      "id": "054a_hans_dumm",
+      "id": "khm_054a_hans_dumm",
       "title": "Foolish Hans",
       "description": "A lad thought simple is chosen as father by a lemon, wishes his fortune up, and becomes king."
     },
     {
       "kind": "play",
-      "id": "055_rumpelstiltskin",
+      "id": "khm_055_rumpelstiltskin",
       "title": "Rumpelstiltskin",
       "description": "A miller's daughter must spin straw into gold, promises her child, and saves it by guessing his name."
     },
     {
       "kind": "play",
-      "id": "056_sweetheart_roland",
+      "id": "khm_056_sweetheart_roland",
       "title": "Sweetheart Roland",
       "description": "A girl flees the witch with Roland, survives his forgetting, and wins him back through her singing."
     },
     {
       "kind": "play",
-      "id": "057_golden_bird",
+      "id": "khm_057_golden_bird",
       "title": "The Golden Bird",
       "description": "A prince seeks the golden bird, wins horse and bride with a fox's help, and redeems his helper."
     },
     {
       "kind": "play",
-      "id": "058_dog_sparrow",
+      "id": "khm_058_dog_sparrow",
       "title": "The Dog and the Sparrow",
       "description": "A dog runs off and allies with a faithful sparrow, who avenges his death on a cruel carter."
     },
     {
       "kind": "play",
-      "id": "059_frederick_catherine",
+      "id": "khm_059_frederick_catherine",
       "title": "Frederick and Catherine",
       "description": "A couple suffers absurd mishaps through the wife's folly before scaring thieves from a tree."
     },
     {
       "kind": "play",
-      "id": "059a_prince_swan",
+      "id": "khm_059a_prince_swan",
       "title": "Prince Swan",
       "description": "A girl follows an enchanted swan, wins golden gifts of heaven, and frees her love on the glass mountain."
     },
     {
       "kind": "play",
-      "id": "060_two_brothers",
+      "id": "khm_060_two_brothers",
       "title": "The Two Brothers",
       "description": "Twins gain wealth from a gold bird, brave dragons and witches, and keep faith with each other."
     },
     {
       "kind": "play",
-      "id": "060a_das_goldei",
+      "id": "khm_060a_das_goldei",
       "title": "The Golden Egg",
       "description": "Poor broom-maker's children find a bird whose golden heart and liver raise them to crown and wealth."
     },
     {
       "kind": "play",
-      "id": "061_little_peasant",
+      "id": "khm_061_little_peasant",
       "title": "The Little Peasant",
       "description": "A poor peasant outwits rich neighbours, prospers through lies, and lures them to their ruin."
     },
     {
       "kind": "play",
-      "id": "061a_tailor_who_became_rich_quickly",
+      "id": "khm_061a_tailor_who_became_rich_quickly",
       "title": "The Tailor Who Became Rich Quickly",
       "description": "A cunning tailor grows hugely rich through fraud and brings the whole village under his thumb."
     },
     {
       "kind": "play",
-      "id": "062_queen_bee",
+      "id": "khm_062_queen_bee",
       "title": "The Queen Bee",
       "description": "Simpleton shields weak animals from his cruel brothers and, with their help, frees a petrified castle."
     },
     {
       "kind": "play",
-      "id": "062a_bluebeard",
+      "id": "khm_062a_bluebeard",
       "title": "Bluebeard",
       "description": "A young wife breaks her husband Bluebeard's ban and is saved by her brothers at the last moment."
     },
     {
       "kind": "play",
-      "id": "063_the_three_feathers",
+      "id": "khm_063_the_three_feathers",
       "title": "The Three Feathers",
       "description": "A king blows three feathers to the wind; Simpleton wins the throne through an underground toad's gifts."
     },
     {
       "kind": "play",
-      "id": "064_the_golden_goose",
+      "id": "khm_064_the_golden_goose",
       "title": "The Golden Goose",
       "description": "A king offers his daughter to whoever makes her laugh; Simpleton does it with a golden goose."
     },
     {
       "kind": "play",
-      "id": "064a_white_dove",
+      "id": "khm_064a_white_dove",
       "title": "The White Dove",
       "description": "An underrated prince follows a fruit-stealing dove and frees a little man and a princess."
     },
     {
       "kind": "play",
-      "id": "065_allerleirauh",
+      "id": "khm_065_allerleirauh",
       "title": "Allerleirauh",
       "description": "A princess flees disguised in a fur cloak and is known to the king by three golden trinkets."
     },
     {
       "kind": "play",
-      "id": "066_hares_bride",
+      "id": "khm_066_hares_bride",
       "title": "The Hare's Bride",
       "description": "A girl follows a hare to his hut and escapes the forced wedding by leaving a straw decoy."
     },
     {
       "kind": "play",
-      "id": "066a_hurleburlebutz",
+      "id": "khm_066a_hurleburlebutz",
       "title": "Hurleburlebutz",
       "description": "A lost king promises his youngest daughter to a wood-imp who exposes the true bride by a test."
     },
     {
       "kind": "play",
-      "id": "067_twelve_huntsmen",
+      "id": "khm_067_twelve_huntsmen",
       "title": "The Twelve Huntsmen",
       "description": "A jilted bride and eleven companions disguise as huntsmen and win the king back by guile."
     },
     {
       "kind": "play",
-      "id": "068_thief_and_master",
+      "id": "khm_068_thief_and_master",
       "title": "The Thief and His Master",
       "description": "A father learns thieving for his son, who beats the master in a duel of magical transformations."
     },
     {
       "kind": "play",
-      "id": "068a_summer_and_winter_garden",
+      "id": "khm_068a_summer_and_winter_garden",
       "title": "The Summer and Winter Garden",
       "description": "A merchant promises his youngest daughter to a beast for a rose from a summer-and-winter garden."
     },
     {
       "kind": "play",
-      "id": "069_jorinda_and_joringel",
+      "id": "khm_069_jorinda_and_joringel",
       "title": "Jorinda and Joringel",
       "description": "Two lovers fall under a sorceress's spell until Joringel frees his bride with a magic flower."
     },
     {
       "kind": "play",
-      "id": "070_three_sons_of_fortune",
+      "id": "khm_070_three_sons_of_fortune",
       "title": "The Three Sons of Fortune",
       "description": "A father leaves his three sons a cock, a scythe, and a cat, with which they make their fortunes."
     },
     {
       "kind": "play",
-      "id": "070a_okerlo",
+      "id": "khm_070a_okerlo",
       "title": "The Okerlo",
       "description": "A princess raised on an ogre's island flees with a prince through magical transformations."
     },
     {
       "kind": "play",
-      "id": "071_how_six_travelled_through_the_world",
+      "id": "khm_071_how_six_travelled_through_the_world",
       "title": "How Six Travelled through the World",
       "description": "A discharged soldier and five gifted companions set out to wrest the king's unjust fortune."
     },
     {
       "kind": "play",
-      "id": "071a_princess_mouseskin",
+      "id": "khm_071a_princess_mouseskin",
       "title": "Princess Mouseskin",
       "description": "A cast-out princess serves unknown in a mouseskin gown until a ring reveals her at table."
     },
     {
       "kind": "play",
-      "id": "072_the_wolf_and_the_man",
+      "id": "khm_072_the_wolf_and_the_man",
       "title": "The Wolf and the Man",
       "description": "A boastful wolf picks a fight with a man and is painfully taught better by a huntsman."
     },
     {
       "kind": "play",
-      "id": "072a_pear_wont_fall",
+      "id": "khm_072a_pear_wont_fall",
       "title": "The Pear Won't Fall",
       "description": "A master tries in vain to shake a pear down through disobedient helpers, until the knacker is called."
     },
     {
       "kind": "play",
-      "id": "073_the_wolf_and_the_fox",
+      "id": "khm_073_the_wolf_and_the_fox",
       "title": "The Wolf and the Fox",
       "description": "A greedy wolf forces a fox to serve him until the fox lures him into a trap in the farmer's cellar."
     },
     {
       "kind": "play",
-      "id": "073a_murder_castle",
+      "id": "khm_073a_murder_castle",
       "title": "The Murder Castle",
       "description": "A cobbler's daughter follows a rich lord to his castle, uncovers his murders, and escapes in a hay cart."
     },
     {
       "kind": "play",
-      "id": "074_the_fox_and_his_cousin",
+      "id": "khm_074_the_fox_and_his_cousin",
       "title": "The Fox and His Cousin",
       "description": "A she-wolf makes the fox her gossip; he tempts her to steal sheep and lets her carry him home."
     },
     {
       "kind": "play",
-      "id": "074a_johannes_and_caspar_water_spring",
+      "id": "khm_074a_johannes_and_caspar_water_spring",
       "title": "Johannes-Wassersprung and Caspar-Wassersprung",
       "description": "Two water-born brothers set out with animals, slay a dragon, and free each other from a witch."
     },
     {
       "kind": "play",
-      "id": "075_the_fox_and_the_cat",
+      "id": "khm_075_the_fox_and_the_cat",
       "title": "The Fox and the Cat",
       "description": "A haughty fox boasts to a cat of his hundred tricks but fails hopelessly against the hounds."
     },
     {
       "kind": "play",
-      "id": "075a_the_phoenix",
+      "id": "khm_075a_the_phoenix",
       "title": "The Phoenix",
       "description": "A youth found by the river escapes a steward's plots and fetches three feathers from the phoenix."
     },
     {
       "kind": "play",
-      "id": "076_the_pink",
+      "id": "khm_076_the_pink",
       "title": "The Pink",
       "description": "A prince with the gift of wishing exposes a false cook, saves his mother, and wins the maiden."
     },
     {
       "kind": "play",
-      "id": "077_clever_gretel",
+      "id": "khm_077_clever_gretel",
       "title": "Clever Gretel",
       "description": "A sly cook devours the feast and, with a quick lie, sets the guest and her master against each other."
     },
     {
       "kind": "play",
-      "id": "077a_the_carpenter_and_turner",
+      "id": "khm_077a_the_carpenter_and_turner",
       "title": "The Carpenter and Turner",
       "description": "A prince abducts a princess with artificial wings, escapes the stake, and claims his kingdom."
     },
     {
       "kind": "play",
-      "id": "078_grandfather_and_grandson",
+      "id": "khm_078_grandfather_and_grandson",
       "title": "The Old Man and His Grandson",
       "description": "A cast-out grandfather returns to the table when the child shames the parents' pride."
     },
     {
       "kind": "play",
-      "id": "079_the_water_nixie",
+      "id": "khm_079_the_water_nixie",
       "title": "The Water-Nixie",
       "description": "Two children fall down a well, are enslaved by the water-nixie, and escape by throwing magic objects."
     },
     {
       "kind": "play",
-      "id": "080_death_of_the_hen",
+      "id": "khm_080_death_of_the_hen",
       "title": "The Death of the Little Hen",
       "description": "The greedy hen chokes on a nut, and grief for her drags everyone into death."
     },
     {
       "kind": "play",
-      "id": "081_brother_lustig",
+      "id": "khm_081_brother_lustig",
       "title": "Brother Lustig",
       "description": "A merry soldier travels with Saint Peter, secretly eats the lamb's heart, and wishes himself to Heaven."
     },
     {
       "kind": "play",
-      "id": "081a_the_smith_and_the_devil",
+      "id": "khm_081a_the_smith_and_the_devil",
       "title": "The Smith and the Devil",
       "description": "A smith makes a pact with the Devil, outwits him with a sack, and nails imps to Hell's gate."
     },
     {
       "kind": "play",
-      "id": "082_gambling_hansel",
+      "id": "khm_082_gambling_hansel",
       "title": "Gambling Hansel",
       "description": "An incorrigible gambler stakes away even the Lord's gifts and is scattered at Heaven's gate."
     },
     {
       "kind": "play",
-      "id": "082a_the_three_sisters",
+      "id": "khm_082a_the_three_sisters",
       "title": "The Three Sisters",
       "description": "A prince frees his three sisters given to beast-bridegrooms and breaks their enchantment."
     },
     {
       "kind": "play",
-      "id": "083_hans_in_luck",
+      "id": "khm_083_hans_in_luck",
       "title": "Hans in Luck",
       "description": "Hans cheerfully trades away one good thing after another until he returns home free and happy."
     },
     {
       "kind": "play",
-      "id": "084_hans_married",
+      "id": "khm_084_hans_married",
       "title": "Hans Married",
       "description": "A cunning uncle swindles poor Hans a rich bride with a patched trouser and a single coin."
     },
     {
       "kind": "play",
-      "id": "084a_the_mother_in_law",
+      "id": "khm_084a_the_mother_in_law",
       "title": "The Mother-in-Law",
       "description": "A wicked mother-in-law locks her daughter-in-law and grandchildren in the cellar to devour them."
     },
     {
       "kind": "play",
-      "id": "085_the_gold_children",
+      "id": "khm_085_the_gold_children",
       "title": "The Gold-Children",
       "description": "From a divided gold fish grow two gold children whose lilies decide over life and death."
     },
     {
       "kind": "play",
-      "id": "085a_snow_flower",
+      "id": "khm_085a_snow_flower",
       "title": "Snow Flower",
       "description": "A winter-born princess seeks healing herbs for her sick mother and is made lovely by bees."
     },
     {
       "kind": "play",
-      "id": "085b_princess_with_the_louse",
+      "id": "khm_085b_princess_with_the_louse",
       "title": "The Princess with the Louse",
       "description": "A tidy princess fattens a louse calf-big, makes a gown from its hide, and riddles her suitors."
     },
     {
       "kind": "play",
-      "id": "085c_of_prince_johannes",
+      "id": "khm_085c_of_prince_johannes",
       "title": "Of Prince Johannes",
       "description": "Prince Johannes flies with an apparition to the red castle and, after trials, beholds the sun-princess."
     },
     {
       "kind": "play",
-      "id": "085d_the_good_cloth",
+      "id": "khm_085d_the_good_cloth",
       "title": "The Good Cloth",
       "description": "Two sisters own a cloth that turns all to gold, until the foolish one swaps it for a new rag."
     },
     {
       "kind": "play",
-      "id": "086_the_fox_and_the_geese",
+      "id": "khm_086_the_fox_and_the_geese",
       "title": "The Fox and the Geese",
       "description": "A fox means to eat a flock of geese, but their endless prayer saves them."
     },
     {
       "kind": "play",
-      "id": "087_poor_man_rich_man",
+      "id": "khm_087_poor_man_rich_man",
       "title": "The Poor Man and the Rich Man",
       "description": "The Lord rewards the poor man's welcome and punishes the rich man's greed with his own wishes."
     },
     {
       "kind": "play",
-      "id": "088_singing_springing_lark",
+      "id": "khm_088_singing_springing_lark",
       "title": "The Singing, Springing Lark",
       "description": "A faithful daughter follows her enchanted husband to the end of the world."
     },
     {
       "kind": "play",
-      "id": "089_the_goose_girl",
+      "id": "khm_089_the_goose_girl",
       "title": "The Goose-Girl",
       "description": "A true bride, ousted by her maid, herds geese as a goose-girl and is recognised at last."
     },
     {
       "kind": "play",
-      "id": "090_the_young_giant",
+      "id": "khm_090_the_young_giant",
       "title": "The Young Giant",
       "description": "A thumb-sized peasant's son grows into a giant's mighty man and pays every spite with his fist."
     },
     {
       "kind": "play",
-      "id": "091_the_gnome",
+      "id": "khm_091_the_gnome",
       "title": "The Gnome",
       "description": "Foolish Hans conquers the gnome and the dragons, is betrayed, and in the end wins the princess anyway."
     },
     {
       "kind": "play",
-      "id": "092_king_golden_mountain",
+      "id": "khm_092_king_golden_mountain",
       "title": "The King of the Golden Mountain",
       "description": "A son sold away becomes king, is betrayed, and wins his realm back with three tricks."
     },
     {
       "kind": "play",
-      "id": "093_the_raven",
+      "id": "khm_093_the_raven",
       "title": "The Raven",
       "description": "An enchanted princess waits as a raven for redemption by a faithful man."
     },
     {
       "kind": "play",
-      "id": "094_peasants_wise_daughter",
+      "id": "khm_094_peasants_wise_daughter",
       "title": "The Peasant's Wise Daughter",
       "description": "A clever peasant's daughter solves the king's riddles and, in the end, wins him back by wit."
     },
     {
       "kind": "play",
-      "id": "095_old_hildebrand",
+      "id": "khm_095_old_hildebrand",
       "title": "Old Hildebrand",
       "description": "A parson sends the farmer on a made-up pilgrimage, but the gossip brings him home and exposes it."
     },
     {
       "kind": "play",
-      "id": "096_three_little_birds",
+      "id": "khm_096_three_little_birds",
       "title": "The Three Little Birds",
       "description": "An imprisoned queen and her children cast into the water are saved by a prophesying bird."
     },
     {
       "kind": "play",
-      "id": "097_the_water_of_life",
+      "id": "khm_097_the_water_of_life",
       "title": "The Water of Life",
       "description": "The humble youngest prince fetches the water of life and, despite betrayal, proves the true saviour."
     },
     {
       "kind": "play",
-      "id": "098_doctor_knowall",
+      "id": "khm_098_doctor_knowall",
       "title": "Doctor Knowall",
       "description": "A poor peasant becomes the famed Doctor Knowall through a bought sign and lucky chances."
     },
     {
       "kind": "play",
-      "id": "099_spirit_in_the_bottle",
+      "id": "khm_099_spirit_in_the_bottle",
       "title": "The Spirit in the Bottle",
       "description": "A poor student's son traps a dangerous spirit in a bottle and turns its gift into his fortune."
     },
     {
       "kind": "play",
-      "id": "099a_the_frog_prince",
+      "id": "khm_099a_the_frog_prince",
       "title": "The Frog Prince",
       "description": "The youngest princess promises a frog her love for clear water and frees him after three nights."
     },
     {
       "kind": "play",
-      "id": "100_devils_sooty_brother",
+      "id": "khm_100_devils_sooty_brother",
       "title": "The Devil's Sooty Brother",
       "description": "A discharged soldier serves the Devil seven years, gains gold, and in the end a kingdom."
     },
     {
       "kind": "play",
-      "id": "101_bearskin",
+      "id": "khm_101_bearskin",
       "title": "Bearskin",
       "description": "A soldier makes a pact with the Devil, holds out seven years, and gains wealth and a faithful bride."
     },
     {
       "kind": "play",
-      "id": "102_willow_wren_and_bear",
+      "id": "khm_102_willow_wren_and_bear",
       "title": "The Willow-Wren and the Bear",
       "description": "A bear insults the young wrens, loses the animals' war, and must beg for pardon."
     },
     {
       "kind": "play",
-      "id": "103_sweet_porridge",
+      "id": "khm_103_sweet_porridge",
       "title": "Sweet Porridge",
       "description": "A magic pot feeds the poor, but a forgotten word lets it flood the whole town with porridge."
     },
     {
       "kind": "play",
-      "id": "104_wise_folks",
+      "id": "khm_104_wise_folks",
       "title": "Wise Folks",
       "description": "Hans finds two greater fools than his wife and so spares her a beating."
     },
     {
       "kind": "play",
-      "id": "104a_the_faithful_animals",
+      "id": "khm_104a_the_faithful_animals",
       "title": "The Faithful Animals",
       "description": "A man saves a mouse, ape, and bear from torment, and the grateful beasts recover his lost castle."
     },
     {
       "kind": "play",
-      "id": "105_stories_about_snakes",
+      "id": "khm_105_stories_about_snakes",
       "title": "Stories About Snakes",
       "description": "Three short scenes show how trust between human and toad breaks apart."
     },
     {
       "kind": "play",
-      "id": "106_poor_millers_boy_and_cat",
+      "id": "khm_106_poor_millers_boy_and_cat",
       "title": "The Poor Miller's Boy and the Cat",
       "description": "Simple Hans serves an enchanted cat seven years and is made rich for it."
     },
     {
       "kind": "play",
-      "id": "107_the_two_travellers",
+      "id": "khm_107_the_two_travellers",
       "title": "The Two Travellers",
       "description": "A kind tailor is blinded by a cruel cobbler, but grateful animals raise him to the king's son-in-law."
     },
     {
       "kind": "play",
-      "id": "107a_the_crows",
+      "id": "khm_107a_the_crows",
       "title": "The Crows",
       "description": "A blinded soldier left at the gallows overhears three crows, heals the princess, and punishes them."
     },
     {
       "kind": "play",
-      "id": "108_hans_the_hedgehog",
+      "id": "khm_108_hans_the_hedgehog",
       "title": "Hans the Hedgehog",
       "description": "A half-enchanted son wins his redemption and his kingdom by a promise kept."
     },
     {
       "kind": "play",
-      "id": "109_the_shroud",
+      "id": "khm_109_the_shroud",
       "title": "The Shroud",
       "description": "A mother weeps for her dead child until its night-time plea leads her to quiet acceptance."
     },
     {
       "kind": "play",
-      "id": "110_miser_in_the_thorns",
+      "id": "khm_110_miser_in_the_thorns",
       "title": "The Miser in the Thorns",
       "description": "A mild servant makes a greedy miser dance and turns his false charge at the gallows back on him."
     },
     {
       "kind": "play",
-      "id": "111_skilful_huntsman",
+      "id": "khm_111_skilful_huntsman",
       "title": "The Skilful Huntsman",
       "description": "A locksmith's son becomes a never-missing huntsman, slays three giants, and unmasks the false captain."
     },
     {
       "kind": "play",
-      "id": "112_flail_from_heaven",
+      "id": "khm_112_flail_from_heaven",
       "title": "The Flail from Heaven",
       "description": "A boastful peasant fetches a flail down from Heaven as proof of his tale."
     },
     {
       "kind": "play",
-      "id": "113_two_kings_children",
+      "id": "khm_113_two_kings_children",
       "title": "The Two Kings' Children",
       "description": "A magic-wielding princess saves the cursed prince and wins him back after his forgetting."
     },
     {
       "kind": "play",
-      "id": "114_cunning_little_tailor",
+      "id": "khm_114_cunning_little_tailor",
       "title": "The Cunning Little Tailor",
       "description": "A young tailor solves the proud princess's riddle and slyly survives the night with the bear."
     },
     {
       "kind": "play",
-      "id": "115_bright_sun",
+      "id": "khm_115_bright_sun",
       "title": "The Bright Sun Brings It to Light",
       "description": "A journeyman murders a poor wayfarer, but the sun brings the deed to light."
     },
     {
       "kind": "play",
-      "id": "116_the_blue_light",
+      "id": "khm_116_the_blue_light",
       "title": "The Blue Light",
       "description": "A cast-out soldier finds the blue light and, with its dwarf, brings the king to his knees."
     },
     {
       "kind": "play",
-      "id": "117_the_wilful_child",
+      "id": "khm_117_the_wilful_child",
       "title": "The Wilful Child",
       "description": "A wilful child finds peace in the grave only when its mother strikes its little arm back down."
     },
     {
       "kind": "play",
-      "id": "118_three_army_surgeons",
+      "id": "khm_118_three_army_surgeons",
       "title": "The Three Army-Surgeons",
       "description": "Three boastful army surgeons lose their own limbs through a night-time mix-up."
     },
     {
       "kind": "play",
-      "id": "119_seven_swabians",
+      "id": "khm_119_seven_swabians",
       "title": "The Seven Swabians",
       "description": "Seven Swabians on one spear mistake every scare for death and drown at last at a frog's croak."
     },
     {
       "kind": "play",
-      "id": "119a_the_lazy_and_the_industrious",
+      "id": "khm_119a_the_lazy_and_the_industrious",
       "title": "The Lazy and the Industrious",
       "description": "Two journeymen find enchanted ravens; the diligent one is freed by love while the lazy raven dies."
     },
     {
       "kind": "play",
-      "id": "120_three_apprentices",
+      "id": "khm_120_three_apprentices",
       "title": "The Three Apprentices",
       "description": "Three penniless apprentices make a pact with the Devil and barely escape the gallows."
     },
     {
       "kind": "play",
-      "id": "121_kings_son_feared_nothing",
+      "id": "khm_121_kings_son_feared_nothing",
       "title": "The King's Son Who Feared Nothing",
       "description": "A fearless prince endures betrayal and torture and frees an enchanted princess."
     },
     {
       "kind": "play",
-      "id": "122_donkey_cabbages",
+      "id": "khm_122_donkey_cabbages",
       "title": "Donkey Cabbages",
       "description": "A robbed huntsman turns his cheats into donkeys with magic cabbage and forces penance and peace."
     },
     {
       "kind": "play",
-      "id": "122a_the_long_nose",
+      "id": "khm_122a_the_long_nose",
       "title": "The Long Nose",
       "description": "Three soldiers lose their magic gifts to a princess and win them back with a nose-stretching charm."
     },
     {
       "kind": "play",
-      "id": "123_old_woman_in_wood",
+      "id": "khm_123_old_woman_in_wood",
       "title": "The Old Woman in the Wood",
       "description": "An orphaned girl trusts in God and frees the enchanted prince with a plain ring."
     },
     {
       "kind": "play",
-      "id": "124_three_brothers",
+      "id": "khm_124_three_brothers",
       "title": "The Three Brothers",
       "description": "Three brothers each learn a trade, vie for their father's house, and stay united until death."
     },
     {
       "kind": "play",
-      "id": "125_devil_and_grandmother",
+      "id": "khm_125_devil_and_grandmother",
       "title": "The Devil and His Grandmother",
       "description": "Three soldiers escape the Devil because the third overhears the riddle and answer in the rock house."
     },
     {
       "kind": "play",
-      "id": "126_ferdinand_faithful",
+      "id": "khm_126_ferdinand_faithful",
       "title": "Ferdinand the Faithful",
       "description": "A poor boy rises from outrider to king through loyalty and a talking horse."
     },
     {
       "kind": "play",
-      "id": "127_the_iron_stove",
+      "id": "khm_127_the_iron_stove",
       "title": "The Iron Stove",
       "description": "A princess frees a prince enchanted into an iron stove and wins him back despite a broken word."
     },
     {
       "kind": "play",
-      "id": "128_the_lazy_spinner",
+      "id": "khm_128_the_lazy_spinner",
       "title": "The Lazy Spinner",
       "description": "A work-shy wife tricks her good-natured husband, ruse after ruse, into giving up spinning for good."
     },
     {
       "kind": "play",
-      "id": "129_four_skilful_brothers",
+      "id": "khm_129_four_skilful_brothers",
       "title": "The Four Skilful Brothers",
       "description": "Four brothers each learn a craft and together rescue the stolen princess."
     },
     {
       "kind": "play",
-      "id": "129a_the_lion_and_the_frog",
+      "id": "khm_129a_the_lion_and_the_frog",
       "title": "The Lion and the Frog",
       "description": "A princess serves a lion in a magic garden and frees him and a tree-frog through obedience and courage."
     },
     {
       "kind": "play",
-      "id": "130_one_eye_two_eyes_three_eyes",
+      "id": "khm_130_one_eye_two_eyes_three_eyes",
       "title": "One-Eye, Two-Eyes, and Three-Eyes",
       "description": "A despised girl saves herself with a magic goat and a golden apple tree and finds her fortune."
     },
     {
       "kind": "play",
-      "id": "130a_the_soldier_and_the_carpenter",
+      "id": "khm_130a_the_soldier_and_the_carpenter",
       "title": "The Soldier and the Carpenter",
       "description": "A soldier and his timid comrade free a castle by killing three magic beings and a witch."
     },
     {
       "kind": "play",
-      "id": "131_fair_katrinelje",
+      "id": "khm_131_fair_katrinelje",
       "title": "Fair Katrinelje and Pif-Paf-Poltrie",
       "description": "A broom-binder gathers each family member's consent in turn to marry fair Katrinelje."
     },
     {
       "kind": "play",
-      "id": "132_the_fox_and_the_horse",
+      "id": "khm_132_the_fox_and_the_horse",
       "title": "The Fox and the Horse",
       "description": "With a sly fox's help, a cast-out horse brings a lion to the farmer and is taken back in."
     },
     {
       "kind": "play",
-      "id": "133_the_twelve_dancing_princesses",
+      "id": "khm_133_the_twelve_dancing_princesses",
       "title": "The Twelve Dancing Princesses",
       "description": "A soldier with a cloak of invisibility uncovers the secret of the princesses' danced-out shoes."
     },
     {
       "kind": "play",
-      "id": "134_the_six_servants",
+      "id": "khm_134_the_six_servants",
       "title": "The Six Servants",
       "description": "A prince wins a proud princess with the help of six servants of supernatural powers."
     },
     {
       "kind": "play",
-      "id": "135_the_white_bride_and_the_black_bride",
+      "id": "khm_135_the_white_bride_and_the_black_bride",
       "title": "The White Bride and the Black Bride",
       "description": "A wicked stepmother foists her black daughter on the king until the white bride is saved as a duck."
     },
     {
       "kind": "play",
-      "id": "136_the_wild_man_iron_hans",
+      "id": "khm_136_the_wild_man_iron_hans",
       "title": "Iron Hans",
       "description": "A prince frees wild Iron Hans, who helps him win a princess while hidden as a gardener's boy."
     },
     {
       "kind": "play",
-      "id": "136a_the_wild_man",
+      "id": "khm_136a_the_wild_man",
       "title": "The Wild Man",
       "description": "An enchanted wild man helps a banished prince win battles and inherit a kingdom."
     },
     {
       "kind": "play",
-      "id": "137_the_three_black_princesses",
+      "id": "khm_137_the_three_black_princesses",
       "title": "The Three Black Princesses",
       "description": "Three black princesses are nearly freed until the fisher's son pours boiling water on them."
     },
     {
       "kind": "play",
-      "id": "138_knoist_and_his_sons",
+      "id": "khm_138_knoist_and_his_sons",
       "title": "Knoist and His Three Sons",
       "description": "Three infirm sons set out and meet nothing but senseless impossibilities."
     },
     {
       "kind": "play",
-      "id": "139_maid_of_brakel",
+      "id": "khm_139_maid_of_brakel",
       "title": "The Maid of Brakel",
       "description": "A girl prays for a husband, mistakes the mocking sexton for the saint, and scolds the Christ-child."
     },
     {
       "kind": "play",
-      "id": "140_domestic_servants",
+      "id": "khm_140_domestic_servants",
       "title": "Domestic Servants",
       "description": "Two speakers pile up their household in call-and-response and set off together for Walpe."
     },
     {
       "kind": "play",
-      "id": "141_lambkin_and_little_fish",
+      "id": "khm_141_lambkin_and_little_fish",
       "title": "The Lambkin and the Little Fish",
       "description": "An envious witch-stepmother turns two loving siblings into animals until a wise woman frees them."
     },
     {
       "kind": "play",
-      "id": "142_simeli_mountain",
+      "id": "khm_142_simeli_mountain",
       "title": "Simeli Mountain",
       "description": "The poor brother takes only gold, but the greedy one forgets the word and loses his head."
     },
     {
       "kind": "play",
-      "id": "143_going_a_travelling",
+      "id": "khm_143_going_a_travelling",
       "title": "Going A-Travelling",
       "description": "A simple son goes travelling and is beaten everywhere for repeating learned words in the wrong place."
     },
     {
       "kind": "play",
-      "id": "143a_the_famine_children",
+      "id": "khm_143a_the_famine_children",
       "title": "The Famine Children",
       "description": "A starving mother threatens to kill her daughters, but they sleep until Judgement Day dawns."
     },
     {
       "kind": "play",
-      "id": "144_the_donkey",
+      "id": "khm_144_the_donkey",
       "title": "The Donkey",
       "description": "A prince born a donkey wins a bride with his lute and sheds his hide."
     },
     {
       "kind": "play",
-      "id": "145_the_ungrateful_son",
+      "id": "khm_145_the_ungrateful_son",
       "title": "The Ungrateful Son",
       "description": "A man hides the roast fowl from his old father and forever wears a toad on his face as punishment."
     },
     {
       "kind": "play",
-      "id": "146_the_turnip",
+      "id": "khm_146_the_turnip",
       "title": "The Turnip",
       "description": "A poor brother grows a giant turnip, is richly rewarded, and escapes his brother's envy by guile."
     },
     {
       "kind": "play",
-      "id": "147_old_man_made_young",
+      "id": "khm_147_old_man_made_young",
       "title": "The Old Man Made Young Again",
       "description": "A smith clumsily copies God's rejuvenation miracle and brings only disaster."
     },
     {
       "kind": "play",
-      "id": "148_lords_animals_and_devils",
+      "id": "khm_148_lords_animals_and_devils",
       "title": "The Lord's Animals and the Devil's",
       "description": "The Devil botches the goats, the Lord punishes them, and in the end the cheat takes its eternal toll."
     },
     {
       "kind": "play",
-      "id": "149_the_beam",
+      "id": "khm_149_the_beam",
       "title": "The Beam",
       "description": "A girl sees through the sorcerer's illusion but is herself blinded on her wedding day."
     },
     {
       "kind": "play",
-      "id": "150_old_beggar_woman",
+      "id": "khm_150_old_beggar_woman",
       "title": "The Old Beggar-Woman",
       "description": "An old beggar woman catches fire at the hearth while a boy looks on without putting it out."
     },
     {
       "kind": "play",
-      "id": "151_three_sluggards",
+      "id": "khm_151_three_sluggards",
       "title": "The Three Sluggards",
       "description": "A dying king leaves his realm to the laziest of his three sons."
     },
     {
       "kind": "play",
-      "id": "151a_twelve_idle_servants",
+      "id": "khm_151a_twelve_idle_servants",
       "title": "The Twelve Idle Servants",
       "description": "Twelve idle servants lie in the grass at evening, outboasting one another with their own sloth."
     },
     {
       "kind": "play",
-      "id": "152_shepherd_boy",
+      "id": "khm_152_shepherd_boy",
       "title": "The Shepherd Boy",
       "description": "A shepherd boy answers the king's three impossible questions with shrewd wisdom."
     },
     {
       "kind": "play",
-      "id": "152a_the_holy_saint_kummernis",
+      "id": "khm_152a_the_holy_saint_kummernis",
       "title": "The Holy Saint Kummernis",
       "description": "A pious maiden prays God for a beard, is crucified, and later saves a fiddler through a miracle."
     },
     {
       "kind": "play",
-      "id": "153_star_money",
+      "id": "khm_153_star_money",
       "title": "The Star-Money",
       "description": "A pious orphan gives away all she owns and is showered with star-coins from Heaven."
     },
     {
       "kind": "play",
-      "id": "154_stolen_farthings",
+      "id": "khm_154_stolen_farthings",
       "title": "The Stolen Farthings",
       "description": "A dead child returns home until its hidden guilt is atoned and it is laid to rest."
     },
     {
       "kind": "play",
-      "id": "155_brides_on_trial",
+      "id": "khm_155_brides_on_trial",
       "title": "Brides on Their Trial",
       "description": "A shepherd tests three equally pretty sisters by their cheese and weds the temperate one."
     },
     {
       "kind": "play",
-      "id": "156_odds_and_ends",
+      "id": "khm_156_odds_and_ends",
       "title": "Odds and Ends",
       "description": "A lazy maid throws away her flax scraps, but the diligent one spins them and wins the bridegroom."
     },
     {
       "kind": "play",
-      "id": "157_sparrow_and_four_children",
+      "id": "khm_157_sparrow_and_four_children",
       "title": "The Sparrow and His Four Children",
       "description": "An old sparrow instructs his four sons and praises the youngest's trust in God."
     },
     {
       "kind": "play",
-      "id": "158_schlauraffen_land",
+      "id": "khm_158_schlauraffen_land",
       "title": "The Story of Schlauraffen Land",
       "description": "A braggart boasts of impossible wonders until a cock closes the tall tale."
     },
     {
       "kind": "play",
-      "id": "159_ditmarsch_tale_of_wonders",
+      "id": "khm_159_ditmarsch_tale_of_wonders",
       "title": "The Ditmarsch Tale of Wonders",
       "description": "A teller strings impossibilities into one tall tale and, at the end, has the window opened."
     },
     {
       "kind": "play",
-      "id": "160_a_riddling_tale",
+      "id": "khm_160_a_riddling_tale",
       "title": "A Riddling Tale",
       "description": "Three enchanted flowers look exactly alike, but the dew betrays the one that can be freed."
     },
     {
       "kind": "play",
-      "id": "161_snow_white_and_rose_red",
+      "id": "khm_161_snow_white_and_rose_red",
       "title": "Snow-White and Rose-Red",
       "description": "Two kind sisters shelter a bear and free him from the curse of the ungrateful dwarf."
     },
     {
       "kind": "play",
-      "id": "162_the_wise_servant",
+      "id": "khm_162_the_wise_servant",
       "title": "The Wise Servant",
       "description": "Instead of the lost cow, a servant goes hunting three blackbirds and calls it wise."
     },
     {
       "kind": "play",
-      "id": "163_the_glass_coffin",
+      "id": "khm_163_the_glass_coffin",
       "title": "The Glass Coffin",
       "description": "A poor tailor's journeyman frees an enchanted maiden from the glass coffin and wins her hand."
     },
     {
       "kind": "play",
-      "id": "164_lazy_harry",
+      "id": "khm_164_lazy_harry",
       "title": "Lazy Harry",
       "description": "Out of sheer laziness Harry trades everything away until the honey-pot shatters."
     },
     {
       "kind": "play",
-      "id": "165_the_griffin",
+      "id": "khm_165_the_griffin",
       "title": "The Griffin",
       "description": "A simple but courteous peasant's son passes every royal test and wins the realm."
     },
     {
       "kind": "play",
-      "id": "166_strong_hans",
+      "id": "khm_166_strong_hans",
       "title": "Strong Hans",
       "description": "Bear-strong Hans frees his mother, masters the dwarf, and saves the princess from betrayal."
     },
     {
       "kind": "play",
-      "id": "167_peasant_in_heaven",
+      "id": "khm_167_peasant_in_heaven",
       "title": "The Peasant in Heaven",
       "description": "A poor man and a rich lord die together, but only the rare rich one is welcomed to Heaven with music."
     },
     {
       "kind": "play",
-      "id": "168_lean_lisa",
+      "id": "khm_168_lean_lisa",
       "title": "Lean Lisa",
       "description": "Lean Lisa frets over dreamed-up riches and falls out with lanky Lenz."
     },
     {
       "kind": "play",
-      "id": "169_hut_in_the_forest",
+      "id": "khm_169_hut_in_the_forest",
       "title": "The Hut in the Forest",
       "description": "An enchanted man is freed by the kindness of a daughter who first tends his animals."
     },
     {
       "kind": "play",
-      "id": "170_sharing_joy_and_sorrow",
+      "id": "khm_170_sharing_joy_and_sorrow",
       "title": "Sharing Joy and Sorrow",
       "description": "A cruel tailor twists the rule to share joy and sorrow, and gets his due reward."
     },
     {
       "kind": "play",
-      "id": "171_the_willow_wren",
+      "id": "khm_171_the_willow_wren",
       "title": "The Willow-Wren",
       "description": "A tiny bird cons his way to the title of king and is mocked for it forever."
     },
     {
       "kind": "play",
-      "id": "172_the_sole",
+      "id": "khm_172_the_sole",
       "title": "The Sole",
       "description": "Out of envy at the herring's win, the sole twists its mouth crooked forever."
     },
     {
       "kind": "play",
-      "id": "173_bittern_and_hoopoe",
+      "id": "khm_173_bittern_and_hoopoe",
       "title": "The Bittern and the Hoopoe",
       "description": "An old herdsman tells how two intemperate herders lost their flocks and became calling birds."
     },
     {
       "kind": "play",
-      "id": "174_the_owl",
+      "id": "khm_174_the_owl",
       "title": "The Owl",
       "description": "A whole town fears a harmless owl and burns its own barn to the ground."
     },
     {
       "kind": "play",
-      "id": "175_the_moon",
+      "id": "khm_175_the_moon",
       "title": "The Moon",
       "description": "Four fellows steal the moon, take it to the grave, and Saint Peter hangs it in the sky."
     },
     {
       "kind": "play",
-      "id": "175a_the_misfortune",
+      "id": "khm_175a_the_misfortune",
       "title": "The Misfortune",
       "description": "A poor man tries to flee misfortune but is chased by wolves and water and crushed by a wall."
     },
     {
       "kind": "play",
-      "id": "176_duration_of_life",
+      "id": "khm_176_duration_of_life",
       "title": "The Duration of Life",
       "description": "God parcels the animals' rejected years onto man, and so explains his seventy-year life."
     },
     {
       "kind": "play",
-      "id": "177_deaths_messengers",
+      "id": "khm_177_deaths_messengers",
       "title": "Death's Messengers",
       "description": "Death sends his messengers ahead before he takes the heedless man at last."
     },
     {
       "kind": "play",
-      "id": "178_master_pfriem",
+      "id": "khm_178_master_pfriem",
       "title": "Master Pfriem",
       "description": "A restless faultfinder scolds even Heaven's order and stays incorrigible to the end."
     },
     {
       "kind": "play",
-      "id": "179_goose_girl_at_the_well",
+      "id": "khm_179_goose_girl_at_the_well",
       "title": "The Goose-Girl at the Well",
       "description": "A cast-out princess herds geese in ugly skin until an old woman returns her to her rueful parents."
     },
     {
       "kind": "play",
-      "id": "180_eves_various_children",
+      "id": "khm_180_eves_various_children",
       "title": "Eve's Various Children",
       "description": "The Lord blesses Eve's fair and plain children unequally and so orders the ranks as limbs of one body."
     },
     {
       "kind": "play",
-      "id": "181_nix_of_the_millpond",
+      "id": "khm_181_nix_of_the_millpond",
       "title": "The Nix of the Millpond",
       "description": "A promised child sinks into the pond, but faithful love draws it back by moonlight."
     },
     {
       "kind": "play",
-      "id": "182_little_folks_presents",
+      "id": "khm_182_little_folks_presents",
       "title": "The Little Folks' Presents",
       "description": "A content tailor keeps his gold; the greedy goldsmith loses all and gains a second hump besides."
     },
     {
       "kind": "play",
-      "id": "182a_the_pea_test",
+      "id": "khm_182a_the_pea_test",
       "title": "The Pea Test",
       "description": "A princess proves her birth by feeling the peas hidden under the mattresses as she sleeps."
     },
     {
       "kind": "play",
-      "id": "183_giant_and_the_tailor",
+      "id": "khm_183_giant_and_the_tailor",
       "title": "The Giant and the Tailor",
       "description": "A boastful tailor so frightens a giant that the giant flings him into the air by a trick."
     },
     {
       "kind": "play",
-      "id": "184_the_nail",
+      "id": "khm_184_the_nail",
       "title": "The Nail",
       "description": "A hurried merchant ignores a missing nail and so loses his horse and his time."
     },
     {
       "kind": "play",
-      "id": "185_poor_boy_in_the_grave",
+      "id": "khm_185_poor_boy_in_the_grave",
       "title": "The Poor Boy in the Grave",
       "description": "An abused orphan seeks death in what he takes for poison and dies in an open grave."
     },
     {
       "kind": "play",
-      "id": "186_the_true_sweethearts",
+      "id": "khm_186_the_true_sweethearts",
       "title": "The True Sweethearts",
       "description": "A faithful maiden loses her beloved to forgetting and wins him back through three dances."
     },
     {
       "kind": "play",
-      "id": "187_hare_and_the_hedgehog",
+      "id": "khm_187_hare_and_the_hedgehog",
       "title": "The Hare and the Hedgehog",
       "description": "A mocked hedgehog outwits the haughty hare with his look-alike wife and wins the wager."
     },
     {
       "kind": "play",
-      "id": "188_spindle_shuttle_needle",
+      "id": "khm_188_spindle_shuttle_needle",
       "title": "The Spindle, the Shuttle, and the Needle",
       "description": "A poor, diligent orphan wins the prince as husband through her godmother's three magic gifts."
     },
     {
       "kind": "play",
-      "id": "189_peasant_and_the_devil",
+      "id": "khm_189_peasant_and_the_devil",
       "title": "The Peasant and the Devil",
       "description": "A cunning peasant outwits the Devil twice over the harvest and wins the treasure."
     },
     {
       "kind": "play",
-      "id": "190_crumbs_on_the_table",
+      "id": "khm_190_crumbs_on_the_table",
       "title": "The Crumbs on the Table",
       "description": "A peasant tempts his little dogs to nibble and laughs at the beating they get."
     },
     {
       "kind": "play",
-      "id": "191_the_sea_hare",
+      "id": "khm_191_the_sea_hare",
       "title": "The Sea-Hare",
       "description": "The youngest brother hides from the all-seeing princess with grateful animals' help and wins her."
     },
     {
       "kind": "play",
-      "id": "191a_the_robber_and_his_sons",
+      "id": "khm_191a_the_robber_and_his_sons",
       "title": "The Robber and His Sons",
       "description": "A reformed robber tells the queen two daring tales to save the lives of his three sons."
     },
     {
       "kind": "play",
-      "id": "192_the_master_thief",
+      "id": "khm_192_the_master_thief",
       "title": "The Master-Thief",
       "description": "A lost son returns home a master thief and passes the count's three impossible thieving tests."
     },
     {
       "kind": "play",
-      "id": "193_the_drummer",
+      "id": "khm_193_the_drummer",
       "title": "The Drummer",
       "description": "A young drummer frees an enchanted princess from the glass mountain and wins her back after forgetting."
     },
     {
       "kind": "play",
-      "id": "194_the_ear_of_corn",
+      "id": "khm_194_the_ear_of_corn",
       "title": "The Ear of Corn",
       "description": "Ungrateful sacrilege against the blessed grain brings a judgement softened only for the innocent."
     },
     {
       "kind": "play",
-      "id": "195_the_grave_mound",
+      "id": "khm_195_the_grave_mound",
       "title": "The Grave-Mound",
       "description": "A fearless soldier outwits the Devil with a bottomless boot and saves the miser's soul."
     },
     {
       "kind": "play",
-      "id": "196_old_rinkrank",
+      "id": "khm_196_old_rinkrank",
       "title": "Old Rinkrank",
       "description": "A captive princess catches old Rinkrank by his beard and escapes down his magic ladder."
     },
     {
       "kind": "play",
-      "id": "197_the_crystal_ball",
+      "id": "khm_197_the_crystal_ball",
       "title": "The Crystal Ball",
       "description": "The youngest son frees the enchanted princess with the crystal ball hidden in a fiery egg."
     },
     {
       "kind": "play",
-      "id": "198_maid_maleen",
+      "id": "khm_198_maid_maleen",
       "title": "Maid Maleen",
       "description": "Walled in and impoverished, Maleen wins her prince through constancy and unmasks the false bride."
     },
     {
       "kind": "play",
-      "id": "199_boots_of_buffalo_leather",
+      "id": "khm_199_boots_of_buffalo_leather",
       "title": "The Boots of Buffalo-Leather",
       "description": "A fearless soldier captures twelve robbers and is rewarded by the disguised king."
     },
     {
       "kind": "play",
-      "id": "200_the_golden_key",
+      "id": "khm_200_the_golden_key",
       "title": "The Golden Key",
       "description": "A poor boy finds a golden key, digs up a little box, and turns it, but the lid stays shut."
     },
     {
       "kind": "play",
-      "id": "201_st_joseph_in_the_forest",
+      "id": "khm_201_st_joseph_in_the_forest",
       "title": "St. Joseph in the Forest",
       "description": "Saint Joseph tests three daughters in the forest, but only the most pious is richly rewarded."
     },
     {
       "kind": "play",
-      "id": "202_the_twelve_apostles",
+      "id": "khm_202_the_twelve_apostles",
       "title": "The Twelve Apostles",
       "description": "A poor mother prays for twelve sons, who sleep three hundred years and wake as the apostles."
     },
     {
       "kind": "play",
-      "id": "203_the_rose",
+      "id": "khm_203_the_rose",
       "title": "The Rose",
       "description": "A strange child gives a poor girl a rose and takes her home when it blooms."
     },
     {
       "kind": "play",
-      "id": "204_poverty_and_humility",
+      "id": "khm_204_poverty_and_humility",
       "title": "Poverty and Humility Lead to Heaven",
       "description": "A prince chooses poverty and humility and, through seven years of begging, finds the way to Heaven."
     },
     {
       "kind": "play",
-      "id": "205_gods_food",
+      "id": "khm_205_gods_food",
       "title": "God's Food",
       "description": "A poor widow is turned away by her rich sister, and her children starve."
     },
     {
       "kind": "play",
-      "id": "206_the_three_green_twigs",
+      "id": "khm_206_the_three_green_twigs",
       "title": "The Three Green Twigs",
       "description": "A pious hermit condemns a sinner, atones with a withered branch, and dies as three green twigs sprout."
     },
     {
       "kind": "play",
-      "id": "207_our_ladys_little_glass",
+      "id": "khm_207_our_ladys_little_glass",
       "title": "Our Lady's Little Glass",
       "description": "A carter gives the Mother of God wine from a little flower, and his cart is freed."
     },
     {
       "kind": "play",
-      "id": "208_the_aged_mother",
+      "id": "khm_208_the_aged_mother",
       "title": "The Aged Mother",
       "description": "A lonely widow sees in the church of the dead the spared fate of her sons and dies consoled."
     },
     {
       "kind": "play",
-      "id": "209_the_heavenly_wedding",
+      "id": "khm_209_the_heavenly_wedding",
       "title": "The Heavenly Wedding",
       "description": "A poor boy walks always straight ahead, takes the church for Heaven, and dies to the heavenly wedding."
     },
     {
       "kind": "play",
-      "id": "210_the_hazel_branch",
+      "id": "khm_210_the_hazel_branch",
       "title": "The Hazel-Branch",
       "description": "Mary flees a snake behind a hazel bush and blesses it ever after as a shield against all vermin."
     }

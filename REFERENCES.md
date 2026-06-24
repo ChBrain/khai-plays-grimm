@@ -20,9 +20,9 @@ The scope of this house covers the entire canonical collection:
 
 The current status of the Grimm productions within this house:
 
-- `[x]` **001_the_frog_king** (Classic Tale) — Staged
-- `[x]` **049_the_six_swans** (Classic Tale) — Staged
-- `[ ]` **002_cat_and_mouse** (Classic Tale) — Planned
+- `[x]` **khm_001_the_frog_king** (Classic Tale) — Staged
+- `[x]` **khm_049_the_six_swans** (Classic Tale) — Staged
+- `[ ]` **khm_002_cat_and_mouse** (Classic Tale) — Planned
 - `[ ]` **Remaining Tales** (KHM 003–210) — Planned
 
 ## Origin
@@ -39,7 +39,7 @@ Jacob and Wilhelm Grimm's _Kinder- und Hausmärchen_ (1812–1857), specifically
 What the house refuses to model, and to whom it delegates.
 
 - **Moralizing sugar-coating**: The house refuses to sanitize the tales (omitting none of the original grim details, such as physical mutilation, severe trials, or burning iron slippers). They are modeled as mechanical and logical consequences of broken taboos, fulfilled pacts, or resolved trials.
-- **Cross-play context pollution**: Strict play isolation. Individual plays (under _plays/KHM_XXX/\*_) must never link out of their local directory, preventing narratives from leaking into one another.
+- **Cross-play context pollution**: Strict play isolation. Individual plays (under _plays/khm_XXX/\*_) must never link out of their local directory, preventing narratives from leaking into one another.
 - **Decorative elaboration**: Settings, objects, and characters are strictly reduced to the essential load-bearing vectors of the play's systemic architecture (e.g., places of confinement, tools of labor, agents of change), omitting secondary ornament.
 - **Monolingual uniformity (Language Policy)**: The house implements a strict bilingual split:
   - **English for Architecture & Schema**: To maintain compatibility with the global `khai` framework specifications and validation tooling, the house identity ([README.md](README.md)), reference documents ([REFERENCE.md](REFERENCE.md)), frontmatter keys, and H2 structural headings are written in English.
