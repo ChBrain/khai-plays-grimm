@@ -1,8 +1,14 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.255.5",
+  "version": "0.256.0",
   "plays": [
+    {
+      "kind": "play",
+      "id": "ds_001_die_drei_bergleute_im_kuttenberg",
+      "title": "The Three Miners in the Kuttenberg",
+      "description": "Three pious miners are trapped in a mine for seven years until their final wishes are granted."
+    },
     {
       "kind": "play",
       "id": "khm_001_the_frog_king",
