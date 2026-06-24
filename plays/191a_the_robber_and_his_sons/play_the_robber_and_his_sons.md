@@ -63,6 +63,11 @@ Ein bekehrter Räuber erzählt der Königin zwei abenteuerliche Geschichten, um 
 - [de afbeten Finger](piece_severed_finger.md)
 - [de Dooden](piece_dead_thief.md)
 
+**Plans** (die einander begegnen)
+
+- [der Pferdediebstahl](plan_sons-theft.md): das leichtsinnige Vorhaben der drei Söhne, das königliche Pferd zu stehlen und das Räuberhandwerk zu beweisen.
+- [die Rettungserzählungen](plan_robber-stories.md): das väterliche Vorhaben des alten Räubers, durch das Berichten abenteuerlicher Geschichten die Söhne vor dem Galgen zu bewahren.
+
 **Pitches**
 
 - [das Heldische](pitch_heroic.md)
