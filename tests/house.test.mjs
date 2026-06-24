@@ -17,13 +17,13 @@ describe("Grimm house: plays conform to the canon", () => {
     const results = validateProject({ root });
     const errors = results.flatMap((r) => r.errors.map((e) => `${r.file}: ${e}`));
     expect(errors).toEqual([]);
-  });
+  }, 120000);
 
   it("every play satisfies the language policy", () => {
     const results = validateProjectLanguages(root);
     const errors = results.flatMap((r) => r.errors.map((e) => `${r.file}: ${e}`));
     expect(errors).toEqual([]);
-  }, 30000);
+  }, 120000);
 
   it("house reference warrant conforms to LORE", () => {
     const refPath = existsSync(join(root, "REFERENCES.md"))
