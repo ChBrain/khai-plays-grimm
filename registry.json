@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.326.0",
+  "version": "0.331.0",
   "plays": [
     {
       "kind": "play",
@@ -428,6 +428,36 @@
       "id": "ds_071_das_streichmass_der_ring_und_der_becher",
       "title": "The Measuring Laddle, the Ring and the Cup",
       "description": "A dying count divides his lands and leaves three magical fairy gifts to his daughters to secure their fortunes."
+    },
+    {
+      "kind": "play",
+      "id": "ds_072_der_bauer_mit_seinem_kobold",
+      "title": "The Peasant and His Kobold",
+      "description": "A peasant tries to burn down his barn to escape a kobold, only to find the spirit riding along on his cart."
+    },
+    {
+      "kind": "play",
+      "id": "ds_073_der_kobold_in_der_muehle",
+      "title": "The Kobold in the Mill",
+      "description": "Two students shelter in a mill where one eats the food set out for the house spirit, earning a midnight thrashing."
+    },
+    {
+      "kind": "play",
+      "id": "ds_074_huetchen",
+      "title": "Little Hat",
+      "description": "A house spirit wearing a small felt hat serves the bishop of Hildesheim, but takes bloody revenge when mocked."
+    },
+    {
+      "kind": "play",
+      "id": "ds_075_hinzelmann",
+      "title": "Hinzelmann",
+      "description": "The house spirit Hinzelmann haunts Castle Hudemühlen, keeping house, speaking to guests, and giving warnings."
+    },
+    {
+      "kind": "play",
+      "id": "ds_076_klopfer",
+      "title": "Knocker",
+      "description": "A helpful household spirit in Flügelau Castle flees in a trail of fire when forced to reveal his true form."
     },
     {
       "kind": "play",
