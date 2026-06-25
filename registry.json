@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.321.0",
+  "version": "0.326.0",
   "plays": [
     {
       "kind": "play",
@@ -398,6 +398,36 @@
       "id": "ds_066_des_nixes_beine",
       "title": "The Nix's Legs",
       "description": "A barber shines a light on a nix's legs at midnight, exposing the water spirit and forcing it to vanish."
+    },
+    {
+      "kind": "play",
+      "id": "ds_067_die_magd_bei_dem_nix",
+      "title": "The Maid and the Nix",
+      "description": "A maid serves a nix under the river for three years, leaving because the food is always completely unsalted."
+    },
+    {
+      "kind": "play",
+      "id": "ds_068_die_frau_von_alvensleben",
+      "title": "The Lady of Alvensleben",
+      "description": "A noblewoman assists a nix-wife giving birth inside a mountain, receiving a golden ring that seals her lineage's fate."
+    },
+    {
+      "kind": "play",
+      "id": "ds_069_die_frau_von_hahn_und_der_nix",
+      "title": "The Lady of Hahn and the Nix",
+      "description": "A noblewoman helping a nix-wife under the river refuses ashes, earning three gold pieces that sustain her house."
+    },
+    {
+      "kind": "play",
+      "id": "ds_070_frau_von_bonikau",
+      "title": "The Lady of Bonikau",
+      "description": "A lady in childbed allows earthmen to celebrate a wedding in her room, hosting an invisible festive assembly."
+    },
+    {
+      "kind": "play",
+      "id": "ds_071_das_streichmass_der_ring_und_der_becher",
+      "title": "The Measuring Laddle, the Ring and the Cup",
+      "description": "A dying count divides his lands and leaves three magical fairy gifts to his daughters to secure their fortunes."
     },
     {
       "kind": "play",
