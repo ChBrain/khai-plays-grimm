@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.316.0",
+  "version": "0.321.0",
   "plays": [
     {
       "kind": "play",
@@ -368,6 +368,36 @@
       "id": "ds_061_wasserrecht",
       "title": "Water Right",
       "description": "A river claims its annual human sacrifice at Leipzig, while nixes dance on the water before a drowning."
+    },
+    {
+      "kind": "play",
+      "id": "ds_062_das_ertrunkene_kind",
+      "title": "The Drowned Child",
+      "description": "A grieving mother collects her drowned child's bones from the lake; when placed on the altar, the child revives."
+    },
+    {
+      "kind": "play",
+      "id": "ds_063_schlitzoehrchen",
+      "title": "Slit-Ears",
+      "description": "A malicious water spirit named Slit-Ears lurks in the river Streu to drag crossing travelers to their deaths."
+    },
+    {
+      "kind": "play",
+      "id": "ds_064_die_wassernixe_und_der_muehlknappe",
+      "title": "The Water Nix and the Miller's Apprentice",
+      "description": "An apprentice shoots at a nix combing her hair on the river; three days later, he drowns while bathing."
+    },
+    {
+      "kind": "play",
+      "id": "ds_065_vor_den_nixen_hilft_dosten_und_dorant",
+      "title": "Before the Nixes Oregano and Horehound Help",
+      "description": "A midwife helping a nix-wife give birth under the Saale river uses protective herbs to escape the nix's power."
+    },
+    {
+      "kind": "play",
+      "id": "ds_066_des_nixes_beine",
+      "title": "The Nix's Legs",
+      "description": "A barber shines a light on a nix's legs at midnight, exposing the water spirit and forcing it to vanish."
     },
     {
       "kind": "play",
