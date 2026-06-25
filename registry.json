@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.271.0",
+  "version": "0.276.0",
   "plays": [
     {
       "kind": "play",
@@ -98,6 +98,36 @@
       "id": "ds_016_huenenspiel",
       "title": "Giants' Game",
       "description": "Giants playing on the Brunsberg throw a ball into the valley, forming the Knäuelwiese before their demise."
+    },
+    {
+      "kind": "play",
+      "id": "ds_017_das_riesenspielzeug",
+      "title": "The Giants' Toy",
+      "description": "A giant's daughter takes a ploughing peasant as a toy, but her father teaches her to respect the humans who feed them."
+    },
+    {
+      "kind": "play",
+      "id": "ds_018_riese_einheer",
+      "title": "Giant Einheer",
+      "description": "The giant warrior Einheer wades through rivers, pulls his horse by the tail, and fights like an entire army."
+    },
+    {
+      "kind": "play",
+      "id": "ds_019_riesensaeulen",
+      "title": "Giants' Pillars",
+      "description": "Nine stone pillars in the forest near Miltenberg bear the handprints of giants who tried to build a bridge."
+    },
+    {
+      "kind": "play",
+      "id": "ds_020_der_koeterberg",
+      "title": "The Köterberg",
+      "description": "A shepherd finds the entrance to gold inside the Köterberg but is chased away by a bloody man."
+    },
+    {
+      "kind": "play",
+      "id": "ds_021_geroldseck",
+      "title": "Geroldseck",
+      "description": "Ancient German heroes rest inside Castle Geroldseck, waiting to emerge and save their people in times of need."
     },
     {
       "kind": "play",
