@@ -1,13 +1,43 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.256.0",
+  "version": "0.261.0",
   "plays": [
     {
       "kind": "play",
       "id": "ds_001_die_drei_bergleute_im_kuttenberg",
       "title": "The Three Miners in the Kuttenberg",
       "description": "Three pious miners are trapped in a mine for seven years until their final wishes are granted."
+    },
+    {
+      "kind": "play",
+      "id": "ds_002_der_berggeist",
+      "title": "The Mountain Spirit",
+      "description": "The mountain spirit Meister Hämmerling appears in various forms in the silver mines to punish or reward miners."
+    },
+    {
+      "kind": "play",
+      "id": "ds_003_der_bergmoench_im_harz",
+      "title": "The Mountain Monk in the Harz",
+      "description": "Two miners are saved from darkness and helped by a giant monk, until their drunken boast makes the magic oil vanish."
+    },
+    {
+      "kind": "play",
+      "id": "ds_004_frau_hollen_teich",
+      "title": "Mother Holle's Pond",
+      "description": "The pond on Hoher Meißner acts as the gateway to Mother Holle's underworld castle where she rewards the industrious."
+    },
+    {
+      "kind": "play",
+      "id": "ds_005_frau_holla_zieht_umher",
+      "title": "Mother Holle Wanders",
+      "description": "During the twelve nights of Christmas, Mother Holle wanders to reward industrious spinners and punish the lazy."
+    },
+    {
+      "kind": "play",
+      "id": "ds_006_frau_hollen_bad",
+      "title": "Mother Holle's Bath",
+      "description": "At noon, Mother Holle bathes in her sacred pool on Hoher Meißner, demanding respect from all who pass by."
     },
     {
       "kind": "play",
