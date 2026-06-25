@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.301.0",
+  "version": "0.306.0",
   "plays": [
     {
       "kind": "play",
@@ -278,6 +278,36 @@
       "id": "ds_046_zeitelmoos",
       "title": "Zeitelmoos",
       "description": "A rider meets two children laughing in the Zeitelmoos forest; they reappear ahead of him, laughing mockingly."
+    },
+    {
+      "kind": "play",
+      "id": "ds_047_das_moosweibchen",
+      "title": "The Moss Woman",
+      "description": "A woodcutter Hans Krepel refuses a moss woman's plea to carve crosses in the last tree stump, triggering her wrath."
+    },
+    {
+      "kind": "play",
+      "id": "ds_048_der_wilde_jaeger_jagt_die_moosleute",
+      "title": "The Wild Hunt and the Moss People",
+      "description": "The Moss People dress in green moss to hide from the Wild Hunt that storms through the forests of Saalfeld."
+    },
+    {
+      "kind": "play",
+      "id": "ds_049_der_wassermann",
+      "title": "The Water Sprite",
+      "description": "A midwife is summoned to help the Water Sprite's wife; she is warned to accept only modest pay or face death."
+    },
+    {
+      "kind": "play",
+      "id": "ds_050_die_wilden_frauen_im_untersberge",
+      "title": "The Wild Women of the Untersberg",
+      "description": "Wild women emerge from the Untersberg to feed shepherd children and assist with the harvest before returning."
+    },
+    {
+      "kind": "play",
+      "id": "ds_051_tanz_mit_dem_wassermann",
+      "title": "Dance with the Water Sprite",
+      "description": "A water sprite with an icy hand dances with Ursula at a festival in Laibach, eventually dragging her into the river."
     },
     {
       "kind": "play",
