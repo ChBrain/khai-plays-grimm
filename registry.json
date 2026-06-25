@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.281.0",
+  "version": "0.286.0",
   "plays": [
     {
       "kind": "play",
@@ -158,6 +158,36 @@
       "id": "ds_026_kaiser_karl_des_grossen_auszug",
       "title": "Kaiser Karl's Departure",
       "description": "Before a war, the Odenberg opens and Kaiser Karl emerges with his army, sounding his horn."
+    },
+    {
+      "kind": "play",
+      "id": "ds_027_der_untersberg",
+      "title": "The Untersberg",
+      "description": "The Untersberg near Salzburg contains palaces, churches, and treasures guarded by small midnight-walking dwarfs."
+    },
+    {
+      "kind": "play",
+      "id": "ds_028_kaiser_karl_im_untersberg",
+      "title": "Kaiser Karl in the Untersberg",
+      "description": "Kaiser Karl sits in the Untersberg with a golden crown, his beard growing around the table until the end of the world."
+    },
+    {
+      "kind": "play",
+      "id": "ds_029_der_scherfenberger_und_der_zwerg",
+      "title": "Scherfenberger and the Dwarf",
+      "description": "Knight Wilhelm von Scherfenberg receives a protective ring from a dwarf king, but dies on the battlefield."
+    },
+    {
+      "kind": "play",
+      "id": "ds_030_das_stille_volk_zu_plesse",
+      "title": "The Silent People at Plesse",
+      "description": "Helpful dwarfs called the silent people live in Castle Plesse, punishing human offenses through their cattle."
+    },
+    {
+      "kind": "play",
+      "id": "ds_031_des_kleinen_volks_hochzeitsfest",
+      "title": "The Little People's Wedding",
+      "description": "Dwarfs slip into Eilenburg Castle at night to celebrate a wedding, inviting the old Count to join."
     },
     {
       "kind": "play",
