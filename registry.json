@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.261.0",
+  "version": "0.266.0",
   "plays": [
     {
       "kind": "play",
@@ -38,6 +38,36 @@
       "id": "ds_006_frau_hollen_bad",
       "title": "Mother Holle's Bath",
       "description": "At noon, Mother Holle bathes in her sacred pool on Hoher Meißner, demanding respect from all who pass by."
+    },
+    {
+      "kind": "play",
+      "id": "ds_007_frau_holla_und_der_treue_eckart",
+      "title": "Frau Holla and Faithful Eckart",
+      "description": "The legend of Frau Holla passing through Schwarza accompanied by the faithful Eckart who warns travelers."
+    },
+    {
+      "kind": "play",
+      "id": "ds_008_frau_holla_und_der_bauer",
+      "title": "Frau Holla and the Peasant",
+      "description": "Frau Holla rewards a helpful peasant who repairs her carriage wheel with wood shavings that turn into pure gold."
+    },
+    {
+      "kind": "play",
+      "id": "ds_009_die_springwurzel",
+      "title": "The Springing Root",
+      "description": "A shepherd uses a magical spring-root to open the locked doors inside the Köterberg and gather treasures."
+    },
+    {
+      "kind": "play",
+      "id": "ds_010_fraeulein_von_boyneburg",
+      "title": "The Maidens of Boyneburg",
+      "description": "Three noble maidens on the Boyneburg await a predicted death by lightning, showing submission to God's will."
+    },
+    {
+      "kind": "play",
+      "id": "ds_011_der_pielberg",
+      "title": "The Pielberg",
+      "description": "A beautiful banished virgin appears at noon on the Pielberg, warning people to stay away."
     },
     {
       "kind": "play",
