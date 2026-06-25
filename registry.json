@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.306.0",
+  "version": "0.311.0",
   "plays": [
     {
       "kind": "play",
@@ -308,6 +308,36 @@
       "id": "ds_051_tanz_mit_dem_wassermann",
       "title": "Dance with the Water Sprite",
       "description": "A water sprite with an icy hand dances with Ursula at a festival in Laibach, eventually dragging her into the river."
+    },
+    {
+      "kind": "play",
+      "id": "ds_052_der_wassermann_und_der_bauer",
+      "title": "The Water Sprite and the Farmer",
+      "description": "A friendly water sprite invites his neighboring farmer to visit his home beneath the lake."
+    },
+    {
+      "kind": "play",
+      "id": "ds_053_der_wassermann_an_der_fleischerbank",
+      "title": "The Water Sprite at the Butcher's Bench",
+      "description": "A butcher cuts the finger of a water sprite who always pays for meat with holed coins, causing him to vanish."
+    },
+    {
+      "kind": "play",
+      "id": "ds_054_der_schwimmer",
+      "title": "The Swimmer",
+      "description": "A boastful baker's apprentice bets he can swim across the Elbe three times, only to be dragged down by a Nix."
+    },
+    {
+      "kind": "play",
+      "id": "ds_055_bruder_nickel",
+      "title": "Brother Nickel",
+      "description": "Fishermen on Rügen find their boat placed high in a tree by a hidden water spirit named Brother Nickel."
+    },
+    {
+      "kind": "play",
+      "id": "ds_056_nixenbrunnen",
+      "title": "The Nix Well",
+      "description": "Nixes appear at the Nix Well near Kirchhain, and another nix is sighted at the Elisabeth mill in Marburg."
     },
     {
       "kind": "play",
