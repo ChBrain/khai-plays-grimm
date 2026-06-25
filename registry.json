@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.311.0",
+  "version": "0.316.0",
   "plays": [
     {
       "kind": "play",
@@ -338,6 +338,36 @@
       "id": "ds_056_nixenbrunnen",
       "title": "The Nix Well",
       "description": "Nixes appear at the Nix Well near Kirchhain, and another nix is sighted at the Elisabeth mill in Marburg."
+    },
+    {
+      "kind": "play",
+      "id": "ds_057_magdeburger_nixen",
+      "title": "The Magdeburg Nixes",
+      "description": "A nix drags a skilled swimmer into the depths of the Elbe and later thwarts the construction of a water pipe."
+    },
+    {
+      "kind": "play",
+      "id": "ds_058_der_doengessee",
+      "title": "The Dönges Lake",
+      "description": "Two nixes flee a village festival after a youth steals their gloves, causing the lake to turn blood-red."
+    },
+    {
+      "kind": "play",
+      "id": "ds_059_mummelsee",
+      "title": "Mummelsee",
+      "description": "Throwing stones into the bottomless Mummelsee triggers severe storms until water sprites return the stones."
+    },
+    {
+      "kind": "play",
+      "id": "ds_060_die_elbjungfer_und_das_saalweiblein",
+      "title": "The Elbe Maiden and the Saale Woman",
+      "description": "Nixes disguised as clean town girls shop at meat markets, recognizable only by a wet corner of their aprons."
+    },
+    {
+      "kind": "play",
+      "id": "ds_061_wasserrecht",
+      "title": "Water Right",
+      "description": "A river claims its annual human sacrifice at Leipzig, while nixes dance on the water before a drowning."
     },
     {
       "kind": "play",
