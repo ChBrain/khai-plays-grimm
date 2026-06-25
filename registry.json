@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.296.0",
+  "version": "0.301.0",
   "plays": [
     {
       "kind": "play",
@@ -248,6 +248,36 @@
       "id": "ds_041_die_ahnfrau_von_rantzau",
       "title": "The Ancestress of Rantzau",
       "description": "A dwarf leads the grandmother of Rantzau to help a Zwergin give birth, rewarding her with gold under strict warnings."
+    },
+    {
+      "kind": "play",
+      "id": "ds_042_hermann_von_rosenberg",
+      "title": "Hermann of Rosenberg",
+      "description": "After Hermann von Rosenberg's feast, earth spirits request to hold their own wedding in his hall, promising peace."
+    },
+    {
+      "kind": "play",
+      "id": "ds_043_die_osenberger_zwerge",
+      "title": "The Osenberg Dwarfs",
+      "description": "Osenberg dwarfs pay for beer with silver; a forgotten jug brings luck to the family until it breaks."
+    },
+    {
+      "kind": "play",
+      "id": "ds_044_das_erdmaennlein_und_der_schaeferjung",
+      "title": "The Earth Spirit and the Shepherd Boy",
+      "description": "A shepherd boy frees a dwarf trapped in a stone; the dwarf moves into a neighbor's house, refusing to leave."
+    },
+    {
+      "kind": "play",
+      "id": "ds_045_der_einkehrende_zwerg",
+      "title": "The Lodging Dwarf",
+      "description": "A wet dwarf seeks shelter in a storm; only a poor pious couple takes him in, saving them from a devastating landslide."
+    },
+    {
+      "kind": "play",
+      "id": "ds_046_zeitelmoos",
+      "title": "Zeitelmoos",
+      "description": "A rider meets two children laughing in the Zeitelmoos forest; they reappear ahead of him, laughing mockingly."
     },
     {
       "kind": "play",
