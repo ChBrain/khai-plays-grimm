@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.291.0",
+  "version": "0.296.0",
   "plays": [
     {
       "kind": "play",
@@ -218,6 +218,36 @@
       "id": "ds_036_zwerge_ausgetrieben",
       "title": "Dwarfs Driven Out",
       "description": "The noise of hammers and stamp mills in the Ore Mountains drives the dwarfs away, though they promise to return."
+    },
+    {
+      "kind": "play",
+      "id": "ds_037_die_wichtlein",
+      "title": "The Wichts",
+      "description": "Tiny dwarfs dressed as miners haunt the pits, teasing workers and knocking three times as an omen of death."
+    },
+    {
+      "kind": "play",
+      "id": "ds_038_beschwoerung_der_bergmaennlein",
+      "title": "Conjuring the Dwarfs",
+      "description": "Paul Creuz conjures dwarfs using milk, honey, and a black hen, eventually calling their King for a book of wisdom."
+    },
+    {
+      "kind": "play",
+      "id": "ds_039_das_bergmaennlein_beim_tanz",
+      "title": "The Dwarf at the Dance",
+      "description": "A dwarf from the Wunderberg joins a wedding in Glaß, dances with the maidens, and demands honorable behavior."
+    },
+    {
+      "kind": "play",
+      "id": "ds_040_das_kellermaennlein",
+      "title": "The Cellar Dwarf",
+      "description": "A cellar dwarf in Lützen prays alongside a maid; later, a fire destroys the town but spares his house."
+    },
+    {
+      "kind": "play",
+      "id": "ds_041_die_ahnfrau_von_rantzau",
+      "title": "The Ancestress of Rantzau",
+      "description": "A dwarf leads the grandmother of Rantzau to help a Zwergin give birth, rewarding her with gold under strict warnings."
     },
     {
       "kind": "play",
