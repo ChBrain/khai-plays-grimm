@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.276.0",
+  "version": "0.281.0",
   "plays": [
     {
       "kind": "play",
@@ -128,6 +128,36 @@
       "id": "ds_021_geroldseck",
       "title": "Geroldseck",
       "description": "Ancient German heroes rest inside Castle Geroldseck, waiting to emerge and save their people in times of need."
+    },
+    {
+      "kind": "play",
+      "id": "ds_022_kaiser_karl_zu_nuernberg",
+      "title": "Kaiser Karl at Nuremberg",
+      "description": "Kaiser Karl sits in the deep well of Nuremberg Castle, his beard grown through a stone table."
+    },
+    {
+      "kind": "play",
+      "id": "ds_023_friedrich_rotbart_auf_dem_kyffhaeuser",
+      "title": "Barbarossa in the Kyffhaeuser",
+      "description": "Emperor Frederick Barbarossa sleeps inside the Kyffhäuser, awaiting the day the ravens stop flying to return."
+    },
+    {
+      "kind": "play",
+      "id": "ds_024_der_birnbaum_auf_dem_walserfeld",
+      "title": "The Pear Tree on Walserfeld",
+      "description": "A dry pear tree on the Walserfeld predicts a terrible final battle when it greens and bears fruit."
+    },
+    {
+      "kind": "play",
+      "id": "ds_025_der_verzauberte_koenig_zu_schildheiss",
+      "title": "The Enchanted King at Schildheiss",
+      "description": "Workers find an enchanted king and a maiden in Castle Schildheiß who turns into a fire-breathing snake."
+    },
+    {
+      "kind": "play",
+      "id": "ds_026_kaiser_karl_des_grossen_auszug",
+      "title": "Kaiser Karl's Departure",
+      "description": "Before a war, the Odenberg opens and Kaiser Karl emerges with his army, sounding his horn."
     },
     {
       "kind": "play",
