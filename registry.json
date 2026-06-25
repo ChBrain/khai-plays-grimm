@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.331.0",
+  "version": "0.336.0",
   "plays": [
     {
       "kind": "play",
@@ -458,6 +458,36 @@
       "id": "ds_076_klopfer",
       "title": "Knocker",
       "description": "A helpful household spirit in Flügelau Castle flees in a trail of fire when forced to reveal his true form."
+    },
+    {
+      "kind": "play",
+      "id": "ds_077_stiefel",
+      "title": "Boot",
+      "description": "A wounded castle spirit in Calenberg wears a large boot on one leg, fearing it might be torn off."
+    },
+    {
+      "kind": "play",
+      "id": "ds_078_ekerken",
+      "title": "Ekerken",
+      "description": "A roadway spirit near Elten plagues travelers, remaining invisible except for a single human hand."
+    },
+    {
+      "kind": "play",
+      "id": "ds_079_nachtgeist_zu_kendenich",
+      "title": "Night Spirit of Kendenich",
+      "description": "A ghostly nun hiding in the swamp near Kendenich leaps onto the backs of travelers and rides them all night."
+    },
+    {
+      "kind": "play",
+      "id": "ds_080_der_alp",
+      "title": "The Nightmare",
+      "description": "The nightmare spirit slips through tiny cracks to press on sleepers' chests, fleeing only if one moves a thumb."
+    },
+    {
+      "kind": "play",
+      "id": "ds_081_der_wechselbalg",
+      "title": "The Changeling",
+      "description": "A mother discovers her crying, insatiable child is a changeling when a voice from a bridge calls out to it."
     },
     {
       "kind": "play",
