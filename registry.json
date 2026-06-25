@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.286.0",
+  "version": "0.291.0",
   "plays": [
     {
       "kind": "play",
@@ -188,6 +188,36 @@
       "id": "ds_031_des_kleinen_volks_hochzeitsfest",
       "title": "The Little People's Wedding",
       "description": "Dwarfs slip into Eilenburg Castle at night to celebrate a wedding, inviting the old Count to join."
+    },
+    {
+      "kind": "play",
+      "id": "ds_032_steinverwandelte_zwerge",
+      "title": "Dwarfs Turned to Stone",
+      "description": "In a valley near Elnbogen, helpful dwarfs are turned to stone by their angry ruler when they go to a wedding."
+    },
+    {
+      "kind": "play",
+      "id": "ds_033_zwergberge",
+      "title": "Dwarf Mountains",
+      "description": "Near Aachen, Jena, and Hohenstein, dwarfs borrow kitchen utensils from humans for their weddings and return them."
+    },
+    {
+      "kind": "play",
+      "id": "ds_034_zwerge_leihen_brot",
+      "title": "Dwarfs Borrow Bread",
+      "description": "A dwarf woman borrows fresh bread from a farmer, returning a warm loaf, but warns that human sins drive them away."
+    },
+    {
+      "kind": "play",
+      "id": "ds_035_der_graf_von_hoia",
+      "title": "The Count of Hoia",
+      "description": "A dwarf asks the Count of Hoia to host a nightly feast in his castle, rewarding him with a sword and a ring."
+    },
+    {
+      "kind": "play",
+      "id": "ds_036_zwerge_ausgetrieben",
+      "title": "Dwarfs Driven Out",
+      "description": "The noise of hammers and stamp mills in the Ore Mountains drives the dwarfs away, though they promise to return."
     },
     {
       "kind": "play",
