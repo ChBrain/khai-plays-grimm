@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.356.0",
+  "version": "0.361.0",
   "plays": [
     {
       "kind": "play",
@@ -608,6 +608,36 @@
       "id": "ds_101_zwoelf_ungerechte_richter",
       "title": "Twelve Unjust Judges",
       "description": "Twelve judges in Minden who pass an unjust verdict are punished by the earth swallowing them to their knees."
+    },
+    {
+      "kind": "play",
+      "id": "ds_102_die_heiligen_quellen",
+      "title": "The Holy Springs",
+      "description": "Three holy springs sprout on Rütli meadow after the Swiss oath, while a traitor burns from within."
+    },
+    {
+      "kind": "play",
+      "id": "ds_103_der_quillende_brunnen",
+      "title": "The Gushing Fountain",
+      "description": "A fountain dries up whenever a member of a noble Franconian house is dying, but the omen is cheated."
+    },
+    {
+      "kind": "play",
+      "id": "ds_104_hunger_quelle",
+      "title": "Hunger Spring",
+      "description": "A spring in Halle near the Red Tower predicts cheap or dear times by the flow of its water."
+    },
+    {
+      "kind": "play",
+      "id": "ds_105_der_lieben_bach",
+      "title": "The Stream of Love",
+      "description": "Two lovers dig for forty years to bring a spring to Spangenberg, dying in each other's arms as it succeeds."
+    },
+    {
+      "kind": "play",
+      "id": "ds_106_der_helfenstein",
+      "title": "The Helfenstein",
+      "description": "A mountain door opens in 1614 for a Marschendorf maid, showing a mystical hall of zeching lords."
     },
     {
       "kind": "play",
