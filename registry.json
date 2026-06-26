@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.386.0",
+  "version": "0.391.0",
   "plays": [
     {
       "kind": "play",
@@ -788,6 +788,36 @@
       "id": "ds_131_seeburger_see",
       "title": "Seeburger Lake",
       "description": "The wicked lifestyle of Count Isang causes his castle to sink, creating the Seeburger lake near Goettingen."
+    },
+    {
+      "kind": "play",
+      "id": "ds_132_der_burgsee_und_burgwall",
+      "title": "The Castle Lake and Wall",
+      "description": "Priests on the island of Ruegen sacrifice young women to the devil by drowning them in the dark Burgsee."
+    },
+    {
+      "kind": "play",
+      "id": "ds_133_der_heilige_niklas_und_der_dieb",
+      "title": "Saint Nicholas and the Thief",
+      "description": "A thief challenges Saint Nicholas to a race for the offering box but gets carried away by the devil after his death."
+    },
+    {
+      "kind": "play",
+      "id": "ds_134_riesensteine",
+      "title": "Giant Stones",
+      "description": "Giant stones with handprints are found near Leipzig and Salzwedel, where a commander once split a rock with his sword."
+    },
+    {
+      "kind": "play",
+      "id": "ds_135_spuren_im_stein",
+      "title": "Imprints in the Stone",
+      "description": "A retreating commander sits on a stone in Geismarwald and leaves hand and leg imprints as a sign of future victory."
+    },
+    {
+      "kind": "play",
+      "id": "ds_136_der_riesenfinger",
+      "title": "The Giant's Finger",
+      "description": "A wicked giant who mistreated his mother is buried by a storm, leaving his finger protruding as the Fuchsturm tower."
     },
     {
       "kind": "play",
