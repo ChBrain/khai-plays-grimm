@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.381.0",
+  "version": "0.386.0",
   "plays": [
     {
       "kind": "play",
@@ -758,6 +758,36 @@
       "id": "ds_126_der_glockenguss_zu_attendorn",
       "title": "The Bell Casting of Attendorn",
       "description": "A mother hides a black painted gold plate under a bench until a bell founder discovers and melts it into a new bell."
+    },
+    {
+      "kind": "play",
+      "id": "ds_127_die_muellerin",
+      "title": "The Miller's Wife",
+      "description": "A miller's wife traps one robber in a chamber and kills another in the waterwheel while her husband is away at church."
+    },
+    {
+      "kind": "play",
+      "id": "ds_128_johann_huebner",
+      "title": "Johann Huebner",
+      "description": "The one-eyed robber Johann Huebner terrorizes a Westphalian forest from his castle until he is killed in battle."
+    },
+    {
+      "kind": "play",
+      "id": "ds_129_eppela_gaila",
+      "title": "Eppela Gaila",
+      "description": "The robber knight Eppela Gaila Gailingen uses his magical horse to escape from the Nuremberg forces."
+    },
+    {
+      "kind": "play",
+      "id": "ds_130_der_blumenstein",
+      "title": "The Blumenstein",
+      "description": "A brave village girl wins a midnight bet at a ruined castle and accidentally retrieves a robber's stolen treasure."
+    },
+    {
+      "kind": "play",
+      "id": "ds_131_seeburger_see",
+      "title": "Seeburger Lake",
+      "description": "The wicked lifestyle of Count Isang causes his castle to sink, creating the Seeburger lake near Goettingen."
     },
     {
       "kind": "play",
