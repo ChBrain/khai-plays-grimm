@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.396.0",
+  "version": "0.401.0",
   "plays": [
     {
       "kind": "play",
@@ -848,6 +848,36 @@
       "id": "ds_141_jungfrausprung",
       "title": "The Maiden's Leap",
       "description": "A pure country girl leaps across the Mur river from a mountain to escape a wicked pursuer, naming the cliff."
+    },
+    {
+      "kind": "play",
+      "id": "ds_142_der_stierenbach",
+      "title": "The Bull Brook",
+      "description": "A shepherd's baptized lamb turns into a terrifying specter that is eventually defeated by a giant milk-fed bull."
+    },
+    {
+      "kind": "play",
+      "id": "ds_143_die_maenner_im_zottenberg",
+      "title": "The Men in Zottenberg",
+      "description": "A man discovers a hidden cave inside Zottenberg mountain where three silent old robbers await Judgment Day."
+    },
+    {
+      "kind": "play",
+      "id": "ds_144_verkuendigung_des_verderbens",
+      "title": "The Announcement of Doom",
+      "description": "An old gray-haired man with a youthful face warns the soldiers of Magdeburg of their impending defeat in battle."
+    },
+    {
+      "kind": "play",
+      "id": "ds_145_das_maennlein_auf_dem_ruecken",
+      "title": "The Little Man on the Back",
+      "description": "A rope-maker kicks a boy's game board and is forced by the boy's father to carry him, dying ten days later."
+    },
+    {
+      "kind": "play",
+      "id": "ds_146_gottschee",
+      "title": "Gottschee",
+      "description": "A hunter is led into a subterranean cave by a spirit and witnesses the silent souls of former castle lords."
     },
     {
       "kind": "play",
