@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.341.0",
+  "version": "0.346.0",
   "plays": [
     {
       "kind": "play",
@@ -518,6 +518,36 @@
       "id": "ds_086_der_brutpfennig",
       "title": "The Breeding Penny",
       "description": "A person gets a breeding penny from the devil on Christmas Eve, which later burns down a house in Pantschdorf."
+    },
+    {
+      "kind": "play",
+      "id": "ds_087_wechselkind_mit_ruten_gestrichen",
+      "title": "The Changeling Beaten with Rods",
+      "description": "A mother beats a changeling on a Breslau meadow to force the devil to return her real child."
+    },
+    {
+      "kind": "play",
+      "id": "ds_088_das_schauen_auf_die_kinder",
+      "title": "Watching Over the Children",
+      "description": "A Leipzig father watches his newborn child at night to prevent an unseen force from turning its cradle."
+    },
+    {
+      "kind": "play",
+      "id": "ds_089_die_roggen_muhme",
+      "title": "The Rye Aunt",
+      "description": "A nursing mother is forced to bind sheaves in the field; the Roggen-Mutter swaps her child but returns it later."
+    },
+    {
+      "kind": "play",
+      "id": "ds_090_die_zwei_unterirdischen_weiber",
+      "title": "The Two Underground Women",
+      "description": "Two underground women swap a sleeping newborn, but a quick-witted maid saves the child by a clever counter-swap."
+    },
+    {
+      "kind": "play",
+      "id": "ds_091_koenig_gruenewald",
+      "title": "King Grunewald",
+      "description": "A princess saves her besieged father by carrying him out on a donkey, disguised by green branches."
     },
     {
       "kind": "play",
