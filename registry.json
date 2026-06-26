@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.376.0",
+  "version": "0.381.0",
   "plays": [
     {
       "kind": "play",
@@ -728,6 +728,36 @@
       "id": "ds_121_jungfer_eli",
       "title": "Maiden Eli",
       "description": "A cruel housekeeper haunts Frekenhorst abbey until priests banish her ghost to the Davert forest."
+    },
+    {
+      "kind": "play",
+      "id": "ds_122_die_weisse_frau",
+      "title": "The White Lady",
+      "description": "A white lady combs horses in a stable but is blind inside her dwelling and sees clearly only outside."
+    },
+    {
+      "kind": "play",
+      "id": "ds_123_taube_zeigt_einen_schatz",
+      "title": "Dove Reveals a Treasure",
+      "description": "Duke Heinrich of Breslau follows a dove in Krakow cathedral and finds a hidden treasure under the floorboards."
+    },
+    {
+      "kind": "play",
+      "id": "ds_124_taube_haelt_den_feind_ab",
+      "title": "Dove Keeps the Enemy Away",
+      "description": "A dove prevents a banneret from firing a cannon during a siege, saving the city of Hoxter until Swedish forces arrive."
+    },
+    {
+      "kind": "play",
+      "id": "ds_125_der_glockenguss_zu_breslau",
+      "title": "The Bell Casting of Breslau",
+      "description": "A bell founder kills his apprentice for opening the tap early, only to find the bell is perfect before his execution."
+    },
+    {
+      "kind": "play",
+      "id": "ds_126_der_glockenguss_zu_attendorn",
+      "title": "The Bell Casting of Attendorn",
+      "description": "A mother hides a black painted gold plate under a bench until a bell founder discovers and melts it into a new bell."
     },
     {
       "kind": "play",
