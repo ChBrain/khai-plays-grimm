@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.361.0",
+  "version": "0.366.0",
   "plays": [
     {
       "kind": "play",
@@ -638,6 +638,36 @@
       "id": "ds_106_der_helfenstein",
       "title": "The Helfenstein",
       "description": "A mountain door opens in 1614 for a Marschendorf maid, showing a mystical hall of zeching lords."
+    },
+    {
+      "kind": "play",
+      "id": "ds_107_die_wiege_aus_dem_baeumchen",
+      "title": "The Cradle from the Tree",
+      "description": "A treasure in Rauheneck can only be lifted by a child whose cradle is carved from a tree growing on the tower wall."
+    },
+    {
+      "kind": "play",
+      "id": "ds_108_hessental",
+      "title": "Hessental",
+      "description": "A speaking bird warns a Germanic princess of Roman soldiers marching through the valley with gleaming armor."
+    },
+    {
+      "kind": "play",
+      "id": "ds_109_reinstein",
+      "title": "Reinstein",
+      "description": "Beneath a Harz castle, stones taken from a cave always return, while sounds of bells and blacksmiths echo."
+    },
+    {
+      "kind": "play",
+      "id": "ds_110_der_stillstehende_fluss",
+      "title": "The Stationary River",
+      "description": "The river Fulda ceases its flow as a sign of mourning whenever a member of the princely house of Hesse is about to die."
+    },
+    {
+      "kind": "play",
+      "id": "ds_111_arendsee",
+      "title": "Arendsee",
+      "description": "A castle sinks to form a deep lake, leaving only Arend and his wife to survive after her historic warning cry."
     },
     {
       "kind": "play",
