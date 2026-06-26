@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.336.0",
+  "version": "0.341.0",
   "plays": [
     {
       "kind": "play",
@@ -488,6 +488,36 @@
       "id": "ds_081_der_wechselbalg",
       "title": "The Changeling",
       "description": "A mother discovers her crying, insatiable child is a changeling when a voice from a bridge calls out to it."
+    },
+    {
+      "kind": "play",
+      "id": "ds_082_die_wechselbaelege_im_wasser",
+      "title": "The Changelings in the Water",
+      "description": "A peasant carrying an insatiable changeling in a basket throws it in the river when the creature speaks."
+    },
+    {
+      "kind": "play",
+      "id": "ds_083_der_alraun",
+      "title": "The Mandrake",
+      "description": "A mandrake root, grown under a gallows, is dug up using a black dog to avoid its fatal shriek, bringing wealth."
+    },
+    {
+      "kind": "play",
+      "id": "ds_084_spiritus_familiaris",
+      "title": "Spiritus Familiaris",
+      "description": "A soldier owns a spirit in a bottle that brings wealth, but he must sell it cheaper to avoid damnation."
+    },
+    {
+      "kind": "play",
+      "id": "ds_085_das_vogelnest",
+      "title": "The Bird's Nest",
+      "description": "A magical bird's nest is invisible to the eye but visible in water, granting invisibility to its holder."
+    },
+    {
+      "kind": "play",
+      "id": "ds_086_der_brutpfennig",
+      "title": "The Breeding Penny",
+      "description": "A person gets a breeding penny from the devil on Christmas Eve, which later burns down a house in Pantschdorf."
     },
     {
       "kind": "play",
