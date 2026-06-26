@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.371.0",
+  "version": "0.376.0",
   "plays": [
     {
       "kind": "play",
@@ -698,6 +698,36 @@
       "id": "ds_116_die_christnacht",
       "title": "Christmas Eve",
       "description": "A maid puts a bread crust under her arm by day and under her head by night to dream of her future lover."
+    },
+    {
+      "kind": "play",
+      "id": "ds_117_das_hemdabwerfen",
+      "title": "The Shirt Casting",
+      "description": "A girl uses a Christmas shirt magic ritual to see her future husband, but a group of girls confuses the spirits."
+    },
+    {
+      "kind": "play",
+      "id": "ds_118_krystall_schauen",
+      "title": "Crystal Gazing",
+      "description": "A girl uses crystal gazing to discover her future husband, with Johann Rüst witnessing the magical vision."
+    },
+    {
+      "kind": "play",
+      "id": "ds_119_zauber_kraeuter_kochen",
+      "title": "Boiling Magic Herbs",
+      "description": "A maid cooks magic herbs on Pentecost, forcing a devil in goat form to carry her lover back on its horns."
+    },
+    {
+      "kind": "play",
+      "id": "ds_120_der_salzknecht_in_pommern",
+      "title": "The Salt Journeyman in Pomerania",
+      "description": "A witch uses magic to pursue a fleeing salt journeyman, sending a black goat to slip between his legs."
+    },
+    {
+      "kind": "play",
+      "id": "ds_121_jungfer_eli",
+      "title": "Maiden Eli",
+      "description": "A cruel housekeeper haunts Frekenhorst abbey until priests banish her ghost to the Davert forest."
     },
     {
       "kind": "play",
