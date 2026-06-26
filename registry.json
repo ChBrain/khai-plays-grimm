@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.391.0",
+  "version": "0.396.0",
   "plays": [
     {
       "kind": "play",
@@ -818,6 +818,36 @@
       "id": "ds_136_der_riesenfinger",
       "title": "The Giant's Finger",
       "description": "A wicked giant who mistreated his mother is buried by a storm, leaving his finger protruding as the Fuchsturm tower."
+    },
+    {
+      "kind": "play",
+      "id": "ds_137_riesen_aus_dem_untersberge",
+      "title": "Giants from the Untersberg",
+      "description": "Giants descend from the Untersberg mountain to warn Feldkirchen villagers to live a righteous life."
+    },
+    {
+      "kind": "play",
+      "id": "ds_138_der_jettenbuehel_zu_heidelberg",
+      "title": "Jetta's Hill in Heidelberg",
+      "description": "The famous prophetess Jetta predicts the future from her chapel on the hill where Heidelberg Castle stands today."
+    },
+    {
+      "kind": "play",
+      "id": "ds_139_riese_haym",
+      "title": "The Giant Haym",
+      "description": "The giant Haym slays a dragon in the Inntal valley, builds Wilten Abbey, and erects the bridge at Innsbruck."
+    },
+    {
+      "kind": "play",
+      "id": "ds_140_die_tropfende_rippe",
+      "title": "The Dripping Rib",
+      "description": "A giant pagan maiden's rib drips once a year in Oberburg church, with the final drop signaling Judgment Day."
+    },
+    {
+      "kind": "play",
+      "id": "ds_141_jungfrausprung",
+      "title": "The Maiden's Leap",
+      "description": "A pure country girl leaps across the Mur river from a mountain to escape a wicked pursuer, naming the cliff."
     },
     {
       "kind": "play",
