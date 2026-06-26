@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.346.0",
+  "version": "0.351.0",
   "plays": [
     {
       "kind": "play",
@@ -548,6 +548,36 @@
       "id": "ds_091_koenig_gruenewald",
       "title": "King Grunewald",
       "description": "A princess saves her besieged father by carrying him out on a donkey, disguised by green branches."
+    },
+    {
+      "kind": "play",
+      "id": "ds_092_bluemelis_alp",
+      "title": "Blumelisalp",
+      "description": "A rich shepherd constructs a staircase of cheese and is cursed by his mother, burying the alp under ice."
+    },
+    {
+      "kind": "play",
+      "id": "ds_093_die_lilie",
+      "title": "The Lily",
+      "description": "A nobleman cuts off a servant's head at a banquet but cannot put it back until he kills a hidden disruptor."
+    },
+    {
+      "kind": "play",
+      "id": "ds_094_johann_von_passau",
+      "title": "Johann of Passau",
+      "description": "A widower’s wife returns from the grave to be his housewife, on the condition that he must never curse again."
+    },
+    {
+      "kind": "play",
+      "id": "ds_095_das_huendlein_von_bretta",
+      "title": "The Little Dog of Bretta",
+      "description": "A loyal dog sent to a butcher with a sausage request on a fast day has its tail chopped off in retaliation."
+    },
+    {
+      "kind": "play",
+      "id": "ds_096_das_dorf_am_meer",
+      "title": "The Village by the Sea",
+      "description": "A proud village mocking a praying woman is buried in sand by oxen digging and a violent storm."
     },
     {
       "kind": "play",
