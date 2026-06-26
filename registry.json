@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.351.0",
+  "version": "0.356.0",
   "plays": [
     {
       "kind": "play",
@@ -578,6 +578,36 @@
       "id": "ds_096_das_dorf_am_meer",
       "title": "The Village by the Sea",
       "description": "A proud village mocking a praying woman is buried in sand by oxen digging and a violent storm."
+    },
+    {
+      "kind": "play",
+      "id": "ds_097_die_verschuetteten_silbergruben",
+      "title": "The Buried Silver Mines",
+      "description": "An innocent mine manager cursed a rich mine upon his execution, turning his blood into milk."
+    },
+    {
+      "kind": "play",
+      "id": "ds_098_der_fundgruebner",
+      "title": "The Mine Discoverer",
+      "description": "A heavily indebted miner discovers a rich ore deposit just as he is about to flee, restoring his wealth."
+    },
+    {
+      "kind": "play",
+      "id": "ds_099_ein_gespenstiger_reuter",
+      "title": "A Ghostly Rider",
+      "description": "An outstanding horse trainer is recognized as a dead soldier, leaves in a jester's outfit, and tricks a groom."
+    },
+    {
+      "kind": "play",
+      "id": "ds_100_der_falsche_eid",
+      "title": "The False Oath",
+      "description": "A peasant swears a false oath to claim land, only for the earth to open and swallow him up."
+    },
+    {
+      "kind": "play",
+      "id": "ds_101_zwoelf_ungerechte_richter",
+      "title": "Twelve Unjust Judges",
+      "description": "Twelve judges in Minden who pass an unjust verdict are punished by the earth swallowing them to their knees."
     },
     {
       "kind": "play",
