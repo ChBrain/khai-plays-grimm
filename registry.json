@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.421.0",
+  "version": "0.426.0",
   "plays": [
     {
       "kind": "play",
@@ -998,6 +998,36 @@
       "id": "ds_166_der_steintisch_zu_bingenheim",
       "title": "The Stone Table at Bingenheim",
       "description": "A linden tree court in Bingenheim features a stone table left by forest-dwelling giants who left handprints behind."
+    },
+    {
+      "kind": "play",
+      "id": "ds_167_der_lange_mann_in_der_mordgasse_zu_hof",
+      "title": "The Tall Man in Murder Lane",
+      "description": "A giant black man straddling a lane in Hof predicts the coming of the plague before vanishing with a great crash."
+    },
+    {
+      "kind": "play",
+      "id": "ds_168_krieg_und_frieden",
+      "title": "War and Peace",
+      "description": "Saxon soldiers capture a hairy wild woman who predicts peace, matching a wild man who foretold war years before."
+    },
+    {
+      "kind": "play",
+      "id": "ds_169_rodensteins_auszug",
+      "title": "Rodenstein's Departure",
+      "description": "The ghost of the Lord of Rodenstein noisily marches to Schnellerts castle when war looms and returns in silence."
+    },
+    {
+      "kind": "play",
+      "id": "ds_170_der_tannhaeuser",
+      "title": "Tannhaeuser",
+      "description": "Knight Tannhäuser leaves Rome in despair when Pope Urban declares his sins unforgiven unless a dry staff sprouts."
+    },
+    {
+      "kind": "play",
+      "id": "ds_171_der_wilde_jaeger_hackelberg",
+      "title": "The Wild Hunter Hackelberg",
+      "description": "The ghost of Jägermeister Hackelberg hunts forever on the Solling mountain after refusing heaven for his passion."
     },
     {
       "kind": "play",
