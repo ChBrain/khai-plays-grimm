@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.406.0",
+  "version": "0.411.0",
   "plays": [
     {
       "kind": "play",
@@ -908,6 +908,36 @@
       "id": "ds_151_die_heilingszwerge",
       "title": "The Heiling Dwarves",
       "description": "A berry-picking woman enters the dwarf-prince Heiling's cave and awakens a century later to find her world gone."
+    },
+    {
+      "kind": "play",
+      "id": "ds_152_abzug_des_zwergvolks_ueber_die_bruecke",
+      "title": "Departure of the Dwarves over the Bridge",
+      "description": "Dwarves forced to leave their Harz caves agree to cross a bridge in secret while paying a silent wealth tax."
+    },
+    {
+      "kind": "play",
+      "id": "ds_153_der_zug_der_zwerge_ueber_den_berg",
+      "title": "The Departure of the Dwarves over the Mountain",
+      "description": "A baker catches invisible dwarves stealing bread, forcing their population to emigrate and leave a pot of coins."
+    },
+    {
+      "kind": "play",
+      "id": "ds_154_die_zwerge_bei_dardesheim",
+      "title": "The Dwarves at Dardesheim",
+      "description": "Helpful dwarves of Dardesheim borrow wedding dishes to locals until human mockery forces them to emigrate forever."
+    },
+    {
+      "kind": "play",
+      "id": "ds_155_schmidt_riechert",
+      "title": "Smith Riechert",
+      "description": "A smith accidentally cracks a dwarf's skull with a threshing flail after guarding his pea field against theft."
+    },
+    {
+      "kind": "play",
+      "id": "ds_156_grinken_schmidt",
+      "title": "Grinken-Smith",
+      "description": "A legendary subterranean smith kills a farmer's horse after the farmer refuses to pay him for borrowing a spit."
     },
     {
       "kind": "play",
