@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.411.0",
+  "version": "0.416.0",
   "plays": [
     {
       "kind": "play",
@@ -938,6 +938,36 @@
       "id": "ds_156_grinken_schmidt",
       "title": "Grinken-Smith",
       "description": "A legendary subterranean smith kills a farmer's horse after the farmer refuses to pay him for borrowing a spit."
+    },
+    {
+      "kind": "play",
+      "id": "ds_157_die_hirtenjungen",
+      "title": "The Shepherd Boys",
+      "description": "Two shepherd boys find a hoard of coins inside a mountain cave but barely escape a magically closing stone door."
+    },
+    {
+      "kind": "play",
+      "id": "ds_158_die_nusskerne",
+      "title": "The Nut Kernels",
+      "description": "A lazy boy following a mysterious nut-cracking lady discovers an underground cellar filled with barrels of gold."
+    },
+    {
+      "kind": "play",
+      "id": "ds_159_der_soester_schatz",
+      "title": "The Treasure of Soest",
+      "description": "A girl follows a goat into a ruin where a maiden gives her cherries that instantly turn into valuable coins."
+    },
+    {
+      "kind": "play",
+      "id": "ds_160_das_quellende_silber",
+      "title": "The Gushing Silver",
+      "description": "A poor girl meeting a white-dressed man in the forest receives a basket of silver coins gushing from a hill."
+    },
+    {
+      "kind": "play",
+      "id": "ds_161_goldsand_auf_dem_unterberg",
+      "title": "Gold Sand on the Unterberg",
+      "description": "Men discover gold sand on the Untersberg mountain but face warnings and a fleeting door into another world."
     },
     {
       "kind": "play",
