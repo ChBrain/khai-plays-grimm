@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.431.0",
+  "version": "0.436.0",
   "plays": [
     {
       "kind": "play",
@@ -1058,6 +1058,36 @@
       "id": "ds_176_geister_mahl",
       "title": "The Ghostly Banquet",
       "description": "A traveler in a haunted room witnesses a ghostly feast that vanishes upon prayer, leaving behind valuable silver."
+    },
+    {
+      "kind": "play",
+      "id": "ds_177_der_dachdecker",
+      "title": "The Roofer",
+      "description": "A young roofer speaks irrationally from a tower top before falling to his death while his father prays for him."
+    },
+    {
+      "kind": "play",
+      "id": "ds_178_die_spinnerin_am_creuz",
+      "title": "The Spinner at the Cross",
+      "description": "A poor woman spins yarn diligently for years to earn enough money to build a stone shrine near Vienna."
+    },
+    {
+      "kind": "play",
+      "id": "ds_179_buttermilchthurm",
+      "title": "The Buttermilk Tower",
+      "description": "Prussian peasants who mock a Deutschmeister are forced to eat a whole barrel of buttermilk inside a tower."
+    },
+    {
+      "kind": "play",
+      "id": "ds_180_der_heilige_wanfried",
+      "title": "Saint Winfried",
+      "description": "Saint Boniface stamps a foot imprint into the Christenberg and causes a dry wooden staff to sprout green leaves."
+    },
+    {
+      "kind": "play",
+      "id": "ds_181_der_huelfenberg",
+      "title": "The Huelfenberg",
+      "description": "A tricked devil bursts out of a chapel on the Hülfenberg, leaving a hole in the gable that can never be closed."
     },
     {
       "kind": "play",
