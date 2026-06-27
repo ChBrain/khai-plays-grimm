@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.426.0",
+  "version": "0.431.0",
   "plays": [
     {
       "kind": "play",
@@ -1028,6 +1028,36 @@
       "id": "ds_171_der_wilde_jaeger_hackelberg",
       "title": "The Wild Hunter Hackelberg",
       "description": "The ghost of Jägermeister Hackelberg hunts forever on the Solling mountain after refusing heaven for his passion."
+    },
+    {
+      "kind": "play",
+      "id": "ds_172_der_wilde_jaeger_und_der_schneider",
+      "title": "The Wild Hunter and the Tailor",
+      "description": "A tailor in Münster mocks the wild hunter and gets knocked unconscious by a ghostly horse foot flying in."
+    },
+    {
+      "kind": "play",
+      "id": "ds_173_der_hoselberg",
+      "title": "The Hoselberg",
+      "description": "A Thuringian mountain contains purgatory, prompting an English queen to build a chapel at its base to pray."
+    },
+    {
+      "kind": "play",
+      "id": "ds_174_des_rechenbergers_knecht",
+      "title": "The Rechenberger's Servant",
+      "description": "Hans von Rechenberg has a loyal servant who performs supernatural feats and is revealed to be a helpful spirit."
+    },
+    {
+      "kind": "play",
+      "id": "ds_175_geister_kirche",
+      "title": "Ghost Church",
+      "description": "A woman wanders into a midnight mass of headless spirits who chase her and tear her coat into pieces."
+    },
+    {
+      "kind": "play",
+      "id": "ds_176_geister_mahl",
+      "title": "The Ghostly Banquet",
+      "description": "A traveler in a haunted room witnesses a ghostly feast that vanishes upon prayer, leaving behind valuable silver."
     },
     {
       "kind": "play",
