@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.401.0",
+  "version": "0.406.0",
   "plays": [
     {
       "kind": "play",
@@ -878,6 +878,36 @@
       "id": "ds_146_gottschee",
       "title": "Gottschee",
       "description": "A hunter is led into a subterranean cave by a spirit and witnesses the silent souls of former castle lords."
+    },
+    {
+      "kind": "play",
+      "id": "ds_147_die_zwerge_auf_dem_baum",
+      "title": "The Dwarves on the Tree",
+      "description": "Helpful dwarves who sit on a maple branch during haymaking are betrayed when locals saw it through at night."
+    },
+    {
+      "kind": "play",
+      "id": "ds_148_die_zwerge_auf_dem_felsstein",
+      "title": "The Dwarves on the Boulder",
+      "description": "Dwarves who watch haymakers from a boulder are cruelly burned when pranksters heat the stone red-hot."
+    },
+    {
+      "kind": "play",
+      "id": "ds_149_die_fuesse_der_zwerge",
+      "title": "The Feet of the Dwarves",
+      "description": "A shepherd scatters ash to discover the dwarves have goose feet, and his mockery drives them away forever."
+    },
+    {
+      "kind": "play",
+      "id": "ds_150_die_wilden_geister",
+      "title": "The Wild Spirits",
+      "description": "German villagers in Veneto appease the Wild Man and Forest Woman with burnt hair and read spirit footprints in ash."
+    },
+    {
+      "kind": "play",
+      "id": "ds_151_die_heilingszwerge",
+      "title": "The Heiling Dwarves",
+      "description": "A berry-picking woman enters the dwarf-prince Heiling's cave and awakens a century later to find her world gone."
     },
     {
       "kind": "play",
