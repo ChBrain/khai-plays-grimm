@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.436.0",
+  "version": "0.441.0",
   "plays": [
     {
       "kind": "play",
@@ -1088,6 +1088,36 @@
       "id": "ds_181_der_huelfenberg",
       "title": "The Huelfenberg",
       "description": "A tricked devil bursts out of a chapel on the Hülfenberg, leaving a hole in the gable that can never be closed."
+    },
+    {
+      "kind": "play",
+      "id": "ds_182_das_teufelsloch_zu_goslar",
+      "title": "The Devil's Hole in Goslar",
+      "description": "A violent dispute in Goslar is incensed by the devil, leaving a hole in the church wall that requires a cat to seal."
+    },
+    {
+      "kind": "play",
+      "id": "ds_183_die_teufelsmuehle",
+      "title": "The Devil's Mill",
+      "description": "A miller makes a pact with the devil to build a windmill, but a premature rooster crow causes its destruction."
+    },
+    {
+      "kind": "play",
+      "id": "ds_184_der_herrgottstritt",
+      "title": "The Footprint of the Lord",
+      "description": "Christ leaves footprint imprints in rock after banishing the devil to a ravine to weep tears for a thousand years."
+    },
+    {
+      "kind": "play",
+      "id": "ds_185_die_sachsenhaeuser_bruecke_zu_frankfurt",
+      "title": "The Sachsenhausen Bridge in Frankfurt",
+      "description": "A builder tricks the devil by driving a rooster across a newly completed bridge built under a soul contract."
+    },
+    {
+      "kind": "play",
+      "id": "ds_186_der_wolf_und_der_tannenzapf",
+      "title": "The Wolf and the Pinecone",
+      "description": "Aachen citizens trick the devil by sending a wolf into the cathedral first, causing him to slam and split the door."
     },
     {
       "kind": "play",
