@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.496.0",
+  "version": "0.501.0",
   "plays": [
     {
       "kind": "play",
@@ -1448,6 +1448,36 @@
       "id": "ds_241_der_binger_maeusethurm",
       "title": "The Mouse Tower of Bingen",
       "description": "A cruel archbishop who burns starving peasants in a barn is chased and eaten alive by mice in a Rhine tower."
+    },
+    {
+      "kind": "play",
+      "id": "ds_242_das_bubenried",
+      "title": "The Boys' Clearing",
+      "description": "Two begging boys who refuse to share a small loaf of bread fight and beat each other to death with fence stakes."
+    },
+    {
+      "kind": "play",
+      "id": "ds_243_kindelbrueck",
+      "title": "Children's Bridge",
+      "description": "A Thuringian town is named after two children who ride hobbyhorses on a bridge and drown in the river below."
+    },
+    {
+      "kind": "play",
+      "id": "ds_244_die_kinder_zu_hameln",
+      "title": "The Children of Hameln",
+      "description": "A strange piper lures Hamelin's rats into a river and later leads all the children away when citizens refuse pay."
+    },
+    {
+      "kind": "play",
+      "id": "ds_245_der_rattenfaenger",
+      "title": "The Rat Catcher",
+      "description": "A miller takes a magic cane left by a rat catcher, causing all the rats in the village to follow him to his mill."
+    },
+    {
+      "kind": "play",
+      "id": "ds_246_der_schlangenfaenger",
+      "title": "The Snake Catcher",
+      "description": "A Salzburg sorcerer who boasts he can gather and destroy all snakes is coiled and dragged to his death by a giant one."
     },
     {
       "kind": "play",
