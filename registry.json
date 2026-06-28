@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.461.0",
+  "version": "0.466.0",
   "plays": [
     {
       "kind": "play",
@@ -1238,6 +1238,36 @@
       "id": "ds_206_des_teufels_brand",
       "title": "The Devil's Fire",
       "description": "The devil mockingly exposes the sins of local priests and burns down the town of Schiltach using a magic kettle."
+    },
+    {
+      "kind": "play",
+      "id": "ds_207_die_teufels_hufeisen",
+      "title": "The Devil's Horseshoes",
+      "description": "The devil rides a cheating beer seller to a blacksmith who delays the shoeing until the morning cock crows."
+    },
+    {
+      "kind": "play",
+      "id": "ds_208_der_teufel_fuehrt_die_braut_fort",
+      "title": "The Devil Carries the Bride Away",
+      "description": "A rich woman breaks her wedding vow to her poor lover and is carried off by the devil during her wedding dance."
+    },
+    {
+      "kind": "play",
+      "id": "ds_209_das_gluecksrad",
+      "title": "The Wheel of Fortune",
+      "description": "Twelve soldiers spin on the devil's wheel of fortune where one is taken and the rest wake up empty-handed."
+    },
+    {
+      "kind": "play",
+      "id": "ds_210_der_teufel_als_fuersprecher",
+      "title": "The Devil as Advocate",
+      "description": "The devil disguised in a blue hat defends a cheated mercenary and carries off the swearing lying landlord."
+    },
+    {
+      "kind": "play",
+      "id": "ds_211_traum_vom_schatz_auf_der_bruecke",
+      "title": "Dream of the Treasure on the Bridge",
+      "description": "A dreamer finds a treasure under a tree after a merchant on a bridge mocks dreams and tells him where to dig."
     },
     {
       "kind": "play",
