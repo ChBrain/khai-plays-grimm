@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.456.0",
+  "version": "0.461.0",
   "plays": [
     {
       "kind": "play",
@@ -1208,6 +1208,36 @@
       "id": "ds_201_die_felsenbruecke",
       "title": "The Rock Bridge",
       "description": "A shepherd leaps over a heap of coals placed by the devil on a narrow bridge after praying to the Virgin Mary."
+    },
+    {
+      "kind": "play",
+      "id": "ds_202_das_teufelsbad_bei_dassel",
+      "title": "The Devil's Pool near Dassel",
+      "description": "The devil steals a golden bell and later drags an impious plowing farmer down into the bottomless Teufelsbad."
+    },
+    {
+      "kind": "play",
+      "id": "ds_203_der_thurm_zu_schartfeld",
+      "title": "The Tower of Schartfeld",
+      "description": "The devil throws the roof off the Schartfeld tower to expose a monk who abetted the emperor's adultery."
+    },
+    {
+      "kind": "play",
+      "id": "ds_204_der_dom_zu_coeln",
+      "title": "Cologne Cathedral",
+      "description": "Cologne Cathedral remains unfinished after its proud builder loses a bet to the devil and leaps to his death."
+    },
+    {
+      "kind": "play",
+      "id": "ds_205_des_teufels_hut",
+      "title": "The Devil's Hat",
+      "description": "The devil boasts of wearing a massive stone as a hat until Christ easily lifts it with a single finger."
+    },
+    {
+      "kind": "play",
+      "id": "ds_206_des_teufels_brand",
+      "title": "The Devil's Fire",
+      "description": "The devil mockingly exposes the sins of local priests and burns down the town of Schiltach using a magic kettle."
     },
     {
       "kind": "play",
