@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.441.0",
+  "version": "0.446.0",
   "plays": [
     {
       "kind": "play",
@@ -1118,6 +1118,36 @@
       "id": "ds_186_der_wolf_und_der_tannenzapf",
       "title": "The Wolf and the Pinecone",
       "description": "Aachen citizens trick the devil by sending a wolf into the cathedral first, causing him to slam and split the door."
+    },
+    {
+      "kind": "play",
+      "id": "ds_187_der_teufel_von_ach",
+      "title": "The Devil of Ach",
+      "description": "The devil is banished inside a large tower in the city wall of Aachen, where he makes noise until Judgment Day."
+    },
+    {
+      "kind": "play",
+      "id": "ds_188_die_teufelsmauer",
+      "title": "The Devil's Wall",
+      "description": "A premature rooster crow ruins a pact between God and the devil, who breaks his own wall in a furious rage."
+    },
+    {
+      "kind": "play",
+      "id": "ds_189_des_teufels_tanzplatz",
+      "title": "The Devil's Dance Floor",
+      "description": "The devil builds walls to divide the Earth with God and dances in celebration on a rocky plateau in the Harz."
+    },
+    {
+      "kind": "play",
+      "id": "ds_190_die_teufelskanzel",
+      "title": "The Devil's Pulpit",
+      "description": "The devil once preached to the local people from a row of rocks in Baden called the Devil's Pulpit."
+    },
+    {
+      "kind": "play",
+      "id": "ds_191_das_teufelsohrkissen",
+      "title": "The Devil's Ear Pillow",
+      "description": "A flat stone at the foot of Castle Bentheim contains the ear print of the devil who once slept upon it."
     },
     {
       "kind": "play",
