@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.486.0",
+  "version": "0.491.0",
   "plays": [
     {
       "kind": "play",
@@ -1388,6 +1388,36 @@
       "id": "ds_231_die_bauern_zu_kolbeck",
       "title": "The Dancers of Kolbeck",
       "description": "Peasants mocking Christmas mass are cursed by a priest to dance for a whole year without stopping for food or rest."
+    },
+    {
+      "kind": "play",
+      "id": "ds_232_der_heilige_sonntag",
+      "title": "The Holy Sunday",
+      "description": "Spinnings on Sunday bring fire that consumes a home while a Sunday plowman has his tool grow directly into his hand."
+    },
+    {
+      "kind": "play",
+      "id": "ds_233_frau_huett",
+      "title": "Lady Huett",
+      "description": "A giant queen is turned to stone after her servant abuses bread crumbs to wipe mud off her young son."
+    },
+    {
+      "kind": "play",
+      "id": "ds_234_der_kindelsberg",
+      "title": "The Kindelsberg",
+      "description": "Overproud knights are struck by the plague before a beautiful daughter is slain by a rejected black knight."
+    },
+    {
+      "kind": "play",
+      "id": "ds_235_die_semmel_schuhe",
+      "title": "The Roll Shoes",
+      "description": "A vain daughter who wears hollowed-out rolls as shoes to church sinks with her castle into the ground."
+    },
+    {
+      "kind": "play",
+      "id": "ds_236_der_erdfall_bei_hochstaedt",
+      "title": "The Sinkhole near Hochstaedt",
+      "description": "Angry boys who stomp and whip their bread are swallowed up by a sudden sinkhole while the innocent boy escapes."
     },
     {
       "kind": "play",
