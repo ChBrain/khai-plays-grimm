@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.481.0",
+  "version": "0.486.0",
   "plays": [
     {
       "kind": "play",
@@ -1358,6 +1358,36 @@
       "id": "ds_226_die_verfluchte_jungfer",
       "title": "The Cursed Maiden",
       "description": "A stubborn daughter cursed to dwell in an Eisenach cave can only be saved if a traveler blesses her when she sneezes."
+    },
+    {
+      "kind": "play",
+      "id": "ds_227_das_fraeulein_vom_staufenberg",
+      "title": "The Maiden of Staufenberg",
+      "description": "An enchanted castle maiden with golden curly hair periodically appears on a Harz mountain cliff bearing her footprint."
+    },
+    {
+      "kind": "play",
+      "id": "ds_228_der_jungferstein",
+      "title": "The Virgin's Stone",
+      "description": "A daughter who gathers blueberries on Sunday instead of attending church is cursed by her mother and turns to stone."
+    },
+    {
+      "kind": "play",
+      "id": "ds_229_das_steinerne_brautbett",
+      "title": "The Stone Bridal Bed",
+      "description": "A mother curses her disobedient daughter's bridal bed which turns to stone on her wedding night during a storm."
+    },
+    {
+      "kind": "play",
+      "id": "ds_230_zum_stehen_verwuenscht",
+      "title": "Cursed to Stand",
+      "description": "An angry father curses his lazy son to stand in one spot for seven years wearing deep holes into the floorboards."
+    },
+    {
+      "kind": "play",
+      "id": "ds_231_die_bauern_zu_kolbeck",
+      "title": "The Dancers of Kolbeck",
+      "description": "Peasants mocking Christmas mass are cursed by a priest to dance for a whole year without stopping for food or rest."
     },
     {
       "kind": "play",
