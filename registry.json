@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.506.0",
+  "version": "0.511.0",
   "plays": [
     {
       "kind": "play",
@@ -1508,6 +1508,36 @@
       "id": "ds_251_der_hexen_tanz",
       "title": "The Witches' Dance",
       "description": "A whistling boy who climbs a tree to play for a witch gathering invokes God's name, causing them all to vanish."
+    },
+    {
+      "kind": "play",
+      "id": "ds_252_die_weinreben_und_nasen",
+      "title": "The Grapevines and Noses",
+      "description": "A court illusionist tricks his dinner guests into holding their own noses with knives, believing they cut grapes."
+    },
+    {
+      "kind": "play",
+      "id": "ds_253_fest_haengen",
+      "title": "Hanging Fast",
+      "description": "A Magdeburg crowd watches a magician and his household climb a rope into the sky, while he walks back to his inn."
+    },
+    {
+      "kind": "play",
+      "id": "ds_254_das_noth_hemd",
+      "title": "The Emergency Shirt",
+      "description": "A magic linen shirt spun by two innocent young girls on Christmas Eve protects its wearer from all battle wounds."
+    },
+    {
+      "kind": "play",
+      "id": "ds_255_fest_gemacht",
+      "title": "Made Bulletproof",
+      "description": "Soldiers who know the art of invulnerability ward off all bullets or shake them unharmed from their sleeves."
+    },
+    {
+      "kind": "play",
+      "id": "ds_256_der_sichere_schuss",
+      "title": "The Sure Shot",
+      "description": "A magic marksman is able to hit any named target within range, even if he fires at random through a window."
     },
     {
       "kind": "play",
