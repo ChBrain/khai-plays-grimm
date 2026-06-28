@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.511.0",
+  "version": "0.516.0",
   "plays": [
     {
       "kind": "play",
@@ -1538,6 +1538,36 @@
       "id": "ds_256_der_sichere_schuss",
       "title": "The Sure Shot",
       "description": "A magic marksman is able to hit any named target within range, even if he fires at random through a window."
+    },
+    {
+      "kind": "play",
+      "id": "ds_257_der_herumziehende_jaeger",
+      "title": "The Wandering Hunter",
+      "description": "A mysterious hunter puts an end to a series of phantom sniper killings in a haunted forest."
+    },
+    {
+      "kind": "play",
+      "id": "ds_258_doppelte_gestalt",
+      "title": "Double Form",
+      "description": "A sick nobleman is tricked by a traveler into accusing his honest neighbor of witchcraft through a phantom double."
+    },
+    {
+      "kind": "play",
+      "id": "ds_259_gespenst_als_eheweib",
+      "title": "The Spectre Wife",
+      "description": "A nobleman is plagued by a phantom that perfectly mirrors his wife and follows them through every house."
+    },
+    {
+      "kind": "play",
+      "id": "ds_260_tod_des_erstgebornen",
+      "title": "Death of the Firstborn",
+      "description": "An innocent nurse is executed for suffocating a baby and leaves behind a curse on the family's firstborn sons."
+    },
+    {
+      "kind": "play",
+      "id": "ds_261_der_knabe_zu_colmar",
+      "title": "The Boy of Colmar",
+      "description": "A clairvoyant boy senses a hidden skeleton in a garden and slowly wastes away from his terrifying visions."
     },
     {
       "kind": "play",
