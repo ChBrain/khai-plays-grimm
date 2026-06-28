@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.521.0",
+  "version": "0.526.0",
   "plays": [
     {
       "kind": "play",
@@ -1598,6 +1598,36 @@
       "id": "ds_266_todes_gespenst",
       "title": "The Spectre of Death",
       "description": "A shapeshifting spectre in Tyrol peers through windows to signal the imminent death of those residing within."
+    },
+    {
+      "kind": "play",
+      "id": "ds_267_frau_berta_oder_die_weisse_frau",
+      "title": "Frau Berta or the White Lady",
+      "description": "The ghostly White Lady of Neuhaus signals the imminent death or joy of several noble families she visits."
+    },
+    {
+      "kind": "play",
+      "id": "ds_268_die_wilde_berta_kommt",
+      "title": "The Wild Berta is Coming",
+      "description": "The terrifying wild Berta punishes girls who fail to spin their flax by cutting open their bellies."
+    },
+    {
+      "kind": "play",
+      "id": "ds_269_der_tuerst_das_posterli_und_die_straeggele",
+      "title": "The Tuerst, the Posterli and the Straeggele",
+      "description": "Lucerne forest storms and winter solstice spirits chase girls who have not finished their daily spinning work."
+    },
+    {
+      "kind": "play",
+      "id": "ds_270_der_nachtjaeger_und_die_ruettelweiber",
+      "title": "The Night Hunter and the Ruettelweiber",
+      "description": "The mythical Night Hunter of the Giant Mountains pursues small moss-clothed spirits fleeing through the woods."
+    },
+    {
+      "kind": "play",
+      "id": "ds_271_der_mann_mit_dem_schlackhut",
+      "title": "The Man with the Slouch Hat",
+      "description": "A bearded ghost in a slouch hat visits an old woman in a ruined castle and silently smokes a pipe at her table."
     },
     {
       "kind": "play",
