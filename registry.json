@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.451.0",
+  "version": "0.456.0",
   "plays": [
     {
       "kind": "play",
@@ -1178,6 +1178,36 @@
       "id": "ds_196_teufelskirche",
       "title": "The Devil's Church",
       "description": "The devil steals building stones from a valley church project and piles them up on a Rhön mountain peak."
+    },
+    {
+      "kind": "play",
+      "id": "ds_197_teufelsstein_bei_reichenbach",
+      "title": "The Devil's Stone near Reichenbach",
+      "description": "The devil builds a complex stone shelter in a single night to house local villagers during war times."
+    },
+    {
+      "kind": "play",
+      "id": "ds_198_teufelsstein_bei_coeln",
+      "title": "The Devil's Stone near Cologne",
+      "description": "The devil attempts to destroy a chapel in Cologne by throwing a heavy stone but fails completely."
+    },
+    {
+      "kind": "play",
+      "id": "ds_199_suentelstein_zu_osnabrueck",
+      "title": "The Suentelstein near Osnabrueck",
+      "description": "The devil carries a massive stone through the air by a chain and drops it near the city of Osnabrück."
+    },
+    {
+      "kind": "play",
+      "id": "ds_200_der_luegenstein",
+      "title": "The Stone of Lies",
+      "description": "The devil agrees to drop a rock next to the Halberstadt Dom in exchange for a promised wine house."
+    },
+    {
+      "kind": "play",
+      "id": "ds_201_die_felsenbruecke",
+      "title": "The Rock Bridge",
+      "description": "A shepherd leaps over a heap of coals placed by the devil on a narrow bridge after praying to the Virgin Mary."
     },
     {
       "kind": "play",
