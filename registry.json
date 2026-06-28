@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.491.0",
+  "version": "0.496.0",
   "plays": [
     {
       "kind": "play",
@@ -1418,6 +1418,36 @@
       "id": "ds_236_der_erdfall_bei_hochstaedt",
       "title": "The Sinkhole near Hochstaedt",
       "description": "Angry boys who stomp and whip their bread are swallowed up by a sudden sinkhole while the innocent boy escapes."
+    },
+    {
+      "kind": "play",
+      "id": "ds_237_die_brot_schuhe",
+      "title": "The Bread Shoes",
+      "description": "A grieving mother buries her child in shoes made of bread, whose spirit haunts her until they are replaced."
+    },
+    {
+      "kind": "play",
+      "id": "ds_238_das_taube_korn",
+      "title": "The Deaf Grain",
+      "description": "A rich widow who dumps grain into the sea has her harbor blocked by a sandbank where only deaf grass grows."
+    },
+    {
+      "kind": "play",
+      "id": "ds_239_der_frauensand",
+      "title": "The Lady's Sand",
+      "description": "A proud maiden who wastes grain is ruined after a swallowed ring predicted her demise from starvation."
+    },
+    {
+      "kind": "play",
+      "id": "ds_240_brot_zu_stein_geworden",
+      "title": "Bread Turned to Stone",
+      "description": "Greedy and heartless people who refuse bread to the needy have their loaves miraculously turned to stone."
+    },
+    {
+      "kind": "play",
+      "id": "ds_241_der_binger_maeusethurm",
+      "title": "The Mouse Tower of Bingen",
+      "description": "A cruel archbishop who burns starving peasants in a barn is chased and eaten alive by mice in a Rhine tower."
     },
     {
       "kind": "play",
