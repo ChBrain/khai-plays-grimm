@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.526.0",
+  "version": "0.531.0",
   "plays": [
     {
       "kind": "play",
@@ -1628,6 +1628,36 @@
       "id": "ds_271_der_mann_mit_dem_schlackhut",
       "title": "The Man with the Slouch Hat",
       "description": "A bearded ghost in a slouch hat visits an old woman in a ruined castle and silently smokes a pipe at her table."
+    },
+    {
+      "kind": "play",
+      "id": "ds_272_der_graue_hockelmann",
+      "title": "The Gray Hockelmann",
+      "description": "A grey ghost forces an Auerbach farmer to carry him up to the castle hill, leading to the farmer's fatal exhaustion."
+    },
+    {
+      "kind": "play",
+      "id": "ds_273_chimmeke_in_pommern",
+      "title": "Chimmeke in Pomerania",
+      "description": "The Pomeranian house spirit Chimmeke chops up a kitchen boy in Schloss Lonz for eating his daily milk offering."
+    },
+    {
+      "kind": "play",
+      "id": "ds_274_der_krischer",
+      "title": "The Screecher",
+      "description": "A shapeshifting forest ghost mimicking animal cries terrifies local shepherds and leads travelers astray."
+    },
+    {
+      "kind": "play",
+      "id": "ds_275_die_ueberschiffenden_moenche",
+      "title": "The Ferrying Monks",
+      "description": "Ghostly monks cross the Rhine in Speyer, beating a fisherman during a storm before flying away in a fiery cart."
+    },
+    {
+      "kind": "play",
+      "id": "ds_276_der_irrwisch",
+      "title": "The Will-o'-the-Wisp",
+      "description": "A will-o-the-wisp follows a mocking girl into her parents' home and beats the family with its fiery wings."
     },
     {
       "kind": "play",
