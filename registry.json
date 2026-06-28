@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.501.0",
+  "version": "0.506.0",
   "plays": [
     {
       "kind": "play",
@@ -1478,6 +1478,36 @@
       "id": "ds_246_der_schlangenfaenger",
       "title": "The Snake Catcher",
       "description": "A Salzburg sorcerer who boasts he can gather and destroy all snakes is coiled and dragged to his death by a giant one."
+    },
+    {
+      "kind": "play",
+      "id": "ds_247_das_maeuselein",
+      "title": "The Little Mouse",
+      "description": "A sleeping maid dies after a curious bystander moves her body, preventing her soul mouse from returning."
+    },
+    {
+      "kind": "play",
+      "id": "ds_248_der_ausgehende_rauch",
+      "title": "The Departing Smoke",
+      "description": "A master watches his maids send black smoke to press a stableboy and dies after shaking one during her sleep."
+    },
+    {
+      "kind": "play",
+      "id": "ds_249_die_katze_aus_dem_weidenbaum",
+      "title": "The Cat from the Willow Tree",
+      "description": "Farmhands follow a maid who turns into a cat in a hollow willow tree, leaving her body lifeless until she returns."
+    },
+    {
+      "kind": "play",
+      "id": "ds_250_wetter_und_hagel_machen",
+      "title": "Making Weather and Hail",
+      "description": "Witches who attempt to freeze crops or call down hail are punished by local citizens or fail in their magic."
+    },
+    {
+      "kind": "play",
+      "id": "ds_251_der_hexen_tanz",
+      "title": "The Witches' Dance",
+      "description": "A whistling boy who climbs a tree to play for a witch gathering invokes God's name, causing them all to vanish."
     },
     {
       "kind": "play",
