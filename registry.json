@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.471.0",
+  "version": "0.476.0",
   "plays": [
     {
       "kind": "play",
@@ -1298,6 +1298,36 @@
       "id": "ds_216_der_drache_faehrt_aus",
       "title": "The Dragon Flies Out",
       "description": "A Swiss cooper survives the winter inside a deep pit with two dragons and escapes by holding onto a dragon's tail."
+    },
+    {
+      "kind": "play",
+      "id": "ds_217_winkelried_und_der_lindwurm",
+      "title": "Winkelried and the Dragon",
+      "description": "An exiled hero kills a devastating dragon using thorns but dies from the monster's toxic blood on his skin."
+    },
+    {
+      "kind": "play",
+      "id": "ds_218_der_lindwurm_am_brunnen",
+      "title": "The Dragon at the Well",
+      "description": "A knight defeats a well-guarding dragon but is killed when the monster's venomous tail stings his unarmored knee."
+    },
+    {
+      "kind": "play",
+      "id": "ds_219_das_drachenloch",
+      "title": "The Dragon's Cave",
+      "description": "A count slays a giant dragon and retrieves his younger brother alive from the split belly of the monster."
+    },
+    {
+      "kind": "play",
+      "id": "ds_220_schlangenkoenigin",
+      "title": "The Snake Queen",
+      "description": "A snake queen rewards a kind shepherd girl with a golden crown on her wedding day to bring her eternal wealth."
+    },
+    {
+      "kind": "play",
+      "id": "ds_221_die_jungfrau_im_oselberg",
+      "title": "The Virgin of Oselberg",
+      "description": "A cursed castle maiden appears as a ghost snake with a human head and key ring during the quarterly Ember days."
     },
     {
       "kind": "play",
