@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.466.0",
+  "version": "0.471.0",
   "plays": [
     {
       "kind": "play",
@@ -1268,6 +1268,36 @@
       "id": "ds_211_traum_vom_schatz_auf_der_bruecke",
       "title": "Dream of the Treasure on the Bridge",
       "description": "A dreamer finds a treasure under a tree after a merchant on a bridge mocks dreams and tells him where to dig."
+    },
+    {
+      "kind": "play",
+      "id": "ds_212_der_kessel_mit_dem_schatz",
+      "title": "The Kettle with the Treasure",
+      "description": "A rising kettle of gold sinks back under the stove when a girl cries out in surprise instead of keeping silent."
+    },
+    {
+      "kind": "play",
+      "id": "ds_213_der_waerwolf",
+      "title": "The Werewolf",
+      "description": "A logger transforms into a werewolf using a magic belt and devours a foal while his companion secretly watches."
+    },
+    {
+      "kind": "play",
+      "id": "ds_214_der_waerwolf_stein",
+      "title": "The Werewolf Stone",
+      "description": "A shepherd chases a mocking werewolf assistant who transforms into a thornbush before being struck down."
+    },
+    {
+      "kind": "play",
+      "id": "ds_215_die_waerwoelfe_ziehen_aus",
+      "title": "The Werewolves Set Out",
+      "description": "A leader with a wire whip drives a horde of shape-shifted werewolves across parted waters to raid Livonian herds."
+    },
+    {
+      "kind": "play",
+      "id": "ds_216_der_drache_faehrt_aus",
+      "title": "The Dragon Flies Out",
+      "description": "A Swiss cooper survives the winter inside a deep pit with two dragons and escapes by holding onto a dragon's tail."
     },
     {
       "kind": "play",
