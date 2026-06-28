@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.446.0",
+  "version": "0.451.0",
   "plays": [
     {
       "kind": "play",
@@ -1148,6 +1148,36 @@
       "id": "ds_191_das_teufelsohrkissen",
       "title": "The Devil's Ear Pillow",
       "description": "A flat stone at the foot of Castle Bentheim contains the ear print of the devil who once slept upon it."
+    },
+    {
+      "kind": "play",
+      "id": "ds_192_der_teufelsfelsen",
+      "title": "The Devil's Rock",
+      "description": "Satan tempts Christ from the Cößein rock but excludes two rough villages which remain the devil's own territory."
+    },
+    {
+      "kind": "play",
+      "id": "ds_193_teufelsmauer",
+      "title": "Devil's Wall",
+      "description": "The devil tries to build a stone wall across the Danube, but the stones constantly slip out of his hands."
+    },
+    {
+      "kind": "play",
+      "id": "ds_194_teufelsgitter",
+      "title": "The Devil's Grille",
+      "description": "A frustrated blacksmith wishes the devil to finish an intricate baptismal grid, and the devil immediately does so."
+    },
+    {
+      "kind": "play",
+      "id": "ds_195_teufelsmuehle",
+      "title": "The Devil's Mill",
+      "description": "The devil builds a Weser windmill and drives the wheel with a rocky stream, creating a local legend."
+    },
+    {
+      "kind": "play",
+      "id": "ds_196_teufelskirche",
+      "title": "The Devil's Church",
+      "description": "The devil steals building stones from a valley church project and piles them up on a Rhön mountain peak."
     },
     {
       "kind": "play",
