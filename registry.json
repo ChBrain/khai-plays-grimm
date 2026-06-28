@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.476.0",
+  "version": "0.481.0",
   "plays": [
     {
       "kind": "play",
@@ -1328,6 +1328,36 @@
       "id": "ds_221_die_jungfrau_im_oselberg",
       "title": "The Virgin of Oselberg",
       "description": "A cursed castle maiden appears as a ghost snake with a human head and key ring during the quarterly Ember days."
+    },
+    {
+      "kind": "play",
+      "id": "ds_222_der_kroetenstuhl",
+      "title": "The Toad Stool",
+      "description": "A proud cursed daughter appearing as a snake or toad must be kissed weekly on Nothweiler Castle to be redeemed."
+    },
+    {
+      "kind": "play",
+      "id": "ds_223_die_wiesenjungfrau",
+      "title": "The Meadow Maiden",
+      "description": "A fearful shepherd boy thrice refuses to rescue a white meadow maiden who is cursed to wait for a cherrywood cradle."
+    },
+    {
+      "kind": "play",
+      "id": "ds_224_das_niesen_im_wasser",
+      "title": "The Sneezing in the Water",
+      "description": "A spirit sneezing in the Auerbach is freed when a traveler blesses him but a curse falls on a cursing traveler."
+    },
+    {
+      "kind": "play",
+      "id": "ds_225_die_arme_seele",
+      "title": "The Poor Soul",
+      "description": "A sneezing soul under a Paderborn bridge tips over any passing carriage whose driver fails to say a blessing."
+    },
+    {
+      "kind": "play",
+      "id": "ds_226_die_verfluchte_jungfer",
+      "title": "The Cursed Maiden",
+      "description": "A stubborn daughter cursed to dwell in an Eisenach cave can only be saved if a traveler blesses her when she sneezes."
     },
     {
       "kind": "play",
