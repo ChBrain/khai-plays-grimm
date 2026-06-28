@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.516.0",
+  "version": "0.521.0",
   "plays": [
     {
       "kind": "play",
@@ -1568,6 +1568,36 @@
       "id": "ds_261_der_knabe_zu_colmar",
       "title": "The Boy of Colmar",
       "description": "A clairvoyant boy senses a hidden skeleton in a garden and slowly wastes away from his terrifying visions."
+    },
+    {
+      "kind": "play",
+      "id": "ds_262_tod_des_domherrn_zu_merseburg",
+      "title": "Death of the Canon of Merseburg",
+      "description": "A mysterious thunderous blow strikes a canon's seat in Merseburg Cathedral three weeks before his death."
+    },
+    {
+      "kind": "play",
+      "id": "ds_263_die_lilie_im_kloster_zu_corvei",
+      "title": "The Lily in the Monastery of Corvey",
+      "description": "A warning lily descending onto a monk's seat in Corvey Abbey leads to the sudden death of a young mock monk."
+    },
+    {
+      "kind": "play",
+      "id": "ds_264_rebundus_im_dom_zu_luebeck",
+      "title": "Rebundus in the Cathedral of Lubeck",
+      "description": "A Lubeck canon tries to pass a death warning rose to his neighbor, resulting in a curse that shakes his tomb."
+    },
+    {
+      "kind": "play",
+      "id": "ds_265_glocke_laeutet_von_selbst",
+      "title": "The Bell Tolls by Itself",
+      "description": "Self-tolling church and house bells warn citizens of a town of their impending death or that of their loved ones."
+    },
+    {
+      "kind": "play",
+      "id": "ds_266_todes_gespenst",
+      "title": "The Spectre of Death",
+      "description": "A shapeshifting spectre in Tyrol peers through windows to signal the imminent death of those residing within."
     },
     {
       "kind": "play",
