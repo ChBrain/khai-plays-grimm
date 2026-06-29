@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.561.0",
+  "version": "0.566.0",
   "plays": [
     {
       "kind": "play",
@@ -1838,6 +1838,36 @@
       "id": "ds_306_die_drei_jungfern_aus_dem_see",
       "title": "The Three Maidens from the Lake",
       "description": "A youth sets the village clock back to keep three lake maidens longer, leading to their tragic deaths in the water."
+    },
+    {
+      "kind": "play",
+      "id": "ds_307_der_todte_braeutigam",
+      "title": "The Dead Bridegroom",
+      "description": "A magician offers to rescue a drowned bridegroom from a Magdeburg nix in exchange for the couple's souls."
+    },
+    {
+      "kind": "play",
+      "id": "ds_308_der_ewige_jaeger",
+      "title": "The Eternal Hunter",
+      "description": "Graf Eberhard encounters a lord cursed to hunt the same stag for centuries with a face dried up like a sponge."
+    },
+    {
+      "kind": "play",
+      "id": "ds_309_hans_jagenteufel",
+      "title": "Hans Jagenteufel",
+      "description": "A Dresden woman meets a headless horseman holding his own head who warns her to repent of her sins."
+    },
+    {
+      "kind": "play",
+      "id": "ds_310_des_hackelnberg_traum",
+      "title": "Hackelnberg's Dream",
+      "description": "A Brunswick master hunter kills a boar from his prophetic dream but dies from a wound caused by kicking its tusk."
+    },
+    {
+      "kind": "play",
+      "id": "ds_311_die_tut_osel",
+      "title": "The Screech Owl",
+      "description": "A howling Thuringian nun is banished as an owl to the Harz where she joins the wild hunt of Hackelnberg."
     },
     {
       "kind": "play",
