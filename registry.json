@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.601.0",
+  "version": "0.606.0",
   "plays": [
     {
       "kind": "play",
@@ -2078,6 +2078,36 @@
       "id": "ds_346_das_christus_bild_zu_wittenberg",
       "title": "The Christ Image at Wittenberg",
       "description": "A miraculous image of Christ in Wittenberg always appears exactly one inch taller than the viewer."
+    },
+    {
+      "kind": "play",
+      "id": "ds_347_das_muttergottes_bild_am_felsen",
+      "title": "The Mother of God Image on the Cliff",
+      "description": "A desecrated image of Mary flees to a high cliff and turns rescue ropes as thin as hair to prevent removal."
+    },
+    {
+      "kind": "play",
+      "id": "ds_348_das_gnadenbild_aus_dem_lerchenstock_zu_waldrast",
+      "title": "The Miraculous Image from the Larch Trunk at Waldrast",
+      "description": "An angel commands a larch trunk to grow an image of Mary, and a woodcutter is chosen by a voice to build a chapel."
+    },
+    {
+      "kind": "play",
+      "id": "ds_349_ochsen_zeigen_die_heilige_staette",
+      "title": "Oxen Show the Holy Site",
+      "description": "A community uses yoked oxen to locate the divinely chosen site for building Saint Stephen church."
+    },
+    {
+      "kind": "play",
+      "id": "ds_350_notburga",
+      "title": "Notburga",
+      "description": "Princess Notburga escapes a forced marriage by riding a white stag across the Neckar to live in a cave."
+    },
+    {
+      "kind": "play",
+      "id": "ds_351_mauerkalk_mit_wein_geloescht",
+      "title": "Mortar Slaked with Wine",
+      "description": "Emperor Friedrich the Third orders citizens to use extremely sour wine to slake mortar for building Saint Stephen."
     },
     {
       "kind": "play",
