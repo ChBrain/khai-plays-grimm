@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.536.0",
+  "version": "0.541.0",
   "plays": [
     {
       "kind": "play",
@@ -1688,6 +1688,36 @@
       "id": "ds_281_weberndes_flammen_schloss",
       "title": "The Hovering Castle of Flames",
       "description": "A brave Tyrolean nobleman climbs a cursed mountain to explore a fiery castle and is abducted by a black rider."
+    },
+    {
+      "kind": "play",
+      "id": "ds_282_der_feuerberg",
+      "title": "The Fire Mountain",
+      "description": "A guide leads a shepherd into the fiery Feuerberg where a deceased debtor count hands him a proof of his damnation."
+    },
+    {
+      "kind": "play",
+      "id": "ds_283_der_feurige_mann",
+      "title": "The Fiery Man",
+      "description": "A transparent fiery man walking between boundary stones and spitting fire from his mouth terrifies the local villagers."
+    },
+    {
+      "kind": "play",
+      "id": "ds_284_die_verwuenschten_landmesser",
+      "title": "The Cursed Land Surveyors",
+      "description": "Deceitful land surveyors are cursed to wander after death as will-o-the-wisps guarding the borders they manipulated."
+    },
+    {
+      "kind": "play",
+      "id": "ds_285_der_verrueckte_grenzstein",
+      "title": "The Displaced Boundary Stone",
+      "description": "The ghost of a fraudulent nobleman touches a girl on her breast, turning it black and causing her death in three days."
+    },
+    {
+      "kind": "play",
+      "id": "ds_286_der_grenzstreit",
+      "title": "The Boundary Dispute",
+      "description": "Villagers resolve a land border dispute by tracking a crawfish walking across a field to place their boundary stones."
     },
     {
       "kind": "play",
