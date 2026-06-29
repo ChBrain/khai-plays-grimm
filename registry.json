@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.551.0",
+  "version": "0.556.0",
   "plays": [
     {
       "kind": "play",
@@ -1778,6 +1778,36 @@
       "id": "ds_296_der_hirt_auf_dem_kiffhaeuser",
       "title": "The Shepherd on the Kyffhaeuser",
       "description": "A Thuringian shepherd plays his bagpipe for Emperor Frederick on a mountain and is rewarded with a golden vessel leg."
+    },
+    {
+      "kind": "play",
+      "id": "ds_297_die_drei_telle",
+      "title": "The Three Tells",
+      "description": "Three legendary Swiss liberators sleep in a hidden cave, briefly waking to ask a shepherd if the time has come."
+    },
+    {
+      "kind": "play",
+      "id": "ds_298_das_bergmaennchen",
+      "title": "The Mountain Dwarf",
+      "description": "Swiss mountain dwarves reward a plowing shepherd and his servant with a tablecloth and a plate of fresh cake."
+    },
+    {
+      "kind": "play",
+      "id": "ds_299_die_zirbelnuesse",
+      "title": "The Swiss Stone Pine Nuts",
+      "description": "A master curses the sweet Swiss pine nut trees to grow only on precipitous cliffs, punishing lazy servants."
+    },
+    {
+      "kind": "play",
+      "id": "ds_300_das_paradies_der_thiere",
+      "title": "The Paradise of the Animals",
+      "description": "A hidden valley high on the Mattenberg serves as a sanctuary for animals, accessible only once every twenty years."
+    },
+    {
+      "kind": "play",
+      "id": "ds_301_der_gemsjaeger",
+      "title": "The Chamois Hunter",
+      "description": "A mountain dwarf promises a hunter weekly chamois meat, but kills him when the hunter breaks the pact to hunt again."
     },
     {
       "kind": "play",
