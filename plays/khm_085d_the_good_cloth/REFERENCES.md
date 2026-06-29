@@ -12,9 +12,9 @@ Staging _Der gute Lappen_ (KHM 85d) as a scheme of deception, transformation, an
 
 Jacob and Wilhelm Grimm's _Kinder- und Hausmärchen_ (1812-1857), tale KHM 85d, in the first edition of 1812.
 
-| Source             | Key Work / Event                    | Scope                                                                               |
-| ------------------ | ----------------------------------- | ----------------------------------------------------------------------------------- |
-| **Brothers Grimm** | _Kinder- und Hausmärchen_, KHM 85d  | The tale of the two seamstress sisters, the magic cloth, and the merchant deceiver. |
+| Source             | Key Work / Event                   | Scope                                                                               |
+| ------------------ | ---------------------------------- | ----------------------------------------------------------------------------------- |
+| **Brothers Grimm** | _Kinder- und Hausmärchen_, KHM 85d | The tale of the two seamstress sisters, the magic cloth, and the merchant deceiver. |
 
 ## Restrictions
 

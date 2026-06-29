@@ -12,8 +12,8 @@ Staging _Der ewige Jud auf dem Matterhorn_ (DS 343) as a prophecy legend in whic
 
 Jacob and Wilhelm Grimm's _Deutsche Sagen_ (1816-1818), legend DS 343.
 
-| Source             | Key Work / Event         | Scope                                                                                     |
-| ------------------ | ------------------------ | ----------------------------------------------------------------------------------------- |
+| Source             | Key Work / Event         | Scope                                                                                      |
+| ------------------ | ------------------------ | ------------------------------------------------------------------------------------------ |
 | **Brothers Grimm** | _Deutsche Sagen_, DS 343 | The Alpine legend of a wandering figure prophesying the glacial burial of a mountain town. |
 
 ## Restrictions
