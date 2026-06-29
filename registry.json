@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.541.0",
+  "version": "0.546.0",
   "plays": [
     {
       "kind": "play",
@@ -1718,6 +1718,36 @@
       "id": "ds_286_der_grenzstreit",
       "title": "The Boundary Dispute",
       "description": "Villagers resolve a land border dispute by tracking a crawfish walking across a field to place their boundary stones."
+    },
+    {
+      "kind": "play",
+      "id": "ds_287_der_graenzlauf",
+      "title": "The Boundary Run",
+      "description": "Uri and Glarus runners compete in a boundary race started by rooster crows, ending in a Glarner runner carrying Uri."
+    },
+    {
+      "kind": "play",
+      "id": "ds_288_die_alpschlacht",
+      "title": "The Battle of the Alp",
+      "description": "Entlebuch shepherds silently steal Obwalden cattle by removing their cowbells and win the subsequent armed conflict."
+    },
+    {
+      "kind": "play",
+      "id": "ds_289_der_stein_bei_wenthusen",
+      "title": "The Stone near Wenthusen",
+      "description": "A cursed monastery stone brings severe misfortune to any owner who dares to move it from its designated place."
+    },
+    {
+      "kind": "play",
+      "id": "ds_290_die_altenberger_kirche",
+      "title": "The Altenberg Church",
+      "description": "Altenberg villagers fail to move a mountaintop church down to the valley as its stones return uphill every night."
+    },
+    {
+      "kind": "play",
+      "id": "ds_291_der_koenig_im_lauenburger_berg",
+      "title": "The King in the Lauenburg Mountain",
+      "description": "Two condemned criminals descend into a Kashubian abyss and find a hidden garden and a king sitting on a silver chair."
     },
     {
       "kind": "play",
