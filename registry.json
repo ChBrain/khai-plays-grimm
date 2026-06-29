@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.596.0",
+  "version": "0.601.0",
   "plays": [
     {
       "kind": "play",
@@ -2048,6 +2048,36 @@
       "id": "ds_341_zusammenkunft_der_todten",
       "title": "Meeting of the Dead",
       "description": "A captain witnesses the ghost of a dying mistress of the robes visiting a deceased queen at midnight."
+    },
+    {
+      "kind": "play",
+      "id": "ds_342_das_weissagende_voeglein",
+      "title": "The Prophetic Bird",
+      "description": "A tiny white bird on an oak tree gives Barbara Sellentius a prophecy for the Duke of Pomerania."
+    },
+    {
+      "kind": "play",
+      "id": "ds_343_der_ewige_jud_auf_dem_matterhorn",
+      "title": "The Wandering Jew on the Matterhorn",
+      "description": "The Wandering Jew visits a city on the Matterberg and foretells its transformation into snow and ice."
+    },
+    {
+      "kind": "play",
+      "id": "ds_344_der_kessel_mit_butter",
+      "title": "The Kettle of Butter",
+      "description": "A selfish woman refuses to share butter with God in disguise, leading to the burial of her entire village."
+    },
+    {
+      "kind": "play",
+      "id": "ds_345_trauer_weide",
+      "title": "The Weeping Willow",
+      "description": "The weeping willow hangs its branches to the earth in eternal mourning for being used to scourge Christ."
+    },
+    {
+      "kind": "play",
+      "id": "ds_346_das_christus_bild_zu_wittenberg",
+      "title": "The Christ Image at Wittenberg",
+      "description": "A miraculous image of Christ in Wittenberg always appears exactly one inch taller than the viewer."
     },
     {
       "kind": "play",
