@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.566.0",
+  "version": "0.571.0",
   "plays": [
     {
       "kind": "play",
@@ -1868,6 +1868,36 @@
       "id": "ds_311_die_tut_osel",
       "title": "The Screech Owl",
       "description": "A howling Thuringian nun is banished as an owl to the Harz where she joins the wild hunt of Hackelnberg."
+    },
+    {
+      "kind": "play",
+      "id": "ds_312_die_schwarzen_reuter_und_das_handpferd",
+      "title": "The Black Riders and the Led Horse",
+      "description": "A robber knight's servant learns from a black rider of the Wild Hunt that he will die and ride their empty horse."
+    },
+    {
+      "kind": "play",
+      "id": "ds_313_der_getreu_eckhart",
+      "title": "The Faithful Eckhart",
+      "description": "The Faithful Eckhart leads the spectral Wild Hunt on Fat Tuesday, warning onlookers to clear the way for safety."
+    },
+    {
+      "kind": "play",
+      "id": "ds_314_das_fraeulein_vom_willberg",
+      "title": "The Lady of Willberg",
+      "description": "A man uses a magic bouquet to enter a mountain cave of gold but forgets it, turning his treasures to paper."
+    },
+    {
+      "kind": "play",
+      "id": "ds_315_der_schaefer_und_der_alte_aus_dem_berg",
+      "title": "The Shepherd and the Old Man from the Mountain",
+      "description": "An old man shows a shepherd a cave of treasures that remains open only if the mortal leaves his gloves inside."
+    },
+    {
+      "kind": "play",
+      "id": "ds_316_jungfrau_ilse",
+      "title": "Maiden Ilse",
+      "description": "A cursed princess of Ilsenstein gives a charcoal burner a satchel of gold disguised as acorns and pinecones."
     },
     {
       "kind": "play",
