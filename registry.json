@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.581.0",
+  "version": "0.586.0",
   "plays": [
     {
       "kind": "play",
@@ -1958,6 +1958,36 @@
       "id": "ds_326_es_rauscht_im_huehnen_grab",
       "title": "Rustling in the Giant's Grave",
       "description": "Stonecutters digging up giant graves in Pomerania flee after hearing a spooky rustling of keys around them."
+    },
+    {
+      "kind": "play",
+      "id": "ds_327_todte_aus_den_graebern_wehren_dem_feind",
+      "title": "Dead Men from the Graves Fight off the Enemy",
+      "description": "Dead ancestors rise from their graves in Wehrstedt to defend their children from a pagan invasion."
+    },
+    {
+      "kind": "play",
+      "id": "ds_328_hans_heilings_felsen",
+      "title": "Hans Heiling's Rocks",
+      "description": "Hans Heiling makes a pact with the devil to turn a wedding party to stone after the bride rejects him."
+    },
+    {
+      "kind": "play",
+      "id": "ds_329_die_jungfrau_mit_dem_bart",
+      "title": "The Virgin with the Beard",
+      "description": "A princess grows a beard to protect her vow of chastity, is crucified, and drops her slipper to a minstrel."
+    },
+    {
+      "kind": "play",
+      "id": "ds_330_die_weisse_jungfrau_zu_schwanau",
+      "title": "The White Virgin of Schwanau",
+      "description": "The ghost of a disgraced girl pursues a cruel Vogt around Castle Schwanau until he drowns in the lake."
+    },
+    {
+      "kind": "play",
+      "id": "ds_331_schwarzkopf_und_seeburg_am_mummel_see",
+      "title": "Schwarzkopf and Seeburg at Lake Mummel",
+      "description": "Twelve sisters avenge their brother by killing twelve robber barons, leading to their tragic end in Mummelsee."
     },
     {
       "kind": "play",
