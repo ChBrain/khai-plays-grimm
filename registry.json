@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.546.0",
+  "version": "0.551.0",
   "plays": [
     {
       "kind": "play",
@@ -1748,6 +1748,36 @@
       "id": "ds_291_der_koenig_im_lauenburger_berg",
       "title": "The King in the Lauenburg Mountain",
       "description": "Two condemned criminals descend into a Kashubian abyss and find a hidden garden and a king sitting on a silver chair."
+    },
+    {
+      "kind": "play",
+      "id": "ds_292_der_schwanberg",
+      "title": "The Schwanberg",
+      "description": "An ancient German prophecy foretells that Germany will eventually be absorbed entirely into Switzerland."
+    },
+    {
+      "kind": "play",
+      "id": "ds_293_der_robbedisser_brunnen",
+      "title": "The Well of Robbedissen",
+      "description": "A spring, a black ground, and a giant poplar tree warn local villagers of an impending bloody battle in the field."
+    },
+    {
+      "kind": "play",
+      "id": "ds_294_bamberger_wage",
+      "title": "The Bamberg Scales",
+      "description": "A rumor warns that when the tilted tongue of the scale of Justice in Bamberg becomes balanced, the world will end."
+    },
+    {
+      "kind": "play",
+      "id": "ds_295_kaiser_friedrich_zu_kaiserslautern",
+      "title": "Emperor Frederick at Kaiserslautern",
+      "description": "A man let down on a rope into a deep cave encounters Emperor Frederick sitting on a golden throne with his knights."
+    },
+    {
+      "kind": "play",
+      "id": "ds_296_der_hirt_auf_dem_kiffhaeuser",
+      "title": "The Shepherd on the Kyffhaeuser",
+      "description": "A Thuringian shepherd plays his bagpipe for Emperor Frederick on a mountain and is rewarded with a golden vessel leg."
     },
     {
       "kind": "play",
