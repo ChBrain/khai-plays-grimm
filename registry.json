@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.571.0",
+  "version": "0.576.0",
   "plays": [
     {
       "kind": "play",
@@ -1898,6 +1898,36 @@
       "id": "ds_316_jungfrau_ilse",
       "title": "Maiden Ilse",
       "description": "A cursed princess of Ilsenstein gives a charcoal burner a satchel of gold disguised as acorns and pinecones."
+    },
+    {
+      "kind": "play",
+      "id": "ds_317_die_heiden_jungfrau_zu_glatz",
+      "title": "The Pagan Maiden of Glatz",
+      "description": "A Silesian pagan princess with magical strength is walled up after committing incest and haunts those who mock her."
+    },
+    {
+      "kind": "play",
+      "id": "ds_318_der_rosstrapp_und_der_cretpfuhl",
+      "title": "The Rosstrapp and the Cretpfuhl",
+      "description": "A princess leaps across a Harz abyss to escape a giant, leaving a hoofprint and dropping her golden crown."
+    },
+    {
+      "kind": "play",
+      "id": "ds_319_der_maegdesprung",
+      "title": "The Maiden's Leap",
+      "description": "A giantess scoops up a ploughman and leaps across the Selke Valley, leaving her footprints pressed into the rock."
+    },
+    {
+      "kind": "play",
+      "id": "ds_320_der_jungfernsprung",
+      "title": "The Maiden's Leap",
+      "description": "A maiden flees a lustful monk at Oybin monastery and leaps off a cliff, saved from injury by descending angels."
+    },
+    {
+      "kind": "play",
+      "id": "ds_321_der_harrassprung",
+      "title": "Harras's Leap",
+      "description": "A knight leaps off a steep cliff into the Zschopau valley to escape enemies, surviving while his horse is killed."
     },
     {
       "kind": "play",
