@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.591.0",
+  "version": "0.596.0",
   "plays": [
     {
       "kind": "play",
@@ -2018,6 +2018,36 @@
       "id": "ds_336_teufels_bruecke",
       "title": "Devil's Bridge",
       "description": "A shepherd tricks the devil into building a bridge across the Reuss by sending a chamois across it first."
+    },
+    {
+      "kind": "play",
+      "id": "ds_337_die_zwoelf_johannesse",
+      "title": "The Twelve Johns",
+      "description": "The devil takes one of the king's twelve Johns every year as a toll from their flying magic disk."
+    },
+    {
+      "kind": "play",
+      "id": "ds_338_teufels_graben",
+      "title": "Devil's Ditch",
+      "description": "A farmer accepts the devil's help to dig a ditch, but the seven helper workers pay with their lives."
+    },
+    {
+      "kind": "play",
+      "id": "ds_339_der_kreuzliberg",
+      "title": "The Kreuzliberg",
+      "description": "A princess is turned to stone by mountain spirits but is later redeemed by a holy image."
+    },
+    {
+      "kind": "play",
+      "id": "ds_340_die_pferde_aus_dem_bodenloch",
+      "title": "The Horses from the Loft Hole",
+      "description": "A mayor's resurrected wife is let inside only after his white horses miraculously climb to the hayloft."
+    },
+    {
+      "kind": "play",
+      "id": "ds_341_zusammenkunft_der_todten",
+      "title": "Meeting of the Dead",
+      "description": "A captain witnesses the ghost of a dying mistress of the robes visiting a deceased queen at midnight."
     },
     {
       "kind": "play",
