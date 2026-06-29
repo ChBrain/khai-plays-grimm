@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.586.0",
+  "version": "0.591.0",
   "plays": [
     {
       "kind": "play",
@@ -1988,6 +1988,36 @@
       "id": "ds_331_schwarzkopf_und_seeburg_am_mummel_see",
       "title": "Schwarzkopf and Seeburg at Lake Mummel",
       "description": "Twelve sisters avenge their brother by killing twelve robber barons, leading to their tragic end in Mummelsee."
+    },
+    {
+      "kind": "play",
+      "id": "ds_332_der_kraemer_und_die_maus",
+      "title": "The Peddler and the Mouse",
+      "description": "A kind peddler sharing bread with a mouse is rewarded with gold coins, leading to the construction of a church."
+    },
+    {
+      "kind": "play",
+      "id": "ds_333_die_drei_schatzgraeber",
+      "title": "The Three Treasure Diggers",
+      "description": "Three craftsmen attempting to dig up a church treasure near Erfurt are killed by the guarding evil spirit."
+    },
+    {
+      "kind": "play",
+      "id": "ds_334_einladung_vor_gottes_gericht",
+      "title": "Invitation Before God's Court",
+      "description": "A nobleman mockingly invites hanged thieves to dinner, leading to a chilling prophecy and his own execution."
+    },
+    {
+      "kind": "play",
+      "id": "ds_335_gaeste_vom_galgen",
+      "title": "Guests from the Gallows",
+      "description": "An innkeeper drunkenly invites three hanged men to dine, receives a terrifying visit, and dies three days later."
+    },
+    {
+      "kind": "play",
+      "id": "ds_336_teufels_bruecke",
+      "title": "Devil's Bridge",
+      "description": "A shepherd tricks the devil into building a bridge across the Reuss by sending a chamois across it first."
     },
     {
       "kind": "play",
