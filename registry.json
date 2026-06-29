@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.556.0",
+  "version": "0.561.0",
   "plays": [
     {
       "kind": "play",
@@ -1808,6 +1808,36 @@
       "id": "ds_301_der_gemsjaeger",
       "title": "The Chamois Hunter",
       "description": "A mountain dwarf promises a hunter weekly chamois meat, but kills him when the hunter breaks the pact to hunt again."
+    },
+    {
+      "kind": "play",
+      "id": "ds_302_die_zwergloecher",
+      "title": "The Dwarf Holes",
+      "description": "Helpful Harz dwarves lend wedding kitchen utensils to local villagers from their rock cave, demanding timely returns."
+    },
+    {
+      "kind": "play",
+      "id": "ds_303_der_zwerg_und_die_wunderblume",
+      "title": "The Dwarf and the Magic Flower",
+      "description": "A shepherd finds a magic flower on the Kyffhäuser, enters a vault of gold, but loses the flower forever."
+    },
+    {
+      "kind": "play",
+      "id": "ds_304_der_nix_an_der_kelle",
+      "title": "The Nix at the Kelle",
+      "description": "A midwife delivers a water sprite's baby in a lake cave but later sees a bloody stream representing the child's murder."
+    },
+    {
+      "kind": "play",
+      "id": "ds_305_schwarzach",
+      "title": "Schwarzach",
+      "description": "A knight tastes a forbidden water drink and sinks into a lake where his daughter is held captive by a giant snake."
+    },
+    {
+      "kind": "play",
+      "id": "ds_306_die_drei_jungfern_aus_dem_see",
+      "title": "The Three Maidens from the Lake",
+      "description": "A youth sets the village clock back to keep three lake maidens longer, leading to their tragic deaths in the water."
     },
     {
       "kind": "play",
