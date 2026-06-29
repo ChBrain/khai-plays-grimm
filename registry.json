@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.576.0",
+  "version": "0.581.0",
   "plays": [
     {
       "kind": "play",
@@ -1928,6 +1928,36 @@
       "id": "ds_321_der_harrassprung",
       "title": "Harras's Leap",
       "description": "A knight leaps off a steep cliff into the Zschopau valley to escape enemies, surviving while his horse is killed."
+    },
+    {
+      "kind": "play",
+      "id": "ds_322_der_riese_hidde",
+      "title": "The Giant Hidde",
+      "description": "A giant forest warden presents lion cubs as wolves to his duke and is rewarded with lands that become Hitzacker."
+    },
+    {
+      "kind": "play",
+      "id": "ds_323_das_ilefelder_nadeloehr",
+      "title": "The Ilfeld Needle-Eye",
+      "description": "A giant drops a stone that pinched his shoe, which becomes a narrow tunnel used for stableboy initiation rites."
+    },
+    {
+      "kind": "play",
+      "id": "ds_324_die_riesen_zu_lichtenberg",
+      "title": "The Giants at Lichtenberg",
+      "description": "A giantess scoops up a human farmer with his plough and oxen to show her husband at Castle Lichtenberg."
+    },
+    {
+      "kind": "play",
+      "id": "ds_325_das_huehnenblut",
+      "title": "The Giant's Blood",
+      "description": "A giant jumping over Westeregeln nicks his toe on a church spire, creating a red pool of giant blood."
+    },
+    {
+      "kind": "play",
+      "id": "ds_326_es_rauscht_im_huehnen_grab",
+      "title": "Rustling in the Giant's Grave",
+      "description": "Stonecutters digging up giant graves in Pomerania flee after hearing a spooky rustling of keys around them."
     },
     {
       "kind": "play",
