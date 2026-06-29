@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.531.0",
+  "version": "0.536.0",
   "plays": [
     {
       "kind": "play",
@@ -1658,6 +1658,36 @@
       "id": "ds_276_der_irrwisch",
       "title": "The Will-o'-the-Wisp",
       "description": "A will-o-the-wisp follows a mocking girl into her parents' home and beats the family with its fiery wings."
+    },
+    {
+      "kind": "play",
+      "id": "ds_277_der_feurige_wagen",
+      "title": "The Fiery Carriage",
+      "description": "A watchman in Odenwald encounters two horrific fiery carriages carrying ghosts with flames shooting from their mouths."
+    },
+    {
+      "kind": "play",
+      "id": "ds_278_der_raederberg",
+      "title": "The Raederberg",
+      "description": "A Nassau butcher enters a ghostly mansion, drinks a third cup from three monks, and dies three days later."
+    },
+    {
+      "kind": "play",
+      "id": "ds_279_die_lichter_auf_hellebarden",
+      "title": "The Lights on Halberds",
+      "description": "Brushing a warning light off a pitchfork three times results in a fatal duel between two close farmer friends."
+    },
+    {
+      "kind": "play",
+      "id": "ds_280_das_wafeln",
+      "title": "The Wafeln",
+      "description": "Baltic Sea people witness glowing apparitions of ships, houses, and people warning of their impending doom."
+    },
+    {
+      "kind": "play",
+      "id": "ds_281_weberndes_flammen_schloss",
+      "title": "The Hovering Castle of Flames",
+      "description": "A brave Tyrolean nobleman climbs a cursed mountain to explore a fiery castle and is abducted by a black rider."
     },
     {
       "kind": "play",
