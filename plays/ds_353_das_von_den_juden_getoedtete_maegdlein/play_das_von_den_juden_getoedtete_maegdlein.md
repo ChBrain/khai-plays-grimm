@@ -22,7 +22,7 @@ Das von den Juden getödtete Mägdlein.
 
 ## Arc
 
-Im Jahr 1267 verkauft eine alte Frau das siebenjährige Mädchen Margrethchen aus Geiz an die Juden. Sie martern das Kind qualvoll, fangen das Blut in Tüchern auf und werfen die Leiche beschwert in den Fluss Enz. Tage später ragt Margrethchens Händchen aus dem Wasser empor. Die Fischer bergen das sterbende Kind, und als man die Verdächtigen an ihren Leichnam führt, strömt das Blut aus ihren Wunden.
+Im Jahr 1267 verkauft eine alte Frau das siebenjährige Mädchen Margrethchen aus Geiz an die Käufer. Sie martern das Kind qualvoll, fangen das Blut in Tüchern auf und werfen die Leiche beschwert in den Fluss Enz. Tage später ragt Margrethchens Händchen aus dem Wasser empor. Die Fischer bergen das sterbende Kind, und als man die Verdächtigen an ihren Leichnam führt, strömt das Blut aus ihren Wunden.
 
 ## Company
 
@@ -61,7 +61,7 @@ Im Jahr 1267 verkauft eine alte Frau das siebenjährige Mädchen Margrethchen au
 
 **[Plot: Die Marter](plot_01_die-marter.md)**
 
-Die [Geizige alte Frau](persona_altweib.md) verkauft das Mädchen. Die [Jüdische Käufer](persona_kaeufer.md) vollziehen die [Aderlass-Marterung](process_blutentzug.md) und versenken sie unter einer [Last von Steinen](piece_steine.md) im Fluss.
+Die [Geizige alte Frau](persona_altweib.md) verkauft das Mädchen. Die [Käufer](persona_kaeufer.md) vollziehen die [Aderlass-Marterung](process_blutentzug.md) und versenken sie unter einer [Last von Steinen](piece_steine.md) im Fluss.
 
 **[Plot: Das Händlein](plot_02_das-haendlein.md)**
 

@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Die [Geizige alte Frau](persona_altweib.md) verkauft das Mädchen. Die [Jüdische Käufer](persona_kaeufer.md) vollziehen die [Aderlass-Marterung](process_blutentzug.md) und versenken sie unter einer [Last von Steinen](piece_steine.md) im Fluss.
+Die [Geizige alte Frau](persona_altweib.md) verkauft das Mädchen. Die [Käufer](persona_kaeufer.md) vollziehen die [Aderlass-Marterung](process_blutentzug.md) und versenken sie unter einer [Last von Steinen](piece_steine.md) im Fluss.
 
 ## Stage
 

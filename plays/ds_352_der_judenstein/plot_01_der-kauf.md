@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Die [Jüdische Schergen](persona_schergen.md) vollziehen den [Kindesverkauf](process_betrug.md) mit dem [Armer Vater / Bauer](persona_vater.md) für das [Verwandeltes Laubgeld](piece_laubgeld.md).
+Die [Schergen](persona_schergen.md) vollziehen den [Kindesverkauf](process_betrug.md) mit dem [Armer Vater / Bauer](persona_vater.md) für das [Verwandeltes Laubgeld](piece_laubgeld.md).
 
 ## Stage
 

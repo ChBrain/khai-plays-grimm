@@ -22,7 +22,7 @@ Der Judenstein.
 
 ## Arc
 
-Im Jahr 1462 verkaufen jüdische Schergen einen armen Bauern dazu, ihnen sein kleines Kind Anderl gegen Geld zu überlassen. Sie martern das Kind im Wald auf einem großen Stein zu Tode und hängen es auf eine Birke. Als die Mutter auf dem Feld arbeitet, fallen drei Blutstropfen auf ihre Hand. Daheim findet sie das Geld des Vaters in dürres Laub verwandelt, der Vater verfällt dem Wahnsinn, und sie birgt ihr totes Kind.
+Im Jahr 1462 bewegen Schergen einen armen Bauern dazu, ihnen sein kleines Kind Anderl gegen Geld zu überlassen. Sie martern das Kind im Wald auf einem großen Stein zu Tode und hängen es auf eine Birke. Als die Mutter auf dem Feld arbeitet, fallen drei Blutstropfen auf ihre Hand. Daheim findet sie das Geld des Vaters in dürres Laub verwandelt, der Vater verfällt dem Wahnsinn, und sie birgt ihr totes Kind.
 
 ## Company
 
@@ -64,7 +64,7 @@ Im Jahr 1462 verkaufen jüdische Schergen einen armen Bauern dazu, ihnen sein kl
 
 **[Plot: Der Kauf](plot_01_der-kauf.md)**
 
-Die [Jüdische Schergen](persona_schergen.md) vollziehen den [Kindesverkauf](process_betrug.md) mit dem [Armer Vater / Bauer](persona_vater.md) für das [Verwandeltes Laubgeld](piece_laubgeld.md).
+Die [Schergen](persona_schergen.md) vollziehen den [Kindesverkauf](process_betrug.md) mit dem [Armer Vater / Bauer](persona_vater.md) für das [Verwandeltes Laubgeld](piece_laubgeld.md).
 
 **[Plot: Das Zeichen](plot_02_das-zeichen.md)**
 
