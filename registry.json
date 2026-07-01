@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.621.0",
+  "version": "0.631.0",
   "plays": [
     {
       "kind": "play",
@@ -2198,6 +2198,66 @@
       "id": "ds_367_die_seefahrt_der_usipier",
       "title": "The Sea Voyage of the Usipii",
       "description": "Mutinous Germanic conscripts flee Britain in stolen ships, resort to cannibalism, and are sold as slaves."
+    },
+    {
+      "kind": "play",
+      "id": "ds_368_wanderung_der_gothen",
+      "title": "Migration of the Goths",
+      "description": "The Goths migrate under their first kings, but a collapsed bridge permanently divides their army during migration."
+    },
+    {
+      "kind": "play",
+      "id": "ds_369_die_eingefallene_bruecke",
+      "title": "The Collapsed Bridge",
+      "description": "After a bridge collapses, half of the migrating Goths are isolated in an unreachable swamp where their echoes persist."
+    },
+    {
+      "kind": "play",
+      "id": "ds_370_warum_die_gothen_in_griechenland_eingebrochen",
+      "title": "Why the Goths Invaded Greece",
+      "description": "The removal of three buried silver statues guarding the northern border triggers a barbarian invasion of Thrace."
+    },
+    {
+      "kind": "play",
+      "id": "ds_371_fridigern",
+      "title": "Fridigern",
+      "description": "Famine-stricken Goths sell their children for dog meat to Roman exploiters, leading to a historic rebellion."
+    },
+    {
+      "kind": "play",
+      "id": "ds_372_des_koenigs_grab",
+      "title": "The King's Grave",
+      "description": "The Goths divert a river to bury King Alaric with his treasures, executing the diggers to keep it secret."
+    },
+    {
+      "kind": "play",
+      "id": "ds_373_athaulfs_tod",
+      "title": "Athaulf's Death",
+      "description": "A Vandal king is assassinated in Spain, either for mocking a short man or due to a servant's ancient blood feud."
+    },
+    {
+      "kind": "play",
+      "id": "ds_374_die_trullen",
+      "title": "The Trulls",
+      "description": "Starving Goths are mocked by Vandals with the derogatory name Truller after buying overpriced grain."
+    },
+    {
+      "kind": "play",
+      "id": "ds_375_sage_von_gelimer",
+      "title": "Saga of Gelimer",
+      "description": "An accidental arrow hit from a drunk bodyguard kills a commander, allowing Vandal King Gelimer to escape."
+    },
+    {
+      "kind": "play",
+      "id": "ds_376_gelimer_in_silberner_kette",
+      "title": "Gelimer in Silver Chains",
+      "description": "Vandal King Gelimer is outwitted with a silver chain by Belisarius and proves his courage in a combat trial."
+    },
+    {
+      "kind": "play",
+      "id": "ds_377_ursprung_der_hunnen",
+      "title": "Origin of the Huns",
+      "description": "Banished Gothic witches mate with wild forest-spirits in the desert, giving rise to the feral Huns."
     },
     {
       "kind": "play",
