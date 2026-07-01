@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.665.0",
+  "version": "0.675.0",
   "plays": [
     {
       "kind": "play",
@@ -2462,6 +2462,66 @@
       "id": "ds_407_walther_im_kloster",
       "title": "Walther in the Cloister",
       "description": "Old hero Walter of Aquitaine does penance in a monastery, defending its transports from robbers with a simple stick."
+    },
+    {
+      "kind": "play",
+      "id": "ds_408_ursprung_der_sachsen",
+      "title": "Origin of the Saxons",
+      "description": "The Saxons and King Aschanes grow out of the Harz rocks, and Saxon maidens grow on forest trees."
+    },
+    {
+      "kind": "play",
+      "id": "ds_409_abkunft_der_sachsen",
+      "title": "Descent of the Saxons",
+      "description": "Alexander's veterans land on the Elbe and betray the resident Thuringians using large Saxe knives."
+    },
+    {
+      "kind": "play",
+      "id": "ds_410_herkunft_der_sachsen",
+      "title": "Origin of the Saxons in Land Law",
+      "description": "Alexander's surviving veterans settle in Saxony, sparing local peasants and binding them as serfs."
+    },
+    {
+      "kind": "play",
+      "id": "ds_411_die_sachsen_und_die_thueringer",
+      "title": "The Saxons and the Thuringians",
+      "description": "A Saxon youth tricks a Thuringian by exchanging gold chains for land, scattering gold dust to claim a wide territory."
+    },
+    {
+      "kind": "play",
+      "id": "ds_412_ankunft_der_angeln_und_sachsen",
+      "title": "Arrival of the Angles and Saxons",
+      "description": "British King Vortigern invites the Saxons to defend Britain, prompting a massive Saxon migration."
+    },
+    {
+      "kind": "play",
+      "id": "ds_413_ankunft_der_picten",
+      "title": "Arrival of the Picts",
+      "description": "The Picts are redirected by the Scots to settle in northern Britain, securing Scottish wives under matrilineal terms."
+    },
+    {
+      "kind": "play",
+      "id": "ds_414_die_sachsen_erbauen_ochsenburg",
+      "title": "The Saxons Build Ochsenburg",
+      "description": "The Saxons cut an ox-hide into a thin cord, claiming a large territory to build Ochsenburg fortress."
+    },
+    {
+      "kind": "play",
+      "id": "ds_415_hass_zwischen_den_sachsen_und_schwaben",
+      "title": "Hatred Between Saxons and Swabians",
+      "description": "Swabians take Goth wives during their campaign, causing a return war and disinheriting the traitorous women."
+    },
+    {
+      "kind": "play",
+      "id": "ds_416_herkunft_der_schwaben",
+      "title": "Origin of the Swabians",
+      "description": "The Swabians' ancestors land at Mount Suevo and their Duke Brenno fights Julius Caesar."
+    },
+    {
+      "kind": "play",
+      "id": "ds_417_abkunft_der_baiern",
+      "title": "Descent of the Bavarians",
+      "description": "The Bavarians immigrate from Armenia, forging legendary swords and fighting Julius Caesar."
     },
     {
       "kind": "play",
