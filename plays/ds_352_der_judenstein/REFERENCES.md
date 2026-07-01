@@ -12,8 +12,8 @@ Staging _Der Judenstein_ (DS 352) as a legend of betrayal, blood-sign, and worth
 
 Jacob and Wilhelm Grimm's _Deutsche Sagen_ (1816-1818), legend DS 352.
 
-| Source             | Key Work / Event         | Scope                                                                                              |
-| ------------------ | ------------------------ | -------------------------------------------------------------------------------------------------- |
+| Source             | Key Work / Event         | Scope                                                                                          |
+| ------------------ | ------------------------ | ---------------------------------------------------------------------------------------------- |
 | **Brothers Grimm** | _Deutsche Sagen_, DS 352 | The Anderl von Rinn legend of a child sold by his father and killed; coins turn to dry leaves. |
 
 ## Restrictions

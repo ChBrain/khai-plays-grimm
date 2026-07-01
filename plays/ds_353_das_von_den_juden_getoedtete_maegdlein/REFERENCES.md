@@ -12,8 +12,8 @@ Staging _Das von den Juden getödtete Mägdlein_ (DS 353) as a legend of greed, 
 
 Jacob and Wilhelm Grimm's _Deutsche Sagen_ (1816-1818), legend DS 353.
 
-| Source             | Key Work / Event         | Scope                                                                                                  |
-| ------------------ | ------------------------ | ------------------------------------------------------------------------------------------------------ |
+| Source             | Key Work / Event         | Scope                                                                                                   |
+| ------------------ | ------------------------ | ------------------------------------------------------------------------------------------------------- |
 | **Brothers Grimm** | _Deutsche Sagen_, DS 353 | The Pforzheim legend of a girl sold by an old woman, killed, and whose body testifies to her murderers. |
 
 ## Restrictions
