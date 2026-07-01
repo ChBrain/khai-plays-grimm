@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.653.0",
+  "version": "0.665.0",
   "plays": [
     {
       "kind": "play",
@@ -2390,6 +2390,78 @@
       "id": "ds_397_alboin_und_rosimund",
       "title": "Alboin and Rosimund",
       "description": "Alboin forces Queen Rosimund to drink from her father's skull cup, driving her to plot his death."
+    },
+    {
+      "kind": "play",
+      "id": "ds_398_rosimund_helmichis_und_peredeo",
+      "title": "Rosimund, Helmichis, and Peredeo",
+      "description": "After Alboin's murder, Helmichis and Rosimund flee to Ravenna, where they both end up poisoning each other."
+    },
+    {
+      "kind": "play",
+      "id": "ds_399_sage_von_koenig_authari",
+      "title": "Saga of King Authari",
+      "description": "King Authari wooes Bavarian princess Theodelind in disguise, revealing his identity with a touch."
+    },
+    {
+      "kind": "play",
+      "id": "ds_399b_autharis_saeule",
+      "title": "Authari's Column",
+      "description": "King Authari rides into the sea at Reggio and strikes a column with his spear to establish the Lombard border."
+    },
+    {
+      "kind": "play",
+      "id": "ds_400_agilulf_und_theudelind",
+      "title": "Agilulf and Theudelind",
+      "description": "Queen Theodelind chooses Agilulf as king, proposing with a kiss during their meeting at Laumell."
+    },
+    {
+      "kind": "play",
+      "id": "ds_401_theodelind_und_das_meerwunder",
+      "title": "Theodelind and the Sea Monster",
+      "description": "Theodelind is assaulted by a sea monster, giving birth to a dark prince who grows up cruel and malicious."
+    },
+    {
+      "kind": "play",
+      "id": "ds_402_romhild_und_grimvald_der_knabe",
+      "title": "Romhild and Grimoald the Boy",
+      "description": "Romhild betrays Friuli for love of the Hun king Cacan, who later cruelly executes her for treachery."
+    },
+    {
+      "kind": "play",
+      "id": "ds_403_leupichis_entflieht",
+      "title": "Leupichis Escapes",
+      "description": "An escaping captive boy is guided by a wolf and saved from starvation in the wilderness by a prophetic dream."
+    },
+    {
+      "kind": "play",
+      "id": "ds_404_die_fliege_vor_dem_fenster",
+      "title": "The Fly at the Window",
+      "description": "A fly chopped of one leg by the king transforms into a one-legged man who warns the targets of the murder plot."
+    },
+    {
+      "kind": "play",
+      "id": "ds_405_koenig_liutprands_fuesse",
+      "title": "King Liutprand's Feet",
+      "description": "King Liutprand's exceptionally long feet become the standard unit for measuring Goth fields."
+    },
+    {
+      "kind": "play",
+      "id": "ds_406_der_vogel_auf_dem_speer",
+      "title": "The Bird on the Spear",
+      "description": "A cuckoo perching on Hildeprand's coronation spear is interpreted as a sign of a useless and brief reign."
+    },
+    {
+      "kind": "play",
+      "id": "ds_406b_aistulfs_geburt",
+      "title": "Aistulf's Birth",
+      "description": "A king father tests five newborn sons with a spear, sparing and naming the child who grabs the shaft."
+    },
+    {
+      "kind": "play",
+      "id": "ds_407_walther_im_kloster",
+      "title": "Walther in the Cloister",
+      "description": "Old hero Walter of Aquitaine does penance in a monastery, defending its transports from robbers with a simple stick."
     },
     {
       "kind": "play",
