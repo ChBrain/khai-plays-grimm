@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.616.0",
+  "version": "0.621.0",
   "plays": [
     {
       "kind": "play",
@@ -2168,6 +2168,36 @@
       "id": "ds_361_gottes_speise",
       "title": "God's Food",
       "description": "A boy lost in a snowstorm is protected from the cold and fed by a mysterious messenger sent from heaven."
+    },
+    {
+      "kind": "play",
+      "id": "ds_363_der_heilige_salzfluss",
+      "title": "The Holy Salt River",
+      "description": "Germanic tribes fight for a salt-rich river, believing its divine harvest connects them directly to the gods."
+    },
+    {
+      "kind": "play",
+      "id": "ds_364_der_heilige_see_der_hertha",
+      "title": "The Holy Lake of Hertha",
+      "description": "Slaves washing the sacred wagon of the goddess Hertha are swallowed by the lake to protect her holy secrets."
+    },
+    {
+      "kind": "play",
+      "id": "ds_365_der_heilige_wald_der_semnonen",
+      "title": "The Sacred Forest of the Semnones",
+      "description": "Semnones perform a human sacrifice in a sacred grove where everyone must enter bound in chains of submission."
+    },
+    {
+      "kind": "play",
+      "id": "ds_366_die_wanderung_der_ansivaren",
+      "title": "The Migration of the Ampsivarii",
+      "description": "An exiled Germanic tribe seeking a home is repeatedly driven away until all their youth are wiped out."
+    },
+    {
+      "kind": "play",
+      "id": "ds_367_die_seefahrt_der_usipier",
+      "title": "The Sea Voyage of the Usipii",
+      "description": "Mutinous Germanic conscripts flee Britain in stolen ships, resort to cannibalism, and are sold as slaves."
     },
     {
       "kind": "play",
