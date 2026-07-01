@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.611.0",
+  "version": "0.616.0",
   "plays": [
     {
       "kind": "play",
@@ -2138,6 +2138,36 @@
       "id": "ds_356_der_sterbensstein",
       "title": "The Stone of Dying",
       "description": "A victim of a murder in the Kirchetbuel gorge leaves a permanent handprint pressed into a solid stone."
+    },
+    {
+      "kind": "play",
+      "id": "ds_357_suendliche_liebe",
+      "title": "Sinful Love",
+      "description": "A brother and sister commit incest and are decapitated by the devil, leaving a headless mark on their gravestone."
+    },
+    {
+      "kind": "play",
+      "id": "ds_358_der_schweidnitzer_rathsmann",
+      "title": "The Councilor of Schweidnitz",
+      "description": "A greedy councilor trains a jackdaw to steal coins from the treasury and dies starving on a high tower ledge."
+    },
+    {
+      "kind": "play",
+      "id": "ds_359_regenbogen_ueber_verurtheilten",
+      "title": "Rainbow over the Condemned",
+      "description": "A double rainbow appears over Prague to comfort twenty-seven men condemned to death for their part in a revolt."
+    },
+    {
+      "kind": "play",
+      "id": "ds_360_gott_weint_mit_dem_unschuldigen",
+      "title": "God Weeps with the Innocent",
+      "description": "A rain shower falls from a clear blue sky to witness the innocence of an accused woman at her execution site."
+    },
+    {
+      "kind": "play",
+      "id": "ds_361_gottes_speise",
+      "title": "God's Food",
+      "description": "A boy lost in a snowstorm is protected from the cold and fed by a mysterious messenger sent from heaven."
     },
     {
       "kind": "play",
