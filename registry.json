@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.675.0",
+  "version": "0.685.0",
   "plays": [
     {
       "kind": "play",
@@ -2522,6 +2522,66 @@
       "id": "ds_417_abkunft_der_baiern",
       "title": "Descent of the Bavarians",
       "description": "The Bavarians immigrate from Armenia, forging legendary swords and fighting Julius Caesar."
+    },
+    {
+      "kind": "play",
+      "id": "ds_418_herkunft_der_franken",
+      "title": "Origin of the Franks",
+      "description": "Trojans escaping the fall of Troy wander to the Rhine, founding a new Troy called Santen."
+    },
+    {
+      "kind": "play",
+      "id": "ds_419_die_merovinger",
+      "title": "The Merovingians",
+      "description": "Queen Clodio is overwhelmed by a sea monster, giving birth to Merovech, the ancestor of the bristly kings."
+    },
+    {
+      "kind": "play",
+      "id": "ds_420_childerich_und_basina",
+      "title": "Childeric and Basina",
+      "description": "An exiled King uses a split gold ring to signal his return, winning the Thuringian Queen Basina."
+    },
+    {
+      "kind": "play",
+      "id": "ds_421_der_kirchenkrug",
+      "title": "The Vase of Soissons",
+      "description": "Clovis avenges a broken church vase by slaying the proud warrior who struck it with an axe."
+    },
+    {
+      "kind": "play",
+      "id": "ds_422_remig_umgeht_sein_land",
+      "title": "Remigius Outlines His Land",
+      "description": "Remigius walks the borders of his granted land; a stubborn miller's wheel spins backward as punishment."
+    },
+    {
+      "kind": "play",
+      "id": "ds_423_remig_verjagt_die_feuersbrunst",
+      "title": "Remigius Expels the Fire",
+      "description": "Remigius' footprints press into stone as he drives a raging fire out of Rheims and locks the city gate."
+    },
+    {
+      "kind": "play",
+      "id": "ds_424_des_remigs_theil_vom_wasichenwald",
+      "title": "Remigius' Part of the Vosges Forest",
+      "description": "A magical boundary stone in a hollow tree cannot be removed, withering the hand of a thief who strikes it."
+    },
+    {
+      "kind": "play",
+      "id": "ds_425_crothilds_verlobung",
+      "title": "Clotilda's Betrothal",
+      "description": "Envoy Aurelian disguises as a beggar to slip Clovis' betrothal ring to Burgundian princess Clotilda."
+    },
+    {
+      "kind": "play",
+      "id": "ds_426_die_scheere_und_das_schwert",
+      "title": "The Shears and the Sword",
+      "description": "A mourning Queen chooses death over shearing for her grandsons; the brutal kings murder the boys."
+    },
+    {
+      "kind": "play",
+      "id": "ds_427_sage_von_attalus_und_leo",
+      "title": "Legend of Attalus and Leo",
+      "description": "The loyal cook Leo gains a Frankish lord's trust to rescue the noble hostage Attalus on horseback."
     },
     {
       "kind": "play",
