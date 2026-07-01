@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.606.1",
+  "version": "0.611.0",
   "plays": [
     {
       "kind": "play",
@@ -2108,6 +2108,36 @@
       "id": "ds_351_mauerkalk_mit_wein_geloescht",
       "title": "Mortar Slaked with Wine",
       "description": "Emperor Friedrich the Third orders citizens to use extremely sour wine to slake mortar for building Saint Stephen."
+    },
+    {
+      "kind": "play",
+      "id": "ds_352_der_judenstein",
+      "title": "The Jew's Stone",
+      "description": "A poor father sells his child to murderers for money that turns into dry leaves after the child is killed."
+    },
+    {
+      "kind": "play",
+      "id": "ds_353_das_von_den_juden_getoedtete_maegdlein",
+      "title": "The Little Girl Killed by the Jews",
+      "description": "A murdered girl raises her hand from a river to expose her killers, whose guilt is proven as her wounds bleed."
+    },
+    {
+      "kind": "play",
+      "id": "ds_354_die_vier_hufeisen",
+      "title": "The Four Horseshoes",
+      "description": "Count Ernst of Klettenberg rides his horse into a church during vespers, causing the horseshoes to fall off."
+    },
+    {
+      "kind": "play",
+      "id": "ds_355_der_altar_zu_seefeld",
+      "title": "The Altar at Seefeld",
+      "description": "A proud knight sinks into the church floor after demanding a larger host, while roses bloom from a dry stock."
+    },
+    {
+      "kind": "play",
+      "id": "ds_356_der_sterbensstein",
+      "title": "The Stone of Dying",
+      "description": "A victim of a murder in the Kirchetbuel gorge leaves a permanent handprint pressed into a solid stone."
     },
     {
       "kind": "play",

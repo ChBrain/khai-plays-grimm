@@ -1,0 +1,36 @@
+---
+khai: place
+title: "kirchetbuel"
+declared: "Kirchetbuel / Aar-Schlucht"
+license: CC-BY-NC-SA-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-29"
+---
+
+# Place: Kirchetbuel / Aar-Schlucht
+
+## Taxonomy
+
+Parent group: places
+
+## Owner
+
+- Project: khai-plays-grimm
+
+## Shown
+
+Der Ort Kirchetbuel / Aar-Schlucht wird gezeigt.
+
+## Holds
+
+Er hält Gegenstände.
+
+## Offers
+
+Er bietet Handlungsmöglichkeiten.
+
+## Withheld
+
+Er verbirgt Geheimnisse.
