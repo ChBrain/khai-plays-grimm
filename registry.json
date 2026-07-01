@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.631.0",
+  "version": "0.641.0",
   "plays": [
     {
       "kind": "play",
@@ -2258,6 +2258,66 @@
       "id": "ds_377_ursprung_der_hunnen",
       "title": "Origin of the Huns",
       "description": "Banished Gothic witches mate with wild forest-spirits in the desert, giving rise to the feral Huns."
+    },
+    {
+      "kind": "play",
+      "id": "ds_378_die_einwanderung_der_hunnen",
+      "title": "The Immigration of the Huns",
+      "description": "A miraculous female deer guides Hun hunters through an impassable swamp, revealing a secret path to Scythia."
+    },
+    {
+      "kind": "play",
+      "id": "ds_379_sage_von_den_hunnen",
+      "title": "Saga of the Huns",
+      "description": "Rumors attribute the Huns' origin to exile, a ransom horse, or a union between a wizard and a she-wolf."
+    },
+    {
+      "kind": "play",
+      "id": "ds_380_das_kriegsschwert",
+      "title": "The War Sword",
+      "description": "A shepherd finds a buried sword that wounded a cow and presents it to King Attila as a sign of world dominion."
+    },
+    {
+      "kind": "play",
+      "id": "ds_381_die_stoerche",
+      "title": "The Storks",
+      "description": "Attila interprets storks leaving a besieged city as a prophetic sign, motivating his army to sack Aquileia."
+    },
+    {
+      "kind": "play",
+      "id": "ds_382_der_fisch_auf_der_tafel",
+      "title": "The Fish on the Table",
+      "description": "Guilt-ridden King Theodoric mistakes a served fish head for his executed servant Symmachus and falls mortally ill."
+    },
+    {
+      "kind": "play",
+      "id": "ds_383_theoderichs_seele",
+      "title": "Theodoric's Soul",
+      "description": "A holy hermit on Lipari sees a vision of the deceased King Theodoric being thrown into the volcano crater."
+    },
+    {
+      "kind": "play",
+      "id": "ds_384_urajas_und_ildibad",
+      "title": "Urajas and Ildibad",
+      "description": "A queen's humiliation at the baths leads to a nobleman's murder and subsequent revenge against the king."
+    },
+    {
+      "kind": "play",
+      "id": "ds_385_totila_versucht_den_heiligen",
+      "title": "Totila Tests the Saint",
+      "description": "Gothic King Totila tests Saint Benedict with a masquerade, but the saint instantly exposes the fake king."
+    },
+    {
+      "kind": "play",
+      "id": "ds_386_der_blinde_sabinus",
+      "title": "The Blind Sabinus",
+      "description": "The blind Bishop Sabinus detects Totila's identity by touch and later survives a poison attempt by his archdeacon."
+    },
+    {
+      "kind": "play",
+      "id": "ds_387_der_ausgang_der_langobarden",
+      "title": "The Departure of the Lombards",
+      "description": "Overpopulated Winili draw lots to migrate under Ibor and Ayo, defeating Vandals and settling in Italy."
     },
     {
       "kind": "play",
