@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.641.0",
+  "version": "0.653.0",
   "plays": [
     {
       "kind": "play",
@@ -2318,6 +2318,78 @@
       "id": "ds_387_der_ausgang_der_langobarden",
       "title": "The Departure of the Lombards",
       "description": "Overpopulated Winili draw lots to migrate under Ibor and Ayo, defeating Vandals and settling in Italy."
+    },
+    {
+      "kind": "play",
+      "id": "ds_388_der_langobarden_ausgang",
+      "title": "The Departure of the Lombards",
+      "description": "In a famine-stricken Denmark, Ebbe and Aage's mother suggests casting lots for a third of the Goths to migrate."
+    },
+    {
+      "kind": "play",
+      "id": "ds_389_sage_von_gambara_und_den_langbaerten",
+      "title": "Saga of Gambara and the Longbeards",
+      "description": "Led by Gambara, the exiled Goths refuse to pay Vandal tribute and resolve to fight for their freedom."
+    },
+    {
+      "kind": "play",
+      "id": "ds_390_die_longobarden_und_assipiter",
+      "title": "The Lombards and the Assipiters",
+      "description": "The Goths use a clever dog-headed warrior scare to bypass Assipiter borders, resolved in single combat."
+    },
+    {
+      "kind": "play",
+      "id": "ds_391_die_sieben_schlafenden_maenner_in_der_hoehle",
+      "title": "The Seven Sleepers in the Cave",
+      "description": "Seven Roman sleepers in a coastal cave remain incorruptible, protected by a curse against thieves."
+    },
+    {
+      "kind": "play",
+      "id": "ds_392_der_knabe_im_fischteich",
+      "title": "The Boy in the Fishpond",
+      "description": "King Agelmund rescues an abandoned boy who grabs his spear in a fishpond, naming him Lamissio."
+    },
+    {
+      "kind": "play",
+      "id": "ds_392b_lamissio_und_die_amazonen",
+      "title": "Lamissio and the Amazons",
+      "description": "Lamissio wins a swimming duel against an Amazon champion, securing river passage for the Lombards."
+    },
+    {
+      "kind": "play",
+      "id": "ds_393_sage_von_rodulf_und_rumetrud",
+      "title": "Saga of Rodulf and Rumetrud",
+      "description": "A princess mocks a short envoy, leading to a fatal insult and his cowardly assassination from behind."
+    },
+    {
+      "kind": "play",
+      "id": "ds_394_alboin_wird_dem_audoin_tischfaehig",
+      "title": "Alboin Becomes Table-Worthy to Audoin",
+      "description": "Alboin is armed by the Gepid king in his slain son's seat, earning the right to speise with his father."
+    },
+    {
+      "kind": "play",
+      "id": "ds_395_ankunft_der_longobarden_in_italien",
+      "title": "Arrival of the Lombards in Italy",
+      "description": "Mocked by the Empress with a golden spindle, Narses retaliates by inviting the Lombards to invade Italy."
+    },
+    {
+      "kind": "play",
+      "id": "ds_396_alboin_gewinnt_ticinum",
+      "title": "Alboin Wins Ticinum",
+      "description": "Alboin's horse collapses at the gate, rising only after the king breaks a vow to massacre the citizens."
+    },
+    {
+      "kind": "play",
+      "id": "ds_396b_alboin_betrachtet_sich_italien",
+      "title": "Alboin Surveys Italy",
+      "description": "Alboin climbs a mountain named Königsberg to survey Italy, a land rumored to house giant wisents."
+    },
+    {
+      "kind": "play",
+      "id": "ds_397_alboin_und_rosimund",
+      "title": "Alboin and Rosimund",
+      "description": "Alboin forces Queen Rosimund to drink from her father's skull cup, driving her to plot his death."
     },
     {
       "kind": "play",
