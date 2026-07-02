@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.715.0",
+  "version": "0.720.0",
   "plays": [
     {
       "kind": "play",
@@ -2762,6 +2762,36 @@
       "id": "ds_456_kaiser_ludwig_bauet_hildesheim",
       "title": "Emperor Louis Builds Hildesheim",
       "description": "A miracle fixes a Marian image to a tree stump, and a summer snowfall defines the boundaries of Hildesheim Cathedral."
+    },
+    {
+      "kind": "play",
+      "id": "ds_457_der_rosenstrauch_zu_hildesheim",
+      "title": "The Rosebush at Hildesheim",
+      "description": "Emperor Louis's lost reliquary cross is found on a blooming winter rosebush, where he builds a chapel."
+    },
+    {
+      "kind": "play",
+      "id": "ds_458_koenig_ludwigs_rippe_klappt",
+      "title": "King Louis's Rib Rattles",
+      "description": "King Louis hides a severe rib injury during a campaign, his rib audibly rattling as he rides."
+    },
+    {
+      "kind": "play",
+      "id": "ds_459_die_koenigin_im_wachshemd",
+      "title": "The Queen in the Wax Smock",
+      "description": "Queen Richardis proves her innocence against false adultery charges by surviving a trial by fire in a wax smock."
+    },
+    {
+      "kind": "play",
+      "id": "ds_460_koenigin_adelheid",
+      "title": "Queen Adelaide",
+      "description": "Queen Adelaide's besieged castle forces the enemy to retreat by feeding grain to a wild boar, faking abundance."
+    },
+    {
+      "kind": "play",
+      "id": "ds_461_koenig_carl_sieht_seine_vorfahren_in_der_hoelle_und_im_paradies",
+      "title": "King Charles's Vision of Hell and Paradise",
+      "description": "King Charles the Fat is guided by an angel through hellish sulfur wells and paradise valleys."
     },
     {
       "kind": "play",
