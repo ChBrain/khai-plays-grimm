@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.725.0",
+  "version": "0.730.0",
   "plays": [
     {
       "kind": "play",
@@ -2822,6 +2822,36 @@
       "id": "ds_466_otto_mit_dem_bart",
       "title": "Otto with the Beard",
       "description": "Emperor Otto swears by his red beard to protect a young knight who avenged a page struck by a cook."
+    },
+    {
+      "kind": "play",
+      "id": "ds_467_der_schuster_zu_lauingen",
+      "title": "The Shoemaker of Lauingen",
+      "description": "A humble shoemaker is chosen by a mysterious voice to fight the pagan champion, winning Pappenheim's arms."
+    },
+    {
+      "kind": "play",
+      "id": "ds_468_das_rad_im_mainzer_wappen",
+      "title": "The Wheel in the Mainz Coat of Arms",
+      "description": "Bishop Willigis, of humble origin, turns his detractors' mocking chalk wheels into his official coat of arms."
+    },
+    {
+      "kind": "play",
+      "id": "ds_469_der_rammelsberg",
+      "title": "The Rammelsberg",
+      "description": "Emperor Otto's hunter Ramm discovers the Harz silver mines when his tied horse uncovers ore with its hooves."
+    },
+    {
+      "kind": "play",
+      "id": "ds_470_die_grafen_von_eberstein",
+      "title": "The Counts of Eberstein",
+      "description": "An Emperor's daughter warns a Count of a tournament plot to seize his castle, leading to peace and marriage."
+    },
+    {
+      "kind": "play",
+      "id": "ds_471_otto_laesst_sich_nicht_schlagen",
+      "title": "Otto Will Not Be Struck",
+      "description": "Young Emperor Otto III fakes his death with a dead child to protest being beaten, securing his full reign."
     },
     {
       "kind": "play",
