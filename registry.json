@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.705.0",
+  "version": "0.710.0",
   "plays": [
     {
       "kind": "play",
@@ -2702,6 +2702,36 @@
       "id": "ds_447_des_teufels_goldnes_haus",
       "title": "The Devil's Golden House",
       "description": "Radbod's messenger is guided by an angel to expose the devil's magnificent golden palace as a sulfur pit."
+    },
+    {
+      "kind": "play",
+      "id": "ds_448_wittekinds_taufe",
+      "title": "Wittekind's Baptism",
+      "description": "Duke Wittekind spies on Charlemagne in beggar's garb, sees a miracle during Mass, and accepts baptism."
+    },
+    {
+      "kind": "play",
+      "id": "ds_448b_wittekinds_flucht",
+      "title": "Wittekind's Flight",
+      "description": "Defeated Saxons bury an old woman alive at a ford to prevent her capture, leaving a haunted field."
+    },
+    {
+      "kind": "play",
+      "id": "ds_449_erbauung_frankfurts",
+      "title": "The Founding of Frankfurt",
+      "description": "A wild doe guides Charlemagne's fleeing army across a hidden ford on the Main river, founding Frankfurt."
+    },
+    {
+      "kind": "play",
+      "id": "ds_450_warum_die_schwaben_vorfechten",
+      "title": "Why the Swabians Lead the Army",
+      "description": "Charlemagne grants the Swabians the vanguard privilege at Roncesvalles upon Duke Gerold's kneeling request."
+    },
+    {
+      "kind": "play",
+      "id": "ds_451_eginhart_und_emma",
+      "title": "Eginhard and Emma",
+      "description": "Emma carries Eginhard across the snowy courtyard to hide footprints; Charlemagne witnesses it and blesses them."
     },
     {
       "kind": "play",
