@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.695.0",
+  "version": "0.705.0",
   "plays": [
     {
       "kind": "play",
@@ -2642,6 +2642,66 @@
       "id": "ds_437_hildegard",
       "title": "Hildegard",
       "description": "Empress Hildegard traps the treacherous stepbrother Taland in a bridal chamber, defending her honor."
+    },
+    {
+      "kind": "play",
+      "id": "ds_438_der_hahnenkampf",
+      "title": "The Cockfight",
+      "description": "Queen Hildegard settles the royal succession dispute between her sons using a cockfight."
+    },
+    {
+      "kind": "play",
+      "id": "ds_439_carls_heimkehr_aus_ungerland",
+      "title": "Charlemagne's Return from Hungary",
+      "description": "Charlemagne's signet ring dropped in a cup rescues Queen Hildegard from a forced remarriage."
+    },
+    {
+      "kind": "play",
+      "id": "ds_440_der_hirsch_zu_magdeburg",
+      "title": "The Stag of Magdeburg",
+      "description": "Charlemagne releases a stag with a golden collar, which is only recaptured centuries later by Barbarossa."
+    },
+    {
+      "kind": "play",
+      "id": "ds_441_der_lombardische_spielmann",
+      "title": "The Lombard Minstrel",
+      "description": "A minstrel sings of a secret pass and guides Charlemagne's army over the mountains to defeat the Lombards."
+    },
+    {
+      "kind": "play",
+      "id": "ds_442_der_eiserne_carl",
+      "title": "The Iron Charlemagne",
+      "description": "King Desiderius watches in terror from a tower as the iron-clad army of Charlemagne approaches."
+    },
+    {
+      "kind": "play",
+      "id": "ds_443_carl_belagert_pavia",
+      "title": "Charlemagne Besieges Pavia",
+      "description": "A princess betrays Pavia for Charlemagne's love, only to be trampled to death by the entering army."
+    },
+    {
+      "kind": "play",
+      "id": "ds_444_adelgis",
+      "title": "Adelgis",
+      "description": "The disguised Prince Adelgis splits marrow bones at Charlemagne's table and escapes in a boat."
+    },
+    {
+      "kind": "play",
+      "id": "ds_445_von_koenig_carl_und_den_friesen",
+      "title": "Of King Charles and the Frisians",
+      "description": "Charlemagne wins Frisia from King Radbod in a standing contest by picking up a dropped glove."
+    },
+    {
+      "kind": "play",
+      "id": "ds_446_radbot_laesst_sich_nicht_taufen",
+      "title": "Radbod Refuses Baptism",
+      "description": "Duke Radbod pulls his foot out of the baptismal font to avoid spending eternity apart from his pagan ancestors."
+    },
+    {
+      "kind": "play",
+      "id": "ds_447_des_teufels_goldnes_haus",
+      "title": "The Devil's Golden House",
+      "description": "Radbod's messenger is guided by an angel to expose the devil's magnificent golden palace as a sulfur pit."
     },
     {
       "kind": "play",
