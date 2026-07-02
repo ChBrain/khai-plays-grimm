@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.730.0",
+  "version": "0.735.0",
   "plays": [
     {
       "kind": "play",
@@ -2852,6 +2852,36 @@
       "id": "ds_471_otto_laesst_sich_nicht_schlagen",
       "title": "Otto Will Not Be Struck",
       "description": "Young Emperor Otto III fakes his death with a dead child to protest being beaten, securing his full reign."
+    },
+    {
+      "kind": "play",
+      "id": "ds_472_koenig_otto_in_lamparten",
+      "title": "King Otto in Lombardy",
+      "description": "King Otto issues leather coins in Mailand and later returns to fulfill his justice promise witnessed by a church."
+    },
+    {
+      "kind": "play",
+      "id": "ds_473_der_unschuldige_ritter",
+      "title": "The Innocent Knight",
+      "description": "An innocent knight falsely accused of raping the Empress flows white milk instead of blood at execution."
+    },
+    {
+      "kind": "play",
+      "id": "ds_474_kaiser_otto_haelt_witwen_und_waisengericht",
+      "title": "Emperor Otto Holds Widow's Court",
+      "description": "A executed count's widow proves his innocence by carrying a red-hot iron, demanding the Empress's execution."
+    },
+    {
+      "kind": "play",
+      "id": "ds_475_otto_iii_in_carls_grabe",
+      "title": "Otto III in Charlemagne's Tomb",
+      "description": "Emperor Otto III breaks open Charlemagne's tomb, finding him sitting upright on a throne, and pays his respects."
+    },
+    {
+      "kind": "play",
+      "id": "ds_476_die_heilige_kunigund",
+      "title": "Saint Kunigunde",
+      "description": "Empress Kunigunde walks barefoot over seven red-hot iron plowshares to prove her chaste marriage."
     },
     {
       "kind": "play",
