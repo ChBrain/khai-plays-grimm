@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.685.0",
+  "version": "0.695.0",
   "plays": [
     {
       "kind": "play",
@@ -2582,6 +2582,66 @@
       "id": "ds_427_sage_von_attalus_und_leo",
       "title": "Legend of Attalus and Leo",
       "description": "The loyal cook Leo gains a Frankish lord's trust to rescue the noble hostage Attalus on horseback."
+    },
+    {
+      "kind": "play",
+      "id": "ds_428_der_schlafende_koenig",
+      "title": "The Sleeping King",
+      "description": "King Guntram's soul exits as a snake to find a treasure cave, guided by a servant's sword bridge."
+    },
+    {
+      "kind": "play",
+      "id": "ds_429_der_kommende_wald_und_die_klingenden_schellen",
+      "title": "The Moving Forest and the Ringing Bells",
+      "description": "Frankish soldiers carry tree branches and horse bells to trick Childebert's army into routing."
+    },
+    {
+      "kind": "play",
+      "id": "ds_430_chlotars_sieg_ueber_die_sachsen",
+      "title": "Clotaire's Victory over the Saxons",
+      "description": "Clotaire avenges his wounded son Dagobert by crossing the Weser and slaying Duke Bertoald."
+    },
+    {
+      "kind": "play",
+      "id": "ds_431_das_grab_der_heiligen",
+      "title": "The Grave of the Saints",
+      "description": "Dagobert finds sanctuary in Saint Denis' chapel after shearing a Duke's beard, escaping Clotaire's wrath."
+    },
+    {
+      "kind": "play",
+      "id": "ds_432_sanct_arbogast",
+      "title": "Saint Arbogast",
+      "description": "Saint Arbogast resurrects King Dagobert's son Sigebert after he is trampled to death by a horse during a boar hunt."
+    },
+    {
+      "kind": "play",
+      "id": "ds_433_dagobert_und_sanct_florentius",
+      "title": "Dagobert and Saint Florentius",
+      "description": "Hermit Florentius bounds wild beasts with wooden rods and cures King Dagobert's blind and mute daughter."
+    },
+    {
+      "kind": "play",
+      "id": "ds_434_dagobert_und_seine_seele_im_schiff",
+      "title": "Dagobert's Soul in the Boat",
+      "description": "Saints intercept devils on the sea, rescuing King Dagobert's soul from being carried to hell."
+    },
+    {
+      "kind": "play",
+      "id": "ds_435_dagobert_und_seine_hunde",
+      "title": "Dagobert and His Dogs",
+      "description": "French popular proverbs remember King Dagobert's deep companionship and parting words to his dogs."
+    },
+    {
+      "kind": "play",
+      "id": "ds_436_die_zwei_gleichen_soehne",
+      "title": "The Two Identical Sons",
+      "description": "King Pepin tricks his second queen with her identical stepson, resolving a maternity dilemma."
+    },
+    {
+      "kind": "play",
+      "id": "ds_437_hildegard",
+      "title": "Hildegard",
+      "description": "Empress Hildegard traps the treacherous stepbrother Taland in a bridal chamber, defending her honor."
     },
     {
       "kind": "play",
