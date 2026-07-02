@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.710.0",
+  "version": "0.715.0",
   "plays": [
     {
       "kind": "play",
@@ -2732,6 +2732,36 @@
       "id": "ds_451_eginhart_und_emma",
       "title": "Eginhard and Emma",
       "description": "Emma carries Eginhard across the snowy courtyard to hide footprints; Charlemagne witnesses it and blesses them."
+    },
+    {
+      "kind": "play",
+      "id": "ds_452_der_ring_im_see_bei_aachen",
+      "title": "The Ring in the Lake at Aachen",
+      "description": "Charlemagne's magic ring shifted to a lake, drawing him to build his palace on its shore."
+    },
+    {
+      "kind": "play",
+      "id": "ds_453_der_kaiser_und_die_schlange",
+      "title": "The Emperor and the Snake",
+      "description": "Charlemagne executes an invading toad for a snake, receiving a precious gemstone in gratitude."
+    },
+    {
+      "kind": "play",
+      "id": "ds_454_koenig_carl",
+      "title": "King Charles",
+      "description": "Young Charles is summoned to Rome by a dream voice, where his brother Pope Leo crowns him Emperor."
+    },
+    {
+      "kind": "play",
+      "id": "ds_455_der_schlafende_landsknecht",
+      "title": "The Sleeping Soldier",
+      "description": "A soldier's weasel-like soul crosses a stream over a guard's sword, finding gold in a hill."
+    },
+    {
+      "kind": "play",
+      "id": "ds_456_kaiser_ludwig_bauet_hildesheim",
+      "title": "Emperor Louis Builds Hildesheim",
+      "description": "A miracle fixes a Marian image to a tree stump, and a summer snowfall defines the boundaries of Hildesheim Cathedral."
     },
     {
       "kind": "play",
