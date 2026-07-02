@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.720.0",
+  "version": "0.725.0",
   "plays": [
     {
       "kind": "play",
@@ -2792,6 +2792,36 @@
       "id": "ds_461_koenig_carl_sieht_seine_vorfahren_in_der_hoelle_und_im_paradies",
       "title": "King Charles's Vision of Hell and Paradise",
       "description": "King Charles the Fat is guided by an angel through hellish sulfur wells and paradise valleys."
+    },
+    {
+      "kind": "play",
+      "id": "ds_462_adalbert_von_babenberg",
+      "title": "Adalbert of Babenberg",
+      "description": "Archbishop Hatto tricks Count Adalbert with a literal breakfast ruse to execute him despite a safe conduct vow."
+    },
+    {
+      "kind": "play",
+      "id": "ds_463_herzog_heinrich_und_die_goldne_halskette",
+      "title": "Duke Henry and the Golden Necklace",
+      "description": "Duke Henry avoids a lethal strangulation trap after a smith warns him of Hatto's golden collar."
+    },
+    {
+      "kind": "play",
+      "id": "ds_464_kaiser_heinrich_der_vogeler",
+      "title": "Emperor Henry the Fowler",
+      "description": "Duke Henry of Saxony is found catching birds in the woods when the princes arrive to elect him Emperor."
+    },
+    {
+      "kind": "play",
+      "id": "ds_465_der_kuehne_kurzbold",
+      "title": "The Bold Kurzbold",
+      "description": "Kuno 'Kurzbold', a small but brave hero, defeats rebel dukes during a chess match and slays an escaped court lion."
+    },
+    {
+      "kind": "play",
+      "id": "ds_466_otto_mit_dem_bart",
+      "title": "Otto with the Beard",
+      "description": "Emperor Otto swears by his red beard to protect a young knight who avenged a page struck by a cook."
     },
     {
       "kind": "play",
