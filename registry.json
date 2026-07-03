@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.770.0",
+  "version": "0.784.0",
   "plays": [
     {
       "kind": "play",
@@ -3092,6 +3092,90 @@
       "id": "ds_511_der_bund_im_ruetli",
       "title": "The Rütli Oath",
       "description": "Stauffacher's new house is eyed by Gessler; Stauffacher, Arnold, and Walter swear the eternal covenant."
+    },
+    {
+      "kind": "play",
+      "id": "ds_512_wilhelm_tell",
+      "title": "William Tell",
+      "description": "Wilhelm Tell refuses to bow to Gessler's hat and is forced to shoot an apple off his son's head."
+    },
+    {
+      "kind": "play",
+      "id": "ds_513_der_knabe_erzaehlts_dem_ofen",
+      "title": "The Boy Tells the Oven",
+      "description": "A boy bound by oath reveals a coup plot by telling it to a tiled stove in a butcher's guildhall."
+    },
+    {
+      "kind": "play",
+      "id": "ds_514_der_lucerner_harschhoerner",
+      "title": "The Harschhoerner of Lucerne",
+      "description": "Charlemagne grants Lucerne the right to bear brass war horns in battle."
+    },
+    {
+      "kind": "play",
+      "id": "ds_515_ursprung_der_welfen",
+      "title": "Origin of the Welfs",
+      "description": "Irmentrut mocks a mother of triplets, then bears twelve sons and tries to drown eleven, who are saved by Isenbart."
+    },
+    {
+      "kind": "play",
+      "id": "ds_516_welfen_und_giblinger",
+      "title": "Ghibellines and Guelfs",
+      "description": "Duke Frederick defeats the Bavarians, cementing the war cries of Welfen and Giblinger."
+    },
+    {
+      "kind": "play",
+      "id": "ds_517_herzog_bundus_genannt_der_wolf",
+      "title": "Duke Bundus, called the Wolf",
+      "description": "Duke Balthasar passes off a hunter's son as his own; the truth is revealed but Bundus retains his duchy."
+    },
+    {
+      "kind": "play",
+      "id": "ds_518_heinrich_mit_dem_gueldenen_wagen",
+      "title": "Henry with the Golden Cart",
+      "description": "Heinrich uses a golden cart and fresh relays of horses to encircle and claim a vast Bavarian estate."
+    },
+    {
+      "kind": "play",
+      "id": "ds_519_heinrich_mit_dem_goldenen_pfluge",
+      "title": "Henry with the Golden Plow",
+      "description": "Henry claims a large forest territory by encircling it with a golden plow during the Emperor's nap."
+    },
+    {
+      "kind": "play",
+      "id": "ds_520_heinrich_der_loewe",
+      "title": "Henry the Lion",
+      "description": "Henry is shipwrecked, makes a pact with a lion, and is carried home on a griffin to stop his wife's wedding."
+    },
+    {
+      "kind": "play",
+      "id": "ds_521_ursprung_der_zaehringer",
+      "title": "Origin of the Zaehringers",
+      "description": "A charcoal burner finds silver under his pile and buys a duchy from a deposed King."
+    },
+    {
+      "kind": "play",
+      "id": "ds_522_herr_peter_dimringer_von_staufenberg",
+      "title": "Peter Dimringer of Staufenberg",
+      "description": "Peter makes a pact with a fairy bride but dies on his wedding day to a princess when he breaks his vow."
+    },
+    {
+      "kind": "play",
+      "id": "ds_523_des_edlen_moeringers_wallfahrt",
+      "title": "The Noble Moringer's Pilgrimage",
+      "description": "Möringer returns from a 7-year pilgrimage just in time to stop his wife's wedding to Neufen."
+    },
+    {
+      "kind": "play",
+      "id": "ds_524_graf_hubert_von_calw",
+      "title": "Count Hubert of Calw",
+      "description": "Hubert chooses poverty, becomes a cowherd, and begs at his wife's wedding gate to reclaim his estate."
+    },
+    {
+      "kind": "play",
+      "id": "ds_525_udalsrich_und_wendelgart",
+      "title": "Udalrich and Wendelgart",
+      "description": "Udalrich returns from captivity; a crabapple miracle by Wiborad foretells his return to Wendelgart."
     },
     {
       "kind": "play",
