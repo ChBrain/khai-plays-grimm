@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.804.0",
+  "version": "0.818.0",
   "plays": [
     {
       "kind": "play",
@@ -3296,6 +3296,90 @@
       "id": "ds_545_sage_von_irmenfried_iring_und_dieterich",
       "title": "Sage of Irmenfried, Iring and Dieterich",
       "description": "The Thuringian advisor Iring kills his King Irmenfried for Dieterich, but avenges him when betrayed."
+    },
+    {
+      "kind": "play",
+      "id": "ds_546_das_jagen_im_fremden_walde",
+      "title": "Hunting in the Foreign Forest",
+      "description": "Adelheid plots with Ludwig of Thuringia to murder her husband Pfalzgraf Friedrich during an illegal hunt."
+    },
+    {
+      "kind": "play",
+      "id": "ds_547_wie_ludwig_wartburg_ueberkommen",
+      "title": "How Ludwig Obtained the Wartburg",
+      "description": "Ludwig the Springer claims a steep hill by carrying Thuringian soil to it and swearing a literal oath."
+    },
+    {
+      "kind": "play",
+      "id": "ds_548_ludwig_der_springer",
+      "title": "Ludwig the Springer",
+      "description": "Ludwig escapes execution by leaping from the high tower of Gibichenstein Castle into the Saale river."
+    },
+    {
+      "kind": "play",
+      "id": "ds_549_reinhartsbrunn",
+      "title": "Reinhartsbrunn",
+      "description": "Ludwig founds Reinhartsbrunn Abbey after a potter informs him of two mysterious lights seen at night."
+    },
+    {
+      "kind": "play",
+      "id": "ds_550_der_hart_geschmiedete_landgraf",
+      "title": "The Hard-Forged Landgrave",
+      "description": "Ludwig gets lost and stays at a Ruhla smithy, where the smith's shouts goad him to become hard like iron."
+    },
+    {
+      "kind": "play",
+      "id": "ds_551_ludwig_ackert_mit_seinen_adlichen",
+      "title": "Ludwig Plows with his Nobles",
+      "description": "Ludwig the Iron punishes rebellious nobles by harnessing them to a plow and forcing them to plow fields."
+    },
+    {
+      "kind": "play",
+      "id": "ds_552_ludwig_baut_eine_mauer",
+      "title": "Ludwig Builds a Wall",
+      "description": "Ludwig presents his fully armored knights to the Emperor as a living wall surrounding the castle."
+    },
+    {
+      "kind": "play",
+      "id": "ds_553_ludwigs_leichnam_wird_getragen",
+      "title": "Ludwig's Corpse is Carried",
+      "description": "Fearing him even in death, the rebellious nobles carry Ludwig's coffin ten miles on their shoulders."
+    },
+    {
+      "kind": "play",
+      "id": "ds_554_wie_es_um_ludwigs_seele_geschaffen_war",
+      "title": "How Ludwig's Soul Fared",
+      "description": "A priest conjures the devil to show Ludwig the Mild that his father's soul is tormented on a red-hot iron throne."
+    },
+    {
+      "kind": "play",
+      "id": "ds_555_der_wartburger_krieg",
+      "title": "The Wartburg Song Contest",
+      "description": "Six Minnesingers hold a singing contest at the Wartburg with lethal stakes; Ofterdingen escapes death."
+    },
+    {
+      "kind": "play",
+      "id": "ds_556_doctor_luther_zu_wartburg",
+      "title": "Doctor Luther at the Wartburg",
+      "description": "Martin Luther translates the Bible in his chamber and throws his inkwell to drive away the tempting devil."
+    },
+    {
+      "kind": "play",
+      "id": "ds_557_die_vermaehlung_der_kinder_ludwig_und_elisabeth",
+      "title": "The Betrothal of Ludwig and Elisabeth",
+      "description": "Hungarian Princess Elisabeth is betrothed to young Ludwig and sent to Thuringia in a silver cradle."
+    },
+    {
+      "kind": "play",
+      "id": "ds_558_heinrich_das_kind_von_brabant",
+      "title": "Henry the Child of Brabant",
+      "description": "A war of succession breaks out as the Hessians support Saint Elisabeth's infant son Heinrich for ruler."
+    },
+    {
+      "kind": "play",
+      "id": "ds_559_frau_sophiens_handschuh",
+      "title": "Duchess Sophie's Glove",
+      "description": "Sophie throws her glove, declaring Hessen's loyalty, after the Markgraf of Meißen refuses her claims."
     },
     {
       "kind": "play",
