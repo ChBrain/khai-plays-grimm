@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.750.0",
+  "version": "0.760.0",
   "plays": [
     {
       "kind": "play",
@@ -2972,6 +2972,66 @@
       "id": "ds_491_sage_von_adelger_zu_baiern",
       "title": "Legend of Adelger of Bavaria",
       "description": "Duke Adelger defeats Emperor Severus after his wise adviser warns him via a public stag parable."
+    },
+    {
+      "kind": "play",
+      "id": "ds_492_die_treulose_stoerchin",
+      "title": "The Faithless Stork",
+      "description": "A male stork returns with other storks to judge and execute his unfaithful wife."
+    },
+    {
+      "kind": "play",
+      "id": "ds_493_herzog_heinrich_in_baiern_haelt_reine_strasse",
+      "title": "Duke Henry of Bavaria Keeps a Clean Road",
+      "description": "Duke Henry keeps the roads safe from robbers and smashes clay pots as a warning to corrupt guardians."
+    },
+    {
+      "kind": "play",
+      "id": "ds_494_diez_schwinburg",
+      "title": "Diez Schwinburg",
+      "description": "After beheading, Diez's headless body stands up and runs past his servants to save their lives."
+    },
+    {
+      "kind": "play",
+      "id": "ds_495_der_geschundene_wolf",
+      "title": "The Flayed Wolf",
+      "description": "Duke Otto takes Passau and executes papal legate Albert, whose flaying is commemorated in the city coat of arms."
+    },
+    {
+      "kind": "play",
+      "id": "ds_496_die_gretlmuehl",
+      "title": "The Gretlmuehl",
+      "description": "Otto the Finner sells his lands and wastes his wealth living with a miller's daughter."
+    },
+    {
+      "kind": "play",
+      "id": "ds_497_herzog_friedrich_und_leopold_von_oesterreich",
+      "title": "Duke Frederick and Leopold of Austria",
+      "description": "Leopold summons the Devil to free King Frederick, but Frederick refuses to fly with the Devil."
+    },
+    {
+      "kind": "play",
+      "id": "ds_498_der_markgraefin_schleier",
+      "title": "The Margravine's Veil",
+      "description": "Leopold vows to build a monastery where his wife's wind-blown veil is found, discovering it 8 years later."
+    },
+    {
+      "kind": "play",
+      "id": "ds_499_der_brennberger_erste_sage",
+      "title": "The Brennberger, First Legend",
+      "description": "The Duchess of Austria sends the singing knight Brennberger to France to compare her beauty to the Queen's."
+    },
+    {
+      "kind": "play",
+      "id": "ds_500_der_brennberger_zweite_sage",
+      "title": "The Brennberger, Second Legend",
+      "description": "The jealous Duke has Brennberger beheaded and serves his heart to the Duchess, who dies of grief."
+    },
+    {
+      "kind": "play",
+      "id": "ds_501_schreckenwalds_rosengarten",
+      "title": "Schreckenwald's Rose Garden",
+      "description": "Robber Schreckenwald imprisons victims in a tiny cliff ledge; one escapes via a daring jump, sealing the robber's doom."
     },
     {
       "kind": "play",
