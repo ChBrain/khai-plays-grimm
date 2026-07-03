@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.735.0",
+  "version": "0.740.0",
   "plays": [
     {
       "kind": "play",
@@ -2882,6 +2882,36 @@
       "id": "ds_476_die_heilige_kunigund",
       "title": "Saint Kunigunde",
       "description": "Empress Kunigunde walks barefoot over seven red-hot iron plowshares to prove her chaste marriage."
+    },
+    {
+      "kind": "play",
+      "id": "ds_477_der_dom_zu_bamberg",
+      "title": "The Cathedral of Bamberg",
+      "description": "Empress Kunigunde builds Bamberg Cathedral, pay-scale miracle of the money bowl, and forces the Devil to carry columns."
+    },
+    {
+      "kind": "play",
+      "id": "ds_478_taube_sagt_den_feind_an",
+      "title": "Pigeon Announces the Enemy",
+      "description": "A pigeon flies into a besieged city with a warning message tied to its neck, saving it from a surprise attack."
+    },
+    {
+      "kind": "play",
+      "id": "ds_479_der_kelch_mit_der_scharte",
+      "title": "The Cup with the Notch",
+      "description": "Saint Lawrence throws a golden chalice onto the scales of judgment to save Emperor Henry's soul, leaving a notch."
+    },
+    {
+      "kind": "play",
+      "id": "ds_480_sage_von_kaiser_heinrich_iii",
+      "title": "Legend of Emperor Henry III",
+      "description": "A voice prophesies a fugitive's newborn son will marry the Emperor's daughter; despite death orders, fate prevails."
+    },
+    {
+      "kind": "play",
+      "id": "ds_481_die_weiber_zu_weinsperg",
+      "title": "The Wives of Weinsberg",
+      "description": "Women allowed to carry what they can carry from a besieged castle choose to carry their husbands on their shoulders."
     },
     {
       "kind": "play",
