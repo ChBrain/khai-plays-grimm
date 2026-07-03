@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.745.0",
+  "version": "0.750.0",
   "plays": [
     {
       "kind": "play",
@@ -2942,6 +2942,36 @@
       "id": "ds_486_kaiser_heinrich_versucht_die_kaiserin",
       "title": "Emperor Henry Tests the Empress",
       "description": "Emperor Henry V tests his wife's fidelity in disguise; she discovers the ruse and orders him beaten."
+    },
+    {
+      "kind": "play",
+      "id": "ds_487_graf_hoyer_von_mansfeld",
+      "title": "Graf Hoyer von Mansfeld",
+      "description": "Graf Hoyer makes an overconfident victory vow on a softening stone, but is slain in battle."
+    },
+    {
+      "kind": "play",
+      "id": "ds_488_der_verlorene_kaiser_friedrich",
+      "title": "The Lost Emperor Frederick",
+      "description": "Excommunicated Emperor Frederick II rides into the forest to hunt and vanishes forever using a magic ring."
+    },
+    {
+      "kind": "play",
+      "id": "ds_489_albertus_magnus_und_kaiser_wilhelm",
+      "title": "Albertus Magnus and Emperor William",
+      "description": "Albertus Magnus hosts a winter garden banquet where he temporarily conjures a warm, blooming summer."
+    },
+    {
+      "kind": "play",
+      "id": "ds_490_kaiser_maximilian_und_maria_von_burgund",
+      "title": "Emperor Maximilian and Mary of Burgundy",
+      "description": "Trithemius conjures the ghost of Mary of Burgund for Maximilian, but warns him to remain silent."
+    },
+    {
+      "kind": "play",
+      "id": "ds_491_sage_von_adelger_zu_baiern",
+      "title": "Legend of Adelger of Bavaria",
+      "description": "Duke Adelger defeats Emperor Severus after his wise adviser warns him via a public stag parable."
     },
     {
       "kind": "play",
