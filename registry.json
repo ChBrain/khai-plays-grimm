@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.740.0",
+  "version": "0.745.0",
   "plays": [
     {
       "kind": "play",
@@ -2912,6 +2912,36 @@
       "id": "ds_481_die_weiber_zu_weinsperg",
       "title": "The Wives of Weinsberg",
       "description": "Women allowed to carry what they can carry from a besieged castle choose to carry their husbands on their shoulders."
+    },
+    {
+      "kind": "play",
+      "id": "ds_482_der_teufels_thurn_am_donaustrudel",
+      "title": "The Devil's Tower at the Danube Whirlpool",
+      "description": "Bishop Bruno is cursed by a demon at the Danube Strudel; later, the floor collapses and kills him."
+    },
+    {
+      "kind": "play",
+      "id": "ds_483_quedl_das_huendlein",
+      "title": "Quedl the Little Dog",
+      "description": "Princess Mathild avoids the Devil's claim by staying awake with the help of her loyal barking dog Quedl."
+    },
+    {
+      "kind": "play",
+      "id": "ds_484_sage_vom_schueler_hildebrand",
+      "title": "Legend of the Student Hildebrand",
+      "description": "Young Hildebrand's papacy is predicted; Prince Henry IV hates the boy out of instinctive future rivalry."
+    },
+    {
+      "kind": "play",
+      "id": "ds_485_der_knoblauchskoenig",
+      "title": "The Garlic King",
+      "description": "Saxons reject Henry's son and elect counter-king Hermann, mockingly dubbed 'Garlic King' at Eisleben."
+    },
+    {
+      "kind": "play",
+      "id": "ds_486_kaiser_heinrich_versucht_die_kaiserin",
+      "title": "Emperor Henry Tests the Empress",
+      "description": "Emperor Henry V tests his wife's fidelity in disguise; she discovers the ruse and orders him beaten."
     },
     {
       "kind": "play",
