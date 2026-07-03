@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.784.0",
+  "version": "0.804.0",
   "plays": [
     {
       "kind": "play",
@@ -3176,6 +3176,126 @@
       "id": "ds_525_udalsrich_und_wendelgart",
       "title": "Udalrich and Wendelgart",
       "description": "Udalrich returns from captivity; a crabapple miracle by Wiborad foretells his return to Wendelgart."
+    },
+    {
+      "kind": "play",
+      "id": "ds_526_stiftung_des_klosters_wettenhausen",
+      "title": "Founding of Wettenhausen Monastery",
+      "description": "Countess Gertrud uses a tiny plow hidden in her bosom and a horse ride to claim land for a monastery."
+    },
+    {
+      "kind": "play",
+      "id": "ds_527_ritter_ulrich_dienstmann_zu_wirtenberg",
+      "title": "Knight Ulrich of Wurttemberg",
+      "description": "Ulrich encounters a silent procession of a thousand souls and is shown the secrets of purgatory."
+    },
+    {
+      "kind": "play",
+      "id": "ds_528_freiherr_albert_von_simmern",
+      "title": "Freiherr Albert of Simmern",
+      "description": "Albert hunts a white stag that leads him to an underground fairy palace."
+    },
+    {
+      "kind": "play",
+      "id": "ds_529_andreas_von_sangerwitz",
+      "title": "Andreas of Sangerwitz",
+      "description": "Andreas counsels peace before the Battle of Tannenberg but is mocked, later fighting to the death."
+    },
+    {
+      "kind": "play",
+      "id": "ds_530_der_birdunger_buerger",
+      "title": "The Verdun Citizen",
+      "description": "A Verdun citizen makes a pact with the devil for money and is eventually carried off to hell on a black steed."
+    },
+    {
+      "kind": "play",
+      "id": "ds_531_der_mann_im_pflug",
+      "title": "The Man in the Plow",
+      "description": "A knight is forced to plow fields in captivity, but his wife's woven shirt remains miraculously clean."
+    },
+    {
+      "kind": "play",
+      "id": "ds_532_siegfried_und_genovefa",
+      "title": "Siegfried and Genevieve",
+      "description": "Genovefa is falsely accused of adultery by Golo and cast out, surviving in a cave with a doe."
+    },
+    {
+      "kind": "play",
+      "id": "ds_533_carl_ynach_salvius_brabon_und_frau_schwan",
+      "title": "Carl Ynach, Salvius Brabon and Lady Swan",
+      "description": "Exiled Carl Ynach flees Rome with Germana, guided down the Rhine by a mysterious swan."
+    },
+    {
+      "kind": "play",
+      "id": "ds_534_der_ritter_mit_dem_schwan",
+      "title": "The Knight of the Swan",
+      "description": "Beatrix bears septuplets with silver chains; Matabruna steals them, turning the boys into swans."
+    },
+    {
+      "kind": "play",
+      "id": "ds_535_das_schwanschiff_am_rhein",
+      "title": "The Swan Ship on the Rhine",
+      "description": "A swan knight defends Beatrix and marries her on the condition that she never ask his origin."
+    },
+    {
+      "kind": "play",
+      "id": "ds_536_lohengrin_zu_brabant",
+      "title": "Lohengrin of Brabant",
+      "description": "Lohengrin is summoned from Montsalvat to defend Elsa, warning her never to ask his name."
+    },
+    {
+      "kind": "play",
+      "id": "ds_537_loherangrins_ende_in_lothringen",
+      "title": "Loherangrin's End in Lorraine",
+      "description": "Loherangrin is stabbed by his wife's suspicious relatives who seek to bind him by a magic ritual."
+    },
+    {
+      "kind": "play",
+      "id": "ds_538_der_schwanritter",
+      "title": "The Swan Knight",
+      "description": "The Duke of Saxony seizes Brabant; a swan knight defends the Duchess's daughter but leaves when questioned."
+    },
+    {
+      "kind": "play",
+      "id": "ds_539_der_gute_gerhard_schwan",
+      "title": "The Good Gerhard Swan",
+      "description": "A silent knight arrives in a swan boat with a letter; he is raised to Duke by Karl and marries Adalis."
+    },
+    {
+      "kind": "play",
+      "id": "ds_540_die_schwanringe_zu_plesse",
+      "title": "The Swan Rings of Plesse",
+      "description": "Three brothers build Plesse Castle, guided by their hunter bastard brother Heiso."
+    },
+    {
+      "kind": "play",
+      "id": "ds_541_das_oldenburger_horn",
+      "title": "The Oldenburg Horn",
+      "description": "Otto of Oldenburg is offered a drink by a mountain maiden, but pours it away and steals the horn."
+    },
+    {
+      "kind": "play",
+      "id": "ds_542_friedrich_von_oldenburg",
+      "title": "Frederick of Oldenburg",
+      "description": "Friedrich volunteers to fight a lion to save his father, using a straw dummy to trick the beast."
+    },
+    {
+      "kind": "play",
+      "id": "ds_543_die_neun_kinder",
+      "title": "The Nine Children",
+      "description": "Uffo dreams his wife bore him nine children, which turn out to be nine churches she founded."
+    },
+    {
+      "kind": "play",
+      "id": "ds_544_amalaberga_von_thueringen",
+      "title": "Amalaberga of Thuringia",
+      "description": "Amalaberga goads Hermenfried into war by half-covering the dining table."
+    },
+    {
+      "kind": "play",
+      "id": "ds_545_sage_von_irmenfried_iring_und_dieterich",
+      "title": "Sage of Irmenfried, Iring and Dieterich",
+      "description": "The Thuringian advisor Iring kills his King Irmenfried for Dieterich, but avenges him when betrayed."
     },
     {
       "kind": "play",
