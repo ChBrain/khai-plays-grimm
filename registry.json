@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.760.0",
+  "version": "0.770.0",
   "plays": [
     {
       "kind": "play",
@@ -3032,6 +3032,66 @@
       "id": "ds_501_schreckenwalds_rosengarten",
       "title": "Schreckenwald's Rose Garden",
       "description": "Robber Schreckenwald imprisons victims in a tiny cliff ledge; one escapes via a daring jump, sealing the robber's doom."
+    },
+    {
+      "kind": "play",
+      "id": "ds_502_margaretha_maultasch",
+      "title": "Margaretha Maultasch",
+      "description": "The ghostly Margaretha Maultasch slaps mockers at the Klagenfurt arsenal and haunts Osterwitz ruins."
+    },
+    {
+      "kind": "play",
+      "id": "ds_503_dieterichstein_in_kaernthen",
+      "title": "Dietrichstein in Carinthia",
+      "description": "The defenders of Dietrichstein Castle escape silently under the cover of a thick evening fog."
+    },
+    {
+      "kind": "play",
+      "id": "ds_504_die_maultasch_schutt",
+      "title": "The Maultasch Ruins",
+      "description": "Defenders trick Margaretha Maultasch by throwing a fed ox over the wall to fake abundance."
+    },
+    {
+      "kind": "play",
+      "id": "ds_505_radbod_von_habsburg",
+      "title": "Radbod of Habsburg",
+      "description": "Graf Radbod builds Habsburg and shows his brother Werner a living wall of loyal vassals."
+    },
+    {
+      "kind": "play",
+      "id": "ds_506_rudolf_von_straettlingen",
+      "title": "Rudolf of Strättlingen",
+      "description": "Saint Michael weighs proud King Rudolf's soul and strikes the Devil to prevent him from pulling down the scale."
+    },
+    {
+      "kind": "play",
+      "id": "ds_507_idda_von_toggenburg",
+      "title": "Idda of Toggenburg",
+      "description": "Accused of adultery due to a stolen ring, Idda survives a fall from the cliff and lives as a holy hermit."
+    },
+    {
+      "kind": "play",
+      "id": "ds_508_auswanderung_der_swiss",
+      "title": "Emigration of the Swiss",
+      "description": "Swiss ancestors draw lots during a famine and march south across the Alps to settle the valleys."
+    },
+    {
+      "kind": "play",
+      "id": "ds_509_die_ochsen_auf_dem_acker_zu_melchtal",
+      "title": "The Oxen at Melchtal",
+      "description": "Bailiff Landenberg tries to seize a peasant's oxen; the son resists, and the father is blinded."
+    },
+    {
+      "kind": "play",
+      "id": "ds_510_der_landvogt_im_bad",
+      "title": "The Bailiff in the Bath",
+      "description": "Wolfenschiessen tries to force Conrad's wife into his bath; Conrad returns and kills him with an axe."
+    },
+    {
+      "kind": "play",
+      "id": "ds_511_der_bund_im_ruetli",
+      "title": "The Rütli Oath",
+      "description": "Stauffacher's new house is eyed by Gessler; Stauffacher, Arnold, and Walter swear the eternal covenant."
     },
     {
       "kind": "play",
