@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.818.0",
+  "version": "0.832.0",
   "plays": [
     {
       "kind": "play",
@@ -3380,6 +3380,90 @@
       "id": "ds_559_frau_sophiens_handschuh",
       "title": "Duchess Sophie's Glove",
       "description": "Sophie throws her glove, declaring Hessen's loyalty, after the Markgraf of Meißen refuses her claims."
+    },
+    {
+      "kind": "play",
+      "id": "ds_560_friedrich_mit_dem_gebissenen_backen",
+      "title": "Frederick with the Bitten Cheek",
+      "description": "Margaret escapes her murderous husband and bites her son's cheek so he will remember her sorrow."
+    },
+    {
+      "kind": "play",
+      "id": "ds_561_markgraf_friedrich_laesst_seine_tochter_saeugen",
+      "title": "Frederick has his Daughter Nursed",
+      "description": "Under siege, Friedrich breakout and halts his retreat repeatedly to let a wet-nurse feed his baby."
+    },
+    {
+      "kind": "play",
+      "id": "ds_562_otto_der_schuetze",
+      "title": "Otto the Archer",
+      "description": "Prince Otto flees to Cleves to serve as an archer, later returning to inherit Hesse."
+    },
+    {
+      "kind": "play",
+      "id": "ds_563_landgraf_philips_und_die_bauersfrau",
+      "title": "Landgrave Philip and the Peasant Woman",
+      "description": "Philip travels incognito, pays a poor woman's tax, and hears her wish that he had the hot gold in his belly."
+    },
+    {
+      "kind": "play",
+      "id": "ds_564_in_ketten_aufhaengen",
+      "title": "Hanging in Chains",
+      "description": "Philip literally hangs Heinz von Lüder in a golden chain to satisfy a imperial command without hurting him."
+    },
+    {
+      "kind": "play",
+      "id": "ds_565_landgraf_moritz_von_hessen",
+      "title": "Landgrave Maurice of Hesse",
+      "description": "Moritz disguises as a beggar to join a wealthy soldier in a nightly treasure hunt using magic roots."
+    },
+    {
+      "kind": "play",
+      "id": "ds_566_brot_und_salz_segnet_gott",
+      "title": "God Blesses Bread and Salt",
+      "description": "A lost prince seeks food at a charcoal burner's hut, receiving bread and salt, rewarding him with a silver stirrup."
+    },
+    {
+      "kind": "play",
+      "id": "ds_567_nidda",
+      "title": "Nidda",
+      "description": "A Countess builds Nidda Castle where her donkey stubbornly stops and refuses to move."
+    },
+    {
+      "kind": "play",
+      "id": "ds_568_ursprung_der_von_malsburg",
+      "title": "Origin of the von Malsburg Family",
+      "description": "Otto marks his new land on a hill where he finds a thornbush with three white flowers."
+    },
+    {
+      "kind": "play",
+      "id": "ds_569_ursprung_der_grafen_von_mannsfeld",
+      "title": "Origin of the Counts of Mansfeld",
+      "description": "A knight clever sows a bushel of barley in a thin border to claim the entire County of Mansfeld."
+    },
+    {
+      "kind": "play",
+      "id": "ds_570_henneberg",
+      "title": "Henneberg",
+      "description": "A noble lord sees a wild birch hen fly up from a hill, naming his new castle Henneberg after it."
+    },
+    {
+      "kind": "play",
+      "id": "ds_571_die_acht_brunos",
+      "title": "The Eight Brunos",
+      "description": "Count Gebhard rescues his eight infant sons whom his fearful wife ordered to be drowned as puppies."
+    },
+    {
+      "kind": "play",
+      "id": "ds_572_die_eselswiese",
+      "title": "The Donkey's Meadow",
+      "description": "Saint Bruno's mule stubbornly refuses to move, warning him against his fatal missionary trip to Prussia."
+    },
+    {
+      "kind": "play",
+      "id": "ds_573_thalmann_von_lunderstedt",
+      "title": "Thalmann von Lunderstedt",
+      "description": "Cornered on a cliff by his enemies, Thalmann spurs his horse off the precipice into the Saale river."
     },
     {
       "kind": "play",
