@@ -1,8 +1,38 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.840.0",
+  "version": "0.845.0",
   "plays": [
+    {
+      "kind": "play",
+      "id": "dm_001_introduction",
+      "title": "Introduction",
+      "description": "Historical and linguistic context of Germanic myth, modeling the migration and evolution of folk tradition."
+    },
+    {
+      "kind": "play",
+      "id": "dm_002_god",
+      "title": "God",
+      "description": "The transition from pagan polytheism to monotheism, modeling the shift in divine concepts."
+    },
+    {
+      "kind": "play",
+      "id": "dm_003_worship",
+      "title": "Worship",
+      "description": "Sacrificial rites, worship practices, and prayer in Germanic antiquity."
+    },
+    {
+      "kind": "play",
+      "id": "dm_004_temples",
+      "title": "Temples",
+      "description": "Sacred architecture, halls, and temples of Germanic worship."
+    },
+    {
+      "kind": "play",
+      "id": "dm_005_sacred_places",
+      "title": "Sacred Places",
+      "description": "Natural loci of worship: sacred groves, hills, and wells."
+    },
     {
       "kind": "play",
       "id": "ds_001_die_drei_bergleute_im_kuttenberg",
