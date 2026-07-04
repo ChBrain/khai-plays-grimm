@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.832.0",
+  "version": "0.839.0",
   "plays": [
     {
       "kind": "play",
@@ -2171,1299 +2171,1341 @@
     },
     {
       "kind": "play",
-      "id": "ds_363_der_heilige_salzfluss",
+      "id": "ds_363_die_drei_alten",
+      "title": "The Three Old Men",
+      "description": "A priest is shown three extremely ancient men, each older than the last, who live in a state of holy waiting."
+    },
+    {
+      "kind": "play",
+      "id": "ds_364_der_heilige_salzfluss",
       "title": "The Holy Salt River",
       "description": "Germanic tribes fight for a salt-rich river, believing its divine harvest connects them directly to the gods."
     },
     {
       "kind": "play",
-      "id": "ds_364_der_heilige_see_der_hertha",
+      "id": "ds_365_der_heilige_see_der_hertha",
       "title": "The Holy Lake of Hertha",
       "description": "Slaves washing the sacred wagon of the goddess Hertha are swallowed by the lake to protect her holy secrets."
     },
     {
       "kind": "play",
-      "id": "ds_365_der_heilige_wald_der_semnonen",
+      "id": "ds_366_der_heilige_wald_der_semnonen",
       "title": "The Sacred Forest of the Semnones",
       "description": "Semnones perform a human sacrifice in a sacred grove where everyone must enter bound in chains of submission."
     },
     {
       "kind": "play",
-      "id": "ds_366_die_wanderung_der_ansivaren",
+      "id": "ds_367_die_wanderung_der_ansivaren",
       "title": "The Migration of the Ampsivarii",
       "description": "An exiled Germanic tribe seeking a home is repeatedly driven away until all their youth are wiped out."
     },
     {
       "kind": "play",
-      "id": "ds_367_die_seefahrt_der_usipier",
+      "id": "ds_368_die_seefahrt_der_usipier",
       "title": "The Sea Voyage of the Usipii",
       "description": "Mutinous Germanic conscripts flee Britain in stolen ships, resort to cannibalism, and are sold as slaves."
     },
     {
       "kind": "play",
-      "id": "ds_368_wanderung_der_gothen",
+      "id": "ds_369_wanderung_der_gothen",
       "title": "Migration of the Goths",
       "description": "The Goths migrate under their first kings, but a collapsed bridge permanently divides their army during migration."
     },
     {
       "kind": "play",
-      "id": "ds_369_die_eingefallene_bruecke",
+      "id": "ds_370_die_eingefallene_bruecke",
       "title": "The Collapsed Bridge",
       "description": "After a bridge collapses, half of the migrating Goths are isolated in an unreachable swamp where their echoes persist."
     },
     {
       "kind": "play",
-      "id": "ds_370_warum_die_gothen_in_griechenland_eingebrochen",
+      "id": "ds_371_warum_die_gothen_in_griechenland_eingebrochen",
       "title": "Why the Goths Invaded Greece",
       "description": "The removal of three buried silver statues guarding the northern border triggers a barbarian invasion of Thrace."
     },
     {
       "kind": "play",
-      "id": "ds_371_fridigern",
+      "id": "ds_372_fridigern",
       "title": "Fridigern",
       "description": "Famine-stricken Goths sell their children for dog meat to Roman exploiters, leading to a historic rebellion."
     },
     {
       "kind": "play",
-      "id": "ds_372_des_koenigs_grab",
+      "id": "ds_373_des_koenigs_grab",
       "title": "The King's Grave",
       "description": "The Goths divert a river to bury King Alaric with his treasures, executing the diggers to keep it secret."
     },
     {
       "kind": "play",
-      "id": "ds_373_athaulfs_tod",
+      "id": "ds_374_athaulfs_tod",
       "title": "Athaulf's Death",
       "description": "A Vandal king is assassinated in Spain, either for mocking a short man or due to a servant's ancient blood feud."
     },
     {
       "kind": "play",
-      "id": "ds_374_die_trullen",
+      "id": "ds_375_die_trullen",
       "title": "The Trulls",
       "description": "Starving Goths are mocked by Vandals with the derogatory name Truller after buying overpriced grain."
     },
     {
       "kind": "play",
-      "id": "ds_375_sage_von_gelimer",
+      "id": "ds_376_sage_von_gelimer",
       "title": "Saga of Gelimer",
       "description": "An accidental arrow hit from a drunk bodyguard kills a commander, allowing Vandal King Gelimer to escape."
     },
     {
       "kind": "play",
-      "id": "ds_376_gelimer_in_silberner_kette",
+      "id": "ds_377_gelimer_in_silberner_kette",
       "title": "Gelimer in Silver Chains",
       "description": "Vandal King Gelimer is outwitted with a silver chain by Belisarius and proves his courage in a combat trial."
     },
     {
       "kind": "play",
-      "id": "ds_377_ursprung_der_hunnen",
+      "id": "ds_378_ursprung_der_hunnen",
       "title": "Origin of the Huns",
       "description": "Banished Gothic witches mate with wild forest-spirits in the desert, giving rise to the feral Huns."
     },
     {
       "kind": "play",
-      "id": "ds_378_die_einwanderung_der_hunnen",
+      "id": "ds_379_die_einwanderung_der_hunnen",
       "title": "The Immigration of the Huns",
       "description": "A miraculous female deer guides Hun hunters through an impassable swamp, revealing a secret path to Scythia."
     },
     {
       "kind": "play",
-      "id": "ds_379_sage_von_den_hunnen",
+      "id": "ds_380_sage_von_den_hunnen",
       "title": "Saga of the Huns",
       "description": "Rumors attribute the Huns' origin to exile, a ransom horse, or a union between a wizard and a she-wolf."
     },
     {
       "kind": "play",
-      "id": "ds_380_das_kriegsschwert",
+      "id": "ds_381_das_kriegsschwert",
       "title": "The War Sword",
       "description": "A shepherd finds a buried sword that wounded a cow and presents it to King Attila as a sign of world dominion."
     },
     {
       "kind": "play",
-      "id": "ds_381_die_stoerche",
+      "id": "ds_382_die_stoerche",
       "title": "The Storks",
       "description": "Attila interprets storks leaving a besieged city as a prophetic sign, motivating his army to sack Aquileia."
     },
     {
       "kind": "play",
-      "id": "ds_382_der_fisch_auf_der_tafel",
+      "id": "ds_383_der_fisch_auf_der_tafel",
       "title": "The Fish on the Table",
       "description": "Guilt-ridden King Theodoric mistakes a served fish head for his executed servant Symmachus and falls mortally ill."
     },
     {
       "kind": "play",
-      "id": "ds_383_theoderichs_seele",
+      "id": "ds_384_theoderichs_seele",
       "title": "Theodoric's Soul",
       "description": "A holy hermit on Lipari sees a vision of the deceased King Theodoric being thrown into the volcano crater."
     },
     {
       "kind": "play",
-      "id": "ds_384_urajas_und_ildibad",
+      "id": "ds_385_urajas_und_ildibad",
       "title": "Urajas and Ildibad",
       "description": "A queen's humiliation at the baths leads to a nobleman's murder and subsequent revenge against the king."
     },
     {
       "kind": "play",
-      "id": "ds_385_totila_versucht_den_heiligen",
+      "id": "ds_386_totila_versucht_den_heiligen",
       "title": "Totila Tests the Saint",
       "description": "Gothic King Totila tests Saint Benedict with a masquerade, but the saint instantly exposes the fake king."
     },
     {
       "kind": "play",
-      "id": "ds_386_der_blinde_sabinus",
+      "id": "ds_387_der_blinde_sabinus",
       "title": "The Blind Sabinus",
       "description": "The blind Bishop Sabinus detects Totila's identity by touch and later survives a poison attempt by his archdeacon."
     },
     {
       "kind": "play",
-      "id": "ds_387_der_ausgang_der_langobarden",
+      "id": "ds_388_der_ausgang_der_langobarden",
       "title": "The Departure of the Lombards",
       "description": "Overpopulated Winili draw lots to migrate under Ibor and Ayo, defeating Vandals and settling in Italy."
     },
     {
       "kind": "play",
-      "id": "ds_388_der_langobarden_ausgang",
+      "id": "ds_389_der_langobarden_ausgang",
       "title": "The Departure of the Lombards",
       "description": "In a famine-stricken Denmark, Ebbe and Aage's mother suggests casting lots for a third of the Goths to migrate."
     },
     {
       "kind": "play",
-      "id": "ds_389_sage_von_gambara_und_den_langbaerten",
+      "id": "ds_390_sage_von_gambara_und_den_langbaerten",
       "title": "Saga of Gambara and the Longbeards",
       "description": "Led by Gambara, the exiled Goths refuse to pay Vandal tribute and resolve to fight for their freedom."
     },
     {
       "kind": "play",
-      "id": "ds_390_die_longobarden_und_assipiter",
+      "id": "ds_391_die_longobarden_und_assipiter",
       "title": "The Lombards and the Assipiters",
       "description": "The Goths use a clever dog-headed warrior scare to bypass Assipiter borders, resolved in single combat."
     },
     {
       "kind": "play",
-      "id": "ds_391_die_sieben_schlafenden_maenner_in_der_hoehle",
+      "id": "ds_392_die_sieben_schlafenden_maenner_in_der_hoehle",
       "title": "The Seven Sleepers in the Cave",
       "description": "Seven Roman sleepers in a coastal cave remain incorruptible, protected by a curse against thieves."
     },
     {
       "kind": "play",
-      "id": "ds_392_der_knabe_im_fischteich",
-      "title": "The Boy in the Fishpond",
-      "description": "King Agelmund rescues an abandoned boy who grabs his spear in a fishpond, naming him Lamissio."
-    },
-    {
-      "kind": "play",
-      "id": "ds_392b_lamissio_und_die_amazonen",
+      "id": "ds_393_lamissio_und_die_amazonen",
       "title": "Lamissio and the Amazons",
       "description": "Lamissio wins a swimming duel against an Amazon champion, securing river passage for the Lombards."
     },
     {
       "kind": "play",
-      "id": "ds_393_sage_von_rodulf_und_rumetrud",
+      "id": "ds_394_der_knabe_im_fischteich",
+      "title": "The Boy in the Fishpond",
+      "description": "King Agelmund rescues an abandoned boy who grabs his spear in a fishpond, naming him Lamissio."
+    },
+    {
+      "kind": "play",
+      "id": "ds_395_sage_von_rodulf_und_rumetrud",
       "title": "Saga of Rodulf and Rumetrud",
       "description": "A princess mocks a short envoy, leading to a fatal insult and his cowardly assassination from behind."
     },
     {
       "kind": "play",
-      "id": "ds_394_alboin_wird_dem_audoin_tischfaehig",
+      "id": "ds_396_alboin_wird_dem_audoin_tischfaehig",
       "title": "Alboin Becomes Table-Worthy to Audoin",
       "description": "Alboin is armed by the Gepid king in his slain son's seat, earning the right to speise with his father."
     },
     {
       "kind": "play",
-      "id": "ds_395_ankunft_der_longobarden_in_italien",
+      "id": "ds_397_ankunft_der_longobarden_in_italien",
       "title": "Arrival of the Lombards in Italy",
       "description": "Mocked by the Empress with a golden spindle, Narses retaliates by inviting the Lombards to invade Italy."
     },
     {
       "kind": "play",
-      "id": "ds_396_alboin_gewinnt_ticinum",
-      "title": "Alboin Wins Ticinum",
-      "description": "Alboin's horse collapses at the gate, rising only after the king breaks a vow to massacre the citizens."
-    },
-    {
-      "kind": "play",
-      "id": "ds_396b_alboin_betrachtet_sich_italien",
+      "id": "ds_398_alboin_betrachtet_sich_italien",
       "title": "Alboin Surveys Italy",
       "description": "Alboin climbs a mountain named Königsberg to survey Italy, a land rumored to house giant wisents."
     },
     {
       "kind": "play",
-      "id": "ds_397_alboin_und_rosimund",
+      "id": "ds_399_alboin_gewinnt_ticinum",
+      "title": "Alboin Wins Ticinum",
+      "description": "Alboin's horse collapses at the gate, rising only after the king breaks a vow to massacre the citizens."
+    },
+    {
+      "kind": "play",
+      "id": "ds_400_alboin_und_rosimund",
       "title": "Alboin and Rosimund",
       "description": "Alboin forces Queen Rosimund to drink from her father's skull cup, driving her to plot his death."
     },
     {
       "kind": "play",
-      "id": "ds_398_rosimund_helmichis_und_peredeo",
+      "id": "ds_401_rosimund_helmichis_und_peredeo",
       "title": "Rosimund, Helmichis, and Peredeo",
       "description": "After Alboin's murder, Helmichis and Rosimund flee to Ravenna, where they both end up poisoning each other."
     },
     {
       "kind": "play",
-      "id": "ds_399_sage_von_koenig_authari",
-      "title": "Saga of King Authari",
-      "description": "King Authari wooes Bavarian princess Theodelind in disguise, revealing his identity with a touch."
-    },
-    {
-      "kind": "play",
-      "id": "ds_399b_autharis_saeule",
+      "id": "ds_402_autharis_saeule",
       "title": "Authari's Column",
       "description": "King Authari rides into the sea at Reggio and strikes a column with his spear to establish the Lombard border."
     },
     {
       "kind": "play",
-      "id": "ds_400_agilulf_und_theudelind",
+      "id": "ds_403_sage_von_koenig_authari",
+      "title": "Saga of King Authari",
+      "description": "King Authari wooes Bavarian princess Theodelind in disguise, revealing his identity with a touch."
+    },
+    {
+      "kind": "play",
+      "id": "ds_404_agilulf_und_theudelind",
       "title": "Agilulf and Theudelind",
       "description": "Queen Theodelind chooses Agilulf as king, proposing with a kiss during their meeting at Laumell."
     },
     {
       "kind": "play",
-      "id": "ds_401_theodelind_und_das_meerwunder",
+      "id": "ds_405_theodelind_und_das_meerwunder",
       "title": "Theodelind and the Sea Monster",
       "description": "Theodelind is assaulted by a sea monster, giving birth to a dark prince who grows up cruel and malicious."
     },
     {
       "kind": "play",
-      "id": "ds_402_romhild_und_grimvald_der_knabe",
+      "id": "ds_406_romhild_und_grimvald_der_knabe",
       "title": "Romhild and Grimoald the Boy",
       "description": "Romhild betrays Friuli for love of the Hun king Cacan, who later cruelly executes her for treachery."
     },
     {
       "kind": "play",
-      "id": "ds_403_leupichis_entflieht",
+      "id": "ds_407_leupichis_entflieht",
       "title": "Leupichis Escapes",
       "description": "An escaping captive boy is guided by a wolf and saved from starvation in the wilderness by a prophetic dream."
     },
     {
       "kind": "play",
-      "id": "ds_404_die_fliege_vor_dem_fenster",
+      "id": "ds_408_die_fliege_vor_dem_fenster",
       "title": "The Fly at the Window",
       "description": "A fly chopped of one leg by the king transforms into a one-legged man who warns the targets of the murder plot."
     },
     {
       "kind": "play",
-      "id": "ds_405_koenig_liutprands_fuesse",
+      "id": "ds_409_koenig_liutprands_fuesse",
       "title": "King Liutprand's Feet",
       "description": "King Liutprand's exceptionally long feet become the standard unit for measuring Goth fields."
     },
     {
       "kind": "play",
-      "id": "ds_406_der_vogel_auf_dem_speer",
-      "title": "The Bird on the Spear",
-      "description": "A cuckoo perching on Hildeprand's coronation spear is interpreted as a sign of a useless and brief reign."
-    },
-    {
-      "kind": "play",
-      "id": "ds_406b_aistulfs_geburt",
+      "id": "ds_410_aistulfs_geburt",
       "title": "Aistulf's Birth",
       "description": "A king father tests five newborn sons with a spear, sparing and naming the child who grabs the shaft."
     },
     {
       "kind": "play",
-      "id": "ds_407_walther_im_kloster",
+      "id": "ds_411_der_vogel_auf_dem_speer",
+      "title": "The Bird on the Spear",
+      "description": "A cuckoo perching on Hildeprand's coronation spear is interpreted as a sign of a useless and brief reign."
+    },
+    {
+      "kind": "play",
+      "id": "ds_412_walther_im_kloster",
       "title": "Walther in the Cloister",
       "description": "Old hero Walter of Aquitaine does penance in a monastery, defending its transports from robbers with a simple stick."
     },
     {
       "kind": "play",
-      "id": "ds_408_ursprung_der_sachsen",
+      "id": "ds_413_ursprung_der_sachsen",
       "title": "Origin of the Saxons",
       "description": "The Saxons and King Aschanes grow out of the Harz rocks, and Saxon maidens grow on forest trees."
     },
     {
       "kind": "play",
-      "id": "ds_409_abkunft_der_sachsen",
+      "id": "ds_414_abkunft_der_sachsen",
       "title": "Descent of the Saxons",
       "description": "Alexander's veterans land on the Elbe and betray the resident Thuringians using large Saxe knives."
     },
     {
       "kind": "play",
-      "id": "ds_410_herkunft_der_sachsen",
+      "id": "ds_415_herkunft_der_sachsen",
       "title": "Origin of the Saxons in Land Law",
       "description": "Alexander's surviving veterans settle in Saxony, sparing local peasants and binding them as serfs."
     },
     {
       "kind": "play",
-      "id": "ds_411_die_sachsen_und_die_thueringer",
+      "id": "ds_416_die_sachsen_und_die_thueringer",
       "title": "The Saxons and the Thuringians",
       "description": "A Saxon youth tricks a Thuringian by exchanging gold chains for land, scattering gold dust to claim a wide territory."
     },
     {
       "kind": "play",
-      "id": "ds_412_ankunft_der_angeln_und_sachsen",
+      "id": "ds_417_ankunft_der_angeln_und_sachsen",
       "title": "Arrival of the Angles and Saxons",
       "description": "British King Vortigern invites the Saxons to defend Britain, prompting a massive Saxon migration."
     },
     {
       "kind": "play",
-      "id": "ds_413_ankunft_der_picten",
+      "id": "ds_418_ankunft_der_picten",
       "title": "Arrival of the Picts",
       "description": "The Picts are redirected by the Scots to settle in northern Britain, securing Scottish wives under matrilineal terms."
     },
     {
       "kind": "play",
-      "id": "ds_414_die_sachsen_erbauen_ochsenburg",
+      "id": "ds_419_die_sachsen_erbauen_ochsenburg",
       "title": "The Saxons Build Ochsenburg",
       "description": "The Saxons cut an ox-hide into a thin cord, claiming a large territory to build Ochsenburg fortress."
     },
     {
       "kind": "play",
-      "id": "ds_415_hass_zwischen_den_sachsen_und_schwaben",
+      "id": "ds_420_hass_zwischen_den_sachsen_und_schwaben",
       "title": "Hatred Between Saxons and Swabians",
       "description": "Swabians take Goth wives during their campaign, causing a return war and disinheriting the traitorous women."
     },
     {
       "kind": "play",
-      "id": "ds_416_herkunft_der_schwaben",
+      "id": "ds_421_herkunft_der_schwaben",
       "title": "Origin of the Swabians",
       "description": "The Swabians' ancestors land at Mount Suevo and their Duke Brenno fights Julius Caesar."
     },
     {
       "kind": "play",
-      "id": "ds_417_abkunft_der_baiern",
+      "id": "ds_422_abkunft_der_baiern",
       "title": "Descent of the Bavarians",
       "description": "The Bavarians immigrate from Armenia, forging legendary swords and fighting Julius Caesar."
     },
     {
       "kind": "play",
-      "id": "ds_418_herkunft_der_franken",
+      "id": "ds_423_herkunft_der_franken",
       "title": "Origin of the Franks",
       "description": "Trojans escaping the fall of Troy wander to the Rhine, founding a new Troy called Santen."
     },
     {
       "kind": "play",
-      "id": "ds_419_die_merovinger",
+      "id": "ds_424_die_merovinger",
       "title": "The Merovingians",
       "description": "Queen Clodio is overwhelmed by a sea monster, giving birth to Merovech, the ancestor of the bristly kings."
     },
     {
       "kind": "play",
-      "id": "ds_420_childerich_und_basina",
+      "id": "ds_425_childerich_und_basina",
       "title": "Childeric and Basina",
       "description": "An exiled King uses a split gold ring to signal his return, winning the Thuringian Queen Basina."
     },
     {
       "kind": "play",
-      "id": "ds_421_der_kirchenkrug",
+      "id": "ds_426_der_kirchenkrug",
       "title": "The Vase of Soissons",
       "description": "Clovis avenges a broken church vase by slaying the proud warrior who struck it with an axe."
     },
     {
       "kind": "play",
-      "id": "ds_422_remig_umgeht_sein_land",
+      "id": "ds_427_remig_umgeht_sein_land",
       "title": "Remigius Outlines His Land",
       "description": "Remigius walks the borders of his granted land; a stubborn miller's wheel spins backward as punishment."
     },
     {
       "kind": "play",
-      "id": "ds_423_remig_verjagt_die_feuersbrunst",
+      "id": "ds_428_remig_verjagt_die_feuersbrunst",
       "title": "Remigius Expels the Fire",
       "description": "Remigius' footprints press into stone as he drives a raging fire out of Rheims and locks the city gate."
     },
     {
       "kind": "play",
-      "id": "ds_424_des_remigs_theil_vom_wasichenwald",
+      "id": "ds_429_des_remigs_theil_vom_wasichenwald",
       "title": "Remigius' Part of the Vosges Forest",
       "description": "A magical boundary stone in a hollow tree cannot be removed, withering the hand of a thief who strikes it."
     },
     {
       "kind": "play",
-      "id": "ds_425_crothilds_verlobung",
+      "id": "ds_430_crothilds_verlobung",
       "title": "Clotilda's Betrothal",
       "description": "Envoy Aurelian disguises as a beggar to slip Clovis' betrothal ring to Burgundian princess Clotilda."
     },
     {
       "kind": "play",
-      "id": "ds_426_die_scheere_und_das_schwert",
+      "id": "ds_431_die_scheere_und_das_schwert",
       "title": "The Shears and the Sword",
       "description": "A mourning Queen chooses death over shearing for her grandsons; the brutal kings murder the boys."
     },
     {
       "kind": "play",
-      "id": "ds_427_sage_von_attalus_und_leo",
+      "id": "ds_432_sage_von_attalus_und_leo",
       "title": "Legend of Attalus and Leo",
       "description": "The loyal cook Leo gains a Frankish lord's trust to rescue the noble hostage Attalus on horseback."
     },
     {
       "kind": "play",
-      "id": "ds_428_der_schlafende_koenig",
+      "id": "ds_433_der_schlafende_koenig",
       "title": "The Sleeping King",
       "description": "King Guntram's soul exits as a snake to find a treasure cave, guided by a servant's sword bridge."
     },
     {
       "kind": "play",
-      "id": "ds_429_der_kommende_wald_und_die_klingenden_schellen",
+      "id": "ds_434_der_kommende_wald_und_die_klingenden_schellen",
       "title": "The Moving Forest and the Ringing Bells",
       "description": "Frankish soldiers carry tree branches and horse bells to trick Childebert's army into routing."
     },
     {
       "kind": "play",
-      "id": "ds_430_chlotars_sieg_ueber_die_sachsen",
+      "id": "ds_435_chlotars_sieg_ueber_die_sachsen",
       "title": "Clotaire's Victory over the Saxons",
       "description": "Clotaire avenges his wounded son Dagobert by crossing the Weser and slaying Duke Bertoald."
     },
     {
       "kind": "play",
-      "id": "ds_431_das_grab_der_heiligen",
+      "id": "ds_436_das_grab_der_heiligen",
       "title": "The Grave of the Saints",
       "description": "Dagobert finds sanctuary in Saint Denis' chapel after shearing a Duke's beard, escaping Clotaire's wrath."
     },
     {
       "kind": "play",
-      "id": "ds_432_sanct_arbogast",
+      "id": "ds_437_sanct_arbogast",
       "title": "Saint Arbogast",
       "description": "Saint Arbogast resurrects King Dagobert's son Sigebert after he is trampled to death by a horse during a boar hunt."
     },
     {
       "kind": "play",
-      "id": "ds_433_dagobert_und_sanct_florentius",
+      "id": "ds_438_dagobert_und_sanct_florentius",
       "title": "Dagobert and Saint Florentius",
       "description": "Hermit Florentius bounds wild beasts with wooden rods and cures King Dagobert's blind and mute daughter."
     },
     {
       "kind": "play",
-      "id": "ds_434_dagobert_und_seine_seele_im_schiff",
+      "id": "ds_439_dagobert_und_seine_seele_im_schiff",
       "title": "Dagobert's Soul in the Boat",
       "description": "Saints intercept devils on the sea, rescuing King Dagobert's soul from being carried to hell."
     },
     {
       "kind": "play",
-      "id": "ds_435_dagobert_und_seine_hunde",
+      "id": "ds_440_dagobert_und_seine_hunde",
       "title": "Dagobert and His Dogs",
       "description": "French popular proverbs remember King Dagobert's deep companionship and parting words to his dogs."
     },
     {
       "kind": "play",
-      "id": "ds_436_die_zwei_gleichen_soehne",
+      "id": "ds_441_die_zwei_gleichen_soehne",
       "title": "The Two Identical Sons",
       "description": "King Pepin tricks his second queen with her identical stepson, resolving a maternity dilemma."
     },
     {
       "kind": "play",
-      "id": "ds_437_hildegard",
+      "id": "ds_442_hildegard",
       "title": "Hildegard",
       "description": "Empress Hildegard traps the treacherous stepbrother Taland in a bridal chamber, defending her honor."
     },
     {
       "kind": "play",
-      "id": "ds_438_der_hahnenkampf",
+      "id": "ds_443_der_hahnenkampf",
       "title": "The Cockfight",
       "description": "Queen Hildegard settles the royal succession dispute between her sons using a cockfight."
     },
     {
       "kind": "play",
-      "id": "ds_439_carls_heimkehr_aus_ungerland",
+      "id": "ds_444_carls_heimkehr_aus_ungerland",
       "title": "Charlemagne's Return from Hungary",
       "description": "Charlemagne's signet ring dropped in a cup rescues Queen Hildegard from a forced remarriage."
     },
     {
       "kind": "play",
-      "id": "ds_440_der_hirsch_zu_magdeburg",
+      "id": "ds_445_der_hirsch_zu_magdeburg",
       "title": "The Stag of Magdeburg",
       "description": "Charlemagne releases a stag with a golden collar, which is only recaptured centuries later by Barbarossa."
     },
     {
       "kind": "play",
-      "id": "ds_441_der_lombardische_spielmann",
+      "id": "ds_446_der_lombardische_spielmann",
       "title": "The Lombard Minstrel",
       "description": "A minstrel sings of a secret pass and guides Charlemagne's army over the mountains to defeat the Lombards."
     },
     {
       "kind": "play",
-      "id": "ds_442_der_eiserne_carl",
+      "id": "ds_447_der_eiserne_carl",
       "title": "The Iron Charlemagne",
       "description": "King Desiderius watches in terror from a tower as the iron-clad army of Charlemagne approaches."
     },
     {
       "kind": "play",
-      "id": "ds_443_carl_belagert_pavia",
+      "id": "ds_448_carl_belagert_pavia",
       "title": "Charlemagne Besieges Pavia",
       "description": "A princess betrays Pavia for Charlemagne's love, only to be trampled to death by the entering army."
     },
     {
       "kind": "play",
-      "id": "ds_444_adelgis",
+      "id": "ds_449_adelgis",
       "title": "Adelgis",
       "description": "The disguised Prince Adelgis splits marrow bones at Charlemagne's table and escapes in a boat."
     },
     {
       "kind": "play",
-      "id": "ds_445_von_koenig_carl_und_den_friesen",
+      "id": "ds_450_von_koenig_carl_und_den_friesen",
       "title": "Of King Charles and the Frisians",
       "description": "Charlemagne wins Frisia from King Radbod in a standing contest by picking up a dropped glove."
     },
     {
       "kind": "play",
-      "id": "ds_446_radbot_laesst_sich_nicht_taufen",
+      "id": "ds_451_radbot_laesst_sich_nicht_taufen",
       "title": "Radbod Refuses Baptism",
       "description": "Duke Radbod pulls his foot out of the baptismal font to avoid spending eternity apart from his pagan ancestors."
     },
     {
       "kind": "play",
-      "id": "ds_447_des_teufels_goldnes_haus",
+      "id": "ds_452_des_teufels_goldnes_haus",
       "title": "The Devil's Golden House",
       "description": "Radbod's messenger is guided by an angel to expose the devil's magnificent golden palace as a sulfur pit."
     },
     {
       "kind": "play",
-      "id": "ds_448_wittekinds_taufe",
+      "id": "ds_453_wittekinds_taufe",
       "title": "Wittekind's Baptism",
       "description": "Duke Wittekind spies on Charlemagne in beggar's garb, sees a miracle during Mass, and accepts baptism."
     },
     {
       "kind": "play",
-      "id": "ds_448b_wittekinds_flucht",
+      "id": "ds_454_wittekinds_flucht",
       "title": "Wittekind's Flight",
       "description": "Defeated Saxons bury an old woman alive at a ford to prevent her capture, leaving a haunted field."
     },
     {
       "kind": "play",
-      "id": "ds_449_erbauung_frankfurts",
+      "id": "ds_455_erbauung_frankfurts",
       "title": "The Founding of Frankfurt",
       "description": "A wild doe guides Charlemagne's fleeing army across a hidden ford on the Main river, founding Frankfurt."
     },
     {
       "kind": "play",
-      "id": "ds_450_warum_die_schwaben_vorfechten",
+      "id": "ds_456_warum_die_schwaben_vorfechten",
       "title": "Why the Swabians Lead the Army",
       "description": "Charlemagne grants the Swabians the vanguard privilege at Roncesvalles upon Duke Gerold's kneeling request."
     },
     {
       "kind": "play",
-      "id": "ds_451_eginhart_und_emma",
+      "id": "ds_457_eginhart_und_emma",
       "title": "Eginhard and Emma",
       "description": "Emma carries Eginhard across the snowy courtyard to hide footprints; Charlemagne witnesses it and blesses them."
     },
     {
       "kind": "play",
-      "id": "ds_452_der_ring_im_see_bei_aachen",
+      "id": "ds_458_der_ring_im_see_bei_aachen",
       "title": "The Ring in the Lake at Aachen",
       "description": "Charlemagne's magic ring shifted to a lake, drawing him to build his palace on its shore."
     },
     {
       "kind": "play",
-      "id": "ds_453_der_kaiser_und_die_schlange",
+      "id": "ds_459_der_kaiser_und_die_schlange",
       "title": "The Emperor and the Snake",
       "description": "Charlemagne executes an invading toad for a snake, receiving a precious gemstone in gratitude."
     },
     {
       "kind": "play",
-      "id": "ds_454_koenig_carl",
+      "id": "ds_460_koenig_carl",
       "title": "King Charles",
       "description": "Young Charles is summoned to Rome by a dream voice, where his brother Pope Leo crowns him Emperor."
     },
     {
       "kind": "play",
-      "id": "ds_455_der_schlafende_landsknecht",
+      "id": "ds_461_der_schlafende_landsknecht",
       "title": "The Sleeping Soldier",
       "description": "A soldier's weasel-like soul crosses a stream over a guard's sword, finding gold in a hill."
     },
     {
       "kind": "play",
-      "id": "ds_456_kaiser_ludwig_bauet_hildesheim",
+      "id": "ds_462_kaiser_ludwig_bauet_hildesheim",
       "title": "Emperor Louis Builds Hildesheim",
       "description": "A miracle fixes a Marian image to a tree stump, and a summer snowfall defines the boundaries of Hildesheim Cathedral."
     },
     {
       "kind": "play",
-      "id": "ds_457_der_rosenstrauch_zu_hildesheim",
+      "id": "ds_463_der_rosenstrauch_zu_hildesheim",
       "title": "The Rosebush at Hildesheim",
       "description": "Emperor Louis's lost reliquary cross is found on a blooming winter rosebush, where he builds a chapel."
     },
     {
       "kind": "play",
-      "id": "ds_458_koenig_ludwigs_rippe_klappt",
+      "id": "ds_464_koenig_ludwigs_rippe_klappt",
       "title": "King Louis's Rib Rattles",
       "description": "King Louis hides a severe rib injury during a campaign, his rib audibly rattling as he rides."
     },
     {
       "kind": "play",
-      "id": "ds_459_die_koenigin_im_wachshemd",
+      "id": "ds_465_die_koenigin_im_wachshemd",
       "title": "The Queen in the Wax Smock",
       "description": "Queen Richardis proves her innocence against false adultery charges by surviving a trial by fire in a wax smock."
     },
     {
       "kind": "play",
-      "id": "ds_460_koenigin_adelheid",
+      "id": "ds_466_koenigin_adelheid",
       "title": "Queen Adelaide",
       "description": "Queen Adelaide's besieged castle forces the enemy to retreat by feeding grain to a wild boar, faking abundance."
     },
     {
       "kind": "play",
-      "id": "ds_461_koenig_carl_sieht_seine_vorfahren_in_der_hoelle_und_im_paradies",
+      "id": "ds_467_koenig_carl_sieht_seine_vorfahren_in_der_hoelle_und_im_paradies",
       "title": "King Charles's Vision of Hell and Paradise",
       "description": "King Charles the Fat is guided by an angel through hellish sulfur wells and paradise valleys."
     },
     {
       "kind": "play",
-      "id": "ds_462_adalbert_von_babenberg",
+      "id": "ds_468_adalbert_von_babenberg",
       "title": "Adalbert of Babenberg",
       "description": "Archbishop Hatto tricks Count Adalbert with a literal breakfast ruse to execute him despite a safe conduct vow."
     },
     {
       "kind": "play",
-      "id": "ds_463_herzog_heinrich_und_die_goldne_halskette",
+      "id": "ds_469_herzog_heinrich_und_die_goldne_halskette",
       "title": "Duke Henry and the Golden Necklace",
       "description": "Duke Henry avoids a lethal strangulation trap after a smith warns him of Hatto's golden collar."
     },
     {
       "kind": "play",
-      "id": "ds_464_kaiser_heinrich_der_vogeler",
+      "id": "ds_470_kaiser_heinrich_der_vogeler",
       "title": "Emperor Henry the Fowler",
       "description": "Duke Henry of Saxony is found catching birds in the woods when the princes arrive to elect him Emperor."
     },
     {
       "kind": "play",
-      "id": "ds_465_der_kuehne_kurzbold",
+      "id": "ds_471_der_kuehne_kurzbold",
       "title": "The Bold Kurzbold",
       "description": "Kuno 'Kurzbold', a small but brave hero, defeats rebel dukes during a chess match and slays an escaped court lion."
     },
     {
       "kind": "play",
-      "id": "ds_466_otto_mit_dem_bart",
+      "id": "ds_472_otto_mit_dem_bart",
       "title": "Otto with the Beard",
       "description": "Emperor Otto swears by his red beard to protect a young knight who avenged a page struck by a cook."
     },
     {
       "kind": "play",
-      "id": "ds_467_der_schuster_zu_lauingen",
+      "id": "ds_473_der_schuster_zu_lauingen",
       "title": "The Shoemaker of Lauingen",
       "description": "A humble shoemaker is chosen by a mysterious voice to fight the pagan champion, winning Pappenheim's arms."
     },
     {
       "kind": "play",
-      "id": "ds_468_das_rad_im_mainzer_wappen",
+      "id": "ds_474_das_rad_im_mainzer_wappen",
       "title": "The Wheel in the Mainz Coat of Arms",
       "description": "Bishop Willigis, of humble origin, turns his detractors' mocking chalk wheels into his official coat of arms."
     },
     {
       "kind": "play",
-      "id": "ds_469_der_rammelsberg",
+      "id": "ds_475_der_rammelsberg",
       "title": "The Rammelsberg",
       "description": "Emperor Otto's hunter Ramm discovers the Harz silver mines when his tied horse uncovers ore with its hooves."
     },
     {
       "kind": "play",
-      "id": "ds_470_die_grafen_von_eberstein",
+      "id": "ds_476_die_grafen_von_eberstein",
       "title": "The Counts of Eberstein",
       "description": "An Emperor's daughter warns a Count of a tournament plot to seize his castle, leading to peace and marriage."
     },
     {
       "kind": "play",
-      "id": "ds_471_otto_laesst_sich_nicht_schlagen",
+      "id": "ds_477_otto_laesst_sich_nicht_schlagen",
       "title": "Otto Will Not Be Struck",
       "description": "Young Emperor Otto III fakes his death with a dead child to protest being beaten, securing his full reign."
     },
     {
       "kind": "play",
-      "id": "ds_472_koenig_otto_in_lamparten",
+      "id": "ds_478_koenig_otto_in_lamparten",
       "title": "King Otto in Lombardy",
       "description": "King Otto issues leather coins in Mailand and later returns to fulfill his justice promise witnessed by a church."
     },
     {
       "kind": "play",
-      "id": "ds_473_der_unschuldige_ritter",
+      "id": "ds_479_der_unschuldige_ritter",
       "title": "The Innocent Knight",
       "description": "An innocent knight falsely accused of raping the Empress flows white milk instead of blood at execution."
     },
     {
       "kind": "play",
-      "id": "ds_474_kaiser_otto_haelt_witwen_und_waisengericht",
+      "id": "ds_480_kaiser_otto_haelt_witwen_und_waisengericht",
       "title": "Emperor Otto Holds Widow's Court",
       "description": "A executed count's widow proves his innocence by carrying a red-hot iron, demanding the Empress's execution."
     },
     {
       "kind": "play",
-      "id": "ds_475_otto_iii_in_carls_grabe",
+      "id": "ds_481_otto_iii_in_carls_grabe",
       "title": "Otto III in Charlemagne's Tomb",
       "description": "Emperor Otto III breaks open Charlemagne's tomb, finding him sitting upright on a throne, and pays his respects."
     },
     {
       "kind": "play",
-      "id": "ds_476_die_heilige_kunigund",
+      "id": "ds_482_die_heilige_kunigund",
       "title": "Saint Kunigunde",
       "description": "Empress Kunigunde walks barefoot over seven red-hot iron plowshares to prove her chaste marriage."
     },
     {
       "kind": "play",
-      "id": "ds_477_der_dom_zu_bamberg",
+      "id": "ds_483_der_dom_zu_bamberg",
       "title": "The Cathedral of Bamberg",
       "description": "Empress Kunigunde builds Bamberg Cathedral, pay-scale miracle of the money bowl, and forces the Devil to carry columns."
     },
     {
       "kind": "play",
-      "id": "ds_478_taube_sagt_den_feind_an",
+      "id": "ds_484_taube_sagt_den_feind_an",
       "title": "Pigeon Announces the Enemy",
       "description": "A pigeon flies into a besieged city with a warning message tied to its neck, saving it from a surprise attack."
     },
     {
       "kind": "play",
-      "id": "ds_479_der_kelch_mit_der_scharte",
+      "id": "ds_485_der_kelch_mit_der_scharte",
       "title": "The Cup with the Notch",
       "description": "Saint Lawrence throws a golden chalice onto the scales of judgment to save Emperor Henry's soul, leaving a notch."
     },
     {
       "kind": "play",
-      "id": "ds_480_sage_von_kaiser_heinrich_iii",
+      "id": "ds_486_sage_von_kaiser_heinrich_iii",
       "title": "Legend of Emperor Henry III",
       "description": "A voice prophesies a fugitive's newborn son will marry the Emperor's daughter; despite death orders, fate prevails."
     },
     {
       "kind": "play",
-      "id": "ds_481_die_weiber_zu_weinsperg",
+      "id": "ds_487_die_weiber_zu_weinsperg",
       "title": "The Wives of Weinsberg",
       "description": "Women allowed to carry what they can carry from a besieged castle choose to carry their husbands on their shoulders."
     },
     {
       "kind": "play",
-      "id": "ds_482_der_teufels_thurn_am_donaustrudel",
+      "id": "ds_488_der_teufels_thurn_am_donaustrudel",
       "title": "The Devil's Tower at the Danube Whirlpool",
       "description": "Bishop Bruno is cursed by a demon at the Danube Strudel; later, the floor collapses and kills him."
     },
     {
       "kind": "play",
-      "id": "ds_483_quedl_das_huendlein",
+      "id": "ds_489_quedl_das_huendlein",
       "title": "Quedl the Little Dog",
       "description": "Princess Mathild avoids the Devil's claim by staying awake with the help of her loyal barking dog Quedl."
     },
     {
       "kind": "play",
-      "id": "ds_484_sage_vom_schueler_hildebrand",
+      "id": "ds_490_sage_vom_schueler_hildebrand",
       "title": "Legend of the Student Hildebrand",
       "description": "Young Hildebrand's papacy is predicted; Prince Henry IV hates the boy out of instinctive future rivalry."
     },
     {
       "kind": "play",
-      "id": "ds_485_der_knoblauchskoenig",
+      "id": "ds_491_der_knoblauchskoenig",
       "title": "The Garlic King",
       "description": "Saxons reject Henry's son and elect counter-king Hermann, mockingly dubbed 'Garlic King' at Eisleben."
     },
     {
       "kind": "play",
-      "id": "ds_486_kaiser_heinrich_versucht_die_kaiserin",
+      "id": "ds_492_kaiser_heinrich_versucht_die_kaiserin",
       "title": "Emperor Henry Tests the Empress",
       "description": "Emperor Henry V tests his wife's fidelity in disguise; she discovers the ruse and orders him beaten."
     },
     {
       "kind": "play",
-      "id": "ds_487_graf_hoyer_von_mansfeld",
+      "id": "ds_493_graf_hoyer_von_mansfeld",
       "title": "Graf Hoyer von Mansfeld",
       "description": "Graf Hoyer makes an overconfident victory vow on a softening stone, but is slain in battle."
     },
     {
       "kind": "play",
-      "id": "ds_488_der_verlorene_kaiser_friedrich",
+      "id": "ds_494_der_verlorene_kaiser_friedrich",
       "title": "The Lost Emperor Frederick",
       "description": "Excommunicated Emperor Frederick II rides into the forest to hunt and vanishes forever using a magic ring."
     },
     {
       "kind": "play",
-      "id": "ds_489_albertus_magnus_und_kaiser_wilhelm",
+      "id": "ds_495_albertus_magnus_und_kaiser_wilhelm",
       "title": "Albertus Magnus and Emperor William",
       "description": "Albertus Magnus hosts a winter garden banquet where he temporarily conjures a warm, blooming summer."
     },
     {
       "kind": "play",
-      "id": "ds_490_kaiser_maximilian_und_maria_von_burgund",
+      "id": "ds_496_kaiser_maximilian_und_maria_von_burgund",
       "title": "Emperor Maximilian and Mary of Burgundy",
       "description": "Trithemius conjures the ghost of Mary of Burgund for Maximilian, but warns him to remain silent."
     },
     {
       "kind": "play",
-      "id": "ds_491_sage_von_adelger_zu_baiern",
+      "id": "ds_497_sage_von_adelger_zu_baiern",
       "title": "Legend of Adelger of Bavaria",
       "description": "Duke Adelger defeats Emperor Severus after his wise adviser warns him via a public stag parable."
     },
     {
       "kind": "play",
-      "id": "ds_492_die_treulose_stoerchin",
+      "id": "ds_498_die_treulose_stoerchin",
       "title": "The Faithless Stork",
       "description": "A male stork returns with other storks to judge and execute his unfaithful wife."
     },
     {
       "kind": "play",
-      "id": "ds_493_herzog_heinrich_in_baiern_haelt_reine_strasse",
+      "id": "ds_499_herzog_heinrich_in_baiern_haelt_reine_strasse",
       "title": "Duke Henry of Bavaria Keeps a Clean Road",
       "description": "Duke Henry keeps the roads safe from robbers and smashes clay pots as a warning to corrupt guardians."
     },
     {
       "kind": "play",
-      "id": "ds_494_diez_schwinburg",
+      "id": "ds_500_diez_schwinburg",
       "title": "Diez Schwinburg",
       "description": "After beheading, Diez's headless body stands up and runs past his servants to save their lives."
     },
     {
       "kind": "play",
-      "id": "ds_495_der_geschundene_wolf",
+      "id": "ds_501_der_geschundene_wolf",
       "title": "The Flayed Wolf",
       "description": "Duke Otto takes Passau and executes papal legate Albert, whose flaying is commemorated in the city coat of arms."
     },
     {
       "kind": "play",
-      "id": "ds_496_die_gretlmuehl",
+      "id": "ds_502_die_gretlmuehl",
       "title": "The Gretlmuehl",
       "description": "Otto the Finner sells his lands and wastes his wealth living with a miller's daughter."
     },
     {
       "kind": "play",
-      "id": "ds_497_herzog_friedrich_und_leopold_von_oesterreich",
+      "id": "ds_503_herzog_friedrich_und_leopold_von_oesterreich",
       "title": "Duke Frederick and Leopold of Austria",
       "description": "Leopold summons the Devil to free King Frederick, but Frederick refuses to fly with the Devil."
     },
     {
       "kind": "play",
-      "id": "ds_498_der_markgraefin_schleier",
+      "id": "ds_504_der_markgraefin_schleier",
       "title": "The Margravine's Veil",
       "description": "Leopold vows to build a monastery where his wife's wind-blown veil is found, discovering it 8 years later."
     },
     {
       "kind": "play",
-      "id": "ds_499_der_brennberger_erste_sage",
+      "id": "ds_505_der_brennberger_erste_sage",
       "title": "The Brennberger, First Legend",
       "description": "The Duchess of Austria sends the singing knight Brennberger to France to compare her beauty to the Queen's."
     },
     {
       "kind": "play",
-      "id": "ds_500_der_brennberger_zweite_sage",
+      "id": "ds_506_der_brennberger_zweite_sage",
       "title": "The Brennberger, Second Legend",
       "description": "The jealous Duke has Brennberger beheaded and serves his heart to the Duchess, who dies of grief."
     },
     {
       "kind": "play",
-      "id": "ds_501_schreckenwalds_rosengarten",
+      "id": "ds_507_schreckenwalds_rosengarten",
       "title": "Schreckenwald's Rose Garden",
       "description": "Robber Schreckenwald imprisons victims in a tiny cliff ledge; one escapes via a daring jump, sealing the robber's doom."
     },
     {
       "kind": "play",
-      "id": "ds_502_margaretha_maultasch",
+      "id": "ds_508_margaretha_maultasch",
       "title": "Margaretha Maultasch",
       "description": "The ghostly Margaretha Maultasch slaps mockers at the Klagenfurt arsenal and haunts Osterwitz ruins."
     },
     {
       "kind": "play",
-      "id": "ds_503_dieterichstein_in_kaernthen",
+      "id": "ds_509_dieterichstein_in_kaernthen",
       "title": "Dietrichstein in Carinthia",
       "description": "The defenders of Dietrichstein Castle escape silently under the cover of a thick evening fog."
     },
     {
       "kind": "play",
-      "id": "ds_504_die_maultasch_schutt",
+      "id": "ds_510_die_maultasch_schutt",
       "title": "The Maultasch Ruins",
       "description": "Defenders trick Margaretha Maultasch by throwing a fed ox over the wall to fake abundance."
     },
     {
       "kind": "play",
-      "id": "ds_505_radbod_von_habsburg",
+      "id": "ds_511_radbod_von_habsburg",
       "title": "Radbod of Habsburg",
       "description": "Graf Radbod builds Habsburg and shows his brother Werner a living wall of loyal vassals."
     },
     {
       "kind": "play",
-      "id": "ds_506_rudolf_von_straettlingen",
+      "id": "ds_512_rudolf_von_straettlingen",
       "title": "Rudolf of Strättlingen",
       "description": "Saint Michael weighs proud King Rudolf's soul and strikes the Devil to prevent him from pulling down the scale."
     },
     {
       "kind": "play",
-      "id": "ds_507_idda_von_toggenburg",
+      "id": "ds_513_idda_von_toggenburg",
       "title": "Idda of Toggenburg",
       "description": "Accused of adultery due to a stolen ring, Idda survives a fall from the cliff and lives as a holy hermit."
     },
     {
       "kind": "play",
-      "id": "ds_508_auswanderung_der_swiss",
+      "id": "ds_514_auswanderung_der_swiss",
       "title": "Emigration of the Swiss",
       "description": "Swiss ancestors draw lots during a famine and march south across the Alps to settle the valleys."
     },
     {
       "kind": "play",
-      "id": "ds_509_die_ochsen_auf_dem_acker_zu_melchtal",
+      "id": "ds_515_die_ochsen_auf_dem_acker_zu_melchtal",
       "title": "The Oxen at Melchtal",
       "description": "Bailiff Landenberg tries to seize a peasant's oxen; the son resists, and the father is blinded."
     },
     {
       "kind": "play",
-      "id": "ds_510_der_landvogt_im_bad",
+      "id": "ds_516_der_landvogt_im_bad",
       "title": "The Bailiff in the Bath",
       "description": "Wolfenschiessen tries to force Conrad's wife into his bath; Conrad returns and kills him with an axe."
     },
     {
       "kind": "play",
-      "id": "ds_511_der_bund_im_ruetli",
+      "id": "ds_517_der_bund_im_ruetli",
       "title": "The Rütli Oath",
       "description": "Stauffacher's new house is eyed by Gessler; Stauffacher, Arnold, and Walter swear the eternal covenant."
     },
     {
       "kind": "play",
-      "id": "ds_512_wilhelm_tell",
+      "id": "ds_518_wilhelm_tell",
       "title": "William Tell",
       "description": "Wilhelm Tell refuses to bow to Gessler's hat and is forced to shoot an apple off his son's head."
     },
     {
       "kind": "play",
-      "id": "ds_513_der_knabe_erzaehlts_dem_ofen",
+      "id": "ds_519_der_knabe_erzaehlts_dem_ofen",
       "title": "The Boy Tells the Oven",
       "description": "A boy bound by oath reveals a coup plot by telling it to a tiled stove in a butcher's guildhall."
     },
     {
       "kind": "play",
-      "id": "ds_514_der_lucerner_harschhoerner",
+      "id": "ds_520_der_lucerner_harschhoerner",
       "title": "The Harschhoerner of Lucerne",
       "description": "Charlemagne grants Lucerne the right to bear brass war horns in battle."
     },
     {
       "kind": "play",
-      "id": "ds_515_ursprung_der_welfen",
+      "id": "ds_521_ursprung_der_welfen",
       "title": "Origin of the Welfs",
       "description": "Irmentrut mocks a mother of triplets, then bears twelve sons and tries to drown eleven, who are saved by Isenbart."
     },
     {
       "kind": "play",
-      "id": "ds_516_welfen_und_giblinger",
+      "id": "ds_522_welfen_und_giblinger",
       "title": "Ghibellines and Guelfs",
       "description": "Duke Frederick defeats the Bavarians, cementing the war cries of Welfen and Giblinger."
     },
     {
       "kind": "play",
-      "id": "ds_517_herzog_bundus_genannt_der_wolf",
+      "id": "ds_523_herzog_bundus_genannt_der_wolf",
       "title": "Duke Bundus, called the Wolf",
       "description": "Duke Balthasar passes off a hunter's son as his own; the truth is revealed but Bundus retains his duchy."
     },
     {
       "kind": "play",
-      "id": "ds_518_heinrich_mit_dem_gueldenen_wagen",
+      "id": "ds_524_heinrich_mit_dem_gueldenen_wagen",
       "title": "Henry with the Golden Cart",
       "description": "Heinrich uses a golden cart and fresh relays of horses to encircle and claim a vast Bavarian estate."
     },
     {
       "kind": "play",
-      "id": "ds_519_heinrich_mit_dem_goldenen_pfluge",
+      "id": "ds_525_heinrich_mit_dem_goldenen_pfluge",
       "title": "Henry with the Golden Plow",
       "description": "Henry claims a large forest territory by encircling it with a golden plow during the Emperor's nap."
     },
     {
       "kind": "play",
-      "id": "ds_520_heinrich_der_loewe",
+      "id": "ds_526_heinrich_der_loewe",
       "title": "Henry the Lion",
       "description": "Henry is shipwrecked, makes a pact with a lion, and is carried home on a griffin to stop his wife's wedding."
     },
     {
       "kind": "play",
-      "id": "ds_521_ursprung_der_zaehringer",
+      "id": "ds_527_ursprung_der_zaehringer",
       "title": "Origin of the Zaehringers",
       "description": "A charcoal burner finds silver under his pile and buys a duchy from a deposed King."
     },
     {
       "kind": "play",
-      "id": "ds_522_herr_peter_dimringer_von_staufenberg",
+      "id": "ds_528_herr_peter_dimringer_von_staufenberg",
       "title": "Peter Dimringer of Staufenberg",
       "description": "Peter makes a pact with a fairy bride but dies on his wedding day to a princess when he breaks his vow."
     },
     {
       "kind": "play",
-      "id": "ds_523_des_edlen_moeringers_wallfahrt",
+      "id": "ds_529_des_edlen_moeringers_wallfahrt",
       "title": "The Noble Moringer's Pilgrimage",
       "description": "Möringer returns from a 7-year pilgrimage just in time to stop his wife's wedding to Neufen."
     },
     {
       "kind": "play",
-      "id": "ds_524_graf_hubert_von_calw",
+      "id": "ds_530_graf_hubert_von_calw",
       "title": "Count Hubert of Calw",
       "description": "Hubert chooses poverty, becomes a cowherd, and begs at his wife's wedding gate to reclaim his estate."
     },
     {
       "kind": "play",
-      "id": "ds_525_udalsrich_und_wendelgart",
+      "id": "ds_531_udalsrich_und_wendelgart",
       "title": "Udalrich and Wendelgart",
       "description": "Udalrich returns from captivity; a crabapple miracle by Wiborad foretells his return to Wendelgart."
     },
     {
       "kind": "play",
-      "id": "ds_526_stiftung_des_klosters_wettenhausen",
+      "id": "ds_532_stiftung_des_klosters_wettenhausen",
       "title": "Founding of Wettenhausen Monastery",
       "description": "Countess Gertrud uses a tiny plow hidden in her bosom and a horse ride to claim land for a monastery."
     },
     {
       "kind": "play",
-      "id": "ds_527_ritter_ulrich_dienstmann_zu_wirtenberg",
+      "id": "ds_533_ritter_ulrich_dienstmann_zu_wirtenberg",
       "title": "Knight Ulrich of Wurttemberg",
       "description": "Ulrich encounters a silent procession of a thousand souls and is shown the secrets of purgatory."
     },
     {
       "kind": "play",
-      "id": "ds_528_freiherr_albert_von_simmern",
+      "id": "ds_534_freiherr_albert_von_simmern",
       "title": "Freiherr Albert of Simmern",
       "description": "Albert hunts a white stag that leads him to an underground fairy palace."
     },
     {
       "kind": "play",
-      "id": "ds_529_andreas_von_sangerwitz",
+      "id": "ds_535_andreas_von_sangerwitz",
       "title": "Andreas of Sangerwitz",
       "description": "Andreas counsels peace before the Battle of Tannenberg but is mocked, later fighting to the death."
     },
     {
       "kind": "play",
-      "id": "ds_530_der_birdunger_buerger",
+      "id": "ds_536_der_birdunger_buerger",
       "title": "The Verdun Citizen",
       "description": "A Verdun citizen makes a pact with the devil for money and is eventually carried off to hell on a black steed."
     },
     {
       "kind": "play",
-      "id": "ds_531_der_mann_im_pflug",
+      "id": "ds_537_der_mann_im_pflug",
       "title": "The Man in the Plow",
       "description": "A knight is forced to plow fields in captivity, but his wife's woven shirt remains miraculously clean."
     },
     {
       "kind": "play",
-      "id": "ds_532_siegfried_und_genovefa",
+      "id": "ds_538_siegfried_und_genovefa",
       "title": "Siegfried and Genevieve",
       "description": "Genovefa is falsely accused of adultery by Golo and cast out, surviving in a cave with a doe."
     },
     {
       "kind": "play",
-      "id": "ds_533_carl_ynach_salvius_brabon_und_frau_schwan",
+      "id": "ds_539_carl_ynach_salvius_brabon_und_frau_schwan",
       "title": "Carl Ynach, Salvius Brabon and Lady Swan",
       "description": "Exiled Carl Ynach flees Rome with Germana, guided down the Rhine by a mysterious swan."
     },
     {
       "kind": "play",
-      "id": "ds_534_der_ritter_mit_dem_schwan",
+      "id": "ds_540_der_ritter_mit_dem_schwan",
       "title": "The Knight of the Swan",
       "description": "Beatrix bears septuplets with silver chains; Matabruna steals them, turning the boys into swans."
     },
     {
       "kind": "play",
-      "id": "ds_535_das_schwanschiff_am_rhein",
+      "id": "ds_541_das_schwanschiff_am_rhein",
       "title": "The Swan Ship on the Rhine",
       "description": "A swan knight defends Beatrix and marries her on the condition that she never ask his origin."
     },
     {
       "kind": "play",
-      "id": "ds_536_lohengrin_zu_brabant",
+      "id": "ds_542_lohengrin_zu_brabant",
       "title": "Lohengrin of Brabant",
       "description": "Lohengrin is summoned from Montsalvat to defend Elsa, warning her never to ask his name."
     },
     {
       "kind": "play",
-      "id": "ds_537_loherangrins_ende_in_lothringen",
+      "id": "ds_543_loherangrins_ende_in_lothringen",
       "title": "Loherangrin's End in Lorraine",
       "description": "Loherangrin is stabbed by his wife's suspicious relatives who seek to bind him by a magic ritual."
     },
     {
       "kind": "play",
-      "id": "ds_538_der_schwanritter",
+      "id": "ds_544_der_schwanritter",
       "title": "The Swan Knight",
       "description": "The Duke of Saxony seizes Brabant; a swan knight defends the Duchess's daughter but leaves when questioned."
     },
     {
       "kind": "play",
-      "id": "ds_539_der_gute_gerhard_schwan",
+      "id": "ds_545_der_gute_gerhard_schwan",
       "title": "The Good Gerhard Swan",
       "description": "A silent knight arrives in a swan boat with a letter; he is raised to Duke by Karl and marries Adalis."
     },
     {
       "kind": "play",
-      "id": "ds_540_die_schwanringe_zu_plesse",
+      "id": "ds_546_die_schwanringe_zu_plesse",
       "title": "The Swan Rings of Plesse",
       "description": "Three brothers build Plesse Castle, guided by their hunter bastard brother Heiso."
     },
     {
       "kind": "play",
-      "id": "ds_541_das_oldenburger_horn",
+      "id": "ds_547_das_oldenburger_horn",
       "title": "The Oldenburg Horn",
       "description": "Otto of Oldenburg is offered a drink by a mountain maiden, but pours it away and steals the horn."
     },
     {
       "kind": "play",
-      "id": "ds_542_friedrich_von_oldenburg",
+      "id": "ds_548_friedrich_von_oldenburg",
       "title": "Frederick of Oldenburg",
       "description": "Friedrich volunteers to fight a lion to save his father, using a straw dummy to trick the beast."
     },
     {
       "kind": "play",
-      "id": "ds_543_die_neun_kinder",
+      "id": "ds_549_die_neun_kinder",
       "title": "The Nine Children",
       "description": "Uffo dreams his wife bore him nine children, which turn out to be nine churches she founded."
     },
     {
       "kind": "play",
-      "id": "ds_544_amalaberga_von_thueringen",
+      "id": "ds_550_amalaberga_von_thueringen",
       "title": "Amalaberga of Thuringia",
       "description": "Amalaberga goads Hermenfried into war by half-covering the dining table."
     },
     {
       "kind": "play",
-      "id": "ds_545_sage_von_irmenfried_iring_und_dieterich",
+      "id": "ds_551_sage_von_irmenfried_iring_und_dieterich",
       "title": "Sage of Irmenfried, Iring and Dieterich",
       "description": "The Thuringian advisor Iring kills his King Irmenfried for Dieterich, but avenges him when betrayed."
     },
     {
       "kind": "play",
-      "id": "ds_546_das_jagen_im_fremden_walde",
+      "id": "ds_552_das_jagen_im_fremden_walde",
       "title": "Hunting in the Foreign Forest",
       "description": "Adelheid plots with Ludwig of Thuringia to murder her husband Pfalzgraf Friedrich during an illegal hunt."
     },
     {
       "kind": "play",
-      "id": "ds_547_wie_ludwig_wartburg_ueberkommen",
+      "id": "ds_553_wie_ludwig_wartburg_ueberkommen",
       "title": "How Ludwig Obtained the Wartburg",
       "description": "Ludwig the Springer claims a steep hill by carrying Thuringian soil to it and swearing a literal oath."
     },
     {
       "kind": "play",
-      "id": "ds_548_ludwig_der_springer",
+      "id": "ds_554_ludwig_der_springer",
       "title": "Ludwig the Springer",
       "description": "Ludwig escapes execution by leaping from the high tower of Gibichenstein Castle into the Saale river."
     },
     {
       "kind": "play",
-      "id": "ds_549_reinhartsbrunn",
+      "id": "ds_555_reinhartsbrunn",
       "title": "Reinhartsbrunn",
       "description": "Ludwig founds Reinhartsbrunn Abbey after a potter informs him of two mysterious lights seen at night."
     },
     {
       "kind": "play",
-      "id": "ds_550_der_hart_geschmiedete_landgraf",
+      "id": "ds_556_der_hart_geschmiedete_landgraf",
       "title": "The Hard-Forged Landgrave",
       "description": "Ludwig gets lost and stays at a Ruhla smithy, where the smith's shouts goad him to become hard like iron."
     },
     {
       "kind": "play",
-      "id": "ds_551_ludwig_ackert_mit_seinen_adlichen",
+      "id": "ds_557_ludwig_ackert_mit_seinen_adlichen",
       "title": "Ludwig Plows with his Nobles",
       "description": "Ludwig the Iron punishes rebellious nobles by harnessing them to a plow and forcing them to plow fields."
     },
     {
       "kind": "play",
-      "id": "ds_552_ludwig_baut_eine_mauer",
+      "id": "ds_558_ludwig_baut_eine_mauer",
       "title": "Ludwig Builds a Wall",
       "description": "Ludwig presents his fully armored knights to the Emperor as a living wall surrounding the castle."
     },
     {
       "kind": "play",
-      "id": "ds_553_ludwigs_leichnam_wird_getragen",
+      "id": "ds_559_ludwigs_leichnam_wird_getragen",
       "title": "Ludwig's Corpse is Carried",
       "description": "Fearing him even in death, the rebellious nobles carry Ludwig's coffin ten miles on their shoulders."
     },
     {
       "kind": "play",
-      "id": "ds_554_wie_es_um_ludwigs_seele_geschaffen_war",
+      "id": "ds_560_wie_es_um_ludwigs_seele_geschaffen_war",
       "title": "How Ludwig's Soul Fared",
       "description": "A priest conjures the devil to show Ludwig the Mild that his father's soul is tormented on a red-hot iron throne."
     },
     {
       "kind": "play",
-      "id": "ds_555_der_wartburger_krieg",
+      "id": "ds_561_der_wartburger_krieg",
       "title": "The Wartburg Song Contest",
       "description": "Six Minnesingers hold a singing contest at the Wartburg with lethal stakes; Ofterdingen escapes death."
     },
     {
       "kind": "play",
-      "id": "ds_556_doctor_luther_zu_wartburg",
+      "id": "ds_562_doctor_luther_zu_wartburg",
       "title": "Doctor Luther at the Wartburg",
       "description": "Martin Luther translates the Bible in his chamber and throws his inkwell to drive away the tempting devil."
     },
     {
       "kind": "play",
-      "id": "ds_557_die_vermaehlung_der_kinder_ludwig_und_elisabeth",
+      "id": "ds_563_die_vermaehlung_der_kinder_ludwig_und_elisabeth",
       "title": "The Betrothal of Ludwig and Elisabeth",
       "description": "Hungarian Princess Elisabeth is betrothed to young Ludwig and sent to Thuringia in a silver cradle."
     },
     {
       "kind": "play",
-      "id": "ds_558_heinrich_das_kind_von_brabant",
+      "id": "ds_564_heinrich_das_kind_von_brabant",
       "title": "Henry the Child of Brabant",
       "description": "A war of succession breaks out as the Hessians support Saint Elisabeth's infant son Heinrich for ruler."
     },
     {
       "kind": "play",
-      "id": "ds_559_frau_sophiens_handschuh",
+      "id": "ds_565_frau_sophiens_handschuh",
       "title": "Duchess Sophie's Glove",
       "description": "Sophie throws her glove, declaring Hessen's loyalty, after the Markgraf of Meißen refuses her claims."
     },
     {
       "kind": "play",
-      "id": "ds_560_friedrich_mit_dem_gebissenen_backen",
+      "id": "ds_566_friedrich_mit_dem_gebissenen_backen",
       "title": "Frederick with the Bitten Cheek",
       "description": "Margaret escapes her murderous husband and bites her son's cheek so he will remember her sorrow."
     },
     {
       "kind": "play",
-      "id": "ds_561_markgraf_friedrich_laesst_seine_tochter_saeugen",
+      "id": "ds_567_markgraf_friedrich_laesst_seine_tochter_saeugen",
       "title": "Frederick has his Daughter Nursed",
       "description": "Under siege, Friedrich breakout and halts his retreat repeatedly to let a wet-nurse feed his baby."
     },
     {
       "kind": "play",
-      "id": "ds_562_otto_der_schuetze",
+      "id": "ds_568_otto_der_schuetze",
       "title": "Otto the Archer",
       "description": "Prince Otto flees to Cleves to serve as an archer, later returning to inherit Hesse."
     },
     {
       "kind": "play",
-      "id": "ds_563_landgraf_philips_und_die_bauersfrau",
+      "id": "ds_569_landgraf_philips_und_die_bauersfrau",
       "title": "Landgrave Philip and the Peasant Woman",
       "description": "Philip travels incognito, pays a poor woman's tax, and hears her wish that he had the hot gold in his belly."
     },
     {
       "kind": "play",
-      "id": "ds_564_in_ketten_aufhaengen",
+      "id": "ds_570_in_ketten_aufhaengen",
       "title": "Hanging in Chains",
       "description": "Philip literally hangs Heinz von Lüder in a golden chain to satisfy a imperial command without hurting him."
     },
     {
       "kind": "play",
-      "id": "ds_565_landgraf_moritz_von_hessen",
+      "id": "ds_571_landgraf_moritz_von_hessen",
       "title": "Landgrave Maurice of Hesse",
       "description": "Moritz disguises as a beggar to join a wealthy soldier in a nightly treasure hunt using magic roots."
     },
     {
       "kind": "play",
-      "id": "ds_566_brot_und_salz_segnet_gott",
+      "id": "ds_572_brot_und_salz_segnet_gott",
       "title": "God Blesses Bread and Salt",
       "description": "A lost prince seeks food at a charcoal burner's hut, receiving bread and salt, rewarding him with a silver stirrup."
     },
     {
       "kind": "play",
-      "id": "ds_567_nidda",
+      "id": "ds_573_nidda",
       "title": "Nidda",
       "description": "A Countess builds Nidda Castle where her donkey stubbornly stops and refuses to move."
     },
     {
       "kind": "play",
-      "id": "ds_568_ursprung_der_von_malsburg",
+      "id": "ds_574_ursprung_der_von_malsburg",
       "title": "Origin of the von Malsburg Family",
       "description": "Otto marks his new land on a hill where he finds a thornbush with three white flowers."
     },
     {
       "kind": "play",
-      "id": "ds_569_ursprung_der_grafen_von_mannsfeld",
+      "id": "ds_575_ursprung_der_grafen_von_mannsfeld",
       "title": "Origin of the Counts of Mansfeld",
       "description": "A knight clever sows a bushel of barley in a thin border to claim the entire County of Mansfeld."
     },
     {
       "kind": "play",
-      "id": "ds_570_henneberg",
+      "id": "ds_576_henneberg",
       "title": "Henneberg",
       "description": "A noble lord sees a wild birch hen fly up from a hill, naming his new castle Henneberg after it."
     },
     {
       "kind": "play",
-      "id": "ds_571_die_acht_brunos",
+      "id": "ds_577_die_acht_brunos",
       "title": "The Eight Brunos",
       "description": "Count Gebhard rescues his eight infant sons whom his fearful wife ordered to be drowned as puppies."
     },
     {
       "kind": "play",
-      "id": "ds_572_die_eselswiese",
+      "id": "ds_578_die_eselswiese",
       "title": "The Donkey's Meadow",
       "description": "Saint Bruno's mule stubbornly refuses to move, warning him against his fatal missionary trip to Prussia."
     },
     {
       "kind": "play",
-      "id": "ds_573_thalmann_von_lunderstedt",
+      "id": "ds_579_thalmann_von_lunderstedt",
       "title": "Thalmann von Lunderstedt",
       "description": "Cornered on a cliff by his enemies, Thalmann spurs his horse off the precipice into the Saale river."
+    },
+    {
+      "kind": "play",
+      "id": "ds_580_hermann_von_treffurt",
+      "title": "Hermann von Treffurt",
+      "description": "A robber knight misses his path in the dark and is saved by his horse, leading him to repent and become a monk."
+    },
+    {
+      "kind": "play",
+      "id": "ds_581_der_graf_von_gleichen",
+      "title": "The Count of Gleichen",
+      "description": "Count Ludwig escapes Turkish slavery with the Sultan's daughter and returns to live in a bigamous marriage."
+    },
+    {
+      "kind": "play",
+      "id": "ds_582_hungersnoth_im_grabfeld",
+      "title": "Famine in the Grabfeld",
+      "description": "A starving father is about to kill his child during a famine, but is stopped when he sees two wolves killing a hind."
+    },
+    {
+      "kind": "play",
+      "id": "ds_583_der_croppenstaedter_vorrath",
+      "title": "The Kroppenstedt Store",
+      "description": "A poor cow-herd is blessed with fourteen sons born in a single year, requiring a large baptismal basin."
+    },
+    {
+      "kind": "play",
+      "id": "ds_584_so_viel_kinder_als_tag_im_jahr",
+      "title": "As Many Children as Days in the Year",
+      "description": "Countess Margaretha mocks a poor beggar woman and is cursed to give birth to 365 children at once."
+    },
+    {
+      "kind": "play",
+      "id": "ds_585_die_graefin_von_orlamuende",
+      "title": "The Countess of Orlamünde",
+      "description": "Agnes murders her two children to marry Albert, but is rejected and becomes the death-warning White Lady."
     },
     {
       "kind": "play",
