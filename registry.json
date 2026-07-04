@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.839.0",
+  "version": "0.840.0",
   "plays": [
     {
       "kind": "play",
@@ -431,1741 +431,1747 @@
     },
     {
       "kind": "play",
-      "id": "ds_072_der_bauer_mit_seinem_kobold",
+      "id": "ds_072_der_kobold",
+      "title": "The Kobold",
+      "description": "A helpful kobold assists a household with various chores, bringing fortune as long as he is treated well."
+    },
+    {
+      "kind": "play",
+      "id": "ds_073_der_bauer_mit_seinem_kobold",
       "title": "The Peasant and His Kobold",
       "description": "A peasant tries to burn down his barn to escape a kobold, only to find the spirit riding along on his cart."
     },
     {
       "kind": "play",
-      "id": "ds_073_der_kobold_in_der_muehle",
+      "id": "ds_074_der_kobold_in_der_muehle",
       "title": "The Kobold in the Mill",
       "description": "Two students shelter in a mill where one eats the food set out for the house spirit, earning a midnight thrashing."
     },
     {
       "kind": "play",
-      "id": "ds_074_huetchen",
+      "id": "ds_075_huetchen",
       "title": "Little Hat",
       "description": "A house spirit wearing a small felt hat serves the bishop of Hildesheim, but takes bloody revenge when mocked."
     },
     {
       "kind": "play",
-      "id": "ds_075_hinzelmann",
+      "id": "ds_076_hinzelmann",
       "title": "Hinzelmann",
       "description": "The house spirit Hinzelmann haunts Castle Hudemühlen, keeping house, speaking to guests, and giving warnings."
     },
     {
       "kind": "play",
-      "id": "ds_076_klopfer",
+      "id": "ds_077_klopfer",
       "title": "Knocker",
       "description": "A helpful household spirit in Flügelau Castle flees in a trail of fire when forced to reveal his true form."
     },
     {
       "kind": "play",
-      "id": "ds_077_stiefel",
+      "id": "ds_078_stiefel",
       "title": "Boot",
       "description": "A wounded castle spirit in Calenberg wears a large boot on one leg, fearing it might be torn off."
     },
     {
       "kind": "play",
-      "id": "ds_078_ekerken",
+      "id": "ds_079_ekerken",
       "title": "Ekerken",
       "description": "A roadway spirit near Elten plagues travelers, remaining invisible except for a single human hand."
     },
     {
       "kind": "play",
-      "id": "ds_079_nachtgeist_zu_kendenich",
+      "id": "ds_080_nachtgeist_zu_kendenich",
       "title": "Night Spirit of Kendenich",
       "description": "A ghostly nun hiding in the swamp near Kendenich leaps onto the backs of travelers and rides them all night."
     },
     {
       "kind": "play",
-      "id": "ds_080_der_alp",
+      "id": "ds_081_der_alp",
       "title": "The Nightmare",
       "description": "The nightmare spirit slips through tiny cracks to press on sleepers' chests, fleeing only if one moves a thumb."
     },
     {
       "kind": "play",
-      "id": "ds_081_der_wechselbalg",
+      "id": "ds_082_der_wechselbalg",
       "title": "The Changeling",
       "description": "A mother discovers her crying, insatiable child is a changeling when a voice from a bridge calls out to it."
     },
     {
       "kind": "play",
-      "id": "ds_082_die_wechselbaelege_im_wasser",
+      "id": "ds_083_die_wechselbaelege_im_wasser",
       "title": "The Changelings in the Water",
       "description": "A peasant carrying an insatiable changeling in a basket throws it in the river when the creature speaks."
     },
     {
       "kind": "play",
-      "id": "ds_083_der_alraun",
+      "id": "ds_084_der_alraun",
       "title": "The Mandrake",
       "description": "A mandrake root, grown under a gallows, is dug up using a black dog to avoid its fatal shriek, bringing wealth."
     },
     {
       "kind": "play",
-      "id": "ds_084_spiritus_familiaris",
+      "id": "ds_085_spiritus_familiaris",
       "title": "Spiritus Familiaris",
       "description": "A soldier owns a spirit in a bottle that brings wealth, but he must sell it cheaper to avoid damnation."
     },
     {
       "kind": "play",
-      "id": "ds_085_das_vogelnest",
+      "id": "ds_086_das_vogelnest",
       "title": "The Bird's Nest",
       "description": "A magical bird's nest is invisible to the eye but visible in water, granting invisibility to its holder."
     },
     {
       "kind": "play",
-      "id": "ds_086_der_brutpfennig",
+      "id": "ds_087_der_brutpfennig",
       "title": "The Breeding Penny",
       "description": "A person gets a breeding penny from the devil on Christmas Eve, which later burns down a house in Pantschdorf."
     },
     {
       "kind": "play",
-      "id": "ds_087_wechselkind_mit_ruten_gestrichen",
+      "id": "ds_088_wechselkind_mit_ruten_gestrichen",
       "title": "The Changeling Beaten with Rods",
       "description": "A mother beats a changeling on a Breslau meadow to force the devil to return her real child."
     },
     {
       "kind": "play",
-      "id": "ds_088_das_schauen_auf_die_kinder",
+      "id": "ds_089_das_schauen_auf_die_kinder",
       "title": "Watching Over the Children",
       "description": "A Leipzig father watches his newborn child at night to prevent an unseen force from turning its cradle."
     },
     {
       "kind": "play",
-      "id": "ds_089_die_roggen_muhme",
+      "id": "ds_090_die_roggen_muhme",
       "title": "The Rye Aunt",
       "description": "A nursing mother is forced to bind sheaves in the field; the Roggen-Mutter swaps her child but returns it later."
     },
     {
       "kind": "play",
-      "id": "ds_090_die_zwei_unterirdischen_weiber",
+      "id": "ds_091_die_zwei_unterirdischen_weiber",
       "title": "The Two Underground Women",
       "description": "Two underground women swap a sleeping newborn, but a quick-witted maid saves the child by a clever counter-swap."
     },
     {
       "kind": "play",
-      "id": "ds_091_koenig_gruenewald",
+      "id": "ds_092_koenig_gruenewald",
       "title": "King Grunewald",
       "description": "A princess saves her besieged father by carrying him out on a donkey, disguised by green branches."
     },
     {
       "kind": "play",
-      "id": "ds_092_bluemelis_alp",
+      "id": "ds_093_bluemelis_alp",
       "title": "Blumelisalp",
       "description": "A rich shepherd constructs a staircase of cheese and is cursed by his mother, burying the alp under ice."
     },
     {
       "kind": "play",
-      "id": "ds_093_die_lilie",
+      "id": "ds_094_die_lilie",
       "title": "The Lily",
       "description": "A nobleman cuts off a servant's head at a banquet but cannot put it back until he kills a hidden disruptor."
     },
     {
       "kind": "play",
-      "id": "ds_094_johann_von_passau",
+      "id": "ds_095_johann_von_passau",
       "title": "Johann of Passau",
       "description": "A widower’s wife returns from the grave to be his housewife, on the condition that he must never curse again."
     },
     {
       "kind": "play",
-      "id": "ds_095_das_huendlein_von_bretta",
+      "id": "ds_096_das_huendlein_von_bretta",
       "title": "The Little Dog of Bretta",
       "description": "A loyal dog sent to a butcher with a sausage request on a fast day has its tail chopped off in retaliation."
     },
     {
       "kind": "play",
-      "id": "ds_096_das_dorf_am_meer",
+      "id": "ds_097_das_dorf_am_meer",
       "title": "The Village by the Sea",
       "description": "A proud village mocking a praying woman is buried in sand by oxen digging and a violent storm."
     },
     {
       "kind": "play",
-      "id": "ds_097_die_verschuetteten_silbergruben",
+      "id": "ds_098_die_verschuetteten_silbergruben",
       "title": "The Buried Silver Mines",
       "description": "An innocent mine manager cursed a rich mine upon his execution, turning his blood into milk."
     },
     {
       "kind": "play",
-      "id": "ds_098_der_fundgruebner",
+      "id": "ds_099_der_fundgruebner",
       "title": "The Mine Discoverer",
       "description": "A heavily indebted miner discovers a rich ore deposit just as he is about to flee, restoring his wealth."
     },
     {
       "kind": "play",
-      "id": "ds_099_ein_gespenstiger_reuter",
+      "id": "ds_100_ein_gespenstiger_reuter",
       "title": "A Ghostly Rider",
       "description": "An outstanding horse trainer is recognized as a dead soldier, leaves in a jester's outfit, and tricks a groom."
     },
     {
       "kind": "play",
-      "id": "ds_100_der_falsche_eid",
+      "id": "ds_101_der_falsche_eid",
       "title": "The False Oath",
       "description": "A peasant swears a false oath to claim land, only for the earth to open and swallow him up."
     },
     {
       "kind": "play",
-      "id": "ds_101_zwoelf_ungerechte_richter",
+      "id": "ds_102_zwoelf_ungerechte_richter",
       "title": "Twelve Unjust Judges",
       "description": "Twelve judges in Minden who pass an unjust verdict are punished by the earth swallowing them to their knees."
     },
     {
       "kind": "play",
-      "id": "ds_102_die_heiligen_quellen",
+      "id": "ds_103_die_heiligen_quellen",
       "title": "The Holy Springs",
       "description": "Three holy springs sprout on Rütli meadow after the Swiss oath, while a traitor burns from within."
     },
     {
       "kind": "play",
-      "id": "ds_103_der_quillende_brunnen",
+      "id": "ds_104_der_quillende_brunnen",
       "title": "The Gushing Fountain",
       "description": "A fountain dries up whenever a member of a noble Franconian house is dying, but the omen is cheated."
     },
     {
       "kind": "play",
-      "id": "ds_104_hunger_quelle",
+      "id": "ds_105_hunger_quelle",
       "title": "Hunger Spring",
       "description": "A spring in Halle near the Red Tower predicts cheap or dear times by the flow of its water."
     },
     {
       "kind": "play",
-      "id": "ds_105_der_lieben_bach",
+      "id": "ds_106_der_lieben_bach",
       "title": "The Stream of Love",
       "description": "Two lovers dig for forty years to bring a spring to Spangenberg, dying in each other's arms as it succeeds."
     },
     {
       "kind": "play",
-      "id": "ds_106_der_helfenstein",
+      "id": "ds_107_der_helfenstein",
       "title": "The Helfenstein",
       "description": "A mountain door opens in 1614 for a Marschendorf maid, showing a mystical hall of zeching lords."
     },
     {
       "kind": "play",
-      "id": "ds_107_die_wiege_aus_dem_baeumchen",
+      "id": "ds_108_die_wiege_aus_dem_baeumchen",
       "title": "The Cradle from the Tree",
       "description": "A treasure in Rauheneck can only be lifted by a child whose cradle is carved from a tree growing on the tower wall."
     },
     {
       "kind": "play",
-      "id": "ds_108_hessental",
+      "id": "ds_109_hessental",
       "title": "Hessental",
       "description": "A speaking bird warns a Germanic princess of Roman soldiers marching through the valley with gleaming armor."
     },
     {
       "kind": "play",
-      "id": "ds_109_reinstein",
+      "id": "ds_110_reinstein",
       "title": "Reinstein",
       "description": "Beneath a Harz castle, stones taken from a cave always return, while sounds of bells and blacksmiths echo."
     },
     {
       "kind": "play",
-      "id": "ds_110_der_stillstehende_fluss",
+      "id": "ds_111_der_stillstehende_fluss",
       "title": "The Stationary River",
       "description": "The river Fulda ceases its flow as a sign of mourning whenever a member of the princely house of Hesse is about to die."
     },
     {
       "kind": "play",
-      "id": "ds_111_arendsee",
+      "id": "ds_112_arendsee",
       "title": "Arendsee",
       "description": "A castle sinks to form a deep lake, leaving only Arend and his wife to survive after her historic warning cry."
     },
     {
       "kind": "play",
-      "id": "ds_112_der_ochsenberg",
+      "id": "ds_113_der_ochsenberg",
       "title": "The Ox Hill",
       "description": "A noblewoman warned in a dream flees a sinking castle on an ox, watching the ruins sink to form a lake."
     },
     {
       "kind": "play",
-      "id": "ds_113_die_moorjungfern",
+      "id": "ds_114_die_moorjungfern",
       "title": "The Maidens of the Moor",
       "description": "Ghostly lights hover over a sunken village in the Red Moor, while a stone bridge remains in the Black Moor."
     },
     {
       "kind": "play",
-      "id": "ds_114_andreasnacht",
+      "id": "ds_115_andreasnacht",
       "title": "St. Andrew's Eve",
       "description": "A girl summons her future husband with dinner on Saint Andrew's Eve, but he suffers pain from the magical compulsion."
     },
     {
       "kind": "play",
-      "id": "ds_115_der_liebhaber_zum_essen_eingeladen",
+      "id": "ds_116_der_liebhaber_zum_essen_eingeladen",
       "title": "The Lover Invited to Dinner",
       "description": "A woman uses Christmas magic with bread and crossed knives to summon her lover, causing her to flee in terror."
     },
     {
       "kind": "play",
-      "id": "ds_116_die_christnacht",
+      "id": "ds_117_die_christnacht",
       "title": "Christmas Eve",
       "description": "A maid puts a bread crust under her arm by day and under her head by night to dream of her future lover."
     },
     {
       "kind": "play",
-      "id": "ds_117_das_hemdabwerfen",
+      "id": "ds_118_das_hemdabwerfen",
       "title": "The Shirt Casting",
       "description": "A girl uses a Christmas shirt magic ritual to see her future husband, but a group of girls confuses the spirits."
     },
     {
       "kind": "play",
-      "id": "ds_118_krystall_schauen",
+      "id": "ds_119_krystall_schauen",
       "title": "Crystal Gazing",
       "description": "A girl uses crystal gazing to discover her future husband, with Johann Rüst witnessing the magical vision."
     },
     {
       "kind": "play",
-      "id": "ds_119_zauber_kraeuter_kochen",
+      "id": "ds_120_zauber_kraeuter_kochen",
       "title": "Boiling Magic Herbs",
       "description": "A maid cooks magic herbs on Pentecost, forcing a devil in goat form to carry her lover back on its horns."
     },
     {
       "kind": "play",
-      "id": "ds_120_der_salzknecht_in_pommern",
+      "id": "ds_121_der_salzknecht_in_pommern",
       "title": "The Salt Journeyman in Pomerania",
       "description": "A witch uses magic to pursue a fleeing salt journeyman, sending a black goat to slip between his legs."
     },
     {
       "kind": "play",
-      "id": "ds_121_jungfer_eli",
+      "id": "ds_122_jungfer_eli",
       "title": "Maiden Eli",
       "description": "A cruel housekeeper haunts Frekenhorst abbey until priests banish her ghost to the Davert forest."
     },
     {
       "kind": "play",
-      "id": "ds_122_die_weisse_frau",
+      "id": "ds_123_die_weisse_frau",
       "title": "The White Lady",
       "description": "A white lady combs horses in a stable but is blind inside her dwelling and sees clearly only outside."
     },
     {
       "kind": "play",
-      "id": "ds_123_taube_zeigt_einen_schatz",
+      "id": "ds_124_taube_zeigt_einen_schatz",
       "title": "Dove Reveals a Treasure",
       "description": "Duke Heinrich of Breslau follows a dove in Krakow cathedral and finds a hidden treasure under the floorboards."
     },
     {
       "kind": "play",
-      "id": "ds_124_taube_haelt_den_feind_ab",
+      "id": "ds_125_taube_haelt_den_feind_ab",
       "title": "Dove Keeps the Enemy Away",
       "description": "A dove prevents a banneret from firing a cannon during a siege, saving the city of Hoxter until Swedish forces arrive."
     },
     {
       "kind": "play",
-      "id": "ds_125_der_glockenguss_zu_breslau",
+      "id": "ds_126_der_glockenguss_zu_breslau",
       "title": "The Bell Casting of Breslau",
       "description": "A bell founder kills his apprentice for opening the tap early, only to find the bell is perfect before his execution."
     },
     {
       "kind": "play",
-      "id": "ds_126_der_glockenguss_zu_attendorn",
+      "id": "ds_127_der_glockenguss_zu_attendorn",
       "title": "The Bell Casting of Attendorn",
       "description": "A mother hides a black painted gold plate under a bench until a bell founder discovers and melts it into a new bell."
     },
     {
       "kind": "play",
-      "id": "ds_127_die_muellerin",
+      "id": "ds_128_die_muellerin",
       "title": "The Miller's Wife",
       "description": "A miller's wife traps one robber in a chamber and kills another in the waterwheel while her husband is away at church."
     },
     {
       "kind": "play",
-      "id": "ds_128_johann_huebner",
+      "id": "ds_129_johann_huebner",
       "title": "Johann Huebner",
       "description": "The one-eyed robber Johann Huebner terrorizes a Westphalian forest from his castle until he is killed in battle."
     },
     {
       "kind": "play",
-      "id": "ds_129_eppela_gaila",
+      "id": "ds_130_eppela_gaila",
       "title": "Eppela Gaila",
       "description": "The robber knight Eppela Gaila Gailingen uses his magical horse to escape from the Nuremberg forces."
     },
     {
       "kind": "play",
-      "id": "ds_130_der_blumenstein",
+      "id": "ds_131_der_blumenstein",
       "title": "The Blumenstein",
       "description": "A brave village girl wins a midnight bet at a ruined castle and accidentally retrieves a robber's stolen treasure."
     },
     {
       "kind": "play",
-      "id": "ds_131_seeburger_see",
+      "id": "ds_132_seeburger_see",
       "title": "Seeburger Lake",
       "description": "The wicked lifestyle of Count Isang causes his castle to sink, creating the Seeburger lake near Goettingen."
     },
     {
       "kind": "play",
-      "id": "ds_132_der_burgsee_und_burgwall",
+      "id": "ds_133_der_burgsee_und_burgwall",
       "title": "The Castle Lake and Wall",
       "description": "Priests on the island of Ruegen sacrifice young women to the devil by drowning them in the dark Burgsee."
     },
     {
       "kind": "play",
-      "id": "ds_133_der_heilige_niklas_und_der_dieb",
+      "id": "ds_134_der_heilige_niklas_und_der_dieb",
       "title": "Saint Nicholas and the Thief",
       "description": "A thief challenges Saint Nicholas to a race for the offering box but gets carried away by the devil after his death."
     },
     {
       "kind": "play",
-      "id": "ds_134_riesensteine",
+      "id": "ds_135_riesensteine",
       "title": "Giant Stones",
       "description": "Giant stones with handprints are found near Leipzig and Salzwedel, where a commander once split a rock with his sword."
     },
     {
       "kind": "play",
-      "id": "ds_135_spuren_im_stein",
+      "id": "ds_136_spuren_im_stein",
       "title": "Imprints in the Stone",
       "description": "A retreating commander sits on a stone in Geismarwald and leaves hand and leg imprints as a sign of future victory."
     },
     {
       "kind": "play",
-      "id": "ds_136_der_riesenfinger",
+      "id": "ds_137_der_riesenfinger",
       "title": "The Giant's Finger",
       "description": "A wicked giant who mistreated his mother is buried by a storm, leaving his finger protruding as the Fuchsturm tower."
     },
     {
       "kind": "play",
-      "id": "ds_137_riesen_aus_dem_untersberge",
+      "id": "ds_138_riesen_aus_dem_untersberge",
       "title": "Giants from the Untersberg",
       "description": "Giants descend from the Untersberg mountain to warn Feldkirchen villagers to live a righteous life."
     },
     {
       "kind": "play",
-      "id": "ds_138_der_jettenbuehel_zu_heidelberg",
+      "id": "ds_139_der_jettenbuehel_zu_heidelberg",
       "title": "Jetta's Hill in Heidelberg",
       "description": "The famous prophetess Jetta predicts the future from her chapel on the hill where Heidelberg Castle stands today."
     },
     {
       "kind": "play",
-      "id": "ds_139_riese_haym",
+      "id": "ds_140_riese_haym",
       "title": "The Giant Haym",
       "description": "The giant Haym slays a dragon in the Inntal valley, builds Wilten Abbey, and erects the bridge at Innsbruck."
     },
     {
       "kind": "play",
-      "id": "ds_140_die_tropfende_rippe",
+      "id": "ds_141_die_tropfende_rippe",
       "title": "The Dripping Rib",
       "description": "A giant pagan maiden's rib drips once a year in Oberburg church, with the final drop signaling Judgment Day."
     },
     {
       "kind": "play",
-      "id": "ds_141_jungfrausprung",
+      "id": "ds_142_jungfrausprung",
       "title": "The Maiden's Leap",
       "description": "A pure country girl leaps across the Mur river from a mountain to escape a wicked pursuer, naming the cliff."
     },
     {
       "kind": "play",
-      "id": "ds_142_der_stierenbach",
+      "id": "ds_143_der_stierenbach",
       "title": "The Bull Brook",
       "description": "A shepherd's baptized lamb turns into a terrifying specter that is eventually defeated by a giant milk-fed bull."
     },
     {
       "kind": "play",
-      "id": "ds_143_die_maenner_im_zottenberg",
+      "id": "ds_144_die_maenner_im_zottenberg",
       "title": "The Men in Zottenberg",
       "description": "A man discovers a hidden cave inside Zottenberg mountain where three silent old robbers await Judgment Day."
     },
     {
       "kind": "play",
-      "id": "ds_144_verkuendigung_des_verderbens",
+      "id": "ds_145_verkuendigung_des_verderbens",
       "title": "The Announcement of Doom",
       "description": "An old gray-haired man with a youthful face warns the soldiers of Magdeburg of their impending defeat in battle."
     },
     {
       "kind": "play",
-      "id": "ds_145_das_maennlein_auf_dem_ruecken",
+      "id": "ds_146_das_maennlein_auf_dem_ruecken",
       "title": "The Little Man on the Back",
       "description": "A rope-maker kicks a boy's game board and is forced by the boy's father to carry him, dying ten days later."
     },
     {
       "kind": "play",
-      "id": "ds_146_gottschee",
+      "id": "ds_147_gottschee",
       "title": "Gottschee",
       "description": "A hunter is led into a subterranean cave by a spirit and witnesses the silent souls of former castle lords."
     },
     {
       "kind": "play",
-      "id": "ds_147_die_zwerge_auf_dem_baum",
+      "id": "ds_148_die_zwerge_auf_dem_baum",
       "title": "The Dwarves on the Tree",
       "description": "Helpful dwarves who sit on a maple branch during haymaking are betrayed when locals saw it through at night."
     },
     {
       "kind": "play",
-      "id": "ds_148_die_zwerge_auf_dem_felsstein",
+      "id": "ds_149_die_zwerge_auf_dem_felsstein",
       "title": "The Dwarves on the Boulder",
       "description": "Dwarves who watch haymakers from a boulder are cruelly burned when pranksters heat the stone red-hot."
     },
     {
       "kind": "play",
-      "id": "ds_149_die_fuesse_der_zwerge",
+      "id": "ds_150_die_fuesse_der_zwerge",
       "title": "The Feet of the Dwarves",
       "description": "A shepherd scatters ash to discover the dwarves have goose feet, and his mockery drives them away forever."
     },
     {
       "kind": "play",
-      "id": "ds_150_die_wilden_geister",
+      "id": "ds_151_die_wilden_geister",
       "title": "The Wild Spirits",
       "description": "German villagers in Veneto appease the Wild Man and Forest Woman with burnt hair and read spirit footprints in ash."
     },
     {
       "kind": "play",
-      "id": "ds_151_die_heilingszwerge",
+      "id": "ds_152_die_heilingszwerge",
       "title": "The Heiling Dwarves",
       "description": "A berry-picking woman enters the dwarf-prince Heiling's cave and awakens a century later to find her world gone."
     },
     {
       "kind": "play",
-      "id": "ds_152_abzug_des_zwergvolks_ueber_die_bruecke",
+      "id": "ds_153_abzug_des_zwergvolks_ueber_die_bruecke",
       "title": "Departure of the Dwarves over the Bridge",
       "description": "Dwarves forced to leave their Harz caves agree to cross a bridge in secret while paying a silent wealth tax."
     },
     {
       "kind": "play",
-      "id": "ds_153_der_zug_der_zwerge_ueber_den_berg",
+      "id": "ds_154_der_zug_der_zwerge_ueber_den_berg",
       "title": "The Departure of the Dwarves over the Mountain",
       "description": "A baker catches invisible dwarves stealing bread, forcing their population to emigrate and leave a pot of coins."
     },
     {
       "kind": "play",
-      "id": "ds_154_die_zwerge_bei_dardesheim",
+      "id": "ds_155_die_zwerge_bei_dardesheim",
       "title": "The Dwarves at Dardesheim",
       "description": "Helpful dwarves of Dardesheim borrow wedding dishes to locals until human mockery forces them to emigrate forever."
     },
     {
       "kind": "play",
-      "id": "ds_155_schmidt_riechert",
+      "id": "ds_156_schmidt_riechert",
       "title": "Smith Riechert",
       "description": "A smith accidentally cracks a dwarf's skull with a threshing flail after guarding his pea field against theft."
     },
     {
       "kind": "play",
-      "id": "ds_156_grinken_schmidt",
+      "id": "ds_157_grinken_schmidt",
       "title": "Grinken-Smith",
       "description": "A legendary subterranean smith kills a farmer's horse after the farmer refuses to pay him for borrowing a spit."
     },
     {
       "kind": "play",
-      "id": "ds_157_die_hirtenjungen",
+      "id": "ds_158_die_hirtenjungen",
       "title": "The Shepherd Boys",
       "description": "Two shepherd boys find a hoard of coins inside a mountain cave but barely escape a magically closing stone door."
     },
     {
       "kind": "play",
-      "id": "ds_158_die_nusskerne",
+      "id": "ds_159_die_nusskerne",
       "title": "The Nut Kernels",
       "description": "A lazy boy following a mysterious nut-cracking lady discovers an underground cellar filled with barrels of gold."
     },
     {
       "kind": "play",
-      "id": "ds_159_der_soester_schatz",
+      "id": "ds_160_der_soester_schatz",
       "title": "The Treasure of Soest",
       "description": "A girl follows a goat into a ruin where a maiden gives her cherries that instantly turn into valuable coins."
     },
     {
       "kind": "play",
-      "id": "ds_160_das_quellende_silber",
+      "id": "ds_161_das_quellende_silber",
       "title": "The Gushing Silver",
       "description": "A poor girl meeting a white-dressed man in the forest receives a basket of silver coins gushing from a hill."
     },
     {
       "kind": "play",
-      "id": "ds_161_goldsand_auf_dem_unterberg",
+      "id": "ds_162_goldsand_auf_dem_unterberg",
       "title": "Gold Sand on the Unterberg",
       "description": "Men discover gold sand on the Untersberg mountain but face warnings and a fleeting door into another world."
     },
     {
       "kind": "play",
-      "id": "ds_162_goldkohlen",
+      "id": "ds_163_goldkohlen",
       "title": "Gold Coals",
       "description": "An herb gatherer on the Untersberg mountain finds gold-rich gray coals but can never rediscover the stone wall."
     },
     {
       "kind": "play",
-      "id": "ds_163_der_brunnen_zu_steinau",
+      "id": "ds_164_der_brunnen_zu_steinau",
       "title": "The Well at Steinau",
       "description": "Conspirators murder Abbot Berold of Fulda, leading to their execution and a barren patch of grass near Steinau."
     },
     {
       "kind": "play",
-      "id": "ds_164_die_fuenf_kreuze",
+      "id": "ds_165_die_fuenf_kreuze",
       "title": "The Five Crosses",
       "description": "Five ancient stone crosses standing outside the Klaus Gate in Höxter recall legends of giants and hung citizens."
     },
     {
       "kind": "play",
-      "id": "ds_165_der_schwerttanz_zu_weissenstein",
+      "id": "ds_166_der_schwerttanz_zu_weissenstein",
       "title": "The Sword Dance at Weissenstein",
       "description": "Peasants secretly arm themselves and trick robber knights by entering Weißenstein castle under the guise of a dance."
     },
     {
       "kind": "play",
-      "id": "ds_166_der_steintisch_zu_bingenheim",
+      "id": "ds_167_der_steintisch_zu_bingenheim",
       "title": "The Stone Table at Bingenheim",
       "description": "A linden tree court in Bingenheim features a stone table left by forest-dwelling giants who left handprints behind."
     },
     {
       "kind": "play",
-      "id": "ds_167_der_lange_mann_in_der_mordgasse_zu_hof",
+      "id": "ds_168_der_lange_mann_in_der_mordgasse_zu_hof",
       "title": "The Tall Man in Murder Lane",
       "description": "A giant black man straddling a lane in Hof predicts the coming of the plague before vanishing with a great crash."
     },
     {
       "kind": "play",
-      "id": "ds_168_krieg_und_frieden",
+      "id": "ds_169_krieg_und_frieden",
       "title": "War and Peace",
       "description": "Saxon soldiers capture a hairy wild woman who predicts peace, matching a wild man who foretold war years before."
     },
     {
       "kind": "play",
-      "id": "ds_169_rodensteins_auszug",
+      "id": "ds_170_rodensteins_auszug",
       "title": "Rodenstein's Departure",
       "description": "The ghost of the Lord of Rodenstein noisily marches to Schnellerts castle when war looms and returns in silence."
     },
     {
       "kind": "play",
-      "id": "ds_170_der_tannhaeuser",
+      "id": "ds_171_der_tannhaeuser",
       "title": "Tannhaeuser",
       "description": "Knight Tannhäuser leaves Rome in despair when Pope Urban declares his sins unforgiven unless a dry staff sprouts."
     },
     {
       "kind": "play",
-      "id": "ds_171_der_wilde_jaeger_hackelberg",
+      "id": "ds_172_der_wilde_jaeger_hackelberg",
       "title": "The Wild Hunter Hackelberg",
       "description": "The ghost of Jägermeister Hackelberg hunts forever on the Solling mountain after refusing heaven for his passion."
     },
     {
       "kind": "play",
-      "id": "ds_172_der_wilde_jaeger_und_der_schneider",
+      "id": "ds_173_der_wilde_jaeger_und_der_schneider",
       "title": "The Wild Hunter and the Tailor",
       "description": "A tailor in Münster mocks the wild hunter and gets knocked unconscious by a ghostly horse foot flying in."
     },
     {
       "kind": "play",
-      "id": "ds_173_der_hoselberg",
+      "id": "ds_174_der_hoselberg",
       "title": "The Hoselberg",
       "description": "A Thuringian mountain contains purgatory, prompting an English queen to build a chapel at its base to pray."
     },
     {
       "kind": "play",
-      "id": "ds_174_des_rechenbergers_knecht",
+      "id": "ds_175_des_rechenbergers_knecht",
       "title": "The Rechenberger's Servant",
       "description": "Hans von Rechenberg has a loyal servant who performs supernatural feats and is revealed to be a helpful spirit."
     },
     {
       "kind": "play",
-      "id": "ds_175_geister_kirche",
+      "id": "ds_176_geister_kirche",
       "title": "Ghost Church",
       "description": "A woman wanders into a midnight mass of headless spirits who chase her and tear her coat into pieces."
     },
     {
       "kind": "play",
-      "id": "ds_176_geister_mahl",
+      "id": "ds_177_geister_mahl",
       "title": "The Ghostly Banquet",
       "description": "A traveler in a haunted room witnesses a ghostly feast that vanishes upon prayer, leaving behind valuable silver."
     },
     {
       "kind": "play",
-      "id": "ds_177_der_dachdecker",
+      "id": "ds_178_der_dachdecker",
       "title": "The Roofer",
       "description": "A young roofer speaks irrationally from a tower top before falling to his death while his father prays for him."
     },
     {
       "kind": "play",
-      "id": "ds_178_die_spinnerin_am_creuz",
+      "id": "ds_179_die_spinnerin_am_creuz",
       "title": "The Spinner at the Cross",
       "description": "A poor woman spins yarn diligently for years to earn enough money to build a stone shrine near Vienna."
     },
     {
       "kind": "play",
-      "id": "ds_179_buttermilchthurm",
+      "id": "ds_180_buttermilchthurm",
       "title": "The Buttermilk Tower",
       "description": "Prussian peasants who mock a Deutschmeister are forced to eat a whole barrel of buttermilk inside a tower."
     },
     {
       "kind": "play",
-      "id": "ds_180_der_heilige_wanfried",
+      "id": "ds_181_der_heilige_wanfried",
       "title": "Saint Winfried",
       "description": "Saint Boniface stamps a foot imprint into the Christenberg and causes a dry wooden staff to sprout green leaves."
     },
     {
       "kind": "play",
-      "id": "ds_181_der_huelfenberg",
+      "id": "ds_182_der_huelfenberg",
       "title": "The Huelfenberg",
       "description": "A tricked devil bursts out of a chapel on the Hülfenberg, leaving a hole in the gable that can never be closed."
     },
     {
       "kind": "play",
-      "id": "ds_182_das_teufelsloch_zu_goslar",
+      "id": "ds_183_das_teufelsloch_zu_goslar",
       "title": "The Devil's Hole in Goslar",
       "description": "A violent dispute in Goslar is incensed by the devil, leaving a hole in the church wall that requires a cat to seal."
     },
     {
       "kind": "play",
-      "id": "ds_183_die_teufelsmuehle",
+      "id": "ds_184_die_teufelsmuehle",
       "title": "The Devil's Mill",
       "description": "A miller makes a pact with the devil to build a windmill, but a premature rooster crow causes its destruction."
     },
     {
       "kind": "play",
-      "id": "ds_184_der_herrgottstritt",
+      "id": "ds_185_der_herrgottstritt",
       "title": "The Footprint of the Lord",
       "description": "Christ leaves footprint imprints in rock after banishing the devil to a ravine to weep tears for a thousand years."
     },
     {
       "kind": "play",
-      "id": "ds_185_die_sachsenhaeuser_bruecke_zu_frankfurt",
+      "id": "ds_186_die_sachsenhaeuser_bruecke_zu_frankfurt",
       "title": "The Sachsenhausen Bridge in Frankfurt",
       "description": "A builder tricks the devil by driving a rooster across a newly completed bridge built under a soul contract."
     },
     {
       "kind": "play",
-      "id": "ds_186_der_wolf_und_der_tannenzapf",
+      "id": "ds_187_der_wolf_und_der_tannenzapf",
       "title": "The Wolf and the Pinecone",
       "description": "Aachen citizens trick the devil by sending a wolf into the cathedral first, causing him to slam and split the door."
     },
     {
       "kind": "play",
-      "id": "ds_187_der_teufel_von_ach",
+      "id": "ds_188_der_teufel_von_ach",
       "title": "The Devil of Ach",
       "description": "The devil is banished inside a large tower in the city wall of Aachen, where he makes noise until Judgment Day."
     },
     {
       "kind": "play",
-      "id": "ds_188_die_teufelsmauer",
+      "id": "ds_189_die_teufelsmauer",
       "title": "The Devil's Wall",
       "description": "A premature rooster crow ruins a pact between God and the devil, who breaks his own wall in a furious rage."
     },
     {
       "kind": "play",
-      "id": "ds_189_des_teufels_tanzplatz",
+      "id": "ds_190_des_teufels_tanzplatz",
       "title": "The Devil's Dance Floor",
       "description": "The devil builds walls to divide the Earth with God and dances in celebration on a rocky plateau in the Harz."
     },
     {
       "kind": "play",
-      "id": "ds_190_die_teufelskanzel",
+      "id": "ds_191_die_teufelskanzel",
       "title": "The Devil's Pulpit",
       "description": "The devil once preached to the local people from a row of rocks in Baden called the Devil's Pulpit."
     },
     {
       "kind": "play",
-      "id": "ds_191_das_teufelsohrkissen",
+      "id": "ds_192_das_teufelsohrkissen",
       "title": "The Devil's Ear Pillow",
       "description": "A flat stone at the foot of Castle Bentheim contains the ear print of the devil who once slept upon it."
     },
     {
       "kind": "play",
-      "id": "ds_192_der_teufelsfelsen",
+      "id": "ds_193_der_teufelsfelsen",
       "title": "The Devil's Rock",
       "description": "Satan tempts Christ from the Cößein rock but excludes two rough villages which remain the devil's own territory."
     },
     {
       "kind": "play",
-      "id": "ds_193_teufelsmauer",
+      "id": "ds_194_teufelsmauer",
       "title": "Devil's Wall",
       "description": "The devil tries to build a stone wall across the Danube, but the stones constantly slip out of his hands."
     },
     {
       "kind": "play",
-      "id": "ds_194_teufelsgitter",
+      "id": "ds_195_teufelsgitter",
       "title": "The Devil's Grille",
       "description": "A frustrated blacksmith wishes the devil to finish an intricate baptismal grid, and the devil immediately does so."
     },
     {
       "kind": "play",
-      "id": "ds_195_teufelsmuehle",
+      "id": "ds_196_teufelsmuehle",
       "title": "The Devil's Mill",
       "description": "The devil builds a Weser windmill and drives the wheel with a rocky stream, creating a local legend."
     },
     {
       "kind": "play",
-      "id": "ds_196_teufelskirche",
+      "id": "ds_197_teufelskirche",
       "title": "The Devil's Church",
       "description": "The devil steals building stones from a valley church project and piles them up on a Rhön mountain peak."
     },
     {
       "kind": "play",
-      "id": "ds_197_teufelsstein_bei_reichenbach",
+      "id": "ds_198_teufelsstein_bei_reichenbach",
       "title": "The Devil's Stone near Reichenbach",
       "description": "The devil builds a complex stone shelter in a single night to house local villagers during war times."
     },
     {
       "kind": "play",
-      "id": "ds_198_teufelsstein_bei_coeln",
+      "id": "ds_199_teufelsstein_bei_coeln",
       "title": "The Devil's Stone near Cologne",
       "description": "The devil attempts to destroy a chapel in Cologne by throwing a heavy stone but fails completely."
     },
     {
       "kind": "play",
-      "id": "ds_199_suentelstein_zu_osnabrueck",
+      "id": "ds_200_suentelstein_zu_osnabrueck",
       "title": "The Suentelstein near Osnabrueck",
       "description": "The devil carries a massive stone through the air by a chain and drops it near the city of Osnabrück."
     },
     {
       "kind": "play",
-      "id": "ds_200_der_luegenstein",
+      "id": "ds_201_der_luegenstein",
       "title": "The Stone of Lies",
       "description": "The devil agrees to drop a rock next to the Halberstadt Dom in exchange for a promised wine house."
     },
     {
       "kind": "play",
-      "id": "ds_201_die_felsenbruecke",
+      "id": "ds_202_die_felsenbruecke",
       "title": "The Rock Bridge",
       "description": "A shepherd leaps over a heap of coals placed by the devil on a narrow bridge after praying to the Virgin Mary."
     },
     {
       "kind": "play",
-      "id": "ds_202_das_teufelsbad_bei_dassel",
+      "id": "ds_203_das_teufelsbad_bei_dassel",
       "title": "The Devil's Pool near Dassel",
       "description": "The devil steals a golden bell and later drags an impious plowing farmer down into the bottomless Teufelsbad."
     },
     {
       "kind": "play",
-      "id": "ds_203_der_thurm_zu_schartfeld",
+      "id": "ds_204_der_thurm_zu_schartfeld",
       "title": "The Tower of Schartfeld",
       "description": "The devil throws the roof off the Schartfeld tower to expose a monk who abetted the emperor's adultery."
     },
     {
       "kind": "play",
-      "id": "ds_204_der_dom_zu_coeln",
+      "id": "ds_205_der_dom_zu_coeln",
       "title": "Cologne Cathedral",
       "description": "Cologne Cathedral remains unfinished after its proud builder loses a bet to the devil and leaps to his death."
     },
     {
       "kind": "play",
-      "id": "ds_205_des_teufels_hut",
+      "id": "ds_206_des_teufels_hut",
       "title": "The Devil's Hat",
       "description": "The devil boasts of wearing a massive stone as a hat until Christ easily lifts it with a single finger."
     },
     {
       "kind": "play",
-      "id": "ds_206_des_teufels_brand",
+      "id": "ds_207_des_teufels_brand",
       "title": "The Devil's Fire",
       "description": "The devil mockingly exposes the sins of local priests and burns down the town of Schiltach using a magic kettle."
     },
     {
       "kind": "play",
-      "id": "ds_207_die_teufels_hufeisen",
+      "id": "ds_208_die_teufels_hufeisen",
       "title": "The Devil's Horseshoes",
       "description": "The devil rides a cheating beer seller to a blacksmith who delays the shoeing until the morning cock crows."
     },
     {
       "kind": "play",
-      "id": "ds_208_der_teufel_fuehrt_die_braut_fort",
+      "id": "ds_209_der_teufel_fuehrt_die_braut_fort",
       "title": "The Devil Carries the Bride Away",
       "description": "A rich woman breaks her wedding vow to her poor lover and is carried off by the devil during her wedding dance."
     },
     {
       "kind": "play",
-      "id": "ds_209_das_gluecksrad",
+      "id": "ds_210_das_gluecksrad",
       "title": "The Wheel of Fortune",
       "description": "Twelve soldiers spin on the devil's wheel of fortune where one is taken and the rest wake up empty-handed."
     },
     {
       "kind": "play",
-      "id": "ds_210_der_teufel_als_fuersprecher",
+      "id": "ds_211_der_teufel_als_fuersprecher",
       "title": "The Devil as Advocate",
       "description": "The devil disguised in a blue hat defends a cheated mercenary and carries off the swearing lying landlord."
     },
     {
       "kind": "play",
-      "id": "ds_211_traum_vom_schatz_auf_der_bruecke",
+      "id": "ds_212_traum_vom_schatz_auf_der_bruecke",
       "title": "Dream of the Treasure on the Bridge",
       "description": "A dreamer finds a treasure under a tree after a merchant on a bridge mocks dreams and tells him where to dig."
     },
     {
       "kind": "play",
-      "id": "ds_212_der_kessel_mit_dem_schatz",
+      "id": "ds_213_der_kessel_mit_dem_schatz",
       "title": "The Kettle with the Treasure",
       "description": "A rising kettle of gold sinks back under the stove when a girl cries out in surprise instead of keeping silent."
     },
     {
       "kind": "play",
-      "id": "ds_213_der_waerwolf",
+      "id": "ds_214_der_waerwolf",
       "title": "The Werewolf",
       "description": "A logger transforms into a werewolf using a magic belt and devours a foal while his companion secretly watches."
     },
     {
       "kind": "play",
-      "id": "ds_214_der_waerwolf_stein",
+      "id": "ds_215_der_waerwolf_stein",
       "title": "The Werewolf Stone",
       "description": "A shepherd chases a mocking werewolf assistant who transforms into a thornbush before being struck down."
     },
     {
       "kind": "play",
-      "id": "ds_215_die_waerwoelfe_ziehen_aus",
+      "id": "ds_216_die_waerwoelfe_ziehen_aus",
       "title": "The Werewolves Set Out",
       "description": "A leader with a wire whip drives a horde of shape-shifted werewolves across parted waters to raid Livonian herds."
     },
     {
       "kind": "play",
-      "id": "ds_216_der_drache_faehrt_aus",
+      "id": "ds_217_der_drache_faehrt_aus",
       "title": "The Dragon Flies Out",
       "description": "A Swiss cooper survives the winter inside a deep pit with two dragons and escapes by holding onto a dragon's tail."
     },
     {
       "kind": "play",
-      "id": "ds_217_winkelried_und_der_lindwurm",
+      "id": "ds_218_winkelried_und_der_lindwurm",
       "title": "Winkelried and the Dragon",
       "description": "An exiled hero kills a devastating dragon using thorns but dies from the monster's toxic blood on his skin."
     },
     {
       "kind": "play",
-      "id": "ds_218_der_lindwurm_am_brunnen",
+      "id": "ds_219_der_lindwurm_am_brunnen",
       "title": "The Dragon at the Well",
       "description": "A knight defeats a well-guarding dragon but is killed when the monster's venomous tail stings his unarmored knee."
     },
     {
       "kind": "play",
-      "id": "ds_219_das_drachenloch",
+      "id": "ds_220_das_drachenloch",
       "title": "The Dragon's Cave",
       "description": "A count slays a giant dragon and retrieves his younger brother alive from the split belly of the monster."
     },
     {
       "kind": "play",
-      "id": "ds_220_schlangenkoenigin",
+      "id": "ds_221_schlangenkoenigin",
       "title": "The Snake Queen",
       "description": "A snake queen rewards a kind shepherd girl with a golden crown on her wedding day to bring her eternal wealth."
     },
     {
       "kind": "play",
-      "id": "ds_221_die_jungfrau_im_oselberg",
+      "id": "ds_222_die_jungfrau_im_oselberg",
       "title": "The Virgin of Oselberg",
       "description": "A cursed castle maiden appears as a ghost snake with a human head and key ring during the quarterly Ember days."
     },
     {
       "kind": "play",
-      "id": "ds_222_der_kroetenstuhl",
+      "id": "ds_223_der_kroetenstuhl",
       "title": "The Toad Stool",
       "description": "A proud cursed daughter appearing as a snake or toad must be kissed weekly on Nothweiler Castle to be redeemed."
     },
     {
       "kind": "play",
-      "id": "ds_223_die_wiesenjungfrau",
+      "id": "ds_224_die_wiesenjungfrau",
       "title": "The Meadow Maiden",
       "description": "A fearful shepherd boy thrice refuses to rescue a white meadow maiden who is cursed to wait for a cherrywood cradle."
     },
     {
       "kind": "play",
-      "id": "ds_224_das_niesen_im_wasser",
+      "id": "ds_225_das_niesen_im_wasser",
       "title": "The Sneezing in the Water",
       "description": "A spirit sneezing in the Auerbach is freed when a traveler blesses him but a curse falls on a cursing traveler."
     },
     {
       "kind": "play",
-      "id": "ds_225_die_arme_seele",
+      "id": "ds_226_die_arme_seele",
       "title": "The Poor Soul",
       "description": "A sneezing soul under a Paderborn bridge tips over any passing carriage whose driver fails to say a blessing."
     },
     {
       "kind": "play",
-      "id": "ds_226_die_verfluchte_jungfer",
+      "id": "ds_227_die_verfluchte_jungfer",
       "title": "The Cursed Maiden",
       "description": "A stubborn daughter cursed to dwell in an Eisenach cave can only be saved if a traveler blesses her when she sneezes."
     },
     {
       "kind": "play",
-      "id": "ds_227_das_fraeulein_vom_staufenberg",
+      "id": "ds_228_das_fraeulein_vom_staufenberg",
       "title": "The Maiden of Staufenberg",
       "description": "An enchanted castle maiden with golden curly hair periodically appears on a Harz mountain cliff bearing her footprint."
     },
     {
       "kind": "play",
-      "id": "ds_228_der_jungferstein",
+      "id": "ds_229_der_jungferstein",
       "title": "The Virgin's Stone",
       "description": "A daughter who gathers blueberries on Sunday instead of attending church is cursed by her mother and turns to stone."
     },
     {
       "kind": "play",
-      "id": "ds_229_das_steinerne_brautbett",
+      "id": "ds_230_das_steinerne_brautbett",
       "title": "The Stone Bridal Bed",
       "description": "A mother curses her disobedient daughter's bridal bed which turns to stone on her wedding night during a storm."
     },
     {
       "kind": "play",
-      "id": "ds_230_zum_stehen_verwuenscht",
+      "id": "ds_231_zum_stehen_verwuenscht",
       "title": "Cursed to Stand",
       "description": "An angry father curses his lazy son to stand in one spot for seven years wearing deep holes into the floorboards."
     },
     {
       "kind": "play",
-      "id": "ds_231_die_bauern_zu_kolbeck",
+      "id": "ds_232_die_bauern_zu_kolbeck",
       "title": "The Dancers of Kolbeck",
       "description": "Peasants mocking Christmas mass are cursed by a priest to dance for a whole year without stopping for food or rest."
     },
     {
       "kind": "play",
-      "id": "ds_232_der_heilige_sonntag",
+      "id": "ds_233_der_heilige_sonntag",
       "title": "The Holy Sunday",
       "description": "Spinnings on Sunday bring fire that consumes a home while a Sunday plowman has his tool grow directly into his hand."
     },
     {
       "kind": "play",
-      "id": "ds_233_frau_huett",
+      "id": "ds_234_frau_huett",
       "title": "Lady Huett",
       "description": "A giant queen is turned to stone after her servant abuses bread crumbs to wipe mud off her young son."
     },
     {
       "kind": "play",
-      "id": "ds_234_der_kindelsberg",
+      "id": "ds_235_der_kindelsberg",
       "title": "The Kindelsberg",
       "description": "Overproud knights are struck by the plague before a beautiful daughter is slain by a rejected black knight."
     },
     {
       "kind": "play",
-      "id": "ds_235_die_semmel_schuhe",
+      "id": "ds_236_die_semmel_schuhe",
       "title": "The Roll Shoes",
       "description": "A vain daughter who wears hollowed-out rolls as shoes to church sinks with her castle into the ground."
     },
     {
       "kind": "play",
-      "id": "ds_236_der_erdfall_bei_hochstaedt",
+      "id": "ds_237_der_erdfall_bei_hochstaedt",
       "title": "The Sinkhole near Hochstaedt",
       "description": "Angry boys who stomp and whip their bread are swallowed up by a sudden sinkhole while the innocent boy escapes."
     },
     {
       "kind": "play",
-      "id": "ds_237_die_brot_schuhe",
+      "id": "ds_238_die_brot_schuhe",
       "title": "The Bread Shoes",
       "description": "A grieving mother buries her child in shoes made of bread, whose spirit haunts her until they are replaced."
     },
     {
       "kind": "play",
-      "id": "ds_238_das_taube_korn",
+      "id": "ds_239_das_taube_korn",
       "title": "The Deaf Grain",
       "description": "A rich widow who dumps grain into the sea has her harbor blocked by a sandbank where only deaf grass grows."
     },
     {
       "kind": "play",
-      "id": "ds_239_der_frauensand",
+      "id": "ds_240_der_frauensand",
       "title": "The Lady's Sand",
       "description": "A proud maiden who wastes grain is ruined after a swallowed ring predicted her demise from starvation."
     },
     {
       "kind": "play",
-      "id": "ds_240_brot_zu_stein_geworden",
+      "id": "ds_241_brot_zu_stein_geworden",
       "title": "Bread Turned to Stone",
       "description": "Greedy and heartless people who refuse bread to the needy have their loaves miraculously turned to stone."
     },
     {
       "kind": "play",
-      "id": "ds_241_der_binger_maeusethurm",
+      "id": "ds_242_der_binger_maeusethurm",
       "title": "The Mouse Tower of Bingen",
       "description": "A cruel archbishop who burns starving peasants in a barn is chased and eaten alive by mice in a Rhine tower."
     },
     {
       "kind": "play",
-      "id": "ds_242_das_bubenried",
+      "id": "ds_243_das_bubenried",
       "title": "The Boys' Clearing",
       "description": "Two begging boys who refuse to share a small loaf of bread fight and beat each other to death with fence stakes."
     },
     {
       "kind": "play",
-      "id": "ds_243_kindelbrueck",
+      "id": "ds_244_kindelbrueck",
       "title": "Children's Bridge",
       "description": "A Thuringian town is named after two children who ride hobbyhorses on a bridge and drown in the river below."
     },
     {
       "kind": "play",
-      "id": "ds_244_die_kinder_zu_hameln",
+      "id": "ds_245_die_kinder_zu_hameln",
       "title": "The Children of Hameln",
       "description": "A strange piper lures Hamelin's rats into a river and later leads all the children away when citizens refuse pay."
     },
     {
       "kind": "play",
-      "id": "ds_245_der_rattenfaenger",
+      "id": "ds_246_der_rattenfaenger",
       "title": "The Rat Catcher",
       "description": "A miller takes a magic cane left by a rat catcher, causing all the rats in the village to follow him to his mill."
     },
     {
       "kind": "play",
-      "id": "ds_246_der_schlangenfaenger",
+      "id": "ds_247_der_schlangenfaenger",
       "title": "The Snake Catcher",
       "description": "A Salzburg sorcerer who boasts he can gather and destroy all snakes is coiled and dragged to his death by a giant one."
     },
     {
       "kind": "play",
-      "id": "ds_247_das_maeuselein",
+      "id": "ds_248_das_maeuselein",
       "title": "The Little Mouse",
       "description": "A sleeping maid dies after a curious bystander moves her body, preventing her soul mouse from returning."
     },
     {
       "kind": "play",
-      "id": "ds_248_der_ausgehende_rauch",
+      "id": "ds_249_der_ausgehende_rauch",
       "title": "The Departing Smoke",
       "description": "A master watches his maids send black smoke to press a stableboy and dies after shaking one during her sleep."
     },
     {
       "kind": "play",
-      "id": "ds_249_die_katze_aus_dem_weidenbaum",
+      "id": "ds_250_die_katze_aus_dem_weidenbaum",
       "title": "The Cat from the Willow Tree",
       "description": "Farmhands follow a maid who turns into a cat in a hollow willow tree, leaving her body lifeless until she returns."
     },
     {
       "kind": "play",
-      "id": "ds_250_wetter_und_hagel_machen",
+      "id": "ds_251_wetter_und_hagel_machen",
       "title": "Making Weather and Hail",
       "description": "Witches who attempt to freeze crops or call down hail are punished by local citizens or fail in their magic."
     },
     {
       "kind": "play",
-      "id": "ds_251_der_hexen_tanz",
+      "id": "ds_252_der_hexen_tanz",
       "title": "The Witches' Dance",
       "description": "A whistling boy who climbs a tree to play for a witch gathering invokes God's name, causing them all to vanish."
     },
     {
       "kind": "play",
-      "id": "ds_252_die_weinreben_und_nasen",
+      "id": "ds_253_die_weinreben_und_nasen",
       "title": "The Grapevines and Noses",
       "description": "A court illusionist tricks his dinner guests into holding their own noses with knives, believing they cut grapes."
     },
     {
       "kind": "play",
-      "id": "ds_253_fest_haengen",
+      "id": "ds_254_fest_haengen",
       "title": "Hanging Fast",
       "description": "A Magdeburg crowd watches a magician and his household climb a rope into the sky, while he walks back to his inn."
     },
     {
       "kind": "play",
-      "id": "ds_254_das_noth_hemd",
+      "id": "ds_255_das_noth_hemd",
       "title": "The Emergency Shirt",
       "description": "A magic linen shirt spun by two innocent young girls on Christmas Eve protects its wearer from all battle wounds."
     },
     {
       "kind": "play",
-      "id": "ds_255_fest_gemacht",
+      "id": "ds_256_fest_gemacht",
       "title": "Made Bulletproof",
       "description": "Soldiers who know the art of invulnerability ward off all bullets or shake them unharmed from their sleeves."
     },
     {
       "kind": "play",
-      "id": "ds_256_der_sichere_schuss",
+      "id": "ds_257_der_sichere_schuss",
       "title": "The Sure Shot",
       "description": "A magic marksman is able to hit any named target within range, even if he fires at random through a window."
     },
     {
       "kind": "play",
-      "id": "ds_257_der_herumziehende_jaeger",
+      "id": "ds_258_der_herumziehende_jaeger",
       "title": "The Wandering Hunter",
       "description": "A mysterious hunter puts an end to a series of phantom sniper killings in a haunted forest."
     },
     {
       "kind": "play",
-      "id": "ds_258_doppelte_gestalt",
+      "id": "ds_259_doppelte_gestalt",
       "title": "Double Form",
       "description": "A sick nobleman is tricked by a traveler into accusing his honest neighbor of witchcraft through a phantom double."
     },
     {
       "kind": "play",
-      "id": "ds_259_gespenst_als_eheweib",
+      "id": "ds_260_gespenst_als_eheweib",
       "title": "The Spectre Wife",
       "description": "A nobleman is plagued by a phantom that perfectly mirrors his wife and follows them through every house."
     },
     {
       "kind": "play",
-      "id": "ds_260_tod_des_erstgebornen",
+      "id": "ds_261_tod_des_erstgebornen",
       "title": "Death of the Firstborn",
       "description": "An innocent nurse is executed for suffocating a baby and leaves behind a curse on the family's firstborn sons."
     },
     {
       "kind": "play",
-      "id": "ds_261_der_knabe_zu_colmar",
+      "id": "ds_262_der_knabe_zu_colmar",
       "title": "The Boy of Colmar",
       "description": "A clairvoyant boy senses a hidden skeleton in a garden and slowly wastes away from his terrifying visions."
     },
     {
       "kind": "play",
-      "id": "ds_262_tod_des_domherrn_zu_merseburg",
+      "id": "ds_263_tod_des_domherrn_zu_merseburg",
       "title": "Death of the Canon of Merseburg",
       "description": "A mysterious thunderous blow strikes a canon's seat in Merseburg Cathedral three weeks before his death."
     },
     {
       "kind": "play",
-      "id": "ds_263_die_lilie_im_kloster_zu_corvei",
+      "id": "ds_264_die_lilie_im_kloster_zu_corvei",
       "title": "The Lily in the Monastery of Corvey",
       "description": "A warning lily descending onto a monk's seat in Corvey Abbey leads to the sudden death of a young mock monk."
     },
     {
       "kind": "play",
-      "id": "ds_264_rebundus_im_dom_zu_luebeck",
+      "id": "ds_265_rebundus_im_dom_zu_luebeck",
       "title": "Rebundus in the Cathedral of Lubeck",
       "description": "A Lubeck canon tries to pass a death warning rose to his neighbor, resulting in a curse that shakes his tomb."
     },
     {
       "kind": "play",
-      "id": "ds_265_glocke_laeutet_von_selbst",
+      "id": "ds_266_glocke_laeutet_von_selbst",
       "title": "The Bell Tolls by Itself",
       "description": "Self-tolling church and house bells warn citizens of a town of their impending death or that of their loved ones."
     },
     {
       "kind": "play",
-      "id": "ds_266_todes_gespenst",
+      "id": "ds_267_todes_gespenst",
       "title": "The Spectre of Death",
       "description": "A shapeshifting spectre in Tyrol peers through windows to signal the imminent death of those residing within."
     },
     {
       "kind": "play",
-      "id": "ds_267_frau_berta_oder_die_weisse_frau",
+      "id": "ds_268_frau_berta_oder_die_weisse_frau",
       "title": "Frau Berta or the White Lady",
       "description": "The ghostly White Lady of Neuhaus signals the imminent death or joy of several noble families she visits."
     },
     {
       "kind": "play",
-      "id": "ds_268_die_wilde_berta_kommt",
+      "id": "ds_269_die_wilde_berta_kommt",
       "title": "The Wild Berta is Coming",
       "description": "The terrifying wild Berta punishes girls who fail to spin their flax by cutting open their bellies."
     },
     {
       "kind": "play",
-      "id": "ds_269_der_tuerst_das_posterli_und_die_straeggele",
+      "id": "ds_270_der_tuerst_das_posterli_und_die_straeggele",
       "title": "The Tuerst, the Posterli and the Straeggele",
       "description": "Lucerne forest storms and winter solstice spirits chase girls who have not finished their daily spinning work."
     },
     {
       "kind": "play",
-      "id": "ds_270_der_nachtjaeger_und_die_ruettelweiber",
+      "id": "ds_271_der_nachtjaeger_und_die_ruettelweiber",
       "title": "The Night Hunter and the Ruettelweiber",
       "description": "The mythical Night Hunter of the Giant Mountains pursues small moss-clothed spirits fleeing through the woods."
     },
     {
       "kind": "play",
-      "id": "ds_271_der_mann_mit_dem_schlackhut",
+      "id": "ds_272_der_mann_mit_dem_schlackhut",
       "title": "The Man with the Slouch Hat",
       "description": "A bearded ghost in a slouch hat visits an old woman in a ruined castle and silently smokes a pipe at her table."
     },
     {
       "kind": "play",
-      "id": "ds_272_der_graue_hockelmann",
+      "id": "ds_273_der_graue_hockelmann",
       "title": "The Gray Hockelmann",
       "description": "A grey ghost forces an Auerbach farmer to carry him up to the castle hill, leading to the farmer's fatal exhaustion."
     },
     {
       "kind": "play",
-      "id": "ds_273_chimmeke_in_pommern",
+      "id": "ds_274_chimmeke_in_pommern",
       "title": "Chimmeke in Pomerania",
       "description": "The Pomeranian house spirit Chimmeke chops up a kitchen boy in Schloss Lonz for eating his daily milk offering."
     },
     {
       "kind": "play",
-      "id": "ds_274_der_krischer",
+      "id": "ds_275_der_krischer",
       "title": "The Screecher",
       "description": "A shapeshifting forest ghost mimicking animal cries terrifies local shepherds and leads travelers astray."
     },
     {
       "kind": "play",
-      "id": "ds_275_die_ueberschiffenden_moenche",
+      "id": "ds_276_die_ueberschiffenden_moenche",
       "title": "The Ferrying Monks",
       "description": "Ghostly monks cross the Rhine in Speyer, beating a fisherman during a storm before flying away in a fiery cart."
     },
     {
       "kind": "play",
-      "id": "ds_276_der_irrwisch",
+      "id": "ds_277_der_irrwisch",
       "title": "The Will-o'-the-Wisp",
       "description": "A will-o-the-wisp follows a mocking girl into her parents' home and beats the family with its fiery wings."
     },
     {
       "kind": "play",
-      "id": "ds_277_der_feurige_wagen",
+      "id": "ds_278_der_feurige_wagen",
       "title": "The Fiery Carriage",
       "description": "A watchman in Odenwald encounters two horrific fiery carriages carrying ghosts with flames shooting from their mouths."
     },
     {
       "kind": "play",
-      "id": "ds_278_der_raederberg",
+      "id": "ds_279_der_raederberg",
       "title": "The Raederberg",
       "description": "A Nassau butcher enters a ghostly mansion, drinks a third cup from three monks, and dies three days later."
     },
     {
       "kind": "play",
-      "id": "ds_279_die_lichter_auf_hellebarden",
+      "id": "ds_280_die_lichter_auf_hellebarden",
       "title": "The Lights on Halberds",
       "description": "Brushing a warning light off a pitchfork three times results in a fatal duel between two close farmer friends."
     },
     {
       "kind": "play",
-      "id": "ds_280_das_wafeln",
+      "id": "ds_281_das_wafeln",
       "title": "The Wafeln",
       "description": "Baltic Sea people witness glowing apparitions of ships, houses, and people warning of their impending doom."
     },
     {
       "kind": "play",
-      "id": "ds_281_weberndes_flammen_schloss",
+      "id": "ds_282_weberndes_flammen_schloss",
       "title": "The Hovering Castle of Flames",
       "description": "A brave Tyrolean nobleman climbs a cursed mountain to explore a fiery castle and is abducted by a black rider."
     },
     {
       "kind": "play",
-      "id": "ds_282_der_feuerberg",
+      "id": "ds_283_der_feuerberg",
       "title": "The Fire Mountain",
       "description": "A guide leads a shepherd into the fiery Feuerberg where a deceased debtor count hands him a proof of his damnation."
     },
     {
       "kind": "play",
-      "id": "ds_283_der_feurige_mann",
+      "id": "ds_284_der_feurige_mann",
       "title": "The Fiery Man",
       "description": "A transparent fiery man walking between boundary stones and spitting fire from his mouth terrifies the local villagers."
     },
     {
       "kind": "play",
-      "id": "ds_284_die_verwuenschten_landmesser",
+      "id": "ds_285_die_verwuenschten_landmesser",
       "title": "The Cursed Land Surveyors",
       "description": "Deceitful land surveyors are cursed to wander after death as will-o-the-wisps guarding the borders they manipulated."
     },
     {
       "kind": "play",
-      "id": "ds_285_der_verrueckte_grenzstein",
+      "id": "ds_286_der_verrueckte_grenzstein",
       "title": "The Displaced Boundary Stone",
       "description": "The ghost of a fraudulent nobleman touches a girl on her breast, turning it black and causing her death in three days."
     },
     {
       "kind": "play",
-      "id": "ds_286_der_grenzstreit",
+      "id": "ds_287_der_grenzstreit",
       "title": "The Boundary Dispute",
       "description": "Villagers resolve a land border dispute by tracking a crawfish walking across a field to place their boundary stones."
     },
     {
       "kind": "play",
-      "id": "ds_287_der_graenzlauf",
+      "id": "ds_288_der_graenzlauf",
       "title": "The Boundary Run",
       "description": "Uri and Glarus runners compete in a boundary race started by rooster crows, ending in a Glarner runner carrying Uri."
     },
     {
       "kind": "play",
-      "id": "ds_288_die_alpschlacht",
+      "id": "ds_289_die_alpschlacht",
       "title": "The Battle of the Alp",
       "description": "Entlebuch shepherds silently steal Obwalden cattle by removing their cowbells and win the subsequent armed conflict."
     },
     {
       "kind": "play",
-      "id": "ds_289_der_stein_bei_wenthusen",
+      "id": "ds_290_der_stein_bei_wenthusen",
       "title": "The Stone near Wenthusen",
       "description": "A cursed monastery stone brings severe misfortune to any owner who dares to move it from its designated place."
     },
     {
       "kind": "play",
-      "id": "ds_290_die_altenberger_kirche",
+      "id": "ds_291_die_altenberger_kirche",
       "title": "The Altenberg Church",
       "description": "Altenberg villagers fail to move a mountaintop church down to the valley as its stones return uphill every night."
     },
     {
       "kind": "play",
-      "id": "ds_291_der_koenig_im_lauenburger_berg",
+      "id": "ds_292_der_koenig_im_lauenburger_berg",
       "title": "The King in the Lauenburg Mountain",
       "description": "Two condemned criminals descend into a Kashubian abyss and find a hidden garden and a king sitting on a silver chair."
     },
     {
       "kind": "play",
-      "id": "ds_292_der_schwanberg",
+      "id": "ds_293_der_schwanberg",
       "title": "The Schwanberg",
       "description": "An ancient German prophecy foretells that Germany will eventually be absorbed entirely into Switzerland."
     },
     {
       "kind": "play",
-      "id": "ds_293_der_robbedisser_brunnen",
+      "id": "ds_294_der_robbedisser_brunnen",
       "title": "The Well of Robbedissen",
       "description": "A spring, a black ground, and a giant poplar tree warn local villagers of an impending bloody battle in the field."
     },
     {
       "kind": "play",
-      "id": "ds_294_bamberger_wage",
+      "id": "ds_295_bamberger_wage",
       "title": "The Bamberg Scales",
       "description": "A rumor warns that when the tilted tongue of the scale of Justice in Bamberg becomes balanced, the world will end."
     },
     {
       "kind": "play",
-      "id": "ds_295_kaiser_friedrich_zu_kaiserslautern",
+      "id": "ds_296_kaiser_friedrich_zu_kaiserslautern",
       "title": "Emperor Frederick at Kaiserslautern",
       "description": "A man let down on a rope into a deep cave encounters Emperor Frederick sitting on a golden throne with his knights."
     },
     {
       "kind": "play",
-      "id": "ds_296_der_hirt_auf_dem_kiffhaeuser",
+      "id": "ds_297_der_hirt_auf_dem_kiffhaeuser",
       "title": "The Shepherd on the Kyffhaeuser",
       "description": "A Thuringian shepherd plays his bagpipe for Emperor Frederick on a mountain and is rewarded with a golden vessel leg."
     },
     {
       "kind": "play",
-      "id": "ds_297_die_drei_telle",
+      "id": "ds_298_die_drei_telle",
       "title": "The Three Tells",
       "description": "Three legendary Swiss liberators sleep in a hidden cave, briefly waking to ask a shepherd if the time has come."
     },
     {
       "kind": "play",
-      "id": "ds_298_das_bergmaennchen",
+      "id": "ds_299_das_bergmaennchen",
       "title": "The Mountain Dwarf",
       "description": "Swiss mountain dwarves reward a plowing shepherd and his servant with a tablecloth and a plate of fresh cake."
     },
     {
       "kind": "play",
-      "id": "ds_299_die_zirbelnuesse",
+      "id": "ds_300_die_zirbelnuesse",
       "title": "The Swiss Stone Pine Nuts",
       "description": "A master curses the sweet Swiss pine nut trees to grow only on precipitous cliffs, punishing lazy servants."
     },
     {
       "kind": "play",
-      "id": "ds_300_das_paradies_der_thiere",
+      "id": "ds_301_das_paradies_der_thiere",
       "title": "The Paradise of the Animals",
       "description": "A hidden valley high on the Mattenberg serves as a sanctuary for animals, accessible only once every twenty years."
     },
     {
       "kind": "play",
-      "id": "ds_301_der_gemsjaeger",
+      "id": "ds_302_der_gemsjaeger",
       "title": "The Chamois Hunter",
       "description": "A mountain dwarf promises a hunter weekly chamois meat, but kills him when the hunter breaks the pact to hunt again."
     },
     {
       "kind": "play",
-      "id": "ds_302_die_zwergloecher",
+      "id": "ds_303_die_zwergloecher",
       "title": "The Dwarf Holes",
       "description": "Helpful Harz dwarves lend wedding kitchen utensils to local villagers from their rock cave, demanding timely returns."
     },
     {
       "kind": "play",
-      "id": "ds_303_der_zwerg_und_die_wunderblume",
+      "id": "ds_304_der_zwerg_und_die_wunderblume",
       "title": "The Dwarf and the Magic Flower",
       "description": "A shepherd finds a magic flower on the Kyffhäuser, enters a vault of gold, but loses the flower forever."
     },
     {
       "kind": "play",
-      "id": "ds_304_der_nix_an_der_kelle",
+      "id": "ds_305_der_nix_an_der_kelle",
       "title": "The Nix at the Kelle",
       "description": "A midwife delivers a water sprite's baby in a lake cave but later sees a bloody stream representing the child's murder."
     },
     {
       "kind": "play",
-      "id": "ds_305_schwarzach",
+      "id": "ds_306_schwarzach",
       "title": "Schwarzach",
       "description": "A knight tastes a forbidden water drink and sinks into a lake where his daughter is held captive by a giant snake."
     },
     {
       "kind": "play",
-      "id": "ds_306_die_drei_jungfern_aus_dem_see",
+      "id": "ds_307_die_drei_jungfern_aus_dem_see",
       "title": "The Three Maidens from the Lake",
       "description": "A youth sets the village clock back to keep three lake maidens longer, leading to their tragic deaths in the water."
     },
     {
       "kind": "play",
-      "id": "ds_307_der_todte_braeutigam",
+      "id": "ds_308_der_todte_braeutigam",
       "title": "The Dead Bridegroom",
       "description": "A magician offers to rescue a drowned bridegroom from a Magdeburg nix in exchange for the couple's souls."
     },
     {
       "kind": "play",
-      "id": "ds_308_der_ewige_jaeger",
+      "id": "ds_309_der_ewige_jaeger",
       "title": "The Eternal Hunter",
       "description": "Graf Eberhard encounters a lord cursed to hunt the same stag for centuries with a face dried up like a sponge."
     },
     {
       "kind": "play",
-      "id": "ds_309_hans_jagenteufel",
+      "id": "ds_310_hans_jagenteufel",
       "title": "Hans Jagenteufel",
       "description": "A Dresden woman meets a headless horseman holding his own head who warns her to repent of her sins."
     },
     {
       "kind": "play",
-      "id": "ds_310_des_hackelnberg_traum",
+      "id": "ds_311_des_hackelnberg_traum",
       "title": "Hackelnberg's Dream",
       "description": "A Brunswick master hunter kills a boar from his prophetic dream but dies from a wound caused by kicking its tusk."
     },
     {
       "kind": "play",
-      "id": "ds_311_die_tut_osel",
+      "id": "ds_312_die_tut_osel",
       "title": "The Screech Owl",
       "description": "A howling Thuringian nun is banished as an owl to the Harz where she joins the wild hunt of Hackelnberg."
     },
     {
       "kind": "play",
-      "id": "ds_312_die_schwarzen_reuter_und_das_handpferd",
+      "id": "ds_313_die_schwarzen_reuter_und_das_handpferd",
       "title": "The Black Riders and the Led Horse",
       "description": "A robber knight's servant learns from a black rider of the Wild Hunt that he will die and ride their empty horse."
     },
     {
       "kind": "play",
-      "id": "ds_313_der_getreu_eckhart",
+      "id": "ds_314_der_getreu_eckhart",
       "title": "The Faithful Eckhart",
       "description": "The Faithful Eckhart leads the spectral Wild Hunt on Fat Tuesday, warning onlookers to clear the way for safety."
     },
     {
       "kind": "play",
-      "id": "ds_314_das_fraeulein_vom_willberg",
+      "id": "ds_315_das_fraeulein_vom_willberg",
       "title": "The Lady of Willberg",
       "description": "A man uses a magic bouquet to enter a mountain cave of gold but forgets it, turning his treasures to paper."
     },
     {
       "kind": "play",
-      "id": "ds_315_der_schaefer_und_der_alte_aus_dem_berg",
+      "id": "ds_316_der_schaefer_und_der_alte_aus_dem_berg",
       "title": "The Shepherd and the Old Man from the Mountain",
       "description": "An old man shows a shepherd a cave of treasures that remains open only if the mortal leaves his gloves inside."
     },
     {
       "kind": "play",
-      "id": "ds_316_jungfrau_ilse",
+      "id": "ds_317_jungfrau_ilse",
       "title": "Maiden Ilse",
       "description": "A cursed princess of Ilsenstein gives a charcoal burner a satchel of gold disguised as acorns and pinecones."
     },
     {
       "kind": "play",
-      "id": "ds_317_die_heiden_jungfrau_zu_glatz",
+      "id": "ds_318_die_heiden_jungfrau_zu_glatz",
       "title": "The Pagan Maiden of Glatz",
       "description": "A Silesian pagan princess with magical strength is walled up after committing incest and haunts those who mock her."
     },
     {
       "kind": "play",
-      "id": "ds_318_der_rosstrapp_und_der_cretpfuhl",
+      "id": "ds_319_der_rosstrapp_und_der_cretpfuhl",
       "title": "The Rosstrapp and the Cretpfuhl",
       "description": "A princess leaps across a Harz abyss to escape a giant, leaving a hoofprint and dropping her golden crown."
     },
     {
       "kind": "play",
-      "id": "ds_319_der_maegdesprung",
+      "id": "ds_320_der_maegdesprung",
       "title": "The Maiden's Leap",
       "description": "A giantess scoops up a ploughman and leaps across the Selke Valley, leaving her footprints pressed into the rock."
     },
     {
       "kind": "play",
-      "id": "ds_320_der_jungfernsprung",
+      "id": "ds_321_der_jungfernsprung",
       "title": "The Maiden's Leap",
       "description": "A maiden flees a lustful monk at Oybin monastery and leaps off a cliff, saved from injury by descending angels."
     },
     {
       "kind": "play",
-      "id": "ds_321_der_harrassprung",
+      "id": "ds_322_der_harrassprung",
       "title": "Harras's Leap",
       "description": "A knight leaps off a steep cliff into the Zschopau valley to escape enemies, surviving while his horse is killed."
     },
     {
       "kind": "play",
-      "id": "ds_322_der_riese_hidde",
+      "id": "ds_323_der_riese_hidde",
       "title": "The Giant Hidde",
       "description": "A giant forest warden presents lion cubs as wolves to his duke and is rewarded with lands that become Hitzacker."
     },
     {
       "kind": "play",
-      "id": "ds_323_das_ilefelder_nadeloehr",
+      "id": "ds_324_das_ilefelder_nadeloehr",
       "title": "The Ilfeld Needle-Eye",
       "description": "A giant drops a stone that pinched his shoe, which becomes a narrow tunnel used for stableboy initiation rites."
     },
     {
       "kind": "play",
-      "id": "ds_324_die_riesen_zu_lichtenberg",
+      "id": "ds_325_die_riesen_zu_lichtenberg",
       "title": "The Giants at Lichtenberg",
       "description": "A giantess scoops up a human farmer with his plough and oxen to show her husband at Castle Lichtenberg."
     },
     {
       "kind": "play",
-      "id": "ds_325_das_huehnenblut",
+      "id": "ds_326_das_huehnenblut",
       "title": "The Giant's Blood",
       "description": "A giant jumping over Westeregeln nicks his toe on a church spire, creating a red pool of giant blood."
     },
     {
       "kind": "play",
-      "id": "ds_326_es_rauscht_im_huehnen_grab",
+      "id": "ds_327_es_rauscht_im_huehnen_grab",
       "title": "Rustling in the Giant's Grave",
       "description": "Stonecutters digging up giant graves in Pomerania flee after hearing a spooky rustling of keys around them."
     },
     {
       "kind": "play",
-      "id": "ds_327_todte_aus_den_graebern_wehren_dem_feind",
+      "id": "ds_328_todte_aus_den_graebern_wehren_dem_feind",
       "title": "Dead Men from the Graves Fight off the Enemy",
       "description": "Dead ancestors rise from their graves in Wehrstedt to defend their children from a pagan invasion."
     },
     {
       "kind": "play",
-      "id": "ds_328_hans_heilings_felsen",
+      "id": "ds_329_hans_heilings_felsen",
       "title": "Hans Heiling's Rocks",
       "description": "Hans Heiling makes a pact with the devil to turn a wedding party to stone after the bride rejects him."
     },
     {
       "kind": "play",
-      "id": "ds_329_die_jungfrau_mit_dem_bart",
+      "id": "ds_330_die_jungfrau_mit_dem_bart",
       "title": "The Virgin with the Beard",
       "description": "A princess grows a beard to protect her vow of chastity, is crucified, and drops her slipper to a minstrel."
     },
     {
       "kind": "play",
-      "id": "ds_330_die_weisse_jungfrau_zu_schwanau",
+      "id": "ds_331_die_weisse_jungfrau_zu_schwanau",
       "title": "The White Virgin of Schwanau",
       "description": "The ghost of a disgraced girl pursues a cruel Vogt around Castle Schwanau until he drowns in the lake."
     },
     {
       "kind": "play",
-      "id": "ds_331_schwarzkopf_und_seeburg_am_mummel_see",
+      "id": "ds_332_schwarzkopf_und_seeburg_am_mummel_see",
       "title": "Schwarzkopf and Seeburg at Lake Mummel",
       "description": "Twelve sisters avenge their brother by killing twelve robber barons, leading to their tragic end in Mummelsee."
     },
     {
       "kind": "play",
-      "id": "ds_332_der_kraemer_und_die_maus",
+      "id": "ds_333_der_kraemer_und_die_maus",
       "title": "The Peddler and the Mouse",
       "description": "A kind peddler sharing bread with a mouse is rewarded with gold coins, leading to the construction of a church."
     },
     {
       "kind": "play",
-      "id": "ds_333_die_drei_schatzgraeber",
+      "id": "ds_334_die_drei_schatzgraeber",
       "title": "The Three Treasure Diggers",
       "description": "Three craftsmen attempting to dig up a church treasure near Erfurt are killed by the guarding evil spirit."
     },
     {
       "kind": "play",
-      "id": "ds_334_einladung_vor_gottes_gericht",
+      "id": "ds_335_einladung_vor_gottes_gericht",
       "title": "Invitation Before God's Court",
       "description": "A nobleman mockingly invites hanged thieves to dinner, leading to a chilling prophecy and his own execution."
     },
     {
       "kind": "play",
-      "id": "ds_335_gaeste_vom_galgen",
+      "id": "ds_336_gaeste_vom_galgen",
       "title": "Guests from the Gallows",
       "description": "An innkeeper drunkenly invites three hanged men to dine, receives a terrifying visit, and dies three days later."
     },
     {
       "kind": "play",
-      "id": "ds_336_teufels_bruecke",
+      "id": "ds_337_teufels_bruecke",
       "title": "Devil's Bridge",
       "description": "A shepherd tricks the devil into building a bridge across the Reuss by sending a chamois across it first."
     },
     {
       "kind": "play",
-      "id": "ds_337_die_zwoelf_johannesse",
+      "id": "ds_338_die_zwoelf_johannesse",
       "title": "The Twelve Johns",
       "description": "The devil takes one of the king's twelve Johns every year as a toll from their flying magic disk."
     },
     {
       "kind": "play",
-      "id": "ds_338_teufels_graben",
+      "id": "ds_339_teufels_graben",
       "title": "Devil's Ditch",
       "description": "A farmer accepts the devil's help to dig a ditch, but the seven helper workers pay with their lives."
     },
     {
       "kind": "play",
-      "id": "ds_339_der_kreuzliberg",
+      "id": "ds_340_der_kreuzliberg",
       "title": "The Kreuzliberg",
       "description": "A princess is turned to stone by mountain spirits but is later redeemed by a holy image."
     },
     {
       "kind": "play",
-      "id": "ds_340_die_pferde_aus_dem_bodenloch",
+      "id": "ds_341_die_pferde_aus_dem_bodenloch",
       "title": "The Horses from the Loft Hole",
       "description": "A mayor's resurrected wife is let inside only after his white horses miraculously climb to the hayloft."
     },
     {
       "kind": "play",
-      "id": "ds_341_zusammenkunft_der_todten",
+      "id": "ds_342_zusammenkunft_der_todten",
       "title": "Meeting of the Dead",
       "description": "A captain witnesses the ghost of a dying mistress of the robes visiting a deceased queen at midnight."
     },
     {
       "kind": "play",
-      "id": "ds_342_das_weissagende_voeglein",
+      "id": "ds_343_das_weissagende_voeglein",
       "title": "The Prophetic Bird",
       "description": "A tiny white bird on an oak tree gives Barbara Sellentius a prophecy for the Duke of Pomerania."
     },
     {
       "kind": "play",
-      "id": "ds_343_der_ewige_jud_auf_dem_matterhorn",
+      "id": "ds_344_der_ewige_jud_auf_dem_matterhorn",
       "title": "The Wandering Jew on the Matterhorn",
       "description": "The Wandering Jew visits a city on the Matterberg and foretells its transformation into snow and ice."
     },
     {
       "kind": "play",
-      "id": "ds_344_der_kessel_mit_butter",
+      "id": "ds_345_der_kessel_mit_butter",
       "title": "The Kettle of Butter",
       "description": "A selfish woman refuses to share butter with God in disguise, leading to the burial of her entire village."
     },
     {
       "kind": "play",
-      "id": "ds_345_trauer_weide",
+      "id": "ds_346_trauer_weide",
       "title": "The Weeping Willow",
       "description": "The weeping willow hangs its branches to the earth in eternal mourning for being used to scourge Christ."
     },
     {
       "kind": "play",
-      "id": "ds_346_das_christus_bild_zu_wittenberg",
+      "id": "ds_347_das_christus_bild_zu_wittenberg",
       "title": "The Christ Image at Wittenberg",
       "description": "A miraculous image of Christ in Wittenberg always appears exactly one inch taller than the viewer."
     },
     {
       "kind": "play",
-      "id": "ds_347_das_muttergottes_bild_am_felsen",
+      "id": "ds_348_das_muttergottes_bild_am_felsen",
       "title": "The Mother of God Image on the Cliff",
       "description": "A desecrated image of Mary flees to a high cliff and turns rescue ropes as thin as hair to prevent removal."
     },
     {
       "kind": "play",
-      "id": "ds_348_das_gnadenbild_aus_dem_lerchenstock_zu_waldrast",
+      "id": "ds_349_das_gnadenbild_aus_dem_lerchenstock_zu_waldrast",
       "title": "The Miraculous Image from the Larch Trunk at Waldrast",
       "description": "An angel commands a larch trunk to grow an image of Mary, and a woodcutter is chosen by a voice to build a chapel."
     },
     {
       "kind": "play",
-      "id": "ds_349_ochsen_zeigen_die_heilige_staette",
+      "id": "ds_350_ochsen_zeigen_die_heilige_staette",
       "title": "Oxen Show the Holy Site",
       "description": "A community uses yoked oxen to locate the divinely chosen site for building Saint Stephen church."
     },
     {
       "kind": "play",
-      "id": "ds_350_notburga",
+      "id": "ds_351_notburga",
       "title": "Notburga",
       "description": "Princess Notburga escapes a forced marriage by riding a white stag across the Neckar to live in a cave."
     },
     {
       "kind": "play",
-      "id": "ds_351_mauerkalk_mit_wein_geloescht",
+      "id": "ds_352_mauerkalk_mit_wein_geloescht",
       "title": "Mortar Slaked with Wine",
       "description": "Emperor Friedrich the Third orders citizens to use extremely sour wine to slake mortar for building Saint Stephen."
     },
     {
       "kind": "play",
-      "id": "ds_352_der_judenstein",
+      "id": "ds_353_der_judenstein",
       "title": "The Jew's Stone",
       "description": "A poor father sells his child to murderers for money that turns into dry leaves after the child is killed."
     },
     {
       "kind": "play",
-      "id": "ds_353_das_von_den_juden_getoedtete_maegdlein",
+      "id": "ds_354_das_von_den_juden_getoedtete_maegdlein",
       "title": "The Little Girl Killed by the Jews",
       "description": "A murdered girl raises her hand from a river to expose her killers, whose guilt is proven as her wounds bleed."
     },
     {
       "kind": "play",
-      "id": "ds_354_die_vier_hufeisen",
+      "id": "ds_355_die_vier_hufeisen",
       "title": "The Four Horseshoes",
       "description": "Count Ernst of Klettenberg rides his horse into a church during vespers, causing the horseshoes to fall off."
     },
     {
       "kind": "play",
-      "id": "ds_355_der_altar_zu_seefeld",
+      "id": "ds_356_der_altar_zu_seefeld",
       "title": "The Altar at Seefeld",
       "description": "A proud knight sinks into the church floor after demanding a larger host, while roses bloom from a dry stock."
     },
     {
       "kind": "play",
-      "id": "ds_356_der_sterbensstein",
+      "id": "ds_357_der_sterbensstein",
       "title": "The Stone of Dying",
       "description": "A victim of a murder in the Kirchetbuel gorge leaves a permanent handprint pressed into a solid stone."
     },
     {
       "kind": "play",
-      "id": "ds_357_suendliche_liebe",
+      "id": "ds_358_suendliche_liebe",
       "title": "Sinful Love",
       "description": "A brother and sister commit incest and are decapitated by the devil, leaving a headless mark on their gravestone."
     },
     {
       "kind": "play",
-      "id": "ds_358_der_schweidnitzer_rathsmann",
+      "id": "ds_359_der_schweidnitzer_rathsmann",
       "title": "The Councilor of Schweidnitz",
       "description": "A greedy councilor trains a jackdaw to steal coins from the treasury and dies starving on a high tower ledge."
     },
     {
       "kind": "play",
-      "id": "ds_359_regenbogen_ueber_verurtheilten",
+      "id": "ds_360_regenbogen_ueber_verurtheilten",
       "title": "Rainbow over the Condemned",
       "description": "A double rainbow appears over Prague to comfort twenty-seven men condemned to death for their part in a revolt."
     },
     {
       "kind": "play",
-      "id": "ds_360_gott_weint_mit_dem_unschuldigen",
+      "id": "ds_361_gott_weint_mit_dem_unschuldigen",
       "title": "God Weeps with the Innocent",
       "description": "A rain shower falls from a clear blue sky to witness the innocence of an accused woman at her execution site."
     },
     {
       "kind": "play",
-      "id": "ds_361_gottes_speise",
+      "id": "ds_362_gottes_speise",
       "title": "God's Food",
       "description": "A boy lost in a snowstorm is protected from the cold and fed by a mysterious messenger sent from heaven."
     },
