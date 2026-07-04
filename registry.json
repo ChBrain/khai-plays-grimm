@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.845.0",
+  "version": "0.850.0",
   "plays": [
     {
       "kind": "play",
@@ -32,6 +32,36 @@
       "id": "dm_005_sacred_places",
       "title": "Sacred Places",
       "description": "Natural loci of worship: sacred groves, hills, and wells."
+    },
+    {
+      "kind": "play",
+      "id": "dm_006_priests",
+      "title": "Priests",
+      "description": "Mediators and holy men, modeling the priestly and prophetic roles in Germanic antiquity."
+    },
+    {
+      "kind": "play",
+      "id": "dm_007_gods",
+      "title": "Gods",
+      "description": "The pagan pantheon in general, modeling the divine community and its attributes."
+    },
+    {
+      "kind": "play",
+      "id": "dm_008_wuotan",
+      "title": "Wuotan",
+      "description": "Wuotan, Wodan, Odin: the supreme deity and leader of the wild hunt."
+    },
+    {
+      "kind": "play",
+      "id": "dm_009_donar",
+      "title": "Donar",
+      "description": "Donar, Thonar, Thor: the thunder-lord and protector of Midgard."
+    },
+    {
+      "kind": "play",
+      "id": "dm_010_tiu",
+      "title": "Tiu",
+      "description": "Tiu, Zio, Tyr: the sword-god and lord of the assembly."
     },
     {
       "kind": "play",
