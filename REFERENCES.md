@@ -1,48 +1,52 @@
 ---
-updated: "2026-06-06"
+updated: "2026-07-04"
 ---
 
 # Grimm House: Reference
 
 ## Line of Work
 
-Staging the complete collection of Children's and Household Tales (Kinder- und Hausmärchen) by the Brothers Grimm (KHM 1 - KHM 210) as **systemic systems**: modeling the mechanical, moral, and transformative contracts, covenants, and trials of folklore. The house does not stage these works as simple moral fables or sanitised fairy tales; it represents them as strict sequences of causality, where oaths, taboos, and physical metamorphoses operate under precise, system-wide rules.
+Staging the complete corpus of the Brothers Grimm as **systemic systems**: modeling the mechanical, moral, and transformative contracts, covenants, and trials of folklore and mythology. The house represents these works as strict sequences of causality, where oaths, taboos, and metamorphoses operate under precise, system-wide rules.
 
-The scope of this house covers the entire canonical collection:
+The scope of this house covers five canonical collections:
 
-- **Canonical Tales**: KHM 001 to KHM 210, encompassing classic tales of transformation, tests of character, and pacts with supernatural entities.
-- **Pilot & Completed Staged Productions**:
-  - _Der Froschkönig oder der eiserne Heinrich_ (KHM 001) — modeling the weight of the given promise and the shattering of curses through emotional extremity.
-  - _Die sechs Schwäne_ (KHM 049) — modeling the heavy toll of sworn silence and the slow, stitch-by-stitch labor of redemption.
-- **Experimental & Fragmentary Motifs**: Staging recurring motifs (such as the three tests, animal guides, magical instruments, and the inversion of fates) across the entire collection.
+- **Kinder- und Hausmärchen (KHM)**: 255 plays (the 210 tales of the 1857 edition plus 45 early and withdrawn tales), modeling the domestic and moral trials of the folk soul.
+- **Deutsche Sagen (DS)**: 585 plays (the 2nd edition of 1865), modeling the landscape-bound, historical, and spirit-haunted legends of local memory.
+- **Deutsche Mythologie (DM)**: The cosmological rule-set and structural laws (gods, giants, elves, fate, curse, blessing) that govern the mechanics of the tales.
+- **Irische Elfenmärchen (IE)**: The brothers' 1826 translation and adaptation of Irish fairy legends, bridging local spirits and moral ambiguity.
+- **Reinhart Fuchs (RF)**: The medieval trickster cycle of Reynard the Fox, modeling calculated betrayal and the inversion of KHM moral laws.
 
 ### Staging Status
 
 The current status of the Grimm productions within this house:
 
-- `[x]` **khm_001_the_frog_king** (Classic Tale) — Staged
-- `[x]` **khm_049_the_six_swans** (Classic Tale) — Staged
-- `[ ]` **khm_002_cat_and_mouse** (Classic Tale) — Planned
-- `[ ]` **Remaining Tales** (KHM 003–210) — Planned
+- `[x]` **Kinder- und Hausmärchen (KHM)** — Staged (255 plays, `khm_001` to `khm_210` with variations)
+- `[x]` **Deutsche Sagen (DS)** — Staged (585 plays, `ds_001` to `ds_585` aligned to 2nd edition E2E)
+- `[ ]` **Deutsche Mythologie (DM)** — Planned (Strategy and staging to be resolved)
+- `[ ]` **Irische Elfenmärchen (IE)** — Planned (Strategy and staging to be resolved)
+- `[ ]` **Reinhart Fuchs (RF)** — Planned (Strategy and staging to be resolved)
 
 ## Origin
 
-Jacob and Wilhelm Grimm's _Kinder- und Hausmärchen_ (1812–1857), specifically the definitive 7th edition of 1857, applying archaic poetry, folklore motifs, and structural oral storytelling patterns to historical European folk tales.
+Jacob and Wilhelm Grimm's collected works, representing their research into comparative folklore, historical linguistics, and medieval literature.
 
-| Source                      | Key Work / Event                                                                   | Scope                                                          |
-| --------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| **Brothers Grimm**          | _Kinder- und Hausmärchen_ (1812–1857)                                              | The canonical 210 fairy tales.                                 |
-| **Oral & Literary Sources** | European folklore, oral storytellers (e.g., Dorothea Viehmann, Philipp Otto Runge) | The mythic, structural, and cultural motifs of the collection. |
+| Source             | Key Work / Event                      | Scope                                           |
+| ------------------ | ------------------------------------- | ----------------------------------------------- |
+| **Brothers Grimm** | _Kinder- und Hausmärchen_ (1812–1857) | The canonical fairy tales (KHM).                |
+| **Brothers Grimm** | _Deutsche Sagen_ (1816–1865)          | The local and historical legends (DS).          |
+| **Jacob Grimm**    | _Deutsche Mythologie_ (1835–1878)     | The cosmological and folk-belief rule-set (DM). |
+| **Brothers Grimm** | _Irische Elfenmärchen_ (1826)         | The translation of Croker's Irish legends (IE). |
+| **Jacob Grimm**    | _Reinhart Fuchs_ (1834)               | The medieval animal epic (RF).                  |
 
 ## Restrictions
 
 What the house refuses to model, and to whom it delegates.
 
 - **Moralizing sugar-coating**: The house refuses to sanitize the tales (omitting none of the original grim details, such as physical mutilation, severe trials, or burning iron slippers). They are modeled as mechanical and logical consequences of broken taboos, fulfilled pacts, or resolved trials.
-- **Cross-play context pollution**: Strict play isolation. Individual plays (under _plays/khm_XXX/\*_) must never link out of their local directory, preventing narratives from leaking into one another.
+- **Cross-play context pollution**: Strict play isolation. Individual plays (under `plays/`) must never link out of their local directory, preventing narratives from leaking into one another.
 - **Decorative elaboration**: Settings, objects, and characters are strictly reduced to the essential load-bearing vectors of the play's systemic architecture (e.g., places of confinement, tools of labor, agents of change), omitting secondary ornament.
 - **Monolingual uniformity (Language Policy)**: The house implements a strict bilingual split:
-  - **English for Architecture & Schema**: To maintain compatibility with the global `khai` framework specifications and validation tooling, the house identity ([README.md](README.md)), reference documents ([REFERENCE.md](REFERENCE.md)), frontmatter keys, and H2 structural headings are written in English.
+  - **English for Architecture & Schema**: To maintain compatibility with the global `khai` framework specifications and validation tooling, the house identity ([README.md](README.md)), reference documents ([REFERENCES.md](REFERENCES.md)), frontmatter keys, and H2 structural headings are written in English.
   - **German for Prose & Staging**: All character descriptions (`Projection`, `Action`, `Shadow`), element behaviors, and scene notes are written in the authentic, poetic **Grimm-Deutsch** style (incorporating period-appropriate syntax, archaic vocabulary, paratactic chains of events, and natural German Markdown labels).
 
 ## Encoding
