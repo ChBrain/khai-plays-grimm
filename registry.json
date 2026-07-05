@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.855.0",
+  "version": "0.860.0",
   "plays": [
     {
       "kind": "play",
@@ -92,6 +92,36 @@
       "id": "dm_015_heroes",
       "title": "Heroes",
       "description": "Demigods, giants, and ancestral heroes, modeling mythic quests."
+    },
+    {
+      "kind": "play",
+      "id": "dm_016_wise_women",
+      "title": "Wise Women",
+      "description": "Witches, sibyls, and wood-wives, modeling prophetic and magical women."
+    },
+    {
+      "kind": "play",
+      "id": "dm_017_wights_and_elves",
+      "title": "Wights and Elves",
+      "description": "Dwarfs, wights, and house-spirits, modeling underground craftsmanship and magic."
+    },
+    {
+      "kind": "play",
+      "id": "dm_018_giants",
+      "title": "Giants",
+      "description": "Riesen, Hünen, and primeval forces in conflict with the gods."
+    },
+    {
+      "kind": "play",
+      "id": "dm_019_creation",
+      "title": "Creation",
+      "description": "Cosmogony, Yggdrasil, and the shaping of the world."
+    },
+    {
+      "kind": "play",
+      "id": "dm_020_elements",
+      "title": "Elements",
+      "description": "Fire, Water, Air, and Earth as active cosmological forces."
     },
     {
       "kind": "play",
