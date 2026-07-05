@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.850.0",
+  "version": "0.855.0",
   "plays": [
     {
       "kind": "play",
@@ -62,6 +62,36 @@
       "id": "dm_010_tiu",
       "title": "Tiu",
       "description": "Tiu, Zio, Tyr: the sword-god and lord of the assembly."
+    },
+    {
+      "kind": "play",
+      "id": "dm_011_fro",
+      "title": "Fro",
+      "description": "Fro, Phol, Freyr: the lord of fertility, peace, and abundance."
+    },
+    {
+      "kind": "play",
+      "id": "dm_012_other_gods",
+      "title": "Other Gods",
+      "description": "Ostara, Baldr, and lesser gods, modeling spring, light, and death."
+    },
+    {
+      "kind": "play",
+      "id": "dm_013_goddesses",
+      "title": "Goddesses",
+      "description": "Frigg, Freyja, Bertha, and Holda: the protective and domestic goddesses."
+    },
+    {
+      "kind": "play",
+      "id": "dm_014_condition_of_gods",
+      "title": "Condition of Gods",
+      "description": "Characteristics, lifespan, and realms of the gods, focusing on fate."
+    },
+    {
+      "kind": "play",
+      "id": "dm_015_heroes",
+      "title": "Heroes",
+      "description": "Demigods, giants, and ancestral heroes, modeling mythic quests."
     },
     {
       "kind": "play",
