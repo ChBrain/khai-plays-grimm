@@ -22,7 +22,7 @@ The current status of the Grimm productions within this house:
 
 - `[x]` **Kinder- und Hausmärchen (KHM)** — Staged (255 plays, `khm_001` to `khm_210` with variations)
 - `[x]` **Deutsche Sagen (DS)** — Staged (585 plays, `ds_001` to `ds_585` aligned to 2nd edition E2E)
-- `[ ]` **Deutsche Mythologie (DM)** — Planned (Strategy and staging to be resolved)
+- `[x]` **Deutsche Mythologie (DM)** — Staged (38 plays, `dm_001` to `dm_038` representing the full cosmological map)
 - `[ ]` **Irische Elfenmärchen (IE)** — Planned (Strategy and staging to be resolved)
 - `[ ]` **Reinhart Fuchs (RF)** — Planned (Strategy and staging to be resolved)
 
