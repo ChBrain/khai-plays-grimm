@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.875.0",
+  "version": "0.878.0",
   "plays": [
     {
       "kind": "play",
@@ -212,6 +212,24 @@
       "id": "dm_035_spells_and_charms",
       "title": "Spells and Charms",
       "description": "Incantations, verbal formulas, and bless-sayings."
+    },
+    {
+      "kind": "play",
+      "id": "dm_036_admonitions_and_vows",
+      "title": "Admonitions and Vows",
+      "description": "Oaths, taboos, sworn pacts, and solemn vows in old law."
+    },
+    {
+      "kind": "play",
+      "id": "dm_037_curses_and_blessings",
+      "title": "Curses and Blessings",
+      "description": "Verbal magic, protective blessings, and destructive curses."
+    },
+    {
+      "kind": "play",
+      "id": "dm_038_appendix",
+      "title": "Appendix",
+      "description": "Residual fragments, superstitions, and final chronicle entries."
     },
     {
       "kind": "play",
