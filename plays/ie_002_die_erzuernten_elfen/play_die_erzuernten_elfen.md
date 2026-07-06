@@ -40,7 +40,7 @@ Die Elfen tanzen im Mondschein auf dem Hügel, bis ein Störer ihren Kreis brich
 
 **Positions**
 
-- [Tanzmeister](position_dance-leader.md)
+- [Tanzmeister](position_dance_leader.md)
 
 **Pieces**
 

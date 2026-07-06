@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-[Tanzmeister](position_dance-leader.md)
+[Tanzmeister](position_dance_leader.md)
 
 ## Owner
 

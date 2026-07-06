@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "dance-leader"
+title: "dance_leader"
 declared: "Tanzmeister"
 license: CC-BY-NC-SA-4.0
 stamp:
