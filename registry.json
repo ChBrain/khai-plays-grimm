@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.865.0",
+  "version": "0.870.0",
   "plays": [
     {
       "kind": "play",
@@ -152,6 +152,36 @@
       "id": "dm_025_souls",
       "title": "Souls",
       "description": "The soul of man, breath, shadow, and journey to the afterlife."
+    },
+    {
+      "kind": "play",
+      "id": "dm_026_death",
+      "title": "Death",
+      "description": "Mortality, funeral pyres, urn burials, and the guidance of souls."
+    },
+    {
+      "kind": "play",
+      "id": "dm_027_fate_and_destiny",
+      "title": "Fate and Destiny",
+      "description": "Norns, weird, and the loom of destiny."
+    },
+    {
+      "kind": "play",
+      "id": "dm_028_personifications",
+      "title": "Personifications",
+      "description": "Abstract concepts and natural forces made flesh."
+    },
+    {
+      "kind": "play",
+      "id": "dm_029_poetry",
+      "title": "Poetry",
+      "description": "Sacred song, skaldenmet, and divine language."
+    },
+    {
+      "kind": "play",
+      "id": "dm_030_spectres",
+      "title": "Spectres",
+      "description": "Ghosts, wraiths, and the return of the dead."
     },
     {
       "kind": "play",
