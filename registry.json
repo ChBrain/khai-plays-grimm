@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.860.0",
+  "version": "0.865.0",
   "plays": [
     {
       "kind": "play",
@@ -122,6 +122,36 @@
       "id": "dm_020_elements",
       "title": "Elements",
       "description": "Fire, Water, Air, and Earth as active cosmological forces."
+    },
+    {
+      "kind": "play",
+      "id": "dm_021_trees_and_plants",
+      "title": "Trees and Plants",
+      "description": "Sacred flora, world-pillars, and herbal magic in folk belief."
+    },
+    {
+      "kind": "play",
+      "id": "dm_022_sky_and_stars",
+      "title": "Sky and Stars",
+      "description": "Celestial bodies, constellations, and atmospheric phenomena."
+    },
+    {
+      "kind": "play",
+      "id": "dm_023_day_and_night",
+      "title": "Day and Night",
+      "description": "Sacred time, divisions of the day, and the twilight."
+    },
+    {
+      "kind": "play",
+      "id": "dm_024_year_and_seasons",
+      "title": "Year and Seasons",
+      "description": "The seasonal cycle, solstices, and agricultural festivals."
+    },
+    {
+      "kind": "play",
+      "id": "dm_025_souls",
+      "title": "Souls",
+      "description": "The soul of man, breath, shadow, and journey to the afterlife."
     },
     {
       "kind": "play",
