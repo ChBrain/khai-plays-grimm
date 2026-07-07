@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.888.0",
+  "version": "0.893.0",
   "plays": [
     {
       "kind": "play",
@@ -3800,6 +3800,36 @@
       "id": "ie_010_die_bekenntnisse_des_thomas_bourke",
       "title": "The Confessions of Tom Bourke",
       "description": "Thomas Bourke confesses his encounters with the local fairy hierarchy."
+    },
+    {
+      "kind": "play",
+      "id": "ie_011_die_verwandelten_elfen",
+      "title": "The Fairy Nurse",
+      "description": "A human nurse is hired by the fairies and discovers their ointment's magic."
+    },
+    {
+      "kind": "play",
+      "id": "ie_012_der_verwuenschte_keller",
+      "title": "The Haunted Cellar",
+      "description": "A cluricaun haunts a wine cellar, terrorizing the servants."
+    },
+    {
+      "kind": "play",
+      "id": "ie_013_der_schuhmacher",
+      "title": "The Cluricaune",
+      "description": "A man tries to capture a cluricaune to force him to reveal hidden gold."
+    },
+    {
+      "kind": "play",
+      "id": "ie_014_herr_und_diener",
+      "title": "Master and Man",
+      "description": "A young man serves a fairy lord and rides through the night."
+    },
+    {
+      "kind": "play",
+      "id": "ie_015_das_feld_mit_hagebuchen",
+      "title": "The Field of Boliauns",
+      "description": "A man marks a bush with a red garter to find gold, but the cluricaun tricks him."
     },
     {
       "kind": "play",
