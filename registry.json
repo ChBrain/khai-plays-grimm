@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.878.0",
+  "version": "0.883.0",
   "plays": [
     {
       "kind": "play",
@@ -3740,6 +3740,36 @@
       "id": "ds_585_die_graefin_von_orlamuende",
       "title": "The Countess of Orlamünde",
       "description": "Agnes murders her two children to marry Albert, but is rejected and becomes the death-warning White Lady."
+    },
+    {
+      "kind": "play",
+      "id": "ie_001_das_weisse_kalb",
+      "title": "The White Calf",
+      "description": "A mysterious white calf appears on the pasture, illustrating fairy shape-shifting."
+    },
+    {
+      "kind": "play",
+      "id": "ie_002_die_erzuernten_elfen",
+      "title": "The Angry Elves",
+      "description": "The wrath of the Shefro when their nightly dances are disturbed."
+    },
+    {
+      "kind": "play",
+      "id": "ie_003_fingerhuetchen",
+      "title": "Legend of Knockshegowna",
+      "description": "A hunchback is rewarded by the fairies for adding to their song."
+    },
+    {
+      "kind": "play",
+      "id": "ie_004_die_mahlzeit_des_geistlichen",
+      "title": "The Priest's Supper",
+      "description": "A priest is asked by the fairies if they can enter heaven."
+    },
+    {
+      "kind": "play",
+      "id": "ie_005_der_kleine_sackpfeifer",
+      "title": "The Mawrish Piper",
+      "description": "A mysterious piper plays a trance-inducing tune in the tavern."
     },
     {
       "kind": "play",
