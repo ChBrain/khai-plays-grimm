@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.883.0",
+  "version": "0.888.0",
   "plays": [
     {
       "kind": "play",
@@ -3770,6 +3770,36 @@
       "id": "ie_005_der_kleine_sackpfeifer",
       "title": "The Mawrish Piper",
       "description": "A mysterious piper plays a trance-inducing tune in the tavern."
+    },
+    {
+      "kind": "play",
+      "id": "ie_006_die_brauerei_von_eierschalen",
+      "title": "The Brewery of Egg-shells",
+      "description": "A mother tricks a changeling by brewing beer in eggshells."
+    },
+    {
+      "kind": "play",
+      "id": "ie_007_der_wechselbalg",
+      "title": "The Changeling",
+      "description": "A parent recovers their stolen child by threatening the changeling on a shovel."
+    },
+    {
+      "kind": "play",
+      "id": "ie_008_die_beiden_gevatterinnen",
+      "title": "The Two Gossips",
+      "description": "Two gossiping women discover fairy secrets through local rumors."
+    },
+    {
+      "kind": "play",
+      "id": "ie_009_die_flasche",
+      "title": "The Legend of Bottle Hill",
+      "description": "A poor peasant receives a magic bottle that produces gold and riches."
+    },
+    {
+      "kind": "play",
+      "id": "ie_010_die_bekenntnisse_des_thomas_bourke",
+      "title": "The Confessions of Tom Bourke",
+      "description": "Thomas Bourke confesses his encounters with the local fairy hierarchy."
     },
     {
       "kind": "play",
