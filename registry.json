@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.893.0",
+  "version": "0.898.0",
   "plays": [
     {
       "kind": "play",
@@ -3830,6 +3830,36 @@
       "id": "ie_015_das_feld_mit_hagebuchen",
       "title": "The Field of Boliauns",
       "description": "A man marks a bush with a red garter to find gold, but the cluricaun tricks him."
+    },
+    {
+      "kind": "play",
+      "id": "ie_016_die_kleinen_schuhe",
+      "title": "The Little Shoes",
+      "description": "A cluricaun cobbles tiny shoes in the workshop until he is discovered."
+    },
+    {
+      "kind": "play",
+      "id": "ie_017_die_banshi_von_bunworth",
+      "title": "The Bunworth Banshee",
+      "description": "The Bunworth Banshee announces the death of a beloved clergyman."
+    },
+    {
+      "kind": "play",
+      "id": "ie_018_die_banshi_von_mac_carthy",
+      "title": "The Mac Carthy Banshee",
+      "description": "The ancient Banshee of the Mac Carthys foretells the downfall of the noble house."
+    },
+    {
+      "kind": "play",
+      "id": "ie_019_das_hexenpferd",
+      "title": "The Pooka",
+      "description": "Morty Sullivan is carried away on a wild night ride by the Pooka."
+    },
+    {
+      "kind": "play",
+      "id": "ie_020_daniel_orourkes_irrfahrten",
+      "title": "Daniel O'Rourke",
+      "description": "Daniel O'Rourke goes on a fantastical dream journey to the moon."
     },
     {
       "kind": "play",
