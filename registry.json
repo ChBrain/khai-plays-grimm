@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.903.0",
+  "version": "0.905.0",
   "plays": [
     {
       "kind": "play",
@@ -3890,6 +3890,18 @@
       "id": "ie_025_die_elfenwiese",
       "title": "The Wonderful Tune",
       "description": "Maurice Connor plays a magical tune on his bagpipes, making everyone dance."
+    },
+    {
+      "kind": "play",
+      "id": "ie_026_der_verzauberte_see",
+      "title": "The Enchanted Lake",
+      "description": "A lake is haunted by a diver who goes beneath the water to find a chest of gold."
+    },
+    {
+      "kind": "play",
+      "id": "ie_027_die_erscheinung_des_odonoghue",
+      "title": "The Appearance of O'Donoghue",
+      "description": "The legendary chieftain O'Donoghue appears riding on a white horse over the lake."
     },
     {
       "kind": "play",
