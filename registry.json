@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.910.0",
+  "version": "0.915.0",
   "plays": [
     {
       "kind": "play",
@@ -5462,6 +5462,36 @@
       "id": "rf_005_die_koenigliche_vorladung",
       "title": "The Royal Summons",
       "description": "King Nobel the Lion holds court, hears the animals' complaints, and sends Grimbart to summon Reinhart."
+    },
+    {
+      "kind": "play",
+      "id": "rf_006_die_ersten_anklagen",
+      "title": "The First Accusations",
+      "description": "The animals bring their formal complaints to the court of King Nobel."
+    },
+    {
+      "kind": "play",
+      "id": "rf_007_reinharts_verteidigung",
+      "title": "Reinhart's Defense",
+      "description": "Reinhart travels to the court and confesses his sins to Grimbart the Badger."
+    },
+    {
+      "kind": "play",
+      "id": "rf_008_das_gericht_ueber_den_fuchs",
+      "title": "The Trial of the Fox",
+      "description": "Reinhart is tried, found guilty, and sentenced to hang on the gallows."
+    },
+    {
+      "kind": "play",
+      "id": "rf_009_das_urteil_von_nobel",
+      "title": "The Judgment of Nobel",
+      "description": "Reinhart promises a hidden treasure to Nobel, receives a pardon, and leaves on a fake pilgrimage."
+    },
+    {
+      "kind": "play",
+      "id": "rf_010_der_triumph_des_tricksters",
+      "title": "The Triumph of the Trickster",
+      "description": "Reinhart returns to Malepartus and mocks the king from his secure fortress."
     }
   ]
 }
