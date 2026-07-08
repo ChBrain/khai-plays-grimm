@@ -24,7 +24,7 @@ The current status of the Grimm productions within this house:
 - `[x]` **Deutsche Sagen (DS)** — Staged (585 plays, `ds_001` to `ds_585` aligned to 2nd edition E2E)
 - `[x]` **Deutsche Mythologie (DM)** — Staged (38 plays, `dm_001` to `dm_038` representing the full cosmological map)
 - `[x]` **Irische Elfenmärchen (IE)** — Staged (27 plays, `ie_001` to `ie_027` representing the translation of Croker's Irish legends)
-- `[ ]` **Reinhart Fuchs (RF)** — Planned (Strategy and staging to be resolved)
+- `[x]` **Reinhart Fuchs (RF)** — Staged (10 plays, `rf_001` to `rf_010` representing the medieval animal trickster epic)
 
 ## Origin
 

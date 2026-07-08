@@ -65,9 +65,9 @@ works are the Brothers Grimm. The scope extends to cover them.
 
 - [x] Choregos debate staged for Deutsche Mythologie
 - [x] Choregos debate staged for Irische Elfenmärchen
-- [ ] Choregos debate staged for Reinhart Fuchs
+- [x] Choregos debate staged for Reinhart Fuchs
 - [x] PRODUCTION_mythologie.md authored and reviewed
 - [x] PRODUCTION_elfenmaerchen.md authored and reviewed
-- [ ] PRODUCTION_reinhart_fuchs.md authored and reviewed
-- [/] REFERENCES.md updated to register all three collections
-- [/] Roadie confirms sourcing for all three collections
+- [x] PRODUCTION_reinhart_fuchs.md authored and reviewed
+- [x] REFERENCES.md updated to register all three collections
+- [x] Roadie confirms sourcing for all three collections
