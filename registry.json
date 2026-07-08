@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.898.0",
+  "version": "0.903.0",
   "plays": [
     {
       "kind": "play",
@@ -3860,6 +3860,36 @@
       "id": "ie_020_daniel_orourkes_irrfahrten",
       "title": "Daniel O'Rourke",
       "description": "Daniel O'Rourke goes on a fantastical dream journey to the moon."
+    },
+    {
+      "kind": "play",
+      "id": "ie_021_das_schloss_in_den_seen",
+      "title": "The Lake of Killarney",
+      "description": "A grand castle sinks beneath the waters of Killarney, creating the famous lake."
+    },
+    {
+      "kind": "play",
+      "id": "ie_022_das_maedchen_mit_den_goldenen_haaren",
+      "title": "The Lady of Gollerus",
+      "description": "Dick Fitzgerald captures a mermaid by stealing her magical red cap."
+    },
+    {
+      "kind": "play",
+      "id": "ie_023_das_groessere_wunder",
+      "title": "Flory Cantillon's Funeral",
+      "description": "A mysterious funeral takes place on an island cemetery, accompanied by supernatural events."
+    },
+    {
+      "kind": "play",
+      "id": "ie_024_der_lohn_der_gutthaetigkeit",
+      "title": "The Lord of Dunkerron",
+      "description": "O'Sullivan of Dunkerron is rewarded by the fairies for his generosity."
+    },
+    {
+      "kind": "play",
+      "id": "ie_025_die_elfenwiese",
+      "title": "The Wonderful Tune",
+      "description": "Maurice Connor plays a magical tune on his bagpipes, making everyone dance."
     },
     {
       "kind": "play",
