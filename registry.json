@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.905.0",
+  "version": "0.910.0",
   "plays": [
     {
       "kind": "play",
@@ -5432,6 +5432,36 @@
       "id": "khm_210_the_hazel_branch",
       "title": "The Hazel-Branch",
       "description": "Mary flees a snake behind a hazel bush and blesses it ever after as a shield against all vermin."
+    },
+    {
+      "kind": "play",
+      "id": "rf_001_reinhart_und_schoeneke",
+      "title": "Reinhart and Schöneke",
+      "description": "Reinhart the Fox flatters Schöneke the Cock to catch him, but the cock tricks him back to escape."
+    },
+    {
+      "kind": "play",
+      "id": "rf_002_reinhart_und_hinze",
+      "title": "Reinhart and Hinze",
+      "description": "Reinhart baits Hinze the Cat with promises of mice in a priest's barn, trapping him in a snare."
+    },
+    {
+      "kind": "play",
+      "id": "rf_003_reinhart_und_bruun",
+      "title": "Reinhart and Bruun",
+      "description": "Reinhart tricks Bruun the Bear with promises of wild honey, trapping his paws in a cleft tree trunk."
+    },
+    {
+      "kind": "play",
+      "id": "rf_004_reinhart_und_isengrim",
+      "title": "Reinhart and Isengrim",
+      "description": "Reinhart tricks Isengrim the Wolf in a well, using a counterweight bucket to escape while the wolf sinks."
+    },
+    {
+      "kind": "play",
+      "id": "rf_005_die_koenigliche_vorladung",
+      "title": "The Royal Summons",
+      "description": "King Nobel the Lion holds court, hears the animals' complaints, and sends Grimbart to summon Reinhart."
     }
   ]
 }
