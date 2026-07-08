@@ -34,4 +34,4 @@ Er übersieht manchmal die praktischen Grenzen der Validierung.
 
 ## Tell
 
-## Ein bestimmtes Tippen auf den Tisch.
+Ein bestimmtes Tippen auf den Tisch.
