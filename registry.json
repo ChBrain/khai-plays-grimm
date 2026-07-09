@@ -1,8 +1,26 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.915.0",
+  "version": "0.918.0",
   "plays": [
+    {
+      "kind": "play",
+      "id": "ah_001_grimilds_rache",
+      "title": "Grimild's Revenge",
+      "description": "Grimild invites her brothers to her hall and plots a bloody slaughter to avenge past wrongs."
+    },
+    {
+      "kind": "play",
+      "id": "ah_002_dieterich_und_der_lindwurm",
+      "title": "King Dieterich and the Dragon",
+      "description": "King Dieterich encounters a giant dragon in the wild forest and fights it with the help of a loyal lion."
+    },
+    {
+      "kind": "play",
+      "id": "ah_003_vidrich_und_langbein",
+      "title": "Vidrich and Langbein",
+      "description": "Vidrich confronts the giant Langbein at a stone bridge and duels him in a show of defiance."
+    },
     {
       "kind": "play",
       "id": "dm_001_introduction",
