@@ -82,13 +82,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: changeset presence gate
-        # Dependabot cannot author changesets. Its bumps are lockfile/devDep
-        # updates that ship nothing in the published package, so "no changeset"
-        # is the correct outcome. The dependabot/* lane is already recognized in
-        # khai-guard.config.json; this exempts the same lane from the changeset
-        # gate. Human PRs still must ship a changeset.
-        if: ${{ !startsWith(github.head_ref, 'dependabot/') }}
+        # Exempt the bot lanes that never author changesets: the changesets
+        # "Version Packages" PR (changeset-release/*) consumes them, and
+        # Dependabot (dependabot/*) ships only dep bumps. khai-guard also
+        # exempts the release branch internally; the dependabot skip is here.
+        if: ${{ !startsWith(github.head_ref, 'changeset-release/') && !startsWith(github.head_ref, 'dependabot/') }}
         env:
+          HEAD_REF: ${{ github.head_ref }}
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
-        run: npx khai-guard changeset-check --base "$BASE_SHA" --head "$HEAD_SHA"
+        run: npx khai-guard changeset-check --branch "$HEAD_REF" --base "$BASE_SHA" --head "$HEAD_SHA"
