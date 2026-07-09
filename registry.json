@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.929.0",
+  "version": "0.931.0",
   "plays": [
     {
       "kind": "play",
@@ -5576,6 +5576,18 @@
       "id": "sr_003_romance_de_tristan",
       "title": "Tristan's Lay",
       "description": "Tristan lies dying from a poisoned wound, sharing a final tragic farewell kiss with Iseo."
+    },
+    {
+      "kind": "play",
+      "id": "sr_004_romance_de_dona_alda",
+      "title": "Lady Alda's Lay",
+      "description": "Doña Alda dreams of a falcon pursued by an eagle, a tragic premonition of Roland's death at Roncesvalles."
+    },
+    {
+      "kind": "play",
+      "id": "sr_005_romance_de_alarcos",
+      "title": "Count Alarcos' Lay",
+      "description": "Count Alarcos is ordered by the King to strangle his innocent wife to marry the Infanta Solisa."
     }
   ]
 }
