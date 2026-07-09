@@ -35,11 +35,11 @@ With KHM, DS, DM, IE, and RF declared complete, the house has staged the canonic
 
 ## Targets
 
-- [ ] Choregos debate staged for Altdänische Heldenlieder (ah)
+- [x] Choregos debate staged for Altdänische Heldenlieder (ah)
 - [ ] Choregos debate staged for Lieder der alten Edda (ae)
 - [ ] Choregos debate staged for Der arme Heinrich (ha)
 - [ ] Choregos debate staged for Silva de romances viejos (sr)
-- [ ] PRODUCTION_altdaenische_heldenlieder.md authored and reviewed
+- [x] PRODUCTION_altdaenische_heldenlieder.md authored and reviewed
 - [ ] PRODUCTION_alte_edda.md authored and reviewed
 - [ ] PRODUCTION_arme_heinrich.md authored and reviewed
 - [ ] PRODUCTION_romances_viejos.md authored and reviewed

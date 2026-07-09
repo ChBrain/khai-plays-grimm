@@ -29,7 +29,7 @@ The current status of the Grimm productions within this house:
 - `[x]` **Deutsche Mythologie (DM)** — Staged (38 plays, `dm_001` to `dm_038` representing the full cosmological map)
 - `[x]` **Irische Elfenmärchen (IE)** — Staged (27 plays, `ie_001` to `ie_027` representing the translation of Croker's Irish legends)
 - `[x]` **Reinhart Fuchs (RF)** — Staged (10 plays, `rf_001` to `rf_010` representing the medieval animal trickster epic)
-- `[ ]` **Altdänische Heldenlieder (AH)** — Planned (Strategy and staging to be resolved)
+- `[x]` **Altdänische Heldenlieder (AH)** — Staged (5 plays, `ah_001` to `ah_005` representing the translated Danish heroic songs and ballads)
 - `[ ]` **Lieder der alten Edda (AE)** — Planned (Strategy and staging to be resolved)
 - `[ ]` **Der arme Heinrich (HA)** — Planned (Strategy and staging to be resolved)
 - `[ ]` **Silva de romances viejos (SR)** — Planned (Strategy and staging to be resolved)
