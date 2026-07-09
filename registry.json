@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.925.0",
+  "version": "0.926.0",
   "plays": [
     {
       "kind": "play",
@@ -3800,6 +3800,12 @@
       "id": "ds_585_die_graefin_von_orlamuende",
       "title": "The Countess of Orlamünde",
       "description": "Agnes murders her two children to marry Albert, but is rejected and becomes the death-warning White Lady."
+    },
+    {
+      "kind": "play",
+      "id": "ha_001_der_arme_heinrich",
+      "title": "Poor Heinrich",
+      "description": "Heinrich the knight is struck with leprosy and is miraculously healed when he refuses the sacrifice of a pure maiden."
     },
     {
       "kind": "play",
