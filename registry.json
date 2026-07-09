@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.923.0",
+  "version": "0.925.0",
   "plays": [
     {
       "kind": "play",
@@ -20,6 +20,18 @@
       "id": "ae_003_helgakvida_hjorvardssonar",
       "title": "The Lay of Helgi Hjörvard's Slayer",
       "description": "Helgi receives his name and a magic sword from the valkyrie Sváva, but is doomed to fall in a tragic duel."
+    },
+    {
+      "kind": "play",
+      "id": "ae_004_sinfiotlis_ende",
+      "title": "Sinfiotli's Death",
+      "description": "Sinfiotli is poisoned by his stepmother Queen Borghild, who offers him a deadly horn of ale."
+    },
+    {
+      "kind": "play",
+      "id": "ae_005_grapisspa_fafnismal",
+      "title": "Sigurd's Lay",
+      "description": "Sigurd slays the dragon Fáfnir on the Gnita-heath and gains the cursed hoard of the Nibelungs."
     },
     {
       "kind": "play",
