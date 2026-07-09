@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.926.0",
+  "version": "0.929.0",
   "plays": [
     {
       "kind": "play",
@@ -5558,6 +5558,24 @@
       "id": "rf_010_der_triumph_des_tricksters",
       "title": "The Triumph of the Trickster",
       "description": "Reinhart returns to Malepartus and mocks the king from his secure fortress."
+    },
+    {
+      "kind": "play",
+      "id": "sr_001_romance_de_gayferos",
+      "title": "Gayferos' Lay",
+      "description": "Don Gayferos is rebuked for playing dice instead of rescuing his captive wife Melisenda, whom he then saves."
+    },
+    {
+      "kind": "play",
+      "id": "sr_002_romance_de_lanzarote",
+      "title": "Lancelot's Lay",
+      "description": "Lancelot challenges the proud knight who guards Quintañera and defeats him in a fierce combat."
+    },
+    {
+      "kind": "play",
+      "id": "sr_003_romance_de_tristan",
+      "title": "Tristan's Lay",
+      "description": "Tristan lies dying from a poisoned wound, sharing a final tragic farewell kiss with Iseo."
     }
   ]
 }
