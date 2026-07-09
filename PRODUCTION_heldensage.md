@@ -11,6 +11,7 @@ The plan for the Grimm house: stage Wilhelm Grimm's critical study and compilati
 Unlike the Danish ballads of AH and the Eddic stabreim songs of AE, the _Deutsche Heldensage_ (DH) season models the **heroic and tragic legends of the continental German tradition**.
 
 What this buys us:
+
 - **Heroic Conflict**: Staging these plays models father-son duties, dragon-slaying trials, and knightly oaths under the house's strict causal rules.
 - **Tragic Tension**: Every play captures the unyielding force of fate and loyalty typical of early Germanic poetry.
 - **Bilingual Structure**: The framework schema and frontmatter keys are in English, while the prose descriptions, dialogue, and cues use authentic Grimm-Deutsch.
@@ -20,6 +21,7 @@ What this buys us:
 ## The build: one play, full Mode B
 
 Every play is built as a play directory (`dh_NNN_`) containing:
+
 - `play_*.md`: The play definition outlining the legend's ENACTS container.
 - `plot_NN_*.md`: The CAST movements of the legend's narrative progression.
 - `persona_*.md`, `place_*.md`, `process_*.md`, `piece_*.md`, `position_*.md`, `pitch_*.md`: The company assets.
