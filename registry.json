@@ -1,8 +1,26 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.920.0",
+  "version": "0.923.0",
   "plays": [
+    {
+      "kind": "play",
+      "id": "ae_001_volundarkvida",
+      "title": "Völund's Lay",
+      "description": "Völund the captive smith is crippled by King Níduðr, but exacts a terrible revenge and escapes on artificial wings."
+    },
+    {
+      "kind": "play",
+      "id": "ae_002_helgakvida_hundingsbana",
+      "title": "The First Lay of Helgi Hunding's Slayer",
+      "description": "Helgi defeats King Hunding in battle and pledges his eternal love to the valkyrie Sigrún."
+    },
+    {
+      "kind": "play",
+      "id": "ae_003_helgakvida_hjorvardssonar",
+      "title": "The Lay of Helgi Hjörvard's Slayer",
+      "description": "Helgi receives his name and a magic sword from the valkyrie Sváva, but is doomed to fall in a tragic duel."
+    },
     {
       "kind": "play",
       "id": "ah_001_grimilds_rache",
