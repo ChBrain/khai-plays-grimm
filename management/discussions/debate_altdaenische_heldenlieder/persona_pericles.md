@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-Parent group: personas
+[Choregos](position_choregos.md)
 
 ## Owner
 
