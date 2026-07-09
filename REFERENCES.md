@@ -8,7 +8,7 @@ updated: "2026-07-04"
 
 Staging the complete corpus of the Brothers Grimm as **systemic systems**: modeling the mechanical, moral, and transformative contracts, covenants, and trials of folklore and mythology. The house represents these works as strict sequences of causality, where oaths, taboos, and metamorphoses operate under precise, system-wide rules.
 
-The scope of this house covers nine canonical collections:
+The scope of this house covers ten canonical collections:
 
 - **Kinder- und Hausmärchen (KHM)**: 255 plays (the 210 tales of the 1857 edition plus 45 early and withdrawn tales), modeling the domestic and moral trials of the folk soul.
 - **Deutsche Sagen (DS)**: 585 plays (the 2nd edition of 1865), modeling the landscape-bound, historical, and spirit-haunted legends of local memory.
@@ -19,6 +19,7 @@ The scope of this house covers nine canonical collections:
 - **Lieder der alten Edda (AE)**: Their 1815 critical edition and translation of the Poetic Edda.
 - **Der arme Heinrich (HA)**: Their 1815 edition of Hartmann von Aue's Middle High German poem.
 - **Silva de romances viejos (SR)**: Jacob's 1815 collection and edition of old Spanish romances.
+- **Deutsche Heldensage (DH)**: Wilhelm's 1829 critical study and compilation of early and medieval German heroic legends.
 
 ### Staging Status
 
@@ -33,6 +34,7 @@ The current status of the Grimm productions within this house:
 - `[x]` **Lieder der alten Edda (AE)** — Staged (5 plays, `ae_001` to `ae_005` representing the translated and edited Eddic mythological/heroic poems)
 - `[x]` **Der arme Heinrich (HA)** — Staged (1 play, `ha_001` representing the medieval legend edited and translated by the brothers)
 - `[x]` **Silva de romances viejos (SR)** — Staged (5 plays, `sr_001` to `sr_005` representing the critical edition of old Spanish romances)
+- `[ ]` **Deutsche Heldensage (DH)** — Planned (Strategy and staging to be resolved)
 
 ## Origin
 
@@ -49,6 +51,7 @@ Jacob and Wilhelm Grimm's collected works, representing their research into comp
 | **Brothers Grimm** | _Lieder der alten Edda_ (1815)        | The translated Poetic Edda (AE).                 |
 | **Brothers Grimm** | _Der arme Heinrich_ (1815)            | The edited Middle High German poem (HA).         |
 | **Jacob Grimm**    | _Silva de romances viejos_ (1815)     | The edited Spanish romances (SR).                |
+| **Wilhelm Grimm**  | _Deutsche Heldensage_ (1829)          | The compiled German heroic legends (DH).         |
 
 ## Restrictions
 
