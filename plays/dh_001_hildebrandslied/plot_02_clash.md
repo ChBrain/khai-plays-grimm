@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "Zusammenstoss"
-declared: "Zusammenstoss"
+title: "Der Zusammenstoss"
+declared: "Der Zusammenstoss"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-09"
 ---
 
-# Plot: Clash
+# Plot: Der Zusammenstoss
 
 ## Taxonomy
 
@@ -21,19 +21,15 @@ stamp:
 
 ## Cue
 
-_Hildebrand klagt laut über sein bitteres Schicksal, während beide ihre Schilde festzurren._
+Im [Heerlager](place_battlefield.md).
 
 ## Action
 
-Hildebrand: Weh mir, waltender Gott, ein böses Schicksal wendet sich! Nun muss ich meinen eigenen Sohn mit der Waffe fällen oder von ihm erschlagen werden!
-
-Hadubrand: So hebe deinen Schild, Alter! Der stärkere soll den Sieg davontragen!
-
-_Sie lassen zuerst die Eschenlanzen aufeinanderprallen, bis die Schilde splittern._
+Der [Zweikampf](process_combating.md) beginnt zwischen [Hildebrand](persona_hildebrand.md) und [Hadubrand](persona_hadubrand.md). Sie lassen ihre Lanzen aufeinanderprallen und zerschmettern die Schilde.
 
 ## Stage
 
-[Heerlager](place_battlefield.md)
+Bühne für Der Zusammenstoss.
 
 ## Tension
 

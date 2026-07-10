@@ -19,10 +19,18 @@ Parent group: pitches
 
 - Project: khai-plays-grimm
 
-## Stage
+## Tenor
 
-Das schreckliche Dilemma eines Vaters, der entweder den eigenen Sohn erschlagen oder als Feigling sterben muss.
+Ein düsterer, heroischer Ton.
 
-## Action
+## Undertow
 
-Erzeugt die düstere, ausweglose Atmosphäre des heroischen Schicksals.
+Der drohende Untergang der Sippe durch mangelndes Vertrauen.
+
+## Nerve
+
+Das tragische Dilemma zwischen Vater und Sohn.
+
+## Echo
+
+Der Nachhall des unerbittlichen Ehrenkodex der heldischen Epoche.

@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "Herausforderung"
-declared: "Herausforderung"
+title: "Die Herausforderung"
+declared: "Die Herausforderung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-09"
 ---
 
-# Plot: Challenge
+# Plot: Die Herausforderung
 
 ## Taxonomy
 
@@ -21,17 +21,15 @@ stamp:
 
 ## Cue
 
-_Hildebrand tritt vor die feindliche Schlachtreihe und entblößt seine Arme._
+Im [Heerlager](place_battlefield.md).
 
 ## Action
 
-Hildebrand: Nimm diese goldenen Armringe, junger Krieger. Ich bin dein Vater, der einst mit Odoaker nach Osten floh.
-
-Hadubrand: Spotte nicht meiner, alter Wolf! Seefahrer berichteten mir längst, dass mein Vater Hildebrand im Osten fiel. Du willst mich nur arglistig umgarnen!
+[Hildebrand](persona_hildebrand.md) tritt vor die feindliche Schlachtreihe und bietet seinem Sohn [Hadubrand](persona_hadubrand.md) die goldenen [Armringe](piece_armrings.md) als Friedenspfand an. [Hadubrand](persona_hadubrand.md) weist sie jedoch stolz und misstrauisch ab.
 
 ## Stage
 
-[Heerlager](place_battlefield.md)
+Bühne für Die Herausforderung.
 
 ## Tension
 

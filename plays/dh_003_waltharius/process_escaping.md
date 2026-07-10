@@ -19,18 +19,18 @@ Parent group: processes
 
 - Project: khai-plays-grimm
 
-## Has
+## Initiated by
 
-Die gefahrvolle Reise durch feindliches Gebiet unter ständiger Bedrohung.
+[Walther](persona_walther.md) und [Hildegund](persona_hildegund.md).
 
-## Orders
+## Direction
 
-Das unauffällige Verlassen des Hofes und das Meiden der Hauptwege.
+Der heimliche Auszug aus dem Palast des Hunnenkönigs.
 
-## Loses
+## Lever
 
-Verlust der Sicherheit und des Friedens.
+Der brennende Wunsch nach Freiheit und der Rückkehr in die Heimat.
 
-## Drives
+## Echo
 
-Das Verlangen nach Freiheit, Heimat und Vermählung.
+Die Verfolgung durch König Gunther und Hagen im Wald.

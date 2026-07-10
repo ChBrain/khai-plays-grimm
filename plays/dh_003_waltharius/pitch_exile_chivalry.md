@@ -19,10 +19,18 @@ Parent group: pitches
 
 - Project: khai-plays-grimm
 
-## Stage
+## Tenor
 
-Die edle, ritterliche Haltung der Geisel-Flüchtlinge, die trotz Verrat an den Ehrenregeln festhalten.
+Die würdevolle, ritterliche Haltung im Exil.
 
-## Action
+## Undertow
 
-Verleiht den blutigen Zweikämpfen im Wald eine würdevolle, fast sakrale Note.
+Der drohende Verrat durch alte Waffenbrüder.
+
+## Nerve
+
+Der verzweifelte Kampf um Freiheit und Recht.
+
+## Echo
+
+Der blutige Preis der Treue und der geschlagene Frieden am Ende.

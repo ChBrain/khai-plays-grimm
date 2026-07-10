@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "Flucht aus dem Exil"
-declared: "Flucht aus dem Exil"
+title: "Die Flucht aus dem Exil"
+declared: "Die Flucht aus dem Exil"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-09"
 ---
 
-# Plot: Escape
+# Plot: Die Flucht aus dem Exil
 
 ## Taxonomy
 
@@ -21,19 +21,15 @@ stamp:
 
 ## Cue
 
-_Während die Hunnen betrunken schlafen, führt Hildegund die bepackten Pferde leise aus dem Tor._
+Im [Wasgenwald](place_wasgenwald.md).
 
 ## Action
 
-Hildegund: Der Weg ist frei, Walther. Die Wachen schlafen schwer vom süßen Wein.
-
-Walther: Lass uns eilen, Hildegund. Wenn die Sonne aufgeht, werden Attilas Reiter uns jagen!
-
-_Sie reiten rasch in die Dunkelheit und meiden die großen Strassen._
+[Walther](persona_walther.md) und [Hildegund](persona_hildegund.md) vollziehen die [Flucht](process_escaping.md) aus Attilas Hof und retten den kostbaren [Hunnenhort](piece_treasure.md).
 
 ## Stage
 
-[Wasgenwald](place_wasgenwald.md)
+Bühne für Die Flucht aus dem Exil.
 
 ## Tension
 

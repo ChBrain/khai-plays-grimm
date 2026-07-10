@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "Hornbad"
-declared: "Hornbad"
+title: "Das Hornbad"
+declared: "Das Hornbad"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-09"
 ---
 
-# Plot: Bath
+# Plot: Das Hornbad
 
 ## Taxonomy
 
@@ -21,17 +21,15 @@ stamp:
 
 ## Cue
 
-_Das Drachenhorn schmilzt im brennenden Scheiterhaufen zu einem dicken, glänzenden Brei._
+Auf der [Gnitahaide](place_gnitahaide.md).
 
 ## Action
 
-Seyfrid: Die Kraft der Bestie soll nun auf meinen Leib übergehen!
-
-_Er taucht unerschrocken in die kochende Masse, und seine Haut erhärtet sich augenblicklich zu festem Horn, bis auf eine winzige Stelle zwischen den Schulterblättern._
+[Seyfrid](persona_seifrid.md) vollzieht das [Hornbad](process_bathing.md) im geschmolzenen Fett des [Drachen](persona_dragon.md). Dadurch formt sich die unzerstörbare [Hornhaut](piece_skin.md) auf seinem Leib.
 
 ## Stage
 
-[Gnitahaide](place_gnitahaide.md)
+Bühne für Das Hornbad.
 
 ## Tension
 

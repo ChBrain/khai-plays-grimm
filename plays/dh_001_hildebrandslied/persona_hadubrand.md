@@ -7,14 +7,14 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-07-09"
-type: legendary
+type: fictional
 ---
 
 # Persona: Hadubrand
 
 ## Taxonomy
 
-[Challenger](position_challenger.md)
+[Kämpfer](position_challenger.md)
 
 ## Owner
 

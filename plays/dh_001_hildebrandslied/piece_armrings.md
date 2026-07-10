@@ -19,10 +19,18 @@ Parent group: pieces
 
 - Project: khai-plays-grimm
 
-## Stage
+## Place
 
-Wertvolle, goldene Armringe, die von kaiserlicher Gunst zeugen.
+Im Besitz von [Hildebrand](persona_hildebrand.md).
 
-## Action
+## Load Bearing
 
-Hildebrand bietet sie als Friedenspfand an, doch Hadubrand weist sie als tückisches Geschenk ab.
+Wertvolles Gold als kaiserliche Gabe.
+
+## Apparent
+
+Zwei glänzende goldene Armringe.
+
+## Yearbook
+
+Die Geschenke, die die väterliche Treue und Zuneigung bezeugen sollen.

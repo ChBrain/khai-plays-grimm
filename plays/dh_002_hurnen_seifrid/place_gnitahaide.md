@@ -19,10 +19,18 @@ Parent group: places
 
 - Project: khai-plays-grimm
 
-## Stage
+## Shown
 
 Eine felsige, von Hitze und Asche verbrannte Heide, auf der kein Gras wächst.
 
-## Action
+## Holds
 
-Hier kommt es zum Entscheidungskampf mit dem Drachen.
+Das verlassene Nest des schuppigen Ungeheuers.
+
+## Offers
+
+Platz für den unerbittlichen Drachenkampf.
+
+## Withheld
+
+Der ungeschützte Zugang zum Drachenhort.

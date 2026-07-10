@@ -19,18 +19,18 @@ Parent group: processes
 
 - Project: khai-plays-grimm
 
-## Has
+## Initiated by
 
-Das unausweichliche Aufeinandertreffen von Lanze und Schild.
+[Hildebrand](persona_hildebrand.md) und [Hadubrand](persona_hadubrand.md).
 
-## Orders
+## Direction
 
-Das Zerschmettern der Schilde mit Eschenlanzen.
+Das unaufhaltsame Zustoßen der Eschenlanzen.
 
-## Loses
+## Lever
 
-Verlust der familiären Bindung und des Lebens.
+Der Zwang des heldischen Ehrenkodex.
 
-## Drives
+## Echo
 
-Der unerbittliche Ehrenkodex der heldischen Gesellschaft.
+Die Trauer über den schicksalhaften Brudermord oder Vatermord.

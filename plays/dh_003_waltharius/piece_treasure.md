@@ -19,10 +19,18 @@ Parent group: pieces
 
 - Project: khai-plays-grimm
 
-## Stage
+## Place
 
-Zwei Kisten gefüllt mit kostbarem Gold aus dem Besitz des Hunnischen Herrschers.
+Gepackt auf den Pferden im [Wasgenwald](place_wasgenwald.md).
 
-## Action
+## Load Bearing
 
-Das Gold weckt die Gier König Gunthers und provoziert die tödliche Verfolgung.
+Unermesslicher Reichtum, der Gunthers Begehrlichkeit weckt.
+
+## Apparent
+
+Zwei schwere, mit Goldmünzen und Spangen gefüllte Kisten.
+
+## Yearbook
+
+Das geraubte Gold Attilas, das zur Ursache des blutigen Konflikts wird.

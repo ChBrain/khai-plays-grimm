@@ -19,10 +19,18 @@ Parent group: places
 
 - Project: khai-plays-grimm
 
-## Stage
+## Shown
 
-Ein offenes Feld zwischen zwei feindlichen Heeren, kalt und windgepeitscht.
+Ein weites, offenes Feld zwischen zwei feindlichen Heeren, kalt und windgepeitscht.
 
-## Action
+## Holds
 
-Hier treffen die beiden Kämpfer vor den Augen ihrer Krieger aufeinander.
+Zwei gewappnete Heere am Horizont.
+
+## Offers
+
+Platz für einen ungestörten Zweikampf.
+
+## Withheld
+
+Die Möglichkeit einer gütlichen Einigung.

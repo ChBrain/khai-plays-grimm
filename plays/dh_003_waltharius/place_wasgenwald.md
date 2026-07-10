@@ -19,10 +19,18 @@ Parent group: places
 
 - Project: khai-plays-grimm
 
-## Stage
+## Shown
 
 Ein dichter, felsiger Wald mit engen Pässen und tiefen Schluchten.
 
-## Action
+## Holds
 
-Hier verschanzt sich Walther, um die Angreifer nacheinander im Zweikampf zu stellen.
+Schmale Bergpfade, die sich hervorragend zur Verteidigung eignen.
+
+## Offers
+
+Die Möglichkeit, eine Übermacht nacheinander im Zweikampf zu schlagen.
+
+## Withheld
+
+Der sichere Rückzugsweg im Falle einer Umgehung.

@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "Drachenkampf"
-declared: "Drachenkampf"
+title: "Der Drachenkampf"
+declared: "Der Drachenkampf"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-09"
 ---
 
-# Plot: Slay
+# Plot: Der Drachenkampf
 
 ## Taxonomy
 
@@ -21,17 +21,15 @@ stamp:
 
 ## Cue
 
-_Seyfrid nähert sich mit erhobenem Schwert dem Drachennest, während Flammen ihm entgegenschlagen._
+Auf der [Gnitahaide](place_gnitahaide.md).
 
 ## Action
 
-Seyfrid: Weiche nicht, Lindwurm! Heute endet dein Schrecken über dieser Heide!
-
-_Der Drache stürzt sich fauchend auf ihn, doch Seyfrid weicht geschickt aus und führt einen vernichtenden Schlag auf den Nacken des Tiers aus._
+[Seyfrid](persona_seifrid.md) fordert den schrecklichen [Drachen](persona_dragon.md) heraus. Mit einem mächtigen Schwertstreich spaltet er das Haupt der Bestie.
 
 ## Stage
 
-[Gnitahaide](place_gnitahaide.md)
+Bühne für Der Drachenkampf.
 
 ## Tension
 

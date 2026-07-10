@@ -19,18 +19,18 @@ Parent group: processes
 
 - Project: khai-plays-grimm
 
-## Has
+## Initiated by
 
-Das flüssige Bad im geschmolzenen Fett und Horn des Ungeheuers.
+[Seyfrid](persona_seifrid.md).
 
-## Orders
+## Direction
 
-Das Eintauchen des gesamten Leibes in die kochende Masse.
+Das Eintauchen des nackten Leibes in das flüssige Drachenhorn.
 
-## Loses
+## Lever
 
-Verlust der normalen, menschlichen Empfindsamkeit.
+Der Wille, jegliche Verwundbarkeit abzustreifen.
 
-## Drives
+## Echo
 
-Das Streben nach absoluter physischer Unbesiegbarkeit.
+Die unzerstörbare Hornhaut und das übersehene Lindenblatt.

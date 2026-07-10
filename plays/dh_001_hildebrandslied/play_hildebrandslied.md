@@ -31,19 +31,35 @@ Der altgediente Hildebrand kehrt nach Jahren aus dem Exil zurück und trifft im 
 - [Hildebrand](persona_hildebrand.md)
 - [Hadubrand](persona_hadubrand.md)
 
+**Places**
+
+- [Heerlager](place_battlefield.md)
+
+**Processes**
+
+- [Zweikampf](process_combating.md)
+
 **Positions**
 
 - [Kämpfer](position_challenger.md)
 
+**Pieces**
+
+- [Armringe](piece_armrings.md)
+
+**Pitches**
+
+- [Tragischer Konflikt](pitch_tragic_conflict.md)
+
 ## Triggers
 
-**[Plot: Challenge](plot_01_challenge.md)**
+**[Plot: Die Herausforderung](plot_01_challenge.md)**
 
-Hildebrand bietet seinem Sohn goldene Armringe als Friedenspfand an, doch Hadubrand weist sie höhnisch ab und nennt ihn einen Betrüger.
+Hildebrand bietet seinem Sohn Hadubrand goldene Armringe an, doch Hadubrand weist sie ab.
 
-**[Plot: Clash](plot_02_clash.md)**
+**[Plot: Der Zusammenstoss](plot_02_clash.md)**
 
-Da kein gütliches Einvernehmen möglich ist, zücken beide die Eschenlanzen und beginnen den tragischen Kampf.
+Da kein gütliches Einvernehmen möglich ist, beginnen beide den tragischen Kampf.
 
 ## Stakes
 

@@ -31,19 +31,35 @@ Der junge Held Seyfrid besiegt den schrecklichen Drachen auf der Gnitahaide, sch
 - [Seyfrid](persona_seifrid.md)
 - [Drache](persona_dragon.md)
 
+**Places**
+
+- [Gnitahaide](place_gnitahaide.md)
+
+**Processes**
+
+- [Hornbad](process_bathing.md)
+
 **Positions**
 
 - [Drachentöter](position_slayer.md)
 
+**Pieces**
+
+- [Hornhaut](piece_skin.md)
+
+**Pitches**
+
+- [Unverwundbarkeit](pitch_invulnerability.md)
+
 ## Triggers
 
-**[Plot: Slay](plot_01_slay.md)**
+**[Plot: Der Drachenkampf](plot_01_slay.md)**
 
-Seyfrid lockt den Drachen in einen Hinterhalt und spaltet dessen Kopf mit seinem mächtigen Schwert.
+Seyfrid erschlägt den Drachen auf der Gnitahaide.
 
-**[Plot: Bath](plot_02_bath.md)**
+**[Plot: Das Hornbad](plot_02_bath.md)**
 
-Nachdem das Horn des Drachen im Feuer geschmolzen ist, taucht Seyfrid seinen Körper in die Flüssigkeit, um sich unverwundbar zu machen.
+Seyfrid badet im geschmolzenen Drachenhorn und erhält die Hornhaut.
 
 ## Stakes
 

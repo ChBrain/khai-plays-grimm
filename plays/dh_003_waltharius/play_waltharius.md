@@ -31,19 +31,35 @@ Walther und Hildegund entkommen mit dem hunnischen Schatz aus dem Exil, werden a
 - [Walther](persona_walther.md)
 - [Hildegund](persona_hildegund.md)
 
+**Places**
+
+- [Wasgenwald](place_wasgenwald.md)
+
+**Processes**
+
+- [Flucht](process_escaping.md)
+
 **Positions**
 
 - [Hüter](position_guardian.md)
 
+**Pieces**
+
+- [Hunnenhort](piece_treasure.md)
+
+**Pitches**
+
+- [Exilierte Ehre](pitch_exile_chivalry.md)
+
 ## Triggers
 
-**[Plot: Escape](plot_01_escape.md)**
+**[Plot: Die Flucht aus dem Exil](plot_01_escape.md)**
 
-Walther und Hildegund nutzen ein Saufgelage am Hunnenhof, um mit den Pferden und dem Gold unbemerkt zu fliehen.
+Walther und Hildegund entfliehen mit dem Gold des Hunnenkönigs.
 
-**[Plot: Defense](plot_02_defense.md)**
+**[Plot: Die Verteidigung am Felsen](plot_02_defense.md)**
 
-Als die Verfolger sie im Wald einholen, stellt sich Walther an einer engen Felsspalte auf und schlägt jeden Angreifer nacheinander zurück.
+Walther verteidigt den Hunnenhort an der engen Felsspalte.
 
 ## Stakes
 

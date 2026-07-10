@@ -7,14 +7,14 @@ stamp:
   owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-07-09"
-type: legendary
+type: fictional
 ---
 
 # Persona: Drache
 
 ## Taxonomy
 
-[Slayer](position_slayer.md)
+[Drachentöter](position_slayer.md)
 
 ## Owner
 

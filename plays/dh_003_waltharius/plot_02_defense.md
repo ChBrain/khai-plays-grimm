@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "Verteidigung am Felsen"
-declared: "Verteidigung am Felsen"
+title: "Die Verteidigung am Felsen"
+declared: "Die Verteidigung am Felsen"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-09"
 ---
 
-# Plot: Defense
+# Plot: Die Verteidigung am Felsen
 
 ## Taxonomy
 
@@ -21,19 +21,15 @@ stamp:
 
 ## Cue
 
-_Waffengeklirr hallt durch den Wald, als Gunthers Mannen den engen Pass stürmen._
+Im [Wasgenwald](place_wasgenwald.md).
 
 ## Action
 
-Walther: Hier kann immer nur einer zur Zeit gegen mich antreten! Weiche zurück, Gunther!
-
-Gunther: Der Hort gehört uns! Schlagt ihn nieder, Männer!
-
-_Walther wehrt jeden Angriff an der schmalen Felsspalte ab, bis die Leichen der Angreifer den Weg versperren._
+[Walther](persona_walther.md) verteidigt den engen Pass als [Hüter](position_guardian.md) und sichert den [Hunnenhort](piece_treasure.md) gegen König Gunther.
 
 ## Stage
 
-[Wasgenwald](place_wasgenwald.md)
+Bühne für Die Verteidigung am Felsen.
 
 ## Tension
 

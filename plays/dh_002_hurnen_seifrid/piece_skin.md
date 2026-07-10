@@ -19,10 +19,18 @@ Parent group: pieces
 
 - Project: khai-plays-grimm
 
-## Stage
+## Place
 
-Das geschmolzene, flüssige Horn des Drachen, das zu einer unzerstörbaren Haut erstarrt.
+Auf dem Leib von [Seyfrid](persona_seifrid.md).
 
-## Action
+## Load Bearing
 
-Seyfrid badet darin und erhält eine hornene Haut, die ihn unverwundbar macht.
+Absolute physische Härte, die keine Waffe durchdringt.
+
+## Apparent
+
+Die hornene, schimmernde Panzerung auf Seyfrids Haut.
+
+## Yearbook
+
+Die Hornschicht, die ihn unbesiegbar macht, bis auf die verletzliche Stelle.
