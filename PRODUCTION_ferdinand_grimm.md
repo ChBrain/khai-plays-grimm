@@ -30,9 +30,9 @@ Every play is built as a play directory (`fg_NNN_`) containing:
 
 ## The Manifest: 10 Plays
 
-- `[ ]` **fg_001_das_traumgesicht** — Das Traumgesicht (The Dream Vision)
-- `[ ]` **fg_002_die_wunderbare_harfe** — Die wunderbare Harfe (The Magic Harp)
-- `[ ]` **fg_003_der_ritter_von_christburg** — Der Ritter von Christburg (The Knight of Christburg)
+- `[x]` **fg_001_das_traumgesicht** — Das Traumgesicht (The Dream Vision)
+- `[x]` **fg_002_die_wunderbare_harfe** — Die wunderbare Harfe (The Magic Harp)
+- `[x]` **fg_003_der_ritter_von_christburg** — Der Ritter von Christburg (The Knight of Christburg)
 - `[ ]` **fg_004_die_schlange_im_see** — Die Schlange im See (The Serpent in the Lake)
 - `[ ]` **fg_005_der_gespensterhuegel** — Der Gespensterhügel (The Spectre Hill)
 - `[ ]` **fg_006_die_jungfrau_auf_dem_schloss** — Die Jungfrau auf dem Schloss (The Maid of the Castle)
