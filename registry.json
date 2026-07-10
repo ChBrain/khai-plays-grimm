@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.936.0",
+  "version": "0.939.0",
   "plays": [
     {
       "kind": "play",
@@ -3830,6 +3830,24 @@
       "id": "ds_585_die_graefin_von_orlamuende",
       "title": "The Countess of Orlamünde",
       "description": "Agnes murders her two children to marry Albert, but is rejected and becomes the death-warning White Lady."
+    },
+    {
+      "kind": "play",
+      "id": "fg_001_das_traumgesicht",
+      "title": "Das Traumgesicht",
+      "description": "A dream vision warns a seeker of coming doom."
+    },
+    {
+      "kind": "play",
+      "id": "fg_002_die_wunderbare_harfe",
+      "title": "Die wunderbare Harfe",
+      "description": "A magic harp sings the truth of a hidden crime."
+    },
+    {
+      "kind": "play",
+      "id": "fg_003_der_ritter_von_christburg",
+      "title": "Der Ritter von Christburg",
+      "description": "A devoted knight defends Christburg against dark forces."
     },
     {
       "kind": "play",
