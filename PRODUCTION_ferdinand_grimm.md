@@ -30,13 +30,13 @@ Every play is built as a play directory (`fg_NNN_`) containing:
 
 ## The Manifest: 10 Plays
 
-- `[ ]` **fg_001_das_traumgesicht** — Das Traumgesicht (The Dream Vision)
-- `[ ]` **fg_002_die_wunderbare_harfe** — Die wunderbare Harfe (The Magic Harp)
-- `[ ]` **fg_003_der_ritter_von_christburg** — Der Ritter von Christburg (The Knight of Christburg)
-- `[ ]` **fg_004_die_schlange_im_see** — Die Schlange im See (The Serpent in the Lake)
-- `[ ]` **fg_005_der_gespensterhuegel** — Der Gespensterhügel (The Spectre Hill)
-- `[ ]` **fg_006_die_jungfrau_auf_dem_schloss** — Die Jungfrau auf dem Schloss (The Maid of the Castle)
-- `[ ]` **fg_007_die_koenigin_der_elfen** — Die Königin der Elfen (The Elf Queen)
-- `[ ]` **fg_008_das_gespenst_im_keller** — Das Gespenst im Keller (The Ghost in the Cellar)
-- `[ ]` **fg_009_die_riesentochter** — Die Riesentochter (The Giant's Daughter)
-- `[ ]` **fg_010_der_schatz_im_wald** — Der Schatz im Wald (The Forest Treasure)
+- `[x]` **fg_001_das_traumgesicht** — Das Traumgesicht (The Dream Vision)
+- `[x]` **fg_002_die_wunderbare_harfe** — Die wunderbare Harfe (The Magic Harp)
+- `[x]` **fg_003_der_ritter_von_christburg** — Der Ritter von Christburg (The Knight of Christburg)
+- `[x]` **fg_004_die_schlange_im_see** — Die Schlange im See (The Serpent in the Lake)
+- `[x]` **fg_005_der_gespensterhuegel** — Der Gespensterhügel (The Spectre Hill)
+- `[x]` **fg_006_die_jungfrau_auf_dem_schloss** — Die Jungfrau auf dem Schloss (The Maid of the Castle)
+- `[x]` **fg_007_die_koenigin_der_elfen** — Die Königin der Elfen (The Elf Queen)
+- `[x]` **fg_008_das_gespenst_im_keller** — Das Gespenst im Keller (The Ghost in the Cellar)
+- `[x]` **fg_009_die_riesentochter** — Die Riesentochter (The Giant's Daughter)
+- `[x]` **fg_010_der_schatz_im_wald** — Der Schatz im Wald (The Forest Treasure)
