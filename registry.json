@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.939.0",
+  "version": "0.942.0",
   "plays": [
     {
       "kind": "play",
@@ -3848,6 +3848,24 @@
       "id": "fg_003_der_ritter_von_christburg",
       "title": "Der Ritter von Christburg",
       "description": "A devoted knight defends Christburg against dark forces."
+    },
+    {
+      "kind": "play",
+      "id": "fg_004_die_schlange_im_see",
+      "title": "Die Schlange im See",
+      "description": "A fisherman catches a giant serpent in his net, unleashing terror."
+    },
+    {
+      "kind": "play",
+      "id": "fg_005_der_gespensterhuegel",
+      "title": "Der Gespensterhügel",
+      "description": "A wanderer climbs a hill at night and is forced into a spectral dance."
+    },
+    {
+      "kind": "play",
+      "id": "fg_006_die_jungfrau_auf_dem_schloss",
+      "title": "Die Jungfrau auf dem Schloss",
+      "description": "A prince rescues an enchanted maid sleeping in a ruined castle."
     },
     {
       "kind": "play",
