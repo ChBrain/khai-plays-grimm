@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.942.0",
+  "version": "0.946.0",
   "plays": [
     {
       "kind": "play",
@@ -3866,6 +3866,30 @@
       "id": "fg_006_die_jungfrau_auf_dem_schloss",
       "title": "Die Jungfrau auf dem Schloss",
       "description": "A prince rescues an enchanted maid sleeping in a ruined castle."
+    },
+    {
+      "kind": "play",
+      "id": "fg_007_die_koenigin_der_elfen",
+      "title": "Die Königin der Elfen",
+      "description": "A mortal farmer is drawn into the elf queen's magical dance."
+    },
+    {
+      "kind": "play",
+      "id": "fg_008_das_gespenst_im_keller",
+      "title": "Das Gespenst im Keller",
+      "description": "A servant girl encounters a terrifying ghost in the cellar."
+    },
+    {
+      "kind": "play",
+      "id": "fg_009_die_riesentochter",
+      "title": "Die Riesentochter",
+      "description": "A giantess takes a human farmer as a toy but is corrected by her father."
+    },
+    {
+      "kind": "play",
+      "id": "fg_010_der_schatz_im_wald",
+      "title": "Der Schatz im Wald",
+      "description": "A woodcutter finds a buried chest but is driven away by its guardian spirit."
     },
     {
       "kind": "play",
