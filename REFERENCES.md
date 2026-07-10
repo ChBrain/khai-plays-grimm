@@ -36,7 +36,7 @@ The current status of the Grimm productions within this house:
 - `[x]` **Der arme Heinrich (HA)** — Staged (1 play, `ha_001` representing the medieval legend edited and translated by the brothers)
 - `[x]` **Silva de romances viejos (SR)** — Staged (5 plays, `sr_001` to `sr_005` representing the critical edition of old Spanish romances)
 - `[x]` **Deutsche Heldensage (DH)** — Staged (5 plays, `dh_001` to `dh_005` representing the compiled German heroic legends)
-- `[ ]` **Ferdinand Philipp Grimm (FG)** — Planned (Strategy and staging to be resolved)
+- `[x]` **Ferdinand Philipp Grimm (FG)** — Staged (10 plays, `fg_001` to `fg_010` representing the third brother's folklore collections)
 
 ## Origin
 
