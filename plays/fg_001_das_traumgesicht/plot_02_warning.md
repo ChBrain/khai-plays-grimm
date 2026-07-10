@@ -27,7 +27,7 @@ In der [Kammer](place_chamber.md).
 
 Der [Geist](persona_spirit.md) spricht mit der Stimme der [Warnung](pitch_warning.md) zum [Träumer](position_dreamer.md) und offenbart das kommende Unheil, bevor das Bild im Spiegel zerspringt.
 
-## Stage =
+## Stage
 
 Bühne für Die Warnung vor dem Schicksal.
 
