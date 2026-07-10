@@ -34,7 +34,7 @@ The current status of the Grimm productions within this house:
 - `[x]` **Lieder der alten Edda (AE)** — Staged (5 plays, `ae_001` to `ae_005` representing the translated and edited Eddic mythological/heroic poems)
 - `[x]` **Der arme Heinrich (HA)** — Staged (1 play, `ha_001` representing the medieval legend edited and translated by the brothers)
 - `[x]` **Silva de romances viejos (SR)** — Staged (5 plays, `sr_001` to `sr_005` representing the critical edition of old Spanish romances)
-- `[ ]` **Deutsche Heldensage (DH)** — Planned (Strategy and staging to be resolved)
+- `[x]` **Deutsche Heldensage (DH)** — Staged (5 plays, `dh_001` to `dh_005` representing the compiled German heroic legends)
 
 ## Origin
 
