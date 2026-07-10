@@ -27,7 +27,7 @@ Die Besprechung findet im Besprechungszimmer des Theaters statt.
 
 Nicias: Lasst uns sicherstellen, dass die sprachliche Ebene streng dem Grimm-Deutsch folgt, das wir in unserem Haus verankert haben. Jedes ENACTS-Requisit und jede Persona muss sauber im System deklariert sein.
 
-Pericles: Keine Sorge, Nicias. Seine phantastischen Motive – das Traumgesicht, die wunderbare Harfe und der Ritter von Christburg – passen sich geschmeidig unseren causalen Regeln an.
+Pericles: Keine Sorge, Nicias. Seine phantastischen Motive - das Traumgesicht, die wunderbare Harfe und der Ritter von Christburg - passen sich geschmeidig unseren causalen Regeln an.
 
 ## Stage
 
