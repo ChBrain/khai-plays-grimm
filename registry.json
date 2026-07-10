@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.934.0",
+  "version": "0.936.0",
   "plays": [
     {
       "kind": "play",
@@ -80,6 +80,18 @@
       "id": "dh_003_waltharius",
       "title": "Walther und Hildegund",
       "description": "The flight of Walther and Hildegund and their defense in the Wasgenwald."
+    },
+    {
+      "kind": "play",
+      "id": "dh_004_biterolf_und_dietleib",
+      "title": "Biterolf und Dietleib",
+      "description": "The quest of Dietleib to find his father Biterolf and their reunion at Etzel's court."
+    },
+    {
+      "kind": "play",
+      "id": "dh_005_ortnit",
+      "title": "Ortnit",
+      "description": "King Ortnit's tragic death due to the dragon eggs sent by Machorel."
     },
     {
       "kind": "play",
