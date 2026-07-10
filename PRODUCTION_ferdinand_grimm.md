@@ -11,6 +11,7 @@ The plan for the Grimm house: stage Ferdinand Philipp Grimm's folklore and fairy
 Unlike the epic heroic legends of DH and AE, the _Ferdinand Philipp Grimm_ (FG) season models the **character-driven fairy tales and local legends** of Thuringian, Hessian, and foreign origins.
 
 What this buys us:
+
 - **Diverse Folklore**: Models fairy tales of magic, shape-shifting, and ghostly encounters, showing his unique regional and romantic style.
 - **Systemic Trials**: Each play illustrates human-spirit covenants, moral choices, and transformative trials under the house's strict causal rules.
 - **Bilingual Structure**: The framework schema and frontmatter keys are in English, while the prose descriptions, dialogue, and cues use authentic Grimm-Deutsch.
@@ -20,6 +21,7 @@ What this buys us:
 ## The build: one play, full Mode B
 
 Every play is built as a play directory (`fg_NNN_`) containing:
+
 - `play_*.md`: The play definition outlining the legend's ENACTS container.
 - `plot_NN_*.md`: The CAST movements of the legend's narrative progression.
 - `persona_*.md`, `place_*.md`, `process_*.md`, `piece_*.md`, `position_*.md`, `pitch_*.md`: The company assets.

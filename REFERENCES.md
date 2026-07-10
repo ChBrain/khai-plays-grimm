@@ -42,19 +42,19 @@ The current status of the Grimm productions within this house:
 
 Jacob and Wilhelm Grimm's collected works, representing their research into comparative folklore, historical linguistics, and medieval literature.
 
-| Source             | Key Work / Event                      | Scope                                            |
-| ------------------ | ------------------------------------- | ------------------------------------------------ |
-| **Brothers Grimm** | _Kinder- und Hausmärchen_ (1812–1857) | The canonical fairy tales (KHM).                 |
-| **Brothers Grimm** | _Deutsche Sagen_ (1816–1865)          | The local and historical legends (DS).           |
-| **Jacob Grimm**    | _Deutsche Mythologie_ (1835–1878)     | The cosmological and folk-belief rule-set (DM).  |
-| **Brothers Grimm** | _Irische Elfenmärchen_ (1826)         | The translation of Croker's Irish legends (IE).  |
-| **Jacob Grimm**    | _Reinhart Fuchs_ (1834)               | The medieval animal epic (RF).                   |
-| **Wilhelm Grimm**  | _Altdänische Heldenlieder_ (1811)     | The translated Danish heroic songs/ballads (AH). |
-| **Brothers Grimm** | _Lieder der alten Edda_ (1815)        | The translated Poetic Edda (AE).                 |
-| **Brothers Grimm** | _Der arme Heinrich_ (1815)            | The edited Middle High German poem (HA).         |
-| **Jacob Grimm**    | _Silva de romances viejos_ (1815)     | The edited Spanish romances (SR).                |
-| **Wilhelm Grimm**  | _Deutsche Heldensage_ (1829)          | The compiled German heroic legends (DH).         |
-| **Ferdinand Grimm**| _Lothar's Sagen und Mährchen_ (1820)   | The compiled legends and fairy tales (FG).       |
+| Source              | Key Work / Event                      | Scope                                            |
+| ------------------- | ------------------------------------- | ------------------------------------------------ |
+| **Brothers Grimm**  | _Kinder- und Hausmärchen_ (1812–1857) | The canonical fairy tales (KHM).                 |
+| **Brothers Grimm**  | _Deutsche Sagen_ (1816–1865)          | The local and historical legends (DS).           |
+| **Jacob Grimm**     | _Deutsche Mythologie_ (1835–1878)     | The cosmological and folk-belief rule-set (DM).  |
+| **Brothers Grimm**  | _Irische Elfenmärchen_ (1826)         | The translation of Croker's Irish legends (IE).  |
+| **Jacob Grimm**     | _Reinhart Fuchs_ (1834)               | The medieval animal epic (RF).                   |
+| **Wilhelm Grimm**   | _Altdänische Heldenlieder_ (1811)     | The translated Danish heroic songs/ballads (AH). |
+| **Brothers Grimm**  | _Lieder der alten Edda_ (1815)        | The translated Poetic Edda (AE).                 |
+| **Brothers Grimm**  | _Der arme Heinrich_ (1815)            | The edited Middle High German poem (HA).         |
+| **Jacob Grimm**     | _Silva de romances viejos_ (1815)     | The edited Spanish romances (SR).                |
+| **Wilhelm Grimm**   | _Deutsche Heldensage_ (1829)          | The compiled German heroic legends (DH).         |
+| **Ferdinand Grimm** | _Lothar's Sagen und Mährchen_ (1820)  | The compiled legends and fairy tales (FG).       |
 
 ## Restrictions
 
