@@ -8,7 +8,7 @@ updated: "2026-07-04"
 
 Staging the complete corpus of the Brothers Grimm as **systemic systems**: modeling the mechanical, moral, and transformative contracts, covenants, and trials of folklore and mythology. The house represents these works as strict sequences of causality, where oaths, taboos, and metamorphoses operate under precise, system-wide rules.
 
-The scope of this house covers eleven canonical collections:
+The scope of this house covers twelve canonical collections:
 
 - **Kinder- und Hausmärchen (KHM)**: 255 plays (the 210 tales of the 1857 edition plus 45 early and withdrawn tales), modeling the domestic and moral trials of the folk soul.
 - **Deutsche Sagen (DS)**: 585 plays (the 2nd edition of 1865), modeling the landscape-bound, historical, and spirit-haunted legends of local memory.
@@ -21,6 +21,7 @@ The scope of this house covers eleven canonical collections:
 - **Silva de romances viejos (SR)**: Jacob's 1815 collection and edition of old Spanish romances.
 - **Deutsche Heldensage (DH)**: Wilhelm's 1829 critical study and compilation of early and medieval German heroic legends.
 - **Ferdinand Philipp Grimm (FG)**: The third brother's 1820–1846 fairy tale and legend collections (published under Lothar, Philipp von Steinau, and Friedrich Grimm).
+- **Über deutsche Runen (UR)**: Wilhelm's 1821 runological quest and study, representing the discovery and deciphering of the German runes.
 
 ### Staging Status
 
@@ -37,6 +38,7 @@ The current status of the Grimm productions within this house:
 - `[x]` **Silva de romances viejos (SR)** — Staged (5 plays, `sr_001` to `sr_005` representing the critical edition of old Spanish romances)
 - `[x]` **Deutsche Heldensage (DH)** — Staged (5 plays, `dh_001` to `dh_005` representing the compiled German heroic legends)
 - `[x]` **Ferdinand Philipp Grimm (FG)** — Staged (10 plays, `fg_001` to `fg_010` representing the third brother's folklore collections)
+- `[x]` **Über deutsche Runen (UR)** — Staged (1 play, `ur_001` representing Wilhelm's runic quest)
 
 ## Origin
 
@@ -55,6 +57,7 @@ Jacob and Wilhelm Grimm's collected works, representing their research into comp
 | **Jacob Grimm**     | _Silva de romances viejos_ (1815)     | The edited Spanish romances (SR).                |
 | **Wilhelm Grimm**   | _Deutsche Heldensage_ (1829)          | The compiled German heroic legends (DH).         |
 | **Ferdinand Grimm** | _Lothar's Sagen und Mährchen_ (1820)  | The compiled legends and fairy tales (FG).       |
+| **Wilhelm Grimm**   | _Über deutsche Runen_ (1821)          | The runological quest and study (UR).            |
 
 ## Restrictions
 
