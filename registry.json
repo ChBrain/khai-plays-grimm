@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.947.0",
+  "version": "0.948.0",
   "plays": [
     {
       "kind": "play",
@@ -3890,6 +3890,12 @@
       "id": "fg_010_der_schatz_im_wald",
       "title": "Der Schatz im Wald",
       "description": "A woodcutter finds a buried chest but is driven away by its guardian spirit."
+    },
+    {
+      "kind": "play",
+      "id": "gs_001_goettinger_sieben",
+      "title": "Die Göttinger Sieben",
+      "description": "The historic defiance, protestation, and banishment of the Seven Professors in 1837."
     },
     {
       "kind": "play",
