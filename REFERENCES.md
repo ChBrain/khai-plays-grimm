@@ -8,7 +8,7 @@ updated: "2026-07-04"
 
 Staging the complete corpus of the Brothers Grimm as **systemic systems**: modeling the mechanical, moral, and transformative contracts, covenants, and trials of folklore and mythology. The house represents these works as strict sequences of causality, where oaths, taboos, and metamorphoses operate under precise, system-wide rules.
 
-The scope of this house covers twelve canonical collections:
+The scope of this house covers thirteen canonical collections:
 
 - **Kinder- und Hausmärchen (KHM)**: 255 plays (the 210 tales of the 1857 edition plus 45 early and withdrawn tales), modeling the domestic and moral trials of the folk soul.
 - **Deutsche Sagen (DS)**: 585 plays (the 2nd edition of 1865), modeling the landscape-bound, historical, and spirit-haunted legends of local memory.
@@ -22,6 +22,7 @@ The scope of this house covers twelve canonical collections:
 - **Deutsche Heldensage (DH)**: Wilhelm's 1829 critical study and compilation of early and medieval German heroic legends.
 - **Ferdinand Philipp Grimm (FG)**: The third brother's 1820–1846 fairy tale and legend collections (published under Lothar, Philipp von Steinau, and Friedrich Grimm).
 - **Über deutsche Runen (UR)**: Wilhelm's 1821 runological quest and study, representing the discovery and deciphering of the German runes.
+- **Göttinger Sieben (GS)**: The biographical play depicting the brothers' historic 1837 stand for academic freedom and constitutional rights.
 
 ### Staging Status
 
@@ -39,6 +40,7 @@ The current status of the Grimm productions within this house:
 - `[x]` **Deutsche Heldensage (DH)** — Staged (5 plays, `dh_001` to `dh_005` representing the compiled German heroic legends)
 - `[x]` **Ferdinand Philipp Grimm (FG)** — Staged (10 plays, `fg_001` to `fg_010` representing the third brother's folklore collections)
 - `[x]` **Über deutsche Runen (UR)** — Staged (1 play, `ur_001` representing Wilhelm's runic quest)
+- `[x]` **Göttinger Sieben (GS)** — Staged (1 play, `gs_001` representing the biographical protest of the Göttingen Seven)
 
 ## Origin
 
@@ -58,6 +60,7 @@ Jacob and Wilhelm Grimm's collected works, representing their research into comp
 | **Wilhelm Grimm**   | _Deutsche Heldensage_ (1829)          | The compiled German heroic legends (DH).         |
 | **Ferdinand Grimm** | _Lothar's Sagen und Mährchen_ (1820)  | The compiled legends and fairy tales (FG).       |
 | **Wilhelm Grimm**   | _Über deutsche Runen_ (1821)          | The runological quest and study (UR).            |
+| **Brothers Grimm**  | _Die Göttinger Sieben_ (1837)         | The historic protest and banishment (GS).        |
 
 ## Restrictions
 
