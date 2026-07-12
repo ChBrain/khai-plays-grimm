@@ -1,15 +1,15 @@
 ---
 khai: process
-title: "triumph"
-declared: "Der Triumph"
+title: "Umsturz"
+declared: "Umsturz"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-08"
+  date: "2026-07-12"
 ---
 
-# Process: Der Triumph
+# Process: Umsturz
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Wird initiiert.
+[Reinhart der Fuchs](persona_fox.md).
 
 ## Direction
 
-Führt in eine Richtung.
+Das gezielte Vergiften des Königs und das Fliehen in die eigene Feste, wodurch der gesamte Hof ohne Führung zurückbleibt.
 
 ## Lever
 
-Hebel des Prozesses.
+Der blinde Glaube des Königs an Reinharts medizinischen Rat und seine eigene Heilung.
 
 ## Echo
 
-Echo des Prozesses.
+Der Zusammenbruch der königlichen Herrschaft und der absolute Triumph der Gesetzlosigkeit.

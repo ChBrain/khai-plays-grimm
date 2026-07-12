@@ -1,12 +1,12 @@
 ---
 khai: place
-title: "castle"
+title: "Malepartus"
 declared: "Malepartus die Burg"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-08"
+  date: "2026-07-12"
 ---
 
 # Place: Malepartus die Burg
@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der Ort Malepartus die Burg wird gezeigt.
+Die uneinnehmbare, labyrinthische Feste des Fuchses im tiefen Wald.
 
 ## Holds
 
-Er hält Gegenstände.
+Die Vorräte und Beutestücke Reinharts.
 
 ## Offers
 
-Er bietet Handlungsmöglichkeiten.
+Einen sicheren Rückzugsort und Schutz vor dem Zorn des Königs.
 
 ## Withheld
 
-Er verbirgt Geheimnisse.
+Geheime Tunnel, die tief in die Erde führen.
