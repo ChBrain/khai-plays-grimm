@@ -1,15 +1,15 @@
 ---
 khai: process
-title: "singing"
-declared: "Das Singen"
+title: "Wechselsang"
+declared: "Wechselsang"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-07"
+  date: "2026-07-12"
 ---
 
-# Process: Das Singen
+# Process: Wechselsang
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Wird initiiert.
+[Die Elfen](persona_elves.md).
 
 ## Direction
 
-Führt in eine Richtung.
+Das Fortführen und rhythmische Erweitern der wochentäglichen Melodie.
 
 ## Lever
 
-Hebel des Prozesses.
+Der Wunsch, die monotone Melodie durch menschlichen Einfallsreichtum zu bereichern.
 
 ## Echo
 
-Echo des Prozesses.
+Der Zorn der Elfen über den zerstörten Takt des zweiten Sängers.

@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.948.1",
+  "version": "0.948.2",
   "plays": [
     {
       "kind": "play",
@@ -3918,8 +3918,8 @@
     {
       "kind": "play",
       "id": "ie_003_fingerhuetchen",
-      "title": "Legend of Knockshegowna",
-      "description": "A hunchback is rewarded by the fairies for adding to their song."
+      "title": "Legend of Knockgrafton",
+      "description": "One hunchback is rewarded by the fairies for adding to their song, while a second is punished for his discord and greed."
     },
     {
       "kind": "play",

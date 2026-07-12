@@ -1,15 +1,15 @@
 ---
 khai: place
-title: "hill"
-declared: "Der Hügel"
+title: "Knockgrafton"
+declared: "Hügel von Knockgrafton"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-07"
+  date: "2026-07-12"
 ---
 
-# Place: Der Hügel
+# Place: Hügel von Knockgrafton
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der Ort Der Hügel wird gezeigt.
+Der sagenumwobene, grüne Hügel von Knockgrafton unter dem nächtlichen Sternenhimmel.
 
 ## Holds
 
-Er hält Gegenstände.
+Den grasbewachsenen Feenring auf dem Gipfel.
 
 ## Offers
 
-Er bietet Handlungsmöglichkeiten.
+Einen Rastplatz für müde Wanderer bei Dämmerung.
 
 ## Withheld
 
-Er verbirgt Geheimnisse.
+Die tanzenden Geisterscharen, die erst bei völliger Dunkelheit hervortreten.

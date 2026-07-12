@@ -1,16 +1,16 @@
 ---
 khai: play
-title: "Legend of Knockshegowna"
-description: "A hunchback is rewarded by the fairies for adding to their song."
-declared: "Legend of Knockshegowna"
+title: "Legend of Knockgrafton"
+description: "One hunchback is rewarded by the fairies for adding to their song, while a second is punished for his discord and greed."
+declared: "Legend of Knockgrafton"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-07"
+  date: "2026-07-12"
 ---
 
-# Play: Legend of Knockshegowna
+# Play: Legend of Knockgrafton
 
 ## Estate
 
@@ -18,25 +18,27 @@ stamp:
 
 ## Name
 
-Legend of Knockshegowna.
+Legend of Knockgrafton.
 
 ## Arc
 
-Der Bucklige rastet am Hügel, singt ein Lied für das stille Volk und wird von seinem Buckel geheilt.
+Lusmore fügt dem Gesang der Elfen auf dem Hügel harmonisch den Mittwoch hinzu und wird von seinem Buckel befreit. Als Jack Madden davon erfährt, stört er den Elfenreigen gierig mit einem missglückten Zusatz und wird mit einem doppelten Buckel bestraft.
 
 ## Company
 
 **Personas**
 
-- [Hunchback](persona_hunchback.md)
+- [Lusmore](persona_lusmore.md)
+- [Jack Madden](persona_madden.md)
+- [Die Elfen](persona_elves.md)
 
 **Places**
 
-- [Der Hügel](place_hill.md)
+- [Hügel von Knockgrafton](place_hill.md)
 
 **Processes**
 
-- [Das Singen](process_singing.md)
+- [Wechselsang](process_singing.md)
 
 **Positions**
 
@@ -44,26 +46,31 @@ Der Bucklige rastet am Hügel, singt ein Lied für das stille Volk und wird von 
 
 **Pieces**
 
-- [Das Fingerhütchen](piece_hat.md)
+- [Neue Kleider](piece_hat.md)
+- [Der Buckel](piece_hump.md)
 
 **Pitches**
 
-- [Fortune](pitch_fortune.md)
+- [Gunst](pitch_fortune.md)
 
 ## Triggers
 
-**[Plot: Der Hügel](plot_01_huegel.md)**
+**[Plot: Der harmonische Gesang](plot_01_lusmore_song.md)**
 
-Der müde Bucklige setzt sich im Abendzwielicht auf den Hügel.
+Lusmore fügt dem Gesang der Elfen auf dem Hügel harmonisch den Mittwoch hinzu.
 
-**[Plot: Der Gesang](plot_02_gesang.md)**
+**[Plot: Die Heilung Lusmores](plot_02_lusmore_reward.md)**
 
-Die Elfen singen ihre monotone Weise, und der Mann stimmt harmonisch ein.
+Die Elfen heilen Lusmores Buckel und schenken ihm neue Kleider.
 
-**[Plot: Die Heilung](plot_03_heilung.md)**
+**[Plot: Der missglückte Gesang](plot_03_madden_disruption.md)**
 
-Der Tanzmeister nimmt den Buckel fort und schenkt ihm ein Fingerhütchen.
+Jack Madden stört den Gesang der Elfen mit einem plumpen Zusatz.
+
+**[Plot: Die doppelte Last](plot_04_madden_punishment.md)**
+
+Die Elfen bestrafen Jack Madden, indem sie ihm den alten Buckel von Lusmore aufdrücken.
 
 ## Stakes
 
-Ob der Gesang den Elfen gefällt und Heilung oder Fluch bringt.
+Ob Respekt und Harmonie belohnt werden, während Missklang und Gier Strafe ernten.
