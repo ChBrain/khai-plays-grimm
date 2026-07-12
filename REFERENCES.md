@@ -60,7 +60,7 @@ Jacob and Wilhelm Grimm's collected works, representing their research into comp
 | **Wilhelm Grimm**   | _Deutsche Heldensage_ (1829)          | The compiled German heroic legends (DH).         |
 | **Ferdinand Grimm** | _Lothar's Sagen und Mährchen_ (1820)  | The compiled legends and fairy tales (FG).       |
 | **Wilhelm Grimm**   | _Über deutsche Runen_ (1821)          | The runological quest and study (UR).            |
-| **Brothers Grimm**  | _Die Göttinger Sieben_ (1837)         | The historic protest and banishment (GS).         |
+| **Brothers Grimm**  | _Die Göttinger Sieben_ (1837)         | The historic protest and banishment (GS).        |
 
 ## Restrictions
 
