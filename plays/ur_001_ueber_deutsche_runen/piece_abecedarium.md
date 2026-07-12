@@ -25,7 +25,7 @@ Auf dem Studiertisch in der [Kasseler Bibliothek](place_library.md).
 
 ## Load Bearing
 
-Das Dokument, das den unumstößlichen Beweis für die deutsche Runic-Tradition liefert.
+Das Dokument, das den unumstößlichen Beweis für die deutsche Runen-Tradition liefert.
 
 ## Apparent
 

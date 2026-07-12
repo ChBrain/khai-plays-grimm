@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"Das Feuer verzehrt die sterbliche Hülle auf dem Pyre."
+"Das Feuer verzehrt die sterbliche Hülle auf dem Scheiterhaufen."
 
 ## Stage
 
