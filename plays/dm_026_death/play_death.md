@@ -58,7 +58,7 @@ Die Schildjungfrau wählt die Gefallenen auf dem Schlachtfeld.
 
 **[Plot: Der Leichenbrand](plot_02_leichenbrand.md)**
 
-Das Feuer verzehrt die sterbliche Hülle auf dem Pyre.
+Das Feuer verzehrt die sterbliche Hülle auf dem Scheiterhaufen.
 
 **[Plot: Das Hügelgrab](plot_03_huegelgrab.md)**
 

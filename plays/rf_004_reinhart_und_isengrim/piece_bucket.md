@@ -25,7 +25,7 @@ Liegt an einem Ort.
 
 ## Load Bearing
 
-Trägt Lasten der Erzänlung.
+Trägt Lasten der Erzählung.
 
 ## Apparent
 
