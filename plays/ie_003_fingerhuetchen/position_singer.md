@@ -1,12 +1,12 @@
 ---
 khai: position
-title: "singer"
+title: "Sänger"
 declared: "Sänger"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-07"
+  date: "2026-07-12"
 ---
 
 # Position: Sänger
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Besitzt Eigenschaften.
+Das musikalische Gehör und die Stimme vor dem Geistervolk.
 
 ## Orders
 
-Befiehlt Aktionen.
+Ergänzt den nächtlichen Elfenreigen mit passenden Versen.
 
 ## Loses
 
-Verliert Einfluss.
+Verlust der Gunst und Erleiden des körperlichen Schadens bei Missklang.
 
 ## Drives
 
-Treibt die Handlung.
+Der Drang, die Gunst der Elfen für eine Befreiung vom eigenen Leiden zu gewinnen.

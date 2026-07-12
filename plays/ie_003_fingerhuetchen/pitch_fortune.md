@@ -1,15 +1,15 @@
 ---
 khai: pitch
-title: "fortune"
-declared: "Glückswechsel"
+title: "Gunst"
+declared: "Gunst"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-07"
+  date: "2026-07-12"
 ---
 
-# Pitch: Glückswechsel
+# Pitch: Gunst
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: pitches
 
 ## Tenor
 
-Der Tenor von Glückswechsel.
+Das freudige, harmonische Aufklingen der Feenstimmen.
 
 ## Undertow
 
-Der Sog von Glückswechsel.
+Die plötzliche, eisige Wendung zu Zorn und Missgunst bei Störung der Ordnung.
 
 ## Nerve
 
-Der Nerv von Glückswechsel.
+Die Anspannung beim Einfügen der neuen Worte in die Melodie.
 
 ## Echo
 
-Das Echo von Glückswechsel.
+Die Erlösung des ersten und die doppelte Bestrafung des zweiten Mannes.

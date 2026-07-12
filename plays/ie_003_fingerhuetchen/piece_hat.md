@@ -1,15 +1,15 @@
 ---
 khai: piece
-title: "hat"
-declared: "Das Fingerhütchen"
+title: "Kleider"
+declared: "Neue Kleider"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-07"
+  date: "2026-07-12"
 ---
 
-# Piece: Das Fingerhütchen
+# Piece: Neue Kleider
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: pieces
 
 ## Place
 
-Liegt an einem Ort.
+Im Besitz von [Lusmore](persona_lusmore.md) nach seiner Erlösung.
 
 ## Load Bearing
 
-Trägt Lasten der Erzählung.
+Das äußere Zeichen der sozialen Aufwertung des ersten Buckligen.
 
 ## Apparent
 
-Offensichtliche Eigenschaft.
+Ein prächtiger, elfengleicher Anzug aus feinstem grünem Tuch.
 
 ## Yearbook
 
-Jahrbuch-Eintrag.
+Die Kleider, die den geheilten Lusmore als Freund des kleinen Volkes ausweisen.
