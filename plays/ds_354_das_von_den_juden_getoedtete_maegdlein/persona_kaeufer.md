@@ -1,7 +1,7 @@
 ---
 khai: persona
 title: "Kaeufer"
-declared: "Jüdische Käufer"
+declared: "Käufer"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -10,7 +10,7 @@ stamp:
 type: fictional
 ---
 
-# Persona: Jüdische Käufer
+# Persona: Käufer
 
 ## Taxonomy
 
@@ -22,16 +22,16 @@ type: fictional
 
 ## Projection
 
-Beschreibung der Gestalt von Jüdische Käufer.
+Namenlose Käufer ohne Herkunft und ohne Antlitz: allein durch ihren Handel bestimmt. Sie kaufen, was nicht verkauft werden darf.
 
 ## Action
 
-Aktion von Jüdische Käufer.
+Sie erwerben das [Mädchen Margrethchen](persona_margrethchen.md) von der [Geizigen alten Frau](persona_altweib.md), vollziehen die [Aderlass-Marterung](process_blutentzug.md) und versenken den Leichnam unter der [Last von Steinen](piece_steine.md) im [Enz-Fluss](place_enz.md).
 
 ## Shadow
 
-Schatten von Jüdische Käufer.
+Ihr Grund bleibt ungenannt: die Sage kennt nur den Kauf und die Tat. Ihr Dunkel ist die Leerstelle, die keine Deutung füllen darf.
 
 ## Tell
 
-Beschreibung des Tells.
+Wo sie dem Leichnam nahen, beginnt das [Strömende Wundblut](piece_blutfluss.md) zu fließen.
