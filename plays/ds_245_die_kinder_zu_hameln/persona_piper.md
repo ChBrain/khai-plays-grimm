@@ -1,16 +1,16 @@
 ---
 khai: persona
-title: "Piper"
-declared: "Pfeifer Bundting"
+title: "Pfeifer"
+declared: "Der Pfeifer"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-28"
+  date: "2026-07-13"
 type: fictional
 ---
 
-# Persona: Pfeifer Bundting
+# Persona: Der Pfeifer
 
 ## Taxonomy
 
@@ -22,16 +22,16 @@ type: fictional
 
 ## Projection
 
-Beschreibung der Gestalt von Pfeifer Bundting.
+Der Pfeifer (auch Bundting genannt) ist ein fremder, wunderlicher Spielmann in bunten Gewändern, der später als roter Jäger verkleidet wiederkehrt.
 
 ## Action
 
-Aktion von Pfeifer Bundting.
+Er befreit die Stadt von Ratten mit seiner Flöte, und entführt später die 130 Kinder in den Koppenberg.
 
 ## Shadow
 
-Schatten von Pfeifer Bundting.
+Sein unbarmherziger Rachedurst lässt ihn unschuldige Kinder für die Wortbrüchigkeit der Erwachsenen büßen.
 
 ## Tell
 
-Beschreibung des Tells.
+Er führt eine glänzende, wundersame Flöte (Pfeife) mit sich, deren Töne alles Getier und alle Kinder bannen.

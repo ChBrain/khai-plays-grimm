@@ -1,12 +1,12 @@
 ---
 khai: position
-title: "piper"
+title: "Pfeifer"
 declared: "Pfeifer"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-28"
+  date: "2026-07-13"
 ---
 
 # Position: Pfeifer
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Besitzt Eigenschaften.
+Die absolute Macht über die Bewegung der Massen durch Musik.
 
 ## Orders
 
-Befiehlt Aktionen.
+Pfeift das Lied des Bundes und zieht spielend voran.
 
 ## Loses
 
-Verliert Einfluss.
+Verliert nach dem Lohnbetrug das Vertrauen in das Versprechen der Menschen.
 
 ## Drives
 
-Treibt die Handlung.
+Der Wille, die Schuldigen mit dem Schmerzvollsten zu strafen: dem Verlust ihrer Zukunft.

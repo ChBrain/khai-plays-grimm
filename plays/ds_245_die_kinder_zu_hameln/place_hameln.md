@@ -1,12 +1,12 @@
 ---
 khai: place
-title: "hameln"
+title: "Stadt Hameln"
 declared: "Stadt Hameln"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-28"
+  date: "2026-07-13"
 ---
 
 # Place: Stadt Hameln
@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der Ort Stadt Hameln wird gezeigt.
+Die mittelalterliche, von engen Gassen geprägte Stadt Hameln an der Weser.
 
 ## Holds
 
-Er hält Gegenstände.
+Die Bürgerhäuser, das Rathaus und die Bungelosenstraße.
 
 ## Offers
 
-Er bietet Handlungsmöglichkeiten.
+Die Nahrung für die Rattenplage und später den Ausgangspunkt für den Kinderzug.
 
 ## Withheld
 
-Er verbirgt Geheimnisse.
+Das tiefe Schuldgefühl der Bürger nach dem Verrat am Pfeifer.

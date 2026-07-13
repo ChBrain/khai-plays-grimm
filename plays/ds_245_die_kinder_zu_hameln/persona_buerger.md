@@ -1,16 +1,16 @@
 ---
 khai: persona
 title: "Buerger"
-declared: "Hamelner Ratsherren"
+declared: "Hamelner Bürger"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-28"
+  date: "2026-07-13"
 type: fictional
 ---
 
-# Persona: Hamelner Ratsherren
+# Persona: Hamelner Bürger
 
 ## Taxonomy
 
@@ -22,16 +22,16 @@ type: fictional
 
 ## Projection
 
-Beschreibung der Gestalt von Hamelner Ratsherren.
+Die wohlhabenden, aber geizigen und wortbrüchigen Bürger und Ratsherren der Stadt Hameln.
 
 ## Action
 
-Aktion von Hamelner Ratsherren.
+Sie weigern sich, den versprochenen Lohn nach der Rattenbefreiung zu zahlen.
 
 ## Shadow
 
-Schatten von Hamelner Ratsherren.
+Ihre Habgier und ihr mangelnder Respekt vor dem Fremden stürzen die gesamte Stadt in tiefstes Elend.
 
 ## Tell
 
-Beschreibung des Tells.
+Sie tragen vornehme Patrizierkleidung und zählen geizig ihre Taler.

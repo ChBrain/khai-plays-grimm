@@ -1,12 +1,12 @@
 ---
 khai: process
-title: "rattenzug"
+title: "Rattenzug"
 declared: "Rattenzug"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-28"
+  date: "2026-07-13"
 ---
 
 # Process: Rattenzug
@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Wird initiiert.
+[Der Pfeifer](persona_piper.md).
 
 ## Direction
 
-Führt in eine Richtung.
+Das Heranlocken aller Ratten und Mäuse durch Flötenspiel und deren geordnetes Führen in den Weser-Strom.
 
 ## Lever
 
-Hebel des Prozesses.
+Die unwiderstehliche Frequenz der Zauberpfeife, die das Ungeziefer blindlings ins Verderben laufen lässt.
 
 ## Echo
 
-Echo des Prozesses.
+Die scheinbare Erleichterung der Bürger über das Ende der Plage.
