@@ -33,4 +33,4 @@ Bühne für Die Warnung.
 
 ## Tension
 
-Spannung des Plots.
+Die eindringliche Warnung des treuen Eckarts stößt auf den Unglauben der Jungen, die sich neugierig dem unheimlichen Geisterzug nähern.

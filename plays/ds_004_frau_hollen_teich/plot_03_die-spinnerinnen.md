@@ -33,4 +33,4 @@ Bühne für Die Spinnerinnen.
 
 ## Tension
 
-Spannung des Plots.
+Die Prüfung des Fleißes: Frau Holle belohnt die ausdauernde Mühe mit echtem Silber, während sie den Garnschmutz und die Trägheit der Nachlässigen hart bestraft.

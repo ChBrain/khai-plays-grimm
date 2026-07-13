@@ -33,4 +33,4 @@ Bühne für Der Schäfer.
 
 ## Tension
 
-Spannung des Plots.
+Der Versuch des Schäfers, den im Boden vergrabenen, geheimnisvollen Schatz der Boyneburg-Sagen zu heben, wird durch unsichtbare Kräfte blockiert.

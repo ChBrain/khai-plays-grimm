@@ -33,4 +33,4 @@ Bühne für Das Testament.
 
 ## Tension
 
-Spannung des Plots.
+Das Verfassen des Testaments vor dem herannahenden Sturm besiegelt die gelassene Bereitschaft der jüngsten Schwester, ihr Schicksal anzunehmen.

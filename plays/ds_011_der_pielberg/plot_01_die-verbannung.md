@@ -33,4 +33,4 @@ Bühne für Die Verbannung.
 
 ## Tension
 
-Spannung des Plots.
+Die uralte Verwünschung durch die unbarmherzigen Eltern verbannt die unschuldige Jungfrau in ein einsames Dasein im Inneren des Pielbergs.

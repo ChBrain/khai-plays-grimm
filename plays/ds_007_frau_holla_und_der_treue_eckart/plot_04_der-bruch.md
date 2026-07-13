@@ -33,4 +33,4 @@ Bühne für Der Bruch des Schweigens.
 
 ## Tension
 
-Spannung des Plots.
+Die Unfähigkeit, das Geheimnis der Herkunft des wundersamen Bieres vor den spöttischen Nachbarn zu bewahren, lässt den ewigen Segen jäh versiegen.

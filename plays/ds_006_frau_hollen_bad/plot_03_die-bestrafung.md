@@ -33,4 +33,4 @@ Bühne für Die Bestrafung.
 
 ## Tension
 
-Spannung des Plots.
+Das erzürnte Urteil der verletzten Göttin straft die frevelhafte Beobachtung des Spötters mit plötzlicher Erblindung und dem Untergang im Schlamm.

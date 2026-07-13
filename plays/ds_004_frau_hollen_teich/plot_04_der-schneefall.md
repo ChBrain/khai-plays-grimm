@@ -33,4 +33,4 @@ Bühne für Der Schneefall.
 
 ## Tension
 
-Spannung des Plots.
+Das heftige Schütteln der schweren Betten im fernen Schloss wirft weiße Federn auf die Erde und bringt den eisigen Winter über das Land.

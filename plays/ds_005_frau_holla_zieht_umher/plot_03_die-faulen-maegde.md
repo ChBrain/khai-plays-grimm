@@ -33,4 +33,4 @@ Bühne für Die faulen Mägde.
 
 ## Tension
 
-Spannung des Plots.
+Die Nachlässigkeit und Trägheit der faulen Mägde, die ihre Spinnarbeit vor der heiligen Zeit unfertig liegen lassen, provozieren Hollas gerechten Zorn.

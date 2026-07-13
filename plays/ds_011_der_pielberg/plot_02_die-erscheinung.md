@@ -33,4 +33,4 @@ Bühne für Die Erscheinung.
 
 ## Tension
 
-Spannung des Plots.
+Die seltene Gelegenheit zur Erlösung: Die Jungfrau zeigt sich zur Mittagszeit in prachtvollem Gewand, um Mitleid und Hilfe von Sterblichen zu flehen.

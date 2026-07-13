@@ -33,4 +33,4 @@ Bühne für Das Vergessen.
 
 ## Tension
 
-Spannung des Plots.
+Die blendende Goldgier des Schäfers lässt ihn das wichtigste Gut—die magische Springwurzel selbst—vergessen und führt zu seinem ewigen Einschluss im Berg.

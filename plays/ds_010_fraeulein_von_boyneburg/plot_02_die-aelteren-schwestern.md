@@ -33,4 +33,4 @@ Bühne für Die älteren Schwestern.
 
 ## Tension
 
-Spannung des Plots.
+Das ängstliche Flehen der älteren Schwestern, dem drohenden Untergang durch Flucht oder Verstecken im tiefen Keller zu entkommen.

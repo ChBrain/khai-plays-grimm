@@ -33,4 +33,4 @@ Bühne für Der Blitzschlag.
 
 ## Tension
 
-Spannung des Plots.
+Der gewaltige Einschlag des Blitzes in die Burg reißt die gefasste jüngste Schwester jäh hinweg, während die älteren schreckensstarr zurückbleiben.

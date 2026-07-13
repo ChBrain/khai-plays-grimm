@@ -33,4 +33,4 @@ Bühne für Der Traum.
 
 ## Tension
 
-Spannung des Plots.
+Die düstere Vorahnung des nahenden Schicksals im gemeinsamen Traum der drei Schwestern wirft einen Schatten des Todes über die Boyneburg.

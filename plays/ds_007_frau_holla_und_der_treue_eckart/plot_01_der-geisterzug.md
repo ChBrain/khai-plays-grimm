@@ -33,4 +33,4 @@ Bühne für Der Geisterzug.
 
 ## Tension
 
-Spannung des Plots.
+Der wilde Ansturm des unheimlichen Geisterheeres zur Weihnachtszeit droht alle unvorsichtigen Wanderer in den tödlichen Strudel zu reißen.

@@ -33,4 +33,4 @@ Bühne für Die Störung.
 
 ## Tension
 
-Spannung des Plots.
+Die unbezähmbare Neugier des herannahenden Wanderers treibt ihn dazu, das absolute Gebot der Stille zu missachten und die Badende heimlich zu beobachten.

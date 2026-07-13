@@ -33,4 +33,4 @@ Bühne für Die Badestunde.
 
 ## Tension
 
-Spannung des Plots.
+Die heilige Mittagsstille über dem einsamen Pfuhl und das strikte Verbot für Sterbliche, das göttliche Bad der Holle mit ungewaschenen Augen zu betrachten.

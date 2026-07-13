@@ -33,4 +33,4 @@ Bühne für Der Wirtshausverrat.
 
 ## Tension
 
-Spannung des Plots.
+Die betrunkene Pralerei und Unachtsamkeit der Bergleute im lauten Wirtshaus verletzen das gebotene Schweigegebot und zerstören das wunderbare Bündnis für immer.

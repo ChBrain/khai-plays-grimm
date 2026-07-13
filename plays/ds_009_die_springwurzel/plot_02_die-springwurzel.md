@@ -33,4 +33,4 @@ Bühne für Die Springwurzel.
 
 ## Tension
 
-Spannung des Plots.
+Die Suche des verzweifelten Spechts nach der seltenen, feurigen Springwurzel, um den eisernen Verschluss des Nestes mit magischer Kraft aufzusprengen.

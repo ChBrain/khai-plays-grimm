@@ -33,4 +33,4 @@ Bühne für Die Meidung.
 
 ## Tension
 
-Spannung des Plots.
+Die lähmende Furcht der Dorfbewohner vor dem unheimlichen Spuk auf dem Spielberg verhindert, dass ein mutiger Mensch die erlösende Tat vollbringt.

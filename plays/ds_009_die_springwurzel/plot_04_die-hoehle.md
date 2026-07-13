@@ -33,4 +33,4 @@ Bühne für Die Höhle.
 
 ## Tension
 
-Spannung des Plots.
+Die magische Öffnung des fest verschlossenen Schatzberges durch die Berührung der Wurzel offenbart unermesslichen Reichtum hinter den Felsen.
