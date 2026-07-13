@@ -1,13 +1,13 @@
 ---
 khai: play
 title: "William Tell"
-description: "Wilhelm Tell refuses to bow to Gessler's hat and is forced to shoot an apple off his son's head."
+description: "Tell refuses to bow to Gessler's hat, shoots an apple off his son's head, and kills the tyrant."
 declared: "Wilhelm Tell"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-03"
+  date: "2026-07-13"
 ---
 
 # Play: Wilhelm Tell
@@ -22,7 +22,7 @@ Wilhelm Tell.
 
 ## Arc
 
-Tell verweigert den Gruß des Hutes. Gessler zwingt ihn zum Apfelschuss. Tell trifft, flieht im Sturm über den See und erschießt Gessler.
+Tell verweigert den Gruß des Hutes in Altdorf. Gessler zwingt ihn zum Apfelschuss. Tell trifft, entkommt im Sturm auf dem See und erschießt Gessler im Hohlweg bei Küssnacht.
 
 ## Company
 
@@ -33,7 +33,9 @@ Tell verweigert den Gruß des Hutes. Gessler zwingt ihn zum Apfelschuss. Tell tr
 
 **Places**
 
-- [Hohle Gasse](place_hohle_gasse.md)
+- [Marktplatz von Altdorf](place_altdorf.md)
+- [Vierwaldstättersee im Sturm](place_lake.md)
+- [Hohle Gasse bei Küssnacht](place_hohle_gasse.md)
 
 **Processes**
 
@@ -42,12 +44,12 @@ Tell verweigert den Gruß des Hutes. Gessler zwingt ihn zum Apfelschuss. Tell tr
 
 **Positions**
 
-- [Freischuetz](position_marksman.md)
+- [Freischütz](position_marksman.md)
 - [Despot](position_tyrant.md)
 
 **Pieces**
 
-- [Armbrust](piece_armbrust.md)
+- [Tells Armbrust](piece_armbrust.md)
 
 **Pitches**
 
@@ -55,17 +57,21 @@ Tell verweigert den Gruß des Hutes. Gessler zwingt ihn zum Apfelschuss. Tell tr
 
 ## Triggers
 
-**[Plot: Der Hut](plot_01_der-hut.md)**
+**[Plot: Der Hut in Altdorf](plot_01_der-hut.md)**
 
-Gessler fordert die Ehrerbietung vor dem Hut; Tell verweigert den Kniefall.
+Tell verweigert dem kaiserlichen Hut in Altdorf die Ehrerbietung.
 
 **[Plot: Der Apfelschuss](plot_02_der-apfelschuss.md)**
 
-Tell vollzieht den erzwungenen [Apfelschuss](process_apfel.md) mit der [Armbrust](piece_armbrust.md).
+Gessler zwingt Tell zum Apfelschuss auf dem Marktplatz.
 
-**[Plot: Die Rache](plot_03_die-rache.md)**
+**[Plot: Die Flucht im Sturm](plot_03_sturm.md)**
 
-Tells Flucht mündet im [Tyrannenmord](process_mord.md) im Zeichen von [Freiheits-Kampf](pitch_tell.md).
+Tell rettet das Boot im Unwetter auf dem See und entkommt durch einen Sprung ans Ufer.
+
+**[Plot: Das Gericht im Hohlweg](plot_04_rache.md)**
+
+Tell lauert dem Vogt in der Hohlen Gasse auf und erschießt ihn mit der Armbrust.
 
 ## Stakes
 

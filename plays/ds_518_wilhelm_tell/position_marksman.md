@@ -1,15 +1,15 @@
 ---
 khai: position
-title: "marksman"
-declared: "Freischuetz"
+title: "Freischuetz"
+declared: "Freischütz"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-03"
+  date: "2026-07-13"
 ---
 
-# Position: Freischuetz
+# Position: Freischütz
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Besitzt Eigenschaften.
+Die unfehlbare Präzision und das ruhige Auge unter tödlichem Druck.
 
 ## Orders
 
-Befiehlt Aktionen.
+Spannt die Sehne, legt den Pfeil auf und visiert das ferne Ziel an.
 
 ## Loses
 
-Verliert Einfluss.
+Verliert im Moment des Schusses die Ruhe und gibt sich dem unausweichlichen Kampf hin.
 
 ## Drives
 
-Treibt die Handlung.
+Die Entschlossenheit, Unschuldige zu schützen und den Unterdrücker zu richten.

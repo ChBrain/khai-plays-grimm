@@ -1,16 +1,16 @@
 ---
 khai: persona
 title: "Gessler"
-declared: "Landvogt Gessler"
+declared: "Hermann Gessler"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-03"
+  date: "2026-07-13"
 type: fictional
 ---
 
-# Persona: Landvogt Gessler
+# Persona: Hermann Gessler
 
 ## Taxonomy
 
@@ -22,16 +22,16 @@ type: fictional
 
 ## Projection
 
-Beschreibung der Gestalt von Landvogt Gessler.
+Hermann Gessler ist der hochmütige, grausame habsburgische Landvogt in Altdorf.
 
 ## Action
 
-Aktion von Landvogt Gessler.
+Er fordert die absolute Unterwerfung der Schweizer Eidgenossen unter kaiserliche Symbole und zwingt Tell zum Apfelschuss.
 
 ## Shadow
 
-Schatten von Landvogt Gessler.
+Seine tiefe Verachtung für das freie Bauernvolk verblendet ihn und führt ihn direkt in Tells Hinterhalt.
 
 ## Tell
 
-Beschreibung des Tells.
+Er ist prachtvoll in Samt und Seide gehüllt und reitet auf einem stolzen Streitross.

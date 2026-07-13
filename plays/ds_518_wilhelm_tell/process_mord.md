@@ -1,12 +1,12 @@
 ---
 khai: process
-title: "mord"
+title: "Tyrannenmord"
 declared: "Tyrannenmord"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-03"
+  date: "2026-07-13"
 ---
 
 # Process: Tyrannenmord
@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Wird initiiert.
+[Wilhelm Tell](persona_tell.md).
 
 ## Direction
 
-Führt in eine Richtung.
+Das Töten des Vogts Gessler aus dem Hinterhalt zur Befreiung des Landes.
 
 ## Lever
 
-Hebel des Prozesses.
+Der Schutz der eigenen Familie und die unerträgliche Willkür des habsburgischen Regimes.
 
 ## Echo
 
-Echo des Prozesses.
+Die Signalwirkung für den allgemeinen Aufstand der Eidgenossen und das Ende der Tyrannei.
