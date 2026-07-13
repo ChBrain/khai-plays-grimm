@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-09"
+  date: "2026-07-13"
 type: fictional
 ---
 
@@ -22,16 +22,16 @@ Parent group: personas
 
 ## Projection
 
-Beschreibung der Gestalt von Roldan.
+Roldan (Roland) ist der tapferste Paladin Kaiser Karls, der in Roncesvalles kämpft.
 
 ## Action
 
-Aktion von Roldan.
+Er stirbt den Heldentod in den Pyrenäen, was durch den Traum seiner Braut Alda prophezeit wird.
 
 ## Shadow
 
-Schatten von Roldan.
+Sein ferner Kampfgeist trennt ihn unwiderruflich von der Heimat und seiner wartenden Braut.
 
 ## Tell
 
-Beschreibung des Tells.
+Er wird im Traum als edler Falke dargestellt, der vom wilden Adler gejagt wird.

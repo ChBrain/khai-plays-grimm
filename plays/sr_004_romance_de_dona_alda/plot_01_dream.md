@@ -1,12 +1,12 @@
 ---
 khai: plot
-title: "01_dream"
+title: "Der schreckliche Traum"
 declared: "Der schreckliche Traum"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-09"
+  date: "2026-07-13"
 ---
 
 # Plot: Der schreckliche Traum
@@ -21,16 +21,20 @@ stamp:
 
 ## Cue
 
-[Die königlichen Gärten](place_gardens.md).
+In den [königlichen Gärten](place_gardens.md).
 
 ## Action
 
-"Alda erwacht schreiend und berichtet ihren Hofdamen von dem Falken, der unter den Fittichen des Adlers Schutz suchte, doch zerfleischt wurde."
+[Doña Alda](persona_alda.md) erwacht schreiend aus einem schrecklichen [Traum](piece_dream.md), in dem ein flüchtender Falke unter ihrem eigenen Gewand Schutz vor einem wilden Adler suchte, von diesem jedoch darunter hervorgezerrt und zerrissen wurde. Ihre Hofdamen deuten den Traum beruhigend: Der Falke sei ihr Bräutigam [Roldan](persona_roland.md), der Adler sie selbst, und ihr Gewand die Kirche, die sie im Bund der Ehe vereinen werde, was Alda tröstet.
 
 ## Stage
 
-Bühne für Der schreckliche Traum.
+- [Alda](persona_alda.md): die von Albträumen gequälte Braut.
+- [Dream](piece_dream.md): das unheilvolle Traumbild des Falken.
+- [Gardens](place_gardens.md): der Ort des träumerischen Schreckens.
+- [Dreaming](process_dreaming.md): der Vorgang der unbewussten Sehbotschaft.
+- [Waiting](position_waiting.md): die sehnsuchtsvolle Erwartung der Braut.
 
 ## Tension
 
-Spannung des Plots.
+Die Erleichterung Aldas über die beruhigende, doch falsche Deutung ihrer Hofdamen überdeckt nur mühsam die tief sitzende Angst vor dem Omen.

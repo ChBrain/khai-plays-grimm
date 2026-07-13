@@ -1,12 +1,12 @@
 ---
 khai: place
-title: "gardens"
+title: "Die Gärten"
 declared: "Die königlichen Gärten"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-09"
+  date: "2026-07-13"
 ---
 
 # Place: Die königlichen Gärten
@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der Ort Die königlichen Gärten wird gezeigt.
+Die schattigen, grünen Palastgärten in Paris, erfüllt vom sanften Klang der Instrumente.
 
 ## Holds
 
-Er hält Gegenstände.
+Die dreihundert Hofdamen Doña Aldas, die weben, spinnen und musizieren.
 
 ## Offers
 
-Er bietet Handlungsmöglichkeiten.
+Einen friedlichen Zufluchtsort der Muße, der jedoch von Albträumen heimgesucht wird.
 
 ## Withheld
 
-Er verbirgt Geheimnisse.
+Die blutige Realität des fernen Schlachtfeldes von Roncesvalles.

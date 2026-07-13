@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-09"
+  date: "2026-07-13"
 type: fictional
 ---
 
@@ -22,16 +22,16 @@ type: fictional
 
 ## Projection
 
-Beschreibung der Gestalt von Doña Alda.
+Doña Alda ist die edle und sensible Verlobte des berühmten Helden Roldan in Paris.
 
 ## Action
 
-Aktion von Doña Alda.
+Sie träumt voller Entsetzen vom Tod ihres Geliebten, lässt sich kurzzeitig trösten und stirbt vor Schmerz beim Empfang der Todesnachricht.
 
 ## Shadow
 
-Schatten von Doña Alda.
+Ihre unheilvolle Vorahnung bricht durch ihren Schlaf und verweigert die trügerische Beruhigung durch ihre Hofdamen.
 
 ## Tell
 
-Beschreibung des Tells.
+Sie ist umgeben von dreihundert Hofdamen, die weben und musizieren, um sie zu erheitern.

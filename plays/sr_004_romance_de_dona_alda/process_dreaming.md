@@ -1,12 +1,12 @@
 ---
 khai: process
-title: "dreaming"
+title: "Traeumen"
 declared: "Das Träumen"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-09"
+  date: "2026-07-13"
 ---
 
 # Process: Das Träumen
@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Wird initiiert.
+[Doña Alda](persona_alda.md).
 
 ## Direction
 
-Führt in eine Richtung.
+Das Empfangen einer nächtlichen Offenbarung im Schlaf, die das Schicksal des Geliebten offenbart.
 
 ## Lever
 
-Hebel des Prozesses.
+Die tiefe spirituelle Verbindung und die ungelöste Sorge um den fernen Bräutigam.
 
 ## Echo
 
-Echo des Prozesses.
+Das schreiende Erwachen und das verzweifelte Suchen nach einer tröstenden Deutung.

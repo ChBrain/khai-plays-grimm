@@ -1,15 +1,15 @@
 ---
 khai: pitch
-title: "grief"
-declared: "Die Vorahnung"
+title: "Grief"
+declared: "Grief"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-09"
+  date: "2026-07-13"
 ---
 
-# Pitch: Die Vorahnung
+# Pitch: Grief
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: pitches
 
 ## Tenor
 
-Der Tenor von Die Vorahnung.
+Die melancholische, von Vorahnung und Trauer erfüllte Grundtonart.
 
 ## Undertow
 
-Der Sog von Die Vorahnung.
+Der leise Schrecken des unerbittlichen Todes, der sich unter der sanften Musik der Gärten verbirgt.
 
 ## Nerve
 
-Der Nerv von Die Vorahnung.
+Der erschütternde Schrei Aldas beim Erwachen und das plötzliche Brechen ihres Herzens.
 
 ## Echo
 
-Das Echo von Die Vorahnung.
+Die bleibende Klage der dreihundert Jungfrauen über den Verlust ihrer Herrin und des Helden.
