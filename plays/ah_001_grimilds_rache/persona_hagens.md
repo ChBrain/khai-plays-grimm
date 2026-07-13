@@ -1,16 +1,16 @@
 ---
 khai: persona
-title: "Hagens"
-declared: "Hagen der Held"
+title: "Hagen"
+declared: "Hagen von Tronje"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-09"
+  date: "2026-07-13"
 type: fictional
 ---
 
-# Persona: Hagen der Held
+# Persona: Hagen von Tronje
 
 ## Taxonomy
 
@@ -22,16 +22,16 @@ Parent group: personas
 
 ## Projection
 
-Beschreibung der Gestalt von Hagen der Held.
+Hagen ist der finstere, furchtlose Krieger und Mörder des Helden Sivard.
 
 ## Action
 
-Aktion von Hagen der Held.
+Er reist trotz der Warnungen an den Hof Grimilds und stellt sich dort mit gezogenem Schwert dem unvermeidlichen Gemetzel.
 
 ## Shadow
 
-Schatten von Hagen der Held.
+Seine skrupellose Treue zu seinem König führte ihn zum feigen Mord an Sivard, den er bis zum Schluss stolz verteidigt.
 
 ## Tell
 
-Beschreibung des Tells.
+Er führt Sivards berühmtes Schwert, das er dem erschlagenen Helden einst raubte.

@@ -1,13 +1,13 @@
 ---
 khai: play
 title: "Grimild's Revenge"
-description: "Grimild invites her brothers to her hall and plots a bloody slaughter to avenge past wrongs."
+description: "Grimild invites her brothers to her hall and plots a bloody slaughter to avenge the murder of her husband Sivard."
 declared: "Grimild's Revenge"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-09"
+  date: "2026-07-13"
 ---
 
 # Play: Grimild's Revenge
@@ -22,7 +22,7 @@ Grimild's Revenge.
 
 ## Arc
 
-Frau Grimild lädt ihre Brüder an ihren Hof und entfesselt ein blutiges Gemetzel in der königlichen Halle.
+Frau Grimild klagt um den ermordeten Sivard und schwört Rache. Sie lockt ihre Brüder und deren Gefolgsmann Hagen zu einem Festmahl in ihre Halle. Als die Tore geschlossen sind, fordert sie Sühne, und ein blutiges Gemetzel entbrennt.
 
 ## Company
 
@@ -53,14 +53,18 @@ Frau Grimild lädt ihre Brüder an ihren Hof und entfesselt ein blutiges Gemetze
 
 ## Triggers
 
-**[Plot: Die Einladung der Brüder](plot_01_invitation.md)**
+**[Plot: Die Klage um Sivard](plot_01_remembrance.md)**
 
-Grimild sendet Boten aus, um ihre Brüder scheinbar in Freundschaft zu einem großen Festmahl einzuladen.
+Frau Grimild trauert um den meuchlings erschlagenen Sivard und schwört Rache.
 
-**[Plot: Das Gemetzel in der Halle](plot_02_slaughter.md)**
+**[Plot: Die tückische Einladung](plot_02_invitation.md)**
 
-Als die Halle verschlossen ist, befiehlt Grimild den Angriff, und ein erbitterter Kampf entbrennt bis zum Tode.
+Grimild lädt ihre Brüder und den Mörder Hagen unter dem Schein der Versöhnung ein.
+
+**[Plot: Das Gemetzel in der Halle](plot_03_slaughter.md)**
+
+Grimild verriegelt die Halle und fordert Rache für Sivard, woraufhin ein Kampf auf Leben und Tod entbrennt.
 
 ## Stakes
 
-Ob Hagens heldenhafter Widerstand Grimilds unerbittliche Rache aufhalten kann.
+Ob Grimilds unerbittlicher Rachedurst den Mörder ihres Gatten Sivard vernichten kann.

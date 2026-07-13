@@ -1,12 +1,12 @@
 ---
 khai: piece
-title: "sword"
+title: "Sivards Schwert"
 declared: "Das Richtschwert"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-09"
+  date: "2026-07-13"
 ---
 
 # Piece: Das Richtschwert
@@ -21,16 +21,16 @@ Parent group: pieces
 
 ## Place
 
-Liegt an einem Ort.
+Im Besitz von [Hagen von Tronje](persona_hagens.md).
 
 ## Load Bearing
 
-Trägt Lasten der Erzählung.
+Das physische Objekt, das an den Verrat und den Mord an Sivard erinnert und Grimilds Zorn anstachelt.
 
 ## Apparent
 
-Offensichtliche Eigenschaft.
+Ein prächtiges, breites Stahlschwert mit edelsteinbesetztem Knauf.
 
 ## Yearbook
 
-Jahrbuch-Eintrag.
+Die geraubte Waffe des toten Helden Sivard, die nun zur Verteidigung seines Mörders dient.
