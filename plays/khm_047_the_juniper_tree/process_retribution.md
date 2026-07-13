@@ -1,15 +1,15 @@
 ---
 khai: process
-title: "Retribution"
-declared: "Vergeltung"
+title: "Vergeltung"
+declared: "Die Vergeltung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-08"
+  date: "2026-07-13"
 ---
 
-# Process: Vergeltung
+# Process: Die Vergeltung
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Dem singenden Vogel auf dem Hausdach.
+[Der Vogel](persona_son.md).
 
 ## Direction
 
-Die physische Zerschmetterung der Stiefmutter und die Rückkehr des Jungen ins Leben.
+Das Töten der Stiefmutter mit dem schweren Mühlstein und die Erlösung der geplagten Familie.
 
 ## Lever
 
-Der herabfallende Mühlstein und der aufsteigende Rauch.
+Die angesammelten Werkzeuge des Gerichts und die unerbittliche Gerechtigkeit der Natur.
 
 ## Echo
 
-Der Tod der Mörderin, die Befreiung der Familie und das glückliche Weiterleben von Vater, Schwester und Sohn.
+Die Wiederkehr des lebenden Knaben und die endgültige Wiederherstellung des Familienbundes.

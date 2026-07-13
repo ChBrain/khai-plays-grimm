@@ -1,15 +1,15 @@
 ---
 khai: piece
-title: "The Stew"
-declared: "Sauerfleisch"
+title: "Sauerfleisch"
+declared: "Das Sauerfleisch"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-08"
+  date: "2026-07-13"
 ---
 
-# Piece: Sauerfleisch
+# Piece: Das Sauerfleisch
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: pieces
 
 ## Place
 
-Im Kochtopf auf dem Herd und auf dem Esstisch des Vaters.
+Im Kochtopf und auf dem Esstisch im [Wohnhaus](place_home.md).
 
 ## Load Bearing
 
-Das schreckliche Mahl (Sauerfleisch), das aus dem getöteten Sohn zubereitet und dem Vater vorgesetzt wird.
+Die schreckliche Speise, in der der Leichnam des Knaben verkocht und dem Vater vorgesetzt wird.
 
 ## Apparent
 
-Ein dampfendes, gut gewürztes Fleischgericht.
+Eine dampfende Schüssel mit Fleisch, zubereitet mit Essig und Gewürzen.
 
 ## Yearbook
 
-Das grausame Symbol des Kannibalismus innerhalb der Familie, das die Entmenschlichung der Stiefmutter zeigt.
+Das finstere Mahl des unbewussten Kannibalismus im zerrütteten Haus.

@@ -1,16 +1,16 @@
 ---
 khai: persona
 title: "The Stepmother"
-declared: "Stiefmutter"
+declared: "Die Stiefmutter"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-08"
+  date: "2026-07-13"
 type: fictional
 ---
 
-# Persona: Stiefmutter
+# Persona: Die Stiefmutter
 
 ## Taxonomy
 
@@ -22,16 +22,16 @@ type: fictional
 
 ## Projection
 
-Die eifersüchtige und grausame Stiefmutter, die den kleinen Sohn hasst, weil er dem Erbe ihrer eigenen Tochter Marlinchen im Weg steht.
+Die zweite Ehefrau des Vaters, die vom Teufel besessen den Stiefsohn abgrundtief hasst.
 
 ## Action
 
-Sie lockt den Jungen mit einem Apfel an die Truhe, schlägt den Deckel zu, kocht ihn als Sauerfleisch und täuscht seinen Unfall vor.
+Sie enthauptet den Stiefsohn mit dem schweren Deckel der Apfeltruhe, schiebt die Schuld auf Marlinchen, kocht das Sauerfleisch und wird schließlich vom Mühlstein erschlagen.
 
 ## Shadow
 
-Sie wird von einem bösen Geist und heftigem Neid getrieben, der sie völlig beherrscht und jede mütterliche Regung erstickt.
+Ihr fanatischer Wille, ihrer leiblichen Tochter Marlinchen das ganze Erbe zu sichern, treibt sie zum Äußersten.
 
 ## Tell
 
-Sie zittert vor Angst, wenn der Vogel singt, hält sich die Ohren zu und rennt schließlich im Wahn ins Freie, wo sie der Mühlstein trifft.
+Sie blickt finster drein, hält die Schlüssel der Truhe und wird von innerer Unruhe getrieben.

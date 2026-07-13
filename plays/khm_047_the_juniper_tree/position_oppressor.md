@@ -1,12 +1,12 @@
 ---
 khai: position
-title: "The Oppressor"
+title: "Peinigerin"
 declared: "Peinigerin"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-08"
+  date: "2026-07-13"
 ---
 
 # Position: Peinigerin
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Die uneingeschränkte Herrschaft über den Haushalt und das Schicksal der Kinder.
+Die uneingeschränkte Macht im Haus und den Willen zum grausamen Verbrechen.
 
 ## Orders
 
-Das Zubereiten des Sauerfleisches und das Schweigen über das Verbrechen.
+Beherrscht die Familie, lockt das Opfer und verbirgt die Tat.
 
 ## Loses
 
-Ihre Fassung durch den magischen Gesang, ihre Macht und schließlich ihr Leben.
+Verliert unter dem Mühlstein das Leben und die geraubte Zukunft der Tochter.
 
 ## Drives
 
-Die Eifersucht, der Neid auf den Stiefsohn und der unbedingte Wille zur Bereicherung ihrer Tochter.
+Der teuflische Hass und die krankhafte Missgunst gegenüber dem Stiefsohn.

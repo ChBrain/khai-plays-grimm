@@ -1,16 +1,16 @@
 ---
 khai: persona
 title: "The Artisans"
-declared: "Handwerker"
+declared: "Die Handwerker"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-08"
+  date: "2026-07-13"
 type: fictional
 ---
 
-# Persona: Handwerker
+# Persona: Die Handwerker
 
 ## Taxonomy
 
@@ -22,16 +22,16 @@ Parent group: personas
 
 ## Projection
 
-Die rechtschaffenen Handwerker der Stadt - Goldschmied, Schuster und Müller -, die von dem wunderschönen Gesang des Vogels verzaubert werden.
+Der Goldschmied, der Schuster und die Müllerburschen in der Stadt.
 
 ## Action
 
-Sie lauschen dem Gesang des Vogels und tauschen ihre besten Erzeugnisse gegen eine weitere Strophe seines Liedes.
+Sie hören das wunderbare Lied des Vogels, verlangen, es noch einmal zu hören, und geben ihm dafür Kette, Schuhe und Mühlstein.
 
 ## Shadow
 
-Sie repräsentieren die menschliche Gesellschaft, die das Wunderbare anerkennt und unwissentlich die Instrumente der Vergeltung bereitstellt.
+Ihre Faszination für die Schönheit des Gesangs lässt sie bereitwillig ihre wertvollsten Güter hingeben.
 
 ## Tell
 
-Sie unterbrechen erstaunt ihre Arbeit, eilen auf die Straße und schauen mit offenen Mündern zum Dach empor.
+Sie arbeiten rußverschmiert an ihren Werkplätzen und Mühlen, lauschend nach oben blickend.

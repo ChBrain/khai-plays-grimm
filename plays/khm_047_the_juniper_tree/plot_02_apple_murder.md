@@ -1,19 +1,19 @@
 ---
 khai: plot
-title: "Apple Murder"
-declared: "Der Mord"
+title: "Der Mord an der Apfeltruhe"
+declared: "Der Mord an der Apfeltruhe"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-08"
+  date: "2026-07-13"
 ---
 
-# Plot: Der Mord
+# Plot: Der Mord an der Apfeltruhe
 
 ## Taxonomy
 
-[play_the_juniper_tree](play_the_juniper_tree.md)
+[The Juniper Tree](play_the_juniper_tree.md)
 
 ## Owner
 
@@ -21,16 +21,24 @@ stamp:
 
 ## Cue
 
-Die [Stiefmutter](persona_stepmother.md) sieht den Stiefsohn und wird von Neid ergriffen, als er sie um einen [Apfel](piece_apples.md) bittet.
+In der Kammer des [Wohnhauses](place_home.md) vor der Apfeltruhe.
 
 ## Action
 
-Sie lockt ihn zur Truhe, schlägt den schweren Deckel zu, bindet dem Toten den Kopf wieder um und kocht ihn später als [Sauerfleisch](piece_stew.md).
+[Die Stiefmutter](persona_stepmother.md) lockt [den kleinen Sohn](persona_son.md) unter dem Vorwand, ihm einen Apfel zu schenken, an die schwere Kiste. Sie schlägt den Deckel mit voller Wucht zu, sodass er enthauptet wird. Sie bindet das Haupt wieder an den Hals, setzt die Leiche auf einen Stuhl und bereitet später aus seinem Fleisch das [Sauerfleisch](piece_stew.md) für den [Vater](persona_father.md).
 
 ## Stage
 
-Die dunkle Kammer mit der Apfeltruhe im Wohnhaus.
+- [Son](persona_son.md): der unschuldige Knabe, der das Opfer der Stiefmutter wird.
+- [Stepmother](persona_stepmother.md): die grausame Mörderin, die den Mord vollzieht.
+- [Sister](persona_sister.md): Marlinchen, die das tote Kind berührt und sich schuldig wähnt.
+- [Apples](piece_apples.md): das Lockmittel in der Truhe.
+- [Home](place_home.md): das Haus des grausamen Geschehens.
+- [Murder](process_murder.md): der Akt der grausamen Enthauptung.
+- [Victim](position_victim.md): der arglose Stiefsohn.
+- [Oppressor](position_oppressor.md): die vom Teufel getriebene Stiefmutter.
+- [Grausen](pitch_abject.md): die Tonart des abgrundtiefen Schreckens.
 
 ## Tension
 
-Das Grauen des plötzlichen Verrats und das Entsetzen über die unheimliche Zubereitung der Mahlzeit.
+Die mörderische Missgunst der Stiefmutter entlädt sich im rohen Knall des Truhendeckels, der die Unschuld des Knaben jäh vernichtet.

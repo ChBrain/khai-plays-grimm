@@ -1,15 +1,15 @@
 ---
 khai: place
-title: "The Workshop"
-declared: "Werkstätten"
+title: "Werkstaetten"
+declared: "Die Werkstätten"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-08"
+  date: "2026-07-13"
 ---
 
-# Place: Werkstätten
+# Place: Die Werkstätten
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Die geschäftigen Werkstätten der Handwerker in der Stadt (Goldschmiede, Schuhmacherei, Mühle).
+Die geschäftigen Werkstätten des Goldschmieds, des Schusters und der großen Mühle in der Stadt.
 
 ## Holds
 
-Die Handwerkzeuge, die Meister mit ihren Gesellen und die fertigen Kostbarkeiten.
+Die Werkzeuge der Handwerker, die Mühlenräder und die schweren Arbeitssteine.
 
 ## Offers
 
-Den Raum für fleißige Arbeit, die durch den Gesang des Vogels unterbrochen wird.
+Den Handwerkern die Möglichkeit zur Arbeit und dem Vogel die Bühne für sein klagendes Lied.
 
 ## Withheld
 
-Jede Ablenkung vom alltäglichen Handwerk, bis der magische Gesang ertönt.
+Die Verbindung der Geschenke zum grausamen Schicksal des fernen Knaben.

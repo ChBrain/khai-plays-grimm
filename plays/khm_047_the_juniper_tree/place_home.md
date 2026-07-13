@@ -1,15 +1,15 @@
 ---
 khai: place
-title: "The Home"
-declared: "Wohnhaus"
+title: "Wohnhaus"
+declared: "Das Wohnhaus"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-08"
+  date: "2026-07-13"
 ---
 
-# Place: Wohnhaus
+# Place: Das Wohnhaus
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Das Wohnhaus der Familie mit der Stube, der Küche und dem Hof, in dem sich das Drama abspielt.
+Das einfache, dunkle Haus der Familie mit der Stube und der Kammer, in der die schwere Holztruhe steht.
 
 ## Holds
 
-Die Apfeltruhe, den Esstisch, den Herd und die Familienmitglieder in ihrem Alltag.
+Die Apfeltruhe, den Esstisch und die Küche, in der das grausame Mahl bereitet wird.
 
 ## Offers
 
-Eine häusliche Umgebung, die durch den grausamen Mord an der Truhe entweiht wird.
+Die alltägliche Häuslichkeit, die zur Stätte von Mord, Kannibalismus und späterer Abrechnung wird.
 
 ## Withheld
 
-Jeden Schutz für den Jungen vor dem plötzlichen, tödlichen Zorn der Stiefmutter.
+Die Schuld der Stiefmutter, die im Haus verschwiegen wird.

@@ -1,19 +1,19 @@
 ---
 khai: plot
-title: "Singing Bird"
-declared: "Der Gesang"
+title: "Der Gesang des Vogels"
+declared: "Der Gesang des Vogels"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-08"
+  date: "2026-07-13"
 ---
 
-# Plot: Der Gesang
+# Plot: Der Gesang des Vogels
 
 ## Taxonomy
 
-[play_the_juniper_tree](play_the_juniper_tree.md)
+[The Juniper Tree](play_the_juniper_tree.md)
 
 ## Owner
 
@@ -21,16 +21,19 @@ stamp:
 
 ## Cue
 
-Ein wunderschöner Vogel erhebt sich aus dem Rauch des [Machandelbaums](place_juniper_tree.md) und fliegt davon.
+In den [Werkstätten](place_workshop.md) der Stadt.
 
 ## Action
 
-Der Vogel singt sein Lied von der grausamen [Stiefmutter](persona_stepmother.md) bei Goldschmied, Schuster und Müller und erhält dafür Goldkette, Schuhe und einen Mühlstein.
+Der [Vogel](persona_son.md) fliegt zu Goldschmied, Schuster und Müller in ihren [Werkstätten](place_workshop.md). Er singt sein trauriges Lied von seiner Mutter, die ihn geschlachtet, und seinem Vater, der ihn gefressen hat. Die faszinierten Handwerker schenken ihm eine goldene Kette, rote Schuhe und einen schweren Mühlstein, damit er sein Lied noch einmal singt.
 
 ## Stage
 
-Die Stadt mit den [Werkstätten](place_workshop.md) und der Mühle.
+- [Son](persona_son.md): der singende Vogel, der die Gaben sammelt.
+- [Artisans](persona_artisans.md): die lauschenden Handwerker in der Stadt.
+- [Gifts](piece_gifts.md): Kette, rote Schuhe und der Mühlstein.
+- [Workshop](place_workshop.md): die Werkstätten der Handwerker.
 
 ## Tension
 
-Der Kontrast zwischen dem betörenden Gesang, der makabren Wahrheit des Liedes und den gesammelten Werkzeugen der Rache.
+Die liebliche Melodie des Vogels kontrastiert scharf mit dem grausamen Text über seinen eigenen Tod und bannt die unbedarften Handwerker.

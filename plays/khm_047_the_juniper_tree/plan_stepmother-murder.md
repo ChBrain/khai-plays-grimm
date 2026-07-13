@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-09"
+  date: "2026-07-13"
 status: active
 ---
 
@@ -26,10 +26,10 @@ Die Stiefmutter liebt ihr eigenes Töchterlein, doch den Knaben kann sie nicht a
 
 ## Orders
 
-1. Die [Stiefmutter](persona_stepmother.md) lockt den Knaben mit den [Äpfeln](piece_apples.md) an die Truhe im [Wohnhaus](place_home.md) und lässt ihm den schweren Deckel auf den Hals fallen, dass das Haupt zwischen die Äpfel rollt.
-2. Sie bindet das Köpfchen mit einem Tuch wieder an, setzt das tote [Opfer](position_victim.md) vor die Tür und reizt ihr eigenes Töchterlein zu einer Ohrfeige, dass dieses den Knaben für tot wähnt und sich anklage.
-3. Sie zerhackt den Leib und kocht ihn als [Sauerfleisch](piece_stew.md), das der [Vater](persona_father.md) mit Gier verzehrt, indes die Knochen unter den Tisch geworfen werden.
-4. So vollendet sie den [Mord](process_murder.md), wälzt die Schuld auf die [Trauernde](position_mourner.md) und gedenkt, das Verbrechen für immer zu begraben.
+1. Die [Stiefmutter](persona_stepmother.md) lockt den [Knaben](persona_son.md) mit den [Äpfeln](piece_apples.md) an die Truhe im [Wohnhaus](place_home.md) und lässt ihm den schweren Deckel auf den Hals fallen, dass das Haupt zwischen die Äpfel rollt.
+2. Sie bindet das Köpfchen mit einem Tuch wieder an, setzt das tote [Opfer](position_victim.md) vor die Tür und reizt ihr eigenes Töchterlein [Marlinchen](persona_sister.md) zu einer Ohrfeige, dass dieses den Knaben für tot wähnt und sich anklage.
+3. Sie zerhackt den Leiblein und kocht ihn als [Sauerfleisch](piece_stew.md), das der [Vater](persona_father.md) mit Gier verzehrt, indes die Knochen unter den Tisch geworfen werden.
+4. So vollendet sie den [Mord](process_murder.md), wälzt die Schuld auf die [Sister](persona_sister.md) und gedenkt, das Verbrechen für immer zu begraben.
 
 ## Implementation
 

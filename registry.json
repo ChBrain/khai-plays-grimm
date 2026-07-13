@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.948.8",
+  "version": "0.948.9",
   "plays": [
     {
       "kind": "play",
@@ -4399,7 +4399,7 @@
       "kind": "play",
       "id": "khm_047_the_juniper_tree",
       "title": "The Juniper Tree",
-      "description": "A wicked stepmother kills her little stepson, who rises as a fair bird and takes just revenge."
+      "description": "A wicked stepmother decapitates her little stepson, who rises as a beautiful bird and takes just revenge."
     },
     {
       "kind": "play",

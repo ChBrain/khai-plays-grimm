@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-09"
+  date: "2026-07-13"
 status: active
 ---
 
@@ -18,22 +18,22 @@ Ein Rachplan der wiedergeborenen Unschuld: das Vorhaben des ermordeten Knaben, d
 
 ## Owner
 
-- Owner: [wiedergeborener Knabe](persona_siblings.md)
+- Owner: [Der kleine Sohn](persona_son.md)
 
 ## Direction
 
-Der Knabe hat keine Hand mehr, die ein Beil führte, nur eine Stimme, die der Himmel ihm aus dem Tod zurückgab. Die treue [Trauernde](position_mourner.md) sammelt seine Knochen, und unter dem [Machandelbaum](place_juniper_tree.md) vollzieht sich die [Wiedergeburt](process_resurrection.md): aus Nebel und Flamme steigt ein Vogel auf, schöner als alle. Was als stiller Mord begann, wendet sich zum klingenden Gericht: der Vogel singt sein Lied von Markt zu Markt, sammelt die [Gaben](piece_gifts.md) und trägt die [Vergeltung](process_retribution.md) als Mühlstein heim, bis er als [Geschwister](persona_siblings.md) leibhaftig am Tische sitzt.
+Der Knabe hat keine Hand mehr, die ein Beil führte, nur eine Stimme, die der Himmel ihm aus dem Tod zurückgab. Die treue [Marlinchen](persona_sister.md) sammelt seine Knochen, und unter dem [Machandelbaum](place_juniper_tree.md) vollzieht sich die [Wiedergeburt](process_resurrection.md): aus Nebel und Flamme steigt ein Vogel auf, schöner als alle. Was als stiller Mord begann, wendet sich zum klingenden Gericht: der Vogel singt sein Lied von Markt zu Markt, sammelt die [Gaben](piece_gifts.md) und trägt die [Vergeltung](process_retribution.md) als Mühlstein heim, bis er leibhaftig am Tische sitzt.
 
 ## Orders
 
-1. Die [Trauernde](position_mourner.md) sammelt die Knochen des Knaben unter den Tisch hervor und legt sie unter den [Machandelbaum](place_juniper_tree.md), wo die [Wiedergeburt](process_resurrection.md) den Vogel hervorbringt.
+1. [Marlinchen](persona_sister.md) sammelt die Knochen des Knaben unter den Tisch hervor und legt sie unter den [Machandelbaum](place_juniper_tree.md), wo die [Wiedergeburt](process_resurrection.md) den Vogel hervorbringt.
 2. Der Vogel singt sein Lied beim Goldschmied, beim Schuster und beim Müller in den [Werkstätten](place_workshop.md) und erhält dafür die [Gaben](piece_gifts.md): die goldene Kette, die roten Schuhe und den schweren Mühlstein.
-3. Er kehrt zum [Wohnhaus](place_home.md) zurück, lässt Kette und Schuhe auf [Vater](persona_father.md) und [Trauernde](position_mourner.md) niederfallen und lockt die [Stiefmutter](persona_stepmother.md) als [Peinigerin](position_oppressor.md) vor die Tür.
-4. Er stürzt ihr den Mühlstein auf das Haupt und vollzieht die [Vergeltung](process_retribution.md); aus Rauch und Flamme steigt er als lebendiges Kind empor und tritt zu den [Geschwistern](persona_siblings.md) an den Tisch.
+3. Er kehrt zum [Wohnhaus](place_home.md) zurück, lässt Kette und Schuhe auf [Vater](persona_father.md) und [Marlinchen](persona_sister.md) niederfallen und lockt die [Stiefmutter](persona_stepmother.md) als [Peinigerin](position_oppressor.md) vor die Tür.
+4. Er stürzt ihr den Mühlstein auf das Haupt und vollzieht die [Vergeltung](process_retribution.md); aus Rauch und Flamme steigt er als lebendiges Kind empor und tritt zum [Vater](persona_father.md) und der Schwester an den Tisch.
 
 ## Implementation
 
-- Der Plan rechnet mit der Treue der [Trauernde](position_mourner.md), die allein die Knochen birgt und unter den Baum legt.
+- Der Plan rechnet mit der Treue von [Marlinchen](persona_sister.md), die allein die Knochen birgt und unter den Baum legt.
 - Er rechnet mit der Gnade des [Machandelbaums](place_juniper_tree.md), der dem Toten Stimme und Flügel schenkt, wo kein Mensch mehr helfen kann.
 - Die wahre Schärfe liegt im Lied, das die Handwerker willig die [Gaben](piece_gifts.md) hergeben lässt: jede Kette und jeder Schuh ist Lohn, der Mühlstein aber ist das Urteil, das die [Vergeltung](process_retribution.md) vollstreckt.
 
@@ -41,5 +41,5 @@ Der Knabe hat keine Hand mehr, die ein Beil führte, nur eine Stimme, die der Hi
 
 - [ ] Aus dem Machandelbaum als Vogel mit der wiedergeschenkten Stimme aufsteigen
 - [ ] Mit dem Lied beim Goldschmied, Schuster und Müller die Gaben erwerben
-- [ ] Kette und Schuhe auf Vater und Trauernde niederfallen lassen, die Stiefmutter vor die Tür locken
+- [ ] Kette und Schuhe auf Vater und Marlinchen niederfallen lassen, die Stiefmutter vor die Tür locken
 - [ ] Den Mühlstein auf die Peinigerin stürzen und als lebendiges Kind an den Tisch treten

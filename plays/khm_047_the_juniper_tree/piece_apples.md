@@ -1,15 +1,15 @@
 ---
 khai: piece
-title: "The Apples"
-declared: "Äpfel"
+title: "Aepfel"
+declared: "Die Äpfel"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-08"
+  date: "2026-07-13"
 ---
 
-# Piece: Äpfel
+# Piece: Die Äpfel
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: pieces
 
 ## Place
 
-In der großen Truhe im Haus der Stiefmutter.
+In der schweren Holztruhe im [Wohnhaus](place_home.md).
 
 ## Load Bearing
 
-Das Lockmittel, mit dem die Stiefmutter den Jungen in die tödliche Falle an der Truhe lockt.
+Der verlockende Köder, der den kleinen Knaben an die schwere Truhe führt und seinen Tod besiegelt.
 
 ## Apparent
 
-Schöne, rote, verlockende Äpfel.
+Frische, glänzende rote Äpfel auf dem Grund einer dunklen Eichentruhe.
 
 ## Yearbook
 
-Das Symbol der Versuchung und des plötzlichen Sündenfalls, der den unschuldigen Knaben das Leben kostet.
+Die verbotene Frucht, deren Erwerb mit dem nackten Leben bezahlt wird.
