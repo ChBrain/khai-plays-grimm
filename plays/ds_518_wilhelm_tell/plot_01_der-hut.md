@@ -1,15 +1,15 @@
 ---
 khai: plot
-title: "01_der-hut"
-declared: "Der Hut"
+title: "Der Hut in Altdorf"
+declared: "Der Hut in Altdorf"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-03"
+  date: "2026-07-13"
 ---
 
-# Plot: Der Hut
+# Plot: Der Hut in Altdorf
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ stamp:
 
 ## Cue
 
-[Hohle Gasse](place_hohle_gasse.md).
+Auf dem [Marktplatz von Altdorf](place_altdorf.md).
 
 ## Action
 
-"Gessler fordert die Ehrerbietung vor dem Hut; Tell verweigert den Kniefall."
+[Wilhelm Tell](persona_tell.md) weigert sich stolz, dem auf der Stange errichteten Hut des Vogts [Hermann Gessler](persona_gessler.md) die Ehrerbietung zu erweisen.
 
 ## Stage
 
-Bühne für Der Hut.
+Bühne für Der Hut in Altdorf.
 
 ## Tension
 
-Spannung des Plots.
+Die Wut der kaiserlichen Wachen über die offene Missachtung des Vogts.

@@ -1,15 +1,15 @@
 ---
 khai: place
-title: "hohle_gasse"
-declared: "Hohle Gasse"
+title: "Hohle Gasse"
+declared: "Hohle Gasse bei Küssnacht"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-03"
+  date: "2026-07-13"
 ---
 
-# Place: Hohle Gasse
+# Place: Hohle Gasse bei Küssnacht
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der Ort Hohle Gasse wird gezeigt.
+Ein enger, von Bäumen und Felsen überschatteter Hohlweg im abendlichen Dämmerlicht.
 
 ## Holds
 
-Er hält Gegenstände.
+Der schmale Pfad, den der reitende Vogt passieren muss.
 
 ## Offers
 
-Er bietet Handlungsmöglichkeiten.
+Ein perfektes Versteck für den Schützen im Dickicht am Hang.
 
 ## Withheld
 
-Er verbirgt Geheimnisse.
+Der Pfeil auf Tells Armbrust, der im Verborgenen auf den Tyrannen wartet.

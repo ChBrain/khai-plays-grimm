@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.948.4",
+  "version": "0.948.5",
   "plays": [
     {
       "kind": "play",
@@ -3427,7 +3427,7 @@
       "kind": "play",
       "id": "ds_518_wilhelm_tell",
       "title": "William Tell",
-      "description": "Wilhelm Tell refuses to bow to Gessler's hat and is forced to shoot an apple off his son's head."
+      "description": "Tell refuses to bow to Gessler's hat, shoots an apple off his son's head, and kills the tyrant."
     },
     {
       "kind": "play",

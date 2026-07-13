@@ -1,12 +1,12 @@
 ---
 khai: position
-title: "tyrant"
+title: "Despot"
 declared: "Despot"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-03"
+  date: "2026-07-13"
 ---
 
 # Position: Despot
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Besitzt Eigenschaften.
+Die kaiserliche Machtvollmacht und die Waffengewalt über die Untertanen.
 
 ## Orders
 
-Befiehlt Aktionen.
+Befiehlt die Demütigung des Volkes und den grausamen Schuss.
 
 ## Loses
 
-Verliert Einfluss.
+Verliert im Hohlweg das Leben und die kaiserliche Herrschaft über das Land.
 
 ## Drives
 
-Treibt die Handlung.
+Der Wahn, jeglichen freien Geist im Land durch nackten Terror zu brechen.

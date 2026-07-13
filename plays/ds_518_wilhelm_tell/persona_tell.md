@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-03"
+  date: "2026-07-13"
 type: fictional
 ---
 
@@ -22,16 +22,16 @@ type: fictional
 
 ## Projection
 
-Beschreibung der Gestalt von Wilhelm Tell.
+Wilhelm Tell ist ein einfacher, gottesfürchtiger und treffsicherer Jäger aus Uri.
 
 ## Action
 
-Aktion von Wilhelm Tell.
+Er weigert sich, Gesslers Hut zu grüßen, schießt den Apfel vom Haupt seines Sohnes, entkommt im Sturm auf dem See und vollzieht den Tyrannenmord.
 
 ## Shadow
 
-Schatten von Wilhelm Tell.
+Sein Hang zur Eigenbrötlerei und seine anfängliche Zurückhaltung weichen einem unerbittlichen Zorn, als seine Familie bedroht wird.
 
 ## Tell
 
-Beschreibung des Tells.
+Er trägt ein einfaches Jägergewand und führt eine schwere, hölzerne Armbrust mit sich.

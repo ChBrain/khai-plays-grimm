@@ -1,12 +1,12 @@
 ---
 khai: pitch
-title: "tell"
+title: "Freiheitskampf"
 declared: "Freiheits-Kampf"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-03"
+  date: "2026-07-13"
 ---
 
 # Pitch: Freiheits-Kampf
@@ -21,16 +21,16 @@ Parent group: pitches
 
 ## Tenor
 
-Der Tenor von Freiheits-Kampf.
+Die heroische, entschlossene Stimmung des Aufbegehrens gegen unerträgliche Tyrannei.
 
 ## Undertow
 
-Der Sog von Freiheits-Kampf.
+Der eisige Ernst und die Furcht vor dem Scheitern des Schusses auf das eigene Kind.
 
 ## Nerve
 
-Der Nerv von Freiheits-Kampf.
+Der absolute, atemlose Moment des Zielens in Altdorf und der tödliche Pfeil aus der Hohlen Gasse.
 
 ## Echo
 
-Das Echo von Freiheits-Kampf.
+Der befreiende Ruf über den See und das Erwachen eines einigen, freien Volkes.
