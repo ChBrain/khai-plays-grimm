@@ -1,12 +1,12 @@
 ---
 khai: position
-title: "The Mourner"
+title: "Trauernde"
 declared: "Trauernde"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-08"
+  date: "2026-07-13"
 ---
 
 # Position: Trauernde
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Die tiefe Trauer, den seelischen Schmerz und die Tränen.
+Die unendliche Liebe zum Bruder und das zerrissene Gewissen.
 
 ## Orders
 
-Das Sammeln der Knochen unter dem Esstisch.
+Weint unaufhörlich, sammelt die Knochen und legt sie zum Altar des Baums.
 
 ## Loses
 
-Ihren geliebten Bruder, gewinnt ihn aber am Ende durch ihre Treue zurück.
+Verliert die Unbeschwertheit der Kindheit und den geliebten Spielgefährten.
 
 ## Drives
 
-Die reine geschwisterliche Liebe und die Sehnsucht nach Gerechtigkeit.
+Die Sehnsucht nach Sühne und der Erhaltung des Andenkens an den Bruder.

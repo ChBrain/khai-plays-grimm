@@ -1,15 +1,15 @@
 ---
 khai: process
-title: "Murder"
-declared: "Mord"
+title: "Mord"
+declared: "Der Mord"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-08"
+  date: "2026-07-13"
 ---
 
-# Process: Mord
+# Process: Der Mord
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Der bösen Stiefmutter an der Apfeltruhe.
+[Die Stiefmutter](persona_stepmother.md).
 
 ## Direction
 
-Das heimtückische Töten des Jungen und das anschließende Verkochen des Leichnams.
+Das grausame Enthaupten des kleinen Stiefsohns und das heimtückische Kochen seines Leibes.
 
 ## Lever
 
-Der zuschlagende schwere Truhendeckel, das Messer und der Kochtopf.
+Der Hass auf das Kind und die Gier nach dem alleinigen Erbe für die leibliche Tochter.
 
 ## Echo
 
-Der vermeintliche Unfall mit dem Apfel, die Vertuschung und das schreckliche Mahl für den Vater.
+Das Entsetzen des unschuldigen Marlinchens und das ahnungslose Verzehren durch den Vater.

@@ -1,19 +1,19 @@
 ---
 khai: plot
-title: "Juniper Wish"
+title: "Wunsch unter dem Baum"
 declared: "Wunsch unter dem Baum"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-08"
+  date: "2026-07-13"
 ---
 
 # Plot: Wunsch unter dem Baum
 
 ## Taxonomy
 
-[play_the_juniper_tree](play_the_juniper_tree.md)
+[The Juniper Tree](play_the_juniper_tree.md)
 
 ## Owner
 
@@ -21,16 +21,19 @@ stamp:
 
 ## Cue
 
-Eine Frau sitzt im Winter unter dem [Machandelbaum](place_juniper_tree.md) und schält einen [Apfel](piece_apples.md), wobei sie sich in den Finger schneidet.
+Unter dem [Machandelbaum](place_juniper_tree.md) im winterlichen Garten.
 
 ## Action
 
-Sie wünscht sich ein Kind, so rot wie Blut und so weiß wie Schnee. Sie bekommt einen Sohn, stirbt vor Freude und wird unter dem Baum begraben.
+[Die leibliche Mutter](persona_mother.md) wünscht sich beim Schälen eines Apfels unter dem Baum ein Kind, so rot wie Blut und so weiß wie Schnee. Sie gebiert [den kleinen Sohn](persona_son.md), stirbt kurz darauf vor lauter Freude und wird unter dem Wacholder begraben. Der [Vater](persona_father.md) nimmt sich später eine neue Frau.
 
 ## Stage
 
-Unter dem Machandelbaum im verschneiten Garten.
+- [Mother](persona_mother.md): die erste Ehefrau, die sich das Kind wünscht und stirbt.
+- [Son](persona_son.md): der neugeborene kleine Knabe.
+- [Father](persona_father.md): der betrübte Gatte, der sie unter dem Baum begräbt.
+- [Juniper Tree](place_juniper_tree.md): der heilige Wacholderbaum.
 
 ## Tension
 
-Die melancholische Sehnsucht nach Leben, die untrennbar mit dem baldigen Opfertod der Mutter verbunden ist.
+Die sehnsuchtsvolle Liebe der Mutter gebiert neues Leben, fordert jedoch sogleich ihren eigenen Tod als Opfer für den Machandelbaum.

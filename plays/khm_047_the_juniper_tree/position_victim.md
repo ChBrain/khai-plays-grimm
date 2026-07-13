@@ -1,12 +1,12 @@
 ---
 khai: position
-title: "The Victim"
+title: "Opfer"
 declared: "Opfer"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-08"
+  date: "2026-07-13"
 ---
 
 # Position: Opfer
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Keine Verteidigung gegen die Tücke der Stiefmutter.
+Die absolute Unschuld und das Vertrauen in die Mutterfigur.
 
 ## Orders
 
-Das Holen des Apfels aus der Truhe.
+Fragt arglos nach einem Apfel und beugt sich über die Truhe.
 
 ## Loses
 
-Seinen Kopf, seinen menschlichen Körper und vorübergehend seine Stimme.
+Verliert das irdische Leben, das Haupt und die leibliche Gestalt.
 
 ## Drives
 
-Das Vertrauen in die Familie und der Hunger nach der verbotenen Frucht.
+Das kindliche Begehren nach Liebe und der süßen Frucht.

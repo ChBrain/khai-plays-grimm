@@ -1,15 +1,15 @@
 ---
 khai: process
-title: "Resurrection"
-declared: "Wiedergeburt"
+title: "Wiedergeburt"
+declared: "Die Wiedergeburt"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-08"
+  date: "2026-07-13"
 ---
 
-# Process: Wiedergeburt
+# Process: Die Wiedergeburt
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Marlinchens Tränen und der magischen Kraft des Machandelbaums.
+[Marlinchen](persona_sister.md) und [Der Machandelbaum](place_juniper_tree.md).
 
 ## Direction
 
-Das Verwandeln der gesammelten Knochen des Knaben in einen wunderschönen, lebendigen Singvogel.
+Das Sammeln der Knochen und das Aufsteigen des bunten Vogels aus den Flammen und dem Nebel des Baums.
 
 ## Lever
 
-Das seidene Tuch, die Bestattung unter dem Baum und das magische Feuer aus den Zweigen.
+Die geschwisterliche Liebe, die Tränen der Schwester und die Naturkraft des heiligen Baums.
 
 ## Echo
 
-Das Entweichen des Geistes als Vogel, der Gesang der Wahrheit und das Verschwinden der Knochen.
+Das Singen des Vogels, das das Verbrechen an das Licht des Tages zerrt.
