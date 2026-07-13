@@ -6,7 +6,7 @@ updated: "2026-06-13"
 
 ## Line of Work
 
-Staging _Die ungleichen Kinder Evas_ (KHM 180) as an etiological tale of the estates. The production traces how, after the expulsion from Paradise, Eve presents only her fair children to the visiting Lord and hides the plain ones, how the Lord blesses the fair to high estates and the plain to humble trades, and how he answers Eve's protest with the parable of the one body and its many limbs — modeling the diverse ranks and crafts as the necessary, mutually sustaining members of a single whole.
+Staging _Die ungleichen Kinder Evas_ (KHM 180) as an etiological tale of the estates. The production traces how, after the expulsion from Paradise, Eve presents only her fair children to the visiting Lord and hides the plain ones, how the Lord blesses the fair to high estates and the plain to humble trades, and how he answers Eve's protest with the parable of the one body and its many limbs: modeling the diverse ranks and crafts as the necessary, mutually sustaining members of a single whole.
 
 ## Origin
 

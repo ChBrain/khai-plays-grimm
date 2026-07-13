@@ -6,22 +6,22 @@ updated: "2026-06-30"
 
 ## Line of Work
 
-Staging _Der Judenstein_ (DS 352) as a legend of betrayal, blood-sign, and worthless coin. The production models the tale as a mechanism of parental treachery and supernatural exposure: a father sells his child for money that dissolves into dry leaves, and three drops of blood fall on the absent mother's hand as the child is killed. The load-bearing instrument is the worthless coin — the gold that was never gold — and the blood-sign that names the betrayal without a witness.
+Staging _Der Judenstein_ (DS 353) as a legend of betrayal, blood-sign, and worthless coin. The production models the tale as a mechanism of parental treachery and supernatural exposure: a father sells his child for money that dissolves into dry leaves, and three drops of blood fall on the absent mother's hand as the child is killed. The load-bearing instrument is the worthless coin: the gold that was never gold: and the blood-sign that names the betrayal without a witness.
 
 ## Origin
 
-Jacob and Wilhelm Grimm's _Deutsche Sagen_ (1816-1818), legend DS 352.
+Jacob and Wilhelm Grimm's _Deutsche Sagen_ (1816-1818), legend DS 353.
 
 | Source             | Key Work / Event         | Scope                                                                                          |
 | ------------------ | ------------------------ | ---------------------------------------------------------------------------------------------- |
-| **Brothers Grimm** | _Deutsche Sagen_, DS 352 | The Anderl von Rinn legend of a child sold by his father and killed; coins turn to dry leaves. |
+| **Brothers Grimm** | _Deutsche Sagen_, DS 353 | The Anderl von Rinn legend of a child sold by his father and killed; coins turn to dry leaves. |
 
 ## Restrictions
 
 What the production refuses to model, and to whom it delegates.
 
-- **The blood libel**: DS 352 is a blood libel legend — a fabricated accusation that Jews ritually murdered Christian children for their blood. Blood libel is one of the most lethal antisemitic fabrications in European history, used for centuries to justify massacres, pogroms, and expulsions. The Anderl von Rinn cult (formally condemned by the Catholic Church in 1994) is its direct historical product. This production refuses to reproduce that accusation. The killers are encoded solely by their structural function as [die Schergen](persona_schergen.md) — the executioners whose role in the mechanism is betrayal-enabled murder — and no ethnic, religious, ritual, or conspiratorial identity is staged. The blood libel fabrication is named here so it cannot be silently reproduced.
-- **The ritual framing**: the source presents the killing as deliberate ritual. This production encodes the murder as a structural event — the consequence of a father's betrayal — not as evidence of any group's practice or belief.
+- **The blood libel**: DS 353 is a blood libel legend: a fabricated accusation that Jews ritually murdered Christian children for their blood. Blood libel is one of the most lethal antisemitic fabrications in European history, used for centuries to justify massacres, pogroms, and expulsions. The Anderl von Rinn cult (formally condemned by the Catholic Church in 1994) is its direct historical product. This production refuses to reproduce that accusation. The killers are encoded solely by their structural function as [die Schergen](persona_schergen.md): the executioners whose role in the mechanism is betrayal-enabled murder: and no ethnic, religious, ritual, or conspiratorial identity is staged. The blood libel fabrication is named here so it cannot be silently reproduced.
+- **The ritual framing**: the source presents the killing as deliberate ritual. This production encodes the murder as a structural event: the consequence of a father's betrayal: not as evidence of any group's practice or belief.
 - **The worthless coin as divine punishment**: the leaf-money is catalogued as the tale's structural beat of exposure and retribution, not as theological endorsement.
 - **Cross-play context**: strict local isolation. Every link stays within this play's directory.
 

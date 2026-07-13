@@ -6,7 +6,7 @@ updated: "2026-06-13"
 
 ## Line of Work
 
-Staging _Die Boten des Todes_ (KHM 177) as an allegory of how the end is never unannounced. The production models the contrast between Death's faithfully kept promise — the steady stream of ailments and, above all, Sleep, his brother — and the carefree man's failure to read the everyday infirmities of life as the messengers they are.
+Staging _Die Boten des Todes_ (KHM 177) as an allegory of how the end is never unannounced. The production models the contrast between Death's faithfully kept promise: the steady stream of ailments and, above all, Sleep, his brother: and the carefree man's failure to read the everyday infirmities of life as the messengers they are.
 
 ## Origin
 
@@ -33,6 +33,6 @@ Source to constraint, per file.
 - **the vanquisher ([der Riese](persona_giant.md), [der Bezwinger](position_vanquisher.md))**: the giant whose raw strength fells Death on the road.
 - **the merciful ([der Jüngling](persona_youth.md), [der Barmherzige](position_merciful.md))**: the young man who raises Death and then lives carefree.
 - **the stages ([die Landstraße](place_highway.md), [die Welt](place_world.md))**: the great highway of the fight and rescue, and the world of the man's later life.
-- **the tokens ([die Stärkungsflasche](piece_flask.md), [die Boten](piece_messengers.md))**: the strengthening flask and the messengers — the ailments and Sleep.
+- **the tokens ([die Stärkungsflasche](piece_flask.md), [die Boten](piece_messengers.md))**: the strengthening flask and the messengers: the ailments and Sleep.
 - **the processes ([der Kampf](process_fight.md), [die Labung](process_revival.md), [die Aussendung](process_messengers.md))**: the fight, the revival, and the sending of the messengers.
 - **the resolution ([die Vorwarnung](plan_deaths_messengers.md))**: Death's blueprint for announcing the end before he comes.
