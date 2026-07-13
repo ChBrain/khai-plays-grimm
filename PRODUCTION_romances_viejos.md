@@ -30,8 +30,8 @@ Every romance-play is built as a play directory (`sr_NNN_`) containing:
 
 ## The Manifest: 5 Plays
 
-- `[ ]` **sr_001_romance_de_gayferos** — Romance de Gayferos (Gayferos' Lay / Gayferos)
-- `[ ]` **sr_002_romance_de_lanzarote** — Romance de Lançarote (Lancelot's Lay / Lancelot)
-- `[ ]` **sr_003_romance_de_tristan** — Romance de Tristan (Tristan's Lay / Tristan)
-- `[ ]` **sr_004_romance_de_dona_alda** — Romance de doña Alda (Lady Alda's Lay / Lady Alda)
-- `[ ]` **sr_005_romance_de_alarcos** — Romance de Alarcos (Count Alarcos' Lay / Count Alarcos)
+- `[x]` **sr_001_romance_de_gayferos** — Romance de Gayferos (Gayferos' Lay / Gayferos)
+- `[x]` **sr_002_romance_de_lanzarote** — Romance de Lançarote (Lancelot's Lay / Lancelot)
+- `[x]` **sr_003_romance_de_tristan** — Romance de Tristan (Tristan's Lay / Tristan)
+- `[x]` **sr_004_romance_de_dona_alda** — Romance de doña Alda (Lady Alda's Lay / Lady Alda)
+- `[x]` **sr_005_romance_de_alarcos** — Romance de Alarcos (Count Alarcos' Lay / Count Alarcos)

@@ -120,220 +120,220 @@ in place.
 
 ### Tales (KHM 1 to 200)
 
-- [ ] KHM 001 The Frog-King, or Iron Henry
-- [ ] KHM 002 Cat and Mouse in Partnership
-- [ ] KHM 003 Our Lady's Child
-- [ ] KHM 004 The Story of the Youth Who Went Forth to Learn What Fear Was
-- [ ] KHM 005 The Wolf and the Seven Little Kids
-- [ ] KHM 006 Faithful John
-- [ ] KHM 007 The Good Bargain
-- [ ] KHM 008 The Wonderful Musician
-- [ ] KHM 009 The Twelve Brothers
-- [ ] KHM 010 The Pack of Ragamuffins
-- [ ] KHM 011 Brother and Sister
-- [ ] KHM 012 Rapunzel
-- [ ] KHM 013 The Three Little Men in the Wood
-- [ ] KHM 014 The Three Spinners
-- [ ] KHM 015 Hansel and Gretel
-- [ ] KHM 016 The Three Snake-Leaves
-- [ ] KHM 017 The White Snake
-- [ ] KHM 018 The Straw, the Coal, and the Bean
-- [ ] KHM 019 The Fisherman and His Wife
-- [ ] KHM 020 The Valiant Little Tailor
-- [ ] KHM 021 Cinderella
-- [ ] KHM 022 The Riddle
-- [ ] KHM 023 The Mouse, the Bird, and the Sausage
-- [ ] KHM 024 Mother Holle
-- [ ] KHM 025 The Seven Ravens
-- [ ] KHM 026 Little Red-Cap
-- [ ] KHM 027 The Bremen Town-Musicians
-- [ ] KHM 028 The Singing Bone
-- [ ] KHM 029 The Devil With the Three Golden Hairs
-- [ ] KHM 030 The Louse and the Flea
-- [ ] KHM 031 The Girl Without Hands
-- [ ] KHM 032 Clever Hans
-- [ ] KHM 033 The Three Languages
-- [ ] KHM 034 Clever Elsie
-- [ ] KHM 035 The Tailor in Heaven
-- [ ] KHM 036 The Wishing-Table, the Gold-Ass, and the Cudgel in the Sack
-- [ ] KHM 037 Thumbling
-- [ ] KHM 038 The Wedding of Mrs Fox
-- [ ] KHM 039 The Elves
-- [ ] KHM 040 The Robber Bridegroom
-- [ ] KHM 041 Herr Korbes
-- [ ] KHM 042 The Godfather
-- [ ] KHM 043 Frau Trude
-- [ ] KHM 044 Godfather Death
-- [ ] KHM 045 Thumbling's Travels
-- [ ] KHM 046 Fitcher's Bird
-- [ ] KHM 047 The Juniper-Tree
-- [ ] KHM 048 Old Sultan
-- [ ] KHM 049 The Six Swans
-- [ ] KHM 050 Little Briar-Rose
-- [ ] KHM 051 Fundevogel
-- [ ] KHM 052 King Thrushbeard
-- [ ] KHM 053 Little Snow-White
-- [ ] KHM 054 The Knapsack, the Hat, and the Horn
-- [ ] KHM 055 Rumpelstiltskin
-- [ ] KHM 056 Sweetheart Roland
-- [ ] KHM 057 The Golden Bird
-- [ ] KHM 058 The Dog and the Sparrow
-- [ ] KHM 059 Frederick and Catherine
-- [ ] KHM 060 The Two Brothers
-- [ ] KHM 061 The Little Peasant
-- [ ] KHM 062 The Queen Bee
-- [ ] KHM 063 The Three Feathers
-- [ ] KHM 064 The Golden Goose
-- [ ] KHM 065 Allerleirauh
-- [ ] KHM 066 The Hare's Bride
-- [ ] KHM 067 The Twelve Huntsmen
-- [ ] KHM 068 The Thief and His Master
-- [ ] KHM 069 Jorinda and Joringel
-- [ ] KHM 070 The Three Sons of Fortune
-- [ ] KHM 071 How Six Men Got On in the World
-- [ ] KHM 072 The Wolf and the Man
-- [ ] KHM 073 The Wolf and the Fox
-- [ ] KHM 074 Gossip Wolf and the Fox
-- [ ] KHM 075 The Fox and the Cat
-- [ ] KHM 076 The Pink
-- [ ] KHM 077 Clever Gretel
-- [ ] KHM 078 The Old Man and His Grandson
-- [ ] KHM 079 The Water-Nix
-- [ ] KHM 080 The Death of the Little Hen
-- [ ] KHM 081 Brother Lustig
-- [ ] KHM 082 Gambling Hansel
-- [ ] KHM 083 Hans in Luck
-- [ ] KHM 084 Hans Married
-- [ ] KHM 085 The Gold-Children
-- [ ] KHM 086 The Fox and the Geese
-- [ ] KHM 087 The Poor Man and the Rich Man
-- [ ] KHM 088 The Singing, Springing Lark
-- [ ] KHM 089 The Goose-Girl
-- [ ] KHM 090 The Young Giant
-- [ ] KHM 091 The Gnome
-- [ ] KHM 092 The King of the Golden Mountain
-- [ ] KHM 093 The Raven
-- [ ] KHM 094 The Peasant's Wise Daughter
-- [ ] KHM 095 Old Hildebrand
-- [ ] KHM 096 The Three Little Birds
-- [ ] KHM 097 The Water of Life
-- [ ] KHM 098 Doctor Know-All
-- [ ] KHM 099 The Spirit in the Bottle
-- [ ] KHM 100 The Devil's Sooty Brother
-- [ ] KHM 101 Bearskin
-- [ ] KHM 102 The Willow-Wren and the Bear
-- [ ] KHM 103 Sweet Porridge
-- [ ] KHM 104 Wise Folks
-- [ ] KHM 105 Tales of the Paddock
-- [ ] KHM 106 The Poor Miller's Boy and the Cat
-- [ ] KHM 107 The Two Travellers
-- [ ] KHM 108 Hans the Hedgehog
-- [ ] KHM 109 The Shroud
-- [ ] KHM 110 The Jew Among Thorns
-- [ ] KHM 111 The Skilful Huntsman
-- [ ] KHM 112 The Flail from Heaven
-- [ ] KHM 113 The Two Kings' Children
-- [ ] KHM 114 The Cunning Little Tailor
-- [ ] KHM 115 The Bright Sun Brings It to Light
-- [ ] KHM 116 The Blue Light
-- [ ] KHM 117 The Wilful Child
-- [ ] KHM 118 The Three Army-Surgeons
-- [ ] KHM 119 The Seven Swabians
-- [ ] KHM 120 The Three Apprentices
-- [ ] KHM 121 The King's Son Who Feared Nothing
-- [ ] KHM 122 Donkey Cabbages
-- [ ] KHM 123 The Old Woman in the Wood
-- [ ] KHM 124 The Three Brothers
-- [ ] KHM 125 The Devil and His Grandmother
-- [ ] KHM 126 Ferdinand the Faithful and Ferdinand the Unfaithful
-- [ ] KHM 127 The Iron Stove
-- [ ] KHM 128 The Lazy Spinner
-- [ ] KHM 129 The Four Skilful Brothers
-- [ ] KHM 130 One-Eye, Two-Eyes, and Three-Eyes
-- [ ] KHM 131 Fair Katrinelje and Pif-Paf-Poltrie
-- [ ] KHM 132 The Fox and the Horse
-- [ ] KHM 133 The Shoes That Were Danced to Pieces
-- [ ] KHM 134 The Six Servants
-- [ ] KHM 135 The White Bride and the Black Bride
-- [ ] KHM 136 Iron John
-- [ ] KHM 137 The Three Black Princesses
-- [ ] KHM 138 Knoist and His Three Sons
-- [ ] KHM 139 The Maid of Brakel
-- [ ] KHM 140 My Household
-- [ ] KHM 141 The Lambkin and the Little Fish
-- [ ] KHM 142 Simeli Mountain
-- [ ] KHM 143 Going A-Travelling
-- [ ] KHM 144 The Donkey
-- [ ] KHM 145 The Ungrateful Son
-- [ ] KHM 146 The Turnip
-- [ ] KHM 147 The Old Man Made Young Again
-- [ ] KHM 148 The Lord's Animals and the Devil's
-- [ ] KHM 149 The Beam
-- [ ] KHM 150 The Old Beggar-Woman
-- [ ] KHM 151 The Three Sluggards
-- [ ] KHM 151a The Twelve Idle Servants
-- [ ] KHM 152 The Shepherd Boy
-- [ ] KHM 153 The Star-Money
-- [ ] KHM 154 The Stolen Farthings
-- [ ] KHM 155 Brides on Their Trial
-- [ ] KHM 156 Odds and Ends
-- [ ] KHM 157 The Sparrow and His Four Children
-- [ ] KHM 158 The Story of Schlauraffen Land
-- [ ] KHM 159 The Ditmarsch Tale of Wonders
-- [ ] KHM 160 A Riddling Tale
-- [ ] KHM 161 Snow-White and Rose-Red
-- [ ] KHM 162 The Wise Servant
-- [ ] KHM 163 The Glass Coffin
-- [ ] KHM 164 Lazy Harry
-- [ ] KHM 165 The Griffin
-- [ ] KHM 166 Strong Hans
-- [ ] KHM 167 The Peasant in Heaven
-- [ ] KHM 168 Lean Lisa
-- [ ] KHM 169 The Hut in the Forest
-- [ ] KHM 170 Sharing Joy and Sorrow
-- [ ] KHM 171 The Willow-Wren
-- [ ] KHM 172 The Sole
-- [ ] KHM 173 The Bittern and the Hoopoe
-- [ ] KHM 174 The Owl
-- [ ] KHM 175 The Moon
-- [ ] KHM 176 The Duration of Life
-- [ ] KHM 177 Death's Messengers
-- [ ] KHM 178 Master Pfriem
-- [ ] KHM 179 The Goose-Girl at the Well
-- [ ] KHM 180 Eve's Various Children
-- [ ] KHM 181 The Nixie of the Mill-Pond
-- [ ] KHM 182 The Little Folks' Presents
-- [ ] KHM 183 The Giant and the Tailor
-- [ ] KHM 184 The Nail
-- [ ] KHM 185 The Poor Boy in the Grave
-- [ ] KHM 186 The True Bride
-- [ ] KHM 187 The Hare and the Hedgehog
-- [ ] KHM 188 Spindle, Shuttle, and Needle
-- [ ] KHM 189 The Peasant and the Devil
-- [ ] KHM 190 The Crumbs on the Table
-- [ ] KHM 191 The Sea-Hare
-- [ ] KHM 192 The Master-Thief
-- [ ] KHM 193 The Drummer
-- [ ] KHM 194 The Ear of Corn
-- [ ] KHM 195 The Grave-Mound
-- [ ] KHM 196 Old Rinkrank
-- [ ] KHM 197 The Crystal Ball
-- [ ] KHM 198 Maid Maleen
-- [ ] KHM 199 The Boots of Buffalo-Leather
-- [ ] KHM 200 The Golden Key
+- [x] KHM 001 The Frog-King, or Iron Henry
+- [x] KHM 002 Cat and Mouse in Partnership
+- [x] KHM 003 Our Lady's Child
+- [x] KHM 004 The Story of the Youth Who Went Forth to Learn What Fear Was
+- [x] KHM 005 The Wolf and the Seven Little Kids
+- [x] KHM 006 Faithful John
+- [x] KHM 007 The Good Bargain
+- [x] KHM 008 The Wonderful Musician
+- [x] KHM 009 The Twelve Brothers
+- [x] KHM 010 The Pack of Ragamuffins
+- [x] KHM 011 Brother and Sister
+- [x] KHM 012 Rapunzel
+- [x] KHM 013 The Three Little Men in the Wood
+- [x] KHM 014 The Three Spinners
+- [x] KHM 015 Hansel and Gretel
+- [x] KHM 016 The Three Snake-Leaves
+- [x] KHM 017 The White Snake
+- [x] KHM 018 The Straw, the Coal, and the Bean
+- [x] KHM 019 The Fisherman and His Wife
+- [x] KHM 020 The Valiant Little Tailor
+- [x] KHM 021 Cinderella
+- [x] KHM 022 The Riddle
+- [x] KHM 023 The Mouse, the Bird, and the Sausage
+- [x] KHM 024 Mother Holle
+- [x] KHM 025 The Seven Ravens
+- [x] KHM 026 Little Red-Cap
+- [x] KHM 027 The Bremen Town-Musicians
+- [x] KHM 028 The Singing Bone
+- [x] KHM 029 The Devil With the Three Golden Hairs
+- [x] KHM 030 The Louse and the Flea
+- [x] KHM 031 The Girl Without Hands
+- [x] KHM 032 Clever Hans
+- [x] KHM 033 The Three Languages
+- [x] KHM 034 Clever Elsie
+- [x] KHM 035 The Tailor in Heaven
+- [x] KHM 036 The Wishing-Table, the Gold-Ass, and the Cudgel in the Sack
+- [x] KHM 037 Thumbling
+- [x] KHM 038 The Wedding of Mrs Fox
+- [x] KHM 039 The Elves
+- [x] KHM 040 The Robber Bridegroom
+- [x] KHM 041 Herr Korbes
+- [x] KHM 042 The Godfather
+- [x] KHM 043 Frau Trude
+- [x] KHM 044 Godfather Death
+- [x] KHM 045 Thumbling's Travels
+- [x] KHM 046 Fitcher's Bird
+- [x] KHM 047 The Juniper-Tree
+- [x] KHM 048 Old Sultan
+- [x] KHM 049 The Six Swans
+- [x] KHM 050 Little Briar-Rose
+- [x] KHM 051 Fundevogel
+- [x] KHM 052 King Thrushbeard
+- [x] KHM 053 Little Snow-White
+- [x] KHM 054 The Knapsack, the Hat, and the Horn
+- [x] KHM 055 Rumpelstiltskin
+- [x] KHM 056 Sweetheart Roland
+- [x] KHM 057 The Golden Bird
+- [x] KHM 058 The Dog and the Sparrow
+- [x] KHM 059 Frederick and Catherine
+- [x] KHM 060 The Two Brothers
+- [x] KHM 061 The Little Peasant
+- [x] KHM 062 The Queen Bee
+- [x] KHM 063 The Three Feathers
+- [x] KHM 064 The Golden Goose
+- [x] KHM 065 Allerleirauh
+- [x] KHM 066 The Hare's Bride
+- [x] KHM 067 The Twelve Huntsmen
+- [x] KHM 068 The Thief and His Master
+- [x] KHM 069 Jorinda and Joringel
+- [x] KHM 070 The Three Sons of Fortune
+- [x] KHM 071 How Six Men Got On in the World
+- [x] KHM 072 The Wolf and the Man
+- [x] KHM 073 The Wolf and the Fox
+- [x] KHM 074 Gossip Wolf and the Fox
+- [x] KHM 075 The Fox and the Cat
+- [x] KHM 076 The Pink
+- [x] KHM 077 Clever Gretel
+- [x] KHM 078 The Old Man and His Grandson
+- [x] KHM 079 The Water-Nix
+- [x] KHM 080 The Death of the Little Hen
+- [x] KHM 081 Brother Lustig
+- [x] KHM 082 Gambling Hansel
+- [x] KHM 083 Hans in Luck
+- [x] KHM 084 Hans Married
+- [x] KHM 085 The Gold-Children
+- [x] KHM 086 The Fox and the Geese
+- [x] KHM 087 The Poor Man and the Rich Man
+- [x] KHM 088 The Singing, Springing Lark
+- [x] KHM 089 The Goose-Girl
+- [x] KHM 090 The Young Giant
+- [x] KHM 091 The Gnome
+- [x] KHM 092 The King of the Golden Mountain
+- [x] KHM 093 The Raven
+- [x] KHM 094 The Peasant's Wise Daughter
+- [x] KHM 095 Old Hildebrand
+- [x] KHM 096 The Three Little Birds
+- [x] KHM 097 The Water of Life
+- [x] KHM 098 Doctor Know-All
+- [x] KHM 099 The Spirit in the Bottle
+- [x] KHM 100 The Devil's Sooty Brother
+- [x] KHM 101 Bearskin
+- [x] KHM 102 The Willow-Wren and the Bear
+- [x] KHM 103 Sweet Porridge
+- [x] KHM 104 Wise Folks
+- [x] KHM 105 Tales of the Paddock
+- [x] KHM 106 The Poor Miller's Boy and the Cat
+- [x] KHM 107 The Two Travellers
+- [x] KHM 108 Hans the Hedgehog
+- [x] KHM 109 The Shroud
+- [x] KHM 110 The Jew Among Thorns
+- [x] KHM 111 The Skilful Huntsman
+- [x] KHM 112 The Flail from Heaven
+- [x] KHM 113 The Two Kings' Children
+- [x] KHM 114 The Cunning Little Tailor
+- [x] KHM 115 The Bright Sun Brings It to Light
+- [x] KHM 116 The Blue Light
+- [x] KHM 117 The Wilful Child
+- [x] KHM 118 The Three Army-Surgeons
+- [x] KHM 119 The Seven Swabians
+- [x] KHM 120 The Three Apprentices
+- [x] KHM 121 The King's Son Who Feared Nothing
+- [x] KHM 122 Donkey Cabbages
+- [x] KHM 123 The Old Woman in the Wood
+- [x] KHM 124 The Three Brothers
+- [x] KHM 125 The Devil and His Grandmother
+- [x] KHM 126 Ferdinand the Faithful and Ferdinand the Unfaithful
+- [x] KHM 127 The Iron Stove
+- [x] KHM 128 The Lazy Spinner
+- [x] KHM 129 The Four Skilful Brothers
+- [x] KHM 130 One-Eye, Two-Eyes, and Three-Eyes
+- [x] KHM 131 Fair Katrinelje and Pif-Paf-Poltrie
+- [x] KHM 132 The Fox and the Horse
+- [x] KHM 133 The Shoes That Were Danced to Pieces
+- [x] KHM 134 The Six Servants
+- [x] KHM 135 The White Bride and the Black Bride
+- [x] KHM 136 Iron John
+- [x] KHM 137 The Three Black Princesses
+- [x] KHM 138 Knoist and His Three Sons
+- [x] KHM 139 The Maid of Brakel
+- [x] KHM 140 My Household
+- [x] KHM 141 The Lambkin and the Little Fish
+- [x] KHM 142 Simeli Mountain
+- [x] KHM 143 Going A-Travelling
+- [x] KHM 144 The Donkey
+- [x] KHM 145 The Ungrateful Son
+- [x] KHM 146 The Turnip
+- [x] KHM 147 The Old Man Made Young Again
+- [x] KHM 148 The Lord's Animals and the Devil's
+- [x] KHM 149 The Beam
+- [x] KHM 150 The Old Beggar-Woman
+- [x] KHM 151 The Three Sluggards
+- [x] KHM 151a The Twelve Idle Servants
+- [x] KHM 152 The Shepherd Boy
+- [x] KHM 153 The Star-Money
+- [x] KHM 154 The Stolen Farthings
+- [x] KHM 155 Brides on Their Trial
+- [x] KHM 156 Odds and Ends
+- [x] KHM 157 The Sparrow and His Four Children
+- [x] KHM 158 The Story of Schlauraffen Land
+- [x] KHM 159 The Ditmarsch Tale of Wonders
+- [x] KHM 160 A Riddling Tale
+- [x] KHM 161 Snow-White and Rose-Red
+- [x] KHM 162 The Wise Servant
+- [x] KHM 163 The Glass Coffin
+- [x] KHM 164 Lazy Harry
+- [x] KHM 165 The Griffin
+- [x] KHM 166 Strong Hans
+- [x] KHM 167 The Peasant in Heaven
+- [x] KHM 168 Lean Lisa
+- [x] KHM 169 The Hut in the Forest
+- [x] KHM 170 Sharing Joy and Sorrow
+- [x] KHM 171 The Willow-Wren
+- [x] KHM 172 The Sole
+- [x] KHM 173 The Bittern and the Hoopoe
+- [x] KHM 174 The Owl
+- [x] KHM 175 The Moon
+- [x] KHM 176 The Duration of Life
+- [x] KHM 177 Death's Messengers
+- [x] KHM 178 Master Pfriem
+- [x] KHM 179 The Goose-Girl at the Well
+- [x] KHM 180 Eve's Various Children
+- [x] KHM 181 The Nixie of the Mill-Pond
+- [x] KHM 182 The Little Folks' Presents
+- [x] KHM 183 The Giant and the Tailor
+- [x] KHM 184 The Nail
+- [x] KHM 185 The Poor Boy in the Grave
+- [x] KHM 186 The True Bride
+- [x] KHM 187 The Hare and the Hedgehog
+- [x] KHM 188 Spindle, Shuttle, and Needle
+- [x] KHM 189 The Peasant and the Devil
+- [x] KHM 190 The Crumbs on the Table
+- [x] KHM 191 The Sea-Hare
+- [x] KHM 192 The Master-Thief
+- [x] KHM 193 The Drummer
+- [x] KHM 194 The Ear of Corn
+- [x] KHM 195 The Grave-Mound
+- [x] KHM 196 Old Rinkrank
+- [x] KHM 197 The Crystal Ball
+- [x] KHM 198 Maid Maleen
+- [x] KHM 199 The Boots of Buffalo-Leather
+- [x] KHM 200 The Golden Key
 
 ### Children's Legends (KHM 201 to 210)
 
-- [ ] KHM 201 St. Joseph in the Forest
-- [ ] KHM 202 The Twelve Apostles
-- [ ] KHM 203 The Rose
-- [ ] KHM 204 Poverty and Humility Lead to Heaven
-- [ ] KHM 205 God's Food
-- [ ] KHM 206 The Three Green Twigs
-- [ ] KHM 207 Our Lady's Little Glass
-- [ ] KHM 208 The Aged Mother
-- [ ] KHM 209 The Heavenly Wedding
-- [ ] KHM 210 The Hazel-Branch
+- [x] KHM 201 St. Joseph in the Forest
+- [x] KHM 202 The Twelve Apostles
+- [x] KHM 203 The Rose
+- [x] KHM 204 Poverty and Humility Lead to Heaven
+- [x] KHM 205 God's Food
+- [x] KHM 206 The Three Green Twigs
+- [x] KHM 207 Our Lady's Little Glass
+- [x] KHM 208 The Aged Mother
+- [x] KHM 209 The Heavenly Wedding
+- [x] KHM 210 The Hazel-Branch
 
 > Count: 200 numbered tales plus 10 Children's Legends make the headline 210.
 > KHM 151a (_The Twelve Idle Servants_) is the known extra tale that shares the

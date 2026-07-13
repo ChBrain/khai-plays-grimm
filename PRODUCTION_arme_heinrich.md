@@ -30,4 +30,4 @@ The play is built as a play directory (`ha_001_der_arme_heinrich`) containing:
 
 ## The Manifest: 1 Play
 
-- `[ ]` **ha_001_der_arme_heinrich** — Der arme Heinrich (Poor Heinrich)
+- `[x]` **ha_001_der_arme_heinrich** — Der arme Heinrich (Poor Heinrich)
