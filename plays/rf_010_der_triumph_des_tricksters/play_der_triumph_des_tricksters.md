@@ -1,13 +1,13 @@
 ---
 khai: play
 title: "The Triumph of the Trickster"
-description: "Reinhart returns to Malepartus and mocks the king from his secure fortress."
+description: "Reinhart returns to the court as a false physician, poisons the Lion-King to death, and flees back to his fortress."
 declared: "The Triumph of the Trickster"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-08"
+  date: "2026-07-12"
 ---
 
 # Play: The Triumph of the Trickster
@@ -22,21 +22,23 @@ The Triumph of the Trickster.
 
 ## Arc
 
-Der Fuchs kehrt heim nach Malepartus und verspottet die Leichtgläubigkeit des königlichen Hofes.
+Reinhart kehrt als Arzt verkleidet an den Hof zurück. Er wickelt den kranken König Nobel in die Häute seiner Rivalen und reicht ihm Gift. Während der König stirbt, flieht Reinhart nach Malepartus und vollendet den Umsturz.
 
 ## Company
 
 **Personas**
 
 - [Fox](persona_fox.md)
+- [Lion](persona_lion.md)
 
 **Places**
 
 - [Malepartus die Burg](place_castle.md)
+- [Königshof](place_court.md)
 
 **Processes**
 
-- [Der Triumph](process_triumph.md)
+- [Umsturz](process_triumph.md)
 
 **Positions**
 
@@ -44,22 +46,26 @@ Der Fuchs kehrt heim nach Malepartus und verspottet die Leichtgläubigkeit des k
 
 **Pieces**
 
-- [Der verborgene Schatz](piece_treasure.md)
+- [Der Gifttrank](piece_medicine.md)
 
 **Pitches**
 
-- [Victory](pitch_victory.md)
+- [Untergang](pitch_victory.md)
 
 ## Triggers
 
-**[Plot: Die Heimkehr des Fuchses](plot_01_escape.md)**
+**[Plot: Die bitteren Tierhäute](plot_01_cure.md)**
 
-Reinhart entflieht endgültig dem Zugriff des Königs und schlüpft hinter die sicheren Tore seiner Feste.
+Reinhart wickelt den König Nobel in die Häute seiner Feinde und reicht ihm den Gifttrank.
 
-**[Plot: Der Spott des Siegers](plot_02_triumph.md)**
+**[Plot: Die Flucht nach Malepartus](plot_02_escape.md)**
 
-Vom Burgturm herab verlacht der Fuchs den geprellten Hof und genießt seinen endgültigen Triumph.
+Reinhart flieht in seine sichere Burg Malepartus, während das Gift wirkt.
+
+**[Plot: Der Tod des Löwenkönigs](plot_03_death.md)**
+
+König Nobel erliegt dem Gift, wodurch der Umsturz vollzogen wird.
 
 ## Stakes
 
-Ob der vollendete Triumph des Tricksters das Ende aller Ordnung bedeutet.
+Ob das brutale Vergiften des Löwenkönigs das endgültige Ende der königlichen Ordnung besiegelt.

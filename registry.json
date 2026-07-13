@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.948.2",
+  "version": "0.948.3",
   "plays": [
     {
       "kind": "play",
@@ -5653,7 +5653,7 @@
       "kind": "play",
       "id": "rf_010_der_triumph_des_tricksters",
       "title": "The Triumph of the Trickster",
-      "description": "Reinhart returns to Malepartus and mocks the king from his secure fortress."
+      "description": "Reinhart returns to the court as a false physician, poisons the Lion-King to death, and flees back to his fortress."
     },
     {
       "kind": "play",

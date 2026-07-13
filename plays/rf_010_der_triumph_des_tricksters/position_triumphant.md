@@ -1,12 +1,12 @@
 ---
 khai: position
-title: "triumphant"
+title: "Triumphator"
 declared: "Triumphator"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-08"
+  date: "2026-07-12"
 ---
 
 # Position: Triumphator
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Besitzt Eigenschaften.
+Die absolute Immunität hinter den Mauern von Malepartus und das Wissen um den bevorstehenden Tod des Königs.
 
 ## Orders
 
-Befiehlt Aktionen.
+Verlacht die Herrschaft des Löwen und feiert den erfolgreichen Umsturz.
 
 ## Loses
 
-Verliert Einfluss.
+Verlust aller Bindungen an den Hof, die er nun vollends abgelegt hat.
 
 ## Drives
 
-Treibt die Handlung.
+Der Trieb, die eigene Überlegenheit durch Vernichtung des obersten Herrschers zu beweisen.

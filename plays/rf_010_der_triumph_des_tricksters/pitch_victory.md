@@ -1,15 +1,15 @@
 ---
 khai: pitch
-title: "victory"
-declared: "Der Sieg"
+title: "Untergang"
+declared: "Untergang"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-08"
+  date: "2026-07-12"
 ---
 
-# Pitch: Der Sieg
+# Pitch: Untergang
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: pitches
 
 ## Tenor
 
-Der Tenor von Der Sieg.
+Die düstere, bittere Atmosphäre eines sterbenden Reiches, über dem der Spott des Siegers hallt.
 
 ## Undertow
 
-Der Sog von Der Sieg.
+Die Unumkehrbarkeit des tödlichen Giftes und das Gefühl des endgültigen Epochenwechsels.
 
 ## Nerve
 
-Der Nerv von Der Sieg.
+Der Moment, in dem der König das Gift ansetzt, während Reinhart bereits den Fluchtweg antritt.
 
 ## Echo
 
-Das Echo von Der Sieg.
+Das grausame Sterben des Löwen und das triumphale Lachen des Fuchses aus den Wäldern.

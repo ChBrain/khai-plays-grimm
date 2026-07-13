@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-08"
+  date: "2026-07-12"
 type: fictional
 ---
 
@@ -22,16 +22,16 @@ type: fictional
 
 ## Projection
 
-Beschreibung der Gestalt von Reinhart der Fuchs.
+Reinhart ist der listige Fuchs, der als falscher Arzt verkleidet an den Hof zurückkehrt.
 
 ## Action
 
-Aktion von Reinhart der Fuchs.
+Er wickelt den kranken König in die abgezogenen Häute seiner Feinde und verabreicht ihm den giftigen Trank.
 
 ## Shadow
 
-Schatten von Reinhart der Fuchs.
+Sein unbändiger Hass gegen den König und die Hofgesellschaft treibt ihn zum Königsmord.
 
 ## Tell
 
-Beschreibung des Tells.
+Er trägt die gelehrte Haube eines Arztes und verbirgt ein kleines Fläschchen Gift.
