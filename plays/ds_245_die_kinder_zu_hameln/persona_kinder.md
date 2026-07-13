@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-28"
+  date: "2026-07-13"
 type: fictional
 ---
 
@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-[Bürgerschaft](position_buerger.md)
+Parent group: personas
 
 ## Owner
 
@@ -22,16 +22,16 @@ type: fictional
 
 ## Projection
 
-Beschreibung der Gestalt von Hamelner Kinder.
+Die 130 unschuldigen Kinder von Hameln, die den verlockenden Flötentönen des Pfeifers willenlos folgen.
 
 ## Action
 
-Aktion von Hamelner Kinder.
+Sie laufen im Bann der Flöte tanzend aus der Stadt und verschwinden für immer im Koppenberg.
 
 ## Shadow
 
-Schatten von Hamelner Kinder.
+Ihr unbefangener Gehorsam macht sie zu wehrlosen Opfern eines uralten Zaubers.
 
 ## Tell
 
-Beschreibung des Tells.
+Sie sind fröhlich geschmückt, tanzen und singen, während sie dem Pfeifer folgen.

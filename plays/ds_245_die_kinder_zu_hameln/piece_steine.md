@@ -1,12 +1,12 @@
 ---
 khai: piece
-title: "steine"
+title: "Kreuzsteine"
 declared: "Kreuzsteine"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-28"
+  date: "2026-07-13"
 ---
 
 # Piece: Kreuzsteine
@@ -21,16 +21,16 @@ Parent group: pieces
 
 ## Place
 
-Liegt an einem Ort.
+Auf dem [Koppenberg-Hügel](place_koppen.md).
 
 ## Load Bearing
 
-Trägt Lasten der Erzählung.
+Die steinernen Mahnmale am Koppenberg, die an die Verschwindungsstelle der Kinder erinnern.
 
 ## Apparent
 
-Offensichtliche Eigenschaft.
+Zwei alte, verwitterte Steinkreuze im Moos des Waldes.
 
 ## Yearbook
 
-Jahrbuch-Eintrag.
+Die Monumente des ewigen Gedenkens an die verlorenen Söhne und Töchter der Stadt.

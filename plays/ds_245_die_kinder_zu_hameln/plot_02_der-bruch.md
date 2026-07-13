@@ -1,15 +1,15 @@
 ---
 khai: plot
-title: "02_der-bruch"
-declared: "Der Bruch"
+title: "Der Lohnbruch"
+declared: "Der Lohnbruch"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-28"
+  date: "2026-07-13"
 ---
 
-# Plot: Der Bruch
+# Plot: Der Lohnbruch
 
 ## Taxonomy
 
@@ -21,16 +21,18 @@ stamp:
 
 ## Cue
 
-[Stadt Hameln](place_hameln.md).
+Im Rathaus der [Stadt Hameln](place_hameln.md).
 
 ## Action
 
-Die [Hamelner Ratsherren](persona_buerger.md) brechen die Vereinbarung und verweigern dem Pfeifer den vereinbarten Lohn.
+Die geizigen [Hamelner Bürger](persona_buerger.md) bereuen das Lohnversprechen und verweigern dem zurückgekehrten [Pfeifer](persona_piper.md) den vereinbarten Betrag unter Spott und Ausflüchten.
 
 ## Stage
 
-Bühne für Der Bruch.
+- [Piper](persona_piper.md): der geprellte Spielmann, der zornig den Raum verlässt.
+- [Buerger](persona_buerger.md): die geizigen Ratsherren, die den Lohn verweigern.
+- [Hameln](place_hameln.md): der Ort des Vertragsbruchs.
 
 ## Tension
 
-Spannung des Plots.
+Der offene Bruch des gegebenen Versprechens weckt die Vorahnung, dass der beleidigte Magier grausame Rache nehmen wird.

@@ -1,12 +1,12 @@
 ---
 khai: position
-title: "buerger"
+title: "Bürgerschaft"
 declared: "Bürgerschaft"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-28"
+  date: "2026-07-13"
 ---
 
 # Position: Bürgerschaft
@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-Besitzt Eigenschaften.
+Das Geld und die weltliche Herrschaft über die Mauern Hamelns.
 
 ## Orders
 
-Befiehlt Aktionen.
+Schließt das Geschäft und bricht später wortbrüchig das Versprechen.
 
 ## Loses
 
-Verliert Einfluss.
+Verliert alle Kinder bis auf zwei, die zu spät kamen und stumm oder blind zeugen.
 
 ## Drives
 
-Treibt die Handlung.
+Der Geiz und das trügerische Gefühl, einen Fremden ohne Konsequenzen prellen zu können.

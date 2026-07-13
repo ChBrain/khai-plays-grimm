@@ -1,12 +1,12 @@
 ---
 khai: place
-title: "weser"
+title: "Weser-Strom"
 declared: "Weser-Strom"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-28"
+  date: "2026-07-13"
 ---
 
 # Place: Weser-Strom
@@ -21,16 +21,16 @@ Parent group: places
 
 ## Shown
 
-Der Ort Weser-Strom wird gezeigt.
+Der breite, kühl dahinfließende Strom der Weser vor den Toren Hamelns.
 
 ## Holds
 
-Er hält Gegenstände.
+Die wirbelnden Fluten, in denen die Ratten versinken.
 
 ## Offers
 
-Er bietet Handlungsmöglichkeiten.
+Die einzige Möglichkeit, die Rattenplage auf einen Schlag im Fluss zu ertränken.
 
 ## Withheld
 
-Er verbirgt Geheimnisse.
+Die zahllosen toten Leiber der Ratten unter der Wasseroberfläche.

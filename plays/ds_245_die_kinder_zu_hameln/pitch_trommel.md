@@ -1,12 +1,12 @@
 ---
 khai: pitch
-title: "trommel"
+title: "Bungelose Stille"
 declared: "Bungelose-Stille"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-28"
+  date: "2026-07-13"
 ---
 
 # Pitch: Bungelose-Stille
@@ -21,16 +21,16 @@ Parent group: pitches
 
 ## Tenor
 
-Der Tenor von Bungelose-Stille.
+Die drückende, traurige Stille in der Straße, durch die die Kinder fortgezogen sind.
 
 ## Undertow
 
-Der Sog von Bungelose-Stille.
+Der Schmerz der wortbrüchigen Bürger, die nun mit dem ewigen Verstummen der Musik in Hameln leben müssen.
 
 ## Nerve
 
-Der Nerv von Bungelose-Stille.
+Der Augenblick, in dem das letzte Kind im Berg verschwindet und die Felsspalte sich schließt.
 
 ## Echo
 
-Das Echo von Bungelose-Stille.
+Das absolute Verbot von Musik und Tanz in der Bungelosenstraße bei jedem Hochzeitszug.
