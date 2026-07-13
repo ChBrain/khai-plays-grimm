@@ -1,13 +1,13 @@
 ---
 khai: play
 title: "Hansel and Gretel"
-description: "Two children abandoned in the forest outwit a wicked witch and return home rich to their father."
+description: "Two children abandoned in the forest outwit a wicked witch, cross a lake with a duck, and return home rich."
 declared: "Hänsel und Gretel"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-07"
+  date: "2026-07-13"
 ---
 
 # Play: Hänsel und Gretel
@@ -22,17 +22,18 @@ Hänsel und Gretel.
 
 ## Arc
 
-Zwei im Wald ausgesetzte Geschwister überlisten eine böse Hexe und kehren reich zum Vater zurück.
+Zwei im Wald ausgesetzte Geschwister überlisten eine böse Hexe, überqueren ein großes Wasser mit einer weißen Ente und kehren reich zum Vater zurück.
 
 ## Company
 
 **Personas**
 
-- [Hänsel](persona_hansel.md)
+- [Hansel](persona_hansel.md)
 - [Gretel](persona_gretel.md)
 - [Vater](persona_father.md)
 - [Stiefmutter](persona_stepmother.md)
 - [Hexe](persona_witch.md)
+- [Duck](persona_duck.md)
 
 **Places**
 
@@ -87,10 +88,14 @@ Ein weißes Vöglein führt die hungernden Kinder zu einem Haus aus Brot und Zuc
 
 Die Hexe sperrt Hänsel in einen Käfig und zwingt Gretel zur Arbeit. Hänsel reicht ihr statt seines Fingers ein dürres Knöchelchen, um seinen Zustand zu verbergen.
 
-**[Plot 5: Der Backofen und die Heimkehr](plot_05_witch-death.md)**
+**[Plot 5: Der Backofen und die Hürde](plot_05_witch-death.md)**
 
-Gretel überlistet die Hexe am heißen Backofen, stößt sie in die Flammen und sperrt sie ein. Sie befreien Hänsel, nehmen die Perlen der Hexe und kehren reich zum glücklichen Vater zurück.
+Gretel überlistet die Hexe am heißen Backofen, stößt sie in die Flammen und sperrt sie ein. Sie befreien Hänsel, nehmen die Perlen der Hexe und machen sich auf den Heimweg, bis sie vor dem großen Wasser stehen.
+
+**[Plot 6: Die weiße Ente und die Heimkehr](plot_06_duck-crossing.md)**
+
+Die weiße Ente setzt die Geschwister einzeln über das Wasser. Die Kinder finden heim und stürzen dem Vater reich in die Arme.
 
 ## Stakes
 
-Ob die kindliche Klugheit, der Geschwisterzusammenhalt und der rettende Mut die elterliche Schwäche, die materielle Not und die tödliche Gier der Hexenmacht bezwingen können.
+Ob die kindliche Klugheit, der Geschwisterzusammenhalt und der treue Beistand der Kreatur die elterliche Schwäche, die materielle Not und die tödliche Gier der Hexenmacht bezwingen können.

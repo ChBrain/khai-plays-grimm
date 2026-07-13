@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-07"
+  date: "2026-07-13"
 ---
 
 # Plot: Käfig und Knöchelchen
@@ -29,14 +29,14 @@ Am nächsten Morgen packt die [Hexe](persona_witch.md) [Hänsel](persona_hansel.
 
 ## Stage
 
-- [hansel](persona_hansel.md): der eingesperrte Knabe, der die Hexe überlistet.
-- [gretel](persona_gretel.md): die weinende Schwester, die schwere Sklavenarbeit verrichten muss.
-- [witch](persona_witch.md): die hungrige, sehschwache Entführerin.
-- [bone](piece_bone.md): das trockene Knöchelchen, das Hänsels Magerkeit vortäuscht.
-- [gingerbread-house](place_gingerbread-house.md): der Ort der Gefangenschaft und Zwangsarbeit.
-- [imprisonment](process_imprisonment.md): die schmerzhafte Gefangenschaft Hänsels im Käfig.
-- [captive](position_captive.md): Hänsels und Gretels hilflose Lage als Opfer der Hexe.
-- [cannibal](position_cannibal.md): die ungeduldige Hexe, die auf ihr Festmahl wartet.
+- [Hansel](persona_hansel.md): der eingesperrte Knabe, der die Hexe überlistet.
+- [Gretel](persona_gretel.md): die weinende Schwester, die schwere Sklavenarbeit verrichten muss.
+- [Witch](persona_witch.md): die hungrige, sehschwache Entführerin.
+- [Bone](piece_bone.md): das trockene Knöchelchen, das Hänsels Magerkeit vortäuscht.
+- [Gingerbread House](place_gingerbread-house.md): der Ort der Gefangenschaft und Zwangsarbeit.
+- [Imprisonment](process_imprisonment.md): die schmerzhafte Gefangenschaft Hänsels im Käfig.
+- [Captive](position_captive.md): Hänsels und Gretels hilflose Lage als Opfer der Hexe.
+- [Cannibal](position_cannibal.md): die ungeduldige Hexe, die auf ihr Festmahl wartet.
 
 ## Tension
 

@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-09"
+  date: "2026-07-13"
 status: active
 ---
 
@@ -35,7 +35,7 @@ Die Kinder haben weder Brot noch Macht, nur Ohren an der Tür und Witz in der No
 
 - Der Plan rechnet mit dem Mondschein auf den [Kieselsteinen](piece_pebbles.md) und der Blindheit der Hexe, die ein [Knöchelchen](piece_bone.md) nicht vom Finger scheiden soll.
 - Er setzt darauf, daß auch die [Brotkrümel](piece_breadcrumbs.md) eine Spur legen, die aus dem [Wald](place_forest.md) zurückführt.
-- Die wahre Schärfe soll bei [Gretel](persona_gretel.md) liegen, die als [Gefangene](position_captive.md) ins [Holzhackerhaus](place_cottage.md) kommt und auf die Stunde sinnt, als Retterin daraus hervorzugehen.
+- Die wahre Schärfe soll bei [Gretel](persona_gretel.md) liegen, die als [Gefangene](position_captive.md) in das [Zuckerhäuschen](place_gingerbread-house.md) kommt und auf die Stunde sinnt, als Retterin daraus hervorzugehen.
 
 ## Targets
 
