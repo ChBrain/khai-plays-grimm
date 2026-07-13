@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.948.3",
+  "version": "0.948.4",
   "plays": [
     {
       "kind": "play",
@@ -37,7 +37,7 @@
       "kind": "play",
       "id": "ah_001_grimilds_rache",
       "title": "Grimild's Revenge",
-      "description": "Grimild invites her brothers to her hall and plots a bloody slaughter to avenge past wrongs."
+      "description": "Grimild invites her brothers to her hall and plots a bloody slaughter to avenge the murder of her husband Sivard."
     },
     {
       "kind": "play",

@@ -1,15 +1,15 @@
 ---
 khai: pitch
-title: "vengeance"
-declared: "Die Vergeltung"
+title: "Sivards Rache"
+declared: "Vengeance"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-09"
+  date: "2026-07-13"
 ---
 
-# Pitch: Die Vergeltung
+# Pitch: Vengeance
 
 ## Taxonomy
 
@@ -21,16 +21,16 @@ Parent group: pitches
 
 ## Tenor
 
-Der Tenor von Die Vergeltung.
+Die unerbittliche, unversöhnliche Stimmung des nahenden Untergangs.
 
 ## Undertow
 
-Der Sog von Die Vergeltung.
+Der Schatten des toten Helden Sivard, dessen ungebrochene Ehre nach Sühne verlangt.
 
 ## Nerve
 
-Der Nerv von Die Vergeltung.
+Der Augenblick, in dem das Lachen der Gäste verstummt und Grimild den Mord an Sivard offen anklagt.
 
 ## Echo
 
-Das Echo von Die Vergeltung.
+Das Klirren der Schwerter und der Schrei der Sterbenden in der brennenden Halle.

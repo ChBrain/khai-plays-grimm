@@ -1,12 +1,12 @@
 ---
 khai: process
-title: "revenge"
+title: "Blutrache"
 declared: "Das Rächen"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-09"
+  date: "2026-07-13"
 ---
 
 # Process: Das Rächen
@@ -21,16 +21,16 @@ Parent group: processes
 
 ## Initiated by
 
-Wird initiiert.
+[Frau Grimild](persona_grimild.md).
 
 ## Direction
 
-Führt in eine Richtung.
+Die methodische Inszenierung des Hinterhalts und das Abschlachten der Mörder ihres Gatten Sivard.
 
 ## Lever
 
-Hebel des Prozesses.
+Die tiefe Trauer um Sivard und das Ausnutzen der Gastfreundschaft, um die Brüder in die Halle zu locken.
 
 ## Echo
 
-Echo des Prozesses.
+Der gewaltsame Tod aller Beteiligten und das Auslöschen des Geschlechts.
