@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.948.7",
+  "version": "0.948.8",
   "plays": [
     {
       "kind": "play",
@@ -5677,7 +5677,7 @@
       "kind": "play",
       "id": "sr_004_romance_de_dona_alda",
       "title": "Lady Alda's Lay",
-      "description": "Doña Alda dreams of a falcon pursued by an eagle, a tragic premonition of Roland's death at Roncesvalles."
+      "description": "Doña Alda dreams of a falcon killed by an eagle despite seeking shelter under her cloak, an omen of Roland's death."
     },
     {
       "kind": "play",
