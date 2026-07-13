@@ -30,13 +30,13 @@ Every episode is built as a play directory (`rf_NNN_`) containing:
 
 ## The Manifest: 10 Plays
 
-- `[ ]` **rf_001_reinhart_und_schoeneke** — Reinhart und Schöneke (Reinhart and Schöneke / The Cock)
-- `[ ]` **rf_002_reinhart_und_hinze** — Reinhart und Hinze (Reinhart and Hinze / The Cat)
-- `[ ]` **rf_003_reinhart_und_bruun** — Reinhart und Bruun (Reinhart and Bruun / The Bear)
-- `[ ]` **rf_004_reinhart_und_isengrim** — Reinhart und Isengrim (Reinhart and Isengrim / The Wolf)
-- `[ ]` **rf_005_die_koenigliche_vorladung** — Die königliche Vorladung (The Royal Summons)
-- `[ ]` **rf_006_die_ersten_anklagen** — Die ersten Anklagen (The First Accusations)
-- `[ ]` **rf_007_reinharts_verteidigung** — Reinharts Verteidigung (Reinhart's Defense)
-- `[ ]` **rf_008_das_gericht_ueber_den_fuchs** — Das Gericht über den Fuchs (The Trial of the Fox)
-- `[ ]` **rf_009_das_urteil_von_nobel** — Das Urteil von Nobel (The Judgment of Nobel)
-- `[ ]` **rf_010_der_triumph_des_tricksters** — Der Triumph des Tricksters (The Triumph of the Trickster)
+- `[x]` **rf_001_reinhart_und_schoeneke** — Reinhart und Schöneke (Reinhart and Schöneke / The Cock)
+- `[x]` **rf_002_reinhart_und_hinze** — Reinhart und Hinze (Reinhart and Hinze / The Cat)
+- `[x]` **rf_003_reinhart_und_bruun** — Reinhart und Bruun (Reinhart and Bruun / The Bear)
+- `[x]` **rf_004_reinhart_und_isengrim** — Reinhart und Isengrim (Reinhart and Isengrim / The Wolf)
+- `[x]` **rf_005_die_koenigliche_vorladung** — Die königliche Vorladung (The Royal Summons)
+- `[x]` **rf_006_die_ersten_anklagen** — Die ersten Anklagen (The First Accusations)
+- `[x]` **rf_007_reinharts_verteidigung** — Reinharts Verteidigung (Reinhart's Defense)
+- `[x]` **rf_008_das_gericht_ueber_den_fuchs** — Das Gericht über den Fuchs (The Trial of the Fox)
+- `[x]` **rf_009_das_urteil_von_nobel** — Das Urteil von Nobel (The Judgment of Nobel)
+- `[x]` **rf_010_der_triumph_des_tricksters** — Der Triumph des Tricksters (The Triumph of the Trickster)

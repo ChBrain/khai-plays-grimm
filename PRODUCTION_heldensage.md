@@ -30,8 +30,8 @@ Every play is built as a play directory (`dh_NNN_`) containing:
 
 ## The Manifest: 5 Plays
 
-- `[ ]` **dh_001_hildebrandslied** — Das Hildebrandslied (The Lay of Hildebrand)
-- `[ ]` **dh_002_hurnen_seifrid** — Der Hürnen Seyfrid (The Horny-skinned Siegfried)
-- `[ ]` **dh_003_waltharius** — Walther und Hildegund (Waltharius)
-- `[ ]` **dh_004_biterolf_und_dietleib** — Biterolf und Dietleib (Biterolf and Dietleib)
-- `[ ]` **dh_005_ortnit** — Ortnit (Ortnit's Dragon)
+- `[x]` **dh_001_hildebrandslied** — Das Hildebrandslied (The Lay of Hildebrand)
+- `[x]` **dh_002_hurnen_seifrid** — Der Hürnen Seyfrid (The Horny-skinned Siegfried)
+- `[x]` **dh_003_waltharius** — Walther und Hildegund (Waltharius)
+- `[x]` **dh_004_biterolf_und_dietleib** — Biterolf und Dietleib (Biterolf and Dietleib)
+- `[x]` **dh_005_ortnit** — Ortnit (Ortnit's Dragon)

@@ -30,8 +30,8 @@ Every ballad-play is built as a play directory (`ah_NNN_`) containing:
 
 ## The Manifest: 5 Plays
 
-- `[ ]` **ah_001_grimilds_rache** — Das Lied von der Frau Grimild und ihren Brüdern (Grimild's Revenge)
-- `[ ]` **ah_002_dieterich_und_der_lindwurm** — Des Leuen und König Dieterichs Kampf mit dem Lindwurm (King Dieterich and the Dragon)
-- `[ ]` **ah_003_vidrich_und_langbein** — Kampf zwischen dem Riesen Langbein, und Vidrich Verlands Sohn (Vidrich and Langbein)
-- `[ ]` **ah_004_sivards_tod** — Sivards mordlicher Tod (Sivard's Death)
-- `[ ]` **ah_005_die_koenigliche_hirtin** — Die königliche Hirtin (The Royal Shepherdess)
+- `[x]` **ah_001_grimilds_rache** — Das Lied von der Frau Grimild und ihren Brüdern (Grimild's Revenge)
+- `[x]` **ah_002_dieterich_und_der_lindwurm** — Des Leuen und König Dieterichs Kampf mit dem Lindwurm (King Dieterich and the Dragon)
+- `[x]` **ah_003_vidrich_und_langbein** — Kampf zwischen dem Riesen Langbein, und Vidrich Verlands Sohn (Vidrich and Langbein)
+- `[x]` **ah_004_sivards_tod** — Sivards mordlicher Tod (Sivard's Death)
+- `[x]` **ah_005_die_koenigliche_hirtin** — Die königliche Hirtin (The Royal Shepherdess)
