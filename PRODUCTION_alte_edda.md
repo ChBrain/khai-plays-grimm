@@ -30,8 +30,8 @@ Every Edda-play is built as a play directory (`ae_NNN_`) containing:
 
 ## The Manifest: 5 Plays
 
-- `[ ]` **ae_001_volundarkvida** — Völundarkviða (Wielands Lied / Völund's Lay)
-- `[ ]` **ae_002_helgakvida_hundingsbana** — Helgakviða Hundingsbana I (The First Lay of Helgi Hunding's Slayer)
-- `[ ]` **ae_003_helgakvida_hjorvardssonar** — Helgakviða Hjörvarðssonar (The Lay of Helgi Hjörvard's Slayer)
-- `[ ]` **ae_004_sinfiotlis_ende** — Sinfjötlalok (Sinfiotlis Ende / Sinfiotli's Death)
-- `[ ]` **ae_005_grapisspa_fafnismal** — Grípisspá & Fáfnismál (Sigurds Saga / Sigurd's Lay)
+- `[x]` **ae_001_volundarkvida** — Völundarkviða (Wielands Lied / Völund's Lay)
+- `[x]` **ae_002_helgakvida_hundingsbana** — Helgakviða Hundingsbana I (The First Lay of Helgi Hunding's Slayer)
+- `[x]` **ae_003_helgakvida_hjorvardssonar** — Helgakviða Hjörvarðssonar (The Lay of Helgi Hjörvard's Slayer)
+- `[x]` **ae_004_sinfiotlis_ende** — Sinfjötlalok (Sinfiotlis Ende / Sinfiotli's Death)
+- `[x]` **ae_005_grapisspa_fafnismal** — Grípisspá & Fáfnismál (Sigurds Saga / Sigurd's Lay)
