@@ -6,7 +6,7 @@ updated: "2026-06-13"
 
 ## Line of Work
 
-Staging _Knoist un sine dre Sühne_ (KHM 138) as a deadpan nonsense tale that strings impossibilities together without any claim to sense, possibility, or resolution. The production takes each absurdity literally — the blind son who shoots, the lame son who catches, the naked son with a pocket, the bottomless boat that ferries, the chapel grown in a tree where wooden clergy deal out holy water with cudgels — and lets the closing rhyme stand in for any moral the tale refuses to offer.
+Staging _Knoist un sine dre Sühne_ (KHM 138) as a deadpan nonsense tale that strings impossibilities together without any claim to sense, possibility, or resolution. The production takes each absurdity literally: the blind son who shoots, the lame son who catches, the naked son with a pocket, the bottomless boat that ferries, the chapel grown in a tree where wooden clergy deal out holy water with cudgels: and lets the closing rhyme stand in for any moral the tale refuses to offer.
 
 ## Origin
 

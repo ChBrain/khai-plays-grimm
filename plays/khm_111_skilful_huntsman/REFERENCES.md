@@ -6,7 +6,7 @@ updated: "2026-06-13"
 
 ## Line of Work
 
-Staging _Der gelernte Jäger_ (KHM 111) as an illustration of proven achievement against loud false claim. The production models how the huntsman's quietly secured tokens — the giants' tongues, the princess's slipper and scraps of cloth — overturn the one-eyed captain's empty boast, so that the true deed, not the claim, wins the daughter and the kingdom.
+Staging _Der gelernte Jäger_ (KHM 111) as an illustration of proven achievement against loud false claim. The production models how the huntsman's quietly secured tokens: the giants' tongues, the princess's slipper and scraps of cloth: overturn the one-eyed captain's empty boast, so that the true deed, not the claim, wins the daughter and the kingdom.
 
 ## Origin
 

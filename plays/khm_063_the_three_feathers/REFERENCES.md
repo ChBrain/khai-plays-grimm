@@ -6,7 +6,7 @@ updated: "2026-06-09"
 
 ## Line of Work
 
-Staging _Die drei Federn_ (KHM 063) as a systemic trial of the deep versus the shallow: an old king determining his succession through three impossible requests, resolved not by the cleverness of the older brothers but by the Dummling's obedience to the underworld. The production models the tale not as a series of random favors but as a structured covenant: the Dummling descends to the dark, respects the toad, and receives exact ritual tools (the carpet, the ring, the coach) that answer each royal command. The final test—jumping through the hoop—functions as the decisive physical checkmate against the coarse, surface-level strength of the brothers.
+Staging _Die drei Federn_ (KHM 063) as a systemic trial of the deep versus the shallow: an old king determining his succession through three impossible requests, resolved not by the cleverness of the older brothers but by the Dummling's obedience to the underworld. The production models the tale not as a series of random favors but as a structured covenant: the Dummling descends to the dark, respects the toad, and receives exact ritual tools (the carpet, the ring, the coach) that answer each royal command. The final test: jumping through the hoop: functions as the decisive physical checkmate against the coarse, surface-level strength of the brothers.
 
 ## Origin
 

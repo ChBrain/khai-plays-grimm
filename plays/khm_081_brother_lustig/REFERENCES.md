@@ -6,7 +6,7 @@ updated: "2026-06-13"
 
 ## Line of Work
 
-Staging _Bruder Lustig_ (KHM 081) as an episodic picaresque of grace and incorrigible good cheer. The production traces a discharged soldier who travels with the disguised St. Peter, witnesses miracles, tells one small lie about a lamb's heart, squanders every reward, and finally wishes his way into Heaven with a gifted knapsack — modeling how unkillable merriment and generosity outlast even the stern judgement of holiness.
+Staging _Bruder Lustig_ (KHM 081) as an episodic picaresque of grace and incorrigible good cheer. The production traces a discharged soldier who travels with the disguised St. Peter, witnesses miracles, tells one small lie about a lamb's heart, squanders every reward, and finally wishes his way into Heaven with a gifted knapsack: modeling how unkillable merriment and generosity outlast even the stern judgement of holiness.
 
 ## Origin
 
@@ -21,7 +21,7 @@ Jacob and Wilhelm Grimm's _Kinder- und Hausmärchen_ (1812-1857), tale KHM 081, 
 What the production refuses to model, and to whom it delegates.
 
 - **Theology of the miracles**: the healing of the peasant and the resurrection of the princess are treated as plot levers, not as doctrine; the ordering of the bones and the prayer are staged as state transitions, not explained.
-- **Mechanics of the wishing-knapsack**: the knapsack is modeled as an absolute lever — whatever is wished is inside it — without accounting for limits, cost, or how it physically contains nine devils or a man.
+- **Mechanics of the wishing-knapsack**: the knapsack is modeled as an absolute lever: whatever is wished is inside it: without accounting for limits, cost, or how it physically contains nine devils or a man.
 - **Cross-play context**: strict local isolation. Every link stays within this play's directory.
 
 ## Encoding

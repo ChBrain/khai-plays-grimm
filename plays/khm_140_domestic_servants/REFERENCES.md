@@ -6,7 +6,7 @@ updated: "2026-06-13"
 
 ## Line of Work
 
-Staging _Das Hausgesinde_ (KHM 140) as a pure cumulative nonsense rhyme: a call-and-response in which one speaker questions and the other answers, heaping up a household of named possessions — a man, a child, a cradle, a drudge - into an ever-growing refrain that ends with both speakers going together to Walpe. The production models meaning that arises not from sense but from rhyme, repetition, and shared movement.
+Staging _Das Hausgesinde_ (KHM 140) as a pure cumulative nonsense rhyme: a call-and-response in which one speaker questions and the other answers, heaping up a household of named possessions: a man, a child, a cradle, a drudge - into an ever-growing refrain that ends with both speakers going together to Walpe. The production models meaning that arises not from sense but from rhyme, repetition, and shared movement.
 
 ## Origin
 
