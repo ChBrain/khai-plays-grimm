@@ -6,7 +6,7 @@ updated: "2026-06-13"
 
 ## Line of Work
 
-Staging _Rohrdommel und Wiedehopf_ (KHM 173) as an etiological fable on moderation: an old cowherd answers a passing man's question about the best grazing ground and explains the cries of two birds who were once herdsmen. The production models how immoderation in either direction — the bittern's overrich meadow, where the cattle grew wild and bolted, and the hoopoe's barren sandhill, where they grew too weak to stand — destroys the entrusted herd, leaving both birds to call forever for cattle they no longer have.
+Staging _Rohrdommel und Wiedehopf_ (KHM 173) as an etiological fable on moderation: an old cowherd answers a passing man's question about the best grazing ground and explains the cries of two birds who were once herdsmen. The production models how immoderation in either direction: the bittern's overrich meadow, where the cattle grew wild and bolted, and the hoopoe's barren sandhill, where they grew too weak to stand: destroys the entrusted herd, leaving both birds to call forever for cattle they no longer have.
 
 ## Origin
 

@@ -6,7 +6,7 @@ updated: "2026-06-13"
 
 ## Line of Work
 
-Staging _Der starke Hans_ (KHM 166) as a strongman rescue tale: a boy carried off by robbers grows to prodigious strength, frees his captive mother, gathers two mighty companions, masters a malicious dwarf, and rescues a stolen king's daughter from the deep — only to be betrayed and then restored to triumph by a magic ring that commands the spirits of the air.
+Staging _Der starke Hans_ (KHM 166) as a strongman rescue tale: a boy carried off by robbers grows to prodigious strength, frees his captive mother, gathers two mighty companions, masters a malicious dwarf, and rescues a stolen king's daughter from the deep: only to be betrayed and then restored to triumph by a magic ring that commands the spirits of the air.
 
 ## Origin
 
