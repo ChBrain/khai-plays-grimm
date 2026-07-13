@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-07"
+  date: "2026-07-13"
 ---
 
 # Plot: Die erste Aussetzung
@@ -29,15 +29,15 @@ In Zeiten großer Hungersnot drängt die [Stiefmutter](persona_stepmother.md) de
 
 ## Stage
 
-- [hansel](persona_hansel.md): der aufmerksame Sammler der Kieselsteine.
-- [gretel](persona_gretel.md): die weinende Schwester, die von Hänsel getröstet wird.
-- [father](persona_father.md): der willensschwache Holzhacker, der seine Kinder verlässt.
-- [stepmother](persona_stepmother.md): die treibende Kraft hinter dem grausamen Verrat.
-- [pebbles](piece_pebbles.md): der schimmernde Wegweiser zurück in die Sicherheit.
-- [cottage](place_cottage.md): das verarmte Heim der Familie.
-- [forest](place_forest.md): der Ort der Aussetzung und Gefahr.
-- [abandonment](process_abandonment.md): der schmerzhafte Akt des Verlassens.
-- [guardian](position_guardian.md): Hänsels schützende Rolle für seine Schwester.
+- [Hansel](persona_hansel.md): der aufmerksame Sammler der Kieselsteine.
+- [Gretel](persona_gretel.md): die weinende Schwester, die von Hänsel getröstet wird.
+- [Father](persona_father.md): der willensschwache Holzhacker, der seine Kinder verlässt.
+- [Stepmother](persona_stepmother.md): die treibende Kraft hinter dem grausamen Verrat.
+- [Pebbles](piece_pebbles.md): der schimmernde Wegweiser zurück in die Sicherheit.
+- [Cottage](place_cottage.md): das verarmte Heim der Familie.
+- [Forest](place_forest.md): der Ort der Aussetzung und Gefahr.
+- [Abandonment](process_abandonment.md): der schmerzhafte Akt des Verlassens.
+- [Guardian](position_guardian.md): Hänsels schützende Rolle für seine Schwester.
 
 ## Tension
 

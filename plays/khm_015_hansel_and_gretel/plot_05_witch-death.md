@@ -1,15 +1,15 @@
 ---
 khai: plot
 title: "Witch Death"
-declared: "Der Backofen und die Heimkehr"
+declared: "Der Backofen und die Hürde"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-07"
+  date: "2026-07-13"
 ---
 
-# Plot: Der Backofen und die Heimkehr
+# Plot: Der Backofen und die Hürde
 
 ## Taxonomy
 
@@ -25,22 +25,19 @@ Die lodernde Glut im großen [Backofen](piece_oven.md).
 
 ## Action
 
-Nach vier Wochen verliert die [Hexe](persona_witch.md) die Geduld und befiehlt, den großen [Backofen](piece_oven.md) anzuheizen. Sie will zuerst Brot backen und plant insgeheim, [Gretel](persona_gretel.md) hineinzuschieben, um sie ebenfalls zu braten. Die Hexe fordert Gretel auf, hineinzukriechen, um zu sehen, ob der Ofen heiß genug sei. Gretel durchschaut die böse Absicht, stellt sich dumm und behauptet, sie wisse nicht, wie sie das tun solle. Als die Hexe ihr zeigt, wie man sich hineinlegt, gibt Gretel ihr einen kräftigen Schubs, stößt sie ganz in den Ofen hinein und verriegelt die eiserne Tür. Die Hexe verbrennt elendiglich. Gretel befreit [Hänsel](persona_hansel.md), sie rauben den [Schatz](piece_treasure.md) aus Perlen und Edelsteinen und kehren heim zum [Vater](persona_father.md), da die [Stiefmutter](persona_stepmother.md) inzwischen gestorben ist.
+Nach vier Wochen verliert die [Hexe](persona_witch.md) die Geduld und befiehlt, den großen [Backofen](piece_oven.md) anzuheizen. Sie fordert [Gretel](persona_gretel.md) auf, hineinzukriechen. Gretel stellt sich dumm, woraufhin die Hexe es ihr zeigt. Gretel stößt sie in den Ofen und verriegelt die eiserne Tür, sodass die Hexe verbrennt. Gretel befreit [Hänsel](persona_hansel.md), sie rauben den [Schatz](piece_treasure.md) und machen sich auf den Heimweg, bis sie an ein großes Wasser gelangen, das sie ohne Brücke oder Fähre nicht überqueren können.
 
 ## Stage
 
-- [hansel](persona_hansel.md): der befreite Bruder, der mit Gretel den Schatz sammelt.
-- [gretel](persona_gretel.md): die mutige Retterin, die mit ihrer List den Tod der Hexe herbeiführt.
-- [father](persona_father.md): der reuevolle Vater, der die Kinder glücklich wiederaufnimmt.
-- [stepmother](persona_stepmother.md): die abwesende, verstorbene Stiefmutter.
-- [witch](persona_witch.md): die überlistete Menschenfresserin, die den Ofentod erleidet.
-- [oven](piece_oven.md): das Werkzeug des Todes, das sich gegen die Hexe wendet.
-- [treasure](piece_treasure.md): der erbeutete Reichtum der Hexe, der die Armut beendet.
-- [gingerbread-house](place_gingerbread-house.md): der Ort des Sieges und des Hexentodes.
-- [cottage](place_cottage.md): das elterliche Heim der endgültigen Heimkehr.
-- [destruction](process_destruction.md): die Vernichtung der Hexe im brennenden Ofen.
-- [guardian](position_guardian.md): Gretels Wandel zur tatkräftigen Beschützerin.
+- [Hansel](persona_hansel.md): der befreite Bruder, der mit Gretel flieht.
+- [Gretel](persona_gretel.md): die Retterin, die die Hexe überlistet.
+- [Witch](persona_witch.md): die überlistete Hexe, die verbrennt.
+- [Oven](piece_oven.md): das Werkzeug des Todes.
+- [Treasure](piece_treasure.md): der mitgebrachte Reichtum.
+- [Gingerbread House](place_gingerbread-house.md): der Ort des Triumphs.
+- [Destruction](process_destruction.md): die Vernichtung der Hexe.
+- [Guardian](position_guardian.md): Gretels Wandel zur Retterin.
 
 ## Tension
 
-Die tödliche Falle des Backofens wird durch Gretels kluge Verstellung umgedreht; der geplante Kindermord wird zur gerechten Bestrafung der Hexe und bringt den Kindern Freiheit und Erlösung.
+Die Erleichterung über den Tod der Hexe weicht der plötzlichen Besorgnis vor dem unüberwindbaren großen Gewässer, das den Heimweg versperrt.

@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-07"
+  date: "2026-07-13"
 ---
 
 # Plot: Das Zuckerhaus
@@ -29,13 +29,13 @@ Ein schönes weißes Vöglein führt die hungrigen, verirrten Kinder zu einem kl
 
 ## Stage
 
-- [hansel](persona_hansel.md): der hungrige Knabe, der das Dach anknuspert.
-- [gretel](persona_gretel.md): die hungrige Schwester, die an den Fensterscheiben isst.
-- [witch](persona_witch.md): die lauernde Menschenfresserin, die sich freundlich verstellt.
-- [gingerbread-house](place_gingerbread-house.md): die süße Verführung, die als tödliche Falle dient.
-- [forest](place_forest.md): das schattige Reich, in dem die Kinder verführt werden.
-- [imprisonment](process_imprisonment.md): der Beginn des heimtückischen Festhaltens.
-- [cannibal](position_cannibal.md): die verborgene Identität der Hexe als Kinderfresserin.
+- [Hansel](persona_hansel.md): der hungrige Knabe, der das Dach anknuspert.
+- [Gretel](persona_gretel.md): die hungrige Schwester, die an den Fensterscheiben isst.
+- [Witch](persona_witch.md): die lauernde Menschenfresserin, die sich freundlich verstellt.
+- [Gingerbread House](place_gingerbread-house.md): die süße Verführung, die als tödliche Falle dient.
+- [Forest](place_forest.md): das schattige Reich, in dem die Kinder verführt werden.
+- [Imprisonment](process_imprisonment.md): der Beginn des heimtückischen Festhaltens.
+- [Cannibal](position_cannibal.md): die verborgene Identität der Hexe als Kinderfresserin.
 
 ## Tension
 

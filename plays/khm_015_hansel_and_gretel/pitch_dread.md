@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-18"
+  date: "2026-07-13"
 ---
 
 # Pitch: das Grauen
@@ -25,11 +25,11 @@ Das Grauen. Nicht der plötzliche Schreck, sondern das langsame Schließen der F
 
 ## Undertow
 
-Unter dem Grauen läuft der Hunger, die nackte Not, die alles erst in Bewegung setzt. Es ist kein dämonisches Böses allein, sondern der leere Magen, der die Mutter rät, die Kinder im Wald zu lassen, und der die Kinder ins Brothaus stürzt. Diese leibliche Bedürftigkeit macht das Grauen so kalt: nicht das Ungeheuerliche schreckt zuerst, sondern das Begreifliche. So bleibt die Tonart hart und irdisch und kippt nicht ins bloß Gespenstische.
+Unter dem Grauen läuft der Hunger, die nackte Not, die alles erst in Bewegung setzt. Es ist kein dämonisches Böses allein, sondern der leere Magen, der die Stiefmutter rät, die Kinder im Wald zu lassen, und der die Kinder ins Brothaus stürzt. Diese leibliche Bedürftigkeit macht das Grauen so kalt: nicht das Ungeheuerliche schreckt zuerst, sondern das Begreifliche. So bleibt die Tonart hart und irdisch und kippt nicht ins bloß Gespenstische.
 
 ## Nerve
 
-Getroffen wird die Urangst des Kindes, ausgesetzt und verschlungen zu werden. Das Grausen vor der Hand, die füttert, um zu fressen, vor dem warmen Haus, das eine Mästung ist, vor dem Ofen, dessen Glut auf den eigenen Leib zielt. Es spielt für das Entsetzen vor dem Verlassenwerden und vor dem Gefressenwerden.
+Getroffen wird die Urangst des Kindes, ausgesetzt und verschlungen zu werden. Das Grausen vor der Hand, die füttert, um zu fressen, vor dem warmen Haus, das eine Mästung ist, vor dem Ofen, dessen glut auf den eigenen Leib zielt. Es spielt für das Entsetzen vor dem Verlassenwerden und vor dem Gefressenwerden.
 
 ## Echo
 

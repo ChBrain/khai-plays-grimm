@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.948.5",
+  "version": "0.948.6",
   "plays": [
     {
       "kind": "play",
@@ -4165,7 +4165,7 @@
       "kind": "play",
       "id": "khm_015_hansel_and_gretel",
       "title": "Hansel and Gretel",
-      "description": "Two children abandoned in the forest outwit a wicked witch and return home rich to their father."
+      "description": "Two children abandoned in the forest outwit a wicked witch, cross a lake with a duck, and return home rich."
     },
     {
       "kind": "play",
