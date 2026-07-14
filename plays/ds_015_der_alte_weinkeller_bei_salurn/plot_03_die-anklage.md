@@ -33,4 +33,4 @@ Bühne für Die Anklage.
 
 ## Tension
 
-Spannung des Plots.
+Der betrunkene Redefluss des Finders vor den neugierigen Gästen bricht das auferlegte Schweigegebot jäh auf.

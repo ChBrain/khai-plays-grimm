@@ -33,4 +33,4 @@ Bühne für Der Untergang.
 
 ## Tension
 
-Spannung des Plots.
+Der blutige Bruderkrieg der Riesen führt zu ihrer gegenseitigen Vernichtung, sodass am Ende nur die leblosen Steine im Tal zeugen.

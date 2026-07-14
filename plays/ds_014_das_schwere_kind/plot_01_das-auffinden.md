@@ -33,4 +33,4 @@ Bühne für Das Auffinden.
 
 ## Tension
 
-Spannung des Plots.
+Die bittere Kälte und die Einsamkeit der nächtlichen Straße drohen das wehrlose Kind verhungern zu lassen, ehe Hilfe naht.

@@ -33,4 +33,4 @@ Bühne für Der Ruf des Kaisers.
 
 ## Tension
 
-Spannung des Plots.
+Die spöttischen Bemerkungen der feindlichen Krieger fordern den Riesen zu einer ungeheuerlichen Demonstration seiner Stärke heraus.

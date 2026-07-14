@@ -33,4 +33,4 @@ Bühne für Die Flucht.
 
 ## Tension
 
-Spannung des Plots.
+Das panische Entsetzen des Schneiders vor dem wilden Aufbäumen der Schlange bricht den Zauber beim letzten Kuss und führt zu seiner Flucht.

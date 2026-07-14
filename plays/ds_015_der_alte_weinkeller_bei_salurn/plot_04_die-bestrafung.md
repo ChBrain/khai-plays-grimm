@@ -33,4 +33,4 @@ Bühne für Die Bestrafung.
 
 ## Tension
 
-Spannung des Plots.
+Die unsichtbare, tödliche Gewalt des erzürnten Geistes straft den Verräter bei seiner Rückkehr in die Ruine ohne Gnade.

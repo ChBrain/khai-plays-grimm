@@ -33,4 +33,4 @@ Bühne für Die Küsse.
 
 ## Tension
 
-Spannung des Plots.
+Der kalte, zischende Atem des Ungeheuers macht jeden der drei geforderten Küsse zu einer unerträglichen Überwindung.

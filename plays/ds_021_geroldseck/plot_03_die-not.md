@@ -33,4 +33,4 @@ Bühne für Die höchste Not.
 
 ## Tension
 
-Spannung des Plots.
+Die Frage, ob die gegenwärtige Not des Landes bereits die prophezeite höchste Not ist, lässt die Helden zögern aufzuwachen.

@@ -33,4 +33,4 @@ Bühne für Der Einschlag.
 
 ## Tension
 
-Spannung des Plots.
+Der Fehlschuss einer gewaltigen Kugel verwüstet den Wald und schürt den Zorn der gegnerischen Riesenbande auf dem Nachbarberg.

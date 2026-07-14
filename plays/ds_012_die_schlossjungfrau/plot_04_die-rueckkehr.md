@@ -33,4 +33,4 @@ Bühne für Die Rückkehr.
 
 ## Tension
 
-Spannung des Plots.
+Das Verstreichen der Mittagszeit zwingt die Jungfrau, ihre irdische Gestalt jäh aufzugeben und in den Berg zurückzukehren.

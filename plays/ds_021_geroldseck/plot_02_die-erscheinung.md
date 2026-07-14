@@ -33,4 +33,4 @@ Bühne für Die periodische Erscheinung.
 
 ## Tension
 
-Spannung des Plots.
+Das Misstrauen der schlafenden Krieger gegenüber jedem Fremden, der das Gewölbe betritt und ihre Ruhe stört.

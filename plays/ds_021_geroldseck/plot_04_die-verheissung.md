@@ -33,4 +33,4 @@ Bühne für Die Verheißung.
 
 ## Tension
 
-Spannung des Plots.
+Das Warten auf das verheißene Zeichen (das dreimalige Krähen des Hahns) verzögert den Aufbruch des Heeres zur Rettung des Reiches.

@@ -33,4 +33,4 @@ Bühne für Der Riese aus dem Thurgau.
 
 ## Tension
 
-Spannung des Plots.
+Die Furcht der kaiserlichen Soldaten vor der unkontrollierbaren Kraft des Riesen erschwert seine Aufnahme in das königliche Heer.

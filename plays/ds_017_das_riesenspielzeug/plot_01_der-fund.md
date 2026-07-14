@@ -33,4 +33,4 @@ Bühne für Der Fund.
 
 ## Tension
 
-Spannung des Plots.
+Die ungläubige Neugier des Riesenfräuleins verleitet sie dazu, das winzige Gespann des Bauern einfach vom Acker aufzuheben.

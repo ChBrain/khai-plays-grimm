@@ -33,4 +33,4 @@ Bühne für Das Eindringen.
 
 ## Tension
 
-Spannung des Plots.
+Das modrige Dunkel und die Einsturzgefahr des unterirdischen Gewölbes schrecken jeden feigen Eindringling ab.

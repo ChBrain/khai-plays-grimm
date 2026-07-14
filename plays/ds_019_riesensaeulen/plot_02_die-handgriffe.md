@@ -33,4 +33,4 @@ Bühne für Die Handgriffe.
 
 ## Tension
 
-Spannung des Plots.
+Das Aufrichten der kolossalen Säulen erfordert eine Koordination, die den zerstrittenen Riesen schwerfällt.

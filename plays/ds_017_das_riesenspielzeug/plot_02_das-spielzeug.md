@@ -33,4 +33,4 @@ Bühne für Das Spielzeug in der Schürze.
 
 ## Tension
 
-Spannung des Plots.
+Die ständige Gefahr, von der ungeschickten Hand des spielenden Riesenmädchens zerdrückt zu werden, versetzt den Bauern in Todesangst.

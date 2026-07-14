@@ -33,4 +33,4 @@ Bühne für Die Verscheuchung.
 
 ## Tension
 
-Spannung des Plots.
+Die grausige Erscheinung eines blutüberströmten, schreienden Mannes verjagt den Schäfer voller Entsetzen aus der Schatzhöhle.

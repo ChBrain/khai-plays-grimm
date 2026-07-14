@@ -33,4 +33,4 @@ Bühne für Die Erinnerung.
 
 ## Tension
 
-Spannung des Plots.
+Der Zorn der geschlagenen Riesen lässt sie die unvollendeten Säulen im Wald zurücklassen, wo sie als ewiges Mahnmal verwittern.

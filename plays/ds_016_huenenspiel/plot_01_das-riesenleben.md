@@ -33,4 +33,4 @@ Bühne für Das Riesenleben.
 
 ## Tension
 
-Spannung des Plots.
+Die unendliche Einsamkeit und das raue Klima der Berggipfel prägen das wilde, abgewandte Dasein der gewaltigen Riesen.

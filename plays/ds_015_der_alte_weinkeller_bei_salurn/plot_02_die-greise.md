@@ -33,4 +33,4 @@ Bühne für Die Begegnung mit den Greisen.
 
 ## Tension
 
-Spannung des Plots.
+Das strenge Verbot der stummen, greisen Wächter verlangt vom Finder absolutes Schweigen über den Weinkeller als Bedingung des Segens.
