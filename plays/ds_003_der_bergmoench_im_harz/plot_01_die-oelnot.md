@@ -33,4 +33,4 @@ Bühne für Die Ölnot.
 
 ## Tension
 
-Spannung des Plots.
+Die drohende Erstickung in der absoluten Finsternis des tiefen Schachts durch mangelndes Geleucht und die Angst vor der harten Strafe des unbarmherzigen Steigers.

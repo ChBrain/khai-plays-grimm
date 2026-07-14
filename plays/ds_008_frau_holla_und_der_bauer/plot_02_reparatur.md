@@ -33,4 +33,4 @@ Bühne für Die Reparatur.
 
 ## Tension
 
-Spannung des Plots.
+Die schwierige Reparatur des zerbrochenen Wagenrads mit einfachem Werkzeug im dichten Wald prüft das Geschick und den Gehorsam des Bauern.

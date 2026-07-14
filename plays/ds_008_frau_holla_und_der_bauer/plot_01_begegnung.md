@@ -33,4 +33,4 @@ Bühne für Die Begegnung.
 
 ## Tension
 
-Spannung des Plots.
+Das Erschrecken des einsamen Bauern auf der Waldstraße vor der plötzlichen Erscheinung der mächtigen Holla mit ihrem schwer beladenen Wagen.

@@ -33,4 +33,4 @@ Bühne für Der Schneeberger Knappe.
 
 ## Tension
 
-Spannung des Plots.
+Der gierige Versuch des Schneeberger Knappen, dem als Mönch verkleideten Berggeist sein kostbares Silbererz zu entwenden, ruft eine verletzende körperliche Bestrafung hervor.

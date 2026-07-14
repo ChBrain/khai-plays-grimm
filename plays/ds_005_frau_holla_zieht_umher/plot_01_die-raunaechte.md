@@ -33,4 +33,4 @@ Bühne für Die Raunächte.
 
 ## Tension
 
-Spannung des Plots.
+Die eisige Winterkälte und das unheimliche Treiben der Raunächte zwingen die Menschen in ihre Häuser, während die göttliche Gestalt über das Land wandert.

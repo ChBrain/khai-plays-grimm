@@ -33,4 +33,4 @@ Bühne für Das Bierwunder.
 
 ## Tension
 
-Spannung des Plots.
+Das Verbot, über das wunderbar gefüllte Bierfass zu sprechen, prüft die Verschwiegenheit der Jungen gegenüber ihrer hungrigen Familie.

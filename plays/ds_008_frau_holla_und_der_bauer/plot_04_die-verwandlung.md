@@ -33,4 +33,4 @@ Bühne für Die Verwandlung.
 
 ## Tension
 
-Spannung des Plots.
+Das ungläubige Staunen des Bauern zu Hause, als er die übrig gebliebenen Holzspäne aus seiner Tasche zieht und sie als pures Gold im Licht glänzen sieht.

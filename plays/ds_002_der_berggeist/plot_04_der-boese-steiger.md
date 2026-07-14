@@ -33,4 +33,4 @@ Bühne für Der böse Steiger.
 
 ## Tension
 
-Spannung des Plots.
+Die grausame Tyrannei des bösen Steigers gegenüber den wehrlosen Knappen zieht das unerbittliche, gewaltsame Eingreifen des Berggeistes nach sich.

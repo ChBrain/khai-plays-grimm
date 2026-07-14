@@ -33,4 +33,4 @@ Bühne für Die Begegnung.
 
 ## Tension
 
-Spannung des Plots.
+Das lähmende Entsetzen der Bergleute über die riesenhafte Gestalt des Mönchs weicht dem Erstaunen über seine unerschöpfliche Quelle von kostbarem Grubenöl.

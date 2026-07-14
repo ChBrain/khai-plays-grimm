@@ -33,4 +33,4 @@ Bühne für Die Begegnung.
 
 ## Tension
 
-Spannung des Plots.
+Der plötzliche Raub der glühenden Springwurzel durch den Schäfer, als der Vogel sie vor Schreck auf das rote Tuch fallen lässt.

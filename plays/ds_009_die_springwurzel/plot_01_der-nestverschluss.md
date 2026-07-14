@@ -33,4 +33,4 @@ Bühne für Der Nestverschluss.
 
 ## Tension
 
-Spannung des Plots.
+Der dichte Verschluss des Spechtnests durch den listigen Schäfer hindert den Specht daran, seine hilflosen Jungen im hohlen Baum zu füttern.

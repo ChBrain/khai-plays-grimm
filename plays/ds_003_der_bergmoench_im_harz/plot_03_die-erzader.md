@@ -33,4 +33,4 @@ Bühne für Die Erzader.
 
 ## Tension
 
-Spannung des Plots.
+Das Verbot des Mönchs, die Quelle seines Reichtums zu offenbaren, bildet eine schwere Prüfung für die überschwängliche Freude der plötzlich reich gewordenen Bergleute.

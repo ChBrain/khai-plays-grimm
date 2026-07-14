@@ -33,4 +33,4 @@ Bühne für Die Annaberger Bergleute.
 
 ## Tension
 
-Spannung des Plots.
+Das unvorsichtige Vordringen der Bergleute in die unheimliche Rosenkranz-Grube trotz der unheilvollen Erscheinung des geisterhaften Rosses führt zu ihrer tödlichen Erstickung.

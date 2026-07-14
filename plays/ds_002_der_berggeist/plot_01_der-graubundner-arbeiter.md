@@ -33,4 +33,4 @@ Bühne für Der Graubündner Arbeiter.
 
 ## Tension
 
-Spannung des Plots.
+Der Spott und die frevelhaften Flüche des ungeduldigen Arbeiters über das scheinbar nutzlose Umschütten des Erzes durch den Berggeist fordern den tödlichen Zorn des Hütergeistes heraus.

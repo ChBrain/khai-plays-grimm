@@ -33,4 +33,4 @@ Bühne für Die fleißigen Mägde.
 
 ## Tension
 
-Spannung des Plots.
+Der nächtliche Fleiß der treuen Spinnerinnen, die trotz Müdigkeit ihren Rocken rein halten, zieht den reichlichen Segen der wachsamen Holla an.

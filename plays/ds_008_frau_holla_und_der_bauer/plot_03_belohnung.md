@@ -33,4 +33,4 @@ Bühne für Die Belohnung.
 
 ## Tension
 
-Spannung des Plots.
+Die scheinbare Wertlosigkeit der Holzspäne, die Holla dem Bauern als Lohn überreicht, enttäuscht seine Hoffnung auf einen reichen Lohn.

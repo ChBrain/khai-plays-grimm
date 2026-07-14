@@ -33,4 +33,4 @@ Bühne für Die Erdmutter.
 
 ## Tension
 
-Spannung des Plots.
+Die Sehnsucht der Mütter nach neuem Leben steht im Bund mit dem tiefen Wasser des Teichs, aus dem Frau Holle die Seelen der Ungeborenen emporholt.

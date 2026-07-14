@@ -33,4 +33,4 @@ Bühne für Das Tor zum Schloss.
 
 ## Tension
 
-Spannung des Plots.
+Die unergründliche Tiefe des dunklen Teichs und der Aberglaube der Dorfbewohner verhindern jeden Versuch, das silberne Schloss der Holle zu ergründen.
