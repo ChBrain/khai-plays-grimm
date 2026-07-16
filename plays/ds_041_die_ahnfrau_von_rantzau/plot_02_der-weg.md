@@ -33,4 +33,4 @@ Bühne für Der Weg in den Berg.
 
 ## Tension
 
-Spannung des Plots.
+Der finstere, unwegsame Pfad durch den dichten Wald hinab in die Zwergenhöhle birgt unzählige Gefahren.

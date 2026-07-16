@@ -33,4 +33,4 @@ Bühne für Die Bitte um Geschirr.
 
 ## Tension
 
-Spannung des Plots.
+Die leise, schüchterne Bitte der Zwerge um das Kochgeschirr der Menschen fordert das Vertrauen der Dorfbewohner heraus.

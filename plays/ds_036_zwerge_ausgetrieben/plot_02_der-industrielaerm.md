@@ -33,4 +33,4 @@ Bühne für Der störende Lärm.
 
 ## Tension
 
-Spannung des Plots.
+Das unaufhörliche Dröhnen und Stampfen der schweren Eisenhämmer raubt dem empfindlichen Zwergenvolk den Schlaf.

@@ -33,4 +33,4 @@ Bühne für Die Entlehnung.
 
 ## Tension
 
-Spannung des Plots.
+Die Sorge der Bauern, dass die kostbaren Kupfertöpfe im Inneren des Berges verloren gehen oder beschädigt werden könnten.

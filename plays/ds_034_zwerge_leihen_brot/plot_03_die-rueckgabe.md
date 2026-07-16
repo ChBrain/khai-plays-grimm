@@ -33,4 +33,4 @@ Bühne für Die warme Rückgabe.
 
 ## Tension
 
-Spannung des Plots.
+Die wundersame Vermehrung des zurückgebrachten Brotes belohnt das Vertrauen des großzügigen Bauern reichlich.

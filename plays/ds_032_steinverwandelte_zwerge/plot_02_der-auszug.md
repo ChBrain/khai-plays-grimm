@@ -33,4 +33,4 @@ Bühne für Der Hochzeitszug.
 
 ## Tension
 
-Spannung des Plots.
+Der heimliche Auszug der Zwerge bei hellem Tage verletzt das strenge Verbot ihres mächtigen Meisters.

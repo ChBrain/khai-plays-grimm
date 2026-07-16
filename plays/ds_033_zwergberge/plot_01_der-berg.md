@@ -33,4 +33,4 @@ Bühne für Der Zwergberg bei Aachen.
 
 ## Tension
 
-Spannung des Plots.
+Die Furcht der Menschen vor dem unheimlichen Zwergenberg verhindert jeden freiwilligen Kontakt mit den Bergbewohnern.

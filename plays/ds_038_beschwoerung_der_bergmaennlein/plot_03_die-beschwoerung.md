@@ -33,4 +33,4 @@ Bühne für Die erfolgreiche Beschwörung.
 
 ## Tension
 
-Spannung des Plots.
+Das Raunen der dunklen Formeln in der Geisterstunde droht die Mächte des Berges in Zorn statt in Güte zu rufen.

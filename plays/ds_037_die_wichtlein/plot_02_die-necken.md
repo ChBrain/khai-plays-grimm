@@ -33,4 +33,4 @@ Bühne für Die Neckereien der Geister.
 
 ## Tension
 
-Spannung des Plots.
+Das diebische Necken und Verstecken von Werkzeugen durch die Wichtlein prüft die Geduld der schwer arbeitenden Bergleute.

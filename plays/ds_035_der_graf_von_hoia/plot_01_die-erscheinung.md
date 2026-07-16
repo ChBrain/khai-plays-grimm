@@ -33,4 +33,4 @@ Bühne für Die nächtliche Erscheinung.
 
 ## Tension
 
-Spannung des Plots.
+Das plötzliche Auftauchen des kleinen Mannes im verschlossenen Schlafgemach versetzt den schlafenden Grafen in tiefen Schrecken.

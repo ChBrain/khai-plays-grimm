@@ -33,4 +33,4 @@ Bühne für Das Zwergenloch im Gebirge.
 
 ## Tension
 
-Spannung des Plots.
+Die jahrhundertealte Ruhe der Zwergenstollen wird durch das Vordringen der menschlichen Siedlungen jäh bedroht.

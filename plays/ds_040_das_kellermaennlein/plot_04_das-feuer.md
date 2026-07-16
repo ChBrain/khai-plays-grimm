@@ -33,4 +33,4 @@ Bühne für Die verschonende Feuersbrunst.
 
 ## Tension
 
-Spannung des Plots.
+Die wütende Feuersbrunst im Nachbarhaus droht auf das Anwesen überzugreifen, wird aber durch den Segen des Zwerges abgewehrt.

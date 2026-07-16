@@ -33,4 +33,4 @@ Bühne für Das Wasserlassen im Hof.
 
 ## Tension
 
-Spannung des Plots.
+Die nächtliche Dunkelheit und die schwere Arbeit am Brunnen erschweren das Wasserholen der müden Magd.

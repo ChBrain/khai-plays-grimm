@@ -33,4 +33,4 @@ Bühne für Die Mahnung zur Ehre.
 
 ## Tension
 
-Spannung des Plots.
+Die Warnung des Zwerges, das Fest vor Mitternacht zu beenden, stößt auf den lautstarken Spott der betrunkenen Gäste.

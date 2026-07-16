@@ -33,4 +33,4 @@ Bühne für Der nächtliche Weckruf.
 
 ## Tension
 
-Spannung des Plots.
+Der nächtliche, verzweifelte Hilferuf des Zwergenvaters an das Tor der Burg stört die Ruhe der schlafenden Ahnfrau.

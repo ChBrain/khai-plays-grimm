@@ -33,4 +33,4 @@ Bühne für Das blutige Opfer.
 
 ## Tension
 
-Spannung des Plots.
+Die Furcht vor dem Teufelsbündnis erschwert die Beschaffung des rituellen Opfers (einer makellosen schwarzen Henne).
