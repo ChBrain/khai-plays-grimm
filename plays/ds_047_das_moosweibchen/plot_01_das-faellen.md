@@ -33,4 +33,4 @@ Bühne für Holzhauen im Wald.
 
 ## Tension
 
-Spannung des Plots.
+Die Härte des alten Baumstammes leistet der Axt des Holzfällers Hans Krepel zähen Widerstand.

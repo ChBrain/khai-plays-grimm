@@ -33,4 +33,4 @@ Bühne für Der nächtliche Ruf.
 
 ## Tension
 
-Spannung des Plots.
+Der unheimliche Ruf aus dem tiefen Wasser mitten in der Nacht erschreckt die schlafende Hebamme.

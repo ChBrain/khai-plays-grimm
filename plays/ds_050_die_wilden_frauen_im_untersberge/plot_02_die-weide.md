@@ -33,4 +33,4 @@ Bühne für Die Begegnung bei Glanegg.
 
 ## Tension
 
-Spannung des Plots.
+Die Sorge der armen Hirtenkinder, bei der Arbeit auf der steinigen Weide vor Hunger zu vergehen.

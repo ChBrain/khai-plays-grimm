@@ -33,4 +33,4 @@ Bühne für Die Warnung der Kinder.
 
 ## Tension
 
-Spannung des Plots.
+Das unerklärliche Auftauchen zweier kleiner Kinder in der einsamen Wildnis versetzt den Reiter in Erstaunen.

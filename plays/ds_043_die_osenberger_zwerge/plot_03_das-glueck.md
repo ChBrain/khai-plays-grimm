@@ -33,4 +33,4 @@ Bühne für Das kaiserliche Familienglück.
 
 ## Tension
 
-Spannung des Plots.
+Das Verbot der Zwerge, den zurückgelassenen Krug jemals leichtfertig zu reinigen oder zu verkaufen, prüft den Gehorsam der Wirtsleute.

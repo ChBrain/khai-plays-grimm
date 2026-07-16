@@ -33,4 +33,4 @@ Bühne für Die rettende Verschonung.
 
 ## Tension
 
-Spannung des Plots.
+Der gewaltige, donnernde Bergsturz verschüttet die Häuser der hartherzigen Reichen, während das Haus der Retter unversehrt bleibt.

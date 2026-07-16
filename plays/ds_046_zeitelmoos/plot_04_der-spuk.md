@@ -33,4 +33,4 @@ Bühne für Die unheimliche Überholung.
 
 ## Tension
 
-Spannung des Plots.
+Die übernatürliche Schnelligkeit der Kinder, die das galoppierende Pferd mühelos überholen, entzieht den Spuk jeder irdischen Erklärung.

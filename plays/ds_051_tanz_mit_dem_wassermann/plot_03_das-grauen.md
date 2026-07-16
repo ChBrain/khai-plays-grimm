@@ -33,4 +33,4 @@ Bühne für Die eiskalte Berührung.
 
 ## Tension
 
-Spannung des Plots.
+Die eisige Kälte der Hand des Fremden beim Tanz versetzt Ursula in wachsendes Entsetzen.

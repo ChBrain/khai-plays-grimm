@@ -33,4 +33,4 @@ Bühne für Der wilde Jäger stürmt vorbei.
 
 ## Tension
 
-Spannung des Plots.
+Der Versuch, sich im dichten, grünen Moos der Bäume unsichtbar zu machen, prüft die Wachsamkeit des wilden Jägers.

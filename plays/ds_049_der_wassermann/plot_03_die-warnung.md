@@ -33,4 +33,4 @@ Bühne für Die Warnung der Christin.
 
 ## Tension
 
-Spannung des Plots.
+Die Warnung der gebärenden Frau, den angebotenen Schatz des Wassermanns nur mit Bescheidenheit anzunehmen, um seinen Zorn zu meiden.

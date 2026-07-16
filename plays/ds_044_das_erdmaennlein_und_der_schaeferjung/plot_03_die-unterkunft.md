@@ -33,4 +33,4 @@ Bühne für Die Suche nach Unterkunft.
 
 ## Tension
 
-Spannung des Plots.
+Das lästige Verhalten des befreiten Erdmännchens, das dem Knaben hartnäckig in das Dorf folgt.

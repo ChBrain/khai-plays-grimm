@@ -33,4 +33,4 @@ Bühne für Die Erlösung des Geistes.
 
 ## Tension
 
-Spannung des Plots.
+Die magische Kraft des Steines trotzt den ersten Hebeversuchen des ungläubigen Schäferjungen.

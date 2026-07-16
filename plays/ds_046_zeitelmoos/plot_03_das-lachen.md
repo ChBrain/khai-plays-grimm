@@ -33,4 +33,4 @@ Bühne für Das unheimliche Lachen.
 
 ## Tension
 
-Spannung des Plots.
+Das unheimliche, gellende Lachen der Kinder verunsichert das nervöse Pferd des Reiters jäh.

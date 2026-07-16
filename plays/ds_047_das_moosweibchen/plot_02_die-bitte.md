@@ -33,4 +33,4 @@ Bühne für Die Bitte um die Kreuze.
 
 ## Tension
 
-Spannung des Plots.
+Das dringende Flehen des Moosweibchens, die rettenden drei Kreuze in den Baumstumpf zu schlagen, stößt auf den Unwillen des Mannes.

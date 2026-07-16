@@ -33,4 +33,4 @@ Bühne für Der prächtige Fremde.
 
 ## Tension
 
-Spannung des Plots.
+Das geheimnisvolle Auftauchen des eleganten Fremden mit den nassen Gewandsäumen erzeugt Neugier unter den Gästen.

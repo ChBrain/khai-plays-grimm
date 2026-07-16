@@ -33,4 +33,4 @@ Bühne für Die Bitte um den Saal.
 
 ## Tension
 
-Spannung des Plots.
+Die Sorge des Ritters, dass die Überlassung des Schlosses an das kleine Volk unvorhersehbare Gefahren bringt.

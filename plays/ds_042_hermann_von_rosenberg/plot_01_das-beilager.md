@@ -33,4 +33,4 @@ Bühne für Das menschliche Beilager.
 
 ## Tension
 
-Spannung des Plots.
+Die anstrengenden Feierlichkeiten des ritterlichen Beilagers ermüden die Schlossbewohner in der tiefen Nacht.

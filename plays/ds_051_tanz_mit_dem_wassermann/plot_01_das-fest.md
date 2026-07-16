@@ -33,4 +33,4 @@ Bühne für Das Tanzfest unter der Linde.
 
 ## Tension
 
-Spannung des Plots.
+Der laute Lärm und das dichte Gedränge auf dem Kirchweihfest erschweren Ursula die Suche nach dem passenden Tänzer.

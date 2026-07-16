@@ -33,4 +33,4 @@ Bühne für Die unberührte Rückkehr.
 
 ## Tension
 
-Spannung des Plots.
+Die sinkende Abendsonne zwingt die wilden Frauen, ihre Hilfe einzustellen und in den schützenden Berg zurückzukehren.

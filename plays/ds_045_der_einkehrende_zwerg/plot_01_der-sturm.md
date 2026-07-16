@@ -33,4 +33,4 @@ Bühne für Die Suche im Unwetter.
 
 ## Tension
 
-Spannung des Plots.
+Der wütende Wintersturm und der peitschende Regen schneiden den einsamen Wanderer vom sicheren Tal ab.

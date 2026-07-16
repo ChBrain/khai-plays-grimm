@@ -33,4 +33,4 @@ Bühne für Der nahende Lärm.
 
 ## Tension
 
-Spannung des Plots.
+Das grausige Heulen des herannahenden Geisterheeres des wilden Jägers kündigt den nahenden Tod an.

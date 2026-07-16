@@ -33,4 +33,4 @@ Bühne für Die Flucht der Moosleute.
 
 ## Tension
 
-Spannung des Plots.
+Die Furcht der kleinen Moosweibchen vor den reißenden Hunden des Jägers treibt sie zur panischen Flucht durch das Unterholz.

@@ -33,4 +33,4 @@ Bühne für Das geschlossene Bündnis.
 
 ## Tension
 
-Spannung des Plots.
+Das Gebot der Zwerge, das nächtliche Hochzeitsfest unter keinen Umständen heimlich zu beobachten, prüft die Neugier des Ritters.
