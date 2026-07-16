@@ -33,4 +33,4 @@ Bühne für Die Geburtshilfe.
 
 ## Tension
 
-Spannung des Plots.
+Die schwierige Geburt der Zwergin erfordert das geschickte und behutsame Eingreifen der menschlichen Hebamme.

@@ -33,4 +33,4 @@ Bühne für Die Warnung zum Abschied.
 
 ## Tension
 
-Spannung des Plots.
+Die bittere Prophezeiung der Zwergin über den unaufhaltsamen Auszug ihres Volkes trübt die Freude über den Segen.

@@ -33,4 +33,4 @@ Bühne für Die Beobachtung durch die Magd.
 
 ## Tension
 
-Spannung des Plots.
+Der unheimliche Anblick des betenden Kellermännleins im Hof erzeugt bei der zuschauenden Magd eine lähmende Furcht.

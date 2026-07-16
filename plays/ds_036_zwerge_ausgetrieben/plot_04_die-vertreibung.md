@@ -33,4 +33,4 @@ Bühne für Die vollzogene Vertreibung.
 
 ## Tension
 
-Spannung des Plots.
+Der traurige Auszug des gesamten Zwergenvolkes über den Fluss markiert den endgültigen Verlust ihrer geliebten Heimat.

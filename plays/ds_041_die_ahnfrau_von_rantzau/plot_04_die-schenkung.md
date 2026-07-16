@@ -33,4 +33,4 @@ Bühne für Die Gabe unter Warnung.
 
 ## Tension
 
-Spannung des Plots.
+Das Geschenk der Zwerge (ein Klumpen reinen Goldes) darf niemals leichtfertig veräußert werden, um den Segen des Hauses nicht zu verspielen.

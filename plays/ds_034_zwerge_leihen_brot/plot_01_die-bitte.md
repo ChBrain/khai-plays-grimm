@@ -33,4 +33,4 @@ Bühne für Die Bitte am Acker.
 
 ## Tension
 
-Spannung des Plots.
+Der plötzliche Hunger der kleinen Zwergenfamilie zwingt das Zwergenweibchen, bei den misstrauischen Menschen um Nahrung zu flehen.

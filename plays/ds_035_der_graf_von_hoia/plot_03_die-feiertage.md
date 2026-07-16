@@ -33,4 +33,4 @@ Bühne für Die ungestörte Gastung.
 
 ## Tension
 
-Spannung des Plots.
+Das Verbot für alle Schlossbewohner, das nächtliche Treiben des kleinen Volkes heimlich zu beobachten oder zu stören.

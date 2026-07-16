@@ -33,4 +33,4 @@ Bühne für Der Zorn über Spott.
 
 ## Tension
 
-Spannung des Plots.
+Das rohe Schimpfen eines ungeduldigen Bergmanns fordert den zornigen Spott der gereizten Wichtlein heraus.

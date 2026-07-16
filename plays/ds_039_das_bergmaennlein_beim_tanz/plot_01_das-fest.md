@@ -33,4 +33,4 @@ Bühne für Das Hochzeitsfest in Glaß.
 
 ## Tension
 
-Spannung des Plots.
+Die ausgelassene Stimmung der Hochzeitsfeier droht den anständigen Rahmen der traditionellen Sitten zu sprengen.

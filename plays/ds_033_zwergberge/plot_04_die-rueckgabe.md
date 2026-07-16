@@ -33,4 +33,4 @@ Bühne für Die ehrliche Rückgabe.
 
 ## Tension
 
-Spannung des Plots.
+Das Gebot der Zwerge, das geliehene Geschirr stets rein gewaschen und pünktlich an der Pforte zurückzugeben.

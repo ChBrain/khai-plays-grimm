@@ -33,4 +33,4 @@ Bühne für Das gemeinsame Gebet.
 
 ## Tension
 
-Spannung des Plots.
+Das gemeinschaftliche, andächtige Gebet im Mondschein verlangt von der Magd die Überwindung all ihrer Angst.

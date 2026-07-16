@@ -33,4 +33,4 @@ Bühne für Die Zwergenhöhle.
 
 ## Tension
 
-Spannung des Plots.
+Die uralte Gehorsamspflicht bindet die hilfsbereiten Zwerge an das finstere Gewölbe unter dem Felsen.

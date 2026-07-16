@@ -33,4 +33,4 @@ Bühne für Die Leihgabe des Bauern.
 
 ## Tension
 
-Spannung des Plots.
+Die Prüfung des Mitleids: Die Bereitschaft des Bauern, sein weniges Brot mit dem fremden Erdwesen zu teilen.

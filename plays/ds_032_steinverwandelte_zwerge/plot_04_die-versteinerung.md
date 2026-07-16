@@ -33,4 +33,4 @@ Bühne für Die Versteinerung.
 
 ## Tension
 
-Spannung des Plots.
+Die unerbittliche Magie des Fluchs verwandelt das kleine Volk auf der Brücke jäh in kalten, stummen Stein.

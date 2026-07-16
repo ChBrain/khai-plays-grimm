@@ -33,4 +33,4 @@ Bühne für Die Bitte um den Saal.
 
 ## Tension
 
-Spannung des Plots.
+Die Bitte der Zwerge, das große Schloss für eine einzige Nacht zur Hochzeit zu nutzen, prüft die Gastfreundschaft des Grafen.

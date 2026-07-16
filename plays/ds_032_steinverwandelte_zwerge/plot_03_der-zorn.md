@@ -33,4 +33,4 @@ Bühne für Der Zorn des Beherrschers.
 
 ## Tension
 
-Spannung des Plots.
+Der glühende Zorn des betrogenen Geisterbanners droht die fliehenden Zwerge mit einem schrecklichen Fluch einzuholen.

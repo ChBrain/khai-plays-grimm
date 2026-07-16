@@ -33,4 +33,4 @@ Bühne für Der Zwergenkönig und das Buch.
 
 ## Tension
 
-Spannung des Plots.
+Die Prüfung des Geistes: Der Zwergenkönig gewährt dem Gelehrten die ersehnte Weisheit nur gegen das Versprechen strengster Verschwiegenheit.

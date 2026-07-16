@@ -33,4 +33,4 @@ Bühne für Die Klage der Zwerge.
 
 ## Tension
 
-Spannung des Plots.
+Die vergebliche Bitte der Zwergenältesten an die Menschen, den lärmenden Bergbau einzustellen, verhallt ungehört.

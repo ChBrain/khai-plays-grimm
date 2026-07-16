@@ -33,4 +33,4 @@ Bühne für Der gedeckte Tisch.
 
 ## Tension
 
-Spannung des Plots.
+Das einsame Bereiten der Opfergaben auf dem Opfertisch im nächtlichen Wald erfordert unerschütterlichen Wagemut.

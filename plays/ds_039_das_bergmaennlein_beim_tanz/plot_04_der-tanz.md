@@ -33,4 +33,4 @@ Bühne für Der zierliche Ehrentanz.
 
 ## Tension
 
-Spannung des Plots.
+Das zierliche, schwerelose Tanzen des Bergmännleins mit den Jungfrauen darf unter keinen Umständen durch plumpe Berührung gestört werden.

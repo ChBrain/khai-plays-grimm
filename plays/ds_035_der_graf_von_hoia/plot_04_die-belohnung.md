@@ -33,4 +33,4 @@ Bühne für Die kostbare Schenkung.
 
 ## Tension
 
-Spannung des Plots.
+Die Übergabe der geheimnisvollen Geschenke (eines Schwerts, eines Bechers und eines Rings) knüpft das Schicksal des Grafenhauses an deren Bewahrung.

@@ -33,4 +33,4 @@ Bühne für Das Wesen in den Stollen.
 
 ## Tension
 
-Spannung des Plots.
+Die ständige Gefahr von Einstürzen und schlagenden Wettern in den tiefen, dunklen Stollen bedroht das Leben der Knappen.

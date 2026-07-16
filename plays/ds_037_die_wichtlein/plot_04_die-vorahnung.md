@@ -33,4 +33,4 @@ Bühne für Das Todklopfen als Warnung.
 
 ## Tension
 
-Spannung des Plots.
+Das unheimliche, dreifache Klopfen der Wichtlein an die Stollenwand warnt die Knappen vor dem unmittelbar bevorstehenden Unglück.

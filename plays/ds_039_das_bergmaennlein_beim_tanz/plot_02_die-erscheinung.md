@@ -33,4 +33,4 @@ Bühne für Die Ankunft des Männleins.
 
 ## Tension
 
-Spannung des Plots.
+Das plötzliche Auftreten des fremden, winzigen Tänzers im festlichen Saal erzeugt eine Welle des Staunens und des Schweigens.
