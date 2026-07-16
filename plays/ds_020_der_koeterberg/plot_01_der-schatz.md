@@ -33,4 +33,4 @@ Bühne für Der Schatz im Berg.
 
 ## Tension
 
-Spannung des Plots.
+Die absolute Finsternis im Inneren des Köterberges verwehrt dem Schäfer den Zugang zu den sagenhaften Goldschätzen.

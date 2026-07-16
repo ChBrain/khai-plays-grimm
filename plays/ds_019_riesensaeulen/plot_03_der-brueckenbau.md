@@ -33,4 +33,4 @@ Bühne für Der Brückenbau.
 
 ## Tension
 
-Spannung des Plots.
+Die reißende Strömung des Mains spült die schweren Fundamente fort und bringt das hochmütige Brückenprojekt zum Einsturz.

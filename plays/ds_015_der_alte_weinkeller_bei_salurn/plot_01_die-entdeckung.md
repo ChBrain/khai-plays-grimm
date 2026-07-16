@@ -33,4 +33,4 @@ Bühne für Die Entdeckung.
 
 ## Tension
 
-Spannung des Plots.
+Die verfallenen, dunklen Gänge der Haderburg-Ruine verbergen das uralte Gewölbe vor den Augen der Schatzgräber.

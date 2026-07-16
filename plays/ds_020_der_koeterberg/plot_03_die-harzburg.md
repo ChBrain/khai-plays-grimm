@@ -33,4 +33,4 @@ Bühne für Die Hünen auf der Harzburg.
 
 ## Tension
 
-Spannung des Plots.
+Die Weite des Weges und der dichte Wald behindern den schnellen Botenlauf zur Harzburg, um Hilfe gegen den Spuk zu holen.

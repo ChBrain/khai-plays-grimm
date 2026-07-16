@@ -33,4 +33,4 @@ Bühne für Die Weissagung.
 
 ## Tension
 
-Spannung des Plots.
+Die düstere Prophezeiung des Kindes über den nahenden Krieg stürzt die versammelten Edelleute in tiefe Bestürzung.

@@ -33,4 +33,4 @@ Bühne für Die Erscheinung.
 
 ## Tension
 
-Spannung des Plots.
+Die unnahbare Aura der Jungfrau und die Ehrfurcht der Menschen vor dem Schloßberg verhindern jede Annäherung an die Geistererscheinung.

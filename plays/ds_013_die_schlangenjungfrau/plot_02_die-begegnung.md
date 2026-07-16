@@ -33,4 +33,4 @@ Bühne für Die Begegnung.
 
 ## Tension
 
-Spannung des Plots.
+Der furchterregende Anblick des Schlangenleibes prüft den Mut des jungen Schneiders jäh vor der geforderten Erlösungstat.

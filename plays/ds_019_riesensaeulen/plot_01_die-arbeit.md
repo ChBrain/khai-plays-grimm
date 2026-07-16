@@ -33,4 +33,4 @@ Bühne für Die Arbeit der Riesen.
 
 ## Tension
 
-Spannung des Plots.
+Die Härte des roten Sandsteins im Miltenberger Wald trotzt den ersten groben Schlägen der ungeduldigen Riesen.

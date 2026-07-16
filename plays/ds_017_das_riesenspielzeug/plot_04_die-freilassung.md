@@ -33,4 +33,4 @@ Bühne für Die Freilassung.
 
 ## Tension
 
-Spannung des Plots.
+Das vorsichtige Zurücksetzen des Gespanns auf den Acker erfordert Geduld, um den winzigen Menschen keinen Schaden zuzufügen.

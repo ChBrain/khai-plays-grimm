@@ -33,4 +33,4 @@ Bühne für Das Mähen.
 
 ## Tension
 
-Spannung des Plots.
+Das dichte Gewirr der Schlacht und der Ansturm der Feinde verlangen vom Riesen den Einsatz seiner brutalsten Kräfte.

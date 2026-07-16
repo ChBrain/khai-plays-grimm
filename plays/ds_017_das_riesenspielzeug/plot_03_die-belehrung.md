@@ -33,4 +33,4 @@ Bühne für Die Belehrung des Vaters.
 
 ## Tension
 
-Spannung des Plots.
+Der strenge Tadel des Riesenvaters belehrt das Mädchen über den Wert der menschlichen Arbeit, die den Riesen ihr Brot sichert.

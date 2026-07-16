@@ -33,4 +33,4 @@ Bühne für Der Hammerwurf.
 
 ## Tension
 
-Spannung des Plots.
+Der gewaltige Hammerwurf des Riesen vom Berggipfel droht die fliehenden Verfolger zu zerschmettern.

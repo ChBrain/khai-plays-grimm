@@ -33,4 +33,4 @@ Bühne für Das Ballspiel.
 
 ## Tension
 
-Spannung des Plots.
+Das enorme Gewicht der steinernen Kugeln verlangt selbst den Riesen bei ihrem wilden Spiel die äußerste Kraft ab.

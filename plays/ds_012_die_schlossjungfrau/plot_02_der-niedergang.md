@@ -33,4 +33,4 @@ Bühne für Der Niedergang.
 
 ## Tension
 
-Spannung des Plots.
+Der steile, dornige Pfad hinab zum tiefen Brunnen erschwert den mühsamen Abstieg der Jungfrau mit ihrem schweren Schlüsselbund.

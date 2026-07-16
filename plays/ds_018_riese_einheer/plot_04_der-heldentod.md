@@ -33,4 +33,4 @@ Bühne für Der Name.
 
 ## Tension
 
-Spannung des Plots.
+Die schiere Übermacht der Feinde und seine Erschöpfung besiegeln das Schicksal des unbesiegbaren Helden auf dem Schlachtfeld.

@@ -33,4 +33,4 @@ Bühne für Die Hebeversuche.
 
 ## Tension
 
-Spannung des Plots.
+Die wundersame, bleierne Schwere des kleinen Kindes lässt alle Anstrengungen der kräftigen Diener kläglich scheitern.

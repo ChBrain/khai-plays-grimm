@@ -33,4 +33,4 @@ Bühne für Das Bad im Brunnen.
 
 ## Tension
 
-Spannung des Plots.
+Das eiskalte Wasser des tiefen Brunnens schützt das Geheimnis der badenden Jungfrau vor den Augen neugieriger Sterblicher.

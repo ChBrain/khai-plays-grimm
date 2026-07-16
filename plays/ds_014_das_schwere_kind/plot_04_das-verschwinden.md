@@ -33,4 +33,4 @@ Bühne für Das Verschwinden.
 
 ## Tension
 
-Spannung des Plots.
+Das plötzliche, lautlose Verschwinden des Kindes entzieht das wundersame Wesen jeder weiteren irdischen Untersuchung.

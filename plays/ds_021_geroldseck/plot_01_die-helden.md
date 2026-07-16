@@ -33,4 +33,4 @@ Bühne für Die schlafenden Helden.
 
 ## Tension
 
-Spannung des Plots.
+Der jahrhundertelange magische Schlaf im verborgenen Gewölbe hält die tapferen Ritter gefangen, bis ihre Stunde schlägt.
