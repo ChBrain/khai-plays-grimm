@@ -33,4 +33,4 @@ Bühne für Der Sprung in die Laibach.
 
 ## Tension
 
-Spannung des Plots.
+Die unaufhaltsame Kraft des Wassermanns zieht die wehrlose Ursula vom Festplatz jäh hinab in die dunklen Fluten der Laibach.

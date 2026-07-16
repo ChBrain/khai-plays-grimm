@@ -33,4 +33,4 @@ Bühne für Die rohe Abweisung.
 
 ## Tension
 
-Spannung des Plots.
+Der spöttische Eigensinn des Holzfällers, der die Kreuze absichtlich verweigert und den Stumpf glatt schlägt.

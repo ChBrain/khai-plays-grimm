@@ -33,4 +33,4 @@ Bühne für Die kleinen Bittsteller.
 
 ## Tension
 
-Spannung des Plots.
+Die Furcht des Ritters vor der unheimlichen Erscheinung des kleinen Mannes im dämmrigen Saal.

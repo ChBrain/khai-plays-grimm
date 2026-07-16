@@ -33,4 +33,4 @@ Bühne für Die weise Lohnforderung.
 
 ## Tension
 
-Spannung des Plots.
+Die Prüfung der Gier: Die Hebamme wählt nur einen bescheidenen Lohn und entgeht so der tödlichen Rache des argwöhnischen Geistes.

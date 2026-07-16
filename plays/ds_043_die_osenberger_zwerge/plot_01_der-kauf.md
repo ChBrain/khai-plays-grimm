@@ -33,4 +33,4 @@ Bühne für Der Bierkauf mit Silber.
 
 ## Tension
 
-Spannung des Plots.
+Das Misstrauen des Wirts gegenüber den winzigen Osenberger Zwergen, die nachts an die Schänke klopfen.

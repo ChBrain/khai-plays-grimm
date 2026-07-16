@@ -33,4 +33,4 @@ Bühne für Der unliebsame Einzug.
 
 ## Tension
 
-Spannung des Plots.
+Der Versuch des neugierigen Nachbarn, das wundersame Wesen bei sich aufzunehmen, scheitert an dessen sprunghaftem Zorn.

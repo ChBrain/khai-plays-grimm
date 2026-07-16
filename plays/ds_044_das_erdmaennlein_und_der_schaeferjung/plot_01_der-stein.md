@@ -33,4 +33,4 @@ Bühne für Der springende Stein.
 
 ## Tension
 
-Spannung des Plots.
+Das ständige, unheimliche Springen des schweren Steines auf der Weide erschreckt die grasenden Schafe.

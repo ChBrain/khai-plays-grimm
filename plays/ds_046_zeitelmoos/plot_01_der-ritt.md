@@ -33,4 +33,4 @@ Bühne für Der Ritt durchs Moor.
 
 ## Tension
 
-Spannung des Plots.
+Der tiefe Nebel und die sumpfigen Wege im Zeitelmoos erschweren das sichere Vorankommen des Reiters.

@@ -33,4 +33,4 @@ Bühne für Die Hilfe beim Schnitt.
 
 ## Tension
 
-Spannung des Plots.
+Die schwere Last der Kornernte unter der sengenden Sonne übersteigt die Kräfte der erschöpften Bauern.

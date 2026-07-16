@@ -33,4 +33,4 @@ Bühne für Die Ankunft der Frauen.
 
 ## Tension
 
-Spannung des Plots.
+Die Felswände des Untersberges öffnen sich nur selten, um den wilden Frauen den Weg ins Tal freizugeben.

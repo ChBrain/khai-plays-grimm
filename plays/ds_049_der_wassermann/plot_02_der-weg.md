@@ -33,4 +33,4 @@ Bühne für Der Weg in das Wasserreich.
 
 ## Tension
 
-Spannung des Plots.
+Das Atmen unter Wasser und der Abstieg in das feuchte Reich des Wassermanns erfordern großes Vertrauen.

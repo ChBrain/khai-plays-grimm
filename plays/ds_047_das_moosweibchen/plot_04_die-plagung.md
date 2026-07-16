@@ -33,4 +33,4 @@ Bühne für Die Plagung des Bauern.
 
 ## Tension
 
-Spannung des Plots.
+Der bitteren Zorn des schutzlosen Moosweibchens straft den Holzfäller fortan mit schweren Krankheiten und Unglück.

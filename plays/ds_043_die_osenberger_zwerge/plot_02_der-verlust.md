@@ -33,4 +33,4 @@ Bühne für Der vergessene Zwergenkrug.
 
 ## Tension
 
-Spannung des Plots.
+Die Sorge der Zwerge über den Verlust ihres wundersamen Zwergenkruges im Wirtshaus.

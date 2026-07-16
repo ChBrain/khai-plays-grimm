@@ -33,4 +33,4 @@ Bühne für Die Abweisung durch die Reichen.
 
 ## Tension
 
-Spannung des Plots.
+Die Hartherzigkeit der reichen Bauern, die dem durchnässten, winzigen Zwerg die Pforte vor der Nase zuschlagen.

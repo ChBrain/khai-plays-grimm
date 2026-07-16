@@ -33,4 +33,4 @@ Bühne für Der verhängnisvolle Bruch.
 
 ## Tension
 
-Spannung des Plots.
+Die Gier eines Nachkommen, der das Geheimnis bricht und den Krug reinigt, zerstört das langjährige Glück der Wirtsfamilie jäh.

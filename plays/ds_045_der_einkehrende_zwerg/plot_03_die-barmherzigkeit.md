@@ -33,4 +33,4 @@ Bühne für Die Aufnahme in der Hütte.
 
 ## Tension
 
-Spannung des Plots.
+Die bittere Armut des alten Ehepaares lässt sie zögern, den fremden Gast in ihre bescheidene Stube einzuladen.

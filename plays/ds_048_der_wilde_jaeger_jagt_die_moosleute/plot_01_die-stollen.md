@@ -33,4 +33,4 @@ Bühne für Die Moosleute im Wald.
 
 ## Tension
 
-Spannung des Plots.
+Die raue Wildnis des tiefen Bergwaldes bietet den Moosleuten nur wenig natürlichen Schutz.
