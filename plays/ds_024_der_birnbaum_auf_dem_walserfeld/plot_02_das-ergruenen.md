@@ -33,4 +33,4 @@ Bühne für Das Ergrünen.
 
 ## Tension
 
-Spannung des Plots.
+Das plötzliche, wundersame Ergrünen des alten Baumes verkündet den nahenden Ausbruch der furchtbaren Endzeitschlacht.

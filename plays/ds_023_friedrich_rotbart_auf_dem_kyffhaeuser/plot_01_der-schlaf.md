@@ -33,4 +33,4 @@ Bühne für Der Schlummer des Kaisers.
 
 ## Tension
 
-Spannung des Plots.
+Ein bleierner Zauberschlaf fesselt den Kaiser Barbarossa im Inneren des Kyffhäuser-Berges an seinen steinernen Thron.

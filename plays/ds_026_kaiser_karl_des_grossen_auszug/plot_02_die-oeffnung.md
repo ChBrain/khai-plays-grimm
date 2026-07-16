@@ -33,4 +33,4 @@ Bühne für Die Öffnung des Berges.
 
 ## Tension
 
-Spannung des Plots.
+Die Felswand des Berges öffnet sich nur zu seltenen, schicksalhaften Zeiten und verwehrt Sterblichen den Einblick.

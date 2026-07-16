@@ -33,4 +33,4 @@ Bühne für Der Wunderberg.
 
 ## Tension
 
-Spannung des Plots.
+Die schroffen, unwegsamen Felswände des Untersbergs verbergen die geheimen Pforten zu den unterirdischen Reichen.

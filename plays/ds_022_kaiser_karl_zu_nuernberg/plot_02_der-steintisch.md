@@ -33,4 +33,4 @@ Bühne für Der Steintisch.
 
 ## Tension
 
-Spannung des Plots.
+Das unendliche Sitzen am kalten Steintisch erzwingt das langsame, jahrhundertelange Einwachsen des kaiserlichen Bartes in die steinerne Platte.

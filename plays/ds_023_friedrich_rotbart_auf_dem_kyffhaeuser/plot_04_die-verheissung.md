@@ -33,4 +33,4 @@ Bühne für Die Verheißung des grünen Baums.
 
 ## Tension
 
-Spannung des Plots.
+Das Ausbleiben des letzten großen Kampfes der Völker zögert den prophezeiten Auszug des Kaisers zur Rettung des Reiches hinaus.

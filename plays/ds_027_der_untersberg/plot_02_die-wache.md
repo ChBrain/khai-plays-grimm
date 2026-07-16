@@ -33,4 +33,4 @@ Bühne für Die Schatzwache.
 
 ## Tension
 
-Spannung des Plots.
+Die misstrauischen Blicke der kleinen Untersbergmännlein bewachen die prächtigen Schätze vor der Gier sterblicher Diebe.

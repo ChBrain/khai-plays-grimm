@@ -33,4 +33,4 @@ Bühne für Der wachsende Bart.
 
 ## Tension
 
-Spannung des Plots.
+Das langsame Fortschreiten der Zeit verzögert das dreimalige Umrunden des Tisches durch den Bart, welches die Voraussetzung der Erlösung ist.

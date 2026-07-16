@@ -33,4 +33,4 @@ Bühne für Der Fund im Gewölbe.
 
 ## Tension
 
-Spannung des Plots.
+Die schweren Trümmer des zerstörten Schlosses Schildheiß verbergen das unterirdische Gewölbe vor den Augen der Bauleute.

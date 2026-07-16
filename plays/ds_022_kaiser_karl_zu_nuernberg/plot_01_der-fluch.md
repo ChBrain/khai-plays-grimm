@@ -33,4 +33,4 @@ Bühne für Der Fluch.
 
 ## Tension
 
-Spannung des Plots.
+Die uralte Verwünschung bannt den mächtigen Kaiser Karl in das feuchte Dunkel des tiefen Burgbrunnens zu Nürnberg.

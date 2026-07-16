@@ -33,4 +33,4 @@ Bühne für Der Auszug.
 
 ## Tension
 
-Spannung des Plots.
+Das donnernde Hufgeklapper des ausziehenden Heeres durch die Nacht versetzt die lauschenden Landleute in Angst und Schrecken.

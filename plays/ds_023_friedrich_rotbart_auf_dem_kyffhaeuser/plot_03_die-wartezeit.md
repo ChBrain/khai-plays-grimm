@@ -33,4 +33,4 @@ Bühne für Die verlängerte Wartezeit.
 
 ## Tension
 
-Spannung des Plots.
+Das langsame Wachstum des kaiserlichen Bartes um den runden Steintisch bestimmt die lange Dauer des erzwungenen Wartens.

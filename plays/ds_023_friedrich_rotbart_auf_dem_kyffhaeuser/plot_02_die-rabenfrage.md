@@ -33,4 +33,4 @@ Bühne für Die Frage nach den Raben.
 
 ## Tension
 
-Spannung des Plots.
+Das unheilvolle Kreisen der schwarzen Raben um den Berggipfel zeigt an, dass die Zeit der Erlösung noch nicht reif ist.

@@ -33,4 +33,4 @@ Bühne für Die Weitergabe.
 
 ## Tension
 
-Spannung des Plots.
+Das Misstrauen innerhalb der Familie gefährdet die sichere Übergabe des Erbstücks an die nächste Generation.

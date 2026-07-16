@@ -33,4 +33,4 @@ Bühne für Die Kränkung.
 
 ## Tension
 
-Spannung des Plots.
+Der mutwillige Spott oder die Störung durch einen frechen Knecht verletzen den Stolz des empfindlichen Zwergenvolkes.

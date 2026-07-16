@@ -33,4 +33,4 @@ Bühne für Die Hilfeleistung.
 
 ## Tension
 
-Spannung des Plots.
+Das Misstrauen der Menschen gegenüber den nächtlichen Hilfeleistungen der Zwerge gefährdet das friedliche Zusammenleben.

@@ -33,4 +33,4 @@ Bühne für Das nächtliche Eindringen.
 
 ## Tension
 
-Spannung des Plots.
+Das lautlose Eindringen der Zwerge durch das Schlüsselloch in den verschlossenen Rittersaal der Eilenburg erfolgt im Schutz der Nacht.

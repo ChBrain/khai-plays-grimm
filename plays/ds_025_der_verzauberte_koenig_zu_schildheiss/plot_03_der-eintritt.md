@@ -33,4 +33,4 @@ Bühne für Der Eintritt des Ritters.
 
 ## Tension
 
-Spannung des Plots.
+Die drückende Hitze des züngelnden Feuers versperrt den Wagemutigen den Weg zum verzauberten Thronsaal des Königs.

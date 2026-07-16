@@ -33,4 +33,4 @@ Bühne für Der Untergang im Feuer.
 
 ## Tension
 
-Spannung des Plots.
+Der vergebliche Versuch, die Schlange durch Gewalt zu besiegen, besiegelt den endgültigen Einsturz des Gewölbes.

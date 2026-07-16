@@ -33,4 +33,4 @@ Bühne für Die Einladung.
 
 ## Tension
 
-Spannung des Plots.
+Die Furcht des Grafen vor dem unheimlichen Zauber weicht der freundlichen Einladung des Zwergenkönigs, am Fest teilzunehmen.

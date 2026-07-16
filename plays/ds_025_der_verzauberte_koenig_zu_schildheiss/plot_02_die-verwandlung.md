@@ -33,4 +33,4 @@ Bühne für Die Schlangenverwandlung.
 
 ## Tension
 
-Spannung des Plots.
+Die grausige Verwandlung der bewachenden Jungfrau in eine feuerspeiende Riesenschlange versetzt die Schatzgräber in panische Flucht.

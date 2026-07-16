@@ -33,4 +33,4 @@ Bühne für Das Wappenschild.
 
 ## Tension
 
-Spannung des Plots.
+Das Aufhängen des kaiserlichen Schildes am grünen Baum bildet den Wendepunkt, der den endgültigen Frieden über die Welt bringt.
