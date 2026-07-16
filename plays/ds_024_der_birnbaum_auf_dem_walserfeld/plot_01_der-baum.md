@@ -33,4 +33,4 @@ Bühne für Der dürre Birnbaum.
 
 ## Tension
 
-Spannung des Plots.
+Die jahrzehntelange Dürre und die scheinbare Sterblichkeit des verdorrten Birnbaums auf dem Walserfeld nähren den Zweifel der Zweifler.

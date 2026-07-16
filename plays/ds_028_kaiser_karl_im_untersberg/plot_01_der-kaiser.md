@@ -33,4 +33,4 @@ Bühne für Der gekrönte Schläfer.
 
 ## Tension
 
-Spannung des Plots.
+Der tiefe, magische Schlaf des großen Kaisers Karl an dem runden Tisch im Untersberg entzieht ihn dem weltlichen Geschehen.

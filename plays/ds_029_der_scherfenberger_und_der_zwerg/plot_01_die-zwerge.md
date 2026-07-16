@@ -33,4 +33,4 @@ Bühne für Der Zwergenzug.
 
 ## Tension
 
-Spannung des Plots.
+Die scheue Zurückhaltung des Zwergenvolkes erschwert jede verlässliche Begegnung zwischen den Menschen und den Bergbewohnern.

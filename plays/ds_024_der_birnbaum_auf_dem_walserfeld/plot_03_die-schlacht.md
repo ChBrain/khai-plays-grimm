@@ -33,4 +33,4 @@ Bühne für Die gräuliche Schlacht.
 
 ## Tension
 
-Spannung des Plots.
+Der blutige Zusammenstoß der riesigen Völkerheere auf dem Walserfeld droht das gesamte Reich ins Chaos zu stürzen.

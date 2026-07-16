@@ -33,4 +33,4 @@ Bühne für Das stille Volk.
 
 ## Tension
 
-Spannung des Plots.
+Die absolute Lautlosigkeit und die Scheu des stillen Volkes machen ihre Gegenwart auf Schloss Plesse zu einem unsichtbaren Rätsel.

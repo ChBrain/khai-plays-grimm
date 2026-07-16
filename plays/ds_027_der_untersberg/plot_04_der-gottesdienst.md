@@ -33,4 +33,4 @@ Bühne für Der Gottesdienst.
 
 ## Tension
 
-Spannung des Plots.
+Die feierliche, geisterhafte Stille des nächtlichen Gottesdienstes in der unterirdischen Kirche darf von keinem Sterblichen gestört werden.

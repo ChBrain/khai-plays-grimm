@@ -33,4 +33,4 @@ Bühne für Der Tod auf dem Feld.
 
 ## Tension
 
-Spannung des Plots.
+Der Verlust des schützenden Zwergenrings im Kampf führt zum unaufhaltsamen Niedergang und dem Tod des letzten Scherfenbergers.

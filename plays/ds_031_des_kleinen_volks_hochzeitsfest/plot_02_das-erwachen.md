@@ -33,4 +33,4 @@ Bühne für Das Erwachen des Grafen.
 
 ## Tension
 
-Spannung des Plots.
+Der plötzliche Lärm der winzigen Hochzeitsgäste weckt den schlafenden Grafen und versetzt ihn in großes Staunen.

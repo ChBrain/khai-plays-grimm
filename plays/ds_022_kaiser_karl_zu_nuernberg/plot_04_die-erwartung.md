@@ -33,4 +33,4 @@ Bühne für Die ewige Wache.
 
 ## Tension
 
-Spannung des Plots.
+Die lähmende Ungewissheit über das Jahr und die Stunde des nahenden Zeichens prüft die Ausdauer des wartenden Kaisers.

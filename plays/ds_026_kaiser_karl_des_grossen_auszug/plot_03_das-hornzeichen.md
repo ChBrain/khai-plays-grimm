@@ -33,4 +33,4 @@ Bühne für Das Signal des Horns.
 
 ## Tension
 
-Spannung des Plots.
+Das schallende Hornsignal des unsichtbaren Wächters zerreißt die nächtliche Ruhe und kündigt den nahenden Ausbruch des Krieges an.

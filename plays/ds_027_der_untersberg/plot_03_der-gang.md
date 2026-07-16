@@ -33,4 +33,4 @@ Bühne für Der Mitternachtsgang.
 
 ## Tension
 
-Spannung des Plots.
+Das verwirrende Labyrinth aus endlosen Gängen und prunkvollen Sälen macht jeden Rückweg für den verirrten Wanderer unmöglich.

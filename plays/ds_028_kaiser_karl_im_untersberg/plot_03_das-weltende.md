@@ -33,4 +33,4 @@ Bühne für Die Prophezeiung des Weltendes.
 
 ## Tension
 
-Spannung des Plots.
+Das vollständige Erreichen der prophezeiten Bartlänge leitet unaufhaltsam das Herannahen des Weltendes ein.

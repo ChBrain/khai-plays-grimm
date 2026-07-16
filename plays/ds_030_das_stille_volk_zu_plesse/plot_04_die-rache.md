@@ -33,4 +33,4 @@ Bühne für Die Rache am Vieh.
 
 ## Tension
 
-Spannung des Plots.
+Der unerbittliche Zorn der beleidigten Zwerge richtet sich gegen das unschuldige Vieh und bringt Verderben über den Hof.

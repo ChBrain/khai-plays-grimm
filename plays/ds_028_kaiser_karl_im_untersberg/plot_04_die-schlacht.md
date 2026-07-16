@@ -33,4 +33,4 @@ Bühne für Die letzte Schlacht.
 
 ## Tension
 
-Spannung des Plots.
+Die furchtbare Entscheidungsschlacht am Walserfeld erfordert das Erwachen und den gnadenlosen Kampf des gesamten Geisterheeres.

@@ -33,4 +33,4 @@ Bühne für Der Bartwuchs um den Tisch.
 
 ## Tension
 
-Spannung des Plots.
+Das quälend langsame Wachstum des kaiserlichen Bartes um die Tischplatte herum verlängert den Zustand des erzwungenen Dämmerschlafs.

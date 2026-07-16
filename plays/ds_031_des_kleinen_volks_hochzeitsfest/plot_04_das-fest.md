@@ -33,4 +33,4 @@ Bühne für Das Hochzeitsfest.
 
 ## Tension
 
-Spannung des Plots.
+Das Gebot, die ausgelassene Feier des kleinen Volkes nicht durch unbedachte Worte oder Taten zu stören, prüft den Anstand des Grafen.

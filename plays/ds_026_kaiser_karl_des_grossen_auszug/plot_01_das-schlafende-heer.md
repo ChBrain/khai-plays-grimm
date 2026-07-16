@@ -33,4 +33,4 @@ Bühne für Das schlafende Heer.
 
 ## Tension
 
-Spannung des Plots.
+Die magische Stille im Inneren des Odenberges hält das kaiserliche Heer in einem regungslosen Dämmerschlaf gefangen.

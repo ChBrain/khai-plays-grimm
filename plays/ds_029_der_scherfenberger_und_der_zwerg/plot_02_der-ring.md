@@ -33,4 +33,4 @@ Bühne für Die Übergabe des Rings.
 
 ## Tension
 
-Spannung des Plots.
+Die Warnung des Zwergenkönigs knüpft den Schutz des Adelsgeschlechts an das treue Bewahren des magischen Rings.
