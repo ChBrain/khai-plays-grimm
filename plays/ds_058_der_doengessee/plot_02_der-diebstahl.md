@@ -33,4 +33,4 @@ Bühne für Der Raub der Handschuhe.
 
 ## Tension
 
-Spannung des Plots.
+Die unverschämte Tat des Burschen, der die abgelegten Handschuhe der fremden Tänzerinnen stiehlt.

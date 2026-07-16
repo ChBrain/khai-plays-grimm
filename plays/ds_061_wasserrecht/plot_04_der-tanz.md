@@ -33,4 +33,4 @@ Bühne für Der Tanz vor dem Tod.
 
 ## Tension
 
-Spannung des Plots.
+Der unheimliche, lautlose Kreistanz der Nixen auf den Wellen kündigt den Zuschauern das bevorstehende Ertrinken an.

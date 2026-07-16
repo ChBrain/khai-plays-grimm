@@ -33,4 +33,4 @@ Bühne für Der tiefe Bergsee.
 
 ## Tension
 
-Spannung des Plots.
+Die absolute, unheimliche Stille über dem dunklen Wasser des Mummelsees darf von keinem Laut gestört werden.

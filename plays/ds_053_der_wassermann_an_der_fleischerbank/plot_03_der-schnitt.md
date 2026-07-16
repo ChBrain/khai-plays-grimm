@@ -33,4 +33,4 @@ Bühne für Der Schnitt in den Finger.
 
 ## Tension
 
-Spannung des Plots.
+Der gewaltsame Hieb des Fleischers mit dem Messer verletzt den unvorsichtigen Wassermann schwer.

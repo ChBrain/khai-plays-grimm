@@ -33,4 +33,4 @@ Bühne für Das Boot im Baum.
 
 ## Tension
 
-Spannung des Plots.
+Das plötzliche, spurlose Verschwinden des festgemachten Kahns am nächsten Morgen versetzt die Fischer in Zorn.

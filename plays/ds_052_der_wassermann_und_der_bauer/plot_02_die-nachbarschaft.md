@@ -33,4 +33,4 @@ Bühne für Gute Nachbarschaft.
 
 ## Tension
 
-Spannung des Plots.
+Das Misstrauen der Dorfbewohner gegenüber der wachsenden Vertrautheit des Bauern mit dem unheimlichen Nachbarn.

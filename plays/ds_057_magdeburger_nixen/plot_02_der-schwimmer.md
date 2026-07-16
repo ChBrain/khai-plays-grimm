@@ -33,4 +33,4 @@ Bühne für Der Tod des Schwimmers.
 
 ## Tension
 
-Spannung des Plots.
+Der vergebliche Kampf des kräftigen Schwimmers gegen den Sog der Nixe, die ihn hinab auf den Grund zieht.

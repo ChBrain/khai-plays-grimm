@@ -33,4 +33,4 @@ Bühne für Das Bad zu Pfingsten.
 
 ## Tension
 
-Spannung des Plots.
+Die starke, tückische Unterströmung der breiten Elbe fordert selbst erfahrene Schwimmer heraus.

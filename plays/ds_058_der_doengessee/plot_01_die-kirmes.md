@@ -33,4 +33,4 @@ Bühne für Das Erscheinen der Schönen.
 
 ## Tension
 
-Spannung des Plots.
+Das unbedachte Feiern der Bauern auf der Kirmes zieht die scheuen Nixen aus dem nahen See an.
