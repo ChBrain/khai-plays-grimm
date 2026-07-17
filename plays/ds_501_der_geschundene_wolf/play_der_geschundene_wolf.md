@@ -65,7 +65,7 @@ Die [Belagerung](process_belagerung.md) endet mit dem Sturz der Mauern.
 
 **[Plot: Die Schindung](plot_03_die-schindung.md)**
 
-Die grause [Schindung](process_schindung.md) am [Blutstein](piece_blutstein.md) entfacht den [Gerechter-Zorn](pitch_zorn).
+Die grause [Schindung](process_schindung.md) am [Blutstein](piece_blutstein.md) entfacht den [Gerechter-Zorn](pitch_zorn.md).
 
 ## Stakes
 

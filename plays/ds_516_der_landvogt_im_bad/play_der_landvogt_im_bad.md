@@ -65,7 +65,7 @@ Die unwillige [Badbereitung](process_bad.md) verschafft der Frau wertvolle Zeit 
 
 **[Plot: Der Axtschlag](plot_03_der-axtschlag.md)**
 
-[Conrad](persona_conrad.md) vollzieht den [Gerechter-Axtschlag](process_axt.md) zur Wahrung von [Ehren-Schutz](pitch_ehre).
+[Conrad](persona_conrad.md) vollzieht den [Gerechter-Axtschlag](process_axt.md) zur Wahrung von [Ehren-Schutz](pitch_ehre.md).
 
 ## Stakes
 

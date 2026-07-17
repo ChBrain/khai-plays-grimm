@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"Die [Getaeuschte](position_deceived.md) bricht die Zelte ab und flieht im Zeichen von [Hunger-List](pitch_muehe)."
+"Die [Getaeuschte](position_deceived.md) bricht die Zelte ab und flieht im Zeichen von [Hunger-List](pitch_muehe.md)."
 
 ## Stage
 

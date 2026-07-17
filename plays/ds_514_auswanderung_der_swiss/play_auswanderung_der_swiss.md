@@ -61,7 +61,7 @@ Hunger zwingt die [Gemeinde](persona_gemeinde.md) zum drastischen Losentscheid.
 
 **[Plot: Die Ausloosung](plot_02_die-ausloosung.md)**
 
-Das gezogene [Loos](piece_loos.md) besiegelt die [Ausloosung](process_loos.md) für den [Auswanderungs-Zug](pitch_zug).
+Das gezogene [Loos](piece_loos.md) besiegelt die [Ausloosung](process_loos.md) für den [Auswanderungs-Zug](pitch_zug.md).
 
 **[Plot: Die Ansiedlung](plot_03_die-ansiedlung.md)**
 

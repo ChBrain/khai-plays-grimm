@@ -67,7 +67,7 @@ König Rudolf stirbt im Stolz. Der Teufel will seine Seele. Michael wiegt die Ta
 
 **[Plot: Der Schwertstreich](plot_03_der-schwertstreich.md)**
 
-Im [Teufelskampf](process_schwert.md) vertreibt Michael den [Teufel](persona_teufel.md) im Zeichen von [Seelen-Kampf](pitch_kampf).
+Im [Teufelskampf](process_schwert.md) vertreibt Michael den [Teufel](persona_teufel.md) im Zeichen von [Seelen-Kampf](pitch_kampf.md).
 
 ## Stakes
 

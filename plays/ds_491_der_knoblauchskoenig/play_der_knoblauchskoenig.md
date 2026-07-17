@@ -65,7 +65,7 @@ Heinrich IV. verspricht Sachsen Frieden, falls sein Sohn König wird. Otto lehnt
 
 **[Plot: Der Tod](plot_03_der-tod.md)**
 
-Herrmann wird machtlos erschlagen, gefangen im [Machtloser-Spott](pitch_spott).
+Herrmann wird machtlos erschlagen, gefangen im [Machtloser-Spott](pitch_spott.md).
 
 ## Stakes
 

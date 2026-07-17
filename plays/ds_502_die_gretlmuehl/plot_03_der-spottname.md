@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"Der Spott über unbezahlte [Glockenstricke](piece_stricke.md) zementiert den [Pracht-Verlust](pitch_verlust)."
+"Der Spott über unbezahlte [Glockenstricke](piece_stricke.md) zementiert den [Pracht-Verlust](pitch_verlust.md)."
 
 ## Stage
 

@@ -65,7 +65,7 @@ Er kauft alle [Tontopf](piece_topf.md) zur Vorbereitung.
 
 **[Plot: Die Zertruemmerung](plot_03_die-zertruemmerung.md)**
 
-Die [Tontopf-Zertruemmerung](process_zertruemmerung.md) demonstriert sein [Eigentums-Recht](pitch_besitz) vor den [Vormünder](persona_vormuender.md).
+Die [Tontopf-Zertruemmerung](process_zertruemmerung.md) demonstriert sein [Eigentums-Recht](pitch_besitz.md) vor den [Vormünder](persona_vormuender.md).
 
 ## Stakes
 

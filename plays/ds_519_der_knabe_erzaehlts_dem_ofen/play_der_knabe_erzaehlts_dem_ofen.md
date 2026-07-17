@@ -61,7 +61,7 @@ Der [Knabe](persona_knab.md) belauscht die Waffenkammer und leistet den [Schwure
 
 **[Plot: Die Ofenrede](plot_02_die-ofenrede.md)**
 
-Er vollzieht die [Ofenrede](process_ofen.md) vor dem [Kachelofen](piece_ofen.md) als [Listiger-Eid](pitch_ofen).
+Er vollzieht die [Ofenrede](process_ofen.md) vor dem [Kachelofen](piece_ofen.md) als [Listiger-Eid](pitch_ofen.md).
 
 **[Plot: Die Rettung](plot_03_die-rettung.md)**
 

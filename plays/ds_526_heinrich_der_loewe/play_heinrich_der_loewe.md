@@ -61,7 +61,7 @@ Heinrich geht auf Abenteuersuche, erleidet Schiffbruch. Er rettet einen Löwen v
 
 **[Plot: Der Loewenbund](plot_02_der-loewenbund.md)**
 
-Er begründet die [Loewen-Treue](pitch_loewe) mit dem geretteten [Löwe](persona_loewe.md).
+Er begründet die [Loewen-Treue](pitch_loewe.md) mit dem geretteten [Löwe](persona_loewe.md).
 
 **[Plot: Die Heimkehr](plot_03_die-heimkehr.md)**
 

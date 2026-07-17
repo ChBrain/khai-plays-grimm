@@ -61,7 +61,7 @@ Diez wird in München verurteilt. Er bittet, seine Knechte aufzustellen; läuft 
 
 **[Plot: Die Enthauptung](plot_02_die-enthauptung.md)**
 
-Das [Richtschwert](piece_schwert.md) vollzieht die [Enthauptung](process_tod).
+Das [Richtschwert](piece_schwert.md) vollzieht die [Enthauptung](process_tod.md).
 
 **[Plot: Der Wunderlauf](plot_03_der-wunderlauf.md)**
 

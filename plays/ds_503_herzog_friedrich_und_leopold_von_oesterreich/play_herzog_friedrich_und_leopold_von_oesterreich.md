@@ -65,7 +65,7 @@ Der Teufel im [Pilgerkleid](piece_kleid.md) startet die [Versuchung](process_ver
 
 **[Plot: Die Treue](plot_03_die-treue.md)**
 
-[Koenig Friedrich](persona_friedrich.md) siegt durch Verweigerung im Sinne von [Glaubens-Sieg](pitch_glaube).
+[Koenig Friedrich](persona_friedrich.md) siegt durch Verweigerung im Sinne von [Glaubens-Sieg](pitch_glaube.md).
 
 ## Stakes
 

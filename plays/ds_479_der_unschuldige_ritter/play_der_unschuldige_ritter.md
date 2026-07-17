@@ -68,7 +68,7 @@ Die Kaiserin Maria bedrängt einen Ritter. Dieser lehnt ab. Aus Rache beschuldig
 
 **[Plot: Die Strafe](plot_03_die-strafe.md)**
 
-[Kaiser Otto](persona_otto.md) vollstreckt das Urteil und verkündet das reinigende [Milch-Zeugniss](pitch_milch).
+[Kaiser Otto](persona_otto.md) vollstreckt das Urteil und verkündet das reinigende [Milch-Zeugniss](pitch_milch.md).
 
 ## Stakes
 

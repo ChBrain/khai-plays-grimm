@@ -65,7 +65,7 @@ Die [Herzogin](persona_herzogin.md) leitet die [Aussendung](process_reise.md) de
 
 **[Plot: Die Abreise](plot_03_die-abreise.md)**
 
-Ausgerüstet mit dem [Goldschatz](piece_gold.md) zieht er in den [Schoenheits-Streit](pitch_schoenheit).
+Ausgerüstet mit dem [Goldschatz](piece_gold.md) zieht er in den [Schoenheits-Streit](pitch_schoenheit.md).
 
 ## Stakes
 

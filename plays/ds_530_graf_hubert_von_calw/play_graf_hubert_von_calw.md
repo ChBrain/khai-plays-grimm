@@ -65,7 +65,7 @@ Er betritt den Schlosshof beim [Bettelgang](process_erkennung.md) mit der [Bettl
 
 **[Plot: Die Erkennung](plot_03_die-erkennung.md)**
 
-[Gräfin Calw](persona_graefin.md) erkennt den Gatten, was die [Demuts-Probe](pitch_demut) glücklich beendet.
+[Gräfin Calw](persona_graefin.md) erkennt den Gatten, was die [Demuts-Probe](pitch_demut.md) glücklich beendet.
 
 ## Stakes
 

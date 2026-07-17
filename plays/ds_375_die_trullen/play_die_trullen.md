@@ -61,7 +61,7 @@ Die [Die Gothen](persona_gothen.md) leiden Hunger und betteln vor dem gegnerisch
 
 **[Plot: Der Wucher](plot_02_der-wucher.md)**
 
-Die [Die Wandalen](persona_wandalen.md) treiben den [Wucherhandel](process_wucher.md) und reichen die [Trulle](piece_trulle.md) für ein [Goldstueck](piece_gold).
+Die [Die Wandalen](persona_wandalen.md) treiben den [Wucherhandel](process_wucher.md) und reichen die [Trulle](piece_trulle.md) für ein [Goldstueck](piece_gold.md).
 
 **[Plot: Die Namensgebung](plot_03_die-namensgebung.md)**
 

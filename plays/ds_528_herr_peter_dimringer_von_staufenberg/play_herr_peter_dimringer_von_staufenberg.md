@@ -61,11 +61,11 @@ Peter bindet sich an eine Feenbraut, die ihm Glück unter Bedingung der Treue ve
 
 **[Plot: Der Treubruch](plot_02_der-treubruch.md)**
 
-Er heiratet eine Sterbliche, was den [Feen-Fluch](pitch_fluch) heraufbeschwört.
+Er heiratet eine Sterbliche, was den [Feen-Fluch](pitch_fluch.md) heraufbeschwört.
 
 **[Plot: Das Zeichen](plot_03_das-zeichen.md)**
 
-Das unheimliche [Feenbein](piece_bein.md) bricht durch die Decke als untrügliches [Todeszeichen](process_tod).
+Das unheimliche [Feenbein](piece_bein.md) bricht durch die Decke als untrügliches [Todeszeichen](process_tod.md).
 
 ## Stakes
 

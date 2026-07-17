@@ -65,7 +65,7 @@ Der Wind entführt Agnes' Schleier. Leopold gelobt den Bau eines Klosters, falls
 
 **[Plot: Die Stiftung](plot_03_die-stiftung.md)**
 
-Der [Schleierfund](process_fund.md) initiiert den Bau als [Wunder-Fund](pitch_fund).
+Der [Schleierfund](process_fund.md) initiiert den Bau als [Wunder-Fund](pitch_fund.md).
 
 ## Stakes
 

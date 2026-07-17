@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"[Gräfin Irmentrut](persona_irmentrut.md) spottet im Übermut des [Mutter-Stolz](pitch_stolz)."
+"[Gräfin Irmentrut](persona_irmentrut.md) spottet im Übermut des [Mutter-Stolz](pitch_stolz.md)."
 
 ## Stage
 

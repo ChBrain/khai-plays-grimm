@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"[Kaiser Otto](persona_otto.md) vollstreckt das Urteil und verkündet das reinigende [Milch-Zeugniss](pitch_milch)."
+"[Kaiser Otto](persona_otto.md) vollstreckt das Urteil und verkündet das reinigende [Milch-Zeugniss](pitch_milch.md)."
 
 ## Stage
 

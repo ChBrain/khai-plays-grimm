@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"[Graf Eticho](persona_eticho.md) stirbt in der [Verzweiflung](process_tod) über den erlittenen [Freiheits-Verlust](pitch_verlust)."
+"[Graf Eticho](persona_eticho.md) stirbt in der [Verzweiflung](process_tod.md) über den erlittenen [Freiheits-Verlust](pitch_verlust.md)."
 
 ## Stage
 

@@ -65,7 +65,7 @@ Er schließt den [Silberfund](process_fund.md) mit dem entthronten [König](pers
 
 **[Plot: Die Stiftung](plot_03_die-stiftung.md)**
 
-Die [Kastellgründung](process_pakt.md) vollzieht die glanzvolle [Silber-Erhebung](pitch_silber).
+Die [Kastellgründung](process_pakt.md) vollzieht die glanzvolle [Silber-Erhebung](pitch_silber.md).
 
 ## Stakes
 

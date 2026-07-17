@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"Das [Richtschwert](piece_schwert.md) vollzieht die [Enthauptung](process_tod)."
+"Das [Richtschwert](piece_schwert.md) vollzieht die [Enthauptung](process_tod.md)."
 
 ## Stage
 

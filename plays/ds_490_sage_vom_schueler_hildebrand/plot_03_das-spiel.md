@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"Der alte Kaiser spottet über den Neid, ungeachtet der [Vorbestimmte-Macht](pitch_macht)."
+"Der alte Kaiser spottet über den Neid, ungeachtet der [Vorbestimmte-Macht](pitch_macht.md)."
 
 ## Stage
 
