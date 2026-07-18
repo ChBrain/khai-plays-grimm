@@ -33,4 +33,4 @@ Bühne für Der seltsame Kunde.
 
 ## Tension
 
-Spannung des Plots.
+Die unheimliche Kälte des seltsamen Kunden an der Fleischerbank verunsichert den vielbeschäftigten Metzger.

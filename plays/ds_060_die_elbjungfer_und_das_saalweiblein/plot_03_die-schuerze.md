@@ -33,4 +33,4 @@ Bühne für Der nasse Schürzenzipfel.
 
 ## Tension
 
-Spannung des Plots.
+Das ständige, verdächtige Tropfen des nassen Schürzenzipfels droht die wahre Herkunft der Nixen zu offenbaren.

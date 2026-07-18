@@ -33,4 +33,4 @@ Bühne für Die Übergabe der drei Geschenke.
 
 ## Tension
 
-Spannung des Plots.
+Die Ungewissheit der Schwestern über die geheimnisvolle, magische Wirkung der drei hinterlassenen Gaben.

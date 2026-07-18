@@ -33,4 +33,4 @@ Bühne für Die Nixenmühle.
 
 ## Tension
 
-Spannung des Plots.
+Das laute Klappern der Mühlenräder stört das stille Treiben des Wassergeistes an der Elisabethmühle.

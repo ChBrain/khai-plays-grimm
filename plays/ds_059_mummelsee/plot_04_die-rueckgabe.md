@@ -33,4 +33,4 @@ Bühne für Die Geister am Ufer.
 
 ## Tension
 
-Spannung des Plots.
+Das drohende Aufsteigen der erzürnten Wassergeister, die den Stein wütend an das Ufer zurückschleudern.

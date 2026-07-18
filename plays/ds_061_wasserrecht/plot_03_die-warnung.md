@@ -33,4 +33,4 @@ Bühne für Die Warnung der Eltern.
 
 ## Tension
 
-Spannung des Plots.
+Die düstere Vorahnung des nahenden Todes eines Sterblichen im dämmrigen Flussbett.

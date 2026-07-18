@@ -33,4 +33,4 @@ Bühne für Die stumme Enttarnung.
 
 ## Tension
 
-Spannung des Plots.
+Die Neugier des Fleischers, der den Mädchen heimlich folgt, vertreibt die scheuen Wesen für immer vom Markt.

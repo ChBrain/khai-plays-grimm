@@ -33,4 +33,4 @@ Bühne für Die Einladung unter Wasser.
 
 ## Tension
 
-Spannung des Plots.
+Die unheimliche Aufforderung des Wassermanns, sein unsichtbares Reich unter den Wellen zu betreten.

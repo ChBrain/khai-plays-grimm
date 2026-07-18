@@ -33,4 +33,4 @@ Bühne für Die löchrigen Groschen.
 
 ## Tension
 
-Spannung des Plots.
+Die Wut des Fleischers über das wertlose Geistergeld mit den durchlöcherten Groschen.

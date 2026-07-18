@@ -33,4 +33,4 @@ Bühne für Der Nix in der Lahn.
 
 ## Tension
 
-Spannung des Plots.
+Die reißenden Fluten der Lahn drohen jeden unvorsichtigen Beobachter in den Abgrund zu reißen.

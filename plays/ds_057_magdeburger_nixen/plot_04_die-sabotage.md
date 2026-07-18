@@ -33,4 +33,4 @@ Bühne für Der nackte Saboteur.
 
 ## Tension
 
-Spannung des Plots.
+Die nächtliche, unsichtbare Zerstörung der Wasserleitung durch den zornigen Geist des Flusses macht alle Arbeit zunichte.

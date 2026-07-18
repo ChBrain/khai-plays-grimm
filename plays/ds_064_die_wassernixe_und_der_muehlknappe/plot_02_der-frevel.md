@@ -33,4 +33,4 @@ Bühne für Der Schuss aus der Büchse.
 
 ## Tension
 
-Spannung des Plots.
+Der frevelhafte Übermut des Knappen, der mit seiner Armbrust auf das wehrlose Wasserwesen schießt.

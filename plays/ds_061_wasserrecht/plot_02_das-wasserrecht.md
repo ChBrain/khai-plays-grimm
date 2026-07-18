@@ -33,4 +33,4 @@ Bühne für Das Recht des Flusses.
 
 ## Tension
 
-Spannung des Plots.
+Das ungeschriebene Gesetz des Wassers, das jedes Jahr genau ein Opfer in den nassen Abgrund verlangt.

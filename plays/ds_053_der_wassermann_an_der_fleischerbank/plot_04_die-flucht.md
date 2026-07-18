@@ -33,4 +33,4 @@ Bühne für Das Verschwinden des Wassermanns.
 
 ## Tension
 
-Spannung des Plots.
+Die bittere Klage des verletzten Wassergeists und sein plötzlicher Sturz in die reißende Flut vertreiben ihn für immer.

@@ -33,4 +33,4 @@ Bühne für Die Geburtshilfe im Erdreich.
 
 ## Tension
 
-Spannung des Plots.
+Die schwere Geburt der Wasserfrau unter der reißenden Strömung fordert die ganze Ausdauer der Helferin.

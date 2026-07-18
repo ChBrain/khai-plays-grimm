@@ -33,4 +33,4 @@ Bühne für Die Stimme aus dem Wald.
 
 ## Tension
 
-Spannung des Plots.
+Das spöttische Gelächter des unsichtbaren Wassergeists Bruder Nickel aus der Baumkrone der hohen Buche.

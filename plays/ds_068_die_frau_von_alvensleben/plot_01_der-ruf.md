@@ -33,4 +33,4 @@ Bühne für Der nächtliche Ruf.
 
 ## Tension
 
-Spannung des Plots.
+Der nächtliche, ängstliche Klopfton an den Burgtoren reißt die schlafende Edelfrau aus den Federn.

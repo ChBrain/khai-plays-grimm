@@ -33,4 +33,4 @@ Bühne für Der Fund des Toten.
 
 ## Tension
 
-Spannung des Plots.
+Die Trauer der Bürger am Ufer, als die Elbe den leblosen Körper des übermütigen Jünglings freigibt.

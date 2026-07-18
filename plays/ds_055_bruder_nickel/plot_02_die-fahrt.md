@@ -33,4 +33,4 @@ Bühne für Die gewagte Fahrt.
 
 ## Tension
 
-Spannung des Plots.
+Der dichte Nebel auf dem Wasser droht das kleine Boot an den Klippen zerschellen zu lassen.

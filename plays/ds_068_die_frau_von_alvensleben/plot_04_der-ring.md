@@ -33,4 +33,4 @@ Bühne für Die Übergabe des Rings.
 
 ## Tension
 
-Spannung des Plots.
+Das Geschenk des schicksalhaften goldenen Rings knüpft das Wohl und Wehe des Hauses Alvensleben an dessen sichere Verwahrung.

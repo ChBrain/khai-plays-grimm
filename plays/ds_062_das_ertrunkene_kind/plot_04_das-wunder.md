@@ -33,4 +33,4 @@ Bühne für Die Auferstehung am Altar.
 
 ## Tension
 
-Spannung des Plots.
+Die irdischen Gesetze des Todes werden auf dem geweihten Altar durch die göttliche Gnade jäh außer Kraft gesetzt.

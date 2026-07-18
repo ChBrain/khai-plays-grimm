@@ -33,4 +33,4 @@ Bühne für Die Abwehr des Nixes.
 
 ## Tension
 
-Spannung des Plots.
+Die Abwehr des nachjagenden Wassermannes gelingt nur durch die magische Schutzwirkung von Dosten und Dorant.

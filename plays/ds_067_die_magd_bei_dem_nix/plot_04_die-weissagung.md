@@ -33,4 +33,4 @@ Bühne für Die Weissagung des Todes.
 
 ## Tension
 
-Spannung des Plots.
+Die düstere Prophezeiung des Nixes bei ihrem Abschied trübt die Freude der Magd über die gewonnene Freiheit.

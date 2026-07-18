@@ -33,4 +33,4 @@ Bühne für Die Rückkehr zur Erde.
 
 ## Tension
 
-Spannung des Plots.
+Die Gefahr, beim heimlichen Aufstieg zur Oberfläche von dem misstrauischen Nix entdeckt zu werden.

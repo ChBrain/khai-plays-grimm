@@ -33,4 +33,4 @@ Bühne für Der Zusammenfluss bei Leipzig.
 
 ## Tension
 
-Spannung des Plots.
+Die reißende Strömung des Flusses bei Leipzig fordert unerbittlich den alljährlichen Tribut an Menschenleben.

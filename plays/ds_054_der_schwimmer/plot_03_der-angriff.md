@@ -33,4 +33,4 @@ Bühne für Der Angriff des Fisches.
 
 ## Tension
 
-Spannung des Plots.
+Das plötzliche, eisige Umklammern der Beine des erschöpften Schwimmers durch den unsichtbaren Nix in der Flussmitte.

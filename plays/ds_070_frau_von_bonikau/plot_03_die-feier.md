@@ -33,4 +33,4 @@ Bühne für Die Ankunft der Hochzeitsgäste.
 
 ## Tension
 
-Spannung des Plots.
+Das unruhige Gewimmel und das leise Trippeln des kleinen Volkes in der Kammer während der Geisterstunde.
