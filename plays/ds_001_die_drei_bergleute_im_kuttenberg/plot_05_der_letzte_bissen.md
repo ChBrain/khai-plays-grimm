@@ -1,4 +1,4 @@
-﻿---
+---
 khai: plot
 title: "The Last Bite"
 declared: "Der letzte Bissen"

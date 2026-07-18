@@ -1,4 +1,4 @@
-﻿---
+---
 khai: plot
 title: "The Three Wishes"
 declared: "Die drei Wünsche"

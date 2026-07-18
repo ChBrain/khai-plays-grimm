@@ -1,4 +1,4 @@
-﻿---
+---
 khai: persona
 title: "Third Miner"
 declared: "Dritter Bergmann"

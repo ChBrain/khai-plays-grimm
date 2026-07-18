@@ -1,4 +1,4 @@
-﻿---
+---
 khai: pitch
 title: "Reverence"
 declared: "die Ehrfurcht"

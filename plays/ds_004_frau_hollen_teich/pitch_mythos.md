@@ -1,4 +1,4 @@
-﻿---
+---
 khai: pitch
 title: "Myth"
 declared: "der Mythos"

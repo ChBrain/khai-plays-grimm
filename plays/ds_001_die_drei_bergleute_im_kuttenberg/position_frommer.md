@@ -1,4 +1,4 @@
-﻿---
+---
 khai: position
 title: "pious one"
 declared: "frommer Bergmann"

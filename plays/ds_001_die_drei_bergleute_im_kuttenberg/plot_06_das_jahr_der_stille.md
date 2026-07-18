@@ -1,4 +1,4 @@
-﻿---
+---
 khai: plot
 title: "The Year of Quiet"
 declared: "Das Jahr der Stille"

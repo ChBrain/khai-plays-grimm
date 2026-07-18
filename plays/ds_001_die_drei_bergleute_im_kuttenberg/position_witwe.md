@@ -1,4 +1,4 @@
-﻿---
+---
 khai: position
 title: "widow"
 declared: "Witwe"

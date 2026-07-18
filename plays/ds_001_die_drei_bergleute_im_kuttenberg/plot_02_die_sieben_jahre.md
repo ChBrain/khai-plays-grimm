@@ -1,4 +1,4 @@
-﻿---
+---
 khai: plot
 title: "The Seven Years"
 declared: "Die sieben Jahre unter der Erde"

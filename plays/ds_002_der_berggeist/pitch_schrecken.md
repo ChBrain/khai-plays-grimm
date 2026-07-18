@@ -1,4 +1,4 @@
-﻿---
+---
 khai: pitch
 title: "Terror"
 declared: "der Schrecken"

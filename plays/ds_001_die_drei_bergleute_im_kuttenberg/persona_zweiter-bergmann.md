@@ -1,4 +1,4 @@
-﻿---
+---
 khai: persona
 title: "Second Miner"
 declared: "Zweiter Bergmann"

@@ -1,4 +1,4 @@
-﻿---
+---
 khai: position
 title: "husband"
 declared: "Ehegatte"
