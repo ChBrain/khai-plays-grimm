@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"Er begründet die [Loewen-Treue](pitch_loewe) mit dem geretteten [Löwe](persona_loewe.md)."
+"Er begründet die [Loewen-Treue](pitch_loewe.md) mit dem geretteten [Löwe](persona_loewe.md)."
 
 ## Stage
 

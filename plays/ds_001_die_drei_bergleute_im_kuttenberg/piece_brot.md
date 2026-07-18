@@ -1,4 +1,4 @@
-﻿---
+---
 khai: piece
 title: "bread"
 declared: "Brot"

@@ -1,4 +1,4 @@
-﻿---
+---
 khai: piece
 title: "razor and soap"
 declared: "Bartmesser und Seife"

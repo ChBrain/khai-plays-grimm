@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"Der [Schleierfund](process_fund.md) initiiert den Bau als [Wunder-Fund](pitch_fund)."
+"Der [Schleierfund](process_fund.md) initiiert den Bau als [Wunder-Fund](pitch_fund.md)."
 
 ## Stage
 

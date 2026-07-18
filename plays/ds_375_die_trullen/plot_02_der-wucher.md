@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Die [Die Wandalen](persona_wandalen.md) treiben den [Wucherhandel](process_wucher.md) und reichen die [Trulle](piece_trulle.md) für ein [Goldstueck](piece_gold).
+Die [Die Wandalen](persona_wandalen.md) treiben den [Wucherhandel](process_wucher.md) und reichen die [Trulle](piece_trulle.md) für ein [Goldstueck](piece_gold.md).
 
 ## Stage
 

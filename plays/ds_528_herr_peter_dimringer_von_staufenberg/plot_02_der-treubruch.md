@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"Er heiratet eine Sterbliche, was den [Feen-Fluch](pitch_fluch) heraufbeschwört."
+"Er heiratet eine Sterbliche, was den [Feen-Fluch](pitch_fluch.md) heraufbeschwört."
 
 ## Stage
 

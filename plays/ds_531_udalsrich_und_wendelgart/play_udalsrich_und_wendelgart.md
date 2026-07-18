@@ -61,7 +61,7 @@ Udalrich wird von den Ungarn gefangen. Wendelgart lebt in St. Gallen. Ein Apfelw
 
 **[Plot: Das Apfelwunder](plot_02_das-apfelwunder.md)**
 
-[Gräfin Wendelgart](persona_wendelgart.md) isst den [Holzapfel](piece_apfel.md) als [Heiliges-Zeichen](pitch_apfel).
+[Gräfin Wendelgart](persona_wendelgart.md) isst den [Holzapfel](piece_apfel.md) als [Heiliges-Zeichen](pitch_apfel.md).
 
 **[Plot: Die Rueckkehr](plot_03_die-rueckkehr.md)**
 

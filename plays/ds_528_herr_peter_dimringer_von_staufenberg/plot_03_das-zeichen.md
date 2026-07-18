@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"Das unheimliche [Feenbein](piece_bein.md) bricht durch die Decke als untrügliches [Todeszeichen](process_tod)."
+"Das unheimliche [Feenbein](piece_bein.md) bricht durch die Decke als untrügliches [Todeszeichen](process_tod.md)."
 
 ## Stage
 

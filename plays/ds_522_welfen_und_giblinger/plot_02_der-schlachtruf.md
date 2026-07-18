@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"Die Heere entfesseln den [Schlachtruf](process_ruf.md) im Zeichen von [Namen-Streit](pitch_kri) gestützt auf [Muttermilch](piece_milch)."
+"Die Heere entfesseln den [Schlachtruf](process_ruf.md) im Zeichen von [Namen-Streit](pitch_kri.md) gestützt auf [Muttermilch](piece_milch.md)."
 
 ## Stage
 

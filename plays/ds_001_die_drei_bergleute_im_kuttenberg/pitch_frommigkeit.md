@@ -1,4 +1,4 @@
-﻿---
+---
 khai: pitch
 title: "Piety"
 declared: "die Frömmigkeit"

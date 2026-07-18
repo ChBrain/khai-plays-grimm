@@ -1,4 +1,4 @@
-﻿---
+---
 khai: persona
 title: "Second Wife"
 declared: "Zweite Ehefrau"

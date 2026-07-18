@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"Herrmann wird machtlos erschlagen, gefangen im [Machtloser-Spott](pitch_spott)."
+"Herrmann wird machtlos erschlagen, gefangen im [Machtloser-Spott](pitch_spott.md)."
 
 ## Stage
 

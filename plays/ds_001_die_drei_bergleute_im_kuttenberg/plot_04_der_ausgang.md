@@ -1,4 +1,4 @@
-﻿---
+---
 khai: plot
 title: "The Opening"
 declared: "Der Ausgang und das Tageslicht"

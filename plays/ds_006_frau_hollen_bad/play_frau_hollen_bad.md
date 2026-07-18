@@ -1,4 +1,4 @@
-﻿---
+---
 khai: play
 title: "Mother Holle's Bath"
 description: "At noon, Mother Holle bathes in her sacred pool on Hoher Meißner, demanding respect from all who pass by."

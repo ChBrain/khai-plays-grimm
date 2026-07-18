@@ -57,7 +57,7 @@ Irmentrut verhöhnt eine Drillingsmutter. Sie gebiert selbst zwölf Knaben. Sie 
 
 **[Plot: Die Laesterung](plot_01_die-laesterung.md)**
 
-[Gräfin Irmentrut](persona_irmentrut.md) spottet im Übermut des [Mutter-Stolz](pitch_stolz).
+[Gräfin Irmentrut](persona_irmentrut.md) spottet im Übermut des [Mutter-Stolz](pitch_stolz.md).
 
 **[Plot: Der Korbfund](plot_02_der-korbfund.md)**
 

@@ -65,7 +65,7 @@ Er lebt die [Verschwendung](process_verschwendung.md) mit [Margret](persona_marg
 
 **[Plot: Der Spottname](plot_03_der-spottname.md)**
 
-Der Spott über unbezahlte [Glockenstricke](piece_stricke.md) zementiert den [Pracht-Verlust](pitch_verlust).
+Der Spott über unbezahlte [Glockenstricke](piece_stricke.md) zementiert den [Pracht-Verlust](pitch_verlust.md).
 
 ## Stakes
 

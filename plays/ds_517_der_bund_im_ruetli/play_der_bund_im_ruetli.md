@@ -65,7 +65,7 @@ Gessler bedroht Stauffachers Haus. Gattin Gertrud rät zum Widerstand. Stauffach
 
 **[Plot: Der Eid](plot_03_der-eid.md)**
 
-Die Eidgenossen besiegeln das [Eidbündnis](process_eid.md) am Rütli im Zeichen von [Freiheits-Bund](pitch_bund) mit dem [Bundeseid](piece_bund).
+Die Eidgenossen besiegeln das [Eidbündnis](process_eid.md) am Rütli im Zeichen von [Freiheits-Bund](pitch_bund.md) mit dem [Bundeseid](piece_bund.md).
 
 ## Stakes
 

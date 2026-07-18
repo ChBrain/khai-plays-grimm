@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"[Gräfin Wendelgart](persona_wendelgart.md) isst den [Holzapfel](piece_apfel.md) als [Heiliges-Zeichen](pitch_apfel)."
+"[Gräfin Wendelgart](persona_wendelgart.md) isst den [Holzapfel](piece_apfel.md) als [Heiliges-Zeichen](pitch_apfel.md)."
 
 ## Stage
 

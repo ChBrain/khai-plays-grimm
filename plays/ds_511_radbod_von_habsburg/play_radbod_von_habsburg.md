@@ -65,7 +65,7 @@ Radbod baut die Habsburg. Bruder Werner kritisiert die Größe. Radbod sammelt h
 
 **[Plot: Die Mauer](plot_03_die-mauer.md)**
 
-Die [Heerschau](process_mauer.md) offenbart die [Lebendige-Mauer](piece_lebendig) als unüberwindbare [Treue-Festung](pitch_wall).
+Die [Heerschau](process_mauer.md) offenbart die [Lebendige-Mauer](piece_lebendig.md) als unüberwindbare [Treue-Festung](pitch_wall.md).
 
 ## Stakes
 

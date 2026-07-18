@@ -65,7 +65,7 @@ Ein Römerkind legt Späne zur Prophezeiung der Herrschaft. Hildebrand kommt an 
 
 **[Plot: Das Spiel](plot_03_das-spiel.md)**
 
-Der alte Kaiser spottet über den Neid, ungeachtet der [Vorbestimmte-Macht](pitch_macht).
+Der alte Kaiser spottet über den Neid, ungeachtet der [Vorbestimmte-Macht](pitch_macht.md).
 
 ## Stakes
 

@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"Das gezogene [Loos](piece_loos.md) besiegelt die [Ausloosung](process_loos.md) für den [Auswanderungs-Zug](pitch_zug)."
+"Das gezogene [Loos](piece_loos.md) besiegelt die [Ausloosung](process_loos.md) für den [Auswanderungs-Zug](pitch_zug.md)."
 
 ## Stage
 

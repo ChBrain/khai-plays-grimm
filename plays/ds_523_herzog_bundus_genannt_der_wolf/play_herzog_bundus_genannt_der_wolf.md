@@ -61,7 +61,7 @@ Der [Jäger](persona_jaeger.md) gebiert den Sohn, und die Herzogsfamilie vollzie
 
 **[Plot: Die Enthuellung](plot_02_die-enthuellung.md)**
 
-Das Gekläffe um den [Jagdhund](piece_hund.md) nährt das Geheimnis vom [Kuckucks-Kind](pitch_kuckuck).
+Das Gekläffe um den [Jagdhund](piece_hund.md) nährt das Geheimnis vom [Kuckucks-Kind](pitch_kuckuck.md).
 
 **[Plot: Die Folge](plot_03_die-folge.md)**
 

@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"Er vollzieht die [Ofenrede](process_ofen.md) vor dem [Kachelofen](piece_ofen.md) als [Listiger-Eid](pitch_ofen)."
+"Er vollzieht die [Ofenrede](process_ofen.md) vor dem [Kachelofen](piece_ofen.md) als [Listiger-Eid](pitch_ofen.md)."
 
 ## Stage
 

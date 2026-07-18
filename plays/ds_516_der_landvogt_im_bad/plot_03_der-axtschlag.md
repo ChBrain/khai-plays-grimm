@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"[Conrad](persona_conrad.md) vollzieht den [Gerechter-Axtschlag](process_axt.md) zur Wahrung von [Ehren-Schutz](pitch_ehre)."
+"[Conrad](persona_conrad.md) vollzieht den [Gerechter-Axtschlag](process_axt.md) zur Wahrung von [Ehren-Schutz](pitch_ehre.md)."
 
 ## Stage
 

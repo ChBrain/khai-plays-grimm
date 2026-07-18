@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"[Gräfin Calw](persona_graefin.md) erkennt den Gatten, was die [Demuts-Probe](pitch_demut) glücklich beendet."
+"[Gräfin Calw](persona_graefin.md) erkennt den Gatten, was die [Demuts-Probe](pitch_demut.md) glücklich beendet."
 
 ## Stage
 

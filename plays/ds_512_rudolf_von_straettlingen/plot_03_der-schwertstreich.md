@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"Im [Teufelskampf](process_schwert.md) vertreibt Michael den [Teufel](persona_teufel.md) im Zeichen von [Seelen-Kampf](pitch_kampf)."
+"Im [Teufelskampf](process_schwert.md) vertreibt Michael den [Teufel](persona_teufel.md) im Zeichen von [Seelen-Kampf](pitch_kampf.md)."
 
 ## Stage
 

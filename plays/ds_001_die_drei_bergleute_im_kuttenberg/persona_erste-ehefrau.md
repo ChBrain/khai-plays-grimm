@@ -1,4 +1,4 @@
-﻿---
+---
 khai: persona
 title: "First Wife"
 declared: "Erste Ehefrau"

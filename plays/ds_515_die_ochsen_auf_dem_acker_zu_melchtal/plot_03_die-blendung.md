@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"Die rachsüchtige [Blendung](process_blendung.md) am [Melchtaler Vater](persona_vater.md) besiegelt die [Tyrannen-Willkuer](pitch_willkuer)."
+"Die rachsüchtige [Blendung](process_blendung.md) am [Melchtaler Vater](persona_vater.md) besiegelt die [Tyrannen-Willkuer](pitch_willkuer.md)."
 
 ## Stage
 

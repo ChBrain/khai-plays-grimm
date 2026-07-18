@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"[Graf Eticho](persona_eticho.md) wählt den [Rueckzug](process_flucht.md) in den Wald wegen der empfundenen [Lehens-Schande](pitch_schande)."
+"[Graf Eticho](persona_eticho.md) wählt den [Rueckzug](process_flucht.md) in den Wald wegen der empfundenen [Lehens-Schande](pitch_schande.md)."
 
 ## Stage
 

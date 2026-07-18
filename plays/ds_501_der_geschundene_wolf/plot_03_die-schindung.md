@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"Die grause [Schindung](process_schindung.md) am [Blutstein](piece_blutstein.md) entfacht den [Gerechter-Zorn](pitch_zorn)."
+"Die grause [Schindung](process_schindung.md) am [Blutstein](piece_blutstein.md) entfacht den [Gerechter-Zorn](pitch_zorn.md)."
 
 ## Stage
 

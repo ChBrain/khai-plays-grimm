@@ -30,7 +30,7 @@ Source to constraint, per file.
 
 - **the production ([play_the_juniper_tree.md](play_the_juniper_tree.md))**: the root that chains the five plots and casts the company.
 - **the murderer ([Stiefmutter](persona_stepmother.md), [Peinigerin](position_oppressor.md))**: the owner of [der Mord an der Apfeltruhe](plan_stepmother-murder.md), the scheme to behead, cook, and conceal.
-- **the victim turned avenger ([Geschwister](persona_siblings.md), [Opfer](position_victim.md), [Trauernde](position_mourner.md))**: the owner of [das Lied des Vogels](plan_bird-vengeance.md), the counter-scheme of the juniper, the song, and the millstone.
+- **the victim turned avenger ([Sohn](persona_son.md), [Schwester](persona_sister.md), [Opfer](position_victim.md), [Trauernde](position_mourner.md))**: the owner of [das Lied des Vogels](plan_bird-vengeance.md), the counter-scheme of the juniper, the song, and the millstone.
 - **the deceived household ([Vater](persona_father.md)) and the rewarders ([Handwerker](persona_artisans.md))**: the father who eats the stew unknowing, and the goldsmith, cobbler, and miller who yield the gifts.
 - **the instruments ([Aepfel](piece_apples.md), [Sauerfleisch](piece_stew.md), [Gaben](piece_gifts.md))**: the load-bearing objects each plan turns on.
 - **the stages ([Wohnhaus](place_home.md), [Machandelbaum](place_juniper_tree.md), [Werkstaetten](place_workshop.md))** and **the engines ([Mord](process_murder.md), [Wiedergeburt](process_resurrection.md), [Vergeltung](process_retribution.md))**: where the two plans meet and resolve.

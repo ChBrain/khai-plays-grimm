@@ -1,4 +1,4 @@
-﻿---
+---
 khai: piece
 title: "prayer book"
 declared: "Gebetbuch"

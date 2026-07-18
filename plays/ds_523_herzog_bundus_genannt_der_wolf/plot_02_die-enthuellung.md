@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"Das Gekläffe um den [Jagdhund](piece_hund.md) nährt das Geheimnis vom [Kuckucks-Kind](pitch_kuckuck)."
+"Das Gekläffe um den [Jagdhund](piece_hund.md) nährt das Geheimnis vom [Kuckucks-Kind](pitch_kuckuck.md)."
 
 ## Stage
 

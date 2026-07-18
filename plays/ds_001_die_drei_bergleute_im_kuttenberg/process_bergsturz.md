@@ -1,4 +1,4 @@
-﻿---
+---
 khai: process
 title: "Collapse"
 declared: "Bergsturz"

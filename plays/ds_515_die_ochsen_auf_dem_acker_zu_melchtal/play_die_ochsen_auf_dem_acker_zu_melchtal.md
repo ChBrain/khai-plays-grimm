@@ -65,7 +65,7 @@ Arnold wehrt den Knecht am [Pflugjoch](piece_joche.md) ab und entflieht.
 
 **[Plot: Die Blindung](plot_03_die-blendung.md)**
 
-Die rachsüchtige [Blendung](process_blendung.md) am [Melchtaler Vater](persona_vater.md) besiegelt die [Tyrannen-Willkuer](pitch_willkuer).
+Die rachsüchtige [Blendung](process_blendung.md) am [Melchtaler Vater](persona_vater.md) besiegelt die [Tyrannen-Willkuer](pitch_willkuer.md).
 
 ## Stakes
 

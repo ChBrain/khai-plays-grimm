@@ -1,4 +1,4 @@
-﻿---
+---
 khai: persona
 title: "Third Wife"
 declared: "Dritte Ehefrau"

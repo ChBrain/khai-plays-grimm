@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"Ausgerüstet mit dem [Goldschatz](piece_gold.md) zieht er in den [Schoenheits-Streit](pitch_schoenheit)."
+"Ausgerüstet mit dem [Goldschatz](piece_gold.md) zieht er in den [Schoenheits-Streit](pitch_schoenheit.md)."
 
 ## Stage
 

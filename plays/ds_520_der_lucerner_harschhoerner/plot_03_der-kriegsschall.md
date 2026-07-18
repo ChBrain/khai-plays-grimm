@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"Der [Kriegsruf](process_schall.md) durchdringt das Heer im Namen von [Krieger-Ehre](pitch_horn)."
+"Der [Kriegsruf](process_schall.md) durchdringt das Heer im Namen von [Krieger-Ehre](pitch_horn.md)."
 
 ## Stage
 

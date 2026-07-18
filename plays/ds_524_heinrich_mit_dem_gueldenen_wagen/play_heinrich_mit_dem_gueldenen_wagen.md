@@ -65,7 +65,7 @@ Er vollzieht die rasende [Land-Umfahrung](process_fahrt.md) mit wechselnden Gesp
 
 **[Plot: Der Rueckzug](plot_03_der-rueckzug.md)**
 
-[Graf Eticho](persona_eticho.md) wählt den [Rueckzug](process_flucht.md) in den Wald wegen der empfundenen [Lehens-Schande](pitch_schande).
+[Graf Eticho](persona_eticho.md) wählt den [Rueckzug](process_flucht.md) in den Wald wegen der empfundenen [Lehens-Schande](pitch_schande.md).
 
 ## Stakes
 

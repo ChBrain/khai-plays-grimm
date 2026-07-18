@@ -1,4 +1,4 @@
-﻿---
+---
 khai: plot
 title: "The Collapse"
 declared: "Die Verschüttung im Kuttenberg"

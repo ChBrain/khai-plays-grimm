@@ -1,4 +1,4 @@
-﻿---
+---
 khai: piece
 title: "mine lamp"
 declared: "Grubenlicht"

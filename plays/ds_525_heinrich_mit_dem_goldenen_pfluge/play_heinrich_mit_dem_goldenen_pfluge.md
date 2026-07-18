@@ -65,7 +65,7 @@ Er vollzieht die [Pflug-Umfahrung](process_pflug.md) im Galopp um die Bergwähle
 
 **[Plot: Der Tod](plot_03_der-tod.md)**
 
-[Graf Eticho](persona_eticho.md) stirbt in der [Verzweiflung](process_tod) über den erlittenen [Freiheits-Verlust](pitch_verlust).
+[Graf Eticho](persona_eticho.md) stirbt in der [Verzweiflung](process_tod.md) über den erlittenen [Freiheits-Verlust](pitch_verlust.md).
 
 ## Stakes
 

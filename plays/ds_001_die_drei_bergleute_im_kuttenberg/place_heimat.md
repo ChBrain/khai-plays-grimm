@@ -1,4 +1,4 @@
-﻿---
+---
 khai: place
 title: "Home"
 declared: "Heimat"

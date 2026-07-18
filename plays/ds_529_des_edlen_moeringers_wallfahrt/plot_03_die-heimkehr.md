@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"Die [Wunderheimkehr](process_wunder.md) gipfelt in der Ring-Probe mit dem [Ehering](piece_ring.md) im Becher im Zeichen von [Wunder-Heimkehr](pitch_heimkehr)."
+"Die [Wunderheimkehr](process_wunder.md) gipfelt in der Ring-Probe mit dem [Ehering](piece_ring.md) im Becher im Zeichen von [Wunder-Heimkehr](pitch_heimkehr.md)."
 
 ## Stage
 

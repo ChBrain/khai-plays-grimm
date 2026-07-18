@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-"[Koenig Friedrich](persona_friedrich.md) siegt durch Verweigerung im Sinne von [Glaubens-Sieg](pitch_glaube)."
+"[Koenig Friedrich](persona_friedrich.md) siegt durch Verweigerung im Sinne von [Glaubens-Sieg](pitch_glaube.md)."
 
 ## Stage
 

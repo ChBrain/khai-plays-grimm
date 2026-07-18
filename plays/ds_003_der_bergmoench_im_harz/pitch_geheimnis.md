@@ -1,4 +1,4 @@
-﻿---
+---
 khai: pitch
 title: "Mystery"
 declared: "das Geheimnis"

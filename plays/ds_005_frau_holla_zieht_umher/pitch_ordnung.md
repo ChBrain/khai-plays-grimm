@@ -1,4 +1,4 @@
-﻿---
+---
 khai: pitch
 title: "Order"
 declared: "die Ordnung"

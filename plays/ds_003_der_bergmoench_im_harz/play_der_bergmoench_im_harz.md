@@ -1,4 +1,4 @@
-﻿---
+---
 khai: play
 title: "The Mountain Monk in the Harz"
 description: "Two miners are saved from darkness and helped by a giant monk, until their drunken boast makes the magic oil vanish."

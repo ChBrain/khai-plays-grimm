@@ -65,7 +65,7 @@ Er befiehlt die [Tauschung](process_tauschung.md) und wirft den [Mastochse](piec
 
 **[Plot: Der Abzug](plot_03_der-abzug.md)**
 
-Die [Getaeuschte](position_deceived.md) bricht die Zelte ab und flieht im Zeichen von [Hunger-List](pitch_muehe).
+Die [Getaeuschte](position_deceived.md) bricht die Zelte ab und flieht im Zeichen von [Hunger-List](pitch_muehe.md).
 
 ## Stakes
 

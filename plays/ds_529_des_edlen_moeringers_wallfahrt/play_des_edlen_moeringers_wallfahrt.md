@@ -65,7 +65,7 @@ Der schlafende Ritter empfängt die Warnung vor [Ritter Neufen](persona_neufen.m
 
 **[Plot: Die Heimkehr](plot_03_die-heimkehr.md)**
 
-Die [Wunderheimkehr](process_wunder.md) gipfelt in der Ring-Probe mit dem [Ehering](piece_ring.md) im Becher im Zeichen von [Wunder-Heimkehr](pitch_heimkehr).
+Die [Wunderheimkehr](process_wunder.md) gipfelt in der Ring-Probe mit dem [Ehering](piece_ring.md) im Becher im Zeichen von [Wunder-Heimkehr](pitch_heimkehr.md).
 
 ## Stakes
 
