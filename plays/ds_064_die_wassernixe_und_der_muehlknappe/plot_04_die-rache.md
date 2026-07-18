@@ -33,4 +33,4 @@ Bühne für Der Tod des Schützen.
 
 ## Tension
 
-Spannung des Plots.
+Die unerbittliche Rache der Nixe straft den frevelhaften Knappen beim nächsten Bad im Fluss mit dem nassen Tod.

@@ -33,4 +33,4 @@ Bühne für Die einsame Wöchnerin.
 
 ## Tension
 
-Spannung des Plots.
+Die Erschöpfung der jungen Mutter nach der Geburt verlangt nach absoluter Ruhe in der abgedunkelten Kammer.

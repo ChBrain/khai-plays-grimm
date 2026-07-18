@@ -33,4 +33,4 @@ Bühne für Der sterbende Graf.
 
 ## Tension
 
-Spannung des Plots.
+Die drückende Schwere des nahenden Todes des alten Grafen stürzt die Burg in tiefe Trauer.

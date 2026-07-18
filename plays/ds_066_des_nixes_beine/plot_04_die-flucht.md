@@ -33,4 +33,4 @@ Bühne für Die Vertreibung des Wassergeists.
 
 ## Tension
 
-Spannung des Plots.
+Der bittere Fluch des enttarnten Wasserwesens, als er unter dem Spott des Barbiers zurück in den Fluss stürzt.

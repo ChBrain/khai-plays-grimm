@@ -33,4 +33,4 @@ Bühne für Das Erbe von Bassenstein.
 
 ## Tension
 
-Spannung des Plots.
+Der gierige Versuch fremder Verwandter, den Schwestern ihr rechtmäßiges Erbe streitig zu machen.

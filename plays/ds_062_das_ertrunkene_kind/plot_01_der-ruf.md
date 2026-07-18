@@ -33,4 +33,4 @@ Bühne für Das Flehen der Mutter.
 
 ## Tension
 
-Spannung des Plots.
+Die unendliche Trauer der Mutter über den schmerzlichen Verlust ihres ertrunkenen Knaben raubt ihr jeden Schlaf.

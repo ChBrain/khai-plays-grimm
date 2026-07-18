@@ -33,4 +33,4 @@ Bühne für Die Geburt im Nixenreich.
 
 ## Tension
 
-Spannung des Plots.
+Die schwere, von Schmerzen begleitete Geburt der Nixe fordert das gesamte Geschick der menschlichen Wehmutter.

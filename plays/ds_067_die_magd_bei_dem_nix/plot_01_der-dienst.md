@@ -33,4 +33,4 @@ Bühne für Der Dienst unter Wasser.
 
 ## Tension
 
-Spannung des Plots.
+Das drückende Gefühl der Gefangenschaft im feuchten, sonnenlosen Reich des Nixes unter den Wellen.

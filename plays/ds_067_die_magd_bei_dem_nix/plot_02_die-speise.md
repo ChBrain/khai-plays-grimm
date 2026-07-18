@@ -33,4 +33,4 @@ Bühne für Die ungesalzenen Speisen.
 
 ## Tension
 
-Spannung des Plots.
+Der fade Geschmack der salzlosen Unterwasserspeisen weckt im Lauf der Jahre das bittere Heimweh der treuen Magd.

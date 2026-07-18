@@ -33,4 +33,4 @@ Bühne für Die Freigabe der Knochen.
 
 ## Tension
 
-Spannung des Plots.
+Das unnachgiebige Gewässer weigert sich zunächst, die Gebeine des ertrunkenen Kindes zur Bestattung freizugeben.

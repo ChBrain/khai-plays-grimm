@@ -33,4 +33,4 @@ Bühne für Die Erbteilung unter den Töchtern.
 
 ## Tension
 
-Spannung des Plots.
+Die Sorge des Vaters vor künftigen Zwistigkeiten unter seinen drei Töchtern bei der Aufteilung des Landes.

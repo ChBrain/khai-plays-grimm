@@ -33,4 +33,4 @@ Bühne für Der Weg in den Berg.
 
 ## Tension
 
-Spannung des Plots.
+Der unheimliche Pfad durch die Felsspalte tief hinein in den dunklen Schoß des Berges.

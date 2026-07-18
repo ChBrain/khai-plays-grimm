@@ -33,4 +33,4 @@ Bühne für Das Winken zum Abschied.
 
 ## Tension
 
-Spannung des Plots.
+Das unheilvolle Aufwallen von dunklem Blut im Fluss kündigt den Zorn der verborgenen Wassergeister an.

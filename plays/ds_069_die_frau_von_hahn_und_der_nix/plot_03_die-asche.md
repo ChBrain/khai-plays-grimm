@@ -33,4 +33,4 @@ Bühne für Die verweigerte Asche.
 
 ## Tension
 
-Spannung des Plots.
+Die scheinbare Wertlosigkeit der Asche, die der Nix der Frau als Lohn anbietet, enttäuscht ihr Vertrauen.

@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-grimm",
-  "version": "0.948.15",
+  "version": "0.948.16",
   "plays": [
     {
       "kind": "play",
