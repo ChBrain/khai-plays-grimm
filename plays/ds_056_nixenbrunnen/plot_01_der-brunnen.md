@@ -33,4 +33,4 @@ Bühne für Die Erscheinung am See.
 
 ## Tension
 
-Spannung des Plots.
+Die geheimnisvolle Tiefe des uralten Brunnens birgt die Pforten zum feuchten Reich der Nixen.

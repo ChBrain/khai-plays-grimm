@@ -33,4 +33,4 @@ Bühne für Die Flucht vor Mitternacht.
 
 ## Tension
 
-Spannung des Plots.
+Die Panik der Nixen, als die Kirchturmuhr Mitternacht schlägt und sie ohne ihre Handschuhe zum Ufer fliehen müssen.

@@ -33,4 +33,4 @@ Bühne für Der verrufene See.
 
 ## Tension
 
-Spannung des Plots.
+Das plötzliche, unheimliche Aufpeitschen des sonst so stillen Sees behindert die Arbeit der Fischer.

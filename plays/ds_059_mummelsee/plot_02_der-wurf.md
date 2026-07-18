@@ -33,4 +33,4 @@ Bühne für Der Wurf des Fremden.
 
 ## Tension
 
-Spannung des Plots.
+Der frevelhafte Übermut eines Wanderers, der einen schweren Stein mitten in das stille Gewässer wirft.

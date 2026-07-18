@@ -33,4 +33,4 @@ Bühne für Das tobende Gewitter.
 
 ## Tension
 
-Spannung des Plots.
+Das plötzliche, gewaltige Aufheulen eines wütenden Gewitters stürzt das gesamte Tal in Lebensgefahr.

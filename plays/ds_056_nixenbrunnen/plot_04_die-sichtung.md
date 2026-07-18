@@ -33,4 +33,4 @@ Bühne für Die Sichtung an der Mühle.
 
 ## Tension
 
-Spannung des Plots.
+Die Furcht der Menschen, dem Blick des nassen Nixes zu begegnen und dadurch verzaubert zu werden.

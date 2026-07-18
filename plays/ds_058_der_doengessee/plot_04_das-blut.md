@@ -33,4 +33,4 @@ Bühne für Die Rötung des Sees.
 
 ## Tension
 
-Spannung des Plots.
+Das schreckliche Aufwallen von rotem Blut im See zeugt von der grausamen Bestrafung der unpünktlichen Nixen.

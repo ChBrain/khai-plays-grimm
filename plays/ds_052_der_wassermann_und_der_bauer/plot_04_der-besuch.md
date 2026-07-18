@@ -33,4 +33,4 @@ Bühne für Der Besuch des Bauern.
 
 ## Tension
 
-Spannung des Plots.
+Das Grauen des Bauern beim Anblick der umgedrehten Töpfe, unter denen der Wassermann die Seelen der Ertrunkenen gefangen hält.

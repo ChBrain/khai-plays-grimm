@@ -33,4 +33,4 @@ Bühne für Der Wassermann am See.
 
 ## Tension
 
-Spannung des Plots.
+Die uralte Furcht vor den tiefen, tückischen Gewässern des Sees hält die Bauern davon ab, dem Ufer zu nahe zu kommen.

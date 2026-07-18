@@ -33,4 +33,4 @@ Bühne für Das Kämmen der Nixe.
 
 ## Tension
 
-Spannung des Plots.
+Das Kämmen des langen, grünen Haars der Nixe auf dem Elbstein lockt neugierige Schwimmer in die Falle.

@@ -33,4 +33,4 @@ Bühne für Das Schlagen der Pfähle.
 
 ## Tension
 
-Spannung des Plots.
+Das schwere Rammen der hölzernen Pfähle im Flussbett verlangt den Magdeburger Zimmerleuten äußerste Mühe ab.

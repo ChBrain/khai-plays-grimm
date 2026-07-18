@@ -33,4 +33,4 @@ Bühne für Die riskante Wette.
 
 ## Tension
 
-Spannung des Plots.
+Die hochmütige Wette des Bäckersknappen treibt ihn dazu, seine Kräfte leichtsinnig gegen den Fluss zu setzen.
