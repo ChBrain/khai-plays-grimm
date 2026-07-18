@@ -33,4 +33,4 @@ Bühne für Das Haar der Nixe.
 
 ## Tension
 
-Spannung des Plots.
+Das verlockende Kämmen der Nixe auf dem Flussstein erzeugt Neugier und Unruhe unter den Mühlenknappen.

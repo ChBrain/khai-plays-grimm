@@ -33,4 +33,4 @@ Bühne für Der Ruf um Mitternacht.
 
 ## Tension
 
-Spannung des Plots.
+Der nächtliche, ungeduldige Ruf des seltsamen Fremden nach einem Barbier stört die nächtliche Ruhe der Gasse.

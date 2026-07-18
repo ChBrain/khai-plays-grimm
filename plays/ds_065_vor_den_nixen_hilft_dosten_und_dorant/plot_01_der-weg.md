@@ -33,4 +33,4 @@ Bühne für Die Reise unter Wasser.
 
 ## Tension
 
-Spannung des Plots.
+Der beängstigende Abstieg unter die Fluten der Saale in das dunkle, nasse Reich der Nixen.

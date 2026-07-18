@@ -33,4 +33,4 @@ Bühne für Der Blick auf die Gliedmaßen.
 
 ## Tension
 
-Spannung des Plots.
+Die Angst des Barbierers beim plötzlichen Richten des Lichts auf die Beine des Fremden, die sich als behaarte Entenfüße offenbaren.

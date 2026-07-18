@@ -33,4 +33,4 @@ Bühne für Die Bitte um die Kammer.
 
 ## Tension
 
-Spannung des Plots.
+Die überraschende Bitte des Zwergenältesten, den Saal für ein Hochzeitsfest zu nutzen, stört die Ruhe der Wöchnerin.

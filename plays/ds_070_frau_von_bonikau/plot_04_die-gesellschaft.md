@@ -33,4 +33,4 @@ Bühne für Das Fest der Erdmännchen.
 
 ## Tension
 
-Spannung des Plots.
+Die Furcht der Wöchnerin vor einer bösen Verwünschung der Zwerge zwingt sie, gute Miene zum seltsamen Spiel zu machen.

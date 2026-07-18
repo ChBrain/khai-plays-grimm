@@ -33,4 +33,4 @@ Bühne für Die geschlitzten Ohren.
 
 ## Tension
 
-Spannung des Plots.
+Das listige Verbergen der wahren, furchterregenden Gestalt des Nixes hinter dem scheinbar friedlichen Schilf.

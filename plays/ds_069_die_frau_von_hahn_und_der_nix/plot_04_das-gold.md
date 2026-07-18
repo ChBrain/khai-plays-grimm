@@ -33,4 +33,4 @@ Bühne für Die drei Goldstücke.
 
 ## Tension
 
-Spannung des Plots.
+Das wundersame Verwandeln der abgelehnten Asche in pures Gold beschämt die anfängliche Skepsis der Frau.

@@ -33,4 +33,4 @@ Bühne für Die tückische Streu.
 
 ## Tension
 
-Spannung des Plots.
+Die unheimliche Stille über dem trüben Wasser der Streu schreckt vorsichtige Wanderer von einer Überquerung ab.

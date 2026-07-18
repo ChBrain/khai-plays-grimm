@@ -33,4 +33,4 @@ Bühne für Das Zögern der Hebamme.
 
 ## Tension
 
-Spannung des Plots.
+Das wachsende Misstrauen des Barbiers über das seltsame Benehmen und den feuchten Mantel des nächtlichen Gastes.

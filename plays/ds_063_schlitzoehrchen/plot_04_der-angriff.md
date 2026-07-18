@@ -33,4 +33,4 @@ Bühne für Der Angriff auf den Wanderer.
 
 ## Tension
 
-Spannung des Plots.
+Der plötzliche, brutale Angriff des Nixes, der das Opfer jäh an den Beinen packt und in die Tiefe reißen will.

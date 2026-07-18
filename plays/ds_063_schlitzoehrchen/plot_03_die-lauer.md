@@ -33,4 +33,4 @@ Bühne für Das Lauern im Fluss.
 
 ## Tension
 
-Spannung des Plots.
+Das geduldige Lauern des Schlitzöhrchens im seichten Wasser prüft die Wachsamkeit des herannahenden Wanderers.

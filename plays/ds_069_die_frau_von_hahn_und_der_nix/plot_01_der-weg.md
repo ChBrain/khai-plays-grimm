@@ -33,4 +33,4 @@ Bühne für Der Weg unter den Fluss.
 
 ## Tension
 
-Spannung des Plots.
+Die lähmende Angst der Edelfrau beim Durchschreiten der eisigen Flussfluten ohne nass zu werden.

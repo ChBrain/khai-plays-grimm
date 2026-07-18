@@ -33,4 +33,4 @@ Bühne für Der schwere Kirchweg.
 
 ## Tension
 
-Spannung des Plots.
+Der weite, mühsame Weg mit den gesammelten Gebeinen zur fernen Kirche unter der Last des Zweifels.
