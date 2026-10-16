@@ -1,5 +1,26 @@
 # @chbrain/khai-plays-grimm
 
+## 0.948.17
+
+### Patch Changes
+
+- 996d681: backfill Tension fields for DS 002 through DS 011 (10 plays) with distinct, source-grounded blocking obstacles
+- 29c78a3: backfill Tension fields for DS 012 through DS 021 (10 plays) with distinct, source-grounded blocking obstacles
+- 850a641: backfill Tension fields for DS 022 through DS 031 (10 plays) with distinct, source-grounded blocking obstacles
+- d5f5269: backfill Tension fields for DS 032 through DS 041 (10 plays) with distinct, source-grounded blocking obstacles
+- 10391dd: backfill Tension fields for DS 042 through DS 051 (10 plays) with distinct, source-grounded blocking obstacles
+- 39cffe1: backfill Tension fields for DS 052 through DS 061 (10 plays) with distinct, source-grounded blocking obstacles
+- 4ceae3a: backfill Tension fields for DS 062 through DS 071 (10 plays) with distinct, source-grounded blocking obstacles
+- 8eae801: repair 73 broken intra-play links: restore the missing `.md` extension on 72 prose element references across 31 Deutsche Sagen plays (DS 375-531), and point the Juniper Tree (KHM 47) reference warrant at the two real sibling personas instead of a non-existent persona_siblings.md
+- 48aeace: honor the stated blood-libel restrictions in DS 353 and DS 354: the killer personas are encoded solely by structural function, with no ethnic or religious identity staged
+- 77ef759: author missing REFERENCES.md files for KHM 1-59, fix en/em dashes in references, and reconcile DS 353/354 numbering
+- 8eae801: author REFERENCES.md reference warrants for the remaining source collections (Irische Elfenmaerchen, Reinhart Fuchs, Ferdinand Grimm, Lieder der alten Edda, Altdaenische Heldenlieder, Deutsche Heldensage, Silva de romances viejos, Der arme Heinrich, Ueber deutsche Runen, Goettinger Sieben), each grounded in its own source lineage
+- 8eae801: author REFERENCES.md reference warrants for the 37 Deutsche Mythologie (DM) plays, each grounded in Jacob Grimm's Deutsche Mythologie chapter and the Stallybrass translation, mapping every element file in the Encoding
+- 8eae801: author REFERENCES.md reference warrants for the 581 Deutsche Sagen (DS) plays, each grounded in the Brothers Grimm's Deutsche Sagen (1816-1818) with the legend number, mapping every element file in the Encoding
+- 8eae801: author REFERENCES.md reference warrants for three plays as a cross-family template (DS 522 Welfen und Giblinger, IE 009 Die Flasche, DM 002 God), extending the per-play LORE warrant convention from the KHM family to Deutsche Sagen, Irische Elfenmaerchen, and Deutsche Mythologie
+- 8eae801: restructure 33 KHM first-edition variant (KHM *a/*b/*c) reference warrants from the legacy Source/License format into the LORE chapter set (Line of Work / Origin / Restrictions / Encoding), preserving each tale's authored source detail (German anchor line, Wikisource link, edition, contributor) and any sensitive-content Restrictions framing verbatim. With this, all 948 plays carry a LORE-conformant reference warrant.
+- 8eae801: strip a leading UTF-8 BOM from 35 instance files across DS 001-006. The BOM pushed the frontmatter off byte 0, so the conformance validator (which detects instances by a leading `---`) silently skipped every one -- these plays shipped entirely unvalidated. With the BOM gone they are seen and pass clean.
+
 ## 0.606.1
 
 ### Patch Changes
